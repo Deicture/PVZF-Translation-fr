@@ -4055,7 +4055,7 @@
       "seedType": 944,
       "name": "Electroseta",
       "introduce": "<size=39><color=#3D1400>Electroseta domina el hierro con truenos explosivos. Otorga a su pueblo magnetismo eterno y construye un reino de electricidad. Sin embargo, más allá de sus conquistas militares y logros políticos, aún sufre dolores de cabeza en la búsqueda de una reina con una polaridad opuesta.</color></size>",
-      "info": "<size=39>Parte del <color=#104f30>Sistema Lúmina</color> y el <color=#8B0000>Sistema Magnético</color> (categoría <color=red>Sin Efecto</color>)\nExtremadamente magnético, absorbe rápidamente objetos metálicos y los convierte en cerezas explosivas.\n\n<color=#3D1400>Especial:</color> <color=red>\n- Hereda los rasgos de Luminimán; Recarga de absorción de objetos: 0.5s\n- Puede atraer los pogos de Pogozombis Bromistas y convertirlos en Cajitas Sorpresa. También hace lo mismo con los Drones Kírov, matándolos instantáneamente.\n- Hace 300 de daño cada 0.5s a un Vegezombi Pescador o un Vegezombi Al-Ta-Stelar en su rango.\n- Lanza los metales absorbidos después de 3s, haciendo el mismo daño en área que cerezas explosivas.\n\n<color=purple>Mejoras de Odisea:</color>\n</color>- Rango de Ataque x2</color>\n- Daño a Vegezombis Pescadores/Vegezombis Al-Ta-Stelares x3</color>\n\n<color=#3D1400>Fórmula de Fusión: </color><color=red>Luminimán + Magnetoseta Carmesí</color>\n<color=#3D1400>Nombre Científico: </color><color=red>Magneto-cyber electris</color></size>",
+      "info": "<size=39>Parte del <color=#104f30>Sistema Lúmina</color> y el <color=#8B0000>Sistema Magnético</color> (categoría <color=red>Sin Efecto</color>)\nExtremadamente magnético, absorbe rápidamente objetos metálicos y los convierte en cerezas explosivas.\n\n<color=#3D1400>Especial:</color> <color=red>\n- Hereda los rasgos de Luminimán; Recarga de absorción de objetos: 0.5s\n- Puede atraer los pogos de Pogozombis Bromistas y convertirlos en Cajitas Sorpresa. También hace lo mismo con los Drones Kírov, matándolos instantáneamente.\n- Hace 300 de daño cada 0.5s a un Vegezombi Pescador o un Vegezombi Al-Ta-Stelar en su rango.\n- Lanza los metales absorbidos después de 3s, haciendo el mismo daño en área que cerezas explosivas.\n\n<color=purple>Mejoras de Odisea:</color>\n</color>- Rango de Ataque x2</color>\n- Daño a Vegezombis Pescadores/Vegezombis Al-Ta-Stelares x3, puede agarrar el triple de objetos</color>\n\n<color=#3D1400>Fórmula de Fusión: </color><color=red>Luminimán + Magnetoseta Carmesí</color>\n<color=#3D1400>Nombre Científico: </color><color=red>Magneto-cyber electris</color></size>",
       "cost": "<size=33>Costo: <color=red>375, 525</color>   Recarga: <color=red>80 Segundos</color>\nPlantas Requeridas: <color=red>4\n<color=purple>Condición de Uso: Modo Odisea</color></size>"
     },
     {
@@ -4106,6 +4106,198 @@
       "introduce": "<size=39><color=#3D1400>La Lumiñívora Titán no estaba segura de cómo terminó en tierra firme después de una travesía por las profundidades del mar, pero se ha acomodado perfectamente.  \u0022¿Para qué volver a las oscuras y escasas profundidades si siempre hay zombis en el menú?\u0022, gruñó. La leyenda dice que su apetito es tan grande que los concursos gourmet ya no pudieron pagar la factura de la electricidad... supongo que ahora ella es su nueva fuente de energía.</color></size>",
       "info": "<size=39>Parte del <color=#104f30>Sistema Lúmina</color>\nUna Carroñívora gigante que atrae zombis con luz; una maestra en atraer, devorar y digerir.\n<color=#104f30>Sistema Lúmina:</color></color>\n-Mientras más Niveles Lúmina tenga, el tiempo de masticación se reduce por 10s hasta un mínimo de 5s</color>\n\n<color=#3D1400>Dureza: </color><color=red>8000</color>\n<color=#3D1400>Daño: </color><color=red>Muerte Instantánea</color>\n<color=#3D1400>Rango: </color><color=red>1.5 casillas al frente</color>\n<color=#3D1400>Tiempo De Masticado: </color><color=red>5 + (Suma Total de la Durabilidad de los Zombis)^0.33s (-10s * Nivel Lúmina)</color>\n<color=#3D1400>Especial:</color> <color=red>Inmune a ser aplastado. Puede comer todos los zombis (excluyendo zombis líderes) en un rango de 1.5 casillas en frente suyo. Ocupando un paquete de semillas de Planta Carroñívora en ella reducirá su tiempo de masticación por 10s. Al digerir, atrae zombis cercanos de sus filas adyacentes y recupera PS iguales a 1*Durabilidad.\n\n<color=purple>Mejoras de Odisea:</color>\n</color>- Rango de Ataque x2</color>\n- Otorga 2 Niveles Lúmina en un área de 5×5 mientras digiere.</color>\n\n<color=#3D1400>Fórmula de Fusión: </color><color=red>Carroñívora Titán + Planta Lumiñívora</color>\n<color=#3D1400>Nombre Científico: </color><color=red>Floralux voratrix</color></size>",
       "cost": "<size=33>Costo: <color=red>25</color>   Recarga: <color=red>75 Segundos</color>\nPlantas Requeridas: <color=red>6\n<color=purple>Condición de Uso: Modo Odisea</color></size>"
+    },
+    {
+      "seedType": 952,
+      "name": "952"
+    },
+    {
+      "seedType": 953,
+      "name": "953"
+    },
+    {
+      "seedType": 954,
+      "name": "954"
+    },
+    {
+      "seedType": 955,
+      "name": "955"
+    },
+    {
+      "seedType": 956,
+      "name": "956"
+    },
+    {
+      "seedType": 957,
+      "name": "957"
+    },
+    {
+      "seedType": 958,
+      "name": "958"
+    },
+    {
+      "seedType": 959,
+      "name": "959"
+    },
+    {
+      "seedType": 960,
+      "name": "960"
+    },
+    {
+      "seedType": 961,
+      "name": "961"
+    },
+    {
+      "seedType": 962,
+      "name": "962"
+    },
+    {
+      "seedType": 963,
+      "name": "963"
+    },
+    {
+      "seedType": 964,
+      "name": "964"
+    },
+    {
+      "seedType": 965,
+      "name": "965"
+    },
+    {
+      "seedType": 966,
+      "name": "966"
+    },
+    {
+      "seedType": 967,
+      "name": "967"
+    },
+    {
+      "seedType": 968,
+      "name": "968"
+    },
+    {
+      "seedType": 969,
+      "name": "969"
+    },
+    {
+      "seedType": 970,
+      "name": "970"
+    },
+    {
+      "seedType": 971,
+      "name": "971"
+    },
+    {
+      "seedType": 972,
+      "name": "972"
+    },
+    {
+      "seedType": 973,
+      "name": "973"
+    },
+    {
+      "seedType": 974,
+      "name": "974"
+    },
+    {
+      "seedType": 975,
+      "name": "975"
+    },
+    {
+      "seedType": 976,
+      "name": "976"
+    },
+    {
+      "seedType": 977,
+      "name": "977"
+    },
+    {
+      "seedType": 978,
+      "name": "978"
+    },
+    {
+      "seedType": 979,
+      "name": "979"
+    },
+    {
+      "seedType": 980,
+      "name": "980"
+    },
+    {
+      "seedType": 981,
+      "name": "981"
+    },
+    {
+      "seedType": 982,
+      "name": "982"
+    },
+    {
+      "seedType": 983,
+      "name": "983"
+    },
+    {
+      "seedType": 984,
+      "name": "984"
+    },
+    {
+      "seedType": 985,
+      "name": "985"
+    },
+    {
+      "seedType": 986,
+      "name": "986"
+    },
+    {
+      "seedType": 987,
+      "name": "987"
+    },
+    {
+      "seedType": 988,
+      "name": "988"
+    },
+    {
+      "seedType": 989,
+      "name": "989"
+    },
+    {
+      "seedType": 990,
+      "name": "990"
+    },
+    {
+      "seedType": 991,
+      "name": "991"
+    },
+    {
+      "seedType": 992,
+      "name": "992"
+    },
+    {
+      "seedType": 993,
+      "name": "993"
+    },
+    {
+      "seedType": 994,
+      "name": "994"
+    },
+    {
+      "seedType": 995,
+      "name": "995"
+    },
+    {
+      "seedType": 996,
+      "name": "996"
+    },
+    {
+      "seedType": 997,
+      "name": "997"
+    },
+    {
+      "seedType": 998,
+      "name": "998"
+    },
+    {
+      "seedType": 999,
+      "name": "999"
     },
     {
       "seedType": 1000,

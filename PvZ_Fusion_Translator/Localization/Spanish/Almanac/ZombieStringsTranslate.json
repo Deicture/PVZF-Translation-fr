@@ -3,7 +3,7 @@
     {
       "theZombieType": 0,
       "name": "Zombi</size>",
-      "introduce": "<size=39><color=#3D1400>Zombie odia que su nombre lo haga parecer un simple, bueno, zombie. No se considera un enemigo sin nombre o solo otro cadáver común. ¡Es un individuo, maldita sea! Y va a hacer algo extraordinario, aunque te mate en el proceso.</color></size>",
+      "introduce": "<size=39><color=#3D1400>Zombi odia que su nombre lo haga parecer un simple, bueno, zombi. No se considera un enemigo sin nombre o solo otro cadáver común. ¡Es un individuo, maldita sea! Y va a hacer algo extraordinario, aunque te mate en el proceso.</color></size>",
       "info": "<size=39>Zombie común y corriente de jardín.\n\n<color=#3D1400>Dureza: </color><color=#4B0082>270</color></size>"
     },
     {
@@ -608,7 +608,7 @@
       "theZombieType": 224,
       "name": "Payasa Zorpresa",
       "introduce": "<size=39><color=#3D1400>La Payasa Zorpresa disfruta haciendo que cada jardín sea el escenario de una gran broma... con efectos secundarios explosivos.</color>",
-      "info": "<size=39>Reina de todos los payasos. Talvez sea mejor que la mates antes de que llegue a tus plantas.\n\n<color=#3D1400>Dureza:</color> <color=#4B0082>48000</color>\n<color=#3D1400>Ocupación:</color> <color=#4B0082>Trabaja como actor de payaso para las fiestas de cumpleaños. No consigue dinero porque usualmente explota a todos en el lugar. </color>\n<color=#3D1400>Características:</color> <color=#4B0082>Recupera 3000 puntos de vida cada vez que sea afectada por otra explosión de cajita. Sale de su caja cada cierto tiempo, saltando lentamente hacia tus plantas, y después, explota la columna donde ella está.</color></size>"
+      "info": "<size=39>Reina de todos los payasos. Talvez sea mejor que la mates antes de que llegue a tus plantas.\n\n<color=#3D1400>Dureza:</color> <color=#4B0082>48000</color>\n<color=#3D1400>Ocupación:</color> <color=#4B0082>Trabaja como actor de payaso para las fiestas de cumpleaños. No consigue dinero porque usualmente explota a todos en el lugar. </color>\n<color=#3D1400>Características:</color> <color=#4B0082>Sale de su caja cada cierto tiempo, saltando lentamente hacia tus plantas, y después, explota la columna donde ella está. También hace aparecer un MONTÓN de Zombis Payasos al hacer esto.</color></size>"
     },
     {
       "theZombieType": 225,
