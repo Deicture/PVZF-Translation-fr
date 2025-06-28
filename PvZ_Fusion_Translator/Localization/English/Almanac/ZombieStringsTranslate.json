@@ -429,7 +429,7 @@
         {
             "theZombieType": 115,
             "name": "Squash Zombie",
-            "introduce": "<align=justified><size=36><color=black>\"Hmm? Hmm!\" That’s all the warning you get before the Squash Zombies charge forward, flattening everything in their path. Other zombies admire their dedication, mistaking it for selfless bravery. In truth, they’re just die-hard fans of Neko Squash—and after watching her crush the Endoflame, they couldn’t resist copying their idol.</color>",
+            "introduce": "<align=justified><size=36><color=black>\"Hmm? Hmm!\" That’s all the warning you get before the Squash Zombies charge forward, flattening everything in their path. Other zombies admire their dedication, mistaking it for selfless bravery. In truth, they’re just die-hard fans of Nyan Squash—and after watching her crush the Endoflame, they couldn’t resist copying their idol.</color>",
             "info": "<size=36>Crushes the first plant nearby and dies.\n\n<color=black>Toughness: </color><color=#4B0082>500</color>\n<color=black>Traits: </color><color=#4B0082>Crushes the first plants it encounters. Converts to a Spicy Squash Zombie when affected by the explosion of a Jalapeno Zombie.</color>"
         },
         {
@@ -628,7 +628,7 @@
             "theZombieType": 227,
             "name": "Frost Tall-nut Sentinel Zombie",
             "introduce": "<align=justified><size=36><color=black>Clad in armor forged from solid ice, wielding a blade tempered by fire and frost, Frost Tall-nut Sentinel Zombie returns to the lawn stronger and sharper than ever—only to smash through… zombies ahead of him?</color>",
-            "info": "<size=36>Frost Tall-nut Zombies with icy claws. They pack a punch.\n\n<color=black>Toughness: </color><color=#4B0082>720 + 2200 (Type 1)</color>\n<color=black>Traits: </color><color=#4B0082>Inherits traits from Frost Tall-nut Zombie. Transformed from regular zombies by Doominator-shroom and Thornminator.</color>"
+            "info": "<size=36>Frost Tall-nut Zombies with icy claws. They pack a punch.\n\n<color=black>Toughness: </color><color=#4B0082>720 + 2200 (Type 1)</color>\n<color=black>Traits: </color><color=#4B0082>Inherits traits from Frost Tall-nut Zombie. Transformed from regular zombies by Doominator and Thornminator.</color>"
         },
         {
             "theZombieType": 228,

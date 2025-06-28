@@ -359,9 +359,9 @@
         },
         {
             "seedType": 248,
-            "name": "Neko Squash",
-            "introduce": "<align=justified><size=36><color=black>\"The grace of a cat and the clumsiness of a squash make a unique kind of beauty,\" Neko Squashmurmurs.\"Once I master both, I'll stir things up on this lawn. She adjusts her hat and locks eyes on an unsuspecting zombie nearby.\"</color>",
-            "info": "<size=36>Super Nyanko, Neko Squash!\n\n<color=#4A2900>Unlock Conditions: Beat Squash Showdown</color>\n<color=black>Damage: </color><color=#8B0000>1800</color>\n<color=black>Special: </color><color=#8B0000>Drops itself if it doesn't hit anything. For each zombie crushed, a Squash seed packet is dropped, up to a maximum of 3. Crushing 3 or more zombies will drop an additional Spicy Squash seed packet. This does not trigger in water lanes.</color>",
+            "name": "Nyan Squash",
+            "introduce": "<align=justified><size=36><color=black>\"The grace of a cat and the clumsiness of a squash make a unique kind of beauty,\" Nyan Squashmurmurs.\"Once I master both, I'll stir things up on this lawn. She adjusts her hat and locks eyes on an unsuspecting zombie nearby.\"</color>",
+            "info": "<size=36>Super Neko, Nyan Squash!\n\n<color=#4A2900>Unlock Conditions: Beat Squash Showdown</color>\n<color=black>Damage: </color><color=#8B0000>1800</color>\n<color=black>Special: </color><color=#8B0000>Drops itself if it doesn't hit anything. For each zombie crushed, a Squash seed packet is dropped, up to a maximum of 3. Crushing 3 or more zombies will drop an additional Spicy Squash seed packet. This does not trigger in water lanes.</color>",
             "cost": "<size=36>Cost: <color=#8B0000>125</color>\nRecharge: <color=#8B0000>30s</color>"
         },
         {
@@ -380,7 +380,7 @@
         },
         {
             "seedType": 251,
-            "name": "Solar Giant-nut",
+            "name": "Giant Solar-nut",
             "introduce": "<align=justified><size=36><color=black>Twin Solar-nut asked me to do him a favor for 500 Sun, so I came. How difficult can it be? It can't be rushing into a pile of zombies... right...? It's not, right!?</color></size>",
             "info": "<size=36>Crushes zombies by rolling on them like a bowling ball.\n\n<color=black>Damage: </color><color=#8B0000>600/0.02s</color></size>",
             "cost": "<size=36>Spawned when Twin Solar-nut is clicked when there's sufficient Sun."
@@ -408,9 +408,9 @@
         },
         {
             "seedType": 255,
-            "name": "Giant-nut",
-            "introduce": "<align=justified><size=36><color=black>\"I am invincible on the battlefield, and my partners can't take their eyes off my majestic figure!\" the Giant-nut boasted. \"One year after getting kicked out of the Wall-nut Tumbler Club, I finally found a job that truly suits me.\"</color></size>",
-            "info": "<size=36>Giant-nut rolls forward, knocking down all zombies in its path.\n\n<color=black>Damage: </color><color=#8B0000>600/0.02s</color>\n<color=black>Special: </color><color=#8B0000>Rolls down the lane, killing all the zombies on its path.</color></size>",
+            "name": "Giant Wall-nut",
+            "introduce": "<align=justified><size=36><color=black>\"I am invincible on the battlefield, and my partners can't take their eyes off my majestic figure!\" the Giant Wall-nut boasted. \"One year after getting kicked out of the Wall-nut Tumbler Club, I finally found a job that truly suits me.\"</color></size>",
+            "info": "<size=36>Giant Wall-nut rolls forward, knocking down all zombies in its path.\n\n<color=black>Damage: </color><color=#8B0000>600/0.02s</color>\n<color=black>Special: </color><color=#8B0000>Rolls down the lane, killing all the zombies on its path.</color></size>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Wall-nut + Wall-nut</color>"
         },
         {
@@ -457,24 +457,24 @@
         },
         {
             "seedType": 904,
-            "name": "Doominator-shroom",
-            "introduce": "<align=justified><size=36><color=black>Would Death employ a fashionista? Doominator-shroom had no idea, but after noticing that he couldn't consistently frighten zombies, he turned to Hypno-shroom for some costume suggestions. Although people might not favor Death, how would they react if he wore sparkling ice wings?</color></size>",
-            "info": "<size=36>Doominator-shroom deals immense damage, simultaneously hypnotizing and slowing down zombies.\n\n<color=#4A2900>Usage Condition: Odyssey Mode | Unlockable</color>\n<color=black>Damage: </color><color=#8B0000>100/0.5s</color>\n<color=#0077b6>Cryo System: </color><color=#8B0000>Each hit adds 20 Cryo points.</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Has a chance to turn zombies with Toughness < 40% into hypnotized Frost Tall-nut Sentinels.\n<color=black>•</color> Creates an explosion in the grid where the hypnotized zombie is located, dealing 450 damage.</color>\n<color=black>Odyssey Modifiers:\n</color><color=#8B0000>1. Doominator-shroom attack speed ×3; Thornminator attack damage ×3\n2. Zombies take a 30% max HP damage every time they become defrozen</color></size>",
+            "name": "Doominator",
+            "introduce": "<align=justified><size=36><color=black>Would Death employ a fashionista? Doominator had no idea, but after noticing that he couldn't consistently frighten zombies, he turned to Hypno-shroom for some costume suggestions. Although people might not favor Death, how would they react if he wore sparkling ice wings?</color></size>",
+            "info": "<size=36>Doominator deals immense damage, simultaneously hypnotizing and slowing down zombies.\n\n<color=#4A2900>Usage Condition: Odyssey Mode | Unlockable</color>\n<color=black>Damage: </color><color=#8B0000>100/0.5s</color>\n<color=#0077b6>Cryo System: </color><color=#8B0000>Each hit adds 20 Cryo points.</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Has a chance to turn zombies with Toughness < 40% into hypnotized Frost Tall-nut Sentinels.\n<color=black>•</color> Creates an explosion in the grid where the hypnotized zombie is located, dealing 450 damage.</color>\n<color=black>Odyssey Modifiers:\n</color><color=#8B0000>1. Doominator attack speed ×3; Thornminator attack damage ×3\n2. Zombies take a 30% max HP damage every time they become defrozen</color></size>",
             "cost": "<size=36>Fusion Formula: <color=#8B0000>Doomspike-shroom + Frostveil-shroom</color>"
         },
         {
             "seedType": 905,
             "name": "Twin Solar-nut",
             "introduce": "<align=justified><size=36><color=black>Twin Solar-nut, a photosynthesis master, revolutionized light energy-mass conversion, minimizing energy loss through recycling. He humbly credits the pioneers: \"I'm just standing on the shoulders of giants.\"</color></size>",
-            "info": "<size=36>Twin Solar-nut produces Sun every time it is injured.\n\n<color=#4A2900>Usage Condition: Odyssey Mode | Initial Selection</color>\n<color=black>Toughness: </color><color=#8B0000>4000</color>\n<color=black>Special: </color><color=#8B0000>Tapping on it:\n- Spends 500 Sun.\n- Restores his Toughness to full.\n- Summons a Solar Giant-nut 1 tile ahead.\n- Improves an existing Solar Giant-nut by enlarging its size and damage (higher base damage yields less bonus, down to 60%).\n- After not tapping for 1s, the existing Solar Giant-nut will roll forward, crushing zombies. Damage per 0.02s is 600/1200/1644 for 1/2/3 taps respectively.</color>\n<color=black>Odyssey Modifiers:\n</color><color=#8B0000>1. The cost of manual taps is reduced to 200 Sun\n2. Toughness reduced per hit → 10</color></size>",
+            "info": "<size=36>Twin Solar-nut produces Sun every time it is injured.\n\n<color=#4A2900>Usage Condition: Odyssey Mode | Initial Selection</color>\n<color=black>Toughness: </color><color=#8B0000>4000</color>\n<color=black>Special: </color><color=#8B0000>Tapping on it:\n- Spends 500 Sun.\n- Restores his Toughness to full.\n- Summons a Giant Solar-nut 1 tile ahead.\n- Improves an existing Giant Solar-nut by enlarging its size and damage (higher base damage yields less bonus, down to 60%).\n- After not tapping for 1s, the existing Giant Solar-nut will roll forward, crushing zombies. Damage per 0.02s is 600/1200/1644 for 1/2/3 taps respectively.</color>\n<color=black>Odyssey Modifiers:\n</color><color=#8B0000>1. The cost of manual taps is reduced to 200 Sun\n2. Toughness reduced per hit → 10</color></size>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Solar-nut + Wall-nut</color>"
         },
         {
             "seedType": 906,
-            "name": "Spikesidian",
-            "introduce": "<align=justified><size=36><color=black>After being baptized by fire and ice, Spikesidian became as hard as steel, but its temperament also became erratic. This change is likely due to the steel that condensed in its mouth, making it reluctant to speak.</color></size>",
-            "info": "<size=36>Spikesidian can deal immense damage while also tanking multiple tires.\n\n<color=#4A2900>Usage Condition: Odyssey Mode | Initial Selection</color>\n<color=black>Toughness: </color><color=#8B0000>8000</color>\n<color=black>Damage: </color><color=#8B0000>300×2/1s</color>\n<color=black>Special: </color><color=#8B0000>Possesses the characteristics of Spikerock. Recovers 500 Toughness every 15 seconds.</color>\n<color=black>Odyssey Modifiers:\n</color><color=#8B0000>1. Damage ×5 | Obsidian Spike-nut Subspecies Unlocked\n2. Gains a 95% Damage Reduction</color></size>",
-            "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Spikecicle + Spikinferno</color>"
+            "name": "Spike-obsidian",
+            "introduce": "<align=justified><size=36><color=black>After being baptized by fire and ice, Spike-obsidian became as hard as steel, but its temperament also became erratic. This change is likely due to the steel that condensed in its mouth, making it reluctant to speak.</color></size>",
+            "info": "<size=36>Spike-obsidian can deal immense damage while also tanking multiple tires.\n\n<color=#4A2900>Usage Condition: Odyssey Mode | Initial Selection</color>\n<color=black>Toughness: </color><color=#8B0000>8000</color>\n<color=black>Damage: </color><color=#8B0000>300×2/1s</color>\n<color=black>Special: </color><color=#8B0000>Possesses the characteristics of Spikerock. Recovers 500 Toughness every 15 seconds.</color>\n<color=black>Odyssey Modifiers:\n</color><color=#8B0000>1. Damage ×5 | Obsidian Spike-nut Subspecies Unlocked\n2. Gains a 95% Damage Reduction</color></size>",
+            "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Spike-ice + Spike-hearth</color>"
         },
         {
             "seedType": 907,
@@ -502,7 +502,7 @@
             "name": "Oblivion-shroom",
             "introduce": "<align=justified><size=36><color=black>\"Nuclear deterrence is beneficial. Someday, the zombies will stop their assaults out of fear of my formidable self-detonation,\" Oblivion-shroom asserted with confidence. Yet, it was evident that Oblivion-shroom failed to understand that zombies wouldn't initiate a Cold War just because they were hit with cold air.</color></size>",
             "info": "<size=36>Sprays deadly fumes all around, bringing ultimate destruction. Beware!\n\n<color=#4A2900>Usage Condition: Odyssey Mode | Unlockable</color>\n<color=black>Damage: </color><color=#8B0000>(100+100×8)×4/1.9s</color>\n<color=black>Damage Range: </color><color=#8B0000>5×5</color>\n<color=black>Detection Range: </color><color=#8B0000>5×3</color>\n<color=#0077b6>Cryo System: </color><color=#8B0000>Each attack adds 5 Cryo points.</color>\n<color=black>Special: </color><color=#8B0000>Sprays spores, which then explode (both deal penetrating damage). An explosion occurs upon death, dealing 1800 cremator damage and freezing all zombies on the screen.</color>\n<color=black>Odyssey Modifiers:\n</color><color=#8B0000>1. Oblivion-shroom damage on death → 1M, Atomheart Plantern Lumos addition on death ×3\n2. Now absorbs explosion damage. When 10k damage is absorbed, a Doom-shroom explosion is released</color></size>",
-            "cost": "<size=36>Fusion Formula: <color=#8B0000>Doomspike-shroom + Snowgloom-shroom</color>"
+            "cost": "<size=36>Fusion Formula: <color=#8B0000>Doomspike-shroom + Frost Gloom-shroom</color>"
         },
         {
             "seedType": 911,
@@ -534,8 +534,8 @@
         },
         {
             "seedType": 915,
-            "name": "Cob-livion Cannon",
-            "introduce": "<align=justified><size=36><color=black>Clad in icy armor and dark as a warning, each shot from Cob-livion Cannon brings destruction. Zombies hit by it need not prepare—nothing will remain after the flash.</color>",
+            "name": "Cob-literation",
+            "introduce": "<align=justified><size=36><color=black>Clad in icy armor and dark as a warning, each shot from Cob-literation brings destruction. Zombies hit by it need not prepare—nothing will remain after the flash.</color>",
             "info": "<size=36>Possesses earth-shattering power.\n\n<color=#4A2900>Usage Condition: Odyssey Mode | Unlockable</color>\n<color=black>Damage: </color><color=#8B0000>\n<color=black>•</color> Main Blast - 1800 in a 3×3 area. \n<color=black>•</color> Additional 1800 + 30% of Zombies' maximum Toughness across the entire screen.\n<color=black>•</color> Side Gun: 360×2/1.5s</color>\n<color=black>Arming Time: </color><color=#8B0000>36s</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Infuses all plants within the main blast area with Ice-shroom (prioritized)/Doom-shroom. \n<color=black>•</color> Side cannon inflicts Chill and adds 10 Cryo points.</color>\n<color=black>Odyssey Modifiers:\n<color=#8B0000>1. Main Blast damage ×4\n2. Reload Time → 12s</color>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Cryo Cannon + Cryodoom-shroom</color>"
         },
@@ -614,12 +614,12 @@
             "name": "Magicat Nettle",
             "introduce": "<align=justified><size=36><color=black>\"I think it's better to use animal hair to keep myself above water than relying on, for example, a swim ring!\" Magicat Nettle stands by her belief. Hmm... If you think this is due to her poor academic skills and inability to stay afloat on the river, you're right. How could a cat possibly swim! Though she refuses to be categorized randomly.</color>",
             "info": "<size=36>Summons drones to attack every time she defeats a zombie.\n\n<color=#4A2900>Usage Condition: Odyssey Mode | Initial Selection</color>\n<color=black>Damage: </color><color=#8B0000>160×2/1.5s</color>\n<color=black>Special: </color><color=#8B0000>Summons a drone every time a zombie killed. The drone fires 30 nettle spikes that deal 100 damage each.</color>\n<color=black>Odyssey Modifiers:\n<color=#8B0000>1. Basic Attack Damage ×5.\n2. Drone Attack Damage ×3.</color><size=36>",
-            "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Cattail + Neko Squash"
+            "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Cattail + Nyan Squash"
         },
         {
             "seedType": 927,
-            "name": "Titan Apeacalypse Minigun",
-            "introduce": "<align=justified><size=36><color=black>Titan Apeacalypse Minigun rarely interacts with people. It's not due to arrogance, but because people keep asking whether the fire on his body is hot or cold, and whether he can create hot ice or cold fire. These questions bore him.</color>",
+            "name": "Apeacalypse Minigun",
+            "introduce": "<align=justified><size=36><color=black>Apeacalypse Minigun rarely interacts with people. It's not due to arrogance, but because people keep asking whether the fire on his body is hot or cold, and whether he can create hot ice or cold fire. These questions bore him.</color>",
             "info": "<size=36>Becomes stronger the more Toughness it loses.\n\n<color=#4A2900>Usage Condition: Odyssey Mode | Unlockable</color>\n<color=black>Damage: </color><color=#8B0000>120×3/0.5s</color>\n<color=black>Toughness: </color><color=#8B0000>8000</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Each shot fired inflict 50 self-damage until Toughness is reduced to 1500. \n<color=black>•</color> Shots knockback zombies and pierce twice, with power halved per pierce. \n<color=black>•</color> Fires faster as Toughness decreases and reaches maximum speed of 0.25 seconds at 1/3 Toughness. If Toughness is further reduced, attack damage increases. Damage is capped at 480 at 0 Toughness.</color>\n<color=black>Odyssey Modifiers:\n<color=#8B0000>1. Lv1: Defense increases as Toughness decreases. Below 500 HP, it becomes immune to damage under 1k; Lv2: Below 500 HP, base damage ×2\n2. Increases projectile damage and knockback ×3</color><size=36>",
             "cost": "<size=36>Fusion Formula: <color=#8B0000>Unstable Jalapeno > Titan Pea Turret"
         },
@@ -648,21 +648,21 @@
             "seedType": 931,
             "name": "Obsidian Spike-nut",
             "introduce": "<align=justified><size=36><color=black>Obsidian Spike-nut loves hugs. \"A warm embrace can soothe even the rowdiest of zombies,\" he says. And sure enough, every zombie he's hugged is now lying peacefully on the lawn... completely still.",
-            "info": "<size=36>Defends against zombies and vehicles with its spikes.\n\n<color=#4A2900>Usage Condition: Odyssey Mode | Unlockable With Spikesidian's Modifier.</color>\n<color=black>Toughness: </color><color=#8B0000>16000</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Subspecies of Spikesidian.\n<color=black>•</color> Reflects 500 damage back to zombies biting it (after Modifier).\n<color=black>•</color> Received damage is capped at 1000.\n<color=black>•</color> Recovers 1500 Toughness per 15 Seconds.\n<color=black>•</color> Can puncture tires, dealing 50% of the maximum Toughness to the vehicle zombie and repelling them.\n<color=black>•</color> Benefits from Spikesidian's Odyssey Modifiers.</color>",
+            "info": "<size=36>Defends against zombies and vehicles with its spikes.\n\n<color=#4A2900>Usage Condition: Odyssey Mode | Unlockable With Spike-obsidian's Modifier.</color>\n<color=black>Toughness: </color><color=#8B0000>16000</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Subspecies of Spike-obsidian.\n<color=black>•</color> Reflects 500 damage back to zombies biting it (after Modifier).\n<color=black>•</color> Received damage is capped at 1000.\n<color=black>•</color> Recovers 1500 Toughness per 15 Seconds.\n<color=black>•</color> Can puncture tires, dealing 50% of the maximum Toughness to the vehicle zombie and repelling them.\n<color=black>•</color> Benefits from Spike-obsidian's Odyssey Modifiers.</color>",
             "cost": "<size=36>\nConversion Formula: </color><color=#8B0000>Spikerock <-> Wall-nut</color>"
         },
         {
             "seedType": 932,
-            "name": "Tycoon Torch",
-            "introduce": "<align=justified><size=36><color=black>Though still a small child, Tycoon Torch returned from abroad with a showman's flair. His \"turn a stone into gold\" trick had audiences roaring with delight. Backstage, as he stirred a mysterious drink, he smirked and whispered, \"It's kind of magic, actually.\"</color>",
-            "info": "<size=36>Turn all straight-shooting bullets into coin bullets!\n\n<color=#4A2900>Usage Condition: Odyssey Mode | Initial Selection</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Convert all ordinary straight-shooting bullets encountered into 2 Silver Coins and 1 Gold Coin.\n<color=black>•</color> Gold Coins will move in a straight line. Silver Coins will split to the top and bottom rows initially then join the Gold Coins in the middle row after 0.8 Seconds.\n<color=black>•</color> Silver Coins will deal 50% of the original bullet's damage.\n<color=black>•</color> Gold Coins will deal 100% of the original bullet's damage.</color>\n<color=black>Odyssey Modifiers:</color>\n<color=#8B0000>1. 1% Damage increase to Tycoon Torched bullets for every 1000 Coins you have\n2. Tycoon Torch's projectiles now deal splash damage</color>",
+            "name": "Tycoonwood",
+            "introduce": "<align=justified><size=36><color=black>Though still a small child, Tycoonwood returned from abroad with a showman's flair. His \"turn a stone into gold\" trick had audiences roaring with delight. Backstage, as he stirred a mysterious drink, he smirked and whispered, \"It's kind of magic, actually.\"</color>",
+            "info": "<size=36>Turn all straight-shooting bullets into coin bullets!\n\n<color=#4A2900>Usage Condition: Odyssey Mode | Initial Selection</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Convert all ordinary straight-shooting bullets encountered into 2 Silver Coins and 1 Gold Coin.\n<color=black>•</color> Gold Coins will move in a straight line. Silver Coins will split to the top and bottom rows initially then join the Gold Coins in the middle row after 0.8 Seconds.\n<color=black>•</color> Silver Coins will deal 50% of the original bullet's damage.\n<color=black>•</color> Gold Coins will deal 100% of the original bullet's damage.</color>\n<color=black>Odyssey Modifiers:</color>\n<color=#8B0000>1. 1% Damage increase to Coin projectiles for every 1000 Coins you have\n2. Tycoonwood's projectiles now deal splash damage</color>",
             "cost": "<size=36>\nFusion Formula: </color><color=#8B0000>Torchthree + Gold Magnet</color>"
         },
         {
             "seedType": 933,
             "name": "Thornminator",
             "introduce": "<align=justified><size=36><color=black>Thornminator is one of the top hairstylists in town, revolutionizing botanical fashion with every masterpiece she crafts. \"Real style takes real work,\" she says, twirling a carving knife between her fingers. Hammers and chisels may not be traditional hairstyling tools, but for her, they're essential for \"fixing\" even the most stubborn strands.</color>",
-            "info": "<size=36>Fires Doom-Hypno Ice Spikes. When planted, unleashes a barrage of Doom-Hypno Ice Spikes.\n\n<color=#4A2900>Usage Condition: Odyssey Mode | Unlockable with Doominator-shroom</color>\n<color=black>Damage: </color><color=#8B0000>300/1.5s</color>\n<color=#0077b6>Cryo System: </color><color=#8B0000>Each frozen pea inflicts chill and adds 20 Cryo points. Deals ×4 damage to frozen zombies.</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Subspecies of Doominator-shroom. \n<color=black>•</color> Attacks pierce infinitely, prioritizes air units.\n<color=black>•</color> Has a chance to hypnotize zombies and cause explosive damage—same effect as Doominator-shroom.\n<color=black>•</color> When planted, scatter-shoots at least 60 Doom-Hypno Ice Spikes, targeting both air and ground enemies.</color>",
+            "info": "<size=36>Fires Doom-Hypno Spike-ices. When planted, unleashes a barrage of Doom-Hypno Spike-ices.\n\n<color=#4A2900>Usage Condition: Odyssey Mode | Unlockable with Doominator</color>\n<color=black>Damage: </color><color=#8B0000>300/1.5s</color>\n<color=#0077b6>Cryo System: </color><color=#8B0000>Each frozen pea inflicts chill and adds 20 Cryo points. Deals ×4 damage to frozen zombies.</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Subspecies of Doominator. \n<color=black>•</color> Attacks pierce infinitely, prioritizes air units.\n<color=black>•</color> Has a chance to hypnotize zombies and cause explosive damage—same effect as Doominator.\n<color=black>•</color> When planted, scatter-shoots at least 60 Doom-Hypno Spike-ices, targeting both air and ground enemies.</color>",
             "cost": "<size=36>\nConversion Formula: </color><color=#8B0000>Fume-shroom <-> Cactus</color>"
         },
         {
@@ -733,14 +733,14 @@
             "name": "Quantum McCornics",
             "introduce": "<align=justified><size=36><color=black>He was born at the dawn of the universe, his age beyond reckoning. From the primordial void, he plucked three stars to orbit him as moons—treasures not even black holes could steal. Now, the old one finds joy in toying with this cosmic keepsake, as ancient as he is.</color>",
             "info": "<size=36>Hurls ultra-dense black holes that collapses into an explosion, releasing all the absorbed energy.\n\n<color=#4A2900>Usage Condition: Odyssey Mode | Unlockable</color>\n<color=black>Damage: </color><color=#8B0000>300/2 Seconds (Mini Butter)</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Metal plant.\n<color=black>•</color> 75% chance to launch Mini Butter, shrinking non-miniboss zombies' size and HP to 70%. If shrinking fails, the target is stunned for 1.5s. Instantly kills imp-class zombies.\n<color=black>•</color> 25% chance to launch an Ultimate Black Hole that lasts 2s, slows nearby zombies, and absorbs Quantum McCornics' projectiles in a 3×3 area.\n<color=black>•</color> Each bullet absorbed adds 2s to its duration, up to 7.5s. When it vanishes, it triggers a large explosion (Cherry Bomb-sized) that deals 320 + 60% of stored damage. If it lasted over 5s, the explosion radius significantly increases.</color>\n<color=black>Odyssey Modifiers:</color>\n<color=#8B0000>1. Ultimate Black Hole can absorb all projectiles\n2. Ultimate Black Hole's absorption radius ×2</color>",
-            "cost": "<size=36>\nFusion Formula: <color=#8B0000> Chrono Kernel > Popcorn-pult x3</color>"
+            "cost": "<size=36>\nFusion Formula: <color=#8B0000> Portal-pult > Popcorn-pult x3</color>"
         },
         {
             "seedType": 944,
             "name": "Tesla Magnet",
             "introduce": "<align=justified><size=36><color=black>Tesla Magnet commands iron with thunder and thunder with magnetic fields. He grants his people eternal magnetism and built a kingdom of electricity. Yet beyond his military conquests and political achievements, he still suffers headaches in the search for a queen with the opposite charge.</color>",
             "info": "<size=36>Extremely magnetic, quickly absorbs metal objects and turn them into explosive cherries.\n\n<color=#4A2900>Usage Condition: Odyssey Mode | Initial Selection</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Inherits the traits of Lumos Magnet, metal object absorption CD: 0.5s.\n<color=black>•</color> Can pull the pogo sticks from Pogo King Jack-in-the-Boxes and convert them into Jack-in-the-Boxes; also pulls (insta-kills) Kirov Drones and converts them into Jack-in-the-Boxes.\n<color=black>•</color> Deals 300 damage every 0.5s to 1 Giga-Trident Zombie or Giga Football-nut Zombie within range.\n<color=black>•</color> Launches absorbed metal after 3s, dealing the same damage and AoE as explosive cherries; with full-map targeting and anti-air capability.</color>\n<color=black>Odyssey Modifiers:</color>\n<color=#8B0000>1. Attack Range ×2\n2. Absorbs 3 Metal Objects at once, damage to Giga-Trident Zombies or Giga Football-nut Zombies ×3</color>",
-            "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Lumos Magnet + Kaboom Magnet</color>"
+            "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Lumos Magnet + Grenadier Magnet</color>"
         },
         {
             "seedType": 945,
@@ -751,9 +751,9 @@
         },
         {
             "seedType": 946,
-            "name": "Titan Apeacalypse Railgun",
+            "name": "Apeacalypse Railgun",
             "introduce": "<align=justified><size=36><color=black>He left behind the ceaseless minigun for a railgun that fires with precise, silent power—channeling electromagnetic force sharp enough to remind some of Academy City's famed Railgun and a certain relentless shooter cloaked in black.</color>",
-            "info": "<size=36>Consumes HP to fire pulse rays with infinite penetration.\n\n<color=#4A2900>Usage Condition: Odyssey Mode | Unlockable with Titan Apeacalypse Minigun</color>\n<color=black>Damage: </color><color=#8B0000>300×5/3s</color>\n<color=black>Search Range: </color><color=#8B0000>±10° Horizontal Sector</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Subspecies of Titan Apeacalypse Minigun, attacks pierce infinitely and can target air.\n<color=black>•</color> If Toughness is greater than 500, each attack consumes 100 Toughness.\n<color=black>•</color> Attack power scales linearly as Toughness drops, up to a max of 900.</color>",
+            "info": "<size=36>Consumes HP to fire pulse rays with infinite penetration.\n\n<color=#4A2900>Usage Condition: Odyssey Mode | Unlockable with Apeacalypse Minigun</color>\n<color=black>Damage: </color><color=#8B0000>300×5/3s</color>\n<color=black>Search Range: </color><color=#8B0000>±10° Horizontal Sector</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Subspecies of Apeacalypse Minigun, attacks pierce infinitely and can target air.\n<color=black>•</color> If Toughness is greater than 500, each attack consumes 100 Toughness.\n<color=black>•</color> Attack power scales linearly as Toughness drops, up to a max of 900.</color>",
             "cost": "\n<size=36>Conversion Formula: <color=#8B0000>Peashooter <-> Sniper Pea</color>"
         },
         {
@@ -774,7 +774,7 @@
             "seedType": 949,
             "name": "Atomheart Plantern",
             "introduce": "<align=justified><size=36><color=black>\"The price of nuclear war isn't something just anyone can bear.\" A survivor of annihilation, Atomheart Plantern now chooses to restrain her core reactor, channeling its power into a glow as bright as the moon—guiding wanderers through the dark. But if anyone threatens the peace she holds dear… she won't hesitate to become the reaper of the battlefield once more.</color>",
-            "info": "<size=36>A Plantern sealed with radioactive frost, releasing cold fusions that strengthens with Lumos.\n\n<color=#4A2900>Usage Condition: Odyssey Mode | Unlockable with Oblivion-shroom</color>\n<color=black>Damage: </color><color=#8B0000>600/3s</color>\n<color=black>Range: </color><color=#8B0000>3×5, can target air</color>\n<color=#0077b6>Cryo System: </color><color=#8B0000>\n<color=black>•</color> Attacks apply Chill and adds 30 Cryo Points.\n<color=#99582a>Lumos System: </color><color=#8B0000> Damage increases by 100% × Lumos Level.</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Subspecies of Oblivion-shroom. Switching form does not trigger on-death effects.\n<color=black>•</color> Inherits traits of Plantern.\n<color=black>•</color> Refracts passing Titan Apeacalypse Railgun beams into 3 beams with equal damage.\n<color=black>•</color> On death, triggers Ice-shroom effect and grants 10 Lumos level to all plants for 10s.</color>",
+            "info": "<size=36>A Plantern sealed with radioactive frost, releasing cold fusions that strengthens with Lumos.\n\n<color=#4A2900>Usage Condition: Odyssey Mode | Unlockable with Oblivion-shroom</color>\n<color=black>Damage: </color><color=#8B0000>600/3s</color>\n<color=black>Range: </color><color=#8B0000>3×5, can target air</color>\n<color=#0077b6>Cryo System: </color><color=#8B0000>\n<color=black>•</color> Attacks apply Chill and adds 30 Cryo Points.\n<color=#99582a>Lumos System: </color><color=#8B0000> Damage increases by 100% × Lumos Level.</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Subspecies of Oblivion-shroom. Switching form does not trigger on-death effects.\n<color=black>•</color> Inherits traits of Plantern.\n<color=black>•</color> Refracts passing Apeacalypse Railgun beams into 3 beams with equal damage.\n<color=black>•</color> On death, triggers Ice-shroom effect and grants 10 Lumos level to all plants for 10s.</color>",
             "cost": "\n<size=36>Conversion Formula: <color=#8B0000>Gloom-shroom <-> Plantern</color>"
         },
         {
@@ -786,10 +786,10 @@
         },
         {
             "seedType": 951,
-            "name": "Titan Tyrannoflora Lux",
-            "introduce": "<align=justified><size=36><color=black>Titan Tyrannoflora Lux wasn't sure how he ended up on land after a deep-sea haul, but he's made himself right at home. \"Why go back to the sparse, dark depths when zombies are always on the menu?\" he growls. Legend says his appetite is so huge, the gourmet contests could no longer afford their electric bill—guess he's their new emergency power source.</color>",
+            "name": "Tyrannoflora Lux",
+            "introduce": "<align=justified><size=36><color=black>Tyrannoflora Lux wasn't sure how he ended up on land after a deep-sea haul, but he's made himself right at home. \"Why go back to the sparse, dark depths when zombies are always on the menu?\" he growls. Legend says his appetite is so huge, the gourmet contests could no longer afford their electric bill—guess he's their new emergency power source.</color>",
             "info": "<size=36>A giant chomper attracting zombies with light—a master of luring, devouring, and digesting.\n\n<color=#4A2900>Usage Condition: Odyssey Mode | Unlockable</color>\n<color=black>Toughness: </color><color=#8B0000>8000</color>\n<color=black>Damage: </color><color=#8B0000>Insta-kill (Devour)</color>\n<color=black>Digestion Time: </color><color=#8B0000>5 + (Sum Toughness of Zombies)^0.33s</color>\n<color=#99582a>Lumos System: </color><color=#8B0000> Each Lumos level reduces digest time by 10s to a minimum of 5s.</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Anti-crush.\n<color=black>•</color> Can swallow all non-miniboss zombies in a 1.5 tile range.\n<color=black>•</color> Using a Chomper seedpacket on it reduces digest time by 10s.\n<color=black>•</color> Upon successful digestion, pulls nearby zombies from adjacent lanes to its lane and heals HP equal to 1×Toughness.</color>\n<color=black>Odyssey Modifiers:</color>\n<color=#8B0000>1. Attack range ×2\n2. Provides 2 Lumos level to a 5×5 area during digestion</color>",
-            "cost": "<size=36>Fusion Formula: <color=#8B0000>Lumos Angler > Titan Chomper Maw</color>"
+            "cost": "<size=36>Fusion Formula: <color=#8B0000>Lumos Angler > Chomper Maw</color>"
         },
         {
             "seedType": 1000,
@@ -947,8 +947,8 @@
         },
         {
             "seedType": 1022,
-            "name": "Mini Hypno-shroom",
-            "introduce": "<align=justified><size=36><color=black>\"As a kid, I believed zombies were nothing more than fairy tale monsters,\" Mini Hypno-shroom said softly. \"Now, don't get it twisted—I'm just restoring them to the fairy tale form they were always supposed to have.\"</color></size>",
+            "name": "Gnome-shroom",
+            "introduce": "<align=justified><size=36><color=black>\"As a kid, I believed zombies were nothing more than fairy tale monsters,\" Gnome-shroom said softly. \"Now, don't get it twisted—I'm just restoring them to the fairy tale form they were always supposed to have.\"</color></size>",
             "info": "<size=36>Shrinks a zombie and makes it fight for you!\n\n<color=black>Special: </color><color=#8B0000>Makes a zombie smaller (cuts Toughness to 70%) and fight for you.</color></size>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Hypno-shroom > Puff-shroom</color>"
         },
@@ -1045,9 +1045,9 @@
         },
         {
             "seedType": 1036,
-            "name": "Mini Ice-shroom",
-            "introduce": "<align=justified><size=36><color=black>\"Smaller in size, same big abilities!\" Mini Ice-shroom's signature poker face never cracks as he delivers his jokes, and that might just be why zombies freeze on the spot.</color></size>",
-            "info": "<size=36>Mini Ice-shroom can temporarily freeze zombies they come into contact with.\n\n<color=black>Special: </color><color=#8B0000>Freezes zombies that eat it in place.</color></size>",
+            "name": "Hail-shroom",
+            "introduce": "<align=justified><size=36><color=black>\"Smaller in size, same big abilities!\" Hail-shroom's signature poker face never cracks as he delivers his jokes, and that might just be why zombies freeze on the spot.</color></size>",
+            "info": "<size=36>Hail-shroom can temporarily freeze zombies they come into contact with.\n\n<color=black>Special: </color><color=#8B0000>Freezes zombies that eat it in place.</color></size>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Ice-shroom > Puff-shroom</color>"
         },
         {
@@ -1101,9 +1101,9 @@
         },
         {
             "seedType": 1044,
-            "name": "Mini Doom-shroom",
-            "introduce": "<align=justified><size=36><color=black>Mini Doom-shroom may be small, but his temper is explosive. Disagree with him, and he might blow up—no eye contact needed. It's best to admire him from afar—just don't get too close, or things might get messy.</color></size>",
-            "info": "<size=36>Mini Doom-shroom will explode when it comes into contact with a zombie.\n\n<color=black>Damage: </color><color=#8B0000>1800 (Cremator)</color>\n<color=black>Special: </color><color=#8B0000>Will explode when zombies get close.</color></size>",
+            "name": "Boom-shroom",
+            "introduce": "<align=justified><size=36><color=black>Boom-shroom may be small, but his temper is explosive. Disagree with him, and he might blow up—no eye contact needed. It's best to admire him from afar—just don't get too close, or things might get messy.</color></size>",
+            "info": "<size=36>Boom-shroom will explode when it comes into contact with a zombie.\n\n<color=black>Damage: </color><color=#8B0000>1800 (Cremator)</color>\n<color=black>Special: </color><color=#8B0000>Will explode when zombies get close.</color></size>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Doom-shroom > Puff-shroom</color>"
         },
         {
@@ -1143,9 +1143,9 @@
         },
         {
             "seedType": 1050,
-            "name": "Mangle Kelp",
-            "introduce": "<align=justified><size=36><color=black>Mangle Kelp stands out as a true philosopher among plants. It often ponders profound questions like, \"Where does the grass come from, and where does it go?\" However, its disregard for personal hygiene and unkempt hair make other plants shy away, preferring to keep their distance.</color></size>",
-            "info": "<size=36>Mangle Kelp can drag three zombies into the water.\n\n<color=black>Damage: </color><color=#8B0000>Insta-kill (Drown) ×3</color>\n<color=black>Special: </color><color=#8B0000>Drags three zombies into the water. Each drag also deals 600 damage to nearby zombies.</color></size>",
+            "name": "Strangle Kelp",
+            "introduce": "<align=justified><size=36><color=black>Strangle Kelp stands out as a true philosopher among plants. It often ponders profound questions like, \"Where does the grass come from, and where does it go?\" However, its disregard for personal hygiene and unkempt hair make other plants shy away, preferring to keep their distance.</color></size>",
+            "info": "<size=36>Strangle Kelp can drag three zombies into the water.\n\n<color=black>Damage: </color><color=#8B0000>Insta-kill (Drown) ×3</color>\n<color=black>Special: </color><color=#8B0000>Drags three zombies into the water. Each drag also deals 600 damage to nearby zombies.</color></size>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Squash > Tangle Kelp</color>"
         },
         {
@@ -1290,15 +1290,15 @@
         },
         {
             "seedType": 1071,
-            "name": "Embergloom-shroom",
-            "introduce": "<align=justified><size=36><color=black>Embergloom-shroom's ability to release hot steam has established him as a celebrated pastry baker. His signature spicy pastries are a favorite among many, cherished for their distinct flavors.</color></size>",
+            "name": "Flame Gloom-shroom",
+            "introduce": "<align=justified><size=36><color=black>Flame Gloom-shroom's ability to release hot steam has established him as a celebrated pastry baker. His signature spicy pastries are a favorite among many, cherished for their distinct flavors.</color></size>",
             "info": "<size=36>Releases high-damaging ember fumes around it.\n\n<color=black>Damage: </color><color=#8B0000>40×4/1.9s (Piercing)</color>\n<color=#720026>Enflamed Debuff: </color><color=#8B0000>Inflicts the Enflamed debuff when attacking zombies.</color></size>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Jalapeno + Gloom-shroom</color>"
         },
         {
             "seedType": 1072,
-            "name": "Snowgloom-shroom",
-            "introduce": "<align=justified><size=36><color=black>Dreaming of a career as a physicist, the Snowgloom-shroom dedicates his days to unraveling the complexities of the world, avoiding contact with other plants. \"Why do I have multiple strings of ice cones sprouting from my head?\" he muses, the latest question occupying his thoughts. He's oddly adamant about calling them \"strings.\"</color></size>",
+            "name": "Frost Gloom-shroom",
+            "introduce": "<align=justified><size=36><color=black>Dreaming of a career as a physicist, the Frost Gloom-shroom dedicates his days to unraveling the complexities of the world, avoiding contact with other plants. \"Why do I have multiple strings of ice cones sprouting from my head?\" he muses, the latest question occupying his thoughts. He's oddly adamant about calling them \"strings.\"</color></size>",
             "info": "<size=36>Releases cold fumes around that can freeze zombies.\n\n<color=black>Damage: </color><color=#8B0000>40×4/1.9s (Piercing)</color>\n<color=#0077b6>Cryo System: </color><color=#8B0000>Each attack adds 5 Cryo points.</color></size>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Ice-shroom + Gloom-shroom</color>"
         },
@@ -1311,22 +1311,22 @@
         },
         {
             "seedType": 1074,
-            "name": "Spikecicle",
-            "introduce": "<align=justified><size=36><color=black>After his return from Alaska, Spikecicle couldn't contain his excitement. Eager to freeze the zombies solid, he relished the thought of \"ice\" bursting beneath their feet. He made it a point that everyone use the term \"ice.\" His skin still carried the chill from his Arctic adventure, and his eyes shimmered with the brilliance of unmelting snow.</color></size>",
+            "name": "Spike-ice",
+            "introduce": "<align=justified><size=36><color=black>After his return from Alaska, Spike-ice couldn't contain his excitement. Eager to freeze the zombies solid, he relished the thought of \"ice\" bursting beneath their feet. He made it a point that everyone use the term \"ice.\" His skin still carried the chill from his Arctic adventure, and his eyes shimmered with the brilliance of unmelting snow.</color></size>",
             "info": "<size=36>Can puncture tires and freeze zombies.\n\n<color=black>Toughness: </color><color=#8B0000>450</color>\n<color=black>Damage: </color><color=#8B0000>40×2/1s</color>\n<color=#0077b6>Cryo System: </color><color=#8B0000>Attacks inflict Chill and add 5 Cryo points.</color>\n<color=black>Special: </color><color=#8B0000>Inherits traits from Spikerock.</color></size>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Ice-shroom + Spikerock</color>"
         },
         {
             "seedType": 1075,
-            "name": "Spikinferno",
-            "introduce": "<align=justified><size=36><color=black>Not long ago, Spikinferno traveled to Mexico and was swept away by the vibrant enthusiasm of the locals, quickly falling in love with tacos. Now, he's pouring all his energy into a taco museum alongside Spikecicle, though Spikecicle doesn't seem to share his enthusiasm.</color></size>",
+            "name": "Spike-hearth",
+            "introduce": "<align=justified><size=36><color=black>Not long ago, Spike-hearth traveled to Mexico and was swept away by the vibrant enthusiasm of the locals, quickly falling in love with tacos. Now, he's pouring all his energy into a taco museum alongside Spike-ice, though Spike-ice doesn't seem to share his enthusiasm.</color></size>",
             "info": "<size=36>Enflame zombies that step on it and also puncture vehicles.\n\n<color=black>Toughness: </color><color=#8B0000>450</color>\n<color=black>Damage: </color><color=#8B0000>40×2/1s</color>\n<color=#720026>Enflamed Debuff: </color><color=#8B0000>Applies the Enflamed Debuff when attacking zombies.</color>\n<color=black>Special: </color><color=#8B0000>Inherits traits from Spikerock.</color></size>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Jalapeno + Spikerock</color>"
         },
         {
             "seedType": 1076,
-            "name": "Sea Thorn-shroom",
-            "introduce": "<align=justified><size=36><color=black>\"People often ask about my appearance, so let me clarify: I'm from the Namib Desert,\" Sea Thorn-shroom said to anyone who inquired. \"If you're familiar with geography, you'll know that a desert can be found right next to the ocean!\"</color></size>",
+            "name": "Urchin-shroom",
+            "introduce": "<align=justified><size=36><color=black>\"People often ask about my appearance, so let me clarify: I'm from the Namib Desert,\" Urchin-shroom said to anyone who inquired. \"If you're familiar with geography, you'll know that a desert can be found right next to the ocean!\"</color></size>",
             "info": "<size=36>Attack flying zombies and airships, growing in size after a while.\n\n<color=black>Damage: </color><color=#8B0000>20 → 20×4/1.5s</color>\n<color=black>Growth Time: </color><color=#8B0000>120s</color>\n<color=black>Special: </color><color=#8B0000>Short plant.</color></size>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Cactus > Sea-shroom</color>"
         },
@@ -1339,8 +1339,8 @@
         },
         {
             "seedType": 1078,
-            "name": "Sea Lamp-shroom",
-            "introduce": "<align=justified><size=36><color=black>\"I've been a light system at a pirate pool party, worked for an Amazon deep-water salvage company for three months, and even served as night fishing bait while I was sleeping!\" Sea Lamp-shroom shared, a mix of anger and pride evident in his voice. \"Now, I'm looking for a stable job. Uncle Dave mentioned that the backyard pool needed lighting, but he forgot to mention it was infested with zombies!\"</color></size>",
+            "name": "Beacon-shroom",
+            "introduce": "<align=justified><size=36><color=black>\"I've been a light system at a pirate pool party, worked for an Amazon deep-water salvage company for three months, and even served as night fishing bait while I was sleeping!\" Beacon-shroom shared, a mix of anger and pride evident in his voice. \"Now, I'm looking for a stable job. Uncle Dave mentioned that the backyard pool needed lighting, but he forgot to mention it was infested with zombies!\"</color></size>",
             "info": "<size=36>Dispels fog and give light, growing in size after a while.\n\n<color=black>Growth Time: </color><color=#8B0000>60s</color>\n<color=#99582a>Lumos System: </color><color=#8B0000>Gives 1 Lumos Level to a 3×3 area, then 5×5 after growth.</color>\n<color=black>Special: </color><color=#8B0000>Short plant. Inherits traits from Plantern.</color></size>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Plantern > Sea-shroom</color>"
         },
@@ -1395,8 +1395,8 @@
         },
         {
             "seedType": 1086,
-            "name": "Sea Blow-shroom",
-            "introduce": "<align=justified><size=36><color=black>Sea Blow-shroom has aspirations as grand as a dragon's. Mastering the ancient art of \"Feng Shui\" from the East, he is well aware of both lucky and unlucky positions. Understanding that wind and water complement each other, he hopes to keep misfortune at bay, whether soaring in the sky or gliding through the water.</color></size>",
+            "name": "Tide-shroom",
+            "introduce": "<align=justified><size=36><color=black>Tide-shroom has aspirations as grand as a dragon's. Mastering the ancient art of \"Feng Shui\" from the East, he is well aware of both lucky and unlucky positions. Understanding that wind and water complement each other, he hopes to keep misfortune at bay, whether soaring in the sky or gliding through the water.</color></size>",
             "info": "<size=36>Dispels fog and blows back zombies in the water.\n\n<color=black>Special: </color><color=#8B0000>Dispels fog and push the zombies in his lane to the rightmost column.</color></size>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Blover > Sea-shroom</color>"
         },
@@ -1500,8 +1500,8 @@
         },
         {
             "seedType": 1101,
-            "name": "Sea Magnet-shroom",
-            "introduce": "<align=justified><size=36><color=black>The other sea-shrooms couldn't comprehend why Sea Magnet-shroom could absorb iron to become bigger and taller. \"It's simple: E=mc²,\" he explained, even if most of the energy was lost in the air and went completely unused.</color></size>",
+            "name": "Anchor-shroom",
+            "introduce": "<align=justified><size=36><color=black>The other sea-shrooms couldn't comprehend why Anchor-shroom could absorb iron to become bigger and taller. \"It's simple: E=mc²,\" he explained, even if most of the energy was lost in the air and went completely unused.</color></size>",
             "info": "<size=36>That's weird... Why does the magnet get bigger as well as he grows?\n\n<color=black>Magnet Interval: </color><color=#8B0000>15 Seconds → 10s</color>\n<color=black>Special: </color><color=#8B0000>Grows after attracting 3 times.</color></size>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Magnet-shroom > Sea-shroom</color>"
         },
@@ -1591,8 +1591,8 @@
         },
         {
             "seedType": 1114,
-            "name": "Kernel Pot",
-            "introduce": "<align=justified><size=36><color=black>Kernel Pot believes he's more than just delicious. In his view, buttered corn provides more nutrients than soil, especially for fungi. Kernel Pot's favorite plant is the Kernel-pult, his favorite food is butter, his favorite container is a cup, and his favorite song is \"Buttercup.\"</color>",
+            "name": "Butter Pot",
+            "introduce": "<align=justified><size=36><color=black>Butter Pot believes he's more than just delicious. In his view, buttered corn provides more nutrients than soil, especially for fungi. Butter Pot's favorite plant is the Kernel-pult, his favorite food is butter, his favorite container is a cup, and his favorite song is \"Buttercup.\"</color>",
             "info": "<size=36>Increases the butter chance of all Kernel-type plants above it from 25% to 50%.\n\n<color=black>Special: </color><color=#8B0000>Raises the butter chance from 1/4 to 1/2.</color>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Kernel-pult > Flower Pot</color>"
         },
@@ -1661,7 +1661,7 @@
         },
         {
             "seedType": 1124,
-            "name": "Stuffed Melon",
+            "name": "Cracked Melon",
             "introduce": "<align=justified><size=36><color=black>\"Peel away the green exterior, and you'll find a heart of roses within.\" This phrase means don't randomly walk into an unfamiliar barber shop—it will be a mind-blowing decision.\n\nMelon Pot: \"After finishing a watermelon, wearing its rind on your head is something everyone did as a kid.\" Flower Pot remarks, \"Honestly, it's kind of silly.\"</color>",
             "info": "<size=36>Fires melons that bounce once.\n\n<color=black>Damage: </color><color=#8B0000>80/3s</color>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Cabbage-pult + Melon-pult</color>"
@@ -1717,8 +1717,8 @@
         },
         {
             "seedType": 1132,
-            "name": "Titan Melon Mortar",
-            "introduce": "<align=justified><size=36><color=black>Titan Melon Mortar is a fervent advocate of the \"overwhelming firepower\" doctrine: \"If one shot doesn't do it, try two, three, or even four!\" This approach has made it a powerhouse on the battlefield—and a hit at summer parties.</color>",
+            "name": "Melon Mortar",
+            "introduce": "<align=justified><size=36><color=black>Melon Mortar is a fervent advocate of the \"overwhelming firepower\" doctrine: \"If one shot doesn't do it, try two, three, or even four!\" This approach has made it a powerhouse on the battlefield—and a hit at summer parties.</color>",
             "info": "<size=36>Use manually to launch a barrage of melons from above.\n\n<color=black>Damage: </color><color=#8B0000>200 / Melon. Up to 40 melons in a 3×3 area without falloff. Randomly hits within a 5x3 grid.</color>\n<color=black>Arming Time: </color><color=#8B0000>36s</color>",
             "cost": "<size=36>Fusion Formula:  <color=#8B0000>Melon-pult ∞ [Kernel-pult] ∞ Melon-pult < Jicamagic (Place On Middle)</color>"
         },
@@ -1873,7 +1873,7 @@
             "seedType": 1154,
             "name": "Solar Magnet",
             "introduce": "<align=justified><size=36><color=black>Have you heard? Solar Magnet's been glowing with wealth lately! 'I don't produce iron; I just do the delivery,' he says proudly. 'This is all from years of hard work.' Word is, he's even opened business beyond the lawn!' </color>",
-            "info": "<size=36>Produces metal objects and turns metal objects to Sun.\n\n<color=black>Sun Output: </color><color=#8B0000>25/25s</color>\n<color=black>Special: </color><color=#8B0000>Produces a random metal object every 30 Seconds. Drag a metal object on it and it will produce 25 Sun. Produced metal object is automatically given to Kaboom Magnet, Charmo Magnet or Charmatron-shroom directly in front.</color>",
+            "info": "<size=36>Produces metal objects and turns metal objects to Sun.\n\n<color=black>Sun Output: </color><color=#8B0000>25/25s</color>\n<color=black>Special: </color><color=#8B0000>Produces a random metal object every 30 Seconds. Drag a metal object on it and it will produce 25 Sun. Produced metal object is automatically given to Grenadier Magnet, Charmo Magnet or Charmatron-shroom directly in front.</color>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Sunflower + Magnet-shroom</color>"
         },
         {
@@ -1941,29 +1941,29 @@
         },
         {
             "seedType": 1164,
-            "name": "Pump-Kaboom",
-            "introduce": "<align=justified><size=36><color=black>Pump-Kaboom is a distant relative of Cherry-nut, but every time Pump-Kaboom meets Cherry-nut, he is always late. \"I want to come early too,\" Pump-Kaboom says, \"but I can't resist jumping to anything red.\"</color>",
+            "name": "Cherry Pumpkin",
+            "introduce": "<align=justified><size=36><color=black>Cherry Pumpkin is a distant relative of Cherry-nut, but every time Cherry Pumpkin meets Cherry-nut, he is always late. \"I want to come early too,\" Cherry Pumpkin says, \"but I can't resist jumping to anything red.\"</color>",
             "info": "<size=36>A pumpkin that cannot be exploded by cherries!\n\n<color=black>Toughness: </color><color=#8B0000>4000</color>\n<color=black>Special: </color><color=#8B0000>Immune to explosive cherries and heals instead (From Explosive Cherry: 200, From Cherry Bomb: 1000).</color>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Cherry Bomb > Pumpkin</color>"
         },
         {
             "seedType": 1165,
-            "name": "Snow Commando",
-            "introduce": "<align=justified><size=36><color=black>As the general commander of the Pea family, Snow Commando has an aura that makes plants and zombies shudder even from miles away. But regarding his proud freezing ability, Snow Commando always keeps quiet about it, until one day a small pea accidentally opened his diary: \"If I had known, I wouldn't have bet against the fire sniper. Not only did I almost freeze to death in the ice fields, but I also turned into this way. Tonight, I'll make that guy eat three big bowls of chili—\"</color>",
+            "name": "Blizzard Commando",
+            "introduce": "<align=justified><size=36><color=black>As the general commander of the Pea family, Blizzard Commando has an aura that makes plants and zombies shudder even from miles away. But regarding his proud freezing ability, Blizzard Commando always keeps quiet about it, until one day a small pea accidentally opened his diary: \"If I had known, I wouldn't have bet against the fire sniper. Not only did I almost freeze to death in the ice fields, but I also turned into this way. Tonight, I'll make that guy eat three big bowls of chili—\"</color>",
             "info": "<size=36>Shoots Snow Peas at zombies, with a small chance of shooting a massive barrage!\n\n<color=black>Damage: </color><color=#8B0000>20×6/1.5s</color>\n<color=black>Ultimate: </color><color=#8B0000>3×20/0.02s</color>\n<color=black>Special: </color><color=#8B0000>3% chance to shoot a barrage of snow peas each attack, lasting 5 seconds.</color>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Pea Commando + Ice-shroom</color>"
         },
         {
             "seedType": 1166,
-            "name": "Kaboom Magnet",
-            "introduce": "<align=justified><size=36><color=black>\"Selling well is also a skill.\" said the Kaboom Magnet. Only Magnet-shrooms can turn hate into love. He once hated cherries the most. Actually, he still does, but perhaps he has discovered a business opportunity?</color>",
-            "info": "<size=36>Transmutes metal objects into explosive cherries!\n\n<color=black>Damage: </color><color=#8B0000>300/3s</color>\n<color=black>Special: </color><color=#8B0000>Attracts metal objects and turns them into explosive cherries. Each object can be turned 5 times before consumption. Metal objects can be actively given to the Kaboom Magnet for it to initiate an attack.</color>",
+            "name": "Grenadier Magnet",
+            "introduce": "<align=justified><size=36><color=black>\"Selling well is also a skill.\" said the Grenadier Magnet. Only Magnet-shrooms can turn hate into love. He once hated cherries the most. Actually, he still does, but perhaps he has discovered a business opportunity?</color>",
+            "info": "<size=36>Transmutes metal objects into explosive cherries!\n\n<color=black>Damage: </color><color=#8B0000>300/3s</color>\n<color=black>Special: </color><color=#8B0000>Attracts metal objects and turns them into explosive cherries. Each object can be turned 5 times before consumption. Metal objects can be actively given to the Grenadier Magnet for it to initiate an attack.</color>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Magnet-shroom + Cherry Bomb</color>"
         },
         {
             "seedType": 1167,
             "name": "Blazer Pea",
-            "introduce": "<align=justified><size=36><color=black>Other snipers envy Blazer Pea for being a reliable assistant to the commander, even though she is still a little one. \"Talent is one thing, but... I have to thank the commander for cultivating me!~\"Blazer Pea says, but in reality, it's because Snow Commando is naturally cold and always keeps Blazer Pea as a warm-up buddy.</color>",
+            "introduce": "<align=justified><size=36><color=black>Other snipers envy Blazer Pea for being a reliable assistant to the commander, even though she is still a little one. \"Talent is one thing, but... I have to thank the commander for cultivating me!~\"Blazer Pea says, but in reality, it's because Blizzard Commando is naturally cold and always keeps Blazer Pea as a warm-up buddy.</color>",
             "info": "<size=36>Can lock onto zombies anywhere on the map!\n\n<color=black>Damage: </color><color=#8B0000>300/3s</color>\n<color=black>Special: </color><color=#8B0000>Attacks inflict the Enflamed debuff and deal 100 damage to nearby zombies.</color>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Sniper Pea + Jalapeno</color>"
         },
@@ -1976,10 +1976,10 @@
         },
         {
             "seedType": 1169,
-            "name": "Titan Pumpkin Bunker",
+            "name": "Pumpkin Bunker",
             "introduce": "<align=justified><size=36><color=black>Once, a pair of pumpkins dreamed of joining a circus. But after a magnetic mishap left them stuck together, they discovered a better calling: standing their ground as an impenetrable shield. The circus can wait.</color>",
             "info": "<size=36>Protect two tiles at once!\n\n<color=black>Toughness: </color><color=#8B0000>12000</color>\n<color=black>Special: </color><color=#8B0000>Heals when affected by Cherry and Jack-in-the-Box explosions. Can only be placed on Titan plants.</color></color>",
-            "cost": "<size=35>Fusion Formula: <color=#8B0000>Joker Pumpkin ∞ [Magnet-shroom] ∞ Pump-Kaboom < Jicamagic (Place On Middle)"
+            "cost": "<size=35>Fusion Formula: <color=#8B0000>Joker Pumpkin ∞ [Magnet-shroom] ∞ Cherry Pumpkin < Jicamagic (Place On Middle)"
         },
         {
             "seedType": 1170,
@@ -2011,22 +2011,22 @@
         },
         {
             "seedType": 1174,
-            "name": "Titan Chomper Maw",
-            "introduce": "<align=justified><size=36><color=black>Titan Chomper Maw won the grand prix in an Gourmet king contest, finishing 10 giga garg cakes in 44 seconds — with 3 of those seconds wasted because he didn't hear the starting whistle. \"If there's another event like this, please call me. The buffet near the garden won't let me in anymore,\" said the Titan Chomper Maw during the interview.</color>",
+            "name": "Chomper Maw",
+            "introduce": "<align=justified><size=36><color=black>Chomper Maw won the grand prix in an Gourmet king contest, finishing 10 giga garg cakes in 44 seconds — with 3 of those seconds wasted because he didn't hear the starting whistle. \"If there's another event like this, please call me. The buffet near the garden won't let me in anymore,\" said the Chomper Maw during the interview.</color>",
             "info": "<size=36>Swallows all zombies that get too close!\n\n<color=black>Damage: </color><color=#8B0000>Insta-kill (Devour)</color>\n<color=black>Digestion Time: </color><color=#8B0000>\n<color=black>•</color> 8 + 3ln(Sum Toughness of Zombies)s</color>\n<color=black>•</color><color=#8B0000> For reference: Zombie - 24.8 Seconds | Buckethead - 29.9 Seconds | Giga Gargantuar - 34 Seconds | 10 Giga Gargantuars - 41s</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Can swallow all zombies in a 1.5 tile range, including Gargantuars. Unable to swallow other zombies that has immunity to Chompers. </color>",
             "cost": "<size=36>Fusion Formula: <color=#8B0000>Chomper ∞ [Chomper] ∞ Chomper < Jicamagic (Place on Middle)</color>"
         },
         {
             "seedType": 1175,
-            "name": "Titan Kraken-shroom",
-            "introduce": "<align=justified><size=36><color=black>Sailors whisper of the Giant Kraken of theNorthern Sea, its name alone enough to turn the bravest hearts cold. But Titan Kraken-shroom? He's got no time for legends. He didn't come to terrify—he came to play. And his favorite game? Pushing zombies around like driftwood.</color>",
+            "name": "Leviathan-shroom",
+            "introduce": "<align=justified><size=36><color=black>Sailors whisper of the Giant Kraken of theNorthern Sea, its name alone enough to turn the bravest hearts cold. But Leviathan-shroom? He's got no time for legends. He didn't come to terrify—he came to play. And his favorite game? Pushing zombies around like driftwood.</color>",
             "info": "<size=36>Can repel zombies in front.\n\n<color=black>Damage: </color><color=#8B0000>20×2/1.5s</color>\n<color=black>Toughness: </color><color=#8B0000>1000</color>\n<color=#006400>Tangled Debuff: </color><color=#8B0000> Adds 1 Tangle Value per hit, dealing additional damage based on the Tangle Value.</color>\n<color=black>Special: </color><color=#8B0000>Repels approaching zombies (single target) and deal 100 damage.",
             "cost": "<size=36>Fusion Formula: <color=#8B0000>Tangle Kelp ∞ [Sea-shroom] ∞ Tangle Kelp < Jicamagic (Place On Middle)</color>"
         },
         {
             "seedType": 1176,
-            "name": "Hypnoblover",
-            "introduce": "<align=justified><size=36><color=black>Plants are always curious why Hypnoblover pulls the zombies back. Hypnoblover explains: \"Since Blover always pushes zombies to the opposite direction they face, I believe it's only natural for me to do the same to hypnotized zombies.\"</color>",
+            "name": "Mind-blover",
+            "introduce": "<align=justified><size=36><color=black>Plants are always curious why Mind-blover pulls the zombies back. Mind-blover explains: \"Since Blover always pushes zombies to the opposite direction they face, I believe it's only natural for me to do the same to hypnotized zombies.\"</color>",
             "info": "<size=36>Can pull back hypnotized zombies!\n\n<color=black>Special: </color><color=#8B0000>Pulls all hypnotized zombies back, lasting 5 seconds, but reduces their HP by 10% max Toughness.</color>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Hypno-shroom + Blover</color>"
         },
@@ -2060,9 +2060,9 @@
         },
         {
             "seedType": 1181,
-            "name": "Foul Blover",
-            "introduce": "<align=justified><size=36><color=black>Foul Blover used to have a simple life, working at a bustling barbecue joint where business was booming. \"Ah, those were the days,\" it sighs. \"Customers used to leave with a green glow of happiness after I blew away the overwhelming garlic. Now? Things just aren't the same.\"",
-            "info": "<size=36>Foul Blover can poison zombies.\n\n<color=#5E1675>Poison System: </color><color=#8B0000>Inflicts 5 Poison Points to every zombie in the screen and apply the Poisoned debuff. It also increases the time the debuff stays by 5 more seconds.</color>\n<color=black>Special: </color><color=#8B0000>Forces Zombies to change lanes. </color>",
+            "name": "Disguster",
+            "introduce": "<align=justified><size=36><color=black>Disguster used to have a simple life, working at a bustling barbecue joint where business was booming. \"Ah, those were the days,\" it sighs. \"Customers used to leave with a green glow of happiness after I blew away the overwhelming garlic. Now? Things just aren't the same.\"",
+            "info": "<size=36>Disguster can poison zombies.\n\n<color=#5E1675>Poison System: </color><color=#8B0000>Inflicts 5 Poison Points to every zombie in the screen and apply the Poisoned debuff. It also increases the time the debuff stays by 5 more seconds.</color>\n<color=black>Special: </color><color=#8B0000>Forces Zombies to change lanes. </color>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Garlic + Blover</color>"
         },
         {
@@ -2188,7 +2188,7 @@
             "seedType": 1199,
             "name": "Doomwood",
             "introduce": "<align=justified><size=36><color=black>Whenever someone asks Doomwood, \"What's the secret to grilling?\" he just silently collects and repurposes the embers. It's not that he's indifferent; if he spoke, you'd just end up with a face full of ash.</color>",
-            "info": "<size=36>Doomwood keeps burning even after a Doom-shroom explosion and it takes burning to the next level.\n\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> When its Ember value is 0, it behaves the same as Torchwood.\n<color=black>•</color> When the Ember value is not 0, turns peas and regular ignited peas into ember peas, with +30 damage and a no falloff 1/3 splash damage. Ember peas inflict the Ember debuff.\n<color=black>•</color> Can also use 10 Ember values to strengthen Doom peas or mini Doom-shroom projectiles, ×2 or ×6 their damage respectively, and to enhance their splash effect to be the same as the large bullet of doom.</color>\n<color=#7303fc>Ember value: </color><color=#8B0000>\n<color=black>•</color> Initial: 60, Maximum: 60, 1 point is lost per second.\n<color=black>•</color> Gains 60 points for every 60 projectiles ignited, 30 points when affected by Doom-shroom explosions, and 10 points when any zombie within a 5×5 area dies with the Ember debuff. \n<color=black>•</color> Ember debuff will be cleared by cold/frozen/poisoned status and coexists with the Enflamed debuff.</color>",
+            "info": "<size=36>Doomwood keeps burning even after a Doom-shroom explosion and it takes burning to the next level.\n\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> When its Ember value is 0, it behaves the same as Torchwood.\n<color=black>•</color> When the Ember value is not 0, turns peas and regular ignited peas into ember peas, with +30 damage and a no falloff 1/3 splash damage. Ember peas inflict the Ember debuff.\n<color=black>•</color> Can also use 10 Ember values to strengthen Doom peas or Boom-shroom projectiles, ×2 or ×6 their damage respectively, and to enhance their splash effect to be the same as the large bullet of doom.</color>\n<color=#7303fc>Ember value: </color><color=#8B0000>\n<color=black>•</color> Initial: 60, Maximum: 60, 1 point is lost per second.\n<color=black>•</color> Gains 60 points for every 60 projectiles ignited, 30 points when affected by Doom-shroom explosions, and 10 points when any zombie within a 5×5 area dies with the Ember debuff. \n<color=black>•</color> Ember debuff will be cleared by cold/frozen/poisoned status and coexists with the Enflamed debuff.</color>",
             "cost": "<size=36>\nFusion Formula: <color=#8B0000>Doom-shroom + Torchwood</color>"
         },
         {
@@ -2207,9 +2207,9 @@
         },
         {
             "seedType": 1202,
-            "name": "Squashed Pumpkin",
-            "introduce": "<align=justified><size=36><color=black>Squashed Pumpkin has never met a match in arm wrestling, has diligently learned various techniques for skipping stones, and is very good at selecting stones—his only bane is that he is very afraid of water and can only watch others skip stones.</color>",
-            "info": "<size=36>The cozy nest of Squashes. When there are specific plants in the shell, it can spawn squashes.\n\n<color=black>Toughness: </color><color=#8B0000>4000</color>\n<color=black>Damage: </color><color=#8B0000>225</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Does nothing in Water Lanes.\n<color=black>•</color> Squash plants in Squash Pumpkins lose their ability to detect enemies.\n<color=black>•</color> When there are Squash or Squashwood plants in Squashed Pumpkin, a baby squash with 225 damage and a maximum jump distance of 1.5 Tiles is spawned. It disappears after 6 jumps and regenerates after 3 seconds.\n<color=black>•</color> Baby squashes spawned from Infernal Squashwood releases the Jalapeno effect when it lands.</color>",
+            "name": "Squash Pumpkin",
+            "introduce": "<align=justified><size=36><color=black>Squash Pumpkin has never met a match in arm wrestling, has diligently learned various techniques for skipping stones, and is very good at selecting stones—his only bane is that he is very afraid of water and can only watch others skip stones.</color>",
+            "info": "<size=36>The cozy nest of Squashes. When there are specific plants in the shell, it can spawn squashes.\n\n<color=black>Toughness: </color><color=#8B0000>4000</color>\n<color=black>Damage: </color><color=#8B0000>225</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Does nothing in Water Lanes.\n<color=black>•</color> Squash plants in Squash Pumpkins lose their ability to detect enemies.\n<color=black>•</color> When there are Squash or Squashwood plants in Squash Pumpkin, a baby squash with 225 damage and a maximum jump distance of 1.5 Tiles is spawned. It disappears after 6 jumps and regenerates after 3 seconds.\n<color=black>•</color> Baby squashes spawned from Infernal Squashwood releases the Jalapeno effect when it lands.</color>",
             "cost": "<size=36>\nFusion Formula: <color=#8B0000>Squash > Pumpkin</color>"
         },
         {
@@ -2263,16 +2263,16 @@
         },
         {
             "seedType": 1210,
-            "name": "Chrono Kernel",
-            "introduce": "<align=justified><size=36><color=black>\"You've seen Interstellar, right?\" Chrono Kernel often brings up his favorite sci-fi movie. \"The male protagonist drives into a cornfield at the beginning and then pilots a spaceship into a black hole at the end. There must be some connection between the two!\" Chrono Kernel insists.</color>",
-            "info": "<size=36>Chrono Kernel has a chance to throw a neutron butter that generates a mini black hole.\n\n<color=black>Damage: </color><color=#8B0000>80/3s</color>\n<color=black>Special: </color><color=#8B0000>Metal Plant. Has a 25% chance to throw a neutron butter with 100 damage, which generates a mini black hole when it hits. The mini black hole massively slows zombies down and explodes after 2 seconds, causing 100 damage and reducing the countdown of zombies with the chronoshift effect by 30 seconds.</color>",
+            "name": "Portal-pult",
+            "introduce": "<align=justified><size=36><color=black>\"You've seen Interstellar, right?\" Portal-pult often brings up his favorite sci-fi movie. \"The male protagonist drives into a cornfield at the beginning and then pilots a spaceship into a black hole at the end. There must be some connection between the two!\" Portal-pult insists.</color>",
+            "info": "<size=36>Portal-pult has a chance to throw a neutron butter that generates a mini black hole.\n\n<color=black>Damage: </color><color=#8B0000>80/3s</color>\n<color=black>Special: </color><color=#8B0000>Metal Plant. Has a 25% chance to throw a neutron butter with 100 damage, which generates a mini black hole when it hits. The mini black hole massively slows zombies down and explodes after 2 seconds, causing 100 damage and reducing the countdown of zombies with the chronoshift effect by 30 seconds.</color>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Chrono Core > Kernel Lure</color>"
         },
         {
             "seedType": 1211,
-            "name": "Rust-pult",
-            "introduce": "<align=justified><size=36><color=black>Rust-pult has been considering buying some anti-rust paint lately, as his butter always ends up with a bit of a rusty taste, which seriously hinders his ability to make butter cakes for his brothers. \"Butter with a rusty taste might only be good for fighting zombies.\"</color>",
-            "info": "<size=36>Rust-pult throws Iron kernels or Iron butter that is miraculously effective against Type 1 armor.\n\n<color=black>Toughness: </color><color=#8B0000>2000</color>\n<color=black>Damage: </color><color=#8B0000>80/3s</color>\n<color=black>Special: </color><color=#8B0000>Metal plant. Has a 25% chance to throw an Iron butter with 100 damage, which stuns the target for 4 seconds and removes their Type 1 armor instantly.</color>",
+            "name": "Bolt-pult",
+            "introduce": "<align=justified><size=36><color=black>Bolt-pult has been considering buying some anti-rust paint lately, as his butter always ends up with a bit of a rusty taste, which seriously hinders his ability to make butter cakes for his brothers. \"Butter with a rusty taste might only be good for fighting zombies.\"</color>",
+            "info": "<size=36>Bolt-pult throws Iron kernels or Iron butter that is miraculously effective against Type 1 armor.\n\n<color=black>Toughness: </color><color=#8B0000>2000</color>\n<color=black>Damage: </color><color=#8B0000>80/3s</color>\n<color=black>Special: </color><color=#8B0000>Metal plant. Has a 25% chance to throw an Iron butter with 100 damage, which stuns the target for 4 seconds and removes their Type 1 armor instantly.</color>",
             "cost": "<size=36>Fusion Formula: <color=#8B0000>Bucket/Screen Door > Kernel Lure</color>"
         },
         {
