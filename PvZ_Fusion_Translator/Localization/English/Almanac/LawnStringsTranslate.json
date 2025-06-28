@@ -716,8 +716,8 @@
         },
         {
             "seedType": 941,
-            "name": "Krakerbillion",
-            "introduce": "<align=justified><size=36><color=black>\"Taste the fury o' the briny deep, ye scurvy dogs!\" Since sailin' back from Davy Jones' Locker, Krakerbillion be a changed beast—fiercer, greedier, and twice as hearted. With treasure plundered from the seven seas and a fire in his vines, he rules the water lanes like a true sea devil. Any zombie tryin' to sneak in from the waves best be ready to walk the plank… 'cause this matey fights with both hearts and no mercy!</color>",
+            "name": "Kelptain Dreadhart",
+            "introduce": "<align=justified><size=36><color=black>Since sailin' back from the battle o' Maelstrom Abyss, Kelptain Dreadhart be a changed beast — fiercer, greedier, and twice as hearted. Now, as captain o' the cursed Raiding Goldplant, bound by two hearts — one ripped from his own breast, t'other stolen from the fallen rival — Kelptain Dreadhart's fury rules the Seven Seas. Dare lay a hand on his hearts, and ye'll see yer own ship sink straight to Davy Jones' Locker, doom'd to perish 'neath the briny deep.</color>",
             "info": "<size=36>Greedy overlord of the seven seas, capable of squeezing every last drop of value from zombies.\n\n<color=#4A2900>Usage Condition: Odyssey Mode | Unlockable</color>\n<color=black>Damage: </color><color=#8B0000>40×3/1.5s + Insta-kill (Drown) × ∞</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Retains all traits of Krakerberus, but can drag zombies underwater an infinite amout of times (up to once per second).\n<color=black>•</color> Zombies hit by its projectiles turn golden—when they die, they grant ×3 Odyssey points. Max bonus: +2000 points per wave.</color>\n<color=black>Odyssey Modifiers:</color>\n<color=#8B0000>1. Plants deal 5% more attack damage for every 1000 points owned (up to +300%)\n2. The Odyssey shop now has a 30% discount on Modifiers</color>",
             "cost": "<size=33>\nFusion Formula: <color=#8B0000>Twin Marigold > Krakerberus</color>"
         },

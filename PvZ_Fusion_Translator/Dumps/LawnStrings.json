@@ -333,7 +333,7 @@
             "seedType": 242,
             "name": "火红莲女王",
             "introduce": "<color=#3D1400>当初的那个热情似火的小花在历经磨难后成长为了产阳光高手——火红莲女王不再需要通过受伤来发挥作用了，她头上的火炬成为了她的力量，如太阳一般闪耀，闪耀的火焰会不断地传递下去，成为一个又一个新生的”火红莲“。</color>",
-            "info": "挥手放出全场索敌、命中时获得阳光的女王阳光子弹。\n<color=blue>麦版S6联动植物</color>\n\n<color=#3D1400>解锁条件：</color><color=red>通关[经典旅行]</color>\n<color=#3D1400>使用条件：</color><color=red>旅行模式</color>\n<color=#3D1400>韧性：</color><color=red>1000</color>\n<color=#3D1400>伤害：</color><color=red>50×8/3秒</color>\n<color=#3D1400>特点：</color><color=red>攻击全场索敌，优先对空，命中时获得5阳光。场上每多1种究极植物，子弹伤害+25</color>",
+            "info": "挥手放出全场索敌、命中时获得阳光的女王阳光子弹。\n<color=blue>麦版S6联动植物</color>\n\n<color=#3D1400>解锁条件：</color><color=red>通关[经典旅行]</color>\n<color=#3D1400>使用条件：</color><color=red>旅行模式</color>\n<color=#3D1400>韧性：</color><color=red>1000</color>\n<color=#3D1400>伤害：</color><color=red>50×8/3秒</color>\n<color=#3D1400>特点：</color><color=red>攻击全场对地索敌，命中时获得5阳光。场上每多1种究极植物，子弹伤害+25</color>",
             "cost": "花费：<color=red>200</color>\n冷却时间：<color=red>90秒</color>"
         },
         {
@@ -620,7 +620,7 @@
             "seedType": 927,
             "name": "究极机枪炮台",
             "introduce": "<color=#3D1400>究极机枪炮台不常与人交流，倒不是因为他高冷，而是因为总有人问他身上的火是热的还是冷的，以及既然他能制造冷火，那能不能制造热冰之类的问题，让他不胜其烦。</color>",
-            "info": "消耗血量发射可以击退的黑曜石子弹，越战越勇。\n\n<color=#3D1400>使用条件：</color><color=red>旅行模式抽取配方</color>\n<color=#3D1400>融合配方：</color><color=red>机枪豌豆炮台（底座）+黑曜石辣椒</color>\n<color=#3D1400>韧性：</color><color=red>8000</color>\n<color=#3D1400>伤害：</color><color=red>120×3/0.5秒</color>\n<color=#3D1400>特点：</color><color=red>子弹附带轻微击退，能穿透2次，每次伤害减半。血量高于500时每次攻击受伤50。血量越低，射速越快（最快2倍），且攻击力线性提高（最高3倍）</color>\n<color=#3D1400>词条1：</color><color=red>狂战士，血量越低防御力越高，血量不高于500时，免疫低于1000的伤害。2级，血量不高于500时，自身伤害×2</color>\n<color=#3D1400>词条2：</color><color=red>阻冲之，子弹伤害和击退距离×3</color>",
+            "info": "消耗血量发射可以击退的黑曜石子弹，越战越勇。\n\n<color=#3D1400>使用条件：</color><color=red>旅行模式抽取配方</color>\n<color=#3D1400>融合配方：</color><color=red>机枪豌豆炮台（底座）+黑曜石辣椒</color>\n<color=#3D1400>韧性：</color><color=red>8000</color>\n<color=#3D1400>伤害：</color><color=red>120×3/0.5秒</color>\n<color=#3D1400>特点：</color><color=red>无法被替伤，子弹附带轻微击退，能穿透2次，每次伤害减半。血量高于500时每次攻击受伤50。血量越低，射速越快（最快2倍），且攻击力线性提高（最高3倍）</color>\n<color=#3D1400>词条1：</color><color=red>狂战士，血量越低防御力越高，血量不高于500时，免疫低于1000的伤害。2级，血量不高于500时，自身伤害×2</color>\n<color=#3D1400>词条2：</color><color=red>阻冲之，子弹伤害和击退距离×3</color>",
             "cost": ""
         },
         {
@@ -753,7 +753,7 @@
             "seedType": 946,
             "name": "究极激光炮台",
             "introduce": "<color=#3D1400>卸下引人注目的机枪，成为隐秘的狙击手，究极激光炮台十分享受难得的清静时光。不过，背后关于他的议论从未停止，毕竟谁见过口径这么巨大的反器材狙击步枪，以及命中靠信仰的狙击手呢？</color>",
-            "info": "消耗血量发射无限穿透的脉冲激光，越战越勇。\n\n<color=#3D1400>使用条件：</color><color=red>旅行模式抽取配方</color>\n<color=#3D1400>转换配方：</color><color=red>豌豆射手←→狙击射手</color>\n<color=#3D1400>伤害：</color><color=red>300×5/3秒</color>\n<color=#3D1400>索敌范围：</color><color=red>水平±10°</color>\n<color=#3D1400>特点：</color><color=red>究极机枪炮台亚种。攻击无限穿透，可对空。血量高于500时每次攻击受伤500，攻击力随血量降低线性提高，最高900</color>",
+            "info": "消耗血量发射无限穿透的脉冲激光，越战越勇。\n\n<color=#3D1400>使用条件：</color><color=red>旅行模式抽取配方</color>\n<color=#3D1400>转换配方：</color><color=red>豌豆射手←→狙击射手</color>\n<color=#3D1400>伤害：</color><color=red>300×5/3秒</color>\n<color=#3D1400>索敌范围：</color><color=red>水平±10°</color>\n<color=#3D1400>特点：</color><color=red>究极机枪炮台亚种，无法被替伤。攻击无限穿透，可对空。血量高于500时每次攻击受伤100，攻击力随血量降低线性提高，最高900</color>",
             "cost": ""
         },
         {
@@ -788,7 +788,7 @@
             "seedType": 951,
             "name": "究极灯笼巨嘴花",
             "introduce": "<color=#3D1400>究极灯笼巨嘴花不知道被谁从海底捞了上来，不过他现在已经适应了陆地生活。“回去干嘛？在黑咕隆咚的深海找那点小鱼？我可不干。还是僵尸好，永远吃不完。”据说这家伙把大胃王比赛组委会吃到连电费都交不起了，只能自己充当应急照明灯。</color>",
-            "info": "利用灯光诱敌的巨型大嘴花，诱敌、吞食、消化能力样样强。\n\n<color=#3D1400>使用条件：</color><color=red>旅行模式抽取配方</color>\n<color=#3D1400>融合配方：</color><color=red>巨型大嘴花（底座）+灯笼大嘴花</color>\n<color=#3D1400>韧性：</color><color=red>8000</color>\n<color=#3D1400>伤害：</color><color=red>秒杀（吞食）</color>\n<color=#3D1400>消化时间：</color><color=red>（5+僵尸总血量的0.33次方）秒</color>\n<color=#3D1400>特点：</color><color=red>免疫碾压并击退，能吞食前方1.5格内的非领袖僵尸。每1点光照等级可减少消化时间10秒，且消化时间最少5秒，使用大嘴花卡片可以减少10秒消化时间。消化结束时可以吸引范围内上下两行的僵尸到本行并回复1倍韧性血量</color>\n<color=#3D1400>词条1：</color><color=red>深渊巨口：提高究极灯笼巨嘴花的攻击距离</color>\n<color=#3D1400>词条2：</color><color=red>光芒四射：消化时间内会为5x5的范围提供2点光照等级</color>",
+            "info": "利用灯光诱敌的巨型大嘴花，诱敌、吞食、消化能力样样强。\n\n<color=#3D1400>使用条件：</color><color=red>旅行模式抽取配方</color>\n<color=#3D1400>融合配方：</color><color=red>巨型大嘴花（底座）+灯笼大嘴花</color>\n<color=#3D1400>韧性：</color><color=red>8000</color>\n<color=#3D1400>伤害：</color><color=red>秒杀（吞食）</color>\n<color=#3D1400>消化时间：</color><color=red>同巨型大嘴花</color>\n<color=#3D1400>特点：</color><color=red>免疫碾压并击退，能吞食前方1.5格内的非领袖僵尸。每1点光照等级可增加30%消化速度，使用大嘴花卡片可以减少10秒消化时间。消化结束时可以吸引范围内上下两行的僵尸到本行并回复1倍韧性血量</color>\n<color=#3D1400>词条1：</color><color=red>深渊巨口：提高究极灯笼巨嘴花的攻击距离</color>\n<color=#3D1400>词条2：</color><color=red>光芒四射：消化时间内会为5x5的范围提供2点光照等级</color>",
             "cost": ""
         },
         {
@@ -851,7 +851,7 @@
             "seedType": 1008,
             "name": "樱桃双发射手",
             "introduce": "<color=#3D1400>​樱桃双发射手信奉“好事成双”，所以他什么时候做事都是成双成对的，不论是对付僵尸还是出门送礼。“可是老兄。”樱桃射手对他说道，“你这一对樱桃根本没熟啊。</color>",
-            "info": "发射樱桃子弹的双发射手。\n\n<color=#3D1400>伤害：</color><color=red>40×2/1.5秒</color>\n<color=#3D1400>增生豆荚：</color><color=red>出场15秒后自动融合一株豌豆射手</color>\n<color=#3D1400>融合配方：</color><color=red>豌豆射手×2+樱桃炸弹</color>",
+            "info": "发射樱桃子弹的双发射手。\n\n<color=#3D1400>伤害：</color><color=red>40×2/1.5秒</color>\n<color=#3D1400>增生豆荚：</color><color=red>出场15秒后用鼠标点击即可融合一株豌豆射手</color>\n<color=#3D1400>融合配方：</color><color=red>豌豆射手×2+樱桃炸弹</color>",
             "cost": ""
         },
         {
@@ -1530,7 +1530,7 @@
             "seedType": 1105,
             "name": "寒冰双发射手",
             "introduce": "<color=#3D1400>“你是怎么变成这样的？”有人这样问寒冰双发射手“其实我是双发射手，我只是在冬天睡觉时忘了盖被子”。</color>",
-            "info": "发射寒冰豌豆的双发射手。\n\n<color=#3D1400>伤害：</color><color=red>20×2/1.5秒</color>\n<color=#3D1400>增生豆荚：</color><color=red>出场15秒后自动融合一株豌豆射手</color>\n<color=#3D1400>融合配方：</color><color=red>豌豆射手×2+寒冰菇</color>",
+            "info": "发射寒冰豌豆的双发射手。\n\n<color=#3D1400>伤害：</color><color=red>20×2/1.5秒</color>\n<color=#3D1400>增生豆荚：</color><color=red>出场15秒后用鼠标点击即可融合一株豌豆射手</color>\n<color=#3D1400>融合配方：</color><color=red>豌豆射手×2+寒冰菇</color>",
             "cost": ""
         },
         {
@@ -1544,14 +1544,14 @@
             "seedType": 1107,
             "name": "寒冰裂荚射手",
             "introduce": "<color=#3D1400>“别看他外表这么冰冷，说不定他还有不为人知的另一面呢？”只有矿工僵尸对此嗤之以鼻：“别瞎猜了，这家伙的另一面也是冷的！”</color>",
-            "info": "发射寒冰豌豆的裂荚射手。\n\n<color=#3D1400>伤害：</color><color=red>20×3/1.5秒</color>\n<color=#3D1400>特点：</color><color=red>子弹触碰到左侧屏幕边缘会反弹</color>\n<color=#3D1400>增生豆荚：</color><color=red>出场15秒后自动融合一株豌豆射手</color>\n<color=#3D1400>融合配方：</color><color=red>豌豆射手×3+寒冰菇</color>",
+            "info": "发射寒冰豌豆的裂荚射手。\n\n<color=#3D1400>伤害：</color><color=red>20×3/1.5秒</color>\n<color=#3D1400>特点：</color><color=red>子弹触碰到左侧屏幕边缘会反弹</color>\n<color=#3D1400>增生豆荚：</color><color=red>出场15秒后用鼠标点击即可融合一株豌豆射手</color>\n<color=#3D1400>融合配方：</color><color=red>豌豆射手×3+寒冰菇</color>",
             "cost": ""
         },
         {
             "seedType": 1108,
             "name": "樱桃裂荚射手",
             "introduce": "<color=#3D1400>樱桃裂荚射手从战壕里爬出来说：“是谁？谁扔的炸弹？”“不好意思，兄弟，看你把枪口朝着我们，我还以为你是僵尸呢。”超级樱桃射手不好意思地说。</color>",
-            "info": "发射樱桃子弹的裂荚射手。\n\n<color=#3D1400>伤害：</color><color=red>40×3/1.5秒</color>\n<color=#3D1400>特点：</color><color=red>子弹触碰到左侧屏幕边缘会反弹</color>\n<color=#3D1400>增生豆荚：</color><color=red>出场15秒后自动融合一株豌豆射手</color>\n<color=#3D1400>融合配方：</color><color=red>豌豆射手×3+樱桃炸弹</color>",
+            "info": "发射樱桃子弹的裂荚射手。\n\n<color=#3D1400>伤害：</color><color=red>40×3/1.5秒</color>\n<color=#3D1400>特点：</color><color=red>子弹触碰到左侧屏幕边缘会反弹</color>\n<color=#3D1400>增生豆荚：</color><color=red>出场15秒后用鼠标点击即可融合一株豌豆射手</color>\n<color=#3D1400>融合配方：</color><color=red>豌豆射手×3+樱桃炸弹</color>",
             "cost": ""
         },
         {
@@ -2244,7 +2244,7 @@
             "seedType": 1207,
             "name": "樱桃保护伞",
             "introduce": "<color=#3D1400>樱桃保护伞换了个新发型，这让他显得更加叛逆、暴躁，像是浪迹街头的不良少年。不过别看他这个样子，他其实也是个热心肠子，还会主动帮理发师打扫剪下来的叶片呢。</color>",
-            "info": "击退时能产生樱桃爆炸的保护伞，能间接利用樱桃爆炸来保护周围植物。\n\n<color=#3D1400>韧性：</color><color=red>600</color>\n<color=#3D1400>特点：</color><color=red>拥有叶子保护伞的特点。能击退接近的僵尸，释放伤害300的小范围樱桃爆炸。免疫樱桃投掷物的伤害。附近3x3范围有樱桃防御类植物回血时获得1层充能，最高100层。充能大于1层时，为3x3范围植物承伤，且消耗2层免疫此次伤害</color>\n<color=#3D1400>融合配方：</color><color=red>叶子保护伞+樱桃炸弹</color>",
+            "info": "击退时能产生樱桃爆炸的保护伞，能间接利用樱桃爆炸来保护周围植物。\n\n<color=#3D1400>韧性：</color><color=red>600</color>\n<color=#3D1400>特点：</color><color=red>拥有叶子保护伞的特点。能击退接近的僵尸，释放伤害300的小范围樱桃爆炸。免疫樱桃投掷物的伤害。附近3x3范围有樱桃防御类植物受到樱桃爆炸效果回血时获得1层充能，最高100层。充能大于1层时，为3x3范围植物承伤，且消耗2层免疫此次伤害</color>\n<color=#3D1400>融合配方：</color><color=red>叶子保护伞+樱桃炸弹</color>",
             "cost": ""
         },
         {
