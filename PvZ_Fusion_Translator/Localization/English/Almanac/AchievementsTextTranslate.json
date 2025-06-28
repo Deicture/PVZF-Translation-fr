@@ -91,7 +91,7 @@
     },
     "SquashKelp": {
         "achievement": 18,
-        "Name": "Discover Mangle Kelp.",
+        "Name": "Discover Strangle Kelp.",
         "Text": "Creature from the Deep"
     },
     "ThreeSpike": {
@@ -231,7 +231,7 @@
     },
     "UltimateCannon": {
         "achievement": 46,
-        "Name": "Discover Cob-livion Cannon.",
+        "Name": "Discover Cob-literation.",
         "Text": "I am Become Death"
     },
     "SuperUmbrella": {
@@ -261,7 +261,7 @@
     },
     "UltimateFume": {
         "achievement": 52,
-        "Name": "Discover Doominator-shroom",
+        "Name": "Discover Doominator",
         "Text": "Dominion"
     },
     "UltimteGloom": {
@@ -311,7 +311,7 @@
     },
     "SuperSunNut": {
         "achievement": 62,
-        "Name": "Spawn a Giant-nut from Twin Solar-nut.",
+        "Name": "Spawn a Giant Solar-nut from Twin Solar-nut.",
         "Text": "Here Comes the Sun"
     },
     "UltimatePumpkin": {
