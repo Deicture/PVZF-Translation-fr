@@ -3803,7 +3803,7 @@
       "seedType": 908,
       "name": "Seta Cristalida",
       "introduce": "<size=39><color=#3D1400>Las Desesporadas que gritaban \u0022¡Al ejército!\u0022 ahora son veteranos de mirada fría. La Compañía Cristalida cumple su misión sin fallar.</color></size>",
-      "info": "<size=39>Parte del <color=#0077b6>Sistema Criogénico</color>\n\n<color=#0077b6>Sistema Criogénico:</color>\n- <color=red>5 Puntos/impacto</color>. Al alcanzar <color=red>100</color>, congela al zombi (<color=red>5s</color>).\n- <color=red>×4 Daño</color> a zombis congelados.\n\n<color=#3D1400>Daño Base: </color><color=red>20×4×3/1.5s</color>\n<color=#3D1400>Penetración: </color><color=red>3 zombis/carámbano</color>\n\n<color=purple>Mejoras de Odisea:</color>\n- Penetración → <color=red>10 zombis</color>\n- <color=red>×10 Daño</color> a congelados\nDesbloqueo de la subespecie <color=red>Seta Cristasol</color>\n\n<color=#3D1400>Fórmula: </color><color=red>Seta Desesporada + Guisantrallahielo</color>\n<color=#3D1400>Nombre Científico: </color><color=red>Mycota Crystallis</color></size>",
+      "info": "<size=39>Parte del <color=#0077b6>Sistema Criogénico</color>\n\n<color=#0077b6>Sistema Criogénico:</color>\n- <color=red>5 Puntos/impacto</color>. Al alcanzar <color=red>100</color>, congela al zombi (<color=red>5s</color>).\n- <color=red>×4 Daño</color> a zombis congelados.\n\n<color=#3D1400>Daño Base: </color><color=red>20×4×3/1.5s</color>\n<color=#3D1400>Penetración: </color><color=red>3 zombis/carámbano</color>\n\n<color=purple>Mejoras de Odisea:</color>\n- Penetración → <color=red>10 zombis</color>\n- <color=red>×10 Daño</color> a congelados\nDesbloqueo de la subespecie <color=red>Seta Cristasol</color>\n\n<color=#3D1400>Fórmula: </color><color=red>Seta Desesporada + Hielantralladora</color>\n<color=#3D1400>Nombre Científico: </color><color=red>Mycota Crystallis</color></size>",
       "cost": "<size=33>Costo: <color=red>475, 625</color>   Recarga: <color=red>87.5 Segundos</color>\nPlantas Requeridas: <color=red>6\n<color=purple>Condición de Uso: Modo Odisea</color></size>"
     },
     {
@@ -5043,8 +5043,8 @@
     },
     {
       "seedType": 1106,
-      "name": "Guisantrallahielo",
-      "introduce": "<size=39><color=#3D1400>\u0022Sus manos están frías, su cara está fría, su corazón está frío e incluso su sangre está fría... ¿Está congelado?\u0022 alguien se preguntó en voz alta. Guisantrallahielo se estremeció, tranquilizando a las plantas preocupadas, \u0022¡No estoy congelado! ¡El cañón de mi ametralladora sigue ardiendo!\u0022</color></size>",
+      "name": "Hielantralladora",
+      "introduce": "<size=39><color=#3D1400>\u0022Sus manos están frías, su cara está fría, su corazón está frío e incluso su sangre está fría... ¿Está congelado?\u0022 alguien se preguntó en voz alta. Hielantralladora se estremeció, tranquilizando a las plantas preocupadas, \u0022¡No estoy congelado! ¡El cañón de mi ametralladora sigue ardiendo!\u0022</color></size>",
       "info": "<size=39>Parte del <color=#0077b6>Sistema Criogénico</color>.\n¡Lanza cuatro guisantes helados a los zombis!\n<color=#0077b6>Sistema Criogénico:</color><color=#28567B>\n</color>- Aplica 10 puntos al impacto.\n- Daño x4 a zombis congelados.</color>\n\n<color=#3D1400>Daño: </color><color=red>20x4/1.5 Segundos</color>\n<color=#3D1400>Fórmula de Fusión: </color><color=red>Guisantralladora + Seta Congelada</color>\n<color=#3D1400>Nombre Científico: </color><color=red>Pisum cryomitra</color></size>",
       "cost": "<size=39>Costo: <color=red>475, 550</color>   Recarga: <color=red>80 Segundos</color>\nPlantas Requeridas: <color=red>5</color></size>"
     },
