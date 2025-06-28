@@ -354,7 +354,7 @@
             "seedType": 245,
             "name": "Imitater",
             "introduce": "<align=justified><size=36><color=black>\"I remember the Zombie Wars back in 76\", says Imitater in a raspy, old-man's voice. \"Back then, we didn't have all these fancy peashooters and jalapenos. All we had was guts. Guts and a spoon.\"</color>",
-            "info": "<size=36>Imitater can make copies of your plants!\n\n<color=#4A2900>Unlock Conditions: Beat Odyssey Gacha - Imitater</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Plant Imitater on a plant or fusion to receive a free seed packet of that plant.\n<color=black>•</color> Cannot imitate pots, pads, pumpkins or drones. \n<color=black>•</color> Failure returns an Imitator seedpacket.</color>",
+            "info": "<size=36>Imitater can make copies of your plants!\n\n<color=#4A2900>Unlock Conditions: Beat Odyssey Gacha - Imitater</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Plant Imitater on a plant or fusion to receive a free seed packet of that plant.\n<color=black>•</color> Cannot imitate pots, pads, pumpkins or drones. \n<color=black>•</color> Failure returns an Imitater seedpacket.</color>",
             "cost": "<size=36>Cost: <color=#8B0000>100</color>\nRecharge: <color=#8B0000>5 Minutes</color>"
         },
         {
@@ -677,7 +677,7 @@
             "name": "Mechanized Pumpkin",
             "introduce": "<align=justified><size=36><color=black>After a full-scale mechanical overhaul, Mechanized Pumpkin was a fortress on wheels. Composite armor? Check. Iron reinforcements? Double check. Tactical interface? You bet. Everything was perfect... until he caught a glimpse of his reflection. A crab. They turned him into a crab. \"Guys, seriously?! A little heads-up would've been nice!\"</color>",
             "info": "<size=36>A pumpkin with many functions.\n\n<color=#4A2900>Usage Condition: Odyssey Mode | Initial Selection</color>\n<color=black>Toughness: </color><color=#8B0000>8000</color>\n<color=black>Special: </color>\n<color=#8B0000>Metal Plant. Has a multitude of traits.\n<color=black>•</color> Immune to Jack-in-the-Box explosions.\n<color=black>•</color> Allows Digger Zombies to come out of the ground early.\n<color=black>•</color> Halves damage from Cherry explosions.\n<color=black>•</color> Allows you to use Iron objects to regain Toughness.</color>\n<color=black>Odyssey Modifiers: </color><color=#8B0000>To Be Determined</color>",
-            "cost": "<size=36>\nFusion Formula: </color><color=#8B0000>Magnet-shroom > Pumpkin Lure</color>"
+            "cost": "<size=36>\nFusion Formula: </color><color=#8B0000>Magnet-shroom > Pumpkin Morph</color>"
         },
         {
             "seedType": 936,
@@ -740,7 +740,7 @@
             "name": "Tesla Magnet",
             "introduce": "<align=justified><size=36><color=black>Tesla Magnet commands iron with thunder and thunder with magnetic fields. He grants his people eternal magnetism and built a kingdom of electricity. Yet beyond his military conquests and political achievements, he still suffers headaches in the search for a queen with the opposite charge.</color>",
             "info": "<size=36>Extremely magnetic, quickly absorbs metal objects and turn them into explosive cherries.\n\n<color=#4A2900>Usage Condition: Odyssey Mode | Initial Selection</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Inherits the traits of Lumos Magnet, metal object absorption CD: 0.5s.\n<color=black>•</color> Can pull the pogo sticks from Pogo King Jack-in-the-Boxes and convert them into Jack-in-the-Boxes; also pulls (insta-kills) Kirov Drones and converts them into Jack-in-the-Boxes.\n<color=black>•</color> Deals 300 damage every 0.5s to 1 Giga Trident-nut Zombie or Giga Football-nut Zombie within range.\n<color=black>•</color> Launches absorbed metal after 3s, dealing the same damage and AoE as explosive cherries; with full-map targeting and anti-air capability.</color>\n<color=black>Odyssey Modifiers:</color>\n<color=#8B0000>1. Attack Range ×2\n2. Absorbs 3 Metal Objects at once, damage to Giga Trident-nut Zombies or Giga Football-nut Zombies ×3</color>",
-            "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Lumos Magnet + Grenadier Magnet</color>"
+            "cost": "<size=36>Fusion Formula: <color=#8B0000>Lumos Magnet + Grenadier Magnet</color>"
         },
         {
             "seedType": 945,
@@ -1437,15 +1437,15 @@
         },
         {
             "seedType": 1092,
-            "name": "Pumpkin Lure",
-            "introduce": "<align=justified><size=36><color=black>Dining out sends shivers down Pumpkin Lure's spine. He's always fearful that the iron cutlery will magically stick to his face, turning an enjoyable meal into an awkward experience.</color></size>",
+            "name": "Pumpkin Morph",
+            "introduce": "<align=justified><size=36><color=black>Dining out sends shivers down Pumpkin Morph's spine. He's always fearful that the iron cutlery will magically stick to his face, turning an enjoyable meal into an awkward experience.</color></size>",
             "info": "<size=36>Can fuse with iron materials from zombies to absorb their properties.\n\n<color=black>Toughness: </color><color=#8B0000>4000</color>\n<color=#666699>Magnetic System: </color><color=#8B0000>This plant will deal:\n(20 * Amount of Magnetic Plants in System * Zombie Speed) to specific zombies every 6s. Only Zombies with magnetable materials OR mechanical vehicles can be damaged this way. Also, they must not be on the sky or underground. This trait carries into further fusions.</color>\n<color=black>Special: </color><color=#8B0000>Metal plant.</color></size>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Magnet-shroom > Pumpkin</color>"
         },
         {
             "seedType": 1093,
-            "name": "Starlure",
-            "introduce": "<align=justified><size=36><color=black>Starlure harbors a lifelong dream: to suck the stars from the sky. He spends every night staring at the starry heavens, imagining the day when his dream becomes reality.</color></size>",
+            "name": "Starmorph",
+            "introduce": "<align=justified><size=36><color=black>Starmorph harbors a lifelong dream: to suck the stars from the sky. He spends every night staring at the starry heavens, imagining the day when his dream becomes reality.</color></size>",
             "info": "<size=36>Can fuse with iron materials from zombies to absorb their properties.\n\n<color=black>Damage: </color><color=#8B0000>40×5/1.5s</color>\n<color=black>Special: </color><color=#8B0000>Metal plant. Deals double damage to iron zombies.</color></size>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Starfruit + Magnet-shroom</color>"
         },
@@ -1454,42 +1454,42 @@
             "name": "Starjoker",
             "introduce": "<align=justified><size=36><color=black>Starjoker often bore the burden of being seen as a circus clown, which left him feeling discontented. \"I may appear comical, but I am, in fact, a superhero,\" he declared. \"I commandeered the zombie's Jack-in-the-Box and put on the hero suit inside!\" Perhaps the Magnet-shroom who aided him in the heist never mentioned where the box came from.</color></size>",
             "info": "<size=36>Shoots out stars that explode on contact.\n\n<color=black>Damage: </color><color=#8B0000>40×5/1.5s</color>\n<color=black>Special: </color><color=#8B0000>Metal plant. Stars explode to deal a small no-falloff splash damage upon contact.</color></size>",
-            "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Jack-in-the-Box > Starlure</color>"
+            "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Jack-in-the-Box > Starmorph</color>"
         },
         {
             "seedType": 1095,
             "name": "Starpick",
             "introduce": "<align=justified><size=36><color=black>\"It's remarkably pickaxe-like,\" Starpick commented, a hint of amusement in his tone. \"I can feel part of myself nestled in the ground, and it's quite pleasant—unless you're bothered by insects like centipedes.\" With a cheeky smile, he challenged, \"Why not take off my hat? You'll find I'm even more pickaxe-like than you!\"</color></size>",
             "info": "<size=36>Starpick hides underground: zombies will not attack it.\n\n<color=black>Damage: </color><color=#8B0000>40×5/1.5s</color>\n<color=black>Special: </color><color=#8B0000>Cannot be attacked and do not block zombies.</color></size>",
-            "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Pickaxe > Starlure</color>"
+            "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Pickaxe > Starmorph</color>"
         },
         {
             "seedType": 1096,
             "name": "Starsteel",
-            "introduce": "<align=justified><size=36><color=black>People often use the headshots of Starsteel and Starlure to hype up their relationship, which greatly troubles both of them. In fact, Starsteel just wants to be himself - a star with a heart of stone that is hard to rust.</color></size>",
+            "introduce": "<align=justified><size=36><color=black>People often use the headshots of Starsteel and Starmorph to hype up their relationship, which greatly troubles both of them. In fact, Starsteel just wants to be himself - a star with a heart of stone that is hard to rust.</color></size>",
             "info": "<size=36>Fires stars lined with a metallic coating.\n\n<color=black>Toughness: </color><color=#8B0000>2000</color>\n<color=black>Damage: </color><color=#8B0000>80×5/1.5s</color>\n<color=black>Special: </color><color=#8B0000>Metal plant. Breaks Type 2 armor instantly.</color></size>",
-            "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Bucket/Screen Door > Starlure</color>"
+            "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Bucket/Screen Door > Starmorph</color>"
         },
         {
             "seedType": 1097,
             "name": "Steel Pumpkin",
             "introduce": "<align=justified><size=36><color=black>\"I wish I were stronger,\" Steel Pumpkin muses. \"Maybe if I were made of diamond...\" Starsteel smirks and replies, \"Even that wouldn't be enough! You'd need to be netherite!\" In their spirited banter, they forget a vital truth: they can enchant their own strengths.</color></size>",
             "info": "<size=36>Protects your plants with sturdy iron.\n\n<color=black>Toughness: </color><color=#8B0000>8000</color>\n<color=black>Special: </color><color=#8B0000>Metal plant.</color></size>",
-            "cost": "<size=36>Fusion Formula: <color=#8B0000>Bucket/Screen Door > Pumpkin Lure</color>"
+            "cost": "<size=36>Fusion Formula: <color=#8B0000>Bucket/Screen Door > Pumpkin Morph</color>"
         },
         {
             "seedType": 1098,
             "name": "Joker Pumpkin",
             "introduce": "<align=justified><size=36><color=black>\"Whenever I emerge, it signals the arrival of the clown. Everyone wonders what lies within his box, but the outcome remains a mystery. I caught a glimpse once, and that moment changed everything for me.\"</color></size>",
             "info": "<size=36>Can block explosions caused by Jack-in-the-Box zombies\n\n<color=black>Toughness: </color><color=#8B0000>4000</color>\n<color=black>Special: </color><color=#8B0000>Metal plant. Nullifies Jack-in-the-Box explosion damage, protecting the plant inside.</color></size>",
-            "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Jack-in-the-Box > Pumpkin Lure</color>"
+            "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Jack-in-the-Box > Pumpkin Morph</color>"
         },
         {
             "seedType": 1099,
             "name": "Miner Pumpkin",
             "introduce": "<align=justified><size=36><color=black>Pumpkin is frequently used to protect the plants in the back from being attacked by miners. Curious about stopping the miners from drilling into the ground, he picked up their pickaxes and studied them. Ultimately, he developed new technology that forces miners to dig their way out of the ground in advance.</color></size>",
             "info": "<size=36>Can block mining attempts by Digger Zombies.\n\n<color=black>Toughness: </color><color=#8B0000>4000</color>\n<color=black>Special: </color><color=#8B0000>Metal plant. Forces Digger Zombies to unearth prematurely.</color></size>",
-            "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Pickaxe > Pumpkin Lure</color>"
+            "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Pickaxe > Pumpkin Morph</color>"
         },
         {
             "seedType": 1100,
@@ -1899,17 +1899,17 @@
         },
         {
             "seedType": 1158,
-            "name": "Lure-shroom",
-            "introduce": "<align=justified><size=36><color=black>'I used to ferment bread,' Lure-shroom explained, 'but now I collect metal to build the bread ovens.'</color>",
+            "name": "Morph-shroom",
+            "introduce": "<align=justified><size=36><color=black>'I used to ferment bread,' Morph-shroom explained, 'but now I collect metal to build the bread ovens.'</color>",
             "info": "<size=36>Putting an Iron Bucket on him might have interesting results.\n\n<color=black>Damage: </color><color=#8B0000>40/1.5s</color>\n<color=black>Special: </color><color=#8B0000>Deals ×2 damage to Metal Zombies.</color>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Fume-shroom + Magnet-shroom</color>"
         },
         {
             "seedType": 1159,
             "name": "Rust-shroom",
-            "introduce": "<align=justified><size=36><color=black>'I got canned again!' Cries Rust-shroom who used to be Lure-shroom just a moment ago, 'All I did was accidentally making a coffee maker rather than an oven!'</color>",
+            "introduce": "<align=justified><size=36><color=black>'I got canned again!' Cries Rust-shroom who used to be Morph-shroom just a moment ago, 'All I did was accidentally making a coffee maker rather than an oven!'</color>",
             "info": "<size=36>There could be another twist if you give him a Football Helmet?\n\n<color=black>Toughness: </color><color=#8B0000>2000</color>\n<color=black>Damage: </color><color=#8B0000>50/1.5s</color>\n<color=black>Special: </color><color=#8B0000>Deals ×3 damage to Type 1 armors.</color>",
-            "cost": "<size=36>Fusion Formula: <color=#8B0000>Bucket/Screen Door > Lure-shroom</color>"
+            "cost": "<size=36>Fusion Formula: <color=#8B0000>Bucket/Screen Door > Morph-shroom</color>"
         },
         {
             "seedType": 1160,
@@ -2256,9 +2256,9 @@
         },
         {
             "seedType": 1209,
-            "name": "Kernel Lure",
-            "introduce": "<align=justified><size=36><color=black>\"The elderly also need to learn to keep up with the times,\" the Kernel Lure said, \"This new force of magnetism has truly opened my eyes.\" Of course, there is a small problem; it always makes the neighbors think I'm a scrap collector.</color>",
-            "info": "<size=36>The Kernel Lure can fuse with metal objects and changes into the corresponding form based on the type.\n\n<color=black>Damage: </color><color=#8B0000>60/3s</color>\n<color=black>Special: </color><color=#8B0000>Has a 25% chance to throw a magnetic butter with 80 damage, and stuns the target for 4 seconds.</color>",
+            "name": "Kernel Morph",
+            "introduce": "<align=justified><size=36><color=black>\"The elderly also need to learn to keep up with the times,\" the Kernel Morph said, \"This new force of magnetism has truly opened my eyes.\" Of course, there is a small problem; it always makes the neighbors think I'm a scrap collector.</color>",
+            "info": "<size=36>The Kernel Morph can fuse with metal objects and changes into the corresponding form based on the type.\n\n<color=black>Damage: </color><color=#8B0000>60/3s</color>\n<color=black>Special: </color><color=#8B0000>Has a 25% chance to throw a magnetic butter with 80 damage, and stuns the target for 4 seconds.</color>",
             "cost": "<size=36>\nFusion Formula: <color=#8B0000>Kernel-pult + Magnet-shroom</color>"
         },
         {
@@ -2266,14 +2266,14 @@
             "name": "Portal-pult",
             "introduce": "<align=justified><size=36><color=black>\"You've seen Interstellar, right?\" Portal-pult often brings up his favorite sci-fi movie. \"The male protagonist drives into a cornfield at the beginning and then pilots a spaceship into a black hole at the end. There must be some connection between the two!\" Portal-pult insists.</color>",
             "info": "<size=36>Portal-pult has a chance to throw a neutron butter that generates a mini black hole.\n\n<color=black>Damage: </color><color=#8B0000>80/3s</color>\n<color=black>Special: </color><color=#8B0000>Metal Plant. Has a 25% chance to throw a neutron butter with 100 damage, which generates a mini black hole when it hits. The mini black hole massively slows zombies down and explodes after 2 seconds, causing 100 damage and reducing the countdown of zombies with the chronoshift effect by 30 seconds.</color>",
-            "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Chrono Core > Kernel Lure</color>"
+            "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Chrono Core > Kernel Morph</color>"
         },
         {
             "seedType": 1211,
             "name": "Bolt-pult",
             "introduce": "<align=justified><size=36><color=black>Bolt-pult has been considering buying some anti-rust paint lately, as his butter always ends up with a bit of a rusty taste, which seriously hinders his ability to make butter cakes for his brothers. \"Butter with a rusty taste might only be good for fighting zombies.\"</color>",
             "info": "<size=36>Bolt-pult throws Iron kernels or Iron butter that is miraculously effective against Type 1 armor.\n\n<color=black>Toughness: </color><color=#8B0000>2000</color>\n<color=black>Damage: </color><color=#8B0000>80/3s</color>\n<color=black>Special: </color><color=#8B0000>Metal plant. Has a 25% chance to throw an Iron butter with 100 damage, which stuns the target for 4 seconds and removes their Type 1 armor instantly.</color>",
-            "cost": "<size=36>Fusion Formula: <color=#8B0000>Bucket/Screen Door > Kernel Lure</color>"
+            "cost": "<size=36>Fusion Formula: <color=#8B0000>Bucket/Screen Door > Kernel Morph</color>"
         },
         {
             "seedType": 1212,
