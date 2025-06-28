@@ -492,15 +492,15 @@
     },
     {
       "theZombieType": 205,
-      "name": "Zomppelín Kirov</size>",
+      "name": "Zomppelín Kírov</size>",
       "introduce": "<size=39><color=#3D1400>¿Era SuperZombi?, ¿Zombi Globo? en realidad, era un gigantesco dirigible, resistente y capaz de liberar luchadores. Incluso destruido, sigue causando estragos y los zombis mantienen su distancia por temor a un choque fatal.</color></size>",
-      "info": "<size=39>¡Kirov informando!\n\n<color=#3D1400>Dureza: </color><color=#4B0082>3000</color>\n<color=#3D1400>Características: </color><color=#4B0082>Invoca un mini Kirov en acción cada segundo. Al estrellarse tras su muerte, causa un inmenso daño a las plantas en el impacto.</color></size>"
+      "info": "<size=39>¡Kírov informando!\n\n<color=#3D1400>Dureza: </color><color=#4B0082>3000</color>\n<color=#3D1400>Características: </color><color=#4B0082>Invoca un mini Kírov en acción cada segundo. Al estrellarse tras su muerte, causa un inmenso daño a las plantas en el impacto.</color></size>"
     },
     {
       "theZombieType": 206,
-      "name": "Dron Kirov</size>",
+      "name": "Dron Kírov</size>",
       "introduce": "<size=39><color=#3D1400>Este no es un avión común; es un avión especial que ha sido comprimido por la presión del agua. Aunque el método exacto de compresión sigue siendo un misterio, su fuerza en el campo de batalla rivaliza con la de los bombarderos convencionales.</color></size>",
-      "info": "<size=39>Los drones Kirov vuelan más rápido, lanzando bombas sobre las plantas por las que vuelan.\n\n<color=#3D1400>Daño de la Bomba: </color><color=#4B0082>1000</color>\n<color=#3D1400>Dureza: </color><color=#4B0082>500</color></size>"
+      "info": "<size=39>Los drones Kírov vuelan más rápido, lanzando bombas sobre las plantas por las que vuelan.\n\n<color=#3D1400>Daño de la Bomba: </color><color=#4B0082>1000</color>\n<color=#3D1400>Dureza: </color><color=#4B0082>500</color></size>"
     },
     {
       "theZombieType": 207,
@@ -522,9 +522,9 @@
     },
     {
       "theZombieType": 210,
-      "name": "Nuez Kirov",
-      "introduce": "<size=39><color=#3D1400>\u0022¿Tiburones?, ¿Dureza mecánica? Eso no importa,\u0022 dice la Nuez Kirov. \u0022Lo que importa es tener una armadura, yo soy Kirov\u0022.</color></size>",
-      "info": "<size=39>La Nuez Kirov puede girar.\n\n<color=#3D1400>Dureza:</color> <color=#4B0082>3000</color>\n<color=#3D1400>Ocupación:</color> <color=#4B0082>Zomboliche</color></size>"
+      "name": "Nuez Kírov",
+      "introduce": "<size=39><color=#3D1400>\u0022¿Tiburones?, ¿Dureza mecánica? Eso no importa,\u0022 dice la Nuez Kírov. \u0022Lo que importa es tener una armadura, yo soy Kírov\u0022.</color></size>",
+      "info": "<size=39>La Nuez Kírov puede girar.\n\n<color=#3D1400>Dureza:</color> <color=#4B0082>3000</color>\n<color=#3D1400>Ocupación:</color> <color=#4B0082>Zomboliche</color></size>"
     },
     {
       "theZombieType": 211,
@@ -572,43 +572,43 @@
       "theZombieType": 218,
       "name": "Pozeidón",
       "introduce": "<size=39><color=#3D1400>Rey de las profundidades y experto en tridentes divinos. Advertencia: no le pidas que controle el clima... ¡ya lo hizo, y ahora llueven zombis!</color>",
-      "info": "<size=39>Lanza tridentes que destruyen plantas y potencian a su ejército.\n\n<color=#3D1400>Dureza:</color> <color=#4B0082>8000+24000</color>\n<color=#3D1400>Ocupación:</color> <color=#4B0082>Dios submarino zombificado. Ex-campeón de lanzamiento de tridentes en las Olimpiadas del Abismo.</color>\n<color=#3D1400>Características:</color> <color=#4B0082>Inmune a hipnosis y plantas carnívoras, Su tridente bloquea proyectiles y mata plantas al instante, Invoca a su ejercito al entrar al campo, ¡Los tridentes hacen ×5 de daño!</color></size>"
+      "info": "<size=39>Lanza tridentes que destruyen plantas y potencian a su ejército.\n\n<color=#3D1400>Dureza:</color> <color=#4B0082>24000+24000</color>\n<color=#3D1400>Ocupación:</color> <color=#4B0082>Dios submarino zombificado. Ex-campeón de lanzamiento de tridentes en las Olimpiadas del Abismo.</color>\n<color=#3D1400>Características:</color> <color=#4B0082>Inmune a hipnosis y plantas carnívoras, Su tridente bloquea proyectiles y mata plantas al instante, Invoca a su ejercito al entrar al campo, ¡Los tridentes hacen ×5 de daño!</color></size>"
     },
     {
       "theZombieType": 219,
-      "name": "Nuez Kirov Gigante",
+      "name": "Nuez Kírov Gigante",
       "introduce": "<size=39><color=#3D1400>Este zombi era un prototipo de nuez mecánica... hasta que un error de cálculo lo convirtió en una montaña rodante. Ahora, aplasta jardines como si fueran migajas.</color>",
-      "info": "<size=39>Absorbe daño para todos los zombis en el campo.\n\n<color=#3D1400>Dureza:</color> <color=#4B0082>12000</color>\n<color=#3D1400>Ocupación:</color> <color=#4B0082>Ingeniero de demoliciones. Especialista en \u0022rediseños catastróficos\u0022.</color>\n<color=#3D1400>Características:</color> <color=#4B0082>Solo recibe daño cada 0.2 segundos. ¡Es una muralla andante!</color></size>"
+      "info": "<size=39>Absorbe daño para todos los zombis en el campo.\n\n<color=#3D1400>Dureza:</color> <color=#4B0082>12000</color>\n<color=#3D1400>Ocupación:</color> <color=#4B0082>Ingeniero de demoliciones. Especialista en \u0022rediseños catastróficos\u0022.</color>\n<color=#3D1400>Características:</color> <color=#4B0082>Hereda los rasgos de Nuez Kírov. No puede recibir daño mayor a 100.</color></size>"
     },
     {
       "theZombieType": 220,
       "name": "Vegezombi Abanderado",
       "introduce": "<size=39><color=#3D1400>Líder de la horda y amante del caos. Su bandera no marca territorio... ¡marca dónde caerán las plantas!</color>",
-      "info": "<size=39>Anula curaciones y transforma plantas en zombis.\n\n<color=#3D1400>Dureza:</color> <color=#4B0082>8000+24000</color>\n<color=#3D1400>Ocupación:</color> <color=#4B0082>General táctico. Creador del curso \u0022Cómo liderar zombis con estilo\u0022.</color>\n<color=#3D1400>Características:</color> <color=#4B0082>Dobla su ataque cada 3s, recupera armadura y convierte plantas en zombis. ¡Huye si ves su sonrisa!</color></size>"
+      "info": "<size=39>Anula curaciones y transforma plantas en zombis.\n\n<color=#3D1400>Daño:</color> <color=#4B0082>200 cada mordisco</color>\n<color=#3D1400>Dureza:</color> <color=#4B0082>24000+24000</color>\n<color=#3D1400>Ocupación:</color> <color=#4B0082>General táctico. Creador del curso \u0022Cómo liderar zombis con estilo\u0022.</color>\n<color=#3D1400>Características:</color> <color=#4B0082>Es inmune a ser empujado, y anula la curación de plantas, convirtiéndolos en x0.1 de daño contra si mismo. Instantáneamente mata a plantas no defensivas. Dobla su ataque cada 3s, recupera 6000 PS de su armadura y convierte plantas en Vegezombis Al-Ta-Stelares. ¡Huye si ves su sonrisa!</color></size>"
     },
     {
       "theZombieType": 221,
-      "name": "Zombot Kirov",
+      "name": "Zombot Kírov",
       "introduce": "<size=39><color=#3D1400>Este zombi volador no necesita alas... ¡tiene motores a chorro y una actitud explosiva!</color>",
-      "info": "<size=39>Bombardea tu jardín y llama refuerzos aéreos.\n\n<color=#3D1400>Dureza:</color> <color=#4B0082>12000</color>\n<color=#3D1400>Ocupación:</color> <color=#4B0082>Piloto de combate. Graduado con honores en la Academia de Caos Aéreo.</color>\n<color=#3D1400>Características:</color> <color=#4B0082>Invoca Zompelines cada 3s y lanza bombas. ¡Inmune a imanes y derribos!</color></size>"
+      "info": "<size=39>Bombardea tu jardín y llama refuerzos aéreos.\n\n<color=#3D1400>Dureza:</color> <color=#4B0082>15000</color>\n<color=#3D1400>Ocupación:</color> <color=#4B0082>Piloto de combate. Graduado con honores en la Academia de Caos Aéreo.</color>\n<color=#3D1400>Características:</color> <color=#4B0082>Aplasta y avanza rapidamente en tierra. Al tener 2/3 de vida, este se transforma en su modo aéreo, invoca Zompelines en todas las líneas cada 3s y lanza bombas. ¡Inmune a imanes y a ser derribado por Magnetocactus!</color></size>"
     },
     {
       "theZombieType": 222,
       "name": "Live Aid Jackson",
       "introduce": "<size=39><color=#3D1400>El rey del escenario zombi. Su último concierto será... ¡el último que veas!</color>",
-      "info": "<size=39>Convierte el jardín en un festival de caos.\n\n<color=#3D1400>Dureza:</color> <color=#4B0082>32000</color>\n<color=#3D1400>Ocupación:</color> <color=#4B0082>Ícono del rock zombi. Autor del éxito \u0022Thriller: La Remasterización Apocalíptica\u0022.</color>\n<color=#3D1400>Características:</color> <color=#4B0082>Invoca Superestrellas Zombis y otorga inmunidad al hielo. ¡Incluso muerto, deja un encore de zombis!</color></size>"
+      "info": "<size=39>Convierte el jardín en un festival de caos.\n\n<color=#3D1400>Dureza:</color> <color=#4B0082>48000</color>\n<color=#3D1400>Ocupación:</color> <color=#4B0082>Ícono del rock zombi. Autor del éxito \u0022Thriller: La Remasterización Apocalíptica\u0022.</color>\n<color=#3D1400>Características:</color> <color=#4B0082>Toma 480 de daño al ser afectado por pinchohierbas y sus variantes. Invoca Zombis Mercury y Bailarines Expertos y otorga inmunidad al congelamiento alrededor. ¡Incluso muerto, deja un encore de zombis!</color></size>"
     },
     {
       "theZombieType": 223,
       "name": "Profesor Zavier",
       "introduce": "<size=39><color=#3D1400>Si Einstein hubiera sido zombi, habría creado bombas de cereza en lugar de teorías. ¡Y este es su peor experimento!</color>",
-      "info": "<size=39>Maestro de las explosiones y convertidor de zombis.\n\n<color=#3D1400>Dureza:</color> <color=#4B0082>1200+12000+1500</color>\n<color=#3D1400>Ocupación:</color> <color=#4B0082>Científico loco. Ganador del \u0022Nobel de Caos\u0022 por inventar la Cerezilla.</color>\n<color=#3D1400>Características:</color> <color=#4B0082>Invulnerable hasta perder su periódico. ¡Convierte zombis en enfurecidos y lanza cerezas explosivas!</color></size>"
+      "info": "<size=39>Maestro de las explosiones y convertidor de zombis.\n\n<color=#3D1400>Dureza:</color> <color=#4B0082>6000+15000+3000</color>\n<color=#3D1400>Ocupación:</color> <color=#4B0082>Científico loco. Ganador del \u0022Nobel de Caos\u0022 por inventar la Cerezilla.</color>\n<color=#3D1400>Características:</color> <color=#4B0082>Invulnerable hasta perder su periódico. ¡Convierte zombis en Vegezombis Becarios enfurecidos y lanza cerezas explosivas a la planta más a la derecha, y a la planta más a la izquierda!</color></size>"
     },
     {
       "theZombieType": 224,
       "name": "Payasa Zorpresa",
       "introduce": "<size=39><color=#3D1400>La Payasa Zorpresa disfruta haciendo que cada jardín sea el escenario de una gran broma... con efectos secundarios explosivos.</color>",
-      "info": "<size=39>Reina de todos los payasos. Talvez sea mejor que la mates antes de que llegue a tus plantas.\n\n<color=#3D1400>Dureza:</color> <color=#4B0082>32000</color>\n<color=#3D1400>Ocupación:</color> <color=#4B0082>Trabaja como actor de payaso para las fiestas de cumpleaños. No consigue dinero porque usualmente explota a todos en el lugar. </color>\n<color=#3D1400>Características:</color> <color=#4B0082>Recupera 3000 puntos de vida cada vez que sea afectada por otra explosión de cajita. Sale de su caja cada cierto tiempo, saltando lentamente hacia tus plantas, y después de que haga eso, explota la columna donde ella está.</color></size>"
+      "info": "<size=39>Reina de todos los payasos. Talvez sea mejor que la mates antes de que llegue a tus plantas.\n\n<color=#3D1400>Dureza:</color> <color=#4B0082>48000</color>\n<color=#3D1400>Ocupación:</color> <color=#4B0082>Trabaja como actor de payaso para las fiestas de cumpleaños. No consigue dinero porque usualmente explota a todos en el lugar. </color>\n<color=#3D1400>Características:</color> <color=#4B0082>Recupera 3000 puntos de vida cada vez que sea afectada por otra explosión de cajita. Sale de su caja cada cierto tiempo, saltando lentamente hacia tus plantas, y después, explota la columna donde ella está.</color></size>"
     },
     {
       "theZombieType": 225,
@@ -626,13 +626,13 @@
       "theZombieType": 227,
       "name": "Vegezombi Centinela",
       "introduce": "<size=39><color=#3D1400>*Ay no... La descripción se congeló, revisa aquí otro dia.*</color>",
-      "info": "<size=39>Vegezombis Árticos con garras de hielo.\n\n<color=#3D1400>Dureza: </color><color=#4B0082>720 + 2200</color>\n<color=#3D1400>Características:</color> <color=#4B0082>Inhiere características del Vegezombi Ártico. Provienen de zombis transformados por Seta Emperador y Cactus Emperador.</color>"
+      "info": "<size=39>Vegezombis Árticos con garras de hielo.\n\n<color=#3D1400>Dureza: </color><color=#4B0082>720+2200</color>\n<color=#3D1400>Características:</color> <color=#4B0082>Hereda características del Vegezombi Ártico. Provienen de zombis transformados por Seta Emperador y Cactus Emperador.</color>"
         },
         {
       "theZombieType": 228,
-      "name": "Yombi Electropolar",
+      "name": "Reina Permafrost",
       "introduce": "<size=39><color=#3D1400>Con cuchillas de hielo y un manto de ventisca, talla estatuas de carne destrozada y moldea el poder divino con una voluntad inquebrantable. Una deidad artificial, un espectro de la tundra. Cuando todo llegue a su fin, ¿recordará donde se creó, aquí en la nieve?</color>",
-      "info": "<size=39>Soberana de la Tundra Congelada.\n\n<color=#3D1400>Daño: </color><color=#4B0082>1000</color>\n<color=#3D1400>Dureza: </color><color=#4B0082>64000</color>\n<color=#3D1400>Características:</color><color=#4B0082>\n- Minijefe, invulnerable al congelamiento básico, al empujamiento y a ser aturdida.\n- Aplasta plantas. Sus ataques las congelan durante 5 segundos.\n- Al aparecer, realiza un corte que daña a todas las plantas que tenga enfrente (pueden protegerse con Calabazas) y luego libera 5 bolas de nieve, alrededor de su carril, cada una dañando en un área de 3x3.\n- Después, realiza un corte o un ataque normal cada 3 segundos; cuanto menos PS tenga, mayor será la probabilidad de cortar\n- Los ataques normales lanzan 4 espadas de hielo hacia adelante.\n- En el mapa de Nieve, tiene la posibilidad de invocar una ventisca instantáneamente.</color>"
+      "info": "<size=39>Reina de la Tundra Congelada.\n\n<color=#3D1400>Daño: </color><color=#4B0082>1000</color>\n<color=#3D1400>Dureza: </color><color=#4B0082>64000</color>\n<color=#3D1400>Características:</color><color=#4B0082>\n- Minijefe, invulnerable al congelamiento básico, al empujamiento y a ser aturdida.\n- Aplasta plantas. Sus ataques las congelan durante 5 segundos.\n- Al aparecer, realiza un corte que daña a todas las plantas que tenga enfrente (pueden protegerse con Calabazas) y luego libera 5 bolas de nieve, alrededor de su carril, cada una dañando en un área de 3x3.\n- Después, realiza un corte o un ataque normal cada 3 segundos; cuanto menos PS tenga, mayor será la probabilidad de cortar\n- Los ataques normales lanzan 4 espadas de hielo hacia adelante.\n- En el mapa de Nieve, tiene la posibilidad de invocar una ventisca instantáneamente.</color>"
         }
     ]
 }
