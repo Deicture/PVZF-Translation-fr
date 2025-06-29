@@ -4063,7 +4063,7 @@
       "name": "Astronuez IV",
       "introduce": "<size=39><color=#3D1400>Astronuez IV viaja a través de incontables mundos paralelos del multiverso y ha visto numerosas maravillas: desde una Esfinge que toca música inquietante en desiertos olvidados, hasta una ruina celestial donde una vez gobernaba un ídolo de tres cabezas. Vaga por los sueños, más allá del alcance de su memoria. El pasado se desvanece, pero aquí, está listo para otra aventura.</color></size>",
       "info": "<size=39>Una Nuez cósmica que maneja el tiempo como quisiera.\n\n<color=#3D1400>Dureza: </color><color=red>16000</color>\n\n<color=#3D1400>Especial:</color> <color=red>Subespecie de Astromaíz II que se puede cambiar entre Nuez y Lanzamaíz. No puede ser aplastado; no recibe más de 1000 de daño por golpe.\n• Regresa a los PS de hace 3 segundos tras recibir 4000 de daño y se vuelve invulnerable durante 2 segundos.\n• 33% de probabilidad de ignorar el daño recibido. Tiene la posibilidad de teletransportar a los zombis que lo muerden a la casilla más lejano de su carril (10s de tiempo de reutilización).\n• Si tiene menos PS que su durabilidad máxima, restaura PS equivalente a 1× de la resistencia después de 30 s consecutivos sin recibir daño.\n\n<color=#3D1400>Fórmula de Fusión: </color><color=red>Astromaíz II + Nuez</color>\n<color=#3D1400>Nombre Científico: </color><color=red>Juglacronum hypaemyth</color></size>",
-      "cost": "<size=33>Costo: <color=red>550, 775</color>   Recarga: <color=red>90 Segundos</color>\nPlantas Requeridas: <color=red>5 (+ Cronofragmento)\n<color=purple>Condición de Uso: Condición de Uso: Modo Odisea</color></size>"
+      "cost": "<size=33>Costo: <color=red>550, 775</color>   Recarga: <color=red>90 Segundos</color>\nPlantas Requeridas: <color=red>5 (+ Cronofragmento)\n<color=purple>Condición de Uso: Modo Odisea</color></size>"
     },
     {
       "seedType": 946,
@@ -5886,8 +5886,8 @@
     },
     {
       "seedType": 1226,
-      "name": "Termalóe",
-      "introduce": "<size=39><color=#3D1400>El Termalóe se siente contento al cambiar su fuego a agua para calentar. De alguna manera, funciona bien, salvo que el agua se congela en la tundra.</color></size>",
+      "name": "Termaloe",
+      "introduce": "<size=39><color=#3D1400>El Termaloe se siente contento al cambiar su fuego a agua para calentar. De alguna manera, funciona bien, salvo que el agua se congela en la tundra.</color></size>",
       "info": "<size=39>Amplía su zona de calentamiento por cierta cantidad de tiempo.</color>\n\n<color=#3D1400>Especial:</color> <color=red>Calienta a las plantas alrededor suyo por 90s en una área de 3x3. Después de esto, vuelve a ser Plantérmica.</color>\n<color=#3D1400>Nombre Científico:</color> <color=red>Piinak aloe</color></size>\n<size=39><color=#3D1400>Fórmula de Fusión:</color> <color=red>Plantérmica + Aloe Vera</color></size>",
       "cost": "<size=39>Costo: <color=red>100</color>   Recarga: <color=red>15 Segundos</color>\nPlantas Requeridas: <color=red>2</color></size>"
     },
