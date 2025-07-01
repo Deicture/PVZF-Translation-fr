@@ -460,7 +460,7 @@
             "name": "Doominator",
             "introduce": "<align=justified><size=36><color=black>Would Death employ a fashionista? Doominator had no idea, but after noticing that he couldn't consistently frighten zombies, he turned to Hypno-shroom for some costume suggestions. Although people might not favor Death, how would they react if he wore sparkling ice wings?</color></size>",
             "info": "<size=36>Doominator deals immense damage, simultaneously hypnotizing and slowing down zombies.\n\n<color=#4A2900>Usage Condition: Odyssey Mode | Unlockable</color>\n<color=black>Damage: </color><color=#8B0000>100/0.5s</color>\n<color=#0077b6>Cryo System: </color><color=#8B0000>Each hit adds 20 Cryo points.</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Has a chance to turn zombies with Toughness < 40% into hypnotized Frost Tall-nut Sentinels.\n<color=black>•</color> Creates an explosion in the grid where the hypnotized zombie is located, dealing 450 damage.</color>\n<color=black>Odyssey Modifiers:\n</color><color=#8B0000>1. Doominator attack speed ×3; Thornminator attack damage ×3\n2. Zombies take a 30% max HP damage every time they become defrozen</color></size>",
-            "cost": "<size=36>Fusion Formula: <color=#8B0000>Doomspike-shroom + Frostveil-shroom</color>"
+            "cost": "<size=36>Fusion Formula: <color=#8B0000>Doomspike-shroom + Cryonic-shroom</color>"
         },
         {
             "seedType": 905,
@@ -1080,9 +1080,9 @@
         },
         {
             "seedType": 1041,
-            "name": "Frostveil-shroom",
-            "introduce": "<align=justified><size=36><color=black>A frosty beauty? An untouchable flower? Frostveil-shroom couldn't care less. She quietly took care of the frosty ornament on her head, always ready to hand her Frost Tall-nut headgear to the zombies at any time. \"They'll appreciate the chill vibe,\" she remarks coolly.</color></size>",
-            "info": "<size=36>When a zombie eats a Frostveil-shroom, it will transform into a Frost Tall-nut Zombie that will fight for you.\n\n<color=black>Special: </color><color=#8B0000>Upon contact turns a zombie into a Frost Tall-nut Zombie that will fight for you. Also freezes the full field.</color></size>",
+            "name": "Cryonic-shroom",
+            "introduce": "<align=justified><size=36><color=black>A frosty beauty? An untouchable flower? Cryonic-shroom couldn't care less. She quietly took care of the frosty ornament on her head, always ready to hand her Frost Tall-nut headgear to the zombies at any time. \"They'll appreciate the chill vibe,\" she remarks coolly.</color></size>",
+            "info": "<size=36>When a zombie eats a Cryonic-shroom, it will transform into a Frost Tall-nut Zombie that will fight for you.\n\n<color=black>Special: </color><color=#8B0000>Upon contact turns a zombie into a Frost Tall-nut Zombie that will fight for you. Also freezes the full field.</color></size>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Hypno-shroom + Ice-shroom</color>"
         },
         {
@@ -1591,8 +1591,8 @@
         },
         {
             "seedType": 1114,
-            "name": "Butter Pot",
-            "introduce": "<align=justified><size=36><color=black>Butter Pot believes he's more than just delicious. In his view, buttered corn provides more nutrients than soil, especially for fungi. Butter Pot's favorite plant is the Kernel-pult, his favorite food is butter, his favorite container is a cup, and his favorite song is \"Buttercup.\"</color>",
+            "name": "Kernel Pot",
+            "introduce": "<align=justified><size=36><color=black>Kernel Pot believes he's more than just delicious. In his view, buttered corn provides more nutrients than soil, especially for fungi. Kernel Pot's favorite plant is the Kernel-pult, his favorite food is butter, his favorite container is a cup, and his favorite song is \"Buttercup.\"</color>",
             "info": "<size=36>Increases the butter chance of all Kernel-type plants above it from 25% to 50%.\n\n<color=black>Special: </color><color=#8B0000>Raises the butter chance from 1/4 to 1/2.</color>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Kernel-pult > Flower Pot</color>"
         },

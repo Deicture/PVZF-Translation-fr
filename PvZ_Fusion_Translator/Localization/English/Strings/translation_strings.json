@@ -383,7 +383,7 @@
   "火爆窝瓜+窝炬": "Fusion Formula: Spicy Squash + Infernowood",
   "火爆窝瓜+超级火炬": "Fusion Formula: Spicy Squash + Infernowood",
   "魅惑菇+魅惑菇": "Fusion Formula: Hypno-shroom + Hypno-shroom",
-  "超级大喷菇+寒冰魅惑菇": "Fusion Formula: Frostveil-shroom + Doomspike-shroom",
+  "超级大喷菇+寒冰魅惑菇": "Fusion Formula: Cryonic-shroom + Doomspike-shroom",
   "超级大嘴花+樱桃大嘴花": "Fusion Formula: Chompzilla + Cherry Chomper",
   "超级杨桃+磁力仙人掌": "Fusion Formula: Stardrop + Magnethorn",
   "超级大喷菇+寒冰忧郁菇": "Fusion Formula: Doomspike-shroom + Frost Gloom-shroom",
@@ -408,7 +408,7 @@
   "-------Strings - Odyssey Mode": "Strings - Odyssey Mode-------",
   "解锁究极樱桃战神，超级大嘴花+樱桃大嘴花": "Unlock Cherrizilla: Chompzilla + Cherry Chomper",
   "解锁究极樱桃机枪，樱桃机枪+超级樱桃射手": "Unlock Gatling Cherrybomber: Gatling Cherry + Explod-o-shooter",
-  "解锁究极大喷菇，超级大喷菇+寒冰魅惑菇": "Unlock Doominator: Doomspike-shroom + Frostveil-shroom",
+  "解锁究极大喷菇，超级大喷菇+寒冰魅惑菇": "Unlock Doominator: Doomspike-shroom + Cryonic-shroom",
   "解锁究极窝炬，超级火炬+火爆窝瓜": "Unlock Infernal Squashwood: Spicy Squash + Infernowood",
   "解锁究极杨桃，超级杨桃+磁力仙人掌": "Unlock Magnetar: Stardrop + Magnethorn",
   "解锁究极忧郁菇，超级大喷菇+寒冰忧郁菇": "Unlock Oblivion-shroom: Doomspike-shroom + Frost Gloom-shroom",
@@ -1092,5 +1092,6 @@
   "关闭_close": "Close",
   "过于昂贵": "Too Expensive",
   "无法放弃僵尸词条": "Zombie Modifiers cannot be skipped!",
-  "旅行：无尽": "Odyssey: Endless"
+  "旅行：无尽": "Odyssey: Endless",
+  "无法移动boss类僵尸": "Unable to move Mini-bosses!"
 }
