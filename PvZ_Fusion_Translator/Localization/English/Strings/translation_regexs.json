@@ -143,7 +143,7 @@
   "抽取次数：\n(\\d+)/(\\d+)\n当前up植物：\n究极魅惑菇\nup刷新倒计时：\n(\\d+)": "Draw Count:\n{0}/{1}\nCurrent Up:\nCharmatron-shroom\nNext Up in: \n{2}s",
   "抽取次数：\n(\\d+)/(\\d+)\n当前up植物：\n究极太阳神卷心菜\nup刷新倒计时：\n(\\d+)": "Draw Count:\n{0}/{1}\nCurrent Up:\nHelios Cabbage\nNext Up in: \n{2}s",
   "抽取次数：\n(\\d+)/(\\d+)\n当前up植物：\n究极火爆窝炬\nup刷新倒计时：\n(\\d+)": "Draw Count:\n{0}/{1}\nCurrent Up:\nInfernal Squashwood\nNext Up in: \n{2}s",
-  "抽取次数：\n(\\d+)/(\\d+)\n当前up植物：\n究极大喷菇\nup刷新倒计时：\n(\\d+)": "Draw Count:\n{0}/{1}\nCurrent Up:\nDoominator\nNext Up in: \n{2}s",
+  "抽取次数：\n(\\d+)/(\\d+)\n当前up植物：\n究极大喷菇\nup刷新倒计时：\n(\\d+)": "Draw Count:\n{0}/{1}\nCurrent Up:\nDoominator-shroom\nNext Up in: \n{2}s",
   "抽取次数：\n(\\d+)/(\\d+)\n当前up植物：\n究极火神弹弹菇\nup刷新倒计时：\n(\\d+)": "Draw Count:\n{0}/{1}\nCurrent Up:\nNapalm-shroom\nNext Up in: \n{2}s",
   "抽取次数：\n(\\d+)/(\\d+)\n当前up植物：\n究极加农炮\nup刷新倒计时：\n(\\d+)": "Draw Count:\n{0}/{1}\nCurrent Up:\nCob-literation\nNext Up in: \n{2}s",
   "抽取次数：\n(\\d+)/(\\d+)\n当前up植物：\n究极投手\nup刷新倒计时：\n(\\d+)": "Draw Count:\n{0}/{1}\nCurrent Up:\nWither-pult\nNext Up in: \n{2}s",
