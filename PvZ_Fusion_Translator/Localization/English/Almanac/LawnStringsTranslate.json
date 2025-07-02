@@ -499,9 +499,9 @@
         },
         {
             "seedType": 910,
-            "name": "Oblivion-shroom",
-            "introduce": "<align=justified><size=36><color=black>\"Nuclear deterrence is beneficial. Someday, the zombies will stop their assaults out of fear of my formidable self-detonation,\" Oblivion-shroom asserted with confidence. Yet, it was evident that Oblivion-shroom failed to understand that zombies wouldn't initiate a Cold War just because they were hit with cold air.</color></size>",
-            "info": "<size=36>Sprays deadly fumes all around, bringing ultimate destruction. Beware!\n\n<color=#4A2900>Usage Condition: Odyssey Mode | Unlockable</color>\n<color=black>Damage: </color><color=#8B0000>(100+100×8)×4/1.9s</color>\n<color=black>Damage Range: </color><color=#8B0000>5×5</color>\n<color=black>Detection Range: </color><color=#8B0000>5×3</color>\n<color=#0077b6>Cryo System: </color><color=#8B0000>Each attack adds 5 Cryo points.</color>\n<color=black>Special: </color><color=#8B0000>Sprays spores, which then explode (both deal penetrating damage). An explosion occurs upon death, dealing 1800 cremator damage and freezing all zombies on the screen.</color>\n<color=black>Odyssey Modifiers:\n</color><color=#8B0000>1. Oblivion-shroom damage on death → 1M, Atomheart Plantern Lumos addition on death ×3\n2. Now absorbs explosion damage. When 10k damage is absorbed, a Doom-shroom explosion is released</color></size>",
+            "name": "Shroomageddon",
+            "introduce": "<align=justified><size=36><color=black>\"Nuclear deterrence is beneficial. Someday, the zombies will stop their assaults out of fear of my formidable self-detonation,\" Shroomageddon asserted with confidence. Yet, it was evident that Shroomageddon failed to understand that zombies wouldn't initiate a Cold War just because they were hit with cold air.</color></size>",
+            "info": "<size=36>Sprays deadly fumes all around, bringing ultimate destruction. Beware!\n\n<color=#4A2900>Usage Condition: Odyssey Mode | Unlockable</color>\n<color=black>Damage: </color><color=#8B0000>(100+100×8)×4/1.9s</color>\n<color=black>Damage Range: </color><color=#8B0000>5×5</color>\n<color=black>Detection Range: </color><color=#8B0000>5×3</color>\n<color=#0077b6>Cryo System: </color><color=#8B0000>Each attack adds 5 Cryo points.</color>\n<color=black>Special: </color><color=#8B0000>Sprays spores, which then explode (both deal penetrating damage). An explosion occurs upon death, dealing 1800 cremator damage and freezing all zombies on the screen.</color>\n<color=black>Odyssey Modifiers:\n</color><color=#8B0000>1. Shroomageddon damage on death → 1M, Atomheart Plantern Lumos addition on death ×3\n2. Now absorbs explosion damage. When 10k damage is absorbed, a Doom-shroom explosion is released</color></size>",
             "cost": "<size=36>Fusion Formula: <color=#8B0000>Doomspike-shroom + Frost Gloom-shroom</color>"
         },
         {
@@ -537,7 +537,7 @@
             "name": "Cob-literation",
             "introduce": "<align=justified><size=36><color=black>Clad in icy armor and dark as a warning, each shot from Cob-literation brings destruction. Zombies hit by it need not prepare—nothing will remain after the flash.</color>",
             "info": "<size=36>Possesses earth-shattering power.\n\n<color=#4A2900>Usage Condition: Odyssey Mode | Unlockable</color>\n<color=black>Damage: </color><color=#8B0000>\n<color=black>•</color> Main Blast - 1800 in a 3×3 area. \n<color=black>•</color> Additional 1800 + 30% of Zombies' maximum Toughness across the entire screen.\n<color=black>•</color> Side Gun: 360×2/1.5s</color>\n<color=black>Arming Time: </color><color=#8B0000>36s</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Infuses all plants within the main blast area with Ice-shroom (prioritized)/Doom-shroom. \n<color=black>•</color> Side cannon inflicts Chill and adds 10 Cryo points.</color>\n<color=black>Odyssey Modifiers:\n<color=#8B0000>1. Main Blast damage ×4\n2. Reload Time → 12s</color>",
-            "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Cryo Cannon + Cryodoom-shroom</color>"
+            "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Cryo Cannon + Doomise-shroom</color>"
         },
         {
             "seedType": 916,
@@ -774,7 +774,7 @@
             "seedType": 949,
             "name": "Atomheart Plantern",
             "introduce": "<align=justified><size=36><color=black>\"The price of nuclear war isn't something just anyone can bear.\" A survivor of annihilation, Atomheart Plantern now chooses to restrain her core reactor, channeling its power into a glow as bright as the moon—guiding wanderers through the dark. But if anyone threatens the peace she holds dear… she won't hesitate to become the reaper of the battlefield once more.</color>",
-            "info": "<size=36>A Plantern sealed with radioactive frost, releasing cold fusions that strengthens with Lumos.\n\n<color=#4A2900>Usage Condition: Odyssey Mode | Unlockable with Oblivion-shroom</color>\n<color=black>Damage: </color><color=#8B0000>600/3s</color>\n<color=black>Range: </color><color=#8B0000>3×5, can target air</color>\n<color=#0077b6>Cryo System: </color><color=#8B0000>\n<color=black>•</color> Attacks apply Chill and adds 30 Cryo Points.\n<color=#99582a>Lumos System: </color><color=#8B0000> Damage increases by 100% × Lumos Level.</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Subspecies of Oblivion-shroom. Switching form does not trigger on-death effects.\n<color=black>•</color> Inherits traits of Plantern.\n<color=black>•</color> Refracts passing Apeacalypse Railgun beams into 3 beams with equal damage.\n<color=black>•</color> On death, triggers Ice-shroom effect and grants 10 Lumos level to all plants for 10s.</color>",
+            "info": "<size=36>A Plantern sealed with radioactive frost, releasing cold fusions that strengthens with Lumos.\n\n<color=#4A2900>Usage Condition: Odyssey Mode | Unlockable with Shroomageddon</color>\n<color=black>Damage: </color><color=#8B0000>600/3s</color>\n<color=black>Range: </color><color=#8B0000>3×5, can target air</color>\n<color=#0077b6>Cryo System: </color><color=#8B0000>\n<color=black>•</color> Attacks apply Chill and adds 30 Cryo Points.\n<color=#99582a>Lumos System: </color><color=#8B0000> Damage increases by 100% × Lumos Level.</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Subspecies of Shroomageddon. Switching form does not trigger on-death effects.\n<color=black>•</color> Inherits traits of Plantern.\n<color=black>•</color> Refracts passing Apeacalypse Railgun beams into 3 beams with equal damage.\n<color=black>•</color> On death, triggers Ice-shroom effect and grants 10 Lumos level to all plants for 10s.</color>",
             "cost": "\n<size=36>Conversion Formula: <color=#8B0000>Gloom-shroom <-> Plantern</color>"
         },
         {
@@ -1073,9 +1073,9 @@
         },
         {
             "seedType": 1040,
-            "name": "Cryodoom-shroom",
-            "introduce": "<align=justified><size=36><color=black>\"I will freeze the world, and silence will reign. The extreme cold will disrupt your body's temperature system, so it won't be very painful,\" Cryodoom-shroom proclaims. He seldom appears in battle, but when he does, a blizzard follows in his wake. With a flash of white light, even time seems to freeze.</color></size>",
-            "info": "<size=36>Cryodoom-shroom can destroy zombies in the entire screen and freeze time.\n\n<color=black>Damage: </color><color=#8B0000>1800 (Cremator)</color>\n<color=black>Special: </color><color=#8B0000>Freezes surviving zombies for 5 seconds. Also freezes the level temporarily – no new zombies will appear within 10 seconds.</color></size>",
+            "name": "Doomise-shroom",
+            "introduce": "<align=justified><size=36><color=black>\"I will freeze the world, and silence will reign. The extreme cold will disrupt your body's temperature system, so it won't be very painful,\" Doomise-shroom proclaims. He seldom appears in battle, but when he does, a blizzard follows in his wake. With a flash of white light, even time seems to freeze.</color></size>",
+            "info": "<size=36>Doomise-shroom can destroy zombies in the entire screen and freeze time.\n\n<color=black>Damage: </color><color=#8B0000>1800 (Cremator)</color>\n<color=black>Special: </color><color=#8B0000>Freezes surviving zombies for 5 seconds. Also freezes the level temporarily – no new zombies will appear within 10 seconds.</color></size>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Ice-shroom + Doom-shroom</color>"
         },
         {
@@ -2291,9 +2291,9 @@
         },
         {
             "seedType": 1214,
-            "name": "Chronodoom-shroom",
+            "name": "Doomwarp-shroom",
             "introduce": "<align=justified><size=36><color=black>\"Time travel personnel have passed through, complete. The time tunnel has exited the target world, complete. Observed impact is within the expected range, complete. Proceed to the next step, destroy the tunnel to prevent use by others or organizations.\" — \"Time Planning Bureau\"</color>",
-            "info": "<size=36>Chronodoom-shroom possesses the power of hyperspace bending. Its explosion inflicts chronoshift to any foe unfortunate enough to be caught in its effects.\n\n<color=black>Damage: </color><color=#8B0000>1800 (Cremator) </color>\n<color=black>Special: </color><color=#8B0000>Inherits the traits of Doom-shroom. Explosion reduces the countdown of zombies with the chronoshift effect by 30 seconds.</color>",
+            "info": "<size=36>Doomwarp-shroom possesses the power of hyperspace bending. Its explosion inflicts chronoshift to any foe unfortunate enough to be caught in its effects.\n\n<color=black>Damage: </color><color=#8B0000>1800 (Cremator) </color>\n<color=black>Special: </color><color=#8B0000>Inherits the traits of Doom-shroom. Explosion reduces the countdown of zombies with the chronoshift effect by 30 seconds.</color>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Chrono Core > Dormant-shroom</color>"
         },
         {
@@ -2466,8 +2466,8 @@
         },
         {
             "seedType": 1239,
-            "name": "Siderodoom-shroom",
-            "introduce": "<align=justified><size=36><color=black>Boom! A reality-defying burst of high-speed nuclear fission tears zombies apart, breaking down their atoms and rearranging them into the most stable form known to plantkind: iron. \"Why iron buckets?\" Siderodoom-shroom pauses, then replies, \"Because I was born that way.\"</color>",
+            "name": "Doomplate-shroom",
+            "introduce": "<align=justified><size=36><color=black>Boom! A reality-defying burst of high-speed nuclear fission tears zombies apart, breaking down their atoms and rearranging them into the most stable form known to plantkind: iron. \"Why iron buckets?\" Doomplate-shroom pauses, then replies, \"Because I was born that way.\"</color>",
             "info": "<size=36>Powerful Doom-shroom that turns the ashes from his explosion into Buckets.\n\n<color=black>Damage: </color><color=#8B0000>3240 (Cremator)</color>\n<color=black>Special: </color><color=#8B0000>Every zombie he kills drops a Bucket.</color>",
             "cost": "<size=36>Fusion Formula: <color=#8B0000>Bucket/Screen Door > Dormant-shroom</color>"
         },
