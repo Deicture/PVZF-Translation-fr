@@ -2510,7 +2510,7 @@
             "seedType": 1243,
             "name": "Cherry Pot",
             "introduce": "<align=justified><size=36><color=black>Cherry Pot would rather give up her pay at the Zen Garden than be mistaken for a plant.\"Those lunatics can't get real cherries, so they're out here trying to eat anything cherry-flavored!\" Just talking about it makes her shudder.</color>",
-            "info": "<size=36>A pot with a passion for cherry explosions, using them to heal the plant on her own tile and briefly empower cherry-type shooters.\n\n<color=black>Damage: </color><color=#8B0000>3240 (Cremator)</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Immune to cherry explosions.\n<color=black>•</color> Heals the plant on herself by 20 HP when affected by cherry explosions.\n<color=black>•</color> While healing, also grants an 1-second attack speed boost (30%) to cherry shooting plants.</color>",
+            "info": "<size=36>A pot with a passion for cherry explosions, using them to heal the plant on her own tile and briefly empower cherry-type shooters.\n\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Immune to cherry explosions.\n<color=black>•</color> Heals the plant on herself by 20 HP when affected by cherry explosions.\n<color=black>•</color> While healing, also grants an 1-second attack speed boost (30%) to cherry shooting plants.</color>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Cherry Bomb > Flower Pot</color>"
         },
         {
