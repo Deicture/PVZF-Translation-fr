@@ -118,7 +118,7 @@
             "theZombieType": 20,
             "name": "Trident Zombie",
             "introduce": "<align=justified><size=36><color=black>Trident Zombie was originally just a regular javelin thrower who became a fisherman after retiring. However, when he went to the river to fish, he sank because he couldn't swim. When he came ashore, he realized he had become what he is now.</color>",
-            "info": "<size=36>Throws a trident to attack your plants.\n\n<color=black>Toughness: </color><color=#4B0082>720</color>\n<color=black>Traits: </color><color=#4B0082>Throws a trident, causing damage to plants equal to 20% (minimum of 60) of their current Toughness.</color>\n<color=black>Minimum Search Range: </color><color=#4B0082>3.5 Tiles in Front</color>"
+            "info": "<size=36>Throws a trident to attack your plants.\n\n<color=black>Toughness: </color><color=#4B0082>720</color>\n<color=black>Traits: </color><color=#4B0082>6-9s after entering or when blocked, throws a trident, causing damage to plants equal to 20% (minimum of 60) of their current Toughness.</color>\n<color=black>Minimum Search Range: </color><color=#4B0082>3.5 Tiles in Front</color>"
         },
         {
             "theZombieType": 21,
@@ -154,7 +154,7 @@
             "theZombieType": 26,
             "name": "Zomppelin",
             "introduce": "<align=justified><size=36><color=black>The Zomppelin, Dr. Edgar's latest creation, is quickly becoming the zombies' trusted ally. Speculation abounds about who will pilot this powerful weapon—perhaps the imp or even the airship itself? \"It's just a balloon,\" Dr. Edgar remarked. \"Zombies need to keep up with the times. I'm even considering turning it into a drone to avoid embarrassment when defeated by plants.\"</color>",
-            "info": "<size=36>Drops deadly bombs as it flies over your plants.\n\n<color=black>Bomb Damage: </color><color=#4B0082>1000</color>\n<color=black>Toughness: </color><color=#4B0082>1350</color>\n<color=black>Traits: </color><color=#4B0082>Drops Jack-in-the-Box Bombs every 3s to the plant directly below. Can be pushed back half a tile by Blovers.</color>"
+            "info": "<size=36>Drops deadly bombs as it flies over your plants.\n\n<color=black>Bomb Damage: </color><color=#4B0082>500</color>\n<color=black>Toughness: </color><color=#4B0082>1350</color>\n<color=black>Traits: </color><color=#4B0082>Drops Jack-in-the-Box Bombs every 3s to the plant directly below. Can be pushed back half a tile by Blovers.</color>"
         },
         {
             "theZombieType": 27,
@@ -268,7 +268,7 @@
             "theZombieType": 47,
             "name": "Yeti Zombie",
             "introduce": "<align=justified><size=36>Many details about Yeti Zombie remain shrouded in mystery. His past? Classified. His motives? Unknown. The only things on record? His name, birth date, social security number, education, work history… and an unwavering passion for roast beef sandwich sandwiches.",
-            "info": "<size=36>Yeti Zombies can sometimes run away.\n\n<color=black>Toughness: </color><color=#4B0082>1350</color>\n<color=black>Traits: </color><color=#4B0082>Freezes plants in a 3x3 area around it. Jalapenos, Torchwoods and Ice-shrooms are immune to this effect.</color>"
+            "info": "<size=36>Yeti Zombies can sometimes run away.\n\n<color=black>Toughness: </color><color=#4B0082>1350</color>\n<color=black>Traits: </color><color=#4B0082>Freezes plants in a 3x3 area around it. Jalapenos, Torchwoods and Ice-shrooms are immune to this effect. May carry Puzzle pieces in Odyssey: Evolved.</color>"
         },
         {
             "theZombieType": 48,
@@ -490,7 +490,7 @@
             "theZombieType": 202,
             "name": "Giga Trident-nut Zombie",
             "introduce": "<align=justified><size=36><color=black>\"Giga Trident-nut Zombie is a skilled fisherman known for his exceptional accuracy with the four tridents he throws, earning him the title of the king of fishermen.\" \"In fact, I used to be a part-time javelin thrower...\" Giga Trident-nut Zombie admitted.</color>",
-            "info": "<size=36>Throws a large number of tridents at your plants at once.\n\n<color=black>Toughness: </color><color=#4B0082>270 + 7500 (Type 1)</color>\n<color=black>Traits: </color><color=#4B0082>Throws 4 tridents, each causing damage to plants equal to 20% (minimum of 60) of their current Toughness.</color>\n<color=black>Odyssey Modifiers:\n</color><color=#4B0082>1. Trident Damage ×5.\n2. Now targets random plants outside of minimum range.</color>"
+            "info": "<size=36>Throws a large number of tridents at your plants at once.\n\n<color=black>Toughness: </color><color=#4B0082>270 + 7500 (Type 1)</color>\n<color=black>Traits: </color><color=#4B0082>6-9s after entering or when blocked, throws 4 tridents, each causing damage to plants equal to 20% (minimum of 60) of their current Toughness.</color>\n<color=black>Odyssey Modifiers:\n</color><color=#4B0082>1. Trident Damage ×5.\n2. Now targets random plants outside of minimum range.</color>"
         },
         {
             "theZombieType": 203,
@@ -514,7 +514,7 @@
             "theZombieType": 206,
             "name": "Kirov Drone",
             "introduce": "<align=justified><size=36><color=black>This is no ordinary aircraft; it is a special plane that has been compressed through water pressure. While the exact method of compression remains a mystery, its battlefield strength rivals that of conventional bombers.</color>",
-            "info": "<size=36>Kirov drones fly faster, releasing bombs over the plants they fly over.\n\n<color=black>Bomb Damage: </color><color=#4B0082>1000</color>\n<color=black>Toughness: </color><color=#4B0082>500</color>\n<color=black>Traits: </color><color=#4B0082>Immune to chill and Blovers. Drops Jack-in-the-Box Bombs to the plants directly below every 3s.</color>"
+            "info": "<size=36>Kirov drones fly faster, releasing bombs over the plants they fly over.\n\n<color=black>Bomb Damage: </color><color=#4B0082>500</color>\n<color=black>Toughness: </color><color=#4B0082>500</color>\n<color=black>Traits: </color><color=#4B0082>Immune to chill and Blovers. Drops Jack-in-the-Box Bombs to the plants directly below every 3s.</color>"
         },
         {
             "theZombieType": 207,
@@ -526,13 +526,13 @@
             "theZombieType": 208,
             "name": "Undying Wraith",
             "introduce": "<align=justified><size=36><color=black>This monster survived the harshest conditions and possesses enormous strength. It avoids brains and roams the world in search of a secluded place.</color>",
-            "info": "<size=36>A wraith from a thousand years ago, with immense strength.\n\n<color=black>Toughness: </color><color=#4B0082>3000</color>\n<color=black>Damage: </color><color=#4B0082>500</color>\n<color=black>Traits: </color><color=#4B0082>Every 8~14s, dashes forward 1.5 tiles, dealing 500 damage to plants in its path (first dash is ×2 faster). Upon death, deals 500 Jack-in-the-Box explosion damage to plants in a 3×3 area, excluding Pumpkin-protected plants.</color>\n<color=black>Odyssey Modifiers:\n</color><color=#4B0082>1. On-death explosion now deals physical damage (cannot be immunitized against).\n2. Dash CD reduced to 1/3, base attack damage x3.</color>"
+            "info": "<size=36>A wraith from a thousand years ago, with immense strength.\n\n<color=black>Toughness: </color><color=#4B0082>3000</color>\n<color=black>Damage: </color><color=#4B0082>500</color>\n<color=black>Traits: </color><color=#4B0082>Every 8~14s, dashes forward 2 tiles, dealing 500 damage to plants in its path (first dash is ×2 faster). Upon death, deals 500 Jack-in-the-Box explosion damage to plants in a 3×3 area, excluding Pumpkin-protected plants.</color>\n<color=black>Odyssey Modifiers:\n</color><color=#4B0082>1. On-death explosion now deals physical damage (cannot be immunitized against).\n2. Dash CD reduced to 1/3, base attack damage x3.</color>"
         },
         {
             "theZombieType": 209,
             "name": "Clown-in-the-Pogo Zombie</size>",
             "introduce": "<align=justified><size=36><color=black>\"What, this? Just fashion, my friend,\" Clown-in-the-Pogo Zombie smirks whenever his appearance is brought up. But those who've known him long enough don't buy it. His look isn't just about style—it's a quiet, unspoken tribute to a love that once meant everything. Some trends fade, but some memories never do.</color></size>",
-            "info": "<size=36>The bomb is hidden in his pogo stick.\n\n<color=black>Toughness: </color><color=#4B0082>720 + 4400 (Type 1)</color>\n<color=black>Traits: </color><color=#4B0082>Inherits traits from Pogo Melon Zombie. If he dies while hopping, he'll explode and transform into a King Jack-in-the-Box Zombie.</color></size>\n<color=black>Odyssey Modifiers:\n</color><color=#4B0082>1. On-death explosion is now guaranteed | Pogo Melon Zombies and Clown-in-the-Pogo Zombies have their charge time reduced to 0.75s.\n2. Jack-in-the-Box Zombies affected by the explosion will turn into Clown-in-the-Pogo Zombies.\n<color=black>Weakness: </color>Umbrella fusions.</color>"
+            "info": "<size=36>The bomb is hidden in his pogo stick.\n\n<color=black>Toughness: </color><color=#4B0082>720 + 4400 (Type 1)</color>\n<color=black>Traits: </color><color=#4B0082>Inherits traits from Pogo Melon Zombie. If he dies while holding his pogo stick, he'll explode and transform into a King Jack-in-the-Box Zombie.</color></size>\n<color=black>Odyssey Modifiers:\n</color><color=#4B0082>1. On-death explosion is now guaranteed | Pogo Melon Zombies and Clown-in-the-Pogo Zombies have their charge time reduced to 0.75s.\n2. Jack-in-the-Box Zombies affected by the explosion will turn into Clown-in-the-Pogo Zombies.\n<color=black>Weakness: </color>Umbrella fusions.</color>"
         },
         {
             "theZombieType": 210,
@@ -598,7 +598,7 @@
             "theZombieType": 220,
             "name": "<color=#4B0082><u>Giga Football Striker</u>",
             "introduce": "<align=justified><size=36><color=black>There was no escaping him. Giga Football Striker moved with unnatural precision, his unblinking eyes scanning for the next victim. He wasn't just a destroyer—he was a harvester, a nightmare that took more than just life. Every plant he touched became part of him, twisted and corrupted. And as he advanced, his presence whispered the same terrifying truth: \"No matter where you run, I will find you.\"</color>",
-            "info": "<size=36>Giga Football Striker can tear down your defense with ease!\n\n<color=black>Damage: </color><color=#4B0082>200</color>\n<color=black>Toughness: </color><color=#4B0082>24000 + 24000 (Type 1)</color>\n<color=black>Traits: </color><color=#4B0082>\n<color=black>•</color> Mini-boss. Immune to knock-backs and stuns.\n<color=black>•</color> Disables plant healing, converting it to 0.1× damage against himself.\n<color=black>•</color> Instantly kills non-defensive plants when he bites them, turning them into Giga Football-nut Zombies.\n<color=black>•</color> Every 3s, damage ×2 (stackable), restores 6000 armor HP, and increases speed by 30% (max 3 times the original speed).</color>"
+            "info": "<size=36>Giga Football Striker can tear down your defense with ease!\n\n<color=black>Damage: </color><color=#4B0082>200</color>\n<color=black>Toughness: </color><color=#4B0082>24000 + 24000 (Type 1)</color>\n<color=black>Traits: </color><color=#4B0082>\n<color=black>•</color> Mini-boss. Immune to knock-backs and stuns.\n<color=black>•</color> Disables plant healing, converting it to 0.1× damage against himself.\n<color=black>•</color> Instantly kills non-defensive plants when he bites them, turning them into Giga Football-nut Zombies.\n<color=black>•</color> Every 3s, damage ×2 (stackable, max 8k), restores 6000 armor HP, and increases speed by 30% (max 3 times the original speed).</color>"
         },
         {
             "theZombieType": 221,
@@ -610,7 +610,7 @@
             "theZombieType": 222,
             "name": "<color=#4B0082><u>Jackson Worldwide</u>",
             "introduce": "<align=justified><size=36><color=black>The spotlight flickered as Jackson Worldwide stepped forward, his grin sharp and his voice low. \"You think this is a game?\" he said, snapping his fingers. Superstar Zombies materialized, their instruments screeching. \"This garden's my stage now. Let's see how long you last.\"",
-            "info": "<size=36>Jackson Worldwide has dedicated its entire life to the passion of stage performance and touring.\n\n<color=black>Toughness: </color><color=#4B0082>48000</color>\n<color=black>Traits: </color><color=#4B0082>\n<color=black>•</color> Mini-boss. Immune to all status effects.\n<color=black>•</color> Crushes plants.\n<color=black>•</color> Takes a maximum damage of 480 when affected by spikeweed-like attacks, weeds from Weed-spreaders only deal 5 damage.\n<color=black>•</color> Grants cryo-immunity to zombies nearby and summons 4 Superstar Zombies and 4 Super Dancing Pole Vaulters periodically.\n<color=black>•</color> Spawns 2 Michael Zombonis and a Superstar Zombie upon death.</color>"
+            "info": "<size=36>Jackson Worldwide has dedicated its entire life to the passion of stage performance and touring.\n\n<color=black>Toughness: </color><color=#4B0082>48000</color>\n<color=black>Traits: </color><color=#4B0082>\n<color=black>•</color> Mini-boss. Immune to all status effects.\n<color=black>•</color> Crushes plants.\n<color=black>•</color> Takes a maximum damage of 480 when affected by spikeweed-like attacks.\n<color=black>•</color> Grants cryo-immunity to zombies nearby and summons 4 Superstar Zombies and 4 Super Dancing Pole Vaulters periodically.\n<color=black>•</color> Spawns 2 Michael Zombonis and a Superstar Zombie upon death.</color>"
         },
         {
             "theZombieType": 223,
@@ -640,7 +640,7 @@
             "theZombieType": 227,
             "name": "Frost Tall-nut Sentinel Zombie",
             "introduce": "<align=justified><size=36><color=black>Clad in armor forged from solid ice, wielding a blade tempered by fire and frost, Frost Tall-nut Sentinel Zombie returns to the lawn stronger and sharper than ever—only to smash through… zombies ahead of him?</color>",
-            "info": "<size=36>Frost Tall-nut Zombies with icy claws. They pack a punch.\n\n<color=black>Toughness: </color><color=#4B0082>720 + 2200 (Type 1)</color>\n<color=black>Traits: </color><color=#4B0082>Inherits traits from Frost Tall-nut Zombie. Transformed from regular zombies by Doominator-shroom and Thornminator.</color>"
+            "info": "<size=36>Frost Tall-nut Zombies with icy claws. They pack a punch.\n\n<color=black>Toughness: </color><color=#4B0082>270 + 1100 (Type 1)</color>\n<color=black>Traits: </color><color=#4B0082>Inherits traits from Frost Tall-nut Zombie. Transformed from regular zombies by Doominator-shroom and Thornminator.</color>"
         },
         {
             "theZombieType": 228,
