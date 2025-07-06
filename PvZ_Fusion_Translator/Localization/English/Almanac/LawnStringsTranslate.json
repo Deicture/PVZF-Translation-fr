@@ -2587,7 +2587,7 @@
             "seedType": 1254,
             "name": "Atlantis Ballista",
             "introduce": "<align=justified><size=36><color=black>Atlantis Ballista once served proudly atop the castle walls, convinced his power was like a roaring tsunami. Turns out, everyone was just talking about the screech his strings made when reloading. Embarrassed but undeterred, he found salvation in aloe juice. Now his bolts are smoother, deadlier, and most importantly, much quieter.</color>",
-            "info": "<size=36>Fires tidal bolts with a tsunami's force; targets struck become more vulnerable to chill.\n\n<color=black>Damage: </color><color=#8B0000>80/1s</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Immune to freeze from Snowballs and Blizzards.\n<color=black>•</color> Fires 4 bolts in quick succesion before resting for 3s.\n<color=black>•</color> Fires 4 tidal bolts in quick succesion before resting for 3s.\n<color=black>•</color> 90% chance to fire Tidal Bolts. Applies Soaked for 5s. A soaked zombie will be frozen instead of chilled when hit by a cryo-system attacks. The status is then cleared and cannot be reapplied for 10s.\n<color=black>•</color> 10% chance to fire Ice Bolts. Applies Deep Chill.</color>",
+            "info": "<size=36>Fires tidal bolts with a tsunami's force; targets struck become more vulnerable to chill.\n\n<color=black>Damage: </color><color=#8B0000>80/1s</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Immune to freeze from Snowballs and Blizzards.\n<color=black>•</color> Fires 4 bolts in quick succesion before resting for 3s.\n<color=black>•</color> 90% chance to fire Tidal Bolts. Applies Soaked for 5s. A soaked zombie will be frozen instead of chilled when hit by a cryo-system attacks. The status is then cleared and cannot be reapplied for 10s.\n<color=black>•</color> 10% chance to fire Ice Bolts. Applies Deep Chill.</color>",
             "cost": "<size=36>Fusion Formula: <color=#8B0000>Aloe Aqua > Spruce Ballista</color>"
         },
         {
@@ -2613,15 +2613,15 @@
         },
         {
             "seedType": 1258,
-            "name": "Lotus Bamblock",
-            "introduce": "<align=justified><size=36><color=black>Every winter, Lotus Bamblock tries to impress potential mates with a dazzling petal display. But his performance often goes… too fast. And too cold. The girls walk away before he even finishes blooming.</color>",
+            "name": "Bamblotus",
+            "introduce": "<align=justified><size=36><color=black>Every winter, Bamblotus tries to impress potential mates with a dazzling petal display. But his performance often goes… too fast. And too cold. The girls walk away before he even finishes blooming.</color>",
             "info": "<size=36>A self-healing barricade that grows stronger with nearby allies.\n\n<color=black>Toughness: </color><color=#8B0000>1500</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Immune to freeze from Snowballs and Blizzards.\n<color=black>•</color> Heals himself by 50 HP when charged.\n<color=black>•</color> Recovers 40 HP every 1.5s. This HP recovery is increased by 100% for each adjacent Bamblock-type plants.\n<color=black>•</color> Resilience (defaults to 1): Incoming damage is divided by resilience. Max HP is treated as multiplied by resilience. Resilience is increased by 0.3 for each adjacent Bamblock-type plants.</color>",
             "cost": "<size=36>Fusion Formula: <color=#8B0000>Bamblock + Snow Lotus</color>"
         },
         {
             "seedType": 1259,
-            "name": "Aloe Bamblock",
-            "introduce": "<align=justified><size=36><color=black>Aloe Bamblock loves to travel and promote his snowy hometown. But no one ever seems interested. \"They always think the pack on my back is just a bump from getting whacked,\" he complains. \"No wonder they think the tundra's an unforgiving place.\"</color>",
+            "name": "Bambloe",
+            "introduce": "<align=justified><size=36><color=black>Bambloe loves to travel and promote his snowy hometown. But no one ever seems interested. \"They always think the pack on my back is just a bump from getting whacked,\" he complains. \"No wonder they think the tundra's an unforgiving place.\"</color>",
             "info": "<size=36>An ice-hardened barricade that thrives against cold-based zombies.\n\n<color=black>Toughness: </color><color=#8B0000>1500</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Immune to freeze from Snowballs and Blizzards.\n<color=black>•</color> Gains ice charges like Aloe Aqua.\n<color=black>•</color> Resilience (defaults to 1): Incoming damage is divided by resilience. Max HP is treated as multiplied by resilience. Consumes 1 charge to raise resilience by 2. Gains 1 resilience when fighting chilled/frozen zombies (not stackable with previous ability).</color>",
             "cost": "<size=36>Fusion Formula: <color=#8B0000>Bamblock + Aloe Aqua</color>"
         }
