@@ -58,7 +58,7 @@
             "theZombieType": 10,
             "name": "舞王僵尸",
             "introduce": "<color=#3D1400>黑色的西装，黑色的帽子，他不从事殡葬行业，他只是个舞者，一个很酷的舞者，你可以叫他Michael Jackson。</color>",
-            "info": "向传奇舞王迈克尔·杰克逊致敬！经典太空步入场。\n\n<color=#3D1400>韧性：</color><color=red>720</color>\n<color=#3D1400>特点：</color><color=red>太空步入场，在周围召唤4个舞王撑杆僵尸。有伙伴死亡时，在4个前进舞步后召唤，补齐4个伙伴。被阻挡时不会召唤</color>"
+            "info": "向传奇舞王迈克尔·杰克逊致敬！经典太空步入场。\n\n<color=#3D1400>韧性：</color><color=red>720</color>\n<color=#3D1400>特点：</color><color=red>滑步入场，在周围召唤4个舞王撑杆僵尸。有伙伴死亡时，在4个前进舞步后召唤，补齐4个伙伴。被阻挡时不会召唤</color>"
         },
         {
             "theZombieType": 11,
@@ -88,13 +88,13 @@
             "theZombieType": 15,
             "name": "学者僵尸",
             "introduce": "<color=#3D1400>学者僵尸是学术界的权威，你可以经常在图书馆见到他的身影，他真的很喜欢读书，因此在读书时被打扰会令他怒不可遏，随后这位老先生就会让你明白什么叫做“知识就是力量”。</color>",
-            "info": "有学问的僵尸，最讨厌别人打断他阅读。\n\n<color=#3D1400>伤害：</color><color=red>400</color>\n<color=#3D1400>韧性：</color><color=red>720+1100（二类）</color>\n<color=#3D1400>特点：</color><color=red>持有书籍时本体无敌，不会因冻结值增加进入寒冷状态。失去书籍后短暂无敌（免疫新的控制效果），然后移速x10，攻速x3</color>"
+            "info": "有学问的僵尸，最讨厌别人打断他阅读。\n\n<color=#3D1400>伤害：</color><color=red>400</color>\n<color=#3D1400>韧性：</color><color=red>720+1100（二类）</color>\n<color=#3D1400>特点：</color><color=red>持有书籍时本体无敌，不会因冻结值增加进入寒冷状态。失去书籍后短暂无敌（免疫新的控制效果），然后移速x10，攻速x3。</color>"
         },
         {
             "theZombieType": 16,
             "name": "雪橇车僵尸",
             "introduce": "<color=#3D1400>雪橇车僵尸的车技很好，毕竟能从滑冰场开到草地的僵尸已经不多见了，他总是这么安慰着自己，然后去交罚款。他开的不是Zamboni牌浇冰机，而是Z公司出品的Zomboni牌浇冰机。</color>",
-            "info": "其实是Zomboni牌造冰车。\n\n<color=#3D1400>韧性：</color><color=red>1350</color>\n<color=#3D1400>特点：</color><color=red>防寒等级2。出场时速度较快，逐渐减速到正常速度，碾压植物并留下冰道</color>"
+            "info": "其实是Zomboni牌造冰车。\n\n<color=#3D1400>韧性：</color><color=red>1350</color>\n<color=#3D1400>特点：</color><color=red>防寒等级2。出场时速度较快，逐渐减速到正常速度，碾压植物并留下冰道。</color>"
         },
         {
             "theZombieType": 17,
@@ -118,7 +118,7 @@
             "theZombieType": 20,
             "name": "三叉戟僵尸",
             "introduce": "<color=#3D1400>三叉戟僵尸原本只是个普通的标枪运动员，退役后成为渔民，但他试图下河捕鱼后发现自己并不会游泳，就这么沉入了河底，再次上岸后就发现自己变成现在这个样子了。</color>",
-            "info": "沼泽疾行者，投掷三叉戟远程攻击！\n\n<color=#3D1400>韧性：</color><color=red>720</color>\n<color=#3D1400>索敌范围：</color><color=red>前方3.5格外最近的植物</color>\n<color=#3D1400>特点：</color><color=red>出场6~9秒或被植物阻挡后，投掷三叉戟，造成植物当前血量20%的伤害，最低60</color>"
+            "info": "沼泽疾行者，投掷三叉戟远程攻击！\n\n<color=#3D1400>韧性：</color><color=red>720</color>\n<color=#3D1400>索敌范围：</color><color=red>前方3.5格外最近的植物</color>\n<color=#3D1400>特点：</color><color=red>投掷三叉戟，造成植物当前血量20%的伤害，最低60</color>"
         },
         {
             "theZombieType": 21,
@@ -154,7 +154,7 @@
             "theZombieType": 26,
             "name": "飞艇僵尸",
             "introduce": "<color=#3D1400>飞艇是埃德加博士的最新力作，它出现后很快成为了僵尸们的得力助手，僵尸们都在猜测到底是谁有机会驾驶这架强大的武器。也许是小鬼，也许飞艇本身就是一只僵尸？\n“气球而已。”埃德加博士说道，“僵尸也要与时俱进。我正在考虑把我的飞艇也变成无人机。”这样他就不会在被植物打败时露出狼狈模样了。</color>",
-            "info": "慢速飞行，向下方的植物投掷玩偶匣炸弹。\n\n<color=#3D1400>韧性：</color><color=red>1350</color>\n<color=#3D1400>伤害：</color><color=red>500</color>\n<color=#3D1400>特点：</color><color=red>受到三叶草效果会被缓慢击退约半格，每3秒向下方投掷炸弹，造成玩偶匣爆炸伤害</color>"
+            "info": "慢速飞行，向下方的植物投掷玩偶匣炸弹。\n\n<color=#3D1400>韧性：</color><color=red>1350</color>\n<color=#3D1400>伤害：</color><color=red>1000</color>\n<color=#3D1400>特点：</color><color=red>受到三叶草效果会被缓慢击退约半格，每3秒向下方投掷炸弹，造成玩偶匣爆炸伤害</color>"
         },
         {
             "theZombieType": 27,
@@ -166,13 +166,13 @@
             "theZombieType": 28,
             "name": "矿工僵尸",
             "introduce": "<color=#3D1400>很久以前，矿工很讨厌磁力菇，因为这让他的生活工具老是被没收，而现在呢，矿工更讨厌矿工南瓜。“我的头老是被撞到，这让我更难受。”</color>",
-            "info": "挖掘地道潜入到你的身后。\n\n<color=#3D1400>韧性：</color><color=red>720</color>\n<color=#3D1400>特点：</color><color=red>不会被地上植物攻击。在地下时，可以被磁力菇吸取矿镐，或被具有矿工南瓜特性的南瓜阻挡，然后出土。在地下会触发出土的土豆雷</color>"
+            "info": "挖掘地道潜入到你的身后。\n\n<color=#3D1400>韧性：</color><color=red>720</color>\n<color=#3D1400>特点：</color><color=red>不会被地上植物攻击。在地下时，可以被磁力菇吸取矿镐，或被具有矿工南瓜特性的南瓜阻挡，然后出土。在地下会触发出土的土豆雷。</color>"
         },
         {
             "theZombieType": 29,
             "name": "铁桶气球僵尸",
             "introduce": "<color=#3D1400>“朋友们，你们听过柏林飞艇的故事吗，我就是从那台机器得到了灵感……”所有僵尸都想躲着铁桶气球僵尸，倒不是因为他总是把飞艇的故事喋喋不休讲个不停，而是因为，它气球上的螺旋桨实在是太吵了。</color>",
-            "info": "拥有精密的翼片调节系统，不怕三叶草！\n\n<color=#3D1400>韧性：</color><color=red>270+500（一类）</color>\n<color=#3D1400>特点：</color><color=red>拥有气球僵尸的特点，但免疫三叶草效果。落地后，获得2200韧性的一类防具（该防具被磁力菇吸引后死亡）。因受伤而死亡时掉落铁桶</color>"
+            "info": "拥有精密的翼片调节系统，不怕三叶草！\n\n<color=#3D1400>韧性：</color><color=red>270+500（一类）</color>\n<color=#3D1400>特点：</color><color=red>拥有气球僵尸的特点，但免疫三叶草效果。落地后，获得2200韧性的一类防具（该防具被磁力菇吸引后死亡）。死亡时掉落铁桶</color>"
         },
         {
             "theZombieType": 30,
@@ -196,7 +196,7 @@
             "theZombieType": 33,
             "name": "扶梯僵尸",
             "introduce": "<color=#3D1400>扶梯僵尸听网上说，只要拿着梯子，扮作工人，任何地方都能进去。于是他买了梯子，穿上工服，准备靠这个穿过植物防线。\n“没人跟他说他的僵尸皮肤很显眼吗？”豌豆射手说，“我确定我们不会请一个僵尸来维修屋子。”</color>",
-            "info": "扶梯可以让僵尸翻越植物。\n\n<color=#3D1400>韧性：</color><color=red>720+720（二类）</color>\n<color=#3D1400>特点：</color><color=red>靠近防御类植物后放置扶梯，僵尸可以走上扶梯翻越植物。扶梯所在格的植物不能被手套移动，且融合或死亡时移除扶梯。放置的扶梯会被灰烬伤害移除。所有扶梯都可以被磁力菇吸取</color>"
+            "info": "扶梯可以让僵尸翻越植物。\n\n<color=#3D1400>韧性：</color><color=red>720+720（二类）</color>\n<color=#3D1400>特点：</color><color=red>靠近植物后放置扶梯，僵尸可以走上扶梯翻越植物。有扶梯的植物不能被手套移动，扶梯只能被灰烬伤害摧毁。所有扶梯都可以被磁力菇吸取</color>"
         },
         {
             "theZombieType": 34,
@@ -226,7 +226,7 @@
             "theZombieType": 38,
             "name": "机械伽刚特尔",
             "introduce": "<color=#3D1400>机械加刚特尔，埃德加的最新发明，继飞艇之后，又一大战争武器，“老实说，它们并没有思想。”埃德加博士如是说到，“因此，它们也更和平，不会给植物留下心灵创伤，反映了我族和平的思想。”不过，被压扁的坚果可就没那么好说话了。</color>",
-            "info": "僵王博士的新发明，会义无反顾地冲向你的防线！\n\n<color=#3D1400>韧性：</color><color=red>3000</color>\n<color=#3D1400>特点：</color><color=red>免疫击退外的绝大多数异常状态，移速较慢。头部可以被磁力菇吸引并变为1/3血，掉头后能继续移动。碾压植物，对防碾压植物伤害500，对地刺王系列植物伤害150，对魅惑僵尸伤害20/0.02秒</color>"
+            "info": "僵王博士的新发明，会义无反顾地冲向你的防线！\n\n<color=#3D1400>韧性：</color><color=red>3000</color>\n<color=#3D1400>特点：</color><color=red>免疫击退外的所有异常状态，移速较慢。头部可以被磁力菇吸引并变为1/3血，掉头后能继续移动。碾压植物，对防碾压植物伤害500，对地刺王系列植物伤害150，对魅惑僵尸伤害20/0.02秒</color>"
         },
         {
             "theZombieType": 39,
@@ -238,19 +238,19 @@
             "theZombieType": 40,
             "name": "机械保龄球僵尸",
             "introduce": "<color=#3D1400>启动保龄球可是个麻烦的事——首先要加好油、上好润滑，然后还得把它搬到弹射装置上，之后才能启动。小鬼可搬不动保龄球，这些都是巨人帮忙干的。。</color>",
-            "info": "滚动的保龄球，动力来自小鬼僵尸和重力势能。\n\n<color=#3D1400>韧性：</color><color=red>1350</color>\n<color=#3D1400>特点：</color><color=red>免疫黄油和中毒。滚动前进，移速较快，在斜坡上加速，撞到植物后换行并减速，碰到保护伞类融合植物时停下。碾压血量不足1000的植物，否则造成1000伤害。蓝眼/红眼保龄球死亡时，生成冰球/火球和5个小鬼僵尸（换行时除外）。黄眼保龄球死亡时掉落机械保龄球碎片。冰球/火球会碾压植物，阻挡30发子弹、或受到火爆辣椒/寒冰菇效果、或30秒后消失</color>\n<color=#3D1400>弱点：</color><color=red>叶子保护伞</color>"
+            "info": "滚动的保龄球，动力来自小鬼僵尸和重力势能。\n\n<color=#3D1400>韧性：</color><color=red>1350</color>\n<color=#3D1400>特点：</color><color=red>滚动前进，移速较快，在斜坡上加速，撞到植物后换行并减速，碰到保护伞类融合植物时停下。碾压血量不足1000的植物，否则造成1000伤害。蓝眼/红眼保龄球死亡时，生成冰球/火球和5个小鬼僵尸（换行时除外）。黄眼保龄球死亡时掉落机甲碎片。冰球/火球会碾压植物，阻挡30发子弹、或受到火爆辣椒/寒冰菇效果、或30秒后消失</color>\n<color=#3D1400>弱点：</color><color=red>叶子保护伞</color>"
         },
         {
             "theZombieType": 43,
             "name": "武装巨人僵尸",
             "introduce": "<color=#3D1400>武装巨人僵尸非常喜欢他最经常玩的游戏内一款名为“骑士”的皮肤，所以他斥巨资为自己量身订购了一款中世纪铠甲，不过当他想脱下来这铠甲时就脱不下来了......然后他就获得了骑“尸”的永久皮肤。</color>",
-            "info": "最后的收尾者。\n\n<color=#3D1400>韧性：</color><color=red>8000+24000（一类），对秒杀伤害限伤5000</color>\n<color=#3D1400>特点：</color><color=red>限伤5000，免疫魅惑/吞食/击退，受到控制时间减半，移速较慢。本体半血时扔出机械保龄球僵尸。砸击时随机产生1~3个小鬼僵尸。砸击伤害和攻速同伽刚特尔。难5四旗及以上关卡最后一波出现，二周目主线关卡不会出现</color>"
+            "info": "最后的收尾者。\n\n<color=#3D1400>韧性：</color><color=red>8000+24000（一类）</color>\n<color=#3D1400>特点：</color><color=red>限伤5000，免疫魅惑/吞食/击退，受到控制时间减半，移速较慢。本体半血时扔出机械保龄球僵尸。砸击时随机产生1~3个小鬼僵尸。砸击伤害和攻速同伽刚特尔。难5四旗及以上关卡最后一波出现，二周目主线关卡不会出现</color>"
         },
         {
             "theZombieType": 44,
             "name": "僵王博士",
             "introduce": "<color=#3D1400>这里是僵王博士的宝开语？或许是僵王博士的宝开语。</color>",
-            "info": "僵王博士统治着所有的僵尸。\n\n<color=#3D1400>韧性：</color><color=red>45000，限伤5000</color>\n<color=#3D1400>特点：</color><color=red>被打败后出现奖杯。免疫大部分异常状态，寒冷/冻结/红温除外。有多种攻击模式。可在右半场放下部分普通僵尸，期间可踩扁最右侧4列的植物。可发射冰火球，滚动压扁植物。可在左半场放下3个蹦极僵尸，半血后改为投掷车辆，压扁2x3范围植物。</color>"
+            "info": "僵王博士统治着所有的僵尸。\n\n<color=#3D1400>韧性：</color><color=red>45000</color>\n<color=#3D1400>特点：</color><color=red>被打败后出现奖杯。限伤5000后再计算减伤。免疫大部分异常状态，寒冷/冻结/红温除外。有多种攻击模式。可在右半场放下部分普通僵尸，期间可踩扁最右侧4列的植物。可发射冰火球，滚动压扁植物。可在左半场放下3个蹦极僵尸，半血后改为投掷车辆，压扁2x3范围植物。</color>"
         },
         {
             "theZombieType": 45,
@@ -262,13 +262,13 @@
             "theZombieType": 46,
             "name": "奖杯僵王博士",
             "introduce": "<color=#3D1400>这里是奖杯僵王博士的宝开语？或许是奖杯僵王博士的宝开语。</color>",
-            "info": "《植物大战僵尸：融合版》\n\n<color=#3D1400>韧性：</color><color=red>45000，限伤5000</color>\n<color=#3D1400>特点：</color><color=red>拥有僵王博士的特点。出场时禁用手套锤子，2/3血时解锁锤子，1/3血时解锁手套。投掷的车辆还能清空传送带</color>\n<color=#3D1400>融合配方：</color><color=red>僵王博士+奖杯</color>"
+            "info": "《植物大战僵尸：融合版》\n\n<color=#3D1400>韧性：</color><color=red>45000</color>\n<color=#3D1400>特点：</color><color=red>拥有僵王博士的特点。出场时禁用手套锤子，2/3血时解锁锤子，1/3血时解锁手套。投掷的车辆还能清空传送带</color>\n<color=#3D1400>融合配方：</color><color=red>僵王博士+奖杯</color>"
         },
         {
             "theZombieType": 47,
             "name": "雪人僵尸",
             "introduce": "<color=#3D1400>关于雪人僵尸的资料很少，除了他的名字、出生日期、社保号、受教育程度、工作履历以及喜爱夹心三明治（烤牛肉味）。</color>",
-            "info": "身边环绕着厚重的寒气，一段时间后会逃跑。\n\n<color=#3D1400>韧性：</color><color=red>1350</color>\n<color=#3D1400>特点：</color><color=red>出场一段时间后反向前进。沉默3x3范围内的植物，使其大多数主动效果失效，以下几类植物免疫此效果：火爆辣椒、寒冰菇、火炬树桩、云杉弓手、寒冰莲花、水滴芦荟。进化模式中，有概率携带拼图礼盒出场</color>"
+            "info": "一段时间后会逃跑。\n\n<color=#3D1400>韧性：</color><color=red>1350</color>\n<color=#3D1400>特点：</color><color=red>出场一段时间后反向前进。沉默3x3范围内的植物，火爆辣椒类、寒冰菇类、火炬树桩类植物免疫此效果</color>"
         },
         {
             "theZombieType": 48,
@@ -298,7 +298,7 @@
             "theZombieType": 52,
             "name": "传送门豌豆射手僵尸",
             "introduce": "<color=#3D1400>传送门豌豆射手僵尸手里的门到底是什么？没有僵尸知道，也不想知道，但当看见老伙计们陆续从门里钻出来的时候，他们很愿意上前问问里面有没有新鲜的脑子。</color>",
-            "info": "超越时间与空间，世界之外的力量。\n\n<color=#3D1400>子弹伤害：</color><color=red>20</color>\n<color=#3D1400>韧性：</color><color=red>270+200（二类）</color>\n<color=#3D1400>特点：</color><color=red>每1.5秒发射一颗超时空豌豆。每6秒，从传送门中随机召唤1个普僵/路障/铁桶/铁门僵尸。因受伤而死亡时掉落时空碎片</color>"
+            "info": "超越时间与空间，世界之外的力量。\n\n<color=#3D1400>子弹伤害：</color><color=red>20</color>\n<color=#3D1400>韧性：</color><color=red>270+200（二类）</color>\n<color=#3D1400>特点：</color><color=red>每1.5秒发射一颗超时空豌豆。每6秒，从传送门中随机召唤1个普僵/路障/铁桶/铁门僵尸。死亡时掉落时空碎片</color>"
         },
         {
             "theZombieType": 53,
@@ -310,7 +310,7 @@
             "theZombieType": 55,
             "name": "冰块僵尸",
             "introduce": "<color=#3D1400>在寒冷的雪原，更要注意保暖工作。事实上，冰块也是很好的保温材料。”冰块僵尸骄傲地向其他僵尸推荐自己的方法，但没人尝试。他似乎没有发现，冰块的隔音效果同样很好。</color>",
-            "info": "拥有冰块头盔的雪人族僵尸。\n\n<color=#3D1400>韧性：</color><color=red>500+370（一类）</color>\n<color=#3D1400>特点：</color><color=red>防寒等级1</color>"
+            "info": "拥有冰块头盔的雪人僵尸。\n\n<color=#3D1400>韧性：</color><color=red>500+370（一类）</color>\n<color=#3D1400>特点：</color><color=red>防寒等级1</color>"
         },
         {
             "theZombieType": 56,
@@ -328,25 +328,13 @@
             "theZombieType": 58,
             "name": "矿镐僵尸",
             "introduce": "<color=#3D1400>“我不要在这个世界生活，”矿镐僵尸从单调的生活中得不到一点快乐，他只想挖掘足够的黑曜石造出传送门，离开这个地方。且不说传送门的另一端更加危险单调，他根本就没有点亮传送门的可能——僵尸界唯一已知的点火工具正在神秘的金字塔里。</color>",
-            "info": "使用随机材质的矿镐破坏你的前排。\n\n<color=#3D1400>韧性：</color><color=red>720+1400（一类）</color>\n<color=#3D1400>伤害：</color><color=red>50（非啃咬）</color>\n<color=#3D1400>特点：</color><color=red>攻击会为防御类植物累计挖掘进度，达到100%后强制秒杀，挖掘进度=(攻击次数×挖掘值)/植物血量。出场时随机获得挖掘能力不同的镐子，针对不高于特定韧性的植物时，挖掘值×5。\n金镐：挖掘值150，韧性4000\n铁镐：挖掘值50，韧性16000\n钻石镐：挖掘值100，韧性32000</color>\n<color=#3D1400>防御类植物：</color><color=red>坚果类、南瓜类、汉堡王、冻梨</color>"
+            "info": "使用随机材质的矿镐破坏你的前排。\n\n<color=#3D1400>韧性：</color><color=red>720+1400（一类）</color>\n<color=#3D1400>伤害：</color><color=red>50（非啃咬）</color>\n<color=#3D1400>特点：</color><color=red>攻击会为防御类植物累计挖掘进度，达到100%后强制秒杀，挖掘进度=(攻击次数×挖掘值)/植物血量。出场时随机获得挖掘能力不同的镐子，针对低于特定韧性的植物时，挖掘值×5。\n金镐：挖掘值150，韧性4000\n铁镐：挖掘值50，韧性16000\n钻石镐：挖掘值100，韧性32000</color>\n<color=#3D1400>防御类植物：</color><color=red>坚果类、南瓜类、汉堡王、冻梨</color>"
         },
         {
             "theZombieType": 59,
             "name": "海豚读报僵尸",
             "introduce": "<color=#3D1400>“以前他的梦想是成为美人鱼，但负责给他整容的医师把应该给他的上下半身搞反了。”</color>",
-            "info": "阅读被打扰时会发怒，然后…回家再取一份报纸。\n\n<color=#3D1400>韧性：</color><color=red>720+720（二类）</color>\n<color=#3D1400>特点：</color><color=red>失去报纸后速度大增，并掉转方向前进，在右侧离场后，取得新的报纸并恢复至满状态重新入场。因魅惑而离场不会触发该效果</color>"
-        },
-        {
-            "theZombieType": 61,
-            "name": "海豚橄榄球僵尸",
-            "introduce": "<color=#3D1400>这家伙在橄榄球赛场上简直如鱼得水。等会，这是个比喻，我没让你们真的往赛场里灌水！</color>",
-            "info": "为了展示最爱款式的头盔，以精巧的步伐在场上来回穿梭。\n\n<color=#3D1400>韧性：</color><color=red>720+1400（一类）</color>\n<color=#3D1400>特点：</color><color=red>拥有头盔时无视植物阻挡。前进至第一列或后退至离场时，回满血量并换上新的头盔，然后掉转方向移动</color>"
-        },
-        {
-            "theZombieType": 62,
-            "name": "小雪兽",
-            "introduce": "<color=#3D1400>尽管年龄还小，但小雪兽已经有了大志向。它要像大雪兽一样威风地称霸雪原，而不是和小鬼僵尸这样的小不点搭档。它逃出了军营准备闯荡一番，却不小心跑到了植物的阵地上……哎哟！</color>",
-            "info": "雪兽幼崽，因喜爱翻滚而容易夭折。\n\n<color=#3D1400>韧性：</color><color=red>300</color>\n<color=#3D1400>特点：</color><color=red>滚动前进，碰到植物时造成等同于自身血量的伤害，然后死亡</color>"
+            "info": "阅读被打扰时会发怒，然后…回家再取一份报纸。\n\n<color=#3D1400>韧性：</color><color=red>720+720（二类）</color>\n<color=#3D1400>特点：</color><color=red>失去报纸后速度大增，并掉转方向前进，在右侧离场后会生成一个海豚读报僵尸，因魅惑而离场时不会触发</color>"
         },
         {
             "theZombieType": 100,
@@ -388,7 +376,7 @@
             "theZombieType": 106,
             "name": "铁桶坚果僵尸",
             "introduce": "<color=#3D1400>为什么铁桶坚果僵尸的头这么铁？其实是因为大家都说吃核桃补脑，但是他没注意到他吃的核桃含铁量太高。不过情况也许没那么糟，至少现在他练成了铁头功。</color>",
-            "info": "铁坚果也能动起来？\n\n<color=#3D1400>韧性：</color><color=red>270+2200（一类）</color>\n<color=#3D1400>特点：</color><color=red>防具被磁力菇吸引后死亡。因受伤而死亡时掉落铁桶</color>"
+            "info": "铁坚果也能动起来？\n\n<color=#3D1400>韧性：</color><color=red>270+2200（一类）</color>\n<color=#3D1400>特点：</color><color=red>防具被磁力菇吸引后死亡，死亡时掉落铁桶</color>"
         },
         {
             "theZombieType": 107,
@@ -400,13 +388,13 @@
             "theZombieType": 108,
             "name": "铁桶豌豆射手僵尸",
             "introduce": "<color=#3D1400>铁桶豌豆僵尸去年抽了塔罗牌，他的塔罗牌的暗示是「The Emperor」，从那之后他就发现自己可以随随便便射出铁子弹了。</color>",
-            "info": "发射高伤害的铁豌豆子弹。\n\n<color=#3D1400>子弹伤害：</color><color=red>80</color>\n<color=#3D1400>韧性：</color><color=red>1350</color>\n<color=#3D1400>特点：</color><color=red>因受伤而死亡时掉落铁桶。每1.5秒发射一颗铁豌豆，会击退魅惑僵尸</color>"
+            "info": "发射高伤害的铁豌豆子弹。\n\n<color=#3D1400>子弹伤害：</color><color=red>80</color>\n<color=#3D1400>韧性：</color><color=red>1350</color>\n<color=#3D1400>特点：</color><color=red>死亡时会掉落铁桶。每1.5秒发射一颗铁豌豆，会击退魅惑僵尸</color>"
         },
         {
             "theZombieType": 109,
             "name": "橄榄球高坚果僵尸",
             "introduce": "<color=#3D1400>橄榄球高坚果僵尸原本只是一只普通的橄榄球僵尸，直到有一天他一头创在了正在撒肥料的坚果身上。\n“我也不知道怎么回事这家伙还就长我头上了，闷死我了要……”高坚果橄榄球僵尸如是说道。</color>",
-            "info": "相当抗打的橄榄高坚果僵尸。\n\n<color=#3D1400>韧性：</color><color=red>270+4400（一类）</color>\n<color=#3D1400>特点：</color><color=red>防具被磁力菇吸引后死亡，因受伤而死亡时掉落橄榄帽</color>"
+            "info": "相当抗打的橄榄高坚果僵尸。\n\n<color=#3D1400>韧性：</color><color=red>270+4400（一类）</color>\n<color=#3D1400>特点：</color><color=red>死亡时会掉落橄榄帽</color>"
         },
         {
             "theZombieType": 110,
@@ -448,7 +436,7 @@
             "theZombieType": 116,
             "name": "火爆窝瓜僵尸",
             "introduce": "<color=#3D1400>火爆窝瓜僵尸是僵尸中的急性子，他登场时第一步是什么呢？ 当然是撞开其他僵尸！ 原本他想站在显眼的位置大喊“烈火燎原，寸草无生！”，下一步才是把头甩出去，可惜他的头比他还急。</color>",
-            "info": "能砸扁身边的植物并释放僵尸火爆辣椒效果！\n\n<color=#3D1400>韧性：</color><color=red>1500</color>\n<color=#3D1400>特点：</color><color=red>彩蛋僵尸。会碾压附近的植物并死亡。如果不处于寒冷状态，碾压植物时释放僵尸火爆辣椒效果</color>\n<color=#3D1400>僵尸火爆辣椒：</color><color=red>秒杀本行所有植物（100万伤害），不会伤害魅惑僵尸，不会清除冰道</color>"
+            "info": "能砸扁身边的植物并释放僵尸火爆辣椒效果！\n\n<color=#3D1400>韧性：</color><color=red>1500</color>\n<color=#3D1400>特点：</color><color=red>彩蛋僵尸。会碾压附近的植物并死亡。如果不处于寒冷状态，碾压植物时释放僵尸火爆辣椒效果</color>\n<color=#3D1400>僵尸火爆辣椒：</color><color=red>秒杀本行所有植物，不会伤害魅惑僵尸，不会清除冰道</color>"
         },
         {
             "theZombieType": 117,
@@ -466,13 +454,13 @@
             "theZombieType": 119,
             "name": "铁豌豆气球僵尸",
             "introduce": "<color=#3D1400>面对僵尸们的质疑，铁桶豌豆气球僵尸企图用僵尸集体照来证明自己的元老身份。“可是”，众僵尸说，“你在哪儿呢？”他拿着黑白胶片，也疑惑着。</color>",
-            "info": "装备了铁气球装置的铁豌豆射手僵尸。\n<color=#3D1400>子弹伤害：</color><color=red>80</color>\n<color=#3D1400>韧性：</color><color=red>1350+500（一类）</color>\n<color=#3D1400>特点：</color><color=red>拥有气球僵尸的特点，但免疫三叶草效果。每1.5秒发射一颗铁豌豆，可击退魅惑僵尸。因受伤而死亡时掉落铁桶"
+            "info": "装备了铁气球装置的铁豌豆射手僵尸。\n<color=#3D1400>子弹伤害：</color><color=red>80</color>\n<color=#3D1400>韧性：</color><color=red>1350+500（一类）</color>\n<color=#3D1400>特点：</color><color=red>拥有铁气球僵尸的特点。每1.5秒发射一颗铁豌豆，可击退魅惑僵尸"
         },
         {
             "theZombieType": 120,
             "name": "毁灭菇僵尸",
             "introduce": "<color=#3D1400>僵尸受够了被毁灭菇炸成灰的日子，如今他们终于制造了核反击的武器，让植物们吃点苦头。虽然僵尸的身体只能承受三分之一的毁灭力量，但是总比没有强，不是吗？</color>",
-            "info": "一段时间后产生爆炸，摧毁一定范围的植物。\n\n<color=#3D1400>韧性：</color><color=red>1350</color>\n<color=#3D1400>特点：</color><color=red>入场一段时间后自爆，产生僵尸毁灭菇爆炸，对3×3范围的植物造成1800点伤害</color>\n<color=#3D1400>弱点：</color><color=red>毁灭坚果</color>"
+            "info": "一段时间后产生爆炸，摧毁一定范围的植物。\n\n<color=#3D1400>韧性：</color><color=red>1350</color>\n<color=#3D1400>特点：</color><color=red>入场一段时间后自爆，产生僵尸毁灭菇爆炸，对3×3范围的植物造成1800点伤害</color>\n<color=#3D1400>弱点：</color><color=red>毁灭菇坚果</color>"
         },
         {
             "theZombieType": 200,
@@ -484,25 +472,25 @@
             "theZombieType": 201,
             "name": "舞王冰车僵尸",
             "introduce": "<color=#3D1400>舞王冰车上其实不止一只僵尸，它们是一个团队，冰车僵尸制造场地，雪橇车僵尸提供出场效果，至于舞王僵尸嘛…它因为没有驾驶证所以被迫下车，迎接他那狂热的植物粉丝们，不过他们的豌豆似乎有些太过热情了。</color>",
-            "info": "驾驶特制雪橇冰车的舞王僵尸。\n\n<color=#3D1400>韧性：</color><color=red>12000</color>\n<color=#3D1400>特点：</color><color=red>拥有雪橇冰车僵尸的特点。死亡时始终生成雪橇车、舞王、雪橇冰车僵尸各1个</color>\n<color=#3D1400>弱点：</color><color=red>火爆辣椒、地刺</color>\n<color=#3D1400>词条1：</color><color=red>每轮都会出现舞王冰车，且死亡时额外召唤1个舞王指挥官</color>\n<color=#3D1400>词条2：</color><color=red>舞王冰车和舞台巡演车速度x5</color>"
+            "info": "驾驶特制雪橇冰车的舞王僵尸。\n\n<color=#3D1400>韧性：</color><color=red>12000</color>\n<color=#3D1400>特点：</color><color=red>拥有雪橇冰车僵尸的特点。死亡时始终生成雪橇车、舞王、雪橇冰车僵尸各1个</color>\n<color=#3D1400>弱点：</color><color=red>火爆辣椒、地刺</color>\n<color=#3D1400>词条1：</color><color=red>每轮都会出现舞王冰车，且死亡时额外召唤1个舞王指挥官</color>\n    <color=#3D1400>词条2：</color><color=red>舞王冰车和舞台巡演车速度x5</color>"
         },
         {
             "theZombieType": 202,
             "name": "超级三叉戟僵尸",
             "introduce": "<color=#3D1400>超级三叉戟僵尸是名渔夫，他抛出的四支三叉戟精准无比，因此成为了渔王。“其实我之前还兼职过标枪运动员来着……”超级三叉戟僵尸如是说到。</color>",
-            "info": "三叉戟之下，尽显沼泽之险。\n\n<color=#3D1400>韧性：</color><color=red>270+7500（一类）</color>\n<color=#3D1400>索敌范围：</color><color=red>前方3.5格外最近的植物</color>\n<color=#3D1400>特点：</color><color=red>出场6~9秒或被植物阻挡后，连续投掷4发三叉戟，每发造成植物当前血量20%的伤害，最小伤害60</color>\n<color=#3D1400>词条1：</color><color=red>三叉戟伤害x5</color>\n<color=#3D1400>词条2：</color><color=red>投掷的三叉戟随机命中3.5格外的目标</color>"
+            "info": "三叉戟之下，尽显沼泽之险。\n\n<color=#3D1400>韧性：</color><color=red>270+7500（一类）</color>\n<color=#3D1400>索敌范围：</color><color=red>前方3.5格外最近的植物</color>\n<color=#3D1400>特点：</color><color=red>投掷4发三叉戟，每发造成植物当前血量20%的伤害，最小伤害60。</color>\n<color=#3D1400>词条1：</color><color=red>三叉戟伤害x5</color>\n    <color=#3D1400>词条2：</color><color=red>投掷的三叉戟随机命中3.5格外的目标</color>"
         },
         {
             "theZombieType": 203,
             "name": "樱桃机枪读报僵尸",
             "introduce": "<color=#3D1400>“老了老了……” 樱桃机枪读报僵尸念叨着走在路上，而他身上的威压即使封锁千万，那残留的一丝亦压的场上的植物与僵尸抬不起头。“也就那家伙还能让我有战斗的欲望了……”收起报纸，走在街道，不自喃喃……</color>",
-            "info": "专注阅读的博学者，极度危险，请勿打扰。\n\n<color=#3D1400>啃咬伤害：</color><color=red>400</color>\n<color=#3D1400>子弹伤害：</color><color=red>1000</color>\n<color=#3D1400>韧性：</color><color=red>1500+1500（一类）</color>\n<color=#3D1400>特点：</color><color=red>拥有学者僵尸的特点。失去报纸后，每0.5秒发射4颗爆炸樱桃子弹</color>\n<color=#3D1400>词条1：</color><color=red>失去报纸后移动无视植物阻挡</color>\n<color=#3D1400>词条2：</color><color=red>免疫状态异常</color>"
+            "info": "专注阅读的博学者，极度危险，请勿打扰。\n\n<color=#3D1400>啃咬伤害：</color><color=red>400</color>\n<color=#3D1400>子弹伤害：</color><color=red>1000</color>\n<color=#3D1400>韧性：</color><color=red>1500+1500（一类）</color>\n<color=#3D1400>特点：</color><color=red>拥有学者僵尸的特点。失去报纸后，每0.5秒发射4颗爆炸樱桃子弹</color>\n<color=#3D1400>词条1：</color><color=red>失去报纸后移动无视植物阻挡</color>\n    <color=#3D1400>词条2：</color><color=red>免疫状态异常</color>"
         },
         {
             "theZombieType": 204,
             "name": "黑橄榄高坚果僵尸",
             "introduce": "<color=#3D1400>从黑暗中走出的黑橄榄高坚果僵尸，强大、冷酷、邪恶，并且拒绝分享他强大的秘诀，自称只有在最黑暗的黑暗中才能造就他这样的强者。\n“我的油漆哪儿去了?”埃德加博士疑惑地看着自己的实验室。</color>",
-            "info": "黑夜中潜藏的无畏冲锋者，一个杀戮机器。\n\n<color=#3D1400>伤害：</color><color=red>100</color>\n<color=#3D1400>韧性：</color><color=red>3000+12000（一类）</color>\n<color=#3D1400>词条1：</color><color=red>黑橄榄或将军啃咬时使植物失去回血能力，持续1秒</color>\n<color=#3D1400>词条2：</color><color=red>黑橄榄或将军啃咬时使植物受到3倍伤害，持续1秒</color>"
+            "info": "黑夜中潜藏的无畏冲锋者，一个杀戮机器。\n\n<color=#3D1400>伤害：</color><color=red>100</color>\n<color=#3D1400>韧性：</color><color=red>3000+12000（一类）</color>\n<color=#3D1400>词条1：</color><color=red>黑橄榄或将军啃咬时使植物失去回血能力，持续1秒</color>\n    <color=#3D1400>词条2：</color><color=red>黑橄榄或将军啃咬时使植物受到3倍伤害，持续1秒</color>"
         },
         {
             "theZombieType": 205,
@@ -514,31 +502,31 @@
             "theZombieType": 206,
             "name": "迷你基洛夫",
             "introduce": "<color=#3D1400>这不是一般的飞机，这是经过注水压缩后的特殊飞机。虽然不知道采取什么方式将其压缩，但在战场上的实力也不逊色于一般轰炸机。</color>",
-            "info": "小型轰炸机，向植物扔下小玩偶匣！\n\n<color=#3D1400>炸弹伤害：</color><color=red>500</color>\n<color=#3D1400>韧性：</color><color=red>500</color>\n<color=#3D1400>特点：</color><color=red>免疫寒冰和三叶草效果。每3秒向下方植物扔下炸弹，造成玩偶匣爆炸伤害</color>"
+            "info": "小型轰炸机，向植物扔下小玩偶匣！\n\n<color=#3D1400>炸弹伤害：</color><color=red>1000</color>\n<color=#3D1400>韧性：</color><color=red>500</color>\n<color=#3D1400>特点：</color><color=red>免疫寒冰和三叶草效果。每3秒向下方植物扔下炸弹，造成玩偶匣爆炸伤害</color>"
         },
         {
             "theZombieType": 207,
             "name": "舞王指挥官",
             "introduce": "<color=#3D1400>作为僵尸偶像界的一代天王，舞王指挥官一直对自己要求很严格。完成埃德加舞蹈学院的进修后，他受益匪浅。其中他最得意的就是他新掌握的超级太空步，被评为“僵尸界的第六大奇迹”，为他圈粉无数。</color>",
-            "info": "经典的白色西装，极速的太空滑步。\n\n<color=#3D1400>韧性：</color><color=red>3000</color>\n<color=#3D1400>特点：</color><color=red>出场3秒内滑步进场，期间减伤90%，抵达第五列右侧或被植物阻挡时结束。随后召唤4个舞王撑杆僵尸</color>\n<color=#3D1400>词条1：</color><color=red>舞王和舞王指挥官滑步进场时无视植物阻挡</color>\n<color=#3D1400>词条2：</color><color=red>改为召唤白色撑杆舞王</color>\n<color=#3D1400>弱点：</color><color=red>黄油保护伞</color>"
+            "info": "经典的白色西装，极速的太空舞步。\n\n<color=#3D1400>韧性：</color><color=red>3000</color>\n<color=#3D1400>特点：</color><color=red>出场3秒内滑步进场，期间减伤90%，抵达第五列右侧或被植物阻挡时结束。随后召唤4个舞王撑杆僵尸</color>\n<color=#3D1400>词条1：</color><color=red>舞王和舞王指挥官滑步进场时无视植物阻挡</color>\n<color=#3D1400>词条2：</color><color=red>改为召唤白色撑杆舞王</color>\n<color=#3D1400>弱点：</color><color=red>黄油保护伞</color>"
         },
         {
             "theZombieType": 208,
             "name": "千年尸王",
             "introduce": "<color=#3D1400>此乃东方一千年之骸，长七八尺，锦缎披垂，出入有光。经雷击不死，力大如熊，不喜嗜脑，曾隐于山野，现云游世间，偏安一隅之地，只求一方之魂安宁。</color>",
-            "info": "沉睡千年的大人物。\n\n<color=#3D1400>韧性：</color><color=red>3000</color>\n<color=#3D1400>伤害：</color><color=red>500（非啃咬）</color>\n<color=#3D1400>特点：</color><color=red>每8~14秒，无视植物突进2格，对穿过的植物造成500伤害，首次突进间隔减半。死亡后造成500玩偶匣爆炸伤害。不会伤害南瓜中的植物</color>\n<color=#3D1400>词条1：</color><color=red>死亡时的爆炸改为造成物理伤害</color>\n<color=#3D1400>词条2：</color><color=red>普通攻击伤害x3，突进间隔降为1/3</color>"
+            "info": "沉睡千年的大人物。\n\n<color=#3D1400>韧性：</color><color=red>3000</color>\n<color=#3D1400>伤害：</color><color=red>500（非啃咬）</color>\n<color=#3D1400>特点：</color><color=red>每8~14秒，无视植物突进1.5格，对穿过的植物造成500伤害，首次突进间隔减半。死亡后造成500玩偶匣爆炸伤害。不会伤害南瓜中的植物</color>\n<color=#3D1400>词条1：</color><color=red>死亡时的爆炸改为造成物理伤害</color>\n<color=#3D1400>词条2：</color><color=red>普通攻击伤害x3，突进间隔降为1/3</color>"
         },
         {
             "theZombieType": 209,
             "name": "小丑跳跳王",
             "introduce": "<color=#3D1400>其实我的装扮只是想追寻潮流。在谈论到自己很酷的外形时，小丑跳跳王总是耸耸肩。但大家都知道，他曾有一段刻苦铭心的恋爱史。</color>",
-            "info": "跳杆里藏着一触即发的炸弹。\n\n<color=#3D1400>韧性：</color><color=red>720+4400（一类）</color>\n<color=#3D1400>特点：</color><color=red>拥有瓜跳僵尸的特点。在左半场不会大跳。因受伤而死亡时，若持有跳杆则自爆变成小丑王并释放玩偶匣爆炸</color>\n<color=#3D1400>词条1：</color><color=red>死亡时必定自爆，瓜跳僵尸和小丑跳跳王大跳蓄力时间降为0.75秒</color>\n<color=#3D1400>词条2：</color><color=red>所有的玩偶匣爆炸会将小丑王和小丑僵尸变为小丑跳跳王</color>\n<color=#3D1400>弱点：</color><color=red>保护伞融合植物</color>"
+            "info": "跳杆里藏着一触即发的炸弹。\n\n<color=#3D1400>韧性：</color><color=red>720+4400（一类）</color>\n<color=#3D1400>特点：</color><color=red>拥有西瓜跳跳僵尸的特点。在左半场不会大跳。死亡时如果处于跳跳状态，则自爆变成小丑王并释放玩偶匣爆炸</color>\n<color=#3D1400>词条1：</color><color=red>死亡时必定自爆，西瓜跳跳和小丑跳跳王大跳蓄力时间降为0.75秒</color>\n<color=#3D1400>词条2：</color><color=red>所有的玩偶匣爆炸会将小丑王和小丑僵尸变为小丑跳跳王</color>\n<color=#3D1400>弱点：</color><color=red>保护伞融合植物</color>"
         },
         {
             "theZombieType": 210,
             "name": "超级机械保龄球",
             "introduce": "<color=#3D1400>巨人僵尸一直想要一个保龄球，小鬼听说后连夜改造。实际上他只是在外面涂了一层油漆，并趁机把里面的零食拿出来了。</color>",
-            "info": "机鱼公司研发的电力滚地机器人。\n\n<color=#3D1400>韧性：</color><color=red>1350</color>\n<color=#3D1400>特点：</color><color=red>拥有机械保龄球僵尸的特点，移速极快，但死亡时只会掉落超级机械保龄球碎片</color>\n<color=#3D1400>弱点：</color><color=red>叶子保护伞</color>"
+            "info": "机鱼公司研发的电力滚地机器人。\n\n<color=#3D1400>韧性：</color><color=red>1350</color>\n<color=#3D1400>特点：</color><color=red>拥有机械保龄球僵尸的特点，移速极快，但死亡时只会掉落超级机甲碎片</color>\n<color=#3D1400>弱点：</color><color=red>叶子保护伞</color>"
         },
         {
             "theZombieType": 211,
@@ -550,7 +538,7 @@
             "theZombieType": 212,
             "name": "究极黑曜石巨人",
             "introduce": "<color=#3D1400>曾有僵尸言道：根据古老文献记载，那身暗紫铠甲，只有经历了极寒与炽热双重考验的身躯才能承受，每当僵尸一族处于水深火热之中，在最惨烈的战场中心就有可能出现他的身影。“动静太大了，小心把沉睡在大地中的巨人吵醒。”这是对植物们的忠告。</color>",
-            "info": "旅行尽头的巨人。\n\n<color=#3D1400>韧性：</color><color=red>32000+32000（一类）</color>\n<color=#3D1400>特点：</color><color=red>领袖僵尸。拥有武装巨人僵尸的特点，但砸击时生成黑曜石小鬼僵尸。砸击范围2.5格，对魅惑僵尸伤害7200。为全场僵尸提供的减伤为90%（进化模式中为80%）</color>\n<color=#3D1400>领袖僵尸：</color><color=red>对秒杀伤害限伤5000。免疫魅惑、吞食、溺死、灰烬斩杀、伞类转化、缩小、传送。为全场僵尸提供20%减伤（领袖减伤相加，最高90%），仅在部分3旗以上关卡的旗帜波出现。进化模式中，韧性×2且提供的减伤增至70%</color>\n<color=#3D1400>词条：</color><color=red>死亡时召唤僵王博士</color>"
+            "info": "旅行尽头的巨人。\n\n<color=#3D1400>韧性：</color><color=red>32000+32000（一类）</color>\n<color=#3D1400>特点：</color><color=red>领袖僵尸。拥有武装巨人僵尸的特点，但砸击时生成黑曜石小鬼僵尸。砸击范围2.5格，对魅惑僵尸伤害7200。为全场僵尸提供90%减伤</color>\n<color=#3D1400>领袖僵尸：</color><color=red>对秒杀伤害限伤5000。免疫魅惑、吞食、溺死、灰烬斩杀、伞类转化、缩小、传送。为全场僵尸提供20%减伤（领袖减伤相加，最高90%），仅在部分3旗以上关卡的旗帜波出现，旅行炼狱中选择词条的领袖可以跟随究极黑曜石巨人出场</color>\n<color=#3D1400>词条1：</color><color=red>死亡时召唤僵王博士</color>\n<color=#3D1400>词条2：</color><color=red>出场时伴随其他1种领袖僵尸</color>"
         },
         {
             "theZombieType": 213,
@@ -586,19 +574,19 @@
             "theZombieType": 218,
             "name": "究极渊海三叉戟",
             "introduce": "<color=#3D1400>它来自渊海，启于神话世代，所跨越的时间不可胜计；它是永恒的，不灭的，即使击毁它，也是暂时的胜利，它永远追随浪潮——这些都是说三叉戟，而不是它那一次性的发射架子。</color>",
-            "info": "溺水者之王。\n\n<color=#3D1400>韧性：</color><color=red>24000+24000（一类）</color>\n<color=#3D1400>特点：</color><color=red>领袖僵尸，免疫黄油。出场时召唤1列超级三叉戟僵尸，短时间后投出渊海三叉戟（对落点和弹道上的地面植物造成100万伤害，30秒后自爆对附近植物造成100万伤害）。使全场三叉戟伤害x5，橄榄三叉戟类僵尸不消耗武器</color>"
+            "info": "溺水者之王。\n\n<color=#3D1400>韧性：</color><color=red>24000+24000（一类）</color>\n<color=#3D1400>特点：</color><color=red>领袖僵尸，免疫黄油。出场时召唤1列超级三叉戟僵尸，短时间后投出渊海三叉戟（对落点和弹道上的地面植物造成100万伤害，30秒后自爆对附近植物造成100万伤害）。使全场三叉戟伤害x5，超级三叉戟僵尸不消耗武器</color>"
         },
         {
             "theZombieType": 219,
             "name": "究极机械保龄球",
             "introduce": "<color=#3D1400>究极机械保龄球自被设计出来后广受僵尸们的赞誉，“它就像是我们的盾牌一样。”僵尸们如此说到，其实保龄球并不会保护他们，只是它自己太大了把植物的火力全吸引走了。</color>",
-            "info": "机鱼公司的秘密武器。\n\n<color=#3D1400>韧性：</color><color=red>90000，限伤100</color>\n<color=#3D1400>特点：</color><color=red>领袖僵尸。拥有超级机械保龄球僵尸的特点，移速超快。为所有僵尸承伤（盲盒类僵尸除外）</color>"
+            "info": "机鱼公司的秘密武器。\n\n<color=#3D1400>韧性：</color><color=red>90000</color>\n<color=#3D1400>特点：</color><color=red>领袖僵尸。对所有伤害减伤后限伤100。拥有超级机械保龄球僵尸的特点，移速超快。为所有僵尸承伤（盲盒类僵尸除外）</color>"
         },
         {
             "theZombieType": 220,
             "name": "究极黑橄榄将军",
             "introduce": "<color=#3D1400>他是经历尸山血海的将军，是僵尸一族的战神。他曾于败军之际率残部殊死抵抗，突出重围。身后的旗帜记录着那一战被消灭的敌军的姓名，也禁锢着他们的灵魂。</color>",
-            "info": "你那高墙和锐器不过是虚无缥缈的泡影。\n\n<color=#3D1400>啃咬伤害：</color><color=red>200</color>\n<color=#3D1400>韧性：</color><color=red>24000+24000（一类）</color>\n<color=#3D1400>特点：</color><color=red>领袖僵尸，免疫击退/黄油，移速较快。受到植物方回血量0.1倍的伤害，并阻止植物回血。啃咬会将特定植物转化为黑橄榄高坚果僵尸。每3秒使攻击力x2（最高100万），防具回血6000，速度增加0.3倍（最高3倍）</color>\n<color=#3D1400>不能转化池：</color><color=red>坚果类，南瓜类，大蒜类，魅惑菇类，汉堡王</color>"
+            "info": "你那高墙和锐器不过是虚无缥缈的泡影。\n\n<color=#3D1400>啃咬伤害：</color><color=red>200</color>\n<color=#3D1400>韧性：</color><color=red>24000+24000（一类）</color>\n<color=#3D1400>特点：</color><color=red>领袖僵尸，免疫击退/黄油，移速较快。受到植物方回血量0.1倍的伤害，并阻止植物回血。啃咬会将特定植物转化为黑橄榄高坚果僵尸。每3秒使攻击力x2（最高8000），防具回血6000，速度增加0.3倍（最高3倍）</color>\n<color=#3D1400>不能转化池：</color><color=red>坚果类，南瓜类，大蒜类，魅惑菇类，汉堡王</color>"
         },
         {
             "theZombieType": 221,
@@ -610,13 +598,13 @@
             "theZombieType": 222,
             "name": "究极舞台巡演车",
             "introduce": "<color=#3D1400>这是精心搭建的舞台，在舞台解体前，究级舞台巡演车僵尸终于可以无视一切诽谤，全心投入到他的表演中，为植物和僵尸们献上最后的歌与舞蹈。</color>",
-            "info": "他是流行乐的王。\n\n<color=#3D1400>韧性：</color><color=red>48000</color>\n<color=#3D1400>特点：</color><color=red>领袖僵尸。免疫所有异常状态，碾压植物，受到地刺的刺击仅附加1%韧性的伤害。使附近的僵尸免疫寒冷冻结，每隔一段时间召唤4个舞王指挥官和4个白色撑杆舞王，死亡时召唤2个舞王冰车和1个舞王指挥官</color>"
+            "info": "他是流行乐的王。\n\n<color=#3D1400>韧性：</color><color=red>48000</color>\n<color=#3D1400>特点：</color><color=red>领袖僵尸。免疫所有异常状态，碾压植物，受到地刺攻击最多附加1%韧性的伤害（三线地刺子弹没有附加伤害）。使附近的僵尸免疫寒冷冻结，每隔一段时间召唤4个舞王指挥官和4个白色撑杆舞王，死亡时召唤2个舞王冰车和1个舞王指挥官</color>"
         },
         {
             "theZombieType": 223,
             "name": "究极Z教授",
             "introduce": "<color=#3D1400>作为埃德加博士的恩师，究极Z教授的谈吐都透露出一股儒雅随和的气质。你如果详备地问他问题，他是不会生气的。当然倘若是拿走他的报纸，那就另当别论了。。</color>",
-            "info": "痴迷研究的博学者，最近将目光投向了你...\n\n<color=#3D1400>子弹伤害：</color><color=red>1000</color>\n<color=#3D1400>韧性：</color><color=red>6000+15000（一类）+3000（二类）</color>\n<color=#3D1400>特点：</color><color=red>领袖僵尸，免疫击退。拥有樱桃机枪读报僵尸的特点，但不会啃咬而是碾压植物。失去报纸时，将场上最多30个小体型地面非领袖僵尸（包括魅惑僵尸），转化为失去报纸的樱桃机枪读报，自身投掷爆炸樱桃攻击后排植物。被扎破轮胎会失去报纸并停止移动</color>"
+            "info": "痴迷研究的博学者，最近将目光投向了你...\n\n<color=#3D1400>子弹伤害：</color><color=red>1000</color>\n<color=#3D1400>韧性：</color><color=red>6000+15000（一类）+3000（二类）</color>\n<color=#3D1400>特点：</color><color=red>领袖僵尸，免疫击退。拥有樱桃机枪读报僵尸的特点，但不会啃咬而是碾压植物。失去报纸时，将场上最多30个小体型地面非领袖僵尸（包括魅惑僵尸），转化为失去报纸的樱桃机枪读报，自身投掷爆炸樱桃攻击后排植物。被地刺攻击后失去报纸并停止移动</color>"
         },
         {
             "theZombieType": 224,
@@ -640,230 +628,13 @@
             "theZombieType": 227,
             "name": "寒冰高坚果雪爪僵尸",
             "introduce": "<color=#3D1400>身披坚冰凝结的重甲，手握冰火淬炼的利刃，雪爪僵尸以远胜从前的面貌和锐意重新出现在草坪之上，以千钧之力击碎前方未知的敌人......</color>",
-            "info": "拥有雪爪的寒冰高坚果僵尸，伤害很高。\n\n<color=#3D1400>啃咬伤害：</color><color=red>300</color>\n<color=#3D1400>韧性：</color><color=red>270+1100（一类）</color>\n<color=#3D1400>特点：</color><color=red>究极大喷菇和究极仙人掌攻击产生魅惑效果时，改为生成魅惑雪爪僵尸</color>"
+            "info": "拥有雪爪的寒冰高坚果僵尸，伤害很高。\n\n<color=#3D1400>啃咬伤害：</color><color=red>300</color>\n<color=#3D1400>韧性：</color><color=red>720+2200（一类）</color>\n<color=#3D1400>特点：</color><color=red>究极大喷菇和究极仙人掌攻击产生魅惑效果时，改为生成魅惑雪爪僵尸</color>"
         },
         {
             "theZombieType": 228,
             "name": "究极雪原女皇",
             "introduce": "<color=#3D1400>以寒冰为利刃，以风雪为战袍，用残躯铸造神像，用意志塑造神威。她是人造的神明，她是雪原的幽灵。不知炼狱再见之时，能否为故人吹上一曲战歌？</color>",
             "info": "极寒雪原之主。\n\n<color=#3D1400>伤害：</color><color=red>1000</color>\n<color=#3D1400>韧性：</color><color=red>64000</color>\n<color=#3D1400>特点：</color><color=red>领袖僵尸。免疫寒冷、击退、定身。碾压植物，伤害会施加5秒沉默。登场时发动斩击，对前方屏幕所有植物造成伤害（受南瓜保护），然后在本列周围共释放5个对3×3范围造成伤害的雪球。此后每3秒发动斩击或普通攻击，血量越低斩击概率越高。普通攻击向前方发射4发冰剑造成伤害。若场景为雪原则有概率进行祈雪，使场上立即出现暴风雪效果。</color>"
-        },
-        {
-            "theZombieType": 300,
-            "name": "樱桃机枪学者僵尸",
-            "introduce": "<color=#3D1400>“总有什么比眼前的数学游戏更重要，比如楼外的蒹葭，比如今晚的夜色”，樱桃机枪学者僵尸喃喃道，“等我解决完这道数独，一定要去亲自感受。不过嘛，它实在是有些难度。”</color>",
-            "info": "发怒时会发生大量爆炸樱桃的学者僵尸。\n\n<color=#3D1400>啃咬伤害：</color><color=red>400</color>\n<color=#3D1400>子弹伤害：</color><color=red>1000</color>\n<color=#3D1400>韧性：</color><color=red>1500+1500（二类）</color>\n<color=#3D1400>特点：</color><color=red>1级僵尸。拥有学者僵尸的特点。失去报纸后，每0.5秒发射4颗爆炸樱桃子弹</color>"
-        },
-        {
-            "theZombieType": 301,
-            "name": "樱桃机枪学士僵尸",
-            "introduce": "<color=#3D1400>樱桃机枪学士僵尸是僵尸国际大学的著名爆炸学讲师，如果不是Z教授一再邀请并且保证花园里有他喜欢的东西，他可不会放下身段来这里。“好在Z教授没说错，”樱桃机枪学士僵尸说，“我最喜欢的三样东西，樱桃派，爆破，以及玩祖玛，这里都能满足。”</color>",
-            "info": "不发怒时也能发射爆炸樱桃的学者僵尸。\n\n<color=#3D1400>啃咬伤害：</color><color=red>400</color>\n<color=#3D1400>子弹伤害：</color><color=red>1000</color>\n<color=#3D1400>韧性：</color><color=red>3000+3000（二类）</color>\n<color=#3D1400>特点：</color><color=red>2级僵尸。拥有樱桃机枪学者僵尸的特点。失去报纸前，每1.5秒发射4发爆炸樱桃子弹</color>"
-        },
-        {
-            "theZombieType": 302,
-            "name": "樱桃机枪硕士僵尸",
-            "introduce": "<color=#3D1400>为了在爆炸学领域进一步发展，樱桃机枪硕士僵尸准备去遥远的地方求学，看他背后背着的一筐樱桃派就知道，他已经做好了背井离乡的准备。</color>",
-            "info": "背上乃是毕业所制，若有触怒后果自负。\n\n<color=#3D1400>啃咬伤害：</color><color=red>400</color>\n<color=#3D1400>子弹伤害：</color><color=red>1000</color>\n<color=#3D1400>韧性：</color><color=red>6000+6000（二类）</color>\n<color=#3D1400>特点：</color><color=red>3级僵尸。拥有樱桃机枪学士僵尸的特点，破报时会抄起背后的弹匣，然后每0.5秒额外发射1发子弹</color>"
-        },
-        {
-            "theZombieType": 303,
-            "name": "黑橄榄僵尸",
-            "introduce": "<color=#3D1400>也许是厌倦了万众瞩目的感觉，黑橄榄僵尸刻意抹去了身上一切的鲜红，换上更易在黑夜中遁藏的黑色橄榄球服。不过这身装扮让他看起来不像什么好人，每当他路过银行的时候，门口的保安都会不自觉地攥紧了警棍。</color>",
-            "info": "装备着新式漆黑盔甲的橄榄球员。\n\n<color=#3D1400>韧性：</color><color=red>6000+6000（一类）</color>\n<color=#3D1400>特点：</color><color=red>1级僵尸</color>"
-        },
-        {
-            "theZombieType": 304,
-            "name": "黑橄榄队长",
-            "introduce": "<color=#3D1400>从神秘而幽暗的诡境秘闻中走来，黑暗，凶险，混乱已成为黑橄榄队长深不可测的代名词。无人知晓他来自何方，无人敢于探听他的过往。对于这两点，他本人其实也不知之甚详，所谓的过去对他而言不过像一场长久的清醒梦，在天明日出之际，又如同雾霭般散去。</color>",
-            "info": "黑夜中无畏的冲锋者，一个精锐的战士。\n\n<color=#3D1400>啃咬伤害：</color><color=red>100</color>\n<color=#3D1400>韧性：</color><color=red>12000+12000（一类）</color>\n<color=#3D1400>特点：</color><color=red>2级僵尸。每3秒回复5%韧性的血量</color>"
-        },
-        {
-            "theZombieType": 305,
-            "name": "黑橄榄副将",
-            "introduce": "<color=#3D1400>作为黑橄榄将军最得力的辅助者，军队武官中的二号人物，黑橄榄副将一直备受上级的器重和下属的爱戴。他能力出群，忠心耿耿，对每一个指令都深信不疑，除了一件事：为什么表彰会上颁发的是勋章而不是新鲜的脑子？</color>",
-            "info": "将军的得力副手之一，近程攻击极其残忍。\n\n<color=#3D1400>啃咬伤害：</color><color=red>200</color>\n<color=#3D1400>韧性：</color><color=red>24000+24000（一类）</color>\n<color=#3D1400>特点：</color><color=red>3级僵尸。免疫击退，寒冷，黄油。每3秒回复5%韧性的血量，啃咬会使植物1秒内无法回血且受到伤害×3</color>"
-        },
-        {
-            "theZombieType": 306,
-            "name": "黑橄榄机枪副将",
-            "introduce": "<color=#3D1400>黑橄榄机枪副将在战场上所向披靡、铁面无私、令人生畏。而在战场外，他却是饱受士兵们喜爱的长官，他最喜欢向士兵们表演自己的绝技——旗帜藏子弹。</color>",
-            "info": "将军的得力副手之一，远程火力如雨倾泻。\n\n<color=#3D1400>子弹伤害：</color><color=red>80</color>\n<color=#3D1400>啃咬伤害：</color><color=red>200</color>\n<color=#3D1400>韧性：</color><color=red>24000+24000（一类）</color>\n<color=#3D1400>特点：</color><color=red>3级僵尸。免疫击退，寒冷，黄油。每0.1秒发射一发铁豌豆子弹</color>"
-        },
-        {
-            "theZombieType": 307,
-            "name": "白衣舞王僵尸",
-            "introduce": "<color=#3D1400>作为僵尸歌界的绝对巨星，白衣舞王僵尸无论走到哪里都被一群粉丝拥簇。他最近正在考虑去学习一下舞蹈步伐，既是为了配合自己即将要进行的全球巡演，也是为了能够快速躲避不理智的狂热粉丝。</color>",
-            "info": "与伴舞者一同换上白色西装的舞王僵尸。\n\n<color=#3D1400>韧性：</color><color=red>3000</color>\n<color=#3D1400>特点：</color><color=red>1级僵尸。出场3秒内太空步进场，随后召唤4个白色撑杆舞王</color>"
-        },
-        {
-            "theZombieType": 308,
-            "name": "白衣舞王指挥官",
-            "introduce": "<color=#3D1400>现在登场的，是名声、技术、体能都处在巅峰时刻的绝对巨星！是闪光灯下最耀眼的那一抹亮色。白衣舞王指挥官现在需要的，仅仅只是一座精心搭建的舞台，让他把快乐传递给所有爱他的人。</color>",
-            "info": "以太空滑步疾驰入场的白衣舞王僵尸。\n\n<color=#3D1400>韧性：</color><color=red>6000</color>\n<color=#3D1400>特点：</color><color=red>2级僵尸。出场3秒内滑步进场，抵达第四列右侧或被植物阻挡时结束。随后召唤4个白色撑杆舞王</color>"
-        },
-        {
-            "theZombieType": 309,
-            "name": "巡演舞王指挥官",
-            "introduce": "<color=#3D1400>美丽的步伐，鬼魅般的舞姿。埃德加舞蹈学院这种二流货色已经不能满足这位天才。从杰克逊舞蹈学院学成归来的舞王将会拍一部MV宣告他的蜕变。别记得把他的拿手绝技——45°鞠躬拍下来——如果你能打过他的追秒草保镖……</color>",
-            "info": "土豪金拉风入场，伴舞团八方而至。\n\n<color=#3D1400>韧性：</color><color=red>12000</color>\n<color=#3D1400>特点：</color><color=red>3级僵尸。出场3秒内无视植物滑步进场，抵达第四列右侧时结束。随后会在周围召唤8个白色撑杆舞王</color>"
-        },
-        {
-            "theZombieType": 310,
-            "name": "机械舰艇僵尸",
-            "introduce": "<color=#3D1400>来自机鱼公司敌对企业的仿制品，据说拥有和原版潜艇完全一样的性能，但机鱼公司坚称这个仿制品会漏水。</color>",
-            "info": "埃德加博士新研发的舰艇。\n\n<color=#3D1400>韧性：</color><color=red>3000</color>\n<color=#3D1400>特点：</color><color=red>1级僵尸。以较快的速度碾压水路的植物</color>"
-        },
-        {
-            "theZombieType": 311,
-            "name": "导弹机械舰艇僵尸",
-            "introduce": "<color=#3D1400>“完美无缺”的武器被高估了，海量导弹编织成的空中全覆盖弹幕火力网才能真正帮助僵尸们导向胜利！而这张大网的编织者，便是这种由布雷艇改装而来的水中移动导弹发射井。</color>",
-            "info": "装备近程玩偶匣炮弹，持续轰炸前排植物。\n\n<color=#3D1400>韧性：</color><color=red>6000</color>\n<color=#3D1400>特点：</color><color=red>2级僵尸。每1.5秒向前方2格发射一枚炮弹，命中时释放玩偶匣爆炸</color>\n<color=#3D1400>空中炮弹特点：</color><color=red>受到1000伤害后消除</color>"
-        },
-        {
-            "theZombieType": 312,
-            "name": "冲锋机械舰艇僵尸",
-            "introduce": "<color=#3D1400>冲锋机械舰艇僵尸的作战目标是快速冲入并扰乱敌方阵型，为后续部队提供火力盲区。一些学者指出这种潜艇为了速度舍弃了太多其他性能，不过它的设计者埃德加博士却不以为然——毕竟他所需要的只有“前进，前进，不择手段的前进”。</color>",
-            "info": "配备了涡轮动力引擎，能在水路迅速冲锋。\n\n<color=#3D1400>韧性：</color><color=red>6000</color>\n<color=#3D1400>特点：</color><color=red>2级僵尸。以超快的速度碾压水路的植物</color>"
-        },
-        {
-            "theZombieType": 313,
-            "name": "雷鸣机械潜艇僵尸",
-            "introduce": "<color=#3D1400>这是极致的战场主宰，这是埃德加博士与机鱼公司智慧的结晶，它诞生之日，天空都忍不住降下雷霆庆贺。在解决了炮弹进水的问题后，这艘兵器再也没有了缺陷。“是的，除了水草缠绕螺旋桨的老问题外，再也没有缺陷了。”埃德加博士说。</color>",
-            "info": "装备远程巡航导弹，上浮时精准打击后排植物。\n\n<color=#3D1400>韧性：</color><color=red>12000</color>\n<color=#3D1400>特点：</color><color=red>3级僵尸。默认处于潜水状态，前方有植物时上浮并停止移动，每1.5秒向最后一列植物发射2枚炮弹，命中时释放造成物理伤害的玩偶匣爆炸</color>\n<color=#3D1400>空中炮弹特点：</color><color=red>受到1000伤害后消除</color>"
-        },
-        {
-            "theZombieType": 314,
-            "name": "雷鸣冲锋舰艇僵尸",
-            "introduce": "<color=#3D1400>作为埃德加博士苦心孤诣多年研发的最新科技，这种舰艇无疑代表了僵尸界最高的智慧结晶。由于它启动时超高的加速度，登上它的全体艇员都被要求通过严苛的离心机测试——“好像有十个机械巨人僵尸压在身上一样”，一位有幸参与过的僵尸说道。</color>",
-            "info": "水路的钢铁猛兽，宛若战场之矛。\n\n<color=#3D1400>韧性：</color><color=red>12000</color>\n<color=#3D1400>特点：</color><color=red>3级僵尸。以极快的速度碾压水路的植物。出场后1次，使附近3×3范围僵尸的移速×2（至多叠加2次）</color>"
-        },
-        {
-            "theZombieType": 315,
-            "name": "橄榄三叉戟僵尸",
-            "introduce": "<color=#3D1400>穿上防水的渔衣，带上锋利的鱼叉，再细心擦拭干净代表好运的水靴，新一轮的捕鱼开始了。哦，别忘了戴上头盔，防备来自没捕到鱼的同行的背刺。</color>",
-            "info": "向最后排植物投掷三叉戟。\n\n<color=#3D1400>韧性：</color><color=red>3000+3000（一类）</color>\n<color=#3D1400>特点：</color><color=red>1级僵尸。出场6~9秒或被植物阻挡后，向最后一列植物连续投掷共4发三叉戟。三叉戟造成植物当前血量20%的伤害，最低60</color>"
-        },
-        {
-            "theZombieType": 316,
-            "name": "碧海三叉戟僵尸",
-            "introduce": "<color=#3D1400>带上增强视力的滴眼液，准备好足够数量的鱼叉，再戴上保护自己的高坚果头盔，新一轮的捕鱼开始了。捕鱼的诀窍在于背刺那些能捕到鱼的同行。</color>",
-            "info": "随机掷出三叉戟，被它瞧上也只好听天由命。\n\n<color=#3D1400>韧性：</color><color=red>6000+6000（一类）</color>\n<color=#3D1400>特点：</color><color=red>2级僵尸。出场6~9秒或被植物阻挡后，向4格外植物连续随机投掷共8发三叉戟（不会被宝石伞类吸引）。自身投掷的三叉戟基础伤害增加100</color>"
-        },
-        {
-            "theZombieType": 317,
-            "name": "深海三叉戟骁将",
-            "introduce": "<color=#3D1400>深海三叉戟骁将原本应该是驾驶叉车的精英部队，看他携带的三叉戟数量就知道。但他没能通过头部大小测试、有摇头导致叉车侧翻的危险，因此依然是一个步兵。</color>",
-            "info": "强而有力地掷出散射的集束三叉戟。\n\n<color=#3D1400>韧性：</color><color=red>12000+12000（一类）</color>\n<color=#3D1400>特点：</color><color=red>3级僵尸。出场6~9秒或被植物阻挡后，奋力投掷共12发集束三叉戟，掷出后会对4格外每格植物分裂出1发三叉戟。自身投掷的三叉戟基础伤害增加300</color>"
-        },
-        {
-            "theZombieType": 318,
-            "name": "下界合金矿镐僵尸",
-            "introduce": "<color=#3D1400>下界合金制造矿镐，下界合金制作的许可证，矿镐僵尸开始了他的煤炭事业，想在火红莲女王那里卖个高价。但是猪灵集团的凋零骷髅产业链似乎更胜一筹。</color>",
-            "info": "使用下界合金锻造的装备的矿镐僵尸，挖掘速度极快。\n\n<color=#3D1400>韧性：</color><color=red>3000+3000（一类）</color>\n<color=#3D1400>特点：</color><color=red>1级僵尸。每次攻击都会赋予植物2000挖掘值，累计挖掘值超过植物血量时将其秒杀</color>"
-        },
-        {
-            "theZombieType": 319,
-            "name": "下界合金钻僵尸",
-            "introduce": "<color=#3D1400>下界合金钻僵尸在最近的几次挖掘大赛上表现亮眼，他当众表扬了自己的装备——下界合金制造的、用岩浆驱动的钻头。不过他没有告诉大家的是，他的头盔也是下界合金制造的。</color>",
-            "info": "可以挖掘地道，只是容易找不着北。\n\n<color=#3D1400>韧性：</color><color=red>6000+6000（一类）</color>\n<color=#3D1400>特点：</color><color=red>2级僵尸。每次攻击赋予4000挖掘值。在地下时，合金钻不能被吸引，入场后会在2~8列随机出土</color>"
-        },
-        {
-            "theZombieType": 320,
-            "name": "武装下界合金钻僵尸",
-            "introduce": "<color=#3D1400>他是僵尸挖掘大队的队长，每次出场都前呼后拥，据说这家伙正野心勃勃地准备建造属于自己的挖掘帝国。但埃德加博士对这个说法不屑一顾：“那只是因为头盔遮住了视线，让他总是挖穿其他僵尸的墓地，所以僵尸才一直跟着他。”</color>",
-            "info": "全副武装的下界合金钻僵尸，可以携带其他僵尸在地道中前进。\n\n<color=#3D1400>韧性：</color><color=red>12000+12000（一类）</color>\n<color=#3D1400>特点：</color><color=red>3级僵尸。每次攻击赋予8000挖掘值。出场时携带附近的非载具僵尸一起潜入地下，会与携带的僵尸一起出土</color>"
-        },
-        {
-            "theZombieType": 321,
-            "name": "舞装战车僵尸",
-            "introduce": "<color=#3D1400>冲锋，再冲锋，碾压一切！舞装战车僵尸所向披靡，无人能挡，直到他遇到了草坪中间的大河。</color>",
-            "info": "驾驶坚固战车的舞王僵尸。\n\n<color=#3D1400>韧性：</color><color=red>6000</color>\n<color=#3D1400>特点：</color><color=red>1级僵尸。碾压植物，拥有50%减伤。死亡时始终生成一个舞王僵尸</color>"
-        },
-        {
-            "theZombieType": 322,
-            "name": "轻甲舞装战车僵尸",
-            "introduce": "<color=#3D1400>“我们给车头配上了更多的分层！”新改装车让舞王僵尸爱不释手，唯一可惜的是每一层的夹缝不足以塞下更多的伴舞。</color>",
-            "info": "驾驶的舞装战车嵌套了一层备用轻胄外壳。\n\n<color=#3D1400>韧性：</color><color=red>12000</color>\n<color=#3D1400>特点：</color><color=red>2级僵尸。碾压植物，拥有66%减伤。死亡时始终生成一个舞装战车僵尸</color>"
-        },
-        {
-            "theZombieType": 323,
-            "name": "重甲舞装战车僵尸",
-            "introduce": "<color=#3D1400>这辆车极为厚重的装甲为它赢得了“陆地战列舰”的美称。最近，舞王僵尸又诞生了一个改装构想：把底盘换成传动履带，在车上安装上层炮塔与长管火炮——他认为这将是伟大的新发明。</color>",
-            "info": "驾驶的舞装战车嵌套了两层备用重甲钢板。\n\n<color=#3D1400>韧性：</color><color=red>24000</color>\n<color=#3D1400>特点：</color><color=red>3级僵尸。碾压植物，拥有75%减伤。死亡时始终生成一个轻甲舞装战车僵尸</color>"
-        },
-        {
-            "theZombieType": 324,
-            "name": "玩偶匣跳跳僵尸",
-            "introduce": "<color=#3D1400>不要去打扰他，这家伙最近正处在恋爱期，不要和他谈任何关于这场恋爱的悲观话题，不然的话，会收获爆炸一般的报复。</color>",
-            "info": "使用新式炸弹跳杆的跳跳僵尸，磁性偏弱且不易脱手。\n\n<color=#3D1400>韧性：</color><color=red>3000+3000（一类）</color>\n<color=#3D1400>特点：</color><color=red>1级僵尸。拥有跳跳僵尸的特点，弹跳杆不会因伞类击退而失去。因受伤而死亡时，若持有弹跳杆则释放玩偶匣爆炸</color>"
-        },
-        {
-            "theZombieType": 325,
-            "name": "玩偶匣跳跳王",
-            "introduce": "<color=#3D1400>他曾经面临着玩偶匣，西瓜，跳跳杆滞销的难题，于是向投石车僵尸求教，“你得把西瓜与玩偶匣联系起来想一想。”看得出来，他获得了爆炸性的成功。</color>",
-            "info": "为炸弹跳杆加装了一次性蓄力弹射装置。\n\n<color=#3D1400>韧性：</color><color=red>6000+6000（一类）</color>\n<color=#3D1400>特点：</color><color=red>2级僵尸。拥有玩偶匣跳跳僵尸的特点。在右半场生成时，蓄力5秒后，大跳约4格远</color>"
-        },
-        {
-            "theZombieType": 326,
-            "name": "惊魂玩偶匣跳跳王",
-            "introduce": "<color=#3D1400>在花费了许多时间后，他终于从失恋的痛苦中走出。现在这家伙打扮得花枝招展，正准备向新的女神献爱。可怜的家伙，他的新目标是小丑女皇，希望他的承受能力比过去强。</color>",
-            "info": "改良了弹射装置，跳杆的爆炸硝烟是他替身乔装的遮幕。\n\n<color=#3D1400>韧性：</color><color=red>12000+12000（一类）</color>\n<color=#3D1400>特点：</color><color=red>3级僵尸。拥有玩偶匣跳跳王的特点。其蓄力间隔降至0.75秒，且持有弹跳杆死亡时会额外复活</color>"
-        },
-        {
-            "theZombieType": 327,
-            "name": "基洛夫轰炸飞艇",
-            "introduce": "<color=#3D1400>配件可不是大风刮来的，对于小规模的战术轰炸，也许更加轻量化的小型飞艇更加适合。也许机鱼公司在设计飞艇的时候应该和埃德加博士打个招呼，这样还能少吃一个官司。</color>",
-            "info": "定期投下玩偶匣炸弹的基洛夫飞艇。\n\n<color=#3D1400>炸弹伤害：</color><color=red>500（玩偶匣）</color>\n<color=#3D1400>韧性：</color><color=red>3000</color>\n<color=#3D1400>特点：</color><color=red>1级僵尸。每1.5秒向下方投掷炸弹。被究极星星子弹命中20次时坠机</color>"
-        },
-        {
-            "theZombieType": 328,
-            "name": "基洛夫母舰飞艇",
-            "introduce": "<color=#3D1400>基洛夫母舰飞艇是机鱼公司的核心产品，机鱼公司声称这些无人机运用了最新技术。可是如果仔细观察僚机残骸的话，总会发现一些用红色油漆喷涂的CCCP字样。</color>",
-            "info": "搭载了特制迷你基洛夫的空中母舰。\n\n<color=#3D1400>韧性：</color><color=red>6000</color>\n<color=#3D1400>特点：</color><color=red>2级僵尸。每约2秒召唤1个自身0.1倍韧性的迷你基洛夫。被究极星星子弹命中30次时坠机</color>"
-        },
-        {
-            "theZombieType": 329,
-            "name": "航空引导者飞艇",
-            "introduce": "<color=#3D1400>高空突防！察打一体！火力覆盖！无人信息化作战！机鱼重工隆重推出小型飞艇2.0！它简直毫无缺点，除了过短的航程让它不得不作为更大的空中母舰的僚机，而母舰的费用则是单独结算的。</color>",
-            "info": "搭载了极速物理轰炸机的空中母舰。\n\n<color=#3D1400>炸弹伤害：</color><color=red>300</color>\n<color=#3D1400>韧性：</color><color=red>12000</color>\n<color=#3D1400>特点：</color><color=red>3级僵尸。每约4秒发射2个极速轰炸机，迅速轰炸前方一行植物。被究极星星子弹命中40次时坠机</color>"
-        },
-        {
-            "theZombieType": 330,
-            "name": "百年毛僵",
-            "introduce": "<color=#3D1400>余自幼家贫，幸赖富商解囊、得以致学。后入朝为官，强项直言，朝野皆言昏君无道，然余所奏，陛下虽不纳、亦无责罚，以为并非昏庸无度。后得知，乃昏君耳背之故也。</color>",
-            "info": "阴煞凝尸，僵体爆而草木伤。\n\n<color=#3D1400>伤害：</color><color=red>250（非啃咬）</color>\n<color=#3D1400>韧性：</color><color=red>3000</color>\n<color=#3D1400>特点：</color><color=red>1级僵尸。因受伤而死亡时，对3×3范围造成125伤害</color>"
-        },
-        {
-            "theZombieType": 331,
-            "name": "千年飞僵",
-            "introduce": "<color=#3D1400>飞僵夜行，群友皆散，路遇两植拦路。飞僵怒，以手抢之，一植卧地，一植以身阻拦。飞僵暴起，穿植而过，又数击以灭之。植亦强矣，而顷刻两毙，其能几何哉？止增笑耳。</color>",
-            "info": "尸影过棂，飞僵起而阴风至。\n\n<color=#3D1400>伤害：</color><color=red>500（非啃咬）</color>\n<color=#3D1400>韧性：</color><color=red>6000</color>\n<color=#3D1400>特点：</color><color=red>2级僵尸。每4~8秒，无视植物突进2格并造成伤害。因受伤而死亡时，对3×3范围造成250伤害</color>"
-        },
-        {
-            "theZombieType": 332,
-            "name": "万年尸皇",
-            "introduce": "<color=#3D1400>史望者，酆都人也。幼时语人：“吾能见彼处玉玺，乃吾家之宝。”闻者皆笑。年二十四，岁大饥，史望揭竿而起，定酆都，自王。受玺，相玺脱手，绝面。彼岁又大饥，已而复为义军所逐，幸得亡走。其舌为玉玺所伤，人问名姓，讷讷言“尸皇”而已。</color>",
-            "info": "穿雷掠影，尸皇现而鬼将避。\n\n<color=#3D1400>伤害：</color><color=red>1000（非啃咬）</color>\n<color=#3D1400>韧性：</color><color=red>12000</color>\n<color=#3D1400>特点：</color><color=red>3级僵尸。在右半场时每4~8秒，可以无视至多4格植物以尽可能穿梭至本行植物最后方，且对沿途造成伤害，若没有可无视的植物则穿梭1格。在左半场尝试穿梭时会封印此技能。因受伤而死亡时，对3×3范围造成500伤害</color>"
-        },
-        {
-            "theZombieType": 333,
-            "name": "轻装三叉戟冲车",
-            "introduce": "<color=#3D1400>“正当梨花开遍了天涯，河上飘着柔曼的轻纱”轻装三叉戟冲车从泛黄的书中看到了这首歌谣，和它背后的的传奇故事。不过他似乎忘了火箭弹需要发动机提供动力，否则根本飞不远。</color>",
-            "info": "倾泻少量三叉戟。\n\n<color=#3D1400>韧性：</color><color=red>3000</color>\n<color=#3D1400>特点：</color><color=red>1级僵尸。每次攻击发射4个三叉戟，装填后可再发射一次，然后前进碾压植物。三叉戟固定落点在前方5到7格</color>"
-        },
-        {
-            "theZombieType": 334,
-            "name": "重装三叉戟冲车",
-            "introduce": "<color=#3D1400>重装三叉戟冲车的三叉戟投掷训练十分特别。由于无法调整弹道，驾驶员只能调整冲车位置进行打靶训练。“微调……再微调……”啪！冲车翻进了旁边的池塘。</color>",
-            "info": "倾泻大量三叉戟。\n\n<color=#3D1400>韧性：</color><color=red>3000+3000（一类）</color>\n<color=#3D1400>特点：</color><color=red>2级僵尸。拥有轻装三叉戟冲车的特点，每次发射的三叉戟数量增至14发</color>"
-        },
-        {
-            "theZombieType": 335,
-            "name": "殉爆三叉戟冲车",
-            "introduce": "<color=#3D1400>一名精英三叉戟战士带着丰富的经验和优秀的战绩来到冲车营，作为新的驾驶员。他曾在雪原捕猎过雪兽，也曾在湿地与鳄鱼以命相搏。现在他来到了你的面前，准备与你大战一场。来吧！你可闪得过此一击？</color>",
-            "info": "倾泻大量三叉戟，装载的三叉戟拥有殉爆式散射能力。\n\n<color=#3D1400>韧性：</color><color=red>6000+6000（一类）</color>\n<color=#3D1400>特点：</color><color=red>3级僵尸。拥有重装三叉戟冲车的特点。死亡时，未投射的三叉戟会在本行半径约3.5格内随机散落并伤害植物</color>"
         }
-        
     ]
 }
