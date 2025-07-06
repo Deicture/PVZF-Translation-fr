@@ -346,7 +346,7 @@
             "theZombieType": 62,
             "name": "Furling",
             "introduce": "<align=justified><size=36><color=black>Though just a cub, Furling has big dreams — to dominate the tundra like the mighty Elder Snowfur, not hang around with mischievous Imp Zombies. It ran off from camp to make a name for itself… and accidentally rolled into the plants' territory. Oof!</color>",
-            "info": "<size=36>A baby Snowfur that loves to tumble, but rarely survives it.\n\n<color=black>Toughness: </color><color=#4B0082>300</color>\n<color=black>Traits: </color><color=#4B0082>Rolls forward. Upon hitting a plant, deals damage equal to its current HP, then dies.</color>"
+            "info": "<size=36>A baby Snowfur that loves to tumble, but rarely survives it.\n\n<color=black>Toughness: </color><color=#4B0082>300</color>\n<color=black>Traits: </color><color=#4B0082>\n<color=black>•</color> Rolls forward. Upon hitting a plant, deals damage equal to its current HP, then dies.\n<color=black>•</color> Has a 2/3 chance to evade attacks.</color>"
         },
         {
             "theZombieType": 100,
@@ -586,7 +586,7 @@
             "theZombieType": 218,
             "name": "<color=#4B0082><u>Pozeidon</u>",
             "introduce": "<align=justified><size=36><color=black>The sea splits apart as Pozeidon ascends, water cascading from his mighty form. His trident, crackling with the fury of the deep, is already poised to strike. \"The tides are mine to command,\" he roars, his voice carrying over the howling winds. With a swift motion, the weapon hurtles forward, crashing into enemy lines like a tidal wave. \"Run if you wish—but no one outruns the sea.\"</color>",
-            "info": "<size=36>King of the drowned.\n\n<color=black>Toughness: </color><color=#4B0082>24000 + 24000 (Type 1)</color>\n<color=black>Traits: </color><color=#4B0082>\n<color=black>•</color> Mini-boss. Immune to stuns.\n<color=black>•</color> Summons Giga Trident-nut Zombies on all lanes upon its appearance.\n<color=black>•</color> While present, all Giga Trident-nut Zombies will continuously attack. Buffs all tridents to deal 5 times more damage than normal.\n<color=black>•</color> His tridents are thrown at a fixed angle, instantly killing most plants. It can still be redirected to plants that mitigate damage.\n<color=black>•</color> The trident will explode and kill all nearby plants 30 seconds after it lands.</color>"
+            "info": "<size=36>King of the drowned.\n\n<color=black>Toughness: </color><color=#4B0082>24000 + 24000 (Type 1)</color>\n<color=black>Traits: </color><color=#4B0082>\n<color=black>•</color> Mini-boss. Immune to stuns.\n<color=black>•</color> Summons Giga Trident-nut Zombies on all lanes upon its appearance.\n<color=black>•</color> While present, all Odyssey Trident Zombies will continuously attack. Buffs all tridents to deal 5 times more damage than normal.\n<color=black>•</color> His tridents are thrown at a fixed angle, instantly killing most plants. It can still be redirected to plants that mitigate damage.\n<color=black>•</color> The trident will explode and kill all nearby plants 30 seconds after it lands.</color>"
         },
         {
             "theZombieType": 219,

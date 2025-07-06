@@ -796,7 +796,7 @@
             "name": "Radiant Pad",
             "introduce": "<align=justified><size=36><color=black>Her devotion to the Sun God flows louder than a raging river. Radiant Pad was eventually dismissed from the Sun Guard for being way too noisy—but that hasn’t stopped her from preaching His glory to every creature beneath the waves. So deep in her zeal, she hasn’t noticed one thing: she’s been blocking all the sunlight from reaching the lakebed.</color>",
             "info": "<size=36>Golden Lilypad that can quickly produce copious amounts of Sun and Fortune.\n\n<color=#4A2900>Usage Condition: Odyssey Mode | Initial Selection with Radiant Pot</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Produces 50 Sun and 100 Coins every n=(Current Sun/1000) Seconds, where 3 ≤ n ≤ 15.</color>",
-            "cost": "\n<size=36>Conversion Formula: <color=#8B0000>Land <-> Water</color>"
+            "cost": "\n<size=36>Conversion Formula: <color=#8B0000>Shovel <-> Shovel</color>"
         },
         {
             "seedType": 951,
@@ -830,7 +830,7 @@
             "seedType": 1003,
             "name": "Cherry-nut",
             "introduce": "<align=justified><size=36><color=black>\"I heard some zombies grumbling about their inability to eat cherries. Well, here I am!\" The cheerful Cherry-nut shook the leaves atop his head, boasting about his pure cherry flavor. \"But first, you have to promise me something: when you have cherries, share a bit with me. In fact, just give me everything you've got! I was born for this!\"</color></size>",
-            "info": "<size=36>Cherry-nut can absorb explosion damage and restore Toughness.\n\n<color=black>Toughness: </color><color=#8B0000>4000</color>\n<color=black>Special: </color><color=#8B0000>Absorbs Cherry explosion damage to restore Toughness. (From Explosive Cherry: 200, From Cherry Bomb: 1000)</color></size>",
+            "info": "<size=36>Cherry-nut can absorb explosion damage and restore Toughness.\n\n<color=black>Toughness: </color><color=#8B0000>4000</color>\n<color=black>Special: </color><color=#8B0000>Absorbs Cherry explosion damage to restore 200 Toughness.</color></size>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Cherry Bomb + Wall-nut</color>"
         },
         {
@@ -1957,7 +1957,7 @@
             "seedType": 1164,
             "name": "Cherry Pumpkin",
             "introduce": "<align=justified><size=36><color=black>Cherry Pumpkin is a distant relative of Cherry-nut, but every time Cherry Pumpkin meets Cherry-nut, he is always late. \"I want to come early too,\" Cherry Pumpkin says, \"but I can't resist jumping to anything red.\"</color>",
-            "info": "<size=36>A pumpkin that cannot be exploded by cherries!\n\n<color=black>Toughness: </color><color=#8B0000>4000</color>\n<color=black>Special: </color><color=#8B0000>Immune to explosive cherries and heals instead (From Explosive Cherry: 200, From Cherry Bomb: 1000).</color>",
+            "info": "<size=36>A pumpkin that cannot be exploded by cherries!\n\n<color=black>Toughness: </color><color=#8B0000>4000</color>\n<color=black>Special: </color><color=#8B0000>Immune to explosive cherries and heals 200 Toughness instead.</color>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Cherry Bomb > Pumpkin</color>"
         },
         {
@@ -2600,7 +2600,7 @@
         {
             "seedType": 1256,
             "name": "Thorn-nut",
-            "introduce": "<align=justified><size=36><color=black>Thorn-nut proudly insists he's the true Spikerock. \"Look at these spines! This color!\" he declares constantly. One day, someone finally asked, \"Wait… who's Spikerock again?\"</color>",
+            "introduce": "<align=justified><size=36><color=black>Thorn-nut proudly insists he's the true Spike-nut. \"Look at these spines! This color!\" he declares constantly. One day, someone finally asked, \"Wait… who's Spike-nut again?\"</color>",
             "info": "<size=36>A cactus-covered nut that punishes attackers and disables balloon zombies.\n\n<color=black>Toughness: </color><color=#8B0000>4000</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Reflects 50 damage back to zombies biting it.\n<color=black>•</color> Can pop Balloons.</color>",
             "cost": "<size=36>Fusion Formula: <color=#8B0000>Wall-nut + Cactus</color>"
         },
