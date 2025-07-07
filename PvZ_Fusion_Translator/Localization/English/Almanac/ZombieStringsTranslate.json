@@ -838,7 +838,7 @@
             "theZombieType": 331,
             "name": "Immortal Wraith",
             "introduce": "<align=justified><size=36><color=black>The night wraith soared, scattering all allies. Two plants stood in its path. Enraged, it struck — one fell, and the other tried to resist. The wraith burst forward, piercing both, and finished them off with brutal strikes. Brave they were, but both perished in an instant. What more could they do? Laughable.</color>",
-            "info": "<size=36>A phantasmal spectre that cuts through barriers with ghostly force.\n\n<color=black>Damage: </color><color=#4B0082>500 (non-bite)</color>\n<color=black>Toughness: </color><color=#4B0082>6000</color>\n<color=black>Traits: </color><color=#4B0082>\n<color=black>•</color> Tier 2 Evolved Zombie.\n<color=black>•</color>Every 4-8 seconds, dashes forward for up to 2 tiles, ignoring plants and dealing damage.\n<color=black>•</color> When killed by damage, deals 250 damage to all plants in a 3×3 area.</color>"
+            "info": "<size=36>A phantasmal spectre that cuts through barriers with ghostly force.\n\n<color=black>Damage: </color><color=#4B0082>500 (non-bite)</color>\n<color=black>Toughness: </color><color=#4B0082>6000</color>\n<color=black>Traits: </color><color=#4B0082>\n<color=black>•</color> Tier 2 Evolved Zombie.\n<color=black>•</color> Every 4-8 seconds, dashes forward for up to 2 tiles, ignoring plants and dealing damage.\n<color=black>•</color> When killed by damage, deals 250 damage to all plants in a 3×3 area.</color>"
         },
         {
             "theZombieType": 332,

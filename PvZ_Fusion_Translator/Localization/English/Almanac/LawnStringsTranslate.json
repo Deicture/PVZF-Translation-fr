@@ -480,7 +480,7 @@
             "seedType": 905,
             "name": "Twin Solar-nut",
             "introduce": "<align=justified><size=36><color=black>Twin Solar-nut, a photosynthesis master, revolutionized light energy-mass conversion, minimizing energy loss through recycling. He humbly credits the pioneers: \"I'm just standing on the shoulders of giants.\"</color></size>",
-            "info": "<size=36>Twin Solar-nut produces Sun every time it is injured.\n\n<color=#4A2900>Usage Condition: Odyssey Mode | Initial Selection</color>\n<color=black>Toughness: </color><color=#8B0000>4000</color>\n<color=black>Special: </color><color=#8B0000>Tapping on it:\n- Spends 500 Sun.\n- Restores his Toughness to full.\n- Summons a Giant Solar-nut 1 tile ahead.\n- Improves an existing Giant Solar-nut by enlarging its size and damage (higher base damage yields less bonus, down to 60%).\n- After not tapping for 1s, the existing Giant Solar-nut will roll forward, crushing zombies. Damage per 0.02s is 600/1200/1644 for 1/2/3 taps respectively.</color>\n<color=black>Odyssey Modifiers:\n</color><color=#8B0000>1. The cost of manual taps is reduced to 200 Sun\n2. Toughness reduced per hit → 10</color></size>",
+            "info": "<size=36>Twin Solar-nut produces Sun every time it is injured.\n\n<color=#4A2900>Usage Condition: Odyssey Mode | Initial Selection</color>\n<color=black>Toughness: </color><color=#8B0000>4000</color>\n<color=black>Special: </color><color=#8B0000>Tapping on it:\n- Spends 500 Sun.\n- Restores his Toughness to full.\n- Summons a Giant Solar-nut 1 tile ahead.\n- Improves an existing Giant Solar-nut by enlarging its size and damage (higher base damage yields less bonus, down to 60%).\n- After not tapping for 1s, the existing Giant Solar-nut will roll forward, crushing zombies. Damage per 0.02s is 600/1200/1644 for 1/2/3 taps respectively.\n• Regardless of the damage type, each damage it receives will reduce a set 50 Toughness. Produces 15 Sun after every such hit.</color>\n<color=black>Odyssey Modifiers:\n</color><color=#8B0000>1. The cost of manual taps is reduced to 200 Sun\n2. Toughness reduced per hit → 10</color></size>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Solar-nut + Wall-nut</color>"
         },
         {
@@ -746,8 +746,8 @@
             "seedType": 943,
             "name": "Quantum McCornics",
             "introduce": "<align=justified><size=36><color=black>He was born at the dawn of the universe, his age beyond reckoning. From the primordial void, he plucked three stars to orbit him as moons—treasures not even black holes could steal. Now, the old one finds joy in toying with this cosmic keepsake, as ancient as he is.</color>",
-            "info": "<size=36>Hurls ultra-dense black holes that collapses into an explosion, releasing all the absorbed energy.\n\n<color=#4A2900>Usage Condition: Odyssey Mode | Unlockable</color>\n<color=black>Damage: </color><color=#8B0000>300/2 Seconds (Mini Butter)</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Metal plant.\n<color=black>•</color> 75% chance to launch Mini Butter, shrinking non-miniboss zombies' size and HP to 70%. If shrinking fails, the target is stunned for 1.5s. Instantly kills imp-class zombies.\n<color=black>•</color> 25% chance to launch an Ultimate Black Hole that lasts 2s, slows nearby zombies, and absorbs Quantum McCornics' projectiles in a 3×3 area.\n<color=black>•</color> Each bullet absorbed adds 2s to its duration, up to 7.5s. When it vanishes, it triggers a large explosion (Cherry Bomb-sized) that deals 320 + 60% of stored damage. If it lasted over 5s, the explosion radius significantly increases.</color>\n<color=black>Odyssey Modifiers:</color>\n<color=#8B0000>1. Ultimate Black Hole can absorb all projectiles\n2. Ultimate Black Hole's absorption radius ×2</color>",
-            "cost": "<size=36>\nFusion Formula: <color=#8B0000> Portal-pult > Popcorn-pult x3</color>"
+            "info": "<size=36>Hurls ultra-dense black holes that collapses into an explosion, releasing all the absorbed energy.\n\n<color=#4A2900>Usage Condition: Odyssey Mode | Unlockable</color>\n<color=black>Damage: </color><color=#8B0000>300/2 Seconds (Mini Butter)</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Metal plant.\n<color=black>•</color> 75% chance to launch Mini Butter, shrinking non-miniboss zombies' size and HP to 70%. If shrinking fails, the target is stunned for 1.5s. Instantly kills imp-class zombies.\n<color=black>•</color> 25% chance to launch an Ultimate Black Hole that lasts 2s, slows nearby zombies, and absorbs Quantum McCornics' projectiles in a 3×3 area.\n<color=blac>•</color> Each bullet absorbed adds 2s to its duration, up to 7.5s. When it vanishes, it triggers a large explosion (Cherry Bomb-sized) that deals 320 + 60% of stored damage. If it lasted over 5s, the explosion radius significantly increases.</color>\n<color=black>Odyssey Modifiers:</color>\n<color=#8B0000>1. Ultimate Black Hole can absorb all projectiles\n2. Ultimate Black Hole's absorption radius ×2</color>",
+            "cost": "<size=36>\nFusion Formula: <color=#8B0000>Portal-pult > Popcorn-pult x3</color>"
         },
         {
             "seedType": 944,
@@ -1593,7 +1593,7 @@
             "seedType": 1112,
             "name": "Cabbage Pot",
             "introduce": "<align=justified><size=36><color=black>\"I'm not just a pot to hold cabbages, and Cabbage-pult is not the weakest plant! Cabbage-pult and I are best buddies,\" Cabbage Pot says confidently. Their friendship might have come to be because... one of them is balding, and the other is already bald.</color>",
-            "info": "<size=36>Provides  attack speed bonus to Cabbage-type plants above it.\n\n<color=black>Special: </color><color=#8B0000>Lowers the attack intervals of Wither-pult and Helios Cabbage above it to 1.5s, and reduces the attack interval of other Cabbage plants by 33%.</color>",
+            "info": "<size=36>Provides attack speed bonus to Cabbage-type plants above it.\n\n<color=black>Special: </color><color=#8B0000>Lowers the attack intervals of Wither-pult and Helios Cabbage above it to 1.5s, and reduces the attack interval of other Cabbage plants by 33%.</color>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Cabbage-pult > Flower Pot</color>"
         },
         {
@@ -2447,7 +2447,7 @@
             "seedType": 1234,
             "name": "Firnurse",
             "introduce": "<align=justified><size=36><color=black>Firnurse brings warmth and life to the frozen wilderness. Despite his odd appearance, the local kids adore him. \"Sugar cube, anyone?\" he offers cheerfully. \"Helps keep the heat in!\"</color>",
-            "info": "<size=36>Stable high-temp Firnace that periodically provides charges or healing to nearby plants.\n\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Inherits traits of Firnace, with a 3×3 protection range.\n<color=black>•</color>Cannot be placed near other Firnaces.\n<color=black>•</color> Provides 1 ice charge to protected Snow plants every 3s.\n<color=black>•</color> Heals protected plants for 50 HP every 15s.</color>",
+            "info": "<size=36>Stable high-temp Firnace that periodically provides charges or healing to nearby plants.\n\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Inherits traits of Firnace, with a 3×3 protection range.\n<color=black>•</color> Cannot be placed near other Firnaces.\n<color=black>•</color> Provides 1 ice charge to protected Snow plants every 3s.\n<color=black>•</color> Heals protected plants for 50 HP every 15s.</color>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Firnace + Aloe Alba</color>"
         },
         {
@@ -2504,7 +2504,7 @@
             "name": "Doombox-shroom",
             "introduce": "<align=justified><size=36><color=black>\"Hey clowny!\" the zombies jeer. Doombox-shroom just glances their way in silence. He doesn’t need to argue: his masterpiece will speak for itself. Too bad none of them will be around to see how it ends.</color>",
             "info": "<size=36>Doom-shroom with enhanced explosive powers able to cause chain explosions.\n\n<color=black>Damage: </color><color=#8B0000>3240 (Cremator)</color>\n<color=black>Special: </color><color=#8B0000>For every zombie eliminated, creates a Jack-in-the-Box explosion that deals 1800 damage at its position.</color>",
-            "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Dormant-shroom + Jack-in-the-Box</color>"
+            "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Jack-in-the-Box > Dormant-shroom</color>"
         },
         {
             "seedType": 1243,
@@ -2559,14 +2559,14 @@
             "seedType": 1250,
             "name": "Squash-nut",
             "introduce": "<align=justified><size=36><color=black>Dragged from a kids' playground by his stem and dumped on the lawn, Squash-nut was rejected for being a deformed rubber ball. Now, furious and bumpy, he bounces wildly, yelling: \"I'm gonna play all I want! ALL I WANT!\"</color>",
-            "info": "<size=36>A bouncy nut who's all tantrum and impact.\n\n<color=black>Toughness: </color><color=#8B0000>4000</color>\n<color=black>Damage: </color><color=#8B0000>160/1.5s</color>\n<color=black>Special: </color><color=#8B0000> Bounces in his tile when a zombie gets close, dealing splash damage on each landing. Does not block zombies while airborne.</color>",
+            "info": "<size=36>A bouncy nut who's all tantrum and impact.\n\n<color=black>Toughness: </color><color=#8B0000>4000</color>\n<color=black>Damage: </color><color=#8B0000>160/1.5s</color>\n<color=black>Special: </color><color=#8B0000>Bounces in his tile when a zombie gets close, dealing splash damage on each landing. Does not block zombies while airborne.</color>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Wall-nut + Squash</color>"
         },
         {
             "seedType": 1251,
             "name": "Silver Doom-shroom",
             "introduce": "<align=justified><size=36><color=black>Silver Doom-shroom turned destruction into a money-making venture — and a lucrative one at that. Of course, he spent his first fortune immediately... on a fancy new skin.</color>",
-            "info": "<size=36>A Doom-shroom that swapped bang for bling.\n\n<color=black>Special: </color><color=#8B0000> Does not explode.</color>",
+            "info": "<size=36>A Doom-shroom that swapped bang for bling.\n\n<color=black>Special: </color><color=#8B0000>Does not explode.</color>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Doom-shroom + Marigold</color>"
         },
         {
