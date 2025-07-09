@@ -30,7 +30,8 @@ Chinese 2.6.1 | PC | [MEGA](https://mega.nz/file/JntEhRiJ#ltSIoi6THZp4_julWvHwcP
 Chinese 2.6.1 | Android | [MEGA](https://mega.nz/file/9j0Q1ZzK#SxIgNW-uTDFxHWGE2f5PSknRkZUcAkRfAfU_ktMSVwo) [Google Drive](https://drive.google.com/file/d/1o5H6v5xF2poerciy999CpeVy60eofuJg/view?usp=sharing)
 
 > Looking to play the Multi-Language on Linux? [Click Here](https://discord.com/channels/1320410104587227147/1320555521744437258)
-!!! info The Multi-Language version contains the following languages: **English**, **French**, **Italian**, **German**, **Spanish**, **Portuguese**, **Vietnamese**, **Javanese**, **Indonesian**, **Russian**, **Japanese**, and **Korean**.
+
+> The Multi-Language version contains the following languages: **English**, **French**, **Italian**, **German**, **Spanish**, **Portuguese**, **Vietnamese**, **Javanese**, **Indonesian**, **Russian**, **Japanese**, and **Korean**.
 	Up-to-date - None
 	Last Updated 2.6.1 - English, Vietnamese, Indonesian, Russian, Spanish
 	Last Updated 2.5.1 - Portuguese, Russian, Javanese
@@ -54,6 +55,7 @@ SniperPlus DLC **Installer** for ver 2.5.1 | 高数带我飞、机鱼 | PC | [ME
 * OneDrive or MEGA
 * Desktop
 ```
+
 3. Make sure your game path doesn't contain special characters. Check `#"FAQ | Errors"` in our server for more info.
 4. Install **everything** in the _Redist folder.
 5. Run the game through `Launch Game.bat`.
@@ -69,7 +71,7 @@ SniperPlus DLC **Installer** for ver 2.5.1 | 高数带我飞、机鱼 | PC | [ME
 
 ### Fusion Addons
 ***
-!!! note Visit our Discord Server to get ~~cheats~~ **Addons** to enhance your gameplay.
+> Visit our Discord Server to get ~~cheats~~ **Addons** to enhance your gameplay.
 -> [![https://discord.gg/DPAC5ZVJ8T](https://i.imgur.com/lIcLtqj.png)](https://discord.gg/DPAC5ZVJ8T) <-
 
 
