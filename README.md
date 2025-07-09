@@ -3,14 +3,15 @@ The download links for the Multi-language Mod and the translation files of the M
 
 # Plants vs Zombies: Fusion | Downloads, Resources, etc. 
 ***
-!!! note Discord Server
+> Discord Server
     Visit us on our [Discord Server](https://discord.gg/DPAC5ZVJ8T). This server is mainly a community for the English translation of the game, but also functions as a hub for all users of all versions.
+ 
 	**If you're having trouble installing or you're getting errors, visit the server as well and go to the FAQ.**
-!!! warning Important
+> Important
 	For Android: **DO NOT** delete your previous installation or you'll lose your progress forever! Download the APK and update the game normally.
 	For PC: You can safely uninstall your previous installations, your progress will carry over.
-!!! danger Use an Ad Blocker when accessing GoFile and other mirrors that are **not** MEGA.
-!!! note The English Lite version is the same as the Multi-language version, just with the custom music and textures, and all localization files for other languages removed for optimization reasons.
+> Use an Ad Blocker when accessing GoFile and other mirrors that are **not** MEGA.
+> The English Lite version is the same as the Multi-language version, just with the custom music and textures, and all localization files for other languages removed for optimization reasons.
  PvZ Fusion Version  |  Platform  |  Download Links 
 ------ | ------ | ------
 **\_Redist (Install these if you have problem launching the game)** | PC | [MEGA](https://mega.nz/file/gzU2QTIY#R71lWGYvXCxG4WBtzLyCRkkHV-WGqKB84rXXR4ikOSg)
@@ -38,7 +39,7 @@ Chinese 2.6.1 | Android | [MEGA](https://mega.nz/file/9j0Q1ZzK#SxIgNW-uTDFxHWGE2
 Item | Author |  Platform  |  Download Links 
 ------ | ------ | ------ | ------
 SniperPlus DLC **Installer** for ver 2.5.1 | 高数带我飞、机鱼 | PC | [MEGA](https://mega.nz/file/I2tRlRJZ#tzu-im9JvdcIIxfAR058f3COW1GkkVvFFoWF2tGQIJ4)
-!!! note The Official DLCs
+> The Official DLCs
 	The Official DLCs make use of the BepInEx modloader and are not compatible with MelonLoader mods or addons. Therefore it is also incompatible with the MelonLoader version of the translation mod. Before we release a BepInEx version of our translation, you will have to choose one.
 
 ##### Instructions for the Multi-Language Version
@@ -57,9 +58,9 @@ SniperPlus DLC **Installer** for ver 2.5.1 | 高数带我飞、机鱼 | PC | [ME
 
 ### The English Almanac & The Fusion Chart
 ***
-!!! note The English Almanac
+> The English Almanac
 	The English Almanac can be found [here](https://trello.com/b/DcdT1kUp). Please be informed that it is continuously being updated and what you see in here may not be *as accurate* as what's in-game.
-!!! note The Fusion Chart
+> The Fusion Chart
 	The Fusion Chart(s) can be found [here](https://www.canva.com/design/DAGVq77eYus/1VwaTiS3klTXJtxNy3ECrQ/view). Same with the English Almanac, this is continuously being updated.
 
 ### Fusion Addons
