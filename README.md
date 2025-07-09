@@ -7,11 +7,15 @@ The download links for the Multi-language Mod and the translation files of the M
     Visit us on our [Discord Server](https://discord.gg/DPAC5ZVJ8T). This server is mainly a community for the English translation of the game, but also functions as a hub for all users of all versions.
  
 	**If you're having trouble installing or you're getting errors, visit the server as well and go to the FAQ.**
+ 
 > Important
 	For Android: **DO NOT** delete your previous installation or you'll lose your progress forever! Download the APK and update the game normally.
 	For PC: You can safely uninstall your previous installations, your progress will carry over.
+
 > Use an Ad Blocker when accessing GoFile and other mirrors that are **not** MEGA.
+
 > The English Lite version is the same as the Multi-language version, just with the custom music and textures, and all localization files for other languages removed for optimization reasons.
+
  PvZ Fusion Version  |  Platform  |  Download Links 
 ------ | ------ | ------
 **\_Redist (Install these if you have problem launching the game)** | PC | [MEGA](https://mega.nz/file/gzU2QTIY#R71lWGYvXCxG4WBtzLyCRkkHV-WGqKB84rXXR4ikOSg)
@@ -24,8 +28,8 @@ Chinese 2.7 | PC | [MEGA](https://mega.nz/file/9jcD3axL#qcKxtmzSkUctB3roVQvB6uAg
 Chinese 2.7 | Android | [MEGA](https://mega.nz/file/828HwBZD#JPDHvVa8gybSoIF2MFjf65UU1xtiH59ppuNrDfWV4MQ) [Google Drive](https://drive.google.com/file/d/1oFuWJw8ZnOdSlgdaOAGa8NMsLI1CfzzZ/view?usp=sharing)
 Chinese 2.6.1 | PC | [MEGA](https://mega.nz/file/JntEhRiJ#ltSIoi6THZp4_julWvHwcPkexG9Zm0KNv-fOn8eBcJQ) [Google Drive](https://drive.google.com/file/d/1YpxYTqqHNM9dWZiUSLgJSikux_Wps68y/view?usp=drive_link)
 Chinese 2.6.1 | Android | [MEGA](https://mega.nz/file/9j0Q1ZzK#SxIgNW-uTDFxHWGE2f5PSknRkZUcAkRfAfU_ktMSVwo) [Google Drive](https://drive.google.com/file/d/1o5H6v5xF2poerciy999CpeVy60eofuJg/view?usp=sharing)
-!!! note Looking for the English version on Android (ver2.3.1)? [Click Here](https://discord.com/channels/1320410104587227147/1327115062376267816)
-!!! note Looking to play the Multi-Language on Linux? [Click Here](https://discord.com/channels/1320410104587227147/1320555521744437258)
+
+> Looking to play the Multi-Language on Linux? [Click Here](https://discord.com/channels/1320410104587227147/1320555521744437258)
 !!! info The Multi-Language version contains the following languages: **English**, **French**, **Italian**, **German**, **Spanish**, **Portuguese**, **Vietnamese**, **Javanese**, **Indonesian**, **Russian**, **Japanese**, and **Korean**.
 	Up-to-date - None
 	Last Updated 2.6.1 - English, Vietnamese, Indonesian, Russian, Spanish
