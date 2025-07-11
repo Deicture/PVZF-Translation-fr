@@ -3,14 +3,17 @@ The download links for the Multi-language Mod and the translation files of the M
 
 # Plants vs Zombies: Fusion | Downloads, Resources, etc. 
 ***
-> Discord Server:
+> **Discord Server**:
+> 
 > Visit us on our [Discord Server](https://discord.gg/DPAC5ZVJ8T). This server is mainly a community for the English translation of the game, but also functions as a hub for all users of all versions. **If you're having trouble installing or you're getting errors, visit the server as well and go to the FAQ.**
  
 > **Important**:
+> 
 > For Android: **DO NOT** delete your previous installation or you'll lose your progress forever! Download the APK and update the game normally.
+> 
 > For PC: You can safely uninstall your previous installations, your progress will carry over.
 
-> Use an Ad Blocker when accessing GoFile and other mirrors that are **not** MEGA.
+> Use an Ad Blocker when accessing GoFile and other mirrors that are **not** MEGA or Google Drive.
 
 > The English Lite version is the same as the Multi-language version, just with the custom music and textures, and all localization files for other languages removed for optimization reasons.
 
