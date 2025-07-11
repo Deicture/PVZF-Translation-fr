@@ -1,12 +1,10 @@
 # PVZRH-Multi-language-Mod-Translation files
-The download links for the Multi-language Mod and the translation files of the Multi-language Mod for PvZ: Fusion. Current supported base game version: 2.6.1.
+The download links for the Multi-language Mod and the translation files of the Multi-language Mod for PvZ: Fusion. Current supported base game version: 2.6.1. Source code for the translator mod can be found [here](https://github.com/Teyliu/PVZFusionTranslation) and source code for the built-in Better Fusions mods can be found [here](https://github.com/Nanami-Houko/PVZRH-Better-Fusion-Suite).
 
 # Plants vs Zombies: Fusion | Downloads, Resources, etc. 
 ***
 > Discord Server
-    Visit us on our [Discord Server](https://discord.gg/DPAC5ZVJ8T). This server is mainly a community for the English translation of the game, but also functions as a hub for all users of all versions.
- 
-	**If you're having trouble installing or you're getting errors, visit the server as well and go to the FAQ.**
+    Visit us on our [Discord Server](https://discord.gg/DPAC5ZVJ8T). This server is mainly a community for the English translation of the game, but also functions as a hub for all users of all versions. **If you're having trouble installing or you're getting errors, visit the server as well and go to the FAQ.**
  
 > Important
 	For Android: **DO NOT** delete your previous installation or you'll lose your progress forever! Download the APK and update the game normally.
