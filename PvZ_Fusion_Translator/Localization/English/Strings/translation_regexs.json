@@ -97,6 +97,7 @@
   "^但(.*)": "Odyssey Negative Modifier | {0}",
   "^成功击败领袖，获得(\\d+)积分": "Mini-boss successfully defeated. You have earned {0} Points.",
   "^大招需要(\\d+)金币": "Using the Ultimate requires {0} Coins.",
+  "-------Outdated Regex Below": "You Can Safely Ignore or Delete-------",
   "场上敌人数量：(\\d+)\n当前分数：(\\d+)": "Zombies: {0}\nCurrent Points: {1}",
   "^无尽：超限 (\\d+)轮已经完成": "Endless: Overrun | {0} Rounds Completed",
   "^旅行炼狱：诅咒 (\\d+)轮已经完成": "Cursed Purgatory | {0} Rounds Completed",
