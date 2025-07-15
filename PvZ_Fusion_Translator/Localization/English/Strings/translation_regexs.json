@@ -98,6 +98,8 @@
   "^成功击败领袖，获得(\\d+)积分": "Mini-boss successfully defeated. You have earned {0} Points.",
   "^大招需要(\\d+)金币": "Using the Ultimate requires {0} Coins.",
   "-------Outdated Regex Below": "You Can Safely Ignore or Delete-------",
+  "([^\\s]+)\n僵尸等级：(\\d+)\n韧性：([^\\s]+)\n攻击力：([^\\s]+)\n特点：([^\\s]+)\n最早出现：第(\\d+)轮": "{0}\nZombie Level: {1}\nToughness: {2}\nAttack Power: {3}\nTraits: {4}\nTo Appear in: Round {5}",
+  "([^\\s]+)\n僵尸等级：(\\d+)\n韧性：([^\\s]+)\n攻击力：([^\\s]+)\n特点：([^\\s]+)\n弱点：([^\\s]+)\n最早出现：第(\\d+)轮": "{0}\nZombie Level: {1}\nToughness: {2}\nAttack Power: {3}\nTraits: {4}\nWeakness: {5}\nTo Appear in: Round {6}",
   "场上敌人数量：(\\d+)\n当前分数：(\\d+)": "Zombies: {0}\nCurrent Points: {1}",
   "^无尽：超限 (\\d+)轮已经完成": "Endless: Overrun | {0} Rounds Completed",
   "^旅行炼狱：诅咒 (\\d+)轮已经完成": "Cursed Purgatory | {0} Rounds Completed",
@@ -163,5 +165,7 @@
   "^(\\d+\\D\\d+)%\n\\D+\n冷却：(\\d+)\\D$": "{0}%\nReady\nCD: {1}",
   "^(\\d+\\D\\d+)%\n\\D+\n不死：(\\d+)\\D$": "{0}%\nReady\nInvin.: {1}",
   "^(\\d+\\D\\d+)%\n(\\d+)\n冷却：(\\d+)\\D$": "{0}%\n{1}\nCD: {2}",
-  "^(\\d+\\D\\d+)%\n(\\d+)\n不死：(\\d+)\\D$": "{0}%\n{1}\nInvin.: {2}"
+  "^(\\d+\\D\\d+)%\n(\\d+)\n不死：(\\d+)\\D$": "{0}%\n{1}\nInvin.: {2}",
+  "将([^\\s]+)转化为植物类型失败": "Failed to convert {0} into a Plant Class.",
+  "尝试将植物类型([^\\s]+)转化为([^\\s]+)失败": "Failed to convert Plant Class {0} into {1}."
 }
