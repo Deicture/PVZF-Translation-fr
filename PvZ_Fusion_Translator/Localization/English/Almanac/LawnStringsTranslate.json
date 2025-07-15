@@ -949,7 +949,7 @@
             "seedType": 1020,
             "name": "Buckshooter",
             "introduce": "<align=justified><size=36><color=black>\"I carry my ancestors' spirit—I won't fall here!\" Buckshooter declared. When told his helmet looked like Buckethead Zombie's, he retorted, \"Then let's invoke their will and ride again!\"</color></size>",
-            "info": "<size=36>Buckshooter has the ability to crack armor.\n\n<color=black>Toughness: </color><color=#8B0000>2000</color>\n<color=black>Damage: </color><color=#8B0000>80/1.5s</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Metal plant. Recovers 500 Toughness when fed metal object.\n<color=black>•</color> Takes half the damage from explosive cherries.\n<color=black>•</color> Projectiles knock back zombies and instantly break screen doors.</color></size>",
+            "info": "<size=36>Buckshooter has the ability to crack armor.\n\n<color=black>Toughness: </color><color=#8B0000>2000</color>\n<color=black>Damage: </color><color=#8B0000>80/1.5s</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Metal plant. Recovers 500 Toughness when fed metal object.\n<color=black>•</color> Takes half the damage from explosive cherries.\n<color=black>•</color> Projectiles knock back zombies and instantly break Type 2 armor.</color></size>",
             "cost": "<size=36>Fusion Formula: <color=#8B0000>Bucket/Screen Door > Peashooter</color>"
         },
         {
@@ -1873,7 +1873,7 @@
             "seedType": 1152,
             "name": "Buck-shroom",
             "introduce": "<align=justified><size=36><color=black>Buck-shroom has a constant worry: he's terrified of Magnet-shroom accidentally pulling him in. 'Where did my screws go?' As Crazy Dave walks up, it seems he is about to have a brand-new concern.</color>",
-            "info": "<size=36>Buck-shrooms can knockback zombies too.\n\n<color=black>Toughness: </color><color=#8B0000>1000</color>\n<color=black>Damage: </color><color=#8B0000>80/2.25s</color>\n<color=black>Special: </color><color=#8B0000>Metal plant. Projectiles knockback zombies and destroy screen doors with ease.</color>",
+            "info": "<size=36>Buck-shrooms can knockback zombies too.\n\n<color=black>Toughness: </color><color=#8B0000>1000</color>\n<color=black>Damage: </color><color=#8B0000>80/2.25s</color>\n<color=black>Special: </color><color=#8B0000>Metal plant. Projectiles knockback zombies and destroy Type 2 armor with ease.</color>",
             "cost": "<size=36>Fusion Formula: <color=#8B0000>Bucket/Screen Door > Pea-shroom</color>"
         },
         {
@@ -2522,8 +2522,8 @@
         },
         {
             "seedType": 1245,
-            "name": "Bright-shroom",
-            "introduce": "<align=justified><size=36><color=black>A seasoned sunlight banker, Bright-shroom offers high interest on your deposits.\"You chose a time deposit,\" he says sternly to a frustrated Twin Solar-nut. \"Withdrawals aren't allowed just yet.\"</color>",
+            "name": "Sunrise-shroom",
+            "introduce": "<align=justified><size=36><color=black>A seasoned sunlight banker, Sunrise-shroom offers high interest on your deposits.\"You chose a time deposit,\" he says sternly to a frustrated Twin Solar-nut. \"Withdrawals aren't allowed just yet.\"</color>",
             "info": "<size=36>A visionary sun producer that absorbs and multiplies nearby sun, paying out in bursts.\n\n<color=black>Sun Output: </color><color=#8B0000>25/20s</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Absorbs dropped Sun within a 5×5 area, multiplies their value by ×1.3, and stores them.\n<color=black>•</color> Releases as much Sun as possible in batches of 25 along with the next production.</color>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Sunflower + Fume-shroom</color>"
         },
