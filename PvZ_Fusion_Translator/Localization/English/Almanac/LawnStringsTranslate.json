@@ -635,7 +635,7 @@
             "name": "Apeacalypse Minigun",
             "introduce": "<align=justified><size=36><color=black>Apeacalypse Minigun rarely interacts with people. It's not due to arrogance, but because people keep asking whether the fire on his body is hot or cold, and whether he can create hot ice or cold fire. These questions bore him.</color>",
             "info": "<size=36>Becomes stronger the more Toughness it loses.\n\n<color=#4A2900>Usage Condition: Odyssey Mode | Unlockable</color>\n<color=black>Damage: </color><color=#8B0000>120×3/0.5s</color>\n<color=black>Toughness: </color><color=#8B0000>8000</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Other plants cannot absorb damage for Apeacalypse Minigun. Each shot fired inflict 50 self-damage until Toughness is reduced to 1500. \n<color=black>•</color> Shots knockback zombies and pierce twice, with power halved per pierce. \n<color=black>•</color> Fires faster as Toughness decreases and reaches maximum speed of 0.25 seconds at 1/3 Toughness. If Toughness is further reduced, attack damage increases. Damage is capped at 480 at 0 Toughness.</color>\n<color=black>Odyssey Modifiers:\n<color=#8B0000>1. Lv1: Defense increases as Toughness decreases. Below 500 HP, it becomes immune to damage under 1k; Lv2: Below 500 HP, base damage ×2\n2. Increases projectile damage and knockback ×3</color><size=36>",
-            "cost": "<size=36>Fusion Formula: <color=#8B0000>Unstable Jalapeno > Titan Pea Turret"
+            "cost": "<size=36>Fusion Formula: <color=#8B0000>Spicicle > Titan Pea Turret"
         },
         {
             "seedType": 928,
@@ -2018,8 +2018,8 @@
         },
         {
             "seedType": 1173,
-            "name": "Unstable Jalapeno",
-            "introduce": "<align=justified><size=36><color=black>Cold on the outside, fiery on the inside. This is how other plants describe Unstable Jalapeno. \"Don't be fooled by my calm appearance, my explosive energy is beyond your imagination,\" murmurs Unstable Jalapeno. Oh, by the way, he's also quite skilled at making ice-cream.</color>",
+            "name": "Spicicle",
+            "introduce": "<align=justified><size=36><color=black>Cold on the outside, fiery on the inside. This is how other plants describe Spicicle. \"Don't be fooled by my calm appearance, my explosive energy is beyond your imagination,\" murmurs Spicicle. Oh, by the way, he's also quite skilled at making ice-cream.</color>",
             "info": "<size=36>Has both the properties of Ice-shroom and Jalapeno!\n\n<color=black>Damage: </color><color=#8B0000>1800</color>\n<color=black>Toughness: </color><color=#8B0000>32000</color>\n<color=black>Special: </color><color=#8B0000>Loses 20% Toughness every 3 seconds. While present, absorbs damage for all plants. Upon death, triggers Jalapeno in his row and fullscreen Ice-shroom.</color>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Jalapeno + Ice-shroom</color>"
         },
