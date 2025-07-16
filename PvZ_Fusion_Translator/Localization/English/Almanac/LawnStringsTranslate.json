@@ -625,8 +625,8 @@
         },
         {
             "seedType": 926,
-            "name": "Magicat Nettle",
-            "introduce": "<align=justified><size=36><color=black>\"I think it's better to use animal hair to keep myself above water than relying on, for example, a swim ring!\" Magicat Nettle stands by her belief. Hmm... If you think this is due to her poor academic skills and inability to stay afloat on the river, you're right. How could a cat possibly swim! Though she refuses to be categorized randomly.</color>",
+            "name": "Aristocat-tail",
+            "introduce": "<align=justified><size=36><color=black>\"I think it's better to use animal hair to keep myself above water than relying on, for example, a swim ring!\" Aristocat-tail stands by her belief. Hmm... If you think this is due to her poor academic skills and inability to stay afloat on the river, you're right. How could a cat possibly swim! Though she refuses to be categorized randomly.</color>",
             "info": "<size=36>Summons drones to attack every time she defeats a zombie.\n\n<color=#4A2900>Usage Condition: Odyssey Mode | Initial Selection</color>\n<color=black>Damage: </color><color=#8B0000>160×2/1.5s</color>\n<color=black>Special: </color><color=#8B0000>Summons a drone every time a zombie killed. The drone fires 30 nettle spikes that deal 100 damage each.</color>\n<color=black>Odyssey Modifiers:\n<color=#8B0000>1. Basic Attack Damage ×5.\n2. Drone Attack Damage ×3.</color><size=36>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Cattail + Nyan Squash"
         },
