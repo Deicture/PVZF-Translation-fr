@@ -299,7 +299,7 @@
         "theZombieType": 55,
         "name": "Zombie Yeti Băng (55)",
         "introduce": "<size=36><color=black>Cứu, đầu tôi kẹt trong băng rồi.</color>",
-        "info": "<size=36>Đâu nằm trong khối băng.\n\n<color=black>Máu: </color><color=#4B0082>500 + 370 (Giáp cấp 1)</color>\n<color=black>Đặc Điểm: </color><color=#4B0082>Các Zombie cơ bản trong sân tuyết đều có độ kháng lạnh là 1.</color>"
+        "info": "<size=36>Đâu nằm trong khối băng.\n\n<color=black>Máu: </color><color=#4B0082>500+370 (Giáp cấp 1)</color>\n<color=black>Đặc Điểm: </color><color=#4B0082>Các Zombie cơ bản trong sân tuyết đều có độ kháng lạnh là 1.</color>"
     },
     {
         "theZombieType": 56,
@@ -317,13 +317,25 @@
         "theZombieType": 58,
         "name": "Zombie Công Nhân (58)",
         "introduce": "<size=36><color=black>Này, tôi đào được 1 stack kim cương, tôi giàu to rồi, nhưng, tôi muốn tìm Netherite, để tạo nên áo giáp siêu cứng để bảo vệ tôi khỏi cây.</color>",
-        "info": "<size=36>Cầm 1 cây cuốc và đào mọi thứ.\n\n<color=black>Máu: </color><color=#4B0082>720 + 1400 (Giáp cấp 1)</color>\n<color=black>Đặc Điểm: </color><color=#4B0082>Xuất hiện với 1 trong 3 cuốc ngẫu nhiên gồm cuốc sắt, vàng và kim cương và chỉ đào khi gặp cây óc chó và bí ngô theo cấp độ như sau:\n<color=black>•</color> Cuốc Vàng: Tốc độ đào: 150, Cấp độ: 4000.\n<color=black>•</color> Cuốc Sắt: Tốc độ đào: 50, Cấp độ: 16000.\n<color=black>•</color> Cuốc Kim Cương: Tốc độ đào: 100, Cấp độ: 32000.\n<color=black>•</color> Nếu máu hiện tại mà dưới cấp độ đào của cây cuốc đó thì khi bắt đầu đào thì Zombie Công Nhân sẽ đào nhanh hơn gấp 5 lần.</color>"
+        "info": "<size=36>Cầm 1 cây cuốc và đào mọi thứ.\n\n<color=black>Máu: </color><color=#4B0082>720+1400 (Giáp cấp 1)</color>\n<color=black>Đặc Điểm: </color><color=#4B0082>Xuất hiện với 1 trong 3 cuốc ngẫu nhiên gồm cuốc sắt, vàng và kim cương và chỉ đào khi gặp cây óc chó và bí ngô theo cấp độ như sau:\n<color=black>•</color> Cuốc Vàng: Tốc độ đào: 150, Cấp độ: 4000.\n<color=black>•</color> Cuốc Sắt: Tốc độ đào: 50, Cấp độ: 16000.\n<color=black>•</color> Cuốc Kim Cương: Tốc độ đào: 100, Cấp độ: 32000.\n<color=black>•</color> Nếu máu hiện tại mà dưới cấp độ đào của cây cuốc đó thì khi bắt đầu đào thì Zombie Công Nhân sẽ đào nhanh hơn gấp 5 lần.</color>"
     },
     {
         "theZombieType": 59,
         "name": "Zombie Đọc Báo Cá Heo (59)",
         "introduce": "<size=36><color=black>Ước mơ của cậu ta là nàng tiên cá, nhưng sau 1 cuộc phẫu thuật, cậu ta lại bị nhầm thân trên với thân dưới.</color>",
-        "info": "<size=36>Con cá heo biết đọc báo?.\n\n<color=black>Máu: </color><color=#4B0082>720 + 720 (Giáp cấp 2)</color>\n<color=black>Đặc Điểm: </color><color=#4B0082>Nếu mất báo, chạy về phía bên phải sân và trở lại với tờ báo mới. Nếu đã bị thôi miên, rời khỏi sân hoàn toàn.</color>"
+        "info": "<size=36>Con cá heo biết đọc báo?\n\n<color=black>Máu: </color><color=#4B0082>720+720 (Giáp cấp 2)</color>\n<color=black>Đặc Điểm: </color><color=#4B0082>Nếu mất báo, chạy về phía bên phải sân và trở lại với tờ báo mới. Nếu đã bị thôi miên, rời khỏi sân hoàn toàn.</color>"
+    },
+    {
+        "theZombieType": 61,
+        "name": "Zombie Bầu Dục Cá Heo (61)",
+        "introduce": "<size=36><color=black>Cậu ta cứ như cá heo trên sân bầu dục ấy.... chờ đã, đó là nguyên con cá heo đấy! Tại sao nó lọt vào đây thế.</color>",
+        "info": "<size=36>Con cá heo thích bầu dục?\n\n<color=black>Máu: </color><color=#4B0082>720+1400 (Giáp cấp 1)</color>\n<color=black>Đặc Điểm: </color><color=#4B0082>Đi xuyên cây, nếu chạy tới cuối sân, hồi đầy máu cùng với giáp, sau đó chạy vòng về như 1 vòng lặp. Nếu mất nón sẽ ăn cây.</color>"
+    },
+    {
+        "theZombieType": 62,
+        "name": "Tiểu Thú Tuyết (62)",
+        "introduce": "<size=36><color=black>Rất thích lăn và khám phá muôn nơi, từ đồng cỏ xanh ngát tới trước quả óc chó, aiya.</color>",
+        "info": "<size=36>Lăn vào cây.\n\n<color=black>Máu: </color><color=#4B0082>300</color>\n<color=black>Đặc Điểm: </color><color=#4B0082>Lăn vào cây với tốc độ nhanh, gây sát thương bằng với lượng máu hiện tại của nó.</color>"
     },
         {
            "theZombieType": 100,
@@ -461,19 +473,19 @@
          "theZombieType": 201,
          "name": "Hắc Chiến Xa (201)",
          "introduce": "<size=36><color=black>Chiếc xe cày tuyết của Michael thực sự có nhiều hơn một zombie. Họ là một đội. Zombie xe cày tuyết là tạo băng. Zombie xe trượt-cày tuyết tăng cường tốc độ, còn Michael thì làm “màu”. Vì không có giấy phép lái xe, nên nó buộc phải xuống xe để chào đón những cây hâm mộ cuồng nhiệt, nhưng những viên đậu của họ có vẻ hơi quá nhiệt tình.</color>",
-         "info": "<size=36>Miễn nhiễm với đóng băng cùng với lượng máu cực cao\n\n<color=black>Máu: </color><color=#4B0082>12000</color>\n<color=black>Đặc Điểm: </color><color=#4B0082>Sau khi chết, 1 zombie Michael, 1 zombie xe cày tuyết, 1 zombie xe trượt-trượt tuyết sẽ được triệu hồi và sát thương chúng sẽ giảm 75%.</color>\n<color=black>Buff Luyện Ngục 1: </color><color=#4B0082>Hắc Chiến Xa sẽ xuất hiện ở đầu mỗi cờ và tạo ra MJ Trắng khi bị phá hủy</color>\n<color=black>Buff Luyện Ngục 2: </color><color=#4B0082>Tốc độ di chuyển của Hắc Chiến Xa và Bạch Vũ Đài Xa tăng gấp 5 lần.</color></size>"
+         "info": "<size=36>Miễn nhiễm với đóng băng cùng với lượng máu cực cao\n\n<color=black>Máu: </color><color=#4B0082>12000</color>\n<color=black>Đặc Điểm: </color><color=#4B0082>Sau khi chết, 1 zombie Michael, 1 zombie xe cày tuyết, 1 zombie xe trượt-trượt tuyết sẽ được triệu hồi.</color>\n<color=black>Buff Luyện Ngục 1: </color><color=#4B0082>Hắc Chiến Xa sẽ xuất hiện ở đầu mỗi cờ và tạo ra MJ Trắng khi bị phá hủy</color>\n<color=black>Buff Luyện Ngục 2: </color><color=#4B0082>Tốc độ di chuyển của Hắc Chiến Xa và Bạch Vũ Đài Xa tăng gấp 5 lần.</color></size>"
      },
      {
          "theZombieType": 202,
          "name": "<size=24>Zombie Khổng Hạch Phi Thương (202)",
          "introduce": "<size=36><color=black>Zombie Khổng Hạch Phi Thương là một ngư dân. Sáu cây đinh ba mà nó ném chính xác đến mức nó được phong “Đả Ngư Vương”. “Thực ra, trước đây ta là một tay ném lao cừ khôi...” Zombie Khổng Hạch Phi Thương nói.</color>",
-         "info": "<size=36>Ném một số lượng lớn đinh ba cùng một lúc để tấn công cây của bạn.\n\n<color=black>Máu: </color><color=#4B0082>270+7500 (Giáp cấp 1)</color>\n<color=black>Đặc Điểm: </color><color=#4B0082>Ném 6 cây đinh ba sẽ gây sát thương bằng 20% ​​máu hiện tại của cây. Sát thương tối thiểu là 60.</color>\n<color=black>Buff Luyện Ngục 1: </color><color=#4B0082>Đinh ba gây x5 sát thương</color>\n<color=black>Buff Luyện Ngục 2: </color><color=#4B0082>Zombie mang theo đinh ba sẽ tấn công ngẫu nhiên.</color></size>"
+         "info": "<size=36>Ném một số lượng lớn đinh ba cùng một lúc để tấn công cây của bạn.\n\n<color=black>Máu: </color><color=#4B0082>270+7500 (Giáp cấp 1)</color>\n<color=black>Đặc Điểm: </color><color=#4B0082>\n<color=black>•</color> Ném 6 cây đinh ba sẽ gây sát thương bằng 20% ​​máu hiện tại của cây. \n<color=black>•</color> Sát thương tối thiểu là 60.\n<color=black>•</color> Đinh ba có thể bị bắn hạ bởi Sao Tối Thượng.</color>\n<color=black>Điểm Yếu:</color><color=#4B0082> Sao Tối Thượng</color>\n<color=black>Buff Luyện Ngục 1: </color><color=#4B0082>Đinh ba gây x5 sát thương</color>\n<color=black>Buff Luyện Ngục 2: </color><color=#4B0082>Zombie mang theo đinh ba sẽ tấn công ngẫu nhiên.</color></size>"
      },
      {
          "theZombieType": 203,
          "name": "Liên Báo Anh Đào (203)",
          "introduce": "<size=36><color=black>“Ta đã già, già lắm rồi...” Liên Báo Anh Đào lẩm bẩm khi đi trên đường. Cho dù sát khí từ cơ thể nó đã giảm, nhưng sát khí dư thừa còn sót lại vẫn khiến cây và zombie trong vườn không thể ngẩng đầu lên. “Chỉ có tên đó mới có thể khiến ta muốn chiến đấu...” Nó cất tờ báo đi, đi trên phố, lẩm bẩm một mình...</color>",
-         "info": "<size=36>Một kẻ cực kỳ nguy hiểm.\n\n<color=black>Sát thương:</color><color=#4B0082> 400</color>\n<color=black>Sát Thương Đạn:</color><color=#4B0082> 1000/0.125 giây</color>\n<color=black>Máu: </color><color=#4B0082>1500+1500 (Giáp cấp 1)</color>\n<color=black>Đặc Điểm: </color><color=#4B0082>Sau khi tờ báo mất, nó tạm thời bất tử, rồi bắn ra những quả bom anh đào mỗi 0,125 giây.</color>\n<color=black>Buff Luyện Ngục 1: </color><color=#4B0082>Liên Báo Anh Đào phớt lờ cây khi nó tức giận</color>\n<color=black>Buff Luyện Ngục 2: </color><color=#4B0082>Liên Báo Anh Đào miễn nhiễm với hiệu ứng giảm tốc và bơ.</color>\n<color=black>Điểm Yếu: </color><color=#4B0082>Dù Ruby</color></size>"
+         "info": "<size=36>Một kẻ cực kỳ nguy hiểm.\n\n<color=black>Sát thương:</color><color=#4B0082> 400</color>\n<color=black>Sát Thương Đạn:</color><color=#4B0082> 1000*4/0.5 giây</color>\n<color=black>Máu: </color><color=#4B0082>1500 + 1500 (Giáp cấp 2)</color>\n<color=black>Đặc Điểm: </color><color=#4B0082>Sau khi tờ báo mất, nó tạm thời bất tử, rồi bắn ra 4 đạn siêu anh đào mỗi 0.5 giây.</color>\n<color=black>Buff Luyện Ngục 1: </color><color=#4B0082>Liên Báo Anh Đào phớt lờ cây khi nó tức giận</color>\n<color=black>Buff Luyện Ngục 2: </color><color=#4B0082>Liên Báo Anh Đào miễn nhiễm với hiệu ứng giảm tốc và bơ.</color>\n<color=black>Điểm Yếu: </color><color=#4B0082>Dù Ruby</color></size>"
      },
      {
          "theZombieType": 204,
@@ -509,12 +521,12 @@
          "theZombieType": 209,
          "name": "Vua Hề Bật Nhảy (209)",
          "introduce": "<size=36><color=black>Liệu bạn có biết, trong chế dộ luyện ngục, sau mỗi 2 cờ thì Zombie sẽ tăng 33% máu + giáp. Đồng thời cách quy đổi điểm từ Zom là 10000 HP từ Zom = 1 điểm. Và giờ nó không còn tính điểm từ Zombie bị thôi miên nữa đấy, nên xài Nấm Tham Lam mà farm điểm đi.</color>",
-         "info": "<size=36>Nổ tung sau khi chết và triệu hồi Zombie.\n\n<color=black>Máu: </color><color=#4B0082>720+4400 (Giáp cấp 1)</color>\n<color=black>Đặc Điểm: </color><color=#4B0082>Nếu chết trong khi nhảy thì nó sẽ phát nổ và triệu hồi ra 1 vua hề</color>\n<color=black>Buff Luyện Ngục 1: </color><color=#4B0082>Vua Hề Bật Nhảy chắc chắn nổ khi tiếp đất và thời gian lấy đà của Vua Hề Bật Nhảy và Zombie Pogo Dưa Hấu giảm còn 0.75 giây</color>\n<color=black>Buff Luyện Ngục 2: </color><color=#4B0082>Zombie Hộp Hề chịu ảnh hưởng bởi vụ nổ hộp hề sẽ biến thành Vua Hề Bật Nhảy.</color>\n<color=black>Điểm Yếu: </color><color=#4B0082>Bất kì cây kết hợp với Lá Dù</color></size>"
+         "info": "<size=36>Nổ tung sau khi chết và triệu hồi Zombie.\n\n<color=black>Máu: </color><color=#4B0082>720+4400 (Giáp cấp 1)</color>\n<color=black>Đặc Điểm: </color><color=#4B0082>Sau khi vào vị trí thì sẽ nạp trong 5 giây để nhảy 4 ô, sau đó bật nhảy như thường. Nếu chết trong khi nhảy thì nó sẽ phát nổ và triệu hồi ra 1 vua hề</color>\n<color=black>Buff Luyện Ngục 1: </color><color=#4B0082>Vua Hề Bật Nhảy chắc chắn nổ khi tiếp đất và thời gian lấy đà của Vua Hề Bật Nhảy và Zombie Pogo Dưa Hấu giảm còn 0.75 giây</color>\n<color=black>Buff Luyện Ngục 2: </color><color=#4B0082>Zombie Hộp Hề chịu ảnh hưởng bởi vụ nổ hộp hề sẽ biến thành Vua Hề Bật Nhảy.</color>\n<color=black>Điểm Yếu: </color><color=#4B0082>Bất kì cây kết hợp với Lá Dù</color></size>"
      },
         {
             "theZombieType": 210,
             "name": "Thủy Quái Cơ Khí (210)",
-            "introduce": "<size=36><color=black>Liệu bạn có biết, trong game này có tổng cộng 9 loại sắt vụn khác nhau. Đó gồm xô sắt, mũ bầu dục, cửa sắt, xẻng, hộp hề, máy bật nhảy, mảnh ghép bowling, mảnh ghép cơ khí và cả mảnh ghép không gian đấy. Và theo Almanac thì ta có 96 Zombie có thông tin đầy đủ trong này tính tới bản 2.6.1.</color>",
+            "introduce": "<size=36><color=black>Liệu bạn có biết, trong game này có tổng cộng 9 loại sắt vụn khác nhau. Đó gồm xô sắt, mũ bầu dục, cửa sắt, xẻng, hộp hề, máy bật nhảy, mảnh ghép bowling, mảnh ghép cơ khí và cả mảnh ghép không gian đấy. Và theo Almanac thì ta có 138 Zombie có thông tin đầy đủ trong này tính tới bản 2.7</color>",
             "info": "<size=36>Lăn về phía trước.\n\n<color=black>Máu: </color><color=#4B0082>1350\n<color=black>Đặc Điểm: </color><color=#4B0082>Nếu bị đạn bắn chết, Mảnh Vỡ Cao Cấp sẽ rơi xuống.</color></color>"
         },
         {
@@ -527,7 +539,7 @@
             "theZombieType": 212,
             "name": "<color=#4B0082>Hắc Diện Vũ Trang Khổng Nhân (212)",
             "introduce": "<size=36><color=black>Khi bàn về thây ma. Theo các tài liệu cổ xưa, áo giáp hắc diện chỉ dành cho những ai đã vượt qua thử thách vô cùng khắc nghiệt. Và người giành được chiếc áo giáp đó sẽ là một chiến binh anh dũng đầy uy phong. Đáng tiếc, họ lại trở thành thây ma. “Cẩn thận đừng đánh thức bọn chúng đấy, họ chẳng còn nhớ gì đâu”",
-            "info": "<size=36>Hắc Diện Vũ Trang Khổng Nhân là một mối đe dọa mà người chơi nên thận trọng.\n\n<color=black>Máu: </color><color=#4B0082>32000+32000 (Giáp cấp 1)</color>\n<color=black>Đặc Điểm: </color><color=#4B0082>\n<color=black>•</color> Giảm 90% sát thương các Zombie phải nhận.\n<color=black>•</color> Thừa hưởng mọi khả năng của Vũ Trang Khổng Nhân.\n<color=black>•</color> Mỗi khi đập thì sẽ triệu hồi ra các Tiểu Tử Yêu Tinh, các Tiểu Tử Yêu Tinh này sẽ được phóng về phía trước khoảng 4 ô.\n<color=black>•</color> Phạm vi đập là 2.5 ô. Gây 7200 sát thương lên Zombie thôi miên \n<color=black>•</color> Khi ném Bowling thì sẽ phát nổ ở phạm vi 3x3 ô khi chạm đất.\n<color=black>MiniBoss: </color> \n<color=black>•</color> Chỉ nhận tối đa 5000 sát thương cho các đòn hành quyết.\n<color=black>•</color> Giảm 20% sát thương nhận vào, nếu có Hắc Diện Vũ Trang Khổng Nhân thì giảm 90% sát thương nhận vào.</color>\n<color=black>Buff Luyện Ngục 1: </color><color=#4B0082>Khi Hắc Khổng Nhân Vũ Trang chết, nó sẽ triệu hồi Tiến sĩ Zomboss</color>\n<color=black>Buff Luyện Ngục 2: </color><color=#4B0082>Sẽ luôn đi chung với 1 miniboss khác khi xuất hiện.</color></size>"
+            "info": "<size=36>Hắc Diện Vũ Trang Khổng Nhân là một mối đe dọa mà người chơi nên thận trọng.\n\n<color=black>Máu: </color><color=#4B0082>32000+32000 (Giáp cấp 1)</color>\n<color=black>Đặc Điểm: </color><color=#4B0082>\n<color=black>•</color> Giảm 90% sát thương các Zombie phải nhận.\n<color=black>•</color> Thừa hưởng mọi khả năng của Vũ Trang Khổng Nhân.\n<color=black>•</color> Mỗi khi đập thì sẽ triệu hồi ra các Tiểu Tử Yêu Tinh, các Tiểu Tử Yêu Tinh này sẽ được phóng về phía trước khoảng 4 ô.\n<color=black>•</color> Phạm vi đập là 2.5 ô. Gây 7200 sát thương lên Zombie thôi miên \n<color=black>•</color> Khi ném Bowling thì sẽ phát nổ ở phạm vi 3x3 ô khi chạm đất.\n<color=black>MiniBoss: </color> \n<color=black>•</color> Chỉ nhận tối đa 5000 sát thương cho các đòn hành quyết.\n<color=black>•</color> Giảm 20% sát thương nhận vào cho toàn bộ Zombie trên sân khi miniboss còn hiện diện, nếu có Hắc Diện Vũ Trang Khổng Nhân thì giảm 90% sát thương nhận vào.</color>\n<color=black>Buff Luyện Ngục 1: </color><color=#4B0082>Khi Hắc Khổng Nhân Vũ Trang chết, nó sẽ triệu hồi Tiến sĩ Zomboss</color>\n<color=black>Buff Luyện Ngục 2: </color><color=#4B0082>Sẽ luôn đi chung với 1 miniboss khác khi xuất hiện.</color></size>"
         },
         {
             "theZombieType": 213,
@@ -551,7 +563,7 @@
             "theZombieType": 216,
             "name": "Xe Cẩu Đinh Ba (216)",
             "introduce": "<size=36><color=black>Xe Cẩu Đinh Ba là một \"người cầu toàn\" trong đám Zombie. Nó nghĩ rằng xe của mình hơi tồi tàn, vì vậy nó bắt đầu chất đầy nó với đinh ba. Nhưng đúng với bản chất cầu toàn của mình, nó sẽ không dừng lại cho đến khi mọi khoảng trống đều được lấp đầy.</color>",
-            "info": "<size=36>Bắn Hàng Loạt Đinh Ba!\n\n<color=black>Máu: </color><color=#4B0082>1350+4400</color>\n<color=black>Đặc Điểm: </color><color=#4B0082>Bắn 2 lần, 4 cây đinh ba mỗi lần. Đinh Ba không nhắm vào cây mà thay vào đó nhắm theo 1 góc nhất định khoảng 5-7 ô.</color>\n<color=black>Buff Luyện Ngục 1: </color><color=#4B0082>Xe Cẩu Đinh Ba không bị hiệu ứng thôi miên, gấp 5 lần số đinh ba khi bắn\n<color=black>Buff Luyện Ngục 2: </color><color=#4B0082>Sẽ bắn lập tức khi tới vị trí.</color></size>"
+            "info": "<size=36>Bắn Hàng Loạt Đinh Ba!\n\n<color=black>Máu: </color><color=#4B0082>1350+4400 (Giáp cấp 1)</color>\n<color=black>Đặc Điểm: </color><color=#4B0082>Bắn 2 lần, 4 cây đinh ba mỗi lần. Đinh Ba không nhắm vào cây mà thay vào đó nhắm theo 1 góc nhất định khoảng 5-7 ô.</color>\n<color=black>Buff Luyện Ngục 1: </color><color=#4B0082>Xe Cẩu Đinh Ba không bị hiệu ứng thôi miên, gấp 5 lần số đinh ba khi bắn\n<color=black>Buff Luyện Ngục 2: </color><color=#4B0082>Sẽ bắn lập tức khi tới vị trí.</color></size>"
           },
           {
             "theZombieType": 217,
@@ -575,7 +587,7 @@
       "theZombieType": 220,
       "name": "<color=#4B0082>An Bá Tử Khang (220)",
       "introduce": "<size=36><color=black>An Bá Tử Khang khi sinh ra đã được đặt tên gắn liền với sức mạnh cao cả để huỷ diệt cây cối của hắn. \"An\" nghĩa là An Phận, \"Bá\" nghĩa là Bá Đạo, \"Tử\" nghĩa là Tử Thần, \"Khang\" nghĩa là Khoẻ Mạnh. Vậy mà, cứ mỗi khi được nhắc tên, mọi người lại cười phá vì cái tên của hắn",
-      "info": "<size=36>Hắn có thể huỷ diệt hàng phòng thủ của bạn\n\n<color=black>Sát Thương: </color><color=#4B0082>200</color>\n<color=black>Máu: </color><color=#4B0082>24000+24000 (Giáp cấp 1)</color>\n<color=black>Đặc Điểm:  </color><color=#4B0082>\n<color=black>•</color> Xuất hiện trong Luyện Ngục khi bạn chọn Debuff của nó.\n<color=black>•</color> Miễn nhiễm với thôi miên, nuốt chửng và đẩy lùi.\n<color=black>•</color> Chỉ nhận tối đa 5000 sát thương cho các đòn hành quyết.\n<color=black>•</color> Khi xuất hiện, các cây không thể hồi phục.\n<color=black>•</color> Khi một cây không phải thuộc dạng Bí Ngô hay Óc Chó, lập tức hành quyết và triệu hồi thêm 1 Zombie Hắc Khổng Hạch Bầu Dục cho mỗi lần như vậy\n<color=black>•</color> Mỗi 3s, nó sẽ nhận được gấp đôi sát thương (Tối đa là 8000), tăng 0,3 tốc chạy(tối đa 3) và hồi 6000 giáp.</color>"
+      "info": "<size=36>Hắn có thể huỷ diệt hàng phòng thủ của bạn\n\n<color=black>Sát Thương: </color><color=#4B0082>200</color>\n<color=black>Máu: </color><color=#4B0082>24000+24000 (Giáp cấp 1)</color>\n<color=black>Đặc Điểm:  </color><color=#4B0082>\n<color=black>•</color> Xuất hiện trong Luyện Ngục khi bạn chọn Debuff của nó.\n<color=black>•</color> Miễn nhiễm với thôi miên, nuốt chửng và đẩy lùi.\n<color=black>•</color> Chỉ nhận tối đa 5000 sát thương cho các đòn hành quyết.\n<color=black>•</color> Khi xuất hiện, các cây không thể hồi phục, lượng máu được hồi sẽ chuyển thành 10% sát thương chuẩn cho An Bá Tử Khang.\n<color=black>•</color> Khi một cây không phải thuộc dạng Bí Ngô hay Óc Chó, lập tức hành quyết và triệu hồi thêm 1 Zombie Hắc Khổng Hạch Bầu Dục cho mỗi lần như vậy\n<color=black>•</color> Mỗi 3s, nó sẽ nhận được gấp đôi sát thương (Tối đa là 1 triệu), tăng 0,3 tốc chạy(tối đa 3) và hồi 6000 giáp.</color>"
     },
     {
       "theZombieType": 221,
@@ -617,25 +629,270 @@
             "theZombieType": 227,
             "name": "Zombie Óc Chó Tuyết Trảo (227)",
             "introduce": "<size=36><color=black>Mạnh mẽ và bền bĩ. Hàn Diệt Linh cuối cùng cũng đã có thể biến đổi Zombie với cơn bão tuyết mê hoặc của mình. Là đồng minh đắc lực của cây, tuy nhiên lâu lâu Crazy Dave tự hỏi rằng, liệu cậu ta ăn não của Dave hay ăn cây khi đói?</color>",
-            "info": "<size=36>Triệu hồi bởi Hàn Diệt Linh và Cửu U Tiên Chương!\n\n<color=black>Sát Thương:</color><color=#4B0082> 500</color>\n<color=black>Máu: </color><color=#4B0082>720+2200 (Giáp cấp 1)</color>\n<color=black>Đặc Điểm:</color><color=#4B0082> \n<color=black>•</color> Được tạo ra khi Hàn Diệt Linh và Cửu U Tiên Chương thôi miên Zombie. \n<color=black>•</color> Nếu buff Lâm Phong Thứ Cốt được kích hoạt, sát thương gây ra x3.</color></color></size>"
+            "info": "<size=36>Triệu hồi bởi Hàn Diệt Linh và Cửu U Tiên Chương!\n\n<color=black>Sát Thương:</color><color=#4B0082> 500</color>\n<color=black>Máu: </color><color=#4B0082>720+1100 (Giáp cấp 1)</color>\n<color=black>Đặc Điểm:</color><color=#4B0082> \n<color=black>•</color> Được tạo ra khi Hàn Diệt Linh và Cửu U Tiên Chương thôi miên Zombie. \n<color=black>•</color> Nếu buff Lâm Phong Thứ Cốt được kích hoạt, sát thương gây ra x3.</color></color></size>"
         }, 
         {
             "theZombieType": 228,
             "name": "Bà Chúa Tuyết (228)",
-            "introduce": "<size=36><color=black>Nàng được sinh ra giữa vùng tuyết trắng vô tận, nơi chỉ còn tiếng gió là bạn đồng hành. Với đôi mắt băng giá và trái tim lạnh lùng, nàng giam mình trong lâu đài băng tuyết, che giấu sức mạnh mà chính nàng cũng từng sợ hãi. Dẫu đã mất đi hình hài con người, ý chí nàng vẫn thầm hát lên khúc ca bất diệt giữa đại ngàn trắng xoá – bản ca của một Nữ Hoàng chưa từng rơi lệ.</color>",
-            "info": "<size=36>Nữ Hoàng băng giá thống trị Bãi Tuyết lạnh lẽo.\n\n<color=black>Sát Thương:</color><color=#4B0082> 1000</color>\n<color=black>Máu:</color><color=#4B0082> 64000</color>\n<color=black>Kĩ Năng:</color><color=#4B0082>\n<color=black>•</color> Miễn nhiễm với hiệu ứng đóng băng, làm chậm, bơ, đẩy lùi, thôi miên. Chỉ nhận 5000 sát thương từ hành quyết.\n<color=black>•</color> Khi xuất hiện sẽ tung một cú Băng Trảm diện rộng, gây sát thương toàn bộ cây phía trước (có thể bị chặn bởi Bí Ngô). Sau đó tạo ra 5 quả cầu tuyết xung quanh gây sát thương trong phạm vi 3x3.\n<color=black>•</color> Cứ mỗi 3 giây sẽ tiếp tục Băng Trảm hoặc bắn 4 thanh kiếm băng. Khi càng cận kề cái chết, xác suất tung Trảm Kích càng cao.\n<color=black>•</color> Đòn đánh sẽ luôn khiến cây bị đóng băng trong 5 giây.\n<color=black>•</color> Khi ở Bãi Tuyết, còn có thể triệu hồi Bão Tuyết đóng băng toàn sân.</color></color></size>"
+            "introduce": "<size=36><color=black>Nàng được sinh ra giữa vùng tuyết trắng vô tận, nơi chỉ còn tiếng gió là bạn đồng hành. Với đôi mắt băng giá và trái tim lạnh lùng, nàng giam mình trong lâu đài băng tuyết, che giấu sức mạnh mà chính nàng cũng từng sợ hãi. Dẫu đã mất đi hình hài con người, ý chí nàng vẫn thầm hát lên khúc ca bất diệt giữa đại ngàn trắng xoá – bản ca của một Nữ Hoàng chưa từng rơi lệ.<page><color=black>Dạng Boss (Ở Phiêu Lưu Mới/Minigame)</color>\n<color=black>Sát Thương:</color><color=#4B0082> 100</color><color=#4B0082>\n<color=black>Máu:</color><color=#4B0082> 60000<color=black>(Phiêu Lưu)</color>/90000<color=black>(Miniboss)</color></color>\n<color=black>Kĩ Năng:</color><color=#4B0082>\n<color=black>•</color> Miễn nhiễm với hiệu ứng đóng băng, làm chậm, bơ, đẩy lùi, thôi miên. Chỉ nhận 5000 sát thương từ hành quyết.\n<color=black>•</color> Khi xuất hiện sẽ tung một cú Băng Trảm diện rộng, gây sát thương toàn bộ cây phía trước (có thể bị chặn bởi Bí Ngô). Sau đó tạo ra 5 quả cầu tuyết xung quanh gây sát thương trong phạm vi 3x3.\n<color=black>•</color> Cứ mỗi 3 giây sẽ tiếp tục Băng Trảm hoặc bắn 4 thanh kiếm băng. Khi càng cận kề cái chết, xác suất tung Trảm Kích càng cao.\n<color=black>•</color> Có thể triệu hồi Bão Tuyết đóng băng toàn sân.\n<color=black>•</color> Đòn đánh sẽ luôn khiến cây bị đóng băng trong 5 giây.</color></color>",
+            "info": "<size=36>Nữ Hoàng băng giá thống trị Bãi Tuyết lạnh lẽo.\n\n<color=black>Sát Thương:</color><color=#4B0082> 1000</color>\n<color=black>Máu:</color><color=#4B0082> 64000</color>\n<color=black>Kĩ Năng:</color><color=#4B0082>\n<color=black>•</color> Miễn nhiễm với hiệu ứng đóng băng, làm chậm, bơ, đẩy lùi, thôi miên. Chỉ nhận 5000 sát thương từ hành quyết.\n<color=black>•</color> Khi xuất hiện sẽ tung một cú Băng Trảm diện rộng, gây sát thương toàn bộ cây phía trước (có thể bị chặn bởi Bí Ngô). Sau đó tạo ra 5 quả cầu tuyết xung quanh gây sát thương trong phạm vi 3x3.\n<color=black>•</color> Cứ mỗi 3 giây sẽ tiếp tục Băng Trảm hoặc bắn 4 thanh kiếm băng. Khi càng cận kề cái chết, xác suất tung Trảm Kích càng cao.\n<color=black>•</color> Đòn đánh sẽ luôn khiến cây bị đóng băng trong 5 giây.\n<color=black>•</color> Khi ở Bãi Tuyết, còn có thể triệu hồi Bão Tuyết đóng băng toàn sân.</color></color></color></size>"
         },
+        {
+            "theZombieType": 300,
+            "name": "Liên Báo Anh Đào (300)",
+            "introduce": "<size=36><color=black>Luôn có những thứ còn quan trong hơn cái trò chơi này, từ những thành phố đông đúc cho tới bầu trời đêm đầy sao. Nhưng trước hết phải giải quyết cho xong cái trò Sudoku này đã.</color>",
+            "info": "<size=36>Mở đầu cho cơn ác mộng không hồi kết.\n\n<color=black>Cấp Độ:</color><color=#4B0082> 1</color>\n<color=black>Sát thương:</color><color=#4B0082> 400</color>\n<color=black>Sát Thương Đạn:</color><color=#4B0082> 1000</color>\n<color=black>Máu: </color><color=#4B0082>1500+1500 (Giáp cấp 2)</color>\n<color=black>Khả Năng: </color><color=#4B0082>Sau khi tờ báo mất, nó tạm thời bất tử, rồi bắn ra 4 đạn siêu anh đào mỗi 0.5 giây.\n<color=black>Điểm Yếu:</color><color=#4B0082> Dù Ruby</color></color></color></size>"
+        },
+        {
+            "theZombieType": 301,
+            "name": "Bão Tố Anh Pháo (301)",
+            "introduce": "<size=36><color=black>Bão Tố Anh Pháo là 1 giáo sư nổi tiếng tại Học Viện Zombie Quốc Tế. Nếu mà Giáo Sư Z mà không gửi lời mời tới đây thì ông ta sẽ chả thèm tham gia đâu. “Giáo Sư Z cũng đúng đấy!” - Bão Tố Anh Pháo nói. “Cả ba thứ ta thích nhất, bánh anh đào, phát nổ và cả trò Zuma. Tất cả đều ở đây!”</color>",
+            "info": "<size=36>Liên tục khai hoả vào mục tiêu.\n\n<color=black>Cấp Độ:</color><color=#4B0082> 2</color>\n<color=black>Sát thương:</color><color=#4B0082> 400</color>\n<color=black>Sát Thương Đạn:</color><color=#4B0082> 1000</color>\n<color=black>Máu: </color><color=#4B0082>3000+3000 (Giáp cấp 2)</color>\n<color=black>Khả Năng: </color><color=#4B0082>\n<color=black>•</color> Khi ra sân, bắn 4 đạn siêu anh đào mỗi 1.5 giây. \n<color=black>•</color> Sau khi tờ báo mất, nó tạm thời bất tử, rồi bắn ra 4 đạn siêu anh đào mỗi 0.5 giây.\n<color=black>Điểm Yếu:</color><color=#4B0082> Dù Ruby</color></color></color></size>"
+        },
+        {
+            "theZombieType": 302,
+            "name": "Bão Tố Pháo Kích (302)",
+            "introduce": "<size=36><color=black>Nhằm cải tiến khả năng bắn phá anh đào, Bão Tố Pháo Kích đã sẳn sàng đi du học để có thể cải tiến. Nhìn vào nguyên 1 cái giỏ chứa đầy bánh anh đào ưa thích của mình có thể thấy cậu ta háo hức tới cỡ nào.</color>",
+            "info": "<size=36>Cơn thịnh nộ của giáo sư.\n\n<color=black>Cấp Độ:</color><color=#4B0082> 3</color>\n<color=black>Sát thương:</color><color=#4B0082> 400</color>\n<color=black>Sát Thương Đạn:</color><color=#4B0082> 1000</color>\n<color=black>Máu: </color><color=#4B0082>6000+6000 (Giáp cấp 2)</color>\n<color=black>Khả Năng: </color><color=#4B0082>\n<color=black>•</color> Khi ra sân, bắn 4 đạn siêu anh đào mỗi 1.5 giây. \n<color=black>•</color> Sau khi tờ báo mất, nó tạm thời bất tử và lấy khẩu pháo ở sau lưng, rồi bắn ra 5 đạn siêu anh đào mỗi 0.5 giây.\n<color=black>Điểm Yếu:</color><color=#4B0082> Dù Ruby</color></color></color></size>"
+        },
+        {
+            "theZombieType": 303,
+            "name": "Zombie Hắc Bầu Dục (303)",
+            "introduce": "<size=36><color=black>Có lẽ là vì mệt mỏi khi bị chú ý đến, cậu ta đã cạo sạch sơn đỏ trên bộ đồ và mang trong mình một bộ bầu dục màu đen. Tuy nhiên nó lại mang theo 1 rắc rối, mỗi khi cậu ta tới ngân hàng thì các bảo vệ khác lại thủ sẳn dùi cui.</color>",
+            "info": "<size=36>Người chơi bầu dục nhưng với giáp đen.\n\n<color=black>Cấp Độ:</color><color=#4B0082> 1</color>\n<color=black>Máu: </color><color=#4B0082>6000+6000 (Giáp cấp 1)</color></color></size>"
+        },
+        {
+            "theZombieType": 304,
+            "name": "Hắc Khổng Hạch Bầu Dục (304)",
+            "introduce": "<size=36><color=black>Đến từ một nơi vô cùng tăm tối và hỗn loạn mà đã nhào nặn nên tính cách trong người của cậu ấy. Không một ai biết quá khứ của cậu ta, và không một ai dám ho he về điều đó. Và chính cậu ta cũng không rõ quá khứ của mình, vì đối với cậu ta thì nó cũng chỉ là giấc mơ mà luôn tan biến thì bình minh ló dạng.</color>",
+            "info": "<size=36>Xông vào mục tiêu với không chút sợ hãi.\n\n<color=black>Cấp Độ:</color><color=#4B0082> 2</color>\n<color=black>Sát thương:</color><color=#4B0082> 100</color>\n<color=black>Máu: </color><color=#4B0082>12000+12000 (Giáp cấp 1)</color>\n<color=black>Khả Năng: </color><color=#4B0082>Mỗi 3 giây sẽ hồi 5% giáp và máu.</color></color></size>"
+        },
+        {
+            "theZombieType": 305,
+            "name": "Hắc Khổng Hạch Xung Kích (305)",
+            "introduce": "<size=36><color=black>Là cánh tay phải đắc lực của An Bá Tử Khang và là chỉ huy của cả sư đoàn Zombie. Trung tướng Hắc Khổng Hạch luôn được cấp trên tin tưởng giao phó và cấp dưới ngượng mộ vì sự trung thành và tận tuỵ của cậu ta. Chỉ có 1 điều khiến cậu ta thắc mắc: Tại sao lại tặng huy chương hay vì não?</color>",
+            "info": "<size=36>Chỉ huy của mọi Zombie Hắc Bầu Dục.\n\n<color=black>Cấp Độ:</color><color=#4B0082> 3</color>\n<color=black>Sát thương:</color><color=#4B0082> 200</color>\n<color=black>Máu: </color><color=#4B0082>24000+24000 (Giáp cấp 1)</color>\n<color=black>Khả Năng: </color><color=#4B0082>\n<color=black>•</color> Miễn nhiễm với hiệu ứng bơ, làm chậm, đóng băng và đẩy lùi.\n<color=black>•</color> Mỗi 3 giây sẽ hồi 5% giáp và máu.\n<color=black>•</color> Cây bị cắn sẽ nhận gấp 3 lần sát thương và không thề hồi máu trong 1 giây.</color></color></size>"
+        },
+        {
+            "theZombieType": 306,
+            "name": "Hắc Thiết Bầu Dục Xung Kích (306)",
+            "introduce": "<size=36><color=black>Phó chỉ huy Hắc Thiết là 1 chiến binh bất khả chiến bại, cùng với lòng danh dự và sự đáng gờm trên chiến trường. Không chỉ trên chiến trường, các cấp dưới cũng vô cùng yêu mến cậu ta. Và cậu ta có 1 sở thích kì lạ, đó là cất những viên đạn sắt bên trong lá cờ.</color>",
+            "info": "<size=36>Sẳn sàng tiên phong trong mỗi cuộc giao đấu.\n\n<color=black>Cấp Độ:</color><color=#4B0082> 3</color>\n<color=black>Sát thương:</color><color=#4B0082> 80/0.1 giây</color>\n<color=black>Máu: </color><color=#4B0082>24000+24000 (Giáp cấp 1)</color>\n<color=black>Khả Năng: </color><color=#4B0082>\n<color=black>•</color> Miễn nhiễm với hiệu ứng bơ, làm chậm, đóng băng và đẩy lùi.\n<color=black>•</color> Bắn đạn sắt mỗi 0.1 giây.</color></color></size>"
+        },
+        {
+            "theZombieType": 307,
+            "name": "Zombie MJ Trắng (307)",
+            "introduce": "<size=36><color=black>Là 1 siêu sao trong giới showbiz Zombie, Micheal Jackson trắng luôn xuất hiện với sự hâm mộ cuồng nhiệt của khán giả. Cậu ta đang học cách đi đặc biệt để vừa biểu diễn cho các sự kiến quốc tế sắp tới vừa né fan cuồng nhiệt của mình.</color>",
+            "info": "<size=36>Moonwalk vào sân và triệu hồi Zombie!\n\n<color=black>Cấp Độ:</color><color=#4B0082> 1</color>\n<color=black>Máu: </color><color=#4B0082>3000</color>\n<color=black>Khả Năng: </color><color=#4B0082>Đi thẳng vào sân sau khi xuất hiện 3 giây, sau đó triệu hồi 4 zombie Vũ Công Nhảy Xà.</color></size>"
+        },
+        {
+            "theZombieType": 308,
+            "name": "MJ Trắng Chuyên Nghiệp (308)",
+            "introduce": "<size=36><color=black>Giờ đây là 1 siêu sao đích thực, danh tiếng, kỹ năng, tất cả đang trong giai đoạn đỉnh cao! Cậu ta là ngôi sao sáng nhất dưới anh đèn sân khấu. Giờ đây những gì cậu ta cần là 1 sân khấu thật hoàng tráng để mà có thể trình diễn những gì tinh tuý nhất cho tất cả fan hâm mộ cuồng nhiệt.</color>",
+            "info": "<size=36>Lướt vào sân và triệu hồi Zombie!\n\n<color=black>Cấp Độ:</color><color=#4B0082> 2</color>\n<color=black>Máu: </color><color=#4B0082>6000</color>\n<color=black>Khả Năng: </color><color=#4B0082>Lướt thẳng vào sân tới ô thứ 4 hoặc bị chặn lại bởi cây, sau đó triệu hồi 4 zombie Nhảy Sào Trắng.</color></size>"
+        },
+        {
+            "theZombieType": 309,
+            "name": "MJ Trắng Quốc Tế (309)",
+            "introduce": "<size=36><color=black>Những bước nhảy vô cùng sành điệu, những động tác vô cùng ma quái, từ chính Học Viện Nghệ Thuật Edgar, một học viện hạng hai, giờ đây không còn có thể thoả mãn tài năng thiên phú của cậu ta nữa. Và giờ Vua Khiêu Vũ Micheal Jackson từ Học Viện Âm Nhạc Jackson sẽ sớm tới đây quay video âm nhạc để thông báo cho sự thay đổi của mình. Đừng quên quay cú chào 45 độ huyền thoại đấy, nếu mà hạ được vệ sĩ của ông ta.</color>",
+            "info": "<size=36>Mọi sự chú ý dồn vào hắn ta!\n\n<color=black>Cấp Độ:</color><color=#4B0082> 3</color>\n<color=black>Máu: </color><color=#4B0082>12000</color>\n<color=black>Khả Năng: </color><color=#4B0082>\n<color=black>•</color> Lướt thẳng vào sân tới ô thứ 4 và sẽ lướt liên tục không ngừng cho tới khi tới vị trí trong 3 giây. Có thể lướt xuyên cây.\n<color=black>•</color> Sau khi tới vị trí, triệu hồi 8 zombie Nhảy Sào Trắng.\n<color=black>Điểm Yếu:</color><color=#4B0082> Dù Ngô</color></color></size>"
+        },
+        {
+            "theZombieType": 310,
+             "name": "<size=28>Đại Thiết Tiềm Hải Độn (310)",
+             "introduce": "<size=36><color=black>Một bản sao từ công ty đối thủ của Gfish Corps vừa được tung ra thị trường, được cho là có hiệu suất ngang bản chính. Nhưng bên Gfish Corps cho rằng đó là bản lỗi bị đánh cắp.</color>",
+             "info": "<size=36>Tuyệt tác công nghệ từ Gfish Corps, có vô số biến thể.\n\n<color=black>Cấp Độ:</color><color=#4B0082> 1</color>\n<color=black>Máu: </color><color=#4B0082>3000</color>\n<color=black>Khả Năng: </color><color=#4B0082>Lao tới với tốc độ cực nhanh, gây 500 sát thương cho thực vật miễn nhiễm với nghiền nát</color></size>"
+         },
+         {
+            "theZombieType": 311,
+             "name": "<size=28>Đại Thiết Tiềm Công Phá (311)",
+             "introduce": "<size=36><color=black>Vũ khi hoàn hảo này bị đánh giá quá cao. Tuy một loạt hoả lực phóng lên từ dưới biển thực sự mạnh mẽ và có thể giúp Zombie dành chiền thắng. Nhưng mà nó thực chất được hoán cải từ 1 tàu rải mìn.</color>",
+             "info": "<size=36>Mạnh hơn cùng với pháo được lắp sau lưng.\n\n<color=black>Cấp Độ:</color><color=#4B0082> 2</color>\n<color=black>Máu: </color><color=#4B0082>6000</color>\n<color=black>Khả Năng: </color><color=#4B0082>\n<color=black>•</color> Tốc độ nhanh gấp 1/2 so với Đại Thiết Tiềm Hải Độn.\n<color=black>•</color> Bắn 2 quả lựu pháo mỗi 1.5 giây về 2 ô phía trước khi có cây, giải phóng vụ nổ hề ở phạm vi 3x3 ô khi trúng mục tiêu.\n<color=black>Đạn Pháo Hề: </color><color=#4B0082>\n<color=black>Máu: </color>1000\n<color=black>•</color> Có thể bị bắn hạ bởi các cây phòng không.</color></size>"
+         },
+         {
+            "theZombieType": 312,
+             "name": "<size=28>Đại Thiết Tiềm Cơ Giới (312)",
+             "introduce": "<size=36><color=black>Tuy mục đích của nó là tiên phong trong trận chiến và lao vào gây rối loạn đội hình của kẻ thù. Nhiều nhà quân sự nói rằng việc hi sinh áo giáp cho khả năng cơ động là 1 điều vô cùng nguy hiểm, tuy nhiên tiến sĩ Edgar đã bỏ ngoài tai về việc này và nói rằng “Xông lên, cứ tiếp tục xông lên!”</color>",
+             "info": "<size=36>Lắp động cơ đằng sau và phóng với tốc độ cực nhanh.\n\n<color=black>Cấp Độ:</color><color=#4B0082> 2</color>\n<color=black>Máu: </color><color=#4B0082>6000</color>\n<color=black>Khả Năng: </color><color=#4B0082>Tốc độ nhanh gấp 2 lần so với Đại Thiết Tiềm Hải Độn.</color></size>"
+         },
+         {
+            "theZombieType": 313,
+             "name": "<size=28>Đại Thiết Tiềm Pháo Binh (313)",
+             "introduce": "<size=36><color=black>Đây là vũ khí tối thượng, là sự hợp tác giữa tiến sĩ Edgar Zomboss và tập đoàn công nghệ Gfish Corps. Từ hồi được ra mắt, bầu trời thậm chí còn sấm nổ liên tục để chúc mừng. Từ hồi khắc phục vấn đề nước chui vào ổng phóng thì không còn khuyết điểm nào nữa. “Đúng vậy, ngoài trừ cái cây rong biển đó thì nó không còn bất kì điểm yếu nào.” - Tiến sĩ Edgar khi trả lời phỏng vấn.</color>",
+             "info": "<size=36>Tìm và diệt mục tiêu.\n\n<color=black>Cấp Độ:</color><color=#4B0082> 3</color>\n<color=black>Máu: </color><color=#4B0082>12000</color>\n<color=black>Khả Năng: </color><color=#4B0082>\n<color=black>•</color> Sẽ luôn ở trong trạng thái lặn.\n<color=black>•</color> Khi có cây đằng trước, nó sẽ ngưng lại và trồi lên, sau đó liên tục bắn 2 quả đạn pháo vào mục tiêu mỗi 1.5 giây. Tầm bắn là cả 1 hàng và sẽ luôn gây sát thương vật lý hay vì vụ nổ hề.\n<color=black>Đạn Pháo: </color><color=#4B0082>\n<color=black>Máu: </color>1000\n<color=black>•</color> Có thể bị bắn hạ bởi các cây phòng không.</color></color></size>"
+         },
+         {
+            "theZombieType": 314,
+             "name": "<size=28>Đại Thiết Tiềm Cuồng Phong (314)",
+             "introduce": "<size=36><color=black>Là đơn vị tiên tiến nhất bởi tiến sĩ Edgar, con tàu này sẽ biểu trưng của công nghệ tối thượng nhất của cả quân đoàn. Do tốc độ cực nhanh của con tàu này, người lái nó phải trải qua quá trình huấn luyện vô cùng nghiêm ngặt. “Này giống như có nguyên 10 con Zombie cơ khí đè lên người vậy” - lời của 1 kíp lái con tàu này.</color>",
+             "info": "<size=36>Như 1 con hải cẩu có sừng khi thấy đồ ăn.\n\n<color=black>Cấp Độ:</color><color=#4B0082> 3</color>\n<color=black>Máu: </color><color=#4B0082>12000</color>\n<color=black>Khả Năng: </color><color=#4B0082>\n<color=black>•</color> Di chuyển ở tốc độ cực kì nhanh.\n<color=black>•</color> Tăng 2 tốc độ cho Zombie quanh nó 3x3 ô, tối đa là 4.</color></size>"
+         },
+         {
+            "theZombieType": 315,
+            "name": "Zombie Bầu Dục Phi Thương (315)",
+            "introduce": "<size=36><color=black>Mặc 1 bộ áo chống thấm, mang theo 1 cây đinh ba sắc nhọn và đeo 1 đôi giày lặn tượng trưng cho sự may mắn. Và đó là cách bắt đầu 1 ngày câu cá mới. À và nhớ thủ sẳn nón bảo hiểm để khỏi bị đâm bởi những người không bắt được cá.</color>",
+            "info": "<size=36>Ném một số lượng lớn đinh ba vào cây cuối cùng của bạn.\n\n<color=black>Cấp Độ:</color><color=#4B0082> 1</color>\n<color=black>Máu: </color><color=#4B0082>3000+3000 (Giáp cấp 1)</color>\n<color=black>Khả Năng: </color><color=#4B0082>\n<color=black>•</color> Sau khi ra sân 6-9 giây hoặc bị chặn bởi cây, nó sẽ ném 4 cây đinh ba vào cây đầu tiên trên hàng từ trái sang. \n<color=black>•</color> Đinh ba sẽ gây sát thương bằng 20% ​​máu hiện tại của cây. Sát thương tối thiểu là 60.\n<color=black>•</color> Đinh ba có thể bị bắn hạ bởi Sao Tối Thượng.\n<color=black>Điểm Yếu:</color><color=#4B0082> Sao Tối Thượng</color></color></color></size>"
+         },
+         {
+            "theZombieType": 316,
+            "name": "Khổng Hạch Phi Thương (316)",
+            "introduce": "<size=36><color=black>Mang theo 1 chai nước nhỏ mắt, chuẩn bị 1 bộ đinh ba, đội thêm mũ óc chó cao và dày. Và thế là cách để bắt đầu 1 ngày câu cá. À và cách để bắt được cá là đâm sau lưng mấy thằng bắt được cá.</color>",
+            "info": "<size=36>Ném một số lượng lớn đinh ba vào bất kì cây nào của bạn.\n\n<color=black>Cấp Độ:</color><color=#4B0082> 2</color>\n<color=black>Máu: </color><color=#4B0082>6000+6000 (Giáp cấp 1)</color>\n<color=black>Khả Năng: </color><color=#4B0082>\n<color=black>•</color> Sau khi ra sân 6-9 giây hoặc bị chặn bởi cây, nó sẽ ném 8 cây đinh ba vào bất kì cây nào trong tầm bắn của nó. \n<color=black>•</color> Tầm bắn tối thiểu là 4 ô và đinh ba sẽ gây sát thương bằng 20% ​​máu hiện tại của cây. Sát thương tối thiểu là 100.\n<color=black>•</color> Đinh ba có thể bị bắn hạ bởi Sao Tối Thượng.\n<color=black>Điểm Yếu:</color><color=#4B0082> Sao Tối Thượng</color></color></color></size>"
+         },
+         {
+            "theZombieType": 317,
+            "name": "Khổng Hạch Thiên Kích (317)",
+            "introduce": "<size=36><color=black>Khổng Hạch Thiên Kích đáng lẽ phải là 1 tài xế xe cẩu chuyên nghiệp, cứ nhìn vào số lượng lớn đinh ba mang sau lưng là thấy. Tuy nhiên do không vượt qua được bài kiểm tra về kích cỡ cái đầu và mỗi khi nghiêng đầu là xe bị lật. Nên giờ cậu ta chỉ có thể làm bộ binh.</color>",
+            "info": "<size=36>Ném một số lượng lớn đinh ba và phân tán chúng.\n\n<color=black>Cấp Độ:</color><color=#4B0082> 3</color>\n<color=black>Máu: </color><color=#4B0082>12000+12000 (Giáp cấp 1)</color>\n<color=black>Khả Năng: </color><color=#4B0082>\n<color=black>•</color> Sau khi ra sân 6-9 giây hoặc bị chặn bởi cây, nó sẽ ném 12 cây đinh ba vào bất kì cây nào trong tầm bắn của nó. Đinh ba sẽ phân tán ra thêm 1 đinh ba cho mỗi cây trong tầm bắn của nó, không giới hạn số lượng đinh ba phân tán. \n<color=black>•</color> Tầm bắn tối thiểu là 4 ô và đinh ba sẽ gây sát thương bằng 20% ​​máu hiện tại của cây. Sát thương tối thiểu là 300.\n<color=black>•</color> Đinh ba có thể bị bắn hạ bởi Sao Tối Thượng.\n<color=black>Điểm Yếu:</color><color=#4B0082> Sao Tối Thượng</color></color></color></size>"
+         },
+         {
+            "theZombieType": 318,
+            "name": "Zombie Thợ Mỏ Netherite (318)",
+            "introduce": "<size=36><color=black>Với cuốc Netherite, mũ Netherite. Zombie thợ mỏ đã bắt đầu kinh doanh khai thác than với hy vọng sẽ bán được giá cao cho Hồng Liên Nữ Vương. Nhưng xem ra chuỗi công nghiệp bên Piglin Corps làm tốt hơn nhiều.</color>",
+            "info": "<size=36>Sức mạnh của Netherite.\n\n<color=black>Cấp Độ:</color><color=#4B0082> 1</color>\n<color=black>Máu: </color><color=#4B0082>3000+3000 (Giáp cấp 1)</color>\n<color=black>Khả Năng: </color><color=#4B0082>\n<color=black>•</color> Cấp độ đào là vô tận và sẽ luôn đào cây nhanh gấp 5 lần so với các Zombie thợ mỏ khác \n<color=black>•</color> Tốc độ đào: 2000, Cấp độ: Vô Tận</color></color></size>"
+         },
+         {
+            "theZombieType": 319,
+            "name": "Zombie Thợ Khoan Netherite (319)",
+            "introduce": "<size=36><color=black>Zombie Thợ Khoan Netherite đã chiến thắng một cuộc thi đào quặng dạo gần đây và cậu ta tự hào về trang bị của mình - một mũi khoan netherite được chạy bằng magma. Tuy nhiên có 1 điều cậu ta không tiết lộ, mũ của cậu ta cũng làm bằng netherite.</color>",
+            "info": "<size=36>Có khả năng đào đất để tránh né cây.\n\n<color=black>Cấp Độ:</color><color=#4B0082> 2</color>\n<color=black>Máu: </color><color=#4B0082>6000+6000 (Giáp cấp 1)</color>\n<color=black>Khả Năng: </color><color=#4B0082>\n<color=black>•</color> Khi vào sân, nó sẽ ở dưới lồng đất và sẽ trồi lên ngẫu nhiên từ ô 2 đến ô 8 trên hàng.\n<color=black>•</color> Có thể bị chặn lại bởi Bí Thợ Mỏ.\n<color=black>•</color> Cấp độ đào là vô tận và sẽ luôn đào cây nhanh gấp 5 lần so với các Zombie thợ mỏ khác \n<color=black>•</color> Tốc độ đào: 4000, Cấp độ: Vô Tận</color></color></size>"
+         },
+         {
+            "theZombieType": 320,
+            "name": "Zombie Công Nhân Netherite (320)",
+            "introduce": "<size=36><color=black>Cậu ta là đội trưởng đội khai thác, mỗi lần đào quặng là luôn có người đi theo. Nhưng thật ra tiến sĩ Edgar đã nói điều này: “Thật ra là tại cái mũ bảo hiểm che khuất tầm nhìn của thằng đó nên mới hay đào trùng mộ nhà người ta, thế là mấy con Zombie kia cứ bám theo thôi.”</color>",
+            "info": "<size=36>Khả năng làm đa nhiêm vụ kiêm chuyên chở Zombie khác.\n\n<color=black>Cấp Độ:</color><color=#4B0082> 3</color>\n<color=black>Máu: </color><color=#4B0082>12000+12000 (Giáp cấp 1)</color>\n<color=black>Khả Năng: </color><color=#4B0082>\n<color=black>•</color> Khi vào sân, nó sẽ ở dưới lồng đất và sẽ trồi lên ngẫu nhiên từ ô 2 đến ô 8 trên hàng.\n<color=black>•</color> Khi mới xuất hiện thì còn có thể mang theo Zombie khác trên sân trong khi di chuyển dưới lòng đất trong phạm vi 1 ô, không giới hạn số Zombie mang theo và chỉ có thể mang theo 1 lần duy nhất.\n<color=black>•</color> Có thể bị chặn lại bởi Bí Thợ Mỏ.\n<color=black>•</color> Cấp độ đào là vô tận và sẽ luôn đào cây nhanh gấp 5 lần so với các Zombie thợ mỏ khác \n<color=black>•</color> Tốc độ đào: 8000, Cấp độ: Vô Tận</color></color></size>"
+         },
+         {
+            "theZombieType": 321,
+            "name": "Hắc Chiến Xa (321)",
+            "introduce": "<size=36><color=black>Tiến lên, xung phong, nghiền nát mọi thứ trước mặt! Hắc Chiến Xa là bất khả chiến bai cho tới khi gặp nguyên 1 con sông lớn giữa bãi cỏ.</color>",
+            "info": "<size=36>Bền bỉ và có lượng giáp cực dày.\n\n<color=black>Cấp Độ:</color><color=#4B0082> 1</color>\n<color=black>Máu: </color><color=#4B0082>6000</color>\n<color=black>Khả Năng: </color><color=#4B0082>\n<color=black>•</color> Giảm 50% sát thương nhận vào, không thể bị tiêu diệt ngay lập tức bởi Ớt.\n<color=black>•</color> Khi bị tiêu diệt sẽ luôn triệu hồi Micheal Jackson.</color></color></size>"
+         },
+         {
+            "theZombieType": 322,
+            "name": "Hắc Chiến Xa Bọc Giáp (322)",
+            "introduce": "<size=36><color=black>“Chúng ta phải cần bọc thêm nhiều giáp nữa.” - Zombie khiêu vũ không thể nào rời xa chiến xa của mình. Chỉ là nếu bọc thêm 1 lớp là không có chỗ ngồi luôn.</color>",
+            "info": "<size=36>Cứng hơn và bền hơn và cũng bọc thêm 1 lớp giáp.\n\n<color=black>Cấp Độ:</color><color=#4B0082> 2</color>\n<color=black>Máu: </color><color=#4B0082>12000</color>\n<color=black>Khả Năng: </color><color=#4B0082>\n<color=black>•</color> Giảm 66% sát thương nhận vào, không thể bị tiêu diệt ngay lập tức bởi Ớt.\n<color=black>•</color> Khi bị tiêu diệt sẽ luôn triệu hồi Hắc Chiến Xa cấp 1.</color></color></size>"
+         },
+         {
+            "theZombieType": 323,
+            "name": "Hắc Chiến Xa Hạng Nặng (323)",
+            "introduce": "<size=36><color=black>Lớp giáp cực dày của Hắc Chiến Xa đã giúp nó có biệt danh là Thiết Giáp Hạm trên cạn. Gần đây Zombie khiêu vũ gợi ý rằng, tại sao không lắp khung gầm truyền động, tháp pháo và nguyên 1 khẩu pháo cỡ lớn. Đó là 1 ý tưởng không tồi!</color>",
+            "info": "<size=36>Thậm chí còn bền bỉ hơn khi bọc 2 lớp giáp.\n\n<color=black>Cấp Độ:</color><color=#4B0082> 3</color>\n<color=black>Máu: </color><color=#4B0082>24000</color>\n<color=black>Khả Năng: </color><color=#4B0082>\n<color=black>•</color> Giảm 75% sát thương nhận vào, không thể bị tiêu diệt ngay lập tức bởi Ớt.\n<color=black>•</color> Khi bị tiêu diệt sẽ luôn triệu hồi Hắc Chiến Xa Bọc Giáp cấp 2.</color></color></size>"
+         },
+         {
+            "theZombieType": 324,
+            "name": "Zombie Hề Bật Nhảy (324)",
+            "introduce": "<size=36><color=black>Đừng làm phiền cậu ta, cậu ta đang bị thất tình đấy. Đừng nói gì về vụ đó còn không thì cậu ta phát nổ mất.</color>",
+            "info": "<size=36>Nhảy xà với cần bật nhảy lắp bom, khó để gỡ đấy.\n\n<color=black>Cấp Độ:</color><color=#4B0082> 1</color>\n<color=black>Máu: </color><color=#4B0082>3000+3000 (Giáp cấp 1)</color>\n<color=black>Khả Năng: </color><color=#4B0082>\n<color=black>•</color> Có khả năng nhảy qua cây, và sẽ không mất thanh nhảy xà khi bị bật lùi bởi dù.\n<color=black>•</color> Nếu chết mà còn cầm thanh nhảy xà, gây ra vụ nổ hề ở phạm vi 3x3 ô.\n<color=black>Điểm Yếu:</color><color=#4B0082> Từ Quang Đào</color></color></color></size>"
+         },
+         {
+            "theZombieType": 325,
+            "name": "Vua Hề Bật Nhảy (325)",
+            "introduce": "<size=36><color=black>Cậu ta từng gặp khó khăn khi bán hộp hề, dưa hấu và ngay cả thanh nhảy xà, vì thế cậu ta đã đi hỏi ý kiến của Zombie ném cẩu. “Thế tại sao cậu không kết hợp giữa thanh nhảy xà, dưa hấu, và cả hộp hề?” Và thế là doanh thu như diều gặp gió.</color>",
+            "info": "<size=36>Có thể nhảy ra khỏi sào sau khi phát nổ.\n\n<color=black>Cấp Độ:</color><color=#4B0082> 2</color>\n<color=black>Máu: </color><color=#4B0082>6000+6000 (Giáp cấp 1)</color>\n<color=black>Khả Năng: </color><color=#4B0082>\n<color=black>•</color> Khi vào sân, nó sẽ nạp trong 5 giây để nhảy 4 ô, sau đó sẽ bật nhảy như thường. Nó sẽ không mất thanh nhảy xà khi bị bật lùi bởi dù.\n<color=black>•</color> Nếu chết mà còn cầm thanh nhảy xà, gây ra vụ nổ hề ở phạm vi 3x3 ô.\n<color=black>Điểm Yếu:</color><color=#4B0082> Từ Quang Đào</color></color></color></size>"
+         },
+         {
+            "theZombieType": 326,
+            "name": "Vua Hề Điên Loạn (326)",
+            "introduce": "<size=36><color=black>Sau khoảng thời gian vô cùng tăm tối, giờ đây cậu ta đã buông bỏ mối tình cũ. Còn giờ cậu ta đang châu chuốt để gặp người yêu mới của mình, và đó là... Nữ Hoàng Hề. Thực sự hy vọng cậu ta sẽ thành công.</color>",
+            "info": "<size=36>Nhảy và phát nổ điên cuồng.\n\n<color=black>Cấp Độ:</color><color=#4B0082> 3</color>\n<color=black>Máu: </color><color=#4B0082>12000+12000 (Giáp cấp 1)</color>\n<color=black>Khả Năng: </color><color=#4B0082>\n<color=black>•</color> Khi vào sân, nó sẽ nạp trong 0.75 giây để nhảy 4 ô, sau đó sẽ bật nhảy như thường. Nó sẽ không mất thanh nhảy xà khi bị bật lùi bởi dù.\n<color=black>•</color> Nếu chết mà còn cầm thanh nhảy xà, gây ra vụ nổ hề ở phạm vi 3x3 ô và tạo ra Zombie Chúa Hề.\n<color=black>•</color> Nếu Zombie Chúa Hề này dính hiệu ứng từ vụ nổ hề thì sẽ trở thành Vua Hề Điên Loạn.\n<color=black>Điểm Yếu:</color><color=#4B0082> Từ Quang Đào</color></color></color></size>"
+         },
+         {
+            "theZombieType": 327,
+            "name": "Khinh Hạm Kirov (327)",
+            "introduce": "<size=36><color=black>Phụ kiện khá là lạc quẻ, và đối với việc ném bom chiến thuật thì một chiệc khinh hạm nhẹ hơn sẽ hiệu quả hơn. Có lẽ Gfish Corps cũng nên nói với tiến sĩ Edgar 1 tiếng, tại nó đang bị trùng bản quyền.</color>",
+            "info": "<size=36>Vinh quang cho Liên bang Zombie!\n\n<color=black>Cấp Độ:</color><color=#4B0082> 1</color>\n<color=black>Sát Thương Bom: </color><color=#4B0082>500</color>\n<color=black>Máu: </color><color=#4B0082>3000</color>\n<color=black>Khả Năng: </color><color=#4B0082>Khi đi qua cây, mỗi 1.5 giây sẽ ném bom vào nó. Có thể bị bắn hạ sau 20 phát của Xương Rồng Nam Châm.\n<color=black>Điểm Yếu: </color><color=#4B0082>Xương Rồng Từ Tính, Sao Tối Thượng</color></color></size>"
+        },
+        {
+            "theZombieType": 328,
+            "name": "Chiến Hạm Kirov (328)",
+            "introduce": "<size=36><color=black>Chiếm Hạm Kirov là vũ khí chủ lực của tập đoàn Gfish Corps, được cho là sử dụng loại drone tiên tiến nhất. Tuy nhiên nếu nhìn kĩ vào mấy con drone thì nó ghi là dùng để chữa cháy khi hoả hoạn.</color>",
+            "info": "<size=36>Kirov Nghe Lệnh!\n\n<color=black>Cấp Độ:</color><color=#4B0082> 2</color>\n<color=black>Máu: </color><color=#4B0082>6000</color>\n<color=black>Khả Năng: </color><color=#4B0082>Liên tục tạo ra Tiểu Bom Khinh Khí Cầu với lượng máu bằng 10% máu của Kirov mỗi 2 giây. Có thể bị bắn hạ sau 30 phát của Xương Rồng Nam Châm.\n<color=black>Điểm Yếu: </color><color=#4B0082>Xương Rồng Từ Tính, Sao Tối Thượng</color></color></size>"
+        },
+        {
+            "theZombieType": 329,
+            "name": "Pháo Đài Kirov (329)",
+            "introduce": "<size=36><color=black>Oanh tạc diện rộng! Tìm và diệt! Yểm trợ hoả lực! Chiến tranh vô tính! Là sự sáng tạo của tập đoàn Gfish Corps. Được tạo ra như 1 tàu sân bay độc lập có khả năng triển khai các khinh hạm vào trợ chiến.</color>",
+            "info": "<size=36>Tiêu diệt mọi thứ ngáng đường!\n\n<color=black>Cấp Độ:</color><color=#4B0082> 3</color>\n<color=black>Sát Thương Bom: </color><color=#4B0082>300</color>\n<color=black>Máu: </color><color=#4B0082>12000</color>\n<color=black>Khả Năng: </color><color=#4B0082>\n<color=black>•</color> Liên tục tạo ra 2 Khinh Hạm Kirov có khả năng oanh tạc với tốc độ cao mỗi 4 giây.\n<color=black>•</color> Có thể bị bắn hạ sau 40 phát của Xương Rồng Nam Châm.\n<color=black>Điểm Yếu: </color><color=#4B0082>Xương Rồng Từ Tính, Sao Tối Thượng</color></color></size>"
+        },
+        {
+            "theZombieType": 330,
+            "name": "Cương Thi (330)",
+            "introduce": "<size=36><color=black>Cậu ta sinh ra trong 1 gia đình nghèo khó nhưng có sự giúp đợ từ 1 quý tộc. Sau này thì lên thành quan trong triều và cậu ta đã trình tấu về việc dân chúng lầm than. Tuy những lời dâng tấu có nặng nề nhưng Hoàng Đế lại không trừng phạt cậu ta, có lẽ cậu ta thực sự là 1 viên quan cần mẫn. Ai dè sau này mới biết Hoàng Đế bị điếc.</color>",
+            "info": "<size=36>Là 1 con Zombie sống từ thời nhà Thanh.\n\n<color=black>Cấp Độ:</color><color=#4B0082> 1</color>\n<color=black>Sát Thương: </color><color=#4B0082>250</color>\n<color=black>Máu: </color><color=#4B0082>3000</color>\n<color=black>Khả Năng: </color><color=#4B0082>Không gây sát thương cắn. Khi chết thì sẽ phát nổ gây 125 sát thương trong phạm vi 3x3 ô.</color></size>"
+          },
+          {
+            "theZombieType": 331,
+            "name": "Cương Thi Ngàn Năm (331)",
+            "introduce": "<size=36><color=black>Một con Zombie đang đi dạo phố vào nữa đêm thì bất ngờ bị 2 cây chặn đường, Zombie tức giận và cố gắng tấn công nhưng 1 cây khác chặn lại. Không ngờ Zombie này lại tự nhiên bay xuyên qua 2 cây này và tiêu diệt chúng ngay lập tức. Nhưng cây này mạnh đấy, nhưng lại nhanh chóng bị hạ gục. Còn giờ thì con Zombie đó làm gì? Tôi cũng chả biết.</color>",
+            "info": "<size=36>Là 1 con Zombie sống từ thời nhà Tống.\n\n<color=black>Cấp Độ:</color><color=#4B0082> 2</color>\n<color=black>Sát Thương: </color><color=#4B0082>500</color>\n<color=black>Máu: </color><color=#4B0082>6000</color>\n<color=black>Khả Năng: </color><color=#4B0082>\n<color=black>•</color> Không gây sát thương cắn, mỗi 4-8 giây có thể lướt xuyên cây 2 ô phía trước và gây 500 sát thương.\n<color=black>•</color> Khi chết thì sẽ phát nổ gây 250 sát thương trong phạm vi 3x3 ô.</color></size>"
+          },
+          {
+            "theZombieType": 332,
+            "name": "Cương Thi Vương Giả (332)",
+            "introduce": "<size=36><color=black>Một người nông dân bần hàn, người Phong Đô. Khi còn nhỏ đã từng nói với người khác rằng: “Ta có thể thấy ấn ngọc ở nơi kia, ấy là bảo vật của nhà ta.” Người nghe đều cười. Năm hai mươi bốn tuổi, vào năm nạn đói, hắn phất cờ khởi nghĩa, chiếm cứ Phong Đô, rồi tự xưng làm vương. Nhận lấy ngọc tỷ, nhưng tỷ tuột khỏi tay, đập trúng mặt. Năm đó lại càng đói kém, sau đó bị nghĩa quân đánh đuổi, may mắn thoát thân. Lưỡi y bị ngọc tỷ làm thương, người hỏi tên họ, chỉ ú ớ nói được hai chữ “Thi Hoàng' mà thôi.</color>",
+            "info": "<size=36>Là 1 con Zombie sống từ tận thời nhà Tần.\n\n<color=black>Cấp Độ:</color><color=#4B0082> 3</color>\n<color=black>Sát Thương: </color><color=#4B0082>1000</color>\n<color=black>Máu: </color><color=#4B0082>12000</color>\n<color=black>Khả Năng: </color><color=#4B0082>\n<color=black>•</color> Không gây sát thương cắn, mỗi 4-8 giây có thể dịch chuyển xuyên qua cây phía trước và gây 1000 sát thương.\n<color=black>•</color> Một khi dịch chuyển, Cương Thi sẽ luôn gây sát thương lên cây đó kể cả khi được di chuyển sang chỗ khác và đi xuyên qua tối đa 4 cây. Không giới hạn khoảng cách khi bắt đầu dịch chuyển xuyên qua cây.\n<color=black>•</color> Nếu không có cây đằng trước, lướt 1 ô.\n<color=black>•</color> Khi chết thì sẽ phát nổ gây 500 sát thương trong phạm vi 3x3 ô.</color></size>"
+          },
+          {
+            "theZombieType": 333,
+            "name": "Xe Cẩu Đinh Ba (333)",
+            "introduce": "<size=36><color=black>“Đúng vào lúc hoa lê nở trắng khắp chân trời, trên sông trôi lững lờ những dải lụa mềm mại.” Xe Cẩu Đinh Ba đang đọc những thứ này từ một cuốn sách cổ. Nhưng mà tên lừa thì vẫn phải cần động cơ, còn không thì nó bay lên kiểu gì.</color>",
+            "info": "<size=36>Có thể phóng 1 loạt đinh ba.\n\n<color=black>Cấp Độ:</color><color=#4B0082> 1</color>\n<color=black>Máu: </color><color=#4B0082>3000</color>\n<color=black>Khả Năng: </color><color=#4B0082>Ném đinh ba 2 lần, mỗi lần ném 4 đinh ba ở góc độ cố định và gây sát thương tới ô 5-7. Sau khi ném thì có thể di chuyển và cán qua cây.</color></size>"
+          },
+          {
+            "theZombieType": 334,
+            "name": "Xe Cẩu Óc Chó Đinh Ba (334)",
+            "introduce": "<size=36><color=black>Việc huấn luyện kíp lái xe cẩu khá là đặc biệt. Vì không thể điều chỉnh được quỹ đạo nên kíp lái phải tập cách đo vị trí để phóng. “Làm tốt…… Làm tốt lắm……” và boom, cái xe rơi xuống ao.</color>",
+            "info": "<size=36>Có thể phóng nhiều đinh ba hơn nữa.\n\n<color=black>Cấp Độ:</color><color=#4B0082> 2</color>\n<color=black>Máu: </color><color=#4B0082>3000+3000 (Giáp cấp 1)</color>\n<color=black>Khả Năng: </color><color=#4B0082>Ném đinh ba 2 lần, mỗi lần ném 14 đinh ba ở góc độ cố định và gây sát thương tới ô 5-7. Sau khi ném thì có thể di chuyển và cán qua cây.</color></size>"
+          },
+          {
+            "theZombieType": 335,
+            "name": "Xe Cẩu Đinh Ba Hạng Nặng (335)",
+            "introduce": "<size=36><color=black>Một tay lái xe cẩu chuyên nghiệp cùng với kinh nghiệm lái xe cẩu lâu năm sẽ tới đây với tư cách là kíp lái mới cho xe cẩu đinh ba này. Cậu ta đã chiến đấu tại vùng lạnh giá và từng vật nhau với cả cá sấu. Con giờ thì cậu ta tới đây để đấu với bạn đấy. Nào! Liệu bạn có thể né được đòn tấn công của cậu ta không?</color>",
+            "info": "<size=36>Vô số đinh ba sẳn sàng phóng.\n\n<color=black>Cấp Độ:</color><color=#4B0082> 3</color>\n<color=black>Máu: </color><color=#4B0082>6000+6000 (Giáp cấp 1)</color>\n<color=black>Khả Năng: </color><color=#4B0082>\n<color=black>•</color> Ném đinh ba 2 lần, mỗi lần ném 14 đinh ba ở góc độ cố định và gây sát thương tới ô 5-7. Sau khi ném thì có thể di chuyển và cán qua cây.\n<color=black>•</color> Nếu chết mà vẫn còn đinh ba thì số đinh ba đó sẽ phân tán trong phạm vi 3.5 ô và gây sát thương lên cây trong phạm vi đó.</color></size>"
+          },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        {
+            "theZombieType": 254,
+            "name": "Zombie Óc Chó Hoả Trảo (254)",
+            "introduce": "<size=36><color=black>Là sự đảo nghịch của Óc Chó Tuyết Trảo, tuy Óc Chó Hoả Trảo tự tin rằng mình có thể đánh bại Óc Chó Tuyết Trảo trong 1 cuộc đấu tay đôi, nhưng thường Óc Chó Tuyết Trảo lại hay đòi thách đấu ở vùng tuyết.</color>",
+            "info": "<size=36>Triệu hồi bởi Hắc Hoả Linh!.\n\n<color=black>Sát Thương: </color><color=#4B0082>1000</color>\n<color=black>Máu: </color><color=#4B0082>1500+8000 (Giáp cấp 1)</color>\n<color=black>Đặc Điểm:</color><color=#4B0082> Được tạo ra khi Hắc Hoả Linh thôi miên Zombie. </size>"
+        }, 
         {
             "theZombieType": 255,
             "name": "Zombie Nấm Công Chúa Đọc Báo (255)",
-            "introduce": "<size=36><color=black>Bằng 1 cách nào đó, Zombie Giáo Sư đã có thể gắn Nấm Công Chúa lên đầu mình, và giờ ông ta có thể triệu hồi vô hạn Zombie để tạo nên quân đoàn bất bại, ít nhất là thế trước bị 'Độ am tuyệt đối' của 1 Youtuber Short nào đó. :penguin:</color>",
+            "introduce": "<size=36><color=black>Bằng 1 cách nào đó, Zombie Giáo Sư đã có thể gắn Nấm Công Chúa lên đầu mình, và giờ ông ta có thể triệu hồi vô hạn Zombie để tạo nên quân đoàn bất bại.</color>",
             "info": "<size=36>Nhấn chìm cả sân với quân số áp đảo!\n\n<color=black>Sát Thương: </color><color=#4B0082>400/0.5 giây</color>\n<color=black>Máu: </color><color=#4B0082>3000+1500 (Giáp cấp 2)</color>\n<color=black>Khả Năng:</color><color=#4B0082> Khi mất báo thì mỗi 0.75 giây sẽ triệu hồi ngẫu nhiên 1 trong các Zombie sau:</color><color=blue> Zombie Óc Chó Bầu Dục, Zombie Đọc Báo Anh Đào, Xe Trượt Tuyết Đỏ, Zombie Giáo Sư, Zombie Bầu Dục Bão Tố</color></color></size>"
         }, 
         {
             "theZombieType": 97,
             "name": "Zombie Hộp Quà Hồng Ngọc (97)",
             "introduce": "<size=36><color=black>Là sức mạnh tổng hợp của mọi Zombie hộp quà trên thế giới, cậu ta thậm chí còn bị đột biến và có thể đánh ngang cơ với những Zombie mạnh mẽ nhất.</color>",
-            "info": "<size=36>Vô cùng mạnh mẽ và cắn mọi thứ trên đường đi!\n\n<color=black>Máu: </color><color=#4B0082>120000+30000 (Giáp cấp 1)</color>\n<color=black>Khả Năng:</color><color=#4B0082> \n<color=black>•</color> Sát thương gây ra luôn là hành quyết, nhưng giới hạn ở các cây có giới hạn sát thương. \n<color=black>•</color> Khi chết sẽ triệu hồi 5 Zombie Hộp Quà Kim Cương.</color></color></size>"
+            "info": "<size=36>Vô cùng mạnh mẽ và cắn mọi thứ trên đường đi!\n\n<color=black>Máu: </color><color=#4B0082>120000+30000 (Giáp cấp 1)</color>\n<color=black>Khả Năng:</color><color=#4B0082> \n<color=black>•</color> Sát thương gây ra luôn là hành quyết, nhưng giới hạn ở các cây có giới hạn sát thương. \n<color=black>•</color> Khi chết sẽ triệu hồi 5 Zombie Hộp Quà Kim Cương và 5 Zombie Hộp Quà Kim Cương thôi miên.</color></color></size>"
         },
         {
             "theZombieType": 98,
