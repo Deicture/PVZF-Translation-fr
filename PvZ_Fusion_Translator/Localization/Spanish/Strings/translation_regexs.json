@@ -162,5 +162,7 @@
   "^(\\d+\\D\\d+)%\n\\D+\n冷却：(\\d+)\\D$": "{0}%\nListo\nCD: {1}",
   "^(\\d+\\D\\d+)%\n\\D+\n不死：(\\d+)\\D$": "{0}%\nListo\nInven.: {1}",
   "^(\\d+\\D\\d+)%\n(\\d+)\n冷却：(\\d+)\\D$": "{0}%\n{1}\nCD: {2}",
-  "^(\\d+\\D\\d+)%\n(\\d+)\n不死：(\\d+)\\D$": "{0}%\n{1}\nInven.: {2}"
+  "^(\\d+\\D\\d+)%\n(\\d+)\n不死：(\\d+)\\D$": "{0}%\n{1}\nInven.: {2}",
+  "将([^\\s]+)转化为植物类型失败": "No se pudo convertir {0} a una Clase de Planta.",
+  "尝试将植物类型([^\\s]+)转化为([^\\s]+)失败": "No se pudo convertir Clase de Planta {0} hacia {1}."
 }
