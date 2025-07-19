@@ -1119,21 +1119,21 @@
       "seedType": 241,
       "name": "Arándano Gélido",
       "introduce": "<size=39><color=#3D1400>¿Cómo puede un pequeño y delicado arándano flotante hacer que su alrededor se vuelva tan frío? Arándano Gélido dice: “Es natural, amigo. Todo mi ser tiene que ver con el frio, ¡Incluso mis bromas! Escucha: ¿Qué le dice un pingüino a una pingüina? ¡Cómo tú ningüina!”</color>",
-      "info": "<size=39>Potencia a los proyectiles de las plantas de hielo. \n\n<color=#3D1400>Desbloqueo: <color=red>Completar Nueces de Billar</color>\n<color=#3D1400>Características:</color><color=red>Es invencible y no puede ser atacado por los zombis, ocupa una posición aérea en el campo, y mejora a las plantas congeladas debajo de el, duplicando su daño y Puntos Criogénicos.</color>\n<color=#3D1400>Nombre Científico: </color><color=red>Vaccinium Glacialis</color>",
+      "info": "<size=39>Potencia a los proyectiles de las plantas de hielo. \n\n<color=#3D1400>Desbloqueo: <color=red>Completar Nuez-Billar</color>\n<color=#3D1400>Características:</color> <color=red>Es invencible y no puede ser atacado por los zombis, ocupa una posición aérea en el campo, y mejora a las plantas congeladas debajo de el, duplicando su daño y Puntos Criogénicos.</color>\n<color=#3D1400>Nombre Científico: </color><color=red>Vaccinium Glacialis</color>",
       "cost": "Costo: <color=red>125</color>\nRecarga: <color=red>30 segundos</color>"
     },
     {
       "seedType": 242,
       "name": "Princesa Carmesí",
       "introduce": "<size=39><color=#3D1400>La pequeña flor que antes era tan ardiente, después de pasar por tantas dificultades, ha crecido para convertirse en una experta en la producción de sol. La Princesa Carmesí ya no necesita sufrir para tener efecto. Su antorcha en la cabeza se ha convertido en su poder, brillando como el sol, y la brillante llama seguirá transmitiéndose, creando un nuevo 'Endoflama' tras otro.</color></size>",
-      "info": "<size=39>¡Dispara soles ardientes que impactan zombis! Si un disparo atraviesa una Plantorcha Infernal, ¡su daño se cuadruplica!\n\n<color=#3D1400>Desbloqueo: <color=red>Completa la Odisea: Purgatorio</color>\n<color=#3D1400>Daño: </color><color=red>300x8/2s</color>\n<color=#3D1400>Resistencia: </color><color=red>1000</color>\n<color=#3D1400>Nombre Científico: </color><color=red>Ignis solaris</color></size>",
+      "info": "<size=39>¡Dispara soles ardientes que impactan zombis! Si un disparo atraviesa una Plantorcha Infernal, ¡su daño se cuadruplica!\n\n<color=#3D1400>Desbloqueo: <color=red>Completa Odisea: Clásica</color>\n<color=#3D1400>Daño: </color><color=red>300x8/2s</color>\n<color=#3D1400>Resistencia: </color><color=red>1000</color>\n<color=#3D1400>Nombre Científico: </color><color=red>Ignis solaris</color></size>",
       "cost": "<size=39>Costo: <color=red>200</color>\nRecarga: <color=red>30 segundos</color></size>"
     },
     {
       "seedType": 243,
       "name": "Hamburgueso",
       "introduce": "<size=39><color=#3D1400>Las plantas a veces se preguntan sobre el origen del Hamburgueso, especialmente al verlo combinarse con otras plantas para aumentar su poder. En realidad, él es solo un subproducto del intento de Dave de hacer un taco usando plantas. \"Por favor, considere el objeto real, otros ingredientes pueden añadirse a su gusto.\"</color></size>",
-      "info": "<size=39>Híbrido versátil que mejora al fusionarse con otras plantas. ¡Cada nivel añade nuevos \"ingredientes\" a sus disparos!\n\n<color=#3D1400>Desbloqueo: <color=red>Completar Rompejarrones: Reacción en cadena</color>\n<color=#3D1400>Daño Base: </color><color=red>20x2/3s</color>\n<color=#3D1400>Producción Solar: </color><color=red>25/25s</color>\n<color=#3D1400>Nombre Científico: </color><color=red>Burgerus mutantis</color>\n\n<color=#3D1400>Niveles de Sazón:</color>\n- <color=red>Nivel 1 (Cactus): </color>Pinchos + Mantequilla\n- <color=red>Nivel 2 (Melonpulta): </color>Melón en Llamas + Melón Normal\n- <color=red>Nivel 3 (Melonpulta Congelada): </color>Melón Congelado + Esporas Heladas</color></size>",
+      "info": "<size=39>Híbrido versátil que mejora al fusionarse con otras plantas. ¡Cada nivel añade nuevos \"ingredientes\" a sus disparos!\n\n<color=#3D1400>Desbloqueo: <color=red>Completar Rompejarrones: Reacción en Cadena</color>\n<color=#3D1400>Daño Base: </color><color=red>20x2/3s</color>\n<color=#3D1400>Producción Solar: </color><color=red>25/25s</color>\n<color=#3D1400>Nombre Científico: </color><color=red>Burgerus mutantis</color>\n\n<color=#3D1400>Niveles de Sazón:</color>\n- <color=red>Nivel 1 (Cactus): </color>Pinchos + Mantequilla\n- <color=red>Nivel 2 (Melonpulta): </color>Melón en Llamas + Melón Normal\n- <color=red>Nivel 3 (Melonpulta Congelada): </color>Melón Congelado + Esporas Heladas</color></size>",
       "cost": "<size=39>Costo: <color=red>150</color>\nRecarga: <color=red>30 segundos</color></size>"
     },
     {
@@ -4103,7 +4103,7 @@
       "seedType": 950,
       "name": "Nenúfar Áureo",
       "introduce": "<size=39><color=#3D1400>Su devoción por el Dios Solar resonaba más fuerte que un río desbordado. Por esto mismo, Nenúfar Áureo fue finalmente expulsado de la Guardia Solar por ser demasiado ruidoso, pero eso no la ha detenido de predicar su gloria a toda criatura bajo las olas. Tan sumido está en su fervor, que no ha notado un pequeño detalle: ha estado bloqueando toda la luz del sol que debía llegar al fondo del lago.</color></size>",
-      "info": "<size=39>Parte del <color=#FFCA30>Sistema Monetario</color>.\nLo mismo que Maceta Áurea, pero acuática.\n\n<color=#3D1400>Especial: </color>\n- <color=red>Cada X segundos genera 50 de luz solar y 100 de monedas, (X = 15 * Macetas/Nenufares Áureos en el Mapa / 15000. No debe ser menor que 3 ni mayor que 15.)\n\n<color=#3D1400>Fórmula de Fusión: </color><color=red>No tiene formula de fusión. Se transforma automáticamente al pasar de tierra al agua.</color>\n<color=#3D1400>Nombre Científico: </color><color=red>Nympadia Aurea Solis</color></size>",
+      "info": "<size=39>Parte del <color=#FFCA30>Sistema Monetario</color>.\nLo mismo que Maceta Áurea, pero acuática.\n\n<color=#3D1400>Especial: </color>\n- <color=red>Cada X segundos genera 50 de luz solar y 100 de monedas, (X = 15 * Macetas/Nenufares Áureos en el Mapa / 15000. No debe ser menor que 3 ni mayor que 15.)\n\n<color=#3D1400>Fórmula de Fusión: </color><color=red>Ocupando una pala en una Maceta Áurea. O, se puede transformar automáticamente al cambiar de escenario a uno con agua.</color>\n<color=#3D1400>Nombre Científico: </color><color=red>Nympadia Aurea Solis</color></size>",
       "cost": "<size=33>Costo: <color=red>100</color>   Recarga: <color=red>22.5 Segundos</color>\nPlantas Requeridas: <color=red>3\n<color=purple>Condición de Uso: Modo Odisea</color></size>"
     },
     {
@@ -4330,7 +4330,7 @@
       "seedType": 1003,
       "name": "Explotonuez",
       "introduce": "<size=39><color=#3D1400>\u0022He oído a algunos zombis quejarse de que no pueden comer cerezas. Bueno, ¡aquí estoy yo!\u0022 La alegre Explotonuez sacudió las hojas que tenía sobre la cabeza, presumiendo de su puro sabor a cereza. \u0022Pero antes, tienes que prometerme algo: cuando tengas cerezas, comparte un poco conmigo. De hecho, ¡dame todo lo que tengas! ¡He nacido para esto!\u0022</color></size>",
-      "info": "<size=39>Explotonuez puede absorber explosiones, restaurando su dureza.\n\n<color=#3D1400>Dureza: </color><color=red>4000</color>\n<color=#3D1400>Especial: </color><color=red>Absorbe explosiones para restaurar dureza\n- De proyectiles (aliados o enemigos): 200\n- De Petacerezas (o fusiones): 2000</color>\n<color=#3D1400>Especial: </color><color=red>Si su dureza llega a 0, estalla, haciendo 1800 puntos de daño en un área de 3×3.</color>\n<color=#3D1400>Fusión: </color><color=red>Nuez + Petacereza</color> <color=#3D1400>\nNombre Científico: </color><color=red>Juglans Explodio</color></size>",
+      "info": "<size=39>Explotonuez puede absorber explosiones, restaurando su dureza.\n\n<color=#3D1400>Dureza: </color><color=red>4000</color>\n<color=#3D1400>Especial: </color><color=red>Absorbe explosiones para restaurar dureza\n- De proyectiles (aliados o enemigos): 200\n- De Petacerezas (o fusiones): 400</color>\n<color=#3D1400>Especial: </color><color=red>Si su dureza llega a 0, estalla, haciendo 1800 puntos de daño en un área de 3×3.</color>\n<color=#3D1400>Fusión: </color><color=red>Nuez + Petacereza</color> <color=#3D1400>\nNombre Científico: </color><color=red>Juglans Explodio</color></size>",
       "cost": "<size=39>Costo: <color=red>200</color>   Recarga: <color=red>80 Segundos</color>\nPlantas Requeridas: <color=red>2</color></size>"
     },
     {
@@ -4455,7 +4455,7 @@
     {
       "seedType": 1021,
       "name": "Nuecita",
-      "introduce": "<size=42><color=#3D1400>¿Nuez o seta?, ¿Por qué preocuparse por las etiquetas? De todas formas, los frutos secos no van a decirte que en realidad es un fem... Matsutake disfrazado.</color></size>",
+      "introduce": "<size=42><color=#3D1400>¿Nuez o seta?, ¿Por qué preocuparse por las etiquetas? De todas formas, los frutos secos no van a decirte que en realidad es un... Matsutake disfrazado.</color></size>",
       "info": "<size=42>A pesar de su tamaño, la Nuecita puede ser un defensor incondicional.\n\n<color=#3D1400>Dureza: </color><color=red>2000</color>\n<color=#3D1400>Fusión: </color><color=red>Seta Desesporada + Nuez\n<color=#3D1400>Nombre Científico: </color><color=red>Puffia juglans</color></size>",
       "cost": "<size=39>Costo: <color=red>50, 125</color>   Recarga: <color=red>37.5 Segundos</color>\nPlantas Requeridas: <color=red>2</color></size>"
     },
@@ -5458,7 +5458,7 @@
       "seedType": 1164,
       "name": "Calabúnker",
       "introduce": "<size=39><color=#3D1400> Calabúnker es un pariente lejano de Explotonuez, pero cada vez que se reúnen, este siempre llega tarde. \"Yo también quisiera llegar temprano\", dice Calabúnker, \"pero no puedo resistirme a saltar hacia cualquier cosa roja.\"</color>",
-      "info": "<size=39>¡Una calabaza que no puede ser explotada por cerezas!\n\n<color=#3D1400>Dureza:</color> <color=red>4000</color>\n<color=#3D1400>Especial: </color><color=red>Absorbe explosiones para restaurar dureza\n- De proyectiles (aliados o enemigos): 200\n- De Petacerezas (o fusiones): 2000</color>\n<color=#3D1400>Fusión:</color> <color=red>Calabaza + Petacereza</color>\n<color=#3D1400>Nombre Científico: </color><color=red>Cucurbita rubrodetonans</color>",
+      "info": "<size=39>¡Una calabaza que no puede ser explotada por cerezas!\n\n<color=#3D1400>Dureza:</color> <color=red>4000</color>\n<color=#3D1400>Especial: </color><color=red>Absorbe explosiones para restaurar dureza\n- De proyectiles (aliados o enemigos): 200\n- De Petacerezas (o fusiones): 400</color>\n<color=#3D1400>Fusión:</color> <color=red>Calabaza + Petacereza</color>\n<color=#3D1400>Nombre Científico: </color><color=red>Cucurbita rubrodetonans</color>",
       "cost": "<size=39>Costo: <color=red>275</color>   Recarga: <color=red>80 Segundos</color>\nPlantas Requeridas: <color=red>2</color></size>"
     },
     {
@@ -6077,7 +6077,7 @@
       "name": "Petaseta Dorada",
       "introduce": "<size=39><color=#3D1400>\u0022Ejem, todos mirad aquí\u0022. Así empieza la Petaseta Dorada cada cumbre de la calle nuez. Los demás magnates le temen, no solo por su riqueza, sino por su poder para aniquilarlas de un solo golpe.</color></size>",
       "info": "<size=39>Parte del <color=#FFCA30>Sistema Monetario</color>\nConvierte dinero en ruina.</color>\n\n<color=#3D1400>Características:</color> <color=red>No explota pasivamente. Cuesta 3000 monedas inicialmente, después 6000.\n<color=#3D1400>Habilidad Especial:</color> <color=red>Al ocupar 6000 monedas en este, hace una explosión que no deja un cráter (tiene un tiempo de recarga de 30 segundos)</color>\n<color=#3D1400>Nombre Científico:</color> <color=red>Fatalomyces aurea</color></size>\n<size=39><color=#3D1400>Fórmula de Fusión:</color> <color=red>Petaseta Plateada + Grano de Café</color></size>",
-      "cost": "<size=39>Costo: <color=red>150, 225 (+$3000)</color>   Recarga: <color=red>57.5 Segundos</color>\nPlantas Requeridas: <color=red>2</color></size>"       
+      "cost": "<size=39>Costo: <color=red>150, 225 (+$3000)</color>   Recarga: <color=red>57.5s</color>\nPlantas Requeridas: <color=red>2</color></size>"       
     },
     {
       "seedType": 1253,
