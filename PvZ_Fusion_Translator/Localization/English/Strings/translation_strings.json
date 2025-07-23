@@ -868,7 +868,7 @@
   "星神合一：当场上有至少10个究极杨桃大帝和10个究极太阳神卷心菜，太阳神召唤的小太阳不会消失且伤害x5，且持续召唤太阳神流星": "If there are at least 10 Magnetars and Helios Cabbages on the field, the suns summoned by the Helios Cabbage will not dissapear and deal 5x more damage, and will summon Helios Meteors",
   "火力全开：究极樱桃射手攻击时会有超级樱桃子弹协同射击，究极窝炬燃烧一行火焰升级为全屏": "Gatling Cherrybomber will have Super Cherry Bullets to shoot in coordination when attacking, and sqaushes spawned by the Infernal Squashwood will ignite the entire field",
   "三叉戟冲车免疫控制，且投掷数量x5": "Trident Hwacha is immune to slowdown/control, and throws 5x as many tridents",
-  "机枪读报免疫状态异常": "Gatling Cherry Newspaper Zombies will be immune to slowdown or cooling",
+  "机枪读报免疫状态异常": "Gatling Cherry Newspaper Zombies will be immune to all status effects except Poison",
   "阿尔法僵尸小队会无限复活": "Alpha Assassin Squad will always be invincible when incapacitated",
   "三叉戟冲车会提前攻击": "Trident Hwacha will attack in advance",
   "僵尸死亡时有概率满血复活": "Zombies have a chance to revive to full HP on death",

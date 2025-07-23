@@ -162,5 +162,6 @@
   "旅行：进化，魂灵之主 第(\\d+)轮": "Du Lịch: Tiến Hoá | Chúa Tể Linh Hồn | Đợt {0}",
   "^第(\\d+)轮": "Đợt {0}",
   "将([^\\s]+)转化为植物类型失败": "Thấp bại trong việc chuyển {0} thành 1 lớp Cây.",
-  "尝试将植物类型([^\\s]+)转化为([^\\s]+)失败": "Thấp bại trong việc chuyển lớp Cây {0} sang {1}."
+  "尝试将植物类型([^\\s]+)转化为([^\\s]+)失败": "Thấp bại trong việc chuyển lớp Cây {0} sang {1}.",
+  "刷新\\((\\d+)\\)": "{0} lần làm mới"
 }
