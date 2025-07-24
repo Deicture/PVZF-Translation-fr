@@ -1251,7 +1251,7 @@
   "你获得了一块拼图！左键放下拼图\n紫色：增伤 绿色：减伤 淡蓝色：增加射速\n红色：治疗加成 黄色：3x3替伤 灰色：防压": "You got a Puzzle Piece! Left-click to apply it to a Tile.\nMagenta: Damage | Green: Defense | Blue: Haste\nRed: Regen | Yellow: Guard | Grey: Anticrush",
   "左键放下拼图\n紫色：增伤 绿色：减伤 淡蓝色：增加射速\n红色：治疗加成 黄色：3x3替伤 灰色：防压": "Left-click with the Puzzle Piece to apply it to a Tile.\nMagenta: Damage | Green: Defense | Blue: Haste\nRed: Regen | Yellow: Guard | Grey: Anticrush",
   "点击屏幕继续": "Click on the screen to continue",
-  "增伤": "Damage",
+  "伤害": "Damage",
   "减伤": "Defense",
   "射速": "Haste",
   "治疗": "Regen",
