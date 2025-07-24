@@ -40,7 +40,7 @@
             "theZombieType": 7,
             "name": "Backup Pole Vaulter",
             "introduce": "<align=justified><size=36><color=black>The four brothers, once troubled orphans, developed twisted personalities and bullied others at the Zombie Academy. One day, they saw Dancing Pole Vaulter performing joyfully on stage, and it changed them. From that moment, they joined him in performing on stage together.</color>",
-            "info": "<size=36>Climb over a plant.\n\n<color=black>Toughness: </color><color=#4B0082>270</color>"
+            "info": "<size=36>Climb over a plant.\n\n<color=black>Toughness: </color><color=#4B0082>270</color>\n<color=black>Traits: </color><color=#4B0082>Jumps over the first plant he runs into. Can be blocked by Tall-nuts.</color>"
         },
         {
             "theZombieType": 8,
@@ -88,7 +88,7 @@
             "theZombieType": 15,
             "name": "Scholar Zombie",
             "introduce": "<align=justified><size=36><color=black>As a leading authority in the academic realm, Scholar Zombie is frequently seen in the library. His passion for reading runs deep, and disturbing him while he reads can spark his fury. This old gentleman will make sure you understand the true meaning of \"knowledge is power.\"</color>",
-            "info": "<size=36>Deals huge damage alongside his sturdy books.\n\n<color=black>Damage: </color><color=#4B0082>400</color>\n<color=black>Toughness: </color><color=#4B0082>720 +1100 (Type 2)</color>\n<color=black>Traits: </color><color=#4B0082>Short-term invincibility and increased speed (movement speed ×10, attack speed ×3) after its book is broken.</color>"
+            "info": "<size=36>Deals huge damage alongside his sturdy books.\n\n<color=black>Damage: </color><color=#4B0082>400</color>\n<color=black>Toughness: </color><color=#4B0082>720 +1100 (Type 2)</color>\n<color=black>Traits: </color><color=#4B0082>Short-term invincibility and increased speed (movement speed ×10, attack speed ×3) after his book is broken.</color>"
         },
         {
             "theZombieType": 16,
@@ -189,7 +189,7 @@
         {
             "theZombieType": 32,
             "name": "Pogo Zombie",
-            "introduce": "<align=justified><size=36><color=black>Pogo Zombie love to hop around, thinking that jumping toward the sky is as close as they'll ever get to flying. But no one told them not to use a trampoline on the roof...</color>",
+            "introduce": "<align=justified><size=36><color=black>Sproing! Sproing! Sproing! That's the sound of a powerful and effective zombie doing what he does best.</color>",
             "info": "<size=36>A zombie that can leap over your defenses.\n\n<color=black>Toughness: </color><color=#4B0082>720</color>\n<color=black>Traits: </color><color=#4B0082>Can jump over plants. The Pogo Stick can be removed by Magnet-shrooms.</color>"
         },
         {
@@ -226,13 +226,13 @@
             "theZombieType": 38,
             "name": "Mecha Gargantuar",
             "introduce": "<align=justified><size=36><color=black>A zombie from the popular Plant Girls vs Zombies.</color>",
-            "info": "<size=36>Another invention by Dr. Gargantuar, immune to freezing and will charge at your defenses without hesitation.\n\n<color=black>Toughness: </color><color=#4B0082>3000</color>\n<color=black>Traits: </color><color=#4B0082>\n<color=black>•</color> Immune to control effects.\n<color=black>•</color> Crushes plants, deals 500 Damage to anti-crush plants and 150 Damage to Spike Rocks.  Deals 1000 Damage to hypnotized zombies every second.\n<color=black>Weakness: </color><color=#4B0082>Magnet-shroom</color>"
+            "info": "<size=36>Another invention by Dr. Gargantuar, full-metal and will stomp on your defenses without hesitation.\n\n<color=black>Toughness: </color><color=#4B0082>3000</color>\n<color=black>Traits: </color><color=#4B0082>\n<color=black>•</color> Immune to most status effects.\n<color=black>•</color> Crushes plants, deals 500 Damage to anti-crush plants and 150 Damage to Spike Rocks.  Deals 1000 Damage to hypnotized zombies every second.\n<color=black>Weakness: </color><color=#4B0082>Magnet-shroom</color>"
         },
         {
             "theZombieType": 39,
             "name": "Mecha Giga-gargantuar",
             "introduce": "<align=justified><size=36><color=black>A zombie from the popular Plant Girls vs Zombies.</color>",
-            "info": "<size=36>A latest creation by Dr. Gargantuar, this mechanized version is immune to freezing and charges directly at your defenses.\n\n<color=black>Toughness: </color><color=#4B0082>6000</color>\n<color=black>Traits: </color><color=#4B0082>Inherits all Traits from regular Mecha Gargantuars.</color>"
+            "info": "<size=36>A latest creation by Dr. Gargantuar, this machinery of doom slowly approaches with steady steps.\n\n<color=black>Toughness: </color><color=#4B0082>6000</color>\n<color=black>Traits: </color><color=#4B0082>Inherits all Traits from regular Mecha Gargantuars.</color>"
         },
         {
             "theZombieType": 40,
@@ -267,7 +267,7 @@
         {
             "theZombieType": 47,
             "name": "Yeti Zombie",
-            "introduce": "<align=justified><size=36>Many details about Yeti Zombie remain shrouded in mystery. His past? Classified. His motives? Unknown. The only things on record? His name, birth date, social security number, education, work history… and an unwavering passion for roast beef sandwich sandwiches.",
+            "introduce": "<align=justified><size=36><color=black>Many details about Yeti Zombie remain shrouded in mystery. His past? Classified. His motives? Unknown. The only things on record? His name, birth date, social security number, education, work history… and an unwavering passion for roast beef sandwich sandwiches.</color>",
             "info": "<size=36>Yeti Zombies can sometimes run away.\n\n<color=black>Toughness: </color><color=#4B0082>1350</color>\n<color=black>Traits: </color><color=#4B0082>Freezes plants in a 3x3 area around it. Jalapenos, Torchwoods and Ice-shrooms are immune to this effect. May carry Puzzle pieces in Odyssey: Evolved.</color>"
         },
         {
@@ -334,7 +334,7 @@
             "theZombieType": 59,
             "name": "Dolphinhead Newspaper Zombie",
             "introduce": "<align=justified><size=36><color=black>He once dreamed of becoming a mermaid, but the surgeon who was supposed to fix him got his top and bottom halves completely mixed up.</color>",
-            "info": "<size=36>Gets angry when reading is interrupted... then goes home to fetch another tabloid.\n\n<color=black>Toughness: </color><color=#4B0082>720 + 720 (Type 2)</color>\n<color=black>Traits: </color><color=#4B0082>After losing his tabloid, greatly increases speed and reverses direction. Upon exiting on the right, spawns a brand new Dolphinhead Newspaper Zombie. This does not trigger if he's hypnotized.</color>"
+            "info": "<size=36>Gets angry when his reading is interrupted... then goes home to fetch another tabloid.\n\n<color=black>Toughness: </color><color=#4B0082>720 + 720 (Type 2)</color>\n<color=black>Traits: </color><color=#4B0082>After losing his tabloid, greatly increases speed and reverses direction. Upon exiting on the right, spawns a brand new Dolphinhead Newspaper Zombie. This does not trigger if he's hypnotized.</color>"
         },
         {
             "theZombieType": 61,

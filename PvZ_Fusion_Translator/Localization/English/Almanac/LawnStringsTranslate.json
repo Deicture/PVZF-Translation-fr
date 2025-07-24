@@ -249,7 +249,7 @@
             "seedType": 35,
             "name": "Firnace",
             "introduce": "<align=justified><size=36><color=black>Firnace won the sixth annual “Plant Helper” award of the Snowy Plains. Fellow plants agreed the honor was well deserved—after all, he’s so busy keeping others warm, he hasn’t even had time to clear the snow off his own head.</color>",
-            "info": "<size=36>A floating firwood heater that helps nearby plants resist the cold.\n\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Hovering plant. Protects plants in its own tile from Snowballs and Blizzards.\n<color=black>•</color> Deals 200 damage every 3s to ice blocks within its protection range.\n<color=black>•</color> Absorbs the base Snow plant below it to temporarily evolve into Hi-temp Firnace, expanding its protection range to 3×3 for (1.2 × Plant Cost) seconds before reverting. Otherwise lasts 180s by default.\n<color=#cceaed>Snow Map Gimmick</color>:\n<color=black>•</color> Ice blocks have 2000 HP and block straight-firing projectiles and zombies.\n<color=black>•</color> If destroyed by plants, spawns the corresponding plants.\n<color=black>•</color> If spawns the corresponding zombotany instead; if none exists, spawns an Snowfur.\n<color=black>•</color> A blizzard starts at the beginning of every wave, freezing all unprotected plants into ice blocks.</color>",
+            "info": "<size=36>A floating firwood heater that helps nearby plants resist the cold.\n\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Hovering plant. Protects plants in its own tile from Snowballs and Blizzards.\n<color=black>•</color> Deals 200 damage every 3s to ice blocks within its protection range.\n<color=black>•</color> Absorbs the base Snow plant below it to temporarily evolve into Hi-temp Firnace, expanding its protection range to 3×3 for (1.2 × Plant Cost) seconds before reverting. Otherwise lasts 180s by default.\n<color=#cceaed>Snow Map Gimmick</color>:\n<color=black>•</color> Ice blocks have 2000 HP and block straight-firing projectiles and zombies.\n<color=black>•</color> If destroyed by plants, spawns the corresponding plants.\n<color=black>•</color> If destroyed by zombies, spawns the corresponding zombotany instead; if none such zombotany exists, spawns an Snowfur.\n<color=black>•</color> A blizzard starts at the beginning of every wave, freezing all unprotected plants into ice blocks.</color>",
             "cost": "<size=36>Cost: <color=#8B0000>25</color>\nRecharge: <color=#8B0000>7.5s</color>"
         },
         {
@@ -494,7 +494,7 @@
             "seedType": 907,
             "name": "Gatling Doom",
             "introduce": "<align=justified><size=36><color=black>\"Gatling Doom is dangerous and should not be approached. It is a forbidden force in the world.\" Despite the frightening tales circulating among the plants, Gatling Doom is not as it seems. In fact, it is one of the friendliest plants. However, the zombies turned to ashes would disagree.</color></size>",
-            "info": "<size=36>Destruction incarnate. Fires rounds of destruction unlucky enough to face its wrath.\n\n<color=#4A2900>Usage Condition: Odyssey Mode | Initial Selection</color>\n<color=black>Damage: </color><color=#8B0000>300×4/1.5s</color>\n<color=black>Special: </color><color=#8B0000>Fires a bullet of doom that deals 1800 damage once every 4 round of bullets. Each bullet will splash damage over a large area. Rests for 4.5s after the bullet of doom is shot.</color>\n<color=black>Odyssey Modifiers:\n</color><color=#8B0000>1. No more rest between every attack | Gatling Frenzy-shroom Subspecies Unlocked\n2. Can now fire bullets of doom every round</color></size>",
+            "info": "<size=36>Destruction incarnate. Fires rounds of destruction unlucky enough to face its wrath.\n\n<color=#4A2900>Usage Condition: Odyssey Mode | Initial Selection</color>\n<color=black>Damage: </color><color=#8B0000>300×4/1.5s</color>\n<color=black>Special: </color><color=#8B0000>Fires a bullet of doom that deals 1800 damage once every 4 rounds of bullets. Bullets of doom deal splash damage over a large area. Rests for 4.5s after the bullet of doom is shot.</color>\n<color=black>Odyssey Modifiers:\n</color><color=#8B0000>1. No more rest between every attack | Gatling Frenzy-shroom Subspecies Unlocked\n2. Can now fire bullets of doom every round</color></size>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Gatling Pea + Doom-shroom</color>"
         },
         {
@@ -564,7 +564,7 @@
             "seedType": 917,
             "name": "Enchantress-shroom",
             "introduce": "<align=justified><size=36><color=black>The subjects of the Empress-shroom are captivated by the Enchantress-shroom's mysterious power. \"She's not just my advisor; she's the force that keeps our kingdom thriving. Her magic isn't just powerful—it's explosive\", the Empress-shroom declared. In truth, the Enchantress-shroom simply delights in blowing up any unruly dissenters who dare resist her charm.</color>",
-            "info": "<size=36>Summons exclusively explosive zombies to fight for you!\n\n<color=#4A2900>Usage Condition: Odyssey Mode | Unlockable With Empress-shroom's Modifier</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> The same as Empress-shroom, but only summons Cherryshooter Newspaper Zombie/Zombarine/Gatling Cherry Newspaper/Gatling Explod-o-rider zombies.\n<color=black>•</color> Benefits from Empress-shroom modifiers.\n<color=black>•</color> Immediately summons when an Empress-shroom dies in a 3×3 range, Empress-shroom too when a nearby Enchantress-shroom dies.</color>",
+            "info": "<size=36>Summons exclusively explosive zombies to fight for you!\n\n<color=#4A2900>Usage Condition: Odyssey Mode | Unlockable With Empress-shroom's Modifier</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> The same as Empress-shroom, but only summons Cherryshooter Newspaper Zombie/Zombarine/Gatling Cherry Newspaper/Gatling Explod-o-rider zombies.\n<color=black>•</color> Benefits from Empress-shroom modifiers.\n<color=black>•</color> Immediately summons a zombie when an Empress-shroom dies in a 3×3 range.</color>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000> Hypno-shroom <-> Cherry Bomb</color>"
         },
         {
@@ -578,7 +578,7 @@
             "seedType": 919,
             "name": "Phoenix Threepeater",
             "introduce": "<align=justified><size=36><color=black>No one knows if fire truly brings rebirth to plants—it's just a legend. Those who chased it turned to ash, until he became the new legend. \"I don't know how many times I must endure the flames to succeed, but for them, I have to.\"</color>",
-            "info": "<size=36>From fire reborn!\n\n<color=#4A2900>Usage Condition: Odyssey Mode | Initial Selection</color>\n<color=black>Damage: </color><color=#8B0000>160×3/1.5s</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Ignites the whole lawn upon entry.\n<color=black>•</color> Its bullets inflict the Enflamed debuff and pierce 2 times.\n<color=black>•</color> Its damage is doubled after passing through a Infernal Squashwood.</color>\n<color=black>Odyssey Modifiers:\n<color=#8B0000>1. Enflamed damage multiplier → 150%, and regular ignited projectiles can now inflict the debuff\n2. Bullets can now pierce infinitely and cause Enflamed explosions</color>",
+            "info": "<size=36>From fire reborn!\n\n<color=#4A2900>Usage Condition: Odyssey Mode | Initial Selection</color>\n<color=black>Damage: </color><color=#8B0000>160×3/1.5s</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Ignites the whole lawn upon entry.\n<color=black>•</color> Its bullets inflict the Enflamed debuff and pierce 2 times.\n<color=black>•</color> Its damage is doubled after passing through an Infernal Squashwood.</color>\n<color=black>Odyssey Modifiers:\n<color=#8B0000>1. Enflamed damage multiplier → 150%, and regular ignited projectiles can now inflict the debuff\n2. Bullets can now pierce infinitely and cause Enflamed explosions</color>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Ashen Threepeater + Jalapeno</color>"
         },
         {
@@ -606,7 +606,7 @@
             "seedType": 923,
             "name": "Aegis Umbrella",
             "introduce": "<align=justified><size=36><color=black>Many question the relationship between Midas Umbrella and Aegis Umbrella. \"We're brothers!\" Aegis confidently declares, thumping its canopy. \"My dear elder brother is just going through a rough patch emotionally.\"</color>",
-            "info": "<size=36>Reflects projectiles from zombies.\n\n<color=#4A2900>Usage Condition: Odyssey Mode | Unlockable With Midas Umbrella's Modifier</color>\n<color=black>Toughness: </color><color=#8B0000>4000</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Subspecies of Midas Umbrella.\n<color=black>•</color> Loses the ability to buff lobbed projectiles and attract tridents. Instead, gain 90% Damage Reduction and the ability to reflect bullets from zombies.</color></color>",
+            "info": "<size=36>Reflects projectiles from zombies.\n\n<color=#4A2900>Usage Condition: Odyssey Mode | Unlockable With Midas Umbrella's Modifier</color>\n<color=black>Toughness: </color><color=#8B0000>4000</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Subspecies of Midas Umbrella.\n<color=black>•</color> Loses the ability to buff lobbed projectiles and attract tridents. Instead, gains a 90% Damage Reduction and the ability to reflect bullets from zombies.</color></color>",
             "cost": "\n<size=36>Conversion Formula: <color=#8B0000>Cabbage-pult <-> Melon-pult"
         },
         {
@@ -627,7 +627,7 @@
             "seedType": 926,
             "name": "Aristocat-tail",
             "introduce": "<align=justified><size=36><color=black>\"I think it's better to use animal hair to keep myself above water than relying on, for example, a swim ring!\" Aristocat-tail stands by her belief. Hmm... If you think this is due to her poor academic skills and inability to stay afloat on the river, you're right. How could a cat possibly swim! Though she refuses to be categorized randomly.</color>",
-            "info": "<size=36>Summons drones to attack every time she defeats a zombie.\n\n<color=#4A2900>Usage Condition: Odyssey Mode | Initial Selection</color>\n<color=black>Damage: </color><color=#8B0000>160×2/1.5s</color>\n<color=black>Special: </color><color=#8B0000>Summons a drone every time a zombie killed. The drone fires 30 nettle spikes that deal 100 damage each.</color>\n<color=black>Odyssey Modifiers:\n<color=#8B0000>1. Basic Attack Damage ×5.\n2. Drone Attack Damage ×3.</color><size=36>",
+            "info": "<size=36>Summons drones to attack every time she defeats a zombie.\n\n<color=#4A2900>Usage Condition: Odyssey Mode | Initial Selection</color>\n<color=black>Damage: </color><color=#8B0000>160×2/1.5s</color>\n<color=black>Special: </color><color=#8B0000>Summons a drone every time she kills a zombie. The drone fires 30 nettle spikes that deal 100 damage each.</color>\n<color=black>Odyssey Modifiers:\n<color=#8B0000>1. Basic Attack Damage ×5\n2. Drone Attack Damage ×3</color><size=36>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Cattail + Nyan Squash"
         },
         {
@@ -655,21 +655,21 @@
             "seedType": 930,
             "name": "Gatling Frenzy-shroom",
             "introduce": "<align=justified><size=36><color=black>Compared to the composed demeanor of Gatling Doom, Gatling Frenzy-shroom has a much shorter temper, especially when someone calls her a \"Gray Egg\". She often yells \"Quietus!\" and charges into the fray.</color>",
-            "info": "<size=36>Continuously fires Doom-shroom attacks at zombies.\n\n<color=#4A2900>Usage Condition: Odyssey Mode | Unlockable With Gatling Doom's Modifier.</color>\n<color=black>Damage: </color><color=#8B0000>300/1.5 Seconds (0.25 Minimum)</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Subspecies of Gatling Doom.\n<color=black>•</color> Each attack will shorten the attack interval by 0.1 seconds, to a minimum of 0.25 seconds. Explodes when zombies get near.\n<color=black>•</color> Fires a bullet of doom every 16 attacks, dealing 1800 damage. When the \"fires bullets of doom every round\" Odyssey Modifier is active, fires a bullet of doom every 4 attacks.</color><size=36>",
+            "info": "<size=36>Continuously fires Doom-shroom attacks at zombies.\n\n<color=#4A2900>Usage Condition: Odyssey Mode | Unlockable With Gatling Doom's Modifier</color>\n<color=black>Damage: </color><color=#8B0000>300/1.5 Seconds (0.25 Minimum)</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Subspecies of Gatling Doom.\n<color=black>•</color> Each attack will shorten the attack interval by 0.1 seconds, to a minimum of 0.25 seconds. Explodes when zombies get near.\n<color=black>•</color> Fires a bullet of doom every 16 attacks, dealing 1800 damage. When the \"fires bullets of doom every round\" Odyssey Modifier is active, fires a bullet of doom every 4 attacks.</color><size=36>",
             "cost": "<size=36>Conversion Formula: <color=#8B0000>Peashooter <-> Scaredy-shroom"
         },
         {
             "seedType": 931,
             "name": "Obsidian Spike-nut",
             "introduce": "<align=justified><size=36><color=black>Obsidian Spike-nut loves hugs. \"A warm embrace can soothe even the rowdiest of zombies,\" he says. And sure enough, every zombie he's hugged is now lying peacefully on the lawn... completely still.",
-            "info": "<size=36>Defends against zombies and vehicles with its spikes.\n\n<color=#4A2900>Usage Condition: Odyssey Mode | Unlockable With Spike-obsidian's Modifier.</color>\n<color=black>Toughness: </color><color=#8B0000>16000</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Subspecies of Spike-obsidian.\n<color=black>•</color> Reflects 500 damage back to zombies biting it (after Modifier).\n<color=black>•</color> Received damage is capped at 1000.\n<color=black>•</color> Recovers 1500 Toughness per 15 Seconds.\n<color=black>•</color> Can puncture tires, dealing 50% of the maximum Toughness to the vehicle zombie and repelling them.\n<color=black>•</color> Benefits from Spike-obsidian's Odyssey Modifiers.</color>",
+            "info": "<size=36>Defends against zombies and vehicles with its spikes.\n\n<color=#4A2900>Usage Condition: Odyssey Mode | Unlockable With Spike-obsidian's Modifier</color>\n<color=black>Toughness: </color><color=#8B0000>16000</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Subspecies of Spike-obsidian.\n<color=black>•</color> Reflects 500 damage back to zombies biting it (after Modifier).\n<color=black>•</color> Received damage is capped at 1000.\n<color=black>•</color> Recovers 1500 Toughness per 15 Seconds.\n<color=black>•</color> Can puncture tires, dealing 50% of the maximum Toughness to the vehicle zombie and repelling them.\n<color=black>•</color> Benefits from Spike-obsidian's Odyssey Modifiers.</color>",
             "cost": "<size=36>\nConversion Formula: </color><color=#8B0000>Spikerock <-> Wall-nut</color>"
         },
         {
             "seedType": 932,
             "name": "Tycoonwood",
             "introduce": "<align=justified><size=36><color=black>Though still a small child, Tycoonwood returned from abroad with a showman's flair. His \"turn a stone into gold\" trick had audiences roaring with delight. Backstage, as he stirred a mysterious drink, he smirked and whispered, \"It's kind of magic, actually.\"</color>",
-            "info": "<size=36>Turn all straight-shooting bullets into coin bullets!\n\n<color=#4A2900>Usage Condition: Odyssey Mode | Initial Selection</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Convert all ordinary straight-shooting bullets encountered into 2 Silver Coins and 1 Gold Coin.\n<color=black>•</color> Gold Coins will move in a straight line. Silver Coins will split to the top and bottom rows initially then join the Gold Coins in the middle row after 0.8 Seconds.\n<color=black>•</color> Silver Coins will deal 50% of the original bullet's damage and return 10 coins when hitting zombies.\n<color=black>•</color> Gold Coins will deal 100% of the original bullet's damage and return 30 coins when hitting zombies.</color>\n<color=black>Odyssey Modifiers:</color>\n<color=#8B0000>1. 1% Damage increase to Coin projectiles for every 1000 Coins you have\n2. Tycoonwood's projectiles now deal splash damage</color>",
+            "info": "<size=36>Turns all straight-shooting bullets into coin bullets!\n\n<color=#4A2900>Usage Condition: Odyssey Mode | Initial Selection</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Converts all ordinary straight-shooting bullets encountered into 2 Silver Coins and 1 Gold Coin.\n<color=black>•</color> Gold Coins will move in a straight line. Silver Coins will split to the top and bottom rows initially then join the Gold Coins in the middle row after 0.8 Seconds.\n<color=black>•</color> Silver Coins will deal 50% of the original bullet's damage and return 10 coins when hitting zombies.\n<color=black>•</color> Gold Coins will deal 100% of the original bullet's damage and return 30 coins when hitting zombies.</color>\n<color=black>Odyssey Modifiers:</color>\n<color=#8B0000>1. 1% Damage increase to Coin projectiles for every 1000 Coins you have\n2. Tycoonwood's projectiles now deal splash damage</color>",
             "cost": "<size=36>\nFusion Formula: </color><color=#8B0000>Torchthree + Gold Magnet</color>"
         },
         {
@@ -690,7 +690,7 @@
             "seedType": 935,
             "name": "Mechanized Pumpkin",
             "introduce": "<align=justified><size=36><color=black>After a full-scale mechanical overhaul, Mechanized Pumpkin was a fortress on wheels. Composite armor? Check. Iron reinforcements? Double check. Tactical interface? You bet. Everything was perfect... until he caught a glimpse of his reflection. A crab. They turned him into a crab. \"Guys, seriously?! A little heads-up would've been nice!\"</color>",
-            "info": "<size=36>A pumpkin with many functions.\n\n<color=#4A2900>Usage Condition: Odyssey Mode | Initial Selection</color>\n<color=black>Toughness: </color><color=#8B0000>8000</color>\n<color=black>Special: </color>\n<color=#8B0000>Metal Plant. Has a multitude of traits.\n<color=black>•</color> Immune to Jack-in-the-Box explosions.\n<color=black>•</color> Allows Digger Zombies to come out of the ground early.\n<color=black>•</color> Halves damage from Cherry explosions.\n<color=black>•</color> Allows you to use Iron objects to regain Toughness.</color>\n<color=black>Odyssey Modifiers: </color><color=#8B0000>To Be Determined</color>",
+            "info": "<size=36>A pumpkin with many functions.\n\n<color=#4A2900>Usage Condition: Odyssey Mode | Initial Selection</color>\n<color=black>Toughness: </color><color=#8B0000>8000</color>\n<color=black>Special: </color>\n<color=#8B0000>Metal Plant. Has a multitude of traits.\n<color=black>•</color> Immune to Jack-in-the-Box explosions.\n<color=black>•</color> Forces Digger Zombies to come out of the ground early.\n<color=black>•</color> Halves damage from Cherry explosions.\n<color=black>•</color> Allows you to use Iron objects to regain Toughness.</color>\n<color=black>Odyssey Modifiers: </color><color=#8B0000>To Be Determined</color>",
             "cost": "<size=36>\nFusion Formula: </color><color=#8B0000>Magnet-shroom > Pumpkin Morph</color>"
         },
         {
@@ -710,7 +710,7 @@
         {
             "seedType": 938,
             "name": "Avarice-shroom",
-            "introduce": "<align=justified><size=36><color=black>\"They told her not to open it. Naturally, she opened it.\"Avarice-shroom ran a finger along the ornate lid, gilded and humming faintly with temptation. Whispers spilled from within—hunger, envy, ambition—all begging to be set free. With a smile too knowing to be innocent, she lifted the seal. What emerged wasn't hope. It was profit. \"Welcome, little monster,\" she whispered, as the abyss stirred and a new fortune clawed its way out.</color>",
+            "introduce": "<align=justified><size=36><color=black>\"They told her not to open it. Naturally, she opened it.\" Avarice-shroom ran a finger along the ornate lid, gilded and humming faintly with temptation. Whispers spilled from within—hunger, envy, ambition—all begging to be set free. With a smile too knowing to be innocent, she lifted the seal. What emerged wasn't hope. It was profit. \"Welcome, little monster,\" she whispered, as the abyss stirred and a new fortune clawed its way out.</color>",
             "info": "<size=36>She can summon Mini-boss zombies!\n\n<color=#4A2900>Usage Condition: Odyssey Mode | Unlockable With Calamity-shroom's Modifier</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Subspecies of Calamity-shroom.\n<color=black>•</color> Summons a Mini-boss Zombie depending on the scene:\nDay: Professor Cherryz | Night: Giga Football Striker | Pool: Jackson Worldwide | Fog: Skystrider Mecha | Roof 1: Pozeidon | Roof 2: Clown Jill-in-the-Box | Roof 3: Ultra Mecha-nut\n<color=black>•</color> At the same time, summons its ordinary Odyssey variant on all rows.\n<color=black>•</color> Defeating the Mini-boss Zombie gives you a ton of Sun, Coins, and points.\n<color=black>•</color> Defeating an ordinary Odyssey variant gives you 1 Plant Giftbox.\n<color=black>•</color> It can only be summoned once per round. This plant will not spawn from a Plant Giftbox.</color>",
             "cost": "\n<size=36>Conversion Formula: <color=#8B0000>Doom-shroom <-> Marigold</color>"
         },
@@ -753,7 +753,7 @@
             "seedType": 944,
             "name": "Tesla Magnet",
             "introduce": "<align=justified><size=36><color=black>Tesla Magnet commands iron with thunder and thunder with magnetic fields. He grants his people eternal magnetism and built a kingdom of electricity. Yet beyond his military conquests and political achievements, he still suffers headaches in the search for a queen with the opposite charge.</color>",
-            "info": "<size=36>Extremely magnetic, quickly absorbs metal objects and turn them into explosive cherries.\n\n<color=#4A2900>Usage Condition: Odyssey Mode | Initial Selection</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Inherits the traits of Lumos Magnet, metal object absorption CD: 0.5s.\n<color=black>•</color> Can pull the pogo sticks from Clown-in-the-Pogo Zombies and convert them into Jack-in-the-Boxes; also pulls (insta-kills) Kirov Drones and converts them into Jack-in-the-Boxes.\n<color=black>•</color> Deals 300 damage every 0.5s to 1 Giga Trident-nut Zombie or Giga Football-nut Zombie within range.\n<color=black>•</color> Launches absorbed metal after 3s, dealing the same damage and AoE as explosive cherries; with full-map targeting and anti-air capability.</color>\n<color=black>Odyssey Modifiers:</color>\n<color=#8B0000>1. Attack Range ×2\n2. Absorbs 3 Metal Objects at once, damage to Giga Trident-nut Zombies or Giga Football-nut Zombies ×3</color>",
+            "info": "<size=36>Extremely magnetic, quickly absorbs metal objects and turns them into explosive cherries.\n\n<color=#4A2900>Usage Condition: Odyssey Mode | Initial Selection</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Inherits the traits of Lumos Magnet, metal object absorption CD: 0.5s.\n<color=black>•</color> Can pull the pogo sticks from Clown-in-the-Pogo Zombies and convert them into Jack-in-the-Boxes; also pulls (insta-kills) Kirov Drones and converts them into Jack-in-the-Boxes.\n<color=black>•</color> Deals 300 damage every 0.5s to 1 Giga Trident-nut Zombie or Giga Football-nut Zombie within range.\n<color=black>•</color> Launches absorbed metal after 3s, dealing the same damage and AoE as explosive cherries; with full-map targeting and anti-air capability.</color>\n<color=black>Odyssey Modifiers:</color>\n<color=#8B0000>1. Attack Range ×2\n2. Absorbs 3 Metal Objects at once, damage to Giga Trident-nut Zombies or Giga Football-nut Zombies ×3</color>",
             "cost": "<size=36>Fusion Formula: <color=#8B0000>Lumos Magnet + Grenadier Magnet</color>"
         },
         {
@@ -795,7 +795,7 @@
             "seedType": 950,
             "name": "Radiant Pad",
             "introduce": "<align=justified><size=36><color=black>Her devotion to the Sun God flows louder than a raging river. Radiant Pad was eventually dismissed from the Sun Guard for being way too noisy—but that hasn’t stopped her from preaching His glory to every creature beneath the waves. So deep in her zeal, she hasn’t noticed one thing: she’s been blocking all the sunlight from reaching the lakebed.</color>",
-            "info": "<size=36>Golden Lilypad that can quickly produce copious amounts of Sun and Fortune.\n\n<color=#4A2900>Usage Condition: Odyssey Mode | Initial Selection with Radiant Pot</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Produces 50 Sun and 100 Coins every n=(Current Sun/1000) Seconds, where 3 ≤ n ≤ 15.</color>",
+            "info": "<size=36>Golden Lilypad that can quickly produce copious amounts of Sun and Coins.\n\n<color=#4A2900>Usage Condition: Odyssey Mode | Initial Selection with Radiant Pot</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Produces 50 Sun and 100 Coins every n=(Current Sun/1000) Seconds, where 3 ≤ n ≤ 15.</color>",
             "cost": "\n<size=36>Conversion Formula: <color=#8B0000>Shovel <-> Shovel</color>"
         },
         {
@@ -1207,7 +1207,7 @@
         {
             "seedType": 1057,
             "name": "Hot Squash",
-            "introduce": "<align=justified><size=36><color=black>Hot Squashes jumps out from the Squash Torchwood one by one, \"It's getting hot in there; our entire body is melting!\" they declared.</color></size>",
+            "introduce": "<align=justified><size=36><color=black>Hot Squashes jump out from the Squash Torchwood one by one, \"It's getting hot in there; our entire body is melting!\" they declared.</color></size>",
             "info": "<size=36>Just a Squash roasted and glazed with delicious sap.\n\n<color=black>Damage: </color><color=#8B0000>1800</color>\n<color=black>Special: </color><color=#8B0000>Cannot be used for fusions.</color></size>",
             "cost": "\n<size=36>"
         },
@@ -1894,7 +1894,7 @@
             "seedType": 1155,
             "name": "Hot Spikeweed",
             "introduce": "<align=justified><size=36><color=black>After the test of fire, he's still the same old Spikeweed, just wiser, shinier, and ready to give zombies warmer welcome!</color>",
-            "info": "<size=36>Hot Spikeweed? What's the different between him and the cooler Spikeweed?\n\n<color=black>Toughness: </color><color=#8B0000>300</color>\n<color=black>Special: </color><color=#8B0000>Cannot be used in fusions.</color>",
+            "info": "<size=36>Hot Spikeweed? What's the difference between him and the cooler Spikeweed?\n\n<color=black>Toughness: </color><color=#8B0000>300</color>\n<color=black>Special: </color><color=#8B0000>Cannot be used in fusions.</color>",
             "cost": "\n<size=36>"
         },
         {
@@ -2047,7 +2047,7 @@
         {
             "seedType": 1177,
             "name": "Twin Saw-me-not",
-            "introduce": "<align=justified><size=36><color=black>Twin Saw-me-not' two heads are constantly arguing — one swears spinning is the best approach, while the other insists launching saw blades is superior. Somehow, their teamwork still cuts through the competition.</color>",
+            "introduce": "<align=justified><size=36><color=black>Twin Saw-me-not's two heads are constantly arguing — one swears spinning is the best approach, while the other insists launching saw blades is superior. Somehow, their teamwork still cuts through the competition.</color>",
             "info": "<size=36>Attacks nearby zombies with its blades and can also strike at a distance!\n\n<color=black>Damage: </color><color=#8B0000>8/0.02 Seconds (Melee); 16/1.5 Seconds (Ranged)</color>\n<color=black>Special:</color><color=#8B0000>\n<color=black>•</color> The front head attacks like a regular Saw-me-not, while the back head targets all zombies on the screen (prioritizing flying zombies).\n<color=black>•</color> Gains 5 points of Shield every 0.5s, up to 300 max.</color>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Saw-me-not + Saw-me-not</color>"
         },
@@ -2328,20 +2328,20 @@
             "seedType": 1217,
             "name": "Spruce Sawshooter",
             "introduce": "<align=justified><size=36><color=black>In the snowy plains, it’s said that the taller the Christmas tree, the happier the next year will be. So who can place the star on top? That's a job for the Spruce Sawshooter and his unmatched aim.</color>",
-            "info": "<size=36>Fires piercing saws that leave spinning spruce needles on zombies.\n\n<color=black>Damage: </color><color=#8B0000>80/3 Seconds; 1×75/1.5 Seconds (Spinning spruce needle)</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Immune to freeze from Snowballs and Blizzards.\n<color=black>•</color> Projectiles pierce once (including ice blocks) and leave spinning pine needles on the first zombie hit.\n<color=black>•</color> Spinning needles deal 1 damage every 0.02 seconds for 1.5 seconds.</color>",
+            "info": "<size=36>Fires piercing saws that leave spinning spruce needles on zombies.\n\n<color=black>Damage: </color><color=#8B0000>80/3 Seconds; 1×75/1.5 Seconds (Spinning spruce needle)</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Immune to freeze from Snowballs and Blizzards.\n<color=black>•</color> Projectiles pierce once (including ice blocks) and leave spinning spruce needles on the first zombie hit.\n<color=black>•</color> Spinning needles deal 1 damage every 0.02 seconds for 1.5 seconds.</color>",
             "cost": "<size=36>Fusion Formula: <color=#8B0000>Spruce Sharpshooter + Saw-me-not</color>"
         },
         {
             "seedType": 1218,
             "name": "Soak-me-not",
             "introduce": "<align=justified><size=36><color=black>After equipping a high-pressure water jet, Soak-me-not greatly improved her cutting efficiency. But there's one downside — flowing water is hard to come by on the snowy plains.</color>",
-            "info": "<size=36>Cold-resistant, deals more damage compared to Saw-me-not and applies chill when there are ice charges.\n\n<color=black>Damage: </color><color=#8B0000>8/0.02s</color>\n<color=#0077b6>Cryo System: </color><color=#8B0000>\n<color=black>•</color> Gains 1/1/15 ice charge when affected by snowball/snow trident/Ice-shroom respectively.\n<color=black>•</color> With ice charges, attacks deal double damage, inflict Deep Chill and add 1 Cryo Point, but have an 1/9 chance to use up a charge. </color>\n<color=black>Special: </color><color=#8B0000>Immune to freeze from Snowballs.</color>",
+            "info": "<size=36>Cold-resistant, deals more damage when it's sufficiently cold and applies chill when there are ice charges.\n\n<color=black>Damage: </color><color=#8B0000>8/0.02s</color>\n<color=#0077b6>Cryo System: </color><color=#8B0000>\n<color=black>•</color> Gains 1/1/15 ice charge when affected by snowball/snow trident/Ice-shroom respectively.\n<color=black>•</color> With ice charges, attacks deal double damage, inflict Deep Chill and add 1 Cryo Point, but have an 1/9 chance to use up a charge. </color>\n<color=black>Special: </color><color=#8B0000>Immune to freeze from Snowballs.</color>",
             "cost": "<size=36>\nFusion Formula: <color=#8B0000>Saw-me-not + Aloe Aqua</color>"
         },
         {
             "seedType": 1219,
             "name": "Spruce Sprayshooter",
-            "introduce": "<align=justified><size=36><color=black>Can an archer compete without a bow? Droplet Shooter shrugs: \"It's just waterbending.\"</color>",
+            "introduce": "<align=justified><size=36><color=black>Can an archer compete without a bow? Spruce Sprayshooter shrugs: \"It's just waterbending.\"</color>",
             "info": "<size=36>Bends and shoots water orbs; consumes ice charges to launch ice blocks instead.\n\n<color=black>Damage: </color><color=#8B0000>50/1.5s</color>\n<color=#0077b6>Cryo System: </color><color=#8B0000>\n<color=black>•</color> Gains 1/1/15 ice charges when affected by snowball/snow trident/Ice-shroom respectively.\n<color=black>•</color> Uses 1 ice charge to shoot an ice block with double the damage that inflicts Deep Chill and adds 40 Cryo points, dealing ×4 damage to Frozen zombies.</color>\n<color=black>Special: </color><color=#8B0000>Immune to freeze from Snowballs and Blizzards.</color>",
             "cost": "<size=36>\nFusion Formula: <color=#8B0000>Spruce Sharpshooter + Aloe Aqua</color>"
         },
@@ -2537,7 +2537,7 @@
         {
             "seedType": 1247,
             "name": "Spruce Ballista",
-            "introduce": "<align=justified><size=36><color=black>Pulling a giant ballista is exhausting, so even Spruce Ballista needs a vacation. Thanks to Astro-nuts help, he found a job in another world: Helping to launch angry avians at some very green, very smug pigs.</color>",
+            "introduce": "<align=justified><size=36><color=black>Pulling a giant ballista is exhausting, so even Spruce Ballista needs a vacation. Thanks to Astro-nut's help, he found a job in another world: Helping to launch angry avians at some very green, very smug pigs.</color>",
             "info": "<size=36>Fires giant spruce bolts that pierce through zombies and detonate with a short delay.\n\n<color=black>Damage: </color><color=#8B0000>80/3s</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Immune to freeze from Snowballs and Blizzards.\n<color=black>•</color> Bolts pierce up to 2 times (can pierce ice) and explode 0.3s after hitting a zombie, dealing AoE damage in a small area.</color>",
             "cost": "<size=36>Cost: <color=#8B0000>300</color>\nRecharge: <color=#8B0000>50s</color>"
         },
@@ -2587,7 +2587,7 @@
             "seedType": 1254,
             "name": "Atlantis Ballista",
             "introduce": "<align=justified><size=36><color=black>Atlantis Ballista once served proudly atop the castle walls, convinced his power was like a roaring tsunami. Turns out, everyone was just talking about the screech his strings made when reloading. Embarrassed but undeterred, he found salvation in aloe juice. Now his bolts are smoother, deadlier, and most importantly, much quieter.</color>",
-            "info": "<size=36>Fires tidal bolts with a tsunami's force; targets struck become more vulnerable to chill.\n\n<color=black>Damage: </color><color=#8B0000>80/1s</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Immune to freeze from Snowballs and Blizzards.\n<color=black>•</color> Fires 4 bolts in quick succesion before resting for 3s.\n<color=black>•</color> 90% chance to fire Tidal Bolts. Applies Soaked for 5s. A soaked zombie will be frozen instead of chilled when hit by a cryo-system attacks. The status is then cleared and cannot be reapplied for 10s.\n<color=black>•</color> 10% chance to fire Ice Bolts. Applies Deep Chill.</color>",
+            "info": "<size=36>Fires tidal bolts with a tsunami's force; targets struck become more vulnerable to chill.\n\n<color=black>Damage: </color><color=#8B0000>80/1s</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Immune to freeze from Snowballs and Blizzards.\n<color=black>•</color> Fires 4 bolts in quick succesion before resting for 3s.\n<color=black>•</color> 90% chance to fire Tidal Bolts. Applies Soaked for 5s. A soaked zombie will be frozen instead of chilled when hit by any cryo-system attack. The status is then cleared and cannot be reapplied for 10s.\n<color=black>•</color> 10% chance to fire Ice Bolts. Applies Deep Chill.</color>",
             "cost": "<size=36>Fusion Formula: <color=#8B0000>Aloe Aqua > Spruce Ballista</color>"
         },
         {
@@ -2616,14 +2616,14 @@
             "name": "Bamblotus",
             "introduce": "<align=justified><size=36><color=black>Every winter, Bamblotus tries to impress potential mates with a dazzling petal display. But his performance often goes… too fast. And too cold. The girls walk away before he even finishes blooming.</color>",
             "info": "<size=36>A self-healing barricade that grows stronger with nearby allies.\n\n<color=black>Toughness: </color><color=#8B0000>1500</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Immune to freeze from Snowballs and Blizzards.\n<color=black>•</color> Heals himself by 50 HP when charged.\n<color=black>•</color> Recovers 40 HP every 1.5s. This HP recovery is increased by 100% for each adjacent Bamblock-type plants.\n<color=black>•</color> Resilience (defaults to 1): Incoming damage is divided by resilience. Max HP is treated as multiplied by resilience. Resilience is increased by 0.3 for each adjacent Bamblock-type plants.</color>",
-            "cost": "<size=36>Fusion Formula: <color=#8B0000>Bamblock + Snow Lotus</color>"
+            "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Bamblock + Snow Lotus</color>"
         },
         {
             "seedType": 1259,
             "name": "Bambloe",
             "introduce": "<align=justified><size=36><color=black>Bambloe loves to travel and promote his snowy hometown. But no one ever seems interested. \"They always think the pack on my back is just a bump from getting whacked,\" he complains. \"No wonder they think the tundra's an unforgiving place.\"</color>",
             "info": "<size=36>An ice-hardened barricade that thrives against cold-based zombies.\n\n<color=black>Toughness: </color><color=#8B0000>1500</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Immune to freeze from Snowballs and Blizzards.\n<color=black>•</color> Gains ice charges like Aloe Aqua.\n<color=black>•</color> Resilience (defaults to 1): Incoming damage is divided by resilience. Max HP is treated as multiplied by resilience. Consumes 1 charge to raise resilience by 2. Gains 1 resilience when fighting chilled/frozen zombies (not stackable with previous ability).</color>",
-            "cost": "<size=36>Fusion Formula: <color=#8B0000>Bamblock + Aloe Aqua</color>"
+            "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Bamblock + Aloe Aqua</color>"
         }
     ]
 }
