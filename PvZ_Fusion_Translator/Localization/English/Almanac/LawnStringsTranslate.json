@@ -270,7 +270,7 @@
             "seedType": 38,
             "name": "Aloe Aqua",
             "introduce": "<align=justified><size=36><color=black>Aloe Aqua thought opening a spa in the snowy plains would be relaxing—until she realized no one wants a cold soak in subzero weather. At least the snow keeps the towels crisp.</color>",
-            "info": "<size=36>Cold-loving lobber that throws dew drops, or ice chunks when it's sufficiently chill.\n\n<color=black>Damage: </color><color=#8B0000>20/3s</color>\n<color=#0077b6>Cryo System: </color><color=#8B0000>\n<color=black>•</color> Gains 1/1/15 ice charges when affected by snowball/snow trident/Ice-shroom respectively.\n<color=black>•</color> Consumes 1 charge to throw an ice chunk (×2 damage, applies Deep Chill, 40 Cryo points).\n<color=black>•</color> Deep Chill: same as regular chill but affects Frost Legionnaires too. Zombonis are still immune.\n<color=black>•</color> Deals ×4 damage to frozen zombies.</color>\n<color=black>Special: </color><color=#8B0000>Immune to freeze from Snowballs.</color>",
+            "info": "<size=36>Cold-loving lobber that throws dew drops, or ice chunks when it's sufficiently chill.\n\n<color=black>Damage: </color><color=#8B0000>20/3s</color>\n<color=#0077b6>Cryo System: </color><color=#8B0000>\n<color=black>•</color> Gains 1/1/15 ice charges when affected by snowball/snow trident/Ice-shroom respectively.\n<color=black>•</color> Consumes 1 charge to throw an ice chunk (×2 damage, applies Deep Chill, 40 Cryo points).\n<color=black>•</color> Deep Chill: same as regular Chill but affects Frost Legionnaires too. Zombonis are still immune.\n<color=black>•</color> Deals ×4 damage to frozen zombies.</color>\n<color=black>Special: </color><color=#8B0000>Immune to freeze from Snowballs.</color>",
             "cost": "<size=36>Cost: <color=#8B0000>75</color>\nRecharge: <color=#8B0000>7.5s</color>"
         },
         {
@@ -2460,7 +2460,7 @@
         {
             "seedType": 1236,
             "name": "Doom-nut",
-            "introduce": "<align=justified><size=36><color=black>Doom-nut is a huge fan of Batman. He rarely speaks, preferring to lurk in shadows and only shows up at the occasional Comic-cons. One time, he startled McCornics in a hallway. \"When did Doom-shroom get... this bulky?\" the old corn muttered.</color>",
+            "introduce": "<align=justified><size=36><color=black>Doom-nut is a huge fan of Batman. He rarely speaks, preferring to lurk in shadows, and only shows up at the occasional Comic-cons. One time, he startled McCornics in a hallway. \"When did Doom-shroom get... this bulky?\" the old corn muttered.</color>",
             "info": "<size=36>Wall-nut with nuclear potential. \n\n<color=black>Toughness: </color><color=#8B0000>4000</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Immune to non-physical explosions. \n<color=black>•</color> Prevents Doom-shroom Zombies in a 3×3 area from exploding. \n<color=black>•</color> Heals for 100 HP when a zombie with Ember debuff dies in a 5×5 area.\n<color=black>•</color> Triggers Doom-shroom effect on death.</color>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Wall-nut + Doom-shroom</color>"
         },
