@@ -20,7 +20,7 @@ The download links for the Multi-language Mod and the translation files of the M
  PvZ Fusion Version  |  Platform  |  Download Links 
 ------ | ------ | ------
 **\_Redist (Install these if you have problem launching the game)** | PC | [MEGA](https://mega.nz/file/gzU2QTIY#R71lWGYvXCxG4WBtzLyCRkkHV-WGqKB84rXXR4ikOSg)
-**Multi-Language 2.7 Version 1** | PC | [MEGA](https://mega.nz/file/8zVXnS6J#rHCSdiRe6s9aZ3nOtSVcoEsuShorH_IxwnXkUTWgVXs) [Google Drive](https://drive.google.com/file/d/1lF6UfR8Fr-9Tg5v9P9lsxFei5AEnFSzp/view?usp=sharing)
+**Multi-Language 2.7 Version 2** | PC | [MEGA](https://mega.nz/file/wrcEWIjB#Ao0CdR7guMHQY9E4jne-ofe8Ho3zSovkZPC68SZom-0) [Google Drive](https://drive.google.com/file/d/1H9OiXRULuP5OIJYcVsQMI842jgGpamLX/view?usp=sharing)
 Multi-Language 2.6.1 Version 3 hotfix | PC | [MEGA](https://mega.nz/file/Yu1mnawC#nEzWY8_HwGO-Sku1jrLQSD5sffcWK8-KgPkA9T0Kqvw) [Google Drive](https://drive.google.com/file/d/1StU_nHRDNQYRBhM_t9xHDTXYBU0rMBjW/view?usp=sharing)
 English Lite 2.6.1 hotfix | PC | [MEGA](https://mega.nz/file/N6kiSLaY#Md5dLwhnDfsSKxsS02ZkxPmjyyN59o4tBQXO3XqUBmY) [Google Drive](https://drive.google.com/file/d/1HWQDvh5wBtWFrRt9KFpAM8qTF7VXAIld/view?usp=sharing)
 **English 2.7 by Nvdtn19** | Android |  [Google Drive](https://drive.google.com/drive/folders/13-zefuw1geoi_Ky7919GQ3Can65guXrJ) [Archive](https://archive.org/download/pvz-fusion-fanmade-android-english-version-by-nvdtn19/PvZ%20Fusion%20Fanmade%20Android%20English%20version%20by%20Nvdtn19/)
@@ -32,11 +32,11 @@ Chinese 2.6.1 | Android | [MEGA](https://mega.nz/file/9j0Q1ZzK#SxIgNW-uTDFxHWGE2
 
 > Looking to play the Multi-Language on Linux? [Click Here](https://discord.com/channels/1320410104587227147/1320555521744437258)
 
-> The Multi-Language version contains the following languages: **English**, **French**, **Italian**, **German**, **Spanish**, **Portuguese**, **Vietnamese**, **Javanese**, **Indonesian**, **Russian**, **Japanese**, and **Korean**.
+> The Multi-Language version supports the following languages: **English**, **French**, **Italian**, **German**, **Spanish**, **Portuguese**, **Vietnamese**, **Javanese**, **Indonesian**, **Russian**, **Japanese**, and **Korean**. Other contained languages are empty for the moment.
 	Up-to-date - None
- 	Last Updated 2.7 - English, Vietnamese,
-	Last Updated 2.6.1 - Indonesian, Russian, Spanish
-	Last Updated 2.5.1 - Portuguese, Russian, Javanese
+ 	Last Updated 2.7 - English, Vietnamese, Spanish
+	Last Updated 2.6.1 - Indonesian, Russian 
+	Last Updated 2.5.1 - Portuguese, Javanese
 	Last Updated 2.3.1 - Korean, French
 	Last Updated 2.2.1 / Partially Updated - Japanese
 	Last Updated 2.1.6 / Partially Updated - German, Italian
@@ -109,9 +109,9 @@ __Xabdi__  | Custom Textures, New In-Game Audio
 English | Dyna, Mamoru-kun, Cassidy, Professor Cherry Zaitsev, Dimardan, JustTer, Invis19 | IzzytehWolf, \|>.<\|, Diiax, Hetsuko, Metroidsans, Flow
 French | Erwandawa123, Grymm80, Jedi | Ronny, Mamoru-kun
 Italian | No active translator | Dyna, Pasuqlaw, Daka
-German | No active translator | Stevenzocker, Dyna
-Spanish | Arooming, Xabdi, Teyliu | Hairy Nugget, Moonlight
-Portuguese | Bioxcis (Texture Editor), NickZin006, Prats, Shel (Texture Editor), Dgamer15 (Playtester) | 
+German | No active translator | Stevenzocker, Dynagi
+Spanish | Xabdi, Teyliu | Hairy Nugget, Moonlight, Arooming
+Portuguese |  | Bioxcis (Texture Editor), NickZin006, Prats, Shel (Texture Editor), Dgamer15 (Playtester)
 Javanese | Xelag, 由羅 (Yura), JustTer, Star Apple
 Vietnamese | Just Eris, CBD Team | 
 Indonesian | 由羅 (Yura), Xelag, Seroja, Star Apple | 
