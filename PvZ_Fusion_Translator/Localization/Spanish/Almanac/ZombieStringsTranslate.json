@@ -177,9 +177,9 @@
     },
     {
       "theZombieType": 30,
-      "name": "Zombiyaso con Caja",
-      "introduce": "<size=39><color=#3D1400>Para cada zombi payaso, la autodestrucción es la forma más alta de arte, y el Zombiyaso sobresale por encima de todos. \"¡El Zombiyaso nunca se quitará la máscara ni soltará la caja de regalo en su mano!\"</color></size>",
-      "info": "<size=39>¡El Zombiyaso también puede explotar después de su muerte!\n\n<color=#3D1400>Dureza: </color><color=#4B0082>720+370</color>\n<color=#3D1400>Características: </color><color=#4B0082>Después de explotar, duplica su velocidad y puede autodestruirse para convertirse en un Zombi con Cajita. Cuanto más rápido explote, mayor es la posibilidad de morir.</color></size>"
+      "name": "Payazombi",
+      "introduce": "<size=39><color=#3D1400>Para cada zombi payaso, la autodestrucción es la forma más alta de arte, y el Payazombi sobresale por encima de todos. \"¡El Payazombi nunca se quitará la máscara ni soltará la caja de regalo en su mano!\"</color></size>",
+      "info": "<size=39>¡El Payazombi también puede explotar después de su muerte!\n\n<color=#3D1400>Dureza: </color><color=#4B0082>720+370</color>\n<color=#3D1400>Características: </color><color=#4B0082>Después de explotar, duplica su velocidad y puede autodestruirse para convertirse en un Zombi con Cajita. Cuanto más rápido explote, mayor es la posibilidad de morir.</color></size>"
     },
     {
       "theZombieType": 31,
@@ -363,8 +363,8 @@
     },
     {
       "theZombieType": 102,
-      "name": "Vegezombi Cerezaxplosivo",
-      "introduce": "<size=39><color=#3D1400>El Vegezombi Cerezaxplosivo ama escuchar \"Cherry Bomb\" de The Runaways, lo que podría explicar su ardiente pasión. Sin embargo, nadie sabe cómo aprendió a encender fuegos artificiales con su boca.</color></size>",
+      "name": "Vegezombi Explosivo",
+      "introduce": "<size=39><color=#3D1400>El Vegezombi Explosivo ama escuchar \"Cherry Bomb\" de The Runaways, lo que podría explicar su ardiente pasión. Sin embargo, nadie sabe cómo aprendió a encender fuegos artificiales con su boca.</color></size>",
       "info": "<size=39>Dispara cerezas explosivas para atacar tus plantas.\n\n<color=#3D1400>Daño: </color><color=#4B0082>1000</color>\n<color=#3D1400>Dureza: </color><color=#4B0082>500</color></size>"
     },
     {
@@ -411,7 +411,7 @@
     },
     {
       "theZombieType": 110,
-      "name": "Zombi Caracaja Dorado",
+      "name": "Zombi Caracaja Dorada",
       "introduce": "<size=39><color=#3D1400>？？！</color></size>",
       "info": "<size=39>¿¡Uno dorado!? Me pregunto qué habrá dentro de esta Caja Misteriosa...\n\n<color=#3D1400>Dureza: </color><color=#4B0082>270+720</color>\n<color=#3D1400>Características: </color><color=#4B0082>Después de que la caja se caiga, aparece un zombi caracaja con dureza completa.</color></size>"
     },
@@ -543,9 +543,9 @@
     },
     {
       "theZombieType": 211,
-      "name": "Submarinón Terrestre",
-      "introduce": "<size=39><color=#3D1400>\u0022Esto es horrible.\u0022 Reclama el Submarinón Terrestre. \u0022No se como he quedado en este estado. Estaba tomando una siesta y el dia siguiente mi submarino aparece enterrado como si estuviera descompuesto. ¡Me costará un mundo llevarlo de nuevo a su hábitat!\u0022</color></size>",
-      "info": "<size=39>Es incapaz de moverse.\n\n<color=#3D1400>Dureza: </color><color=#4B0082>3000\n(Este zombi no se puede encontrar mientras juegas.)</color></size>"
+      "name": "Submarinón Atascado",
+      "introduce": "<size=39><color=#3D1400>\u0022Esto es horrible.\u0022 Reclama el conductor del Submarinón. \u0022No se como he quedado en este estado. Estaba tomando una siesta y el dia siguiente mi submarino aparece enterrado como si estuviera descompuesto. ¡Me costará un mundo llevarlo de nuevo a su hábitat!\u0022</color></size>",
+      "info": "<size=39>Es incapaz de moverse.\n\n<color=#3D1400>Dureza: </color><color=#4B0082>3000\n(Este zombi no se puede encontrar mientras juegas, solo aparece tras darle una Nuez a la Nuez Kírov)</color></size>"
     },
     {
       "theZombieType": 212,
@@ -561,8 +561,8 @@
     },
     {
       "theZombieType": 214,
-      "name": "Vegezombixplosivo con Delfín",
-      "introduce": "<size=39><color=#3D1400>Vegezombixplosivo con Delfín siempre se despierta de muy mal humor, especialmente cuando un compañero que monta una ballena lo arrastra al trabajo. Impulsado por la rabia, está listo para destruir cualquier planta en su camino antes de regresar para una siesta.</color>",
+      "name": "Explotozombi con Beluga",
+      "introduce": "<size=39><color=#3D1400>Explotozombi con Beluga siempre se despierta de muy mal humor, especialmente cuando un compañero que monta una ballena lo arrastra al trabajo. Impulsado por la rabia, está listo para destruir cualquier planta en su camino antes de regresar para una siesta.</color>",
       "info": "<size=39>¡Salta y demuele desde detrás de tu defensa disparando cerezas explosivas!\n\n<color=#3D1400>Dureza: </color><color=#4B0082>1500</color>\n<color=#3D1400>Características: </color><color=#4B0082>Comienza a disparar cerezas explosivas 3 segundos después de entrar en tu césped.</color>"
     },
     {
@@ -640,7 +640,7 @@
     {
       "theZombieType": 227,
       "name": "Vegezombi Centinela",
-      "introduce": "<size=39><color=#3D1400>*Ay no... La descripción se congeló, revisa aquí otro dia.*</color>",
+      "introduce": "<size=39><color=#3D1400>Ay no... La descripción se congeló, revisa aquí otro dia.</color>",
       "info": "<size=39>Vegezombis Árticos con garras de hielo.\n\n<color=#3D1400>Dureza: </color><color=#4B0082>720+2200</color>\n<color=#3D1400>Características:</color> <color=#4B0082>Hereda características del Vegezombi Ártico. Provienen de zombis transformados por Seta Emperador y Cactus Emperador.</color>"
     },
     {

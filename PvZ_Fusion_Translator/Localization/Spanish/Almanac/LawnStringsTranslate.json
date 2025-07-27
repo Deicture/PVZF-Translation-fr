@@ -1124,8 +1124,8 @@
     },
     {
       "seedType": 242,
-      "name": "Princesa Carmesí",
-      "introduce": "<size=39><color=#3D1400>La pequeña flor que antes era tan ardiente, después de pasar por tantas dificultades, ha crecido para convertirse en una experta en la producción de sol. La Princesa Carmesí ya no necesita sufrir para tener efecto. Su antorcha en la cabeza se ha convertido en su poder, brillando como el sol, y la brillante llama seguirá transmitiéndose, creando un nuevo 'Endoflama' tras otro.</color></size>",
+      "name": "Princesa Endoflama",
+      "introduce": "<size=39><color=#3D1400>La pequeña flor que antes era tan ardiente, después de pasar por tantas dificultades, ha crecido para convertirse en una experta en la producción de sol. La Princesa Endoflama ya no necesita sufrir para tener efecto. Su antorcha en la cabeza se ha convertido en su poder, brillando como el sol, y la brillante llama seguirá transmitiéndose, creando un nuevo 'Endoflama' tras otro.</color></size>",
       "info": "<size=39>¡Dispara soles ardientes que impactan zombis! Si un disparo atraviesa una Plantorcha Infernal, ¡su daño se cuadruplica!\n\n<color=#3D1400>Desbloqueo: <color=red>Completa Odisea: Clásica</color>\n<color=#3D1400>Daño: </color><color=red>300x8/2s</color>\n<color=#3D1400>Resistencia: </color><color=red>1000</color>\n<color=#3D1400>Nombre Científico: </color><color=red>Ignis solaris</color></size>",
       "cost": "<size=39>Costo: <color=red>200</color>\nRecarga: <color=red>30 segundos</color></size>"
     },
@@ -3919,7 +3919,7 @@
     },
     {
       "seedType": 924,
-      "name": "Seta Chamán",
+      "name": "Seta Coratrón",
       "introduce": "<size=39><color=#3D1400>\"¡Con el poder del amor y la amistad, hasta un zombi podrido sin corazón latiente se volverá nuestro aliado! Claro, junto con esporas sospechosas... <b>totalmente seguras</b> para humanos. Al menos por ahora...\"</color></size>",
       "info": "<size=39>Carisma máxima.\n\n<color=#3D1400>Daño: </color><color=red>80/2 Segundos</color>\n<color=#3D1400>Especial: </color>\n- Proyectiles con <color=red>explosión de 1 casilla</color> (sin reducción de daño).\n- <color=red>No pueden ser consumidos</color> por zombis.\n- Alimentarla con metales otorga <color=red>1 nivel de carga</color> (30s, máximo 2).\n  - <color=red>1 carga</color>: 2 disparos/ataque.\n  - <color=red>2 cargas</color>: 4 disparos/ataque.\n- <color=#8B0000>Sistema Magnético</color>: <color=red>+5% daño por planta</color> en el sistema.\n\n<color=purple>Mejoras de Odisea:</color>\n- <color=red>Umbral de Encanto</color> aumentado (<color=red>50% → 100%</color>)\n- <color=red>Su carga no baja bajo 2; máxima carga incrementada a 3 | Intervalos de Ataque → 1 Segundo</color>\n\n<color=#3D1400>Fórmula de Fusión: </color><color=red>Coraseta + Hipnomagneta</color>\n<color=#3D1400>Nombre científico: </color><color=red>Mycena fascinator</color></size>",
       "cost": "<size=33>Costo: <color=red>350, 725</color>   Recarga: <color=red>825 Segundos</color>\nPlantas Requeridas: <color=red>5\n<color=purple>Condición de Uso: Modo Odisea</color></size>"
