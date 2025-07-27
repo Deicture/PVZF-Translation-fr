@@ -20,7 +20,7 @@ The download links for the Multi-language Mod and the translation files of the M
  PvZ Fusion Version  |  Platform  |  Download Links 
 ------ | ------ | ------
 **\_Redist (Install these if you have problem launching the game)** | PC | [MEGA](https://mega.nz/file/gzU2QTIY#R71lWGYvXCxG4WBtzLyCRkkHV-WGqKB84rXXR4ikOSg)
-**Multi-Language 2.7 Version 2** | PC | [MEGA](https://mega.nz/file/wrcEWIjB#Ao0CdR7guMHQY9E4jne-ofe8Ho3zSovkZPC68SZom-0) [Google Drive](https://drive.google.com/file/d/1H9OiXRULuP5OIJYcVsQMI842jgGpamLX/view?usp=sharing)
+**Multi-Language 2.7 Version 2** | PC | [MEGA](https://mega.nz/file/svtnQBKY#Ldl0K8N6V6Yei7VMg8nYFFo9gAlg2MB_xVvYNTF4q5c) [Google Drive](https://drive.google.com/file/d/1H9OiXRULuP5OIJYcVsQMI842jgGpamLX/view?usp=sharing)
 Multi-Language 2.6.1 Version 3 hotfix | PC | [MEGA](https://mega.nz/file/Yu1mnawC#nEzWY8_HwGO-Sku1jrLQSD5sffcWK8-KgPkA9T0Kqvw) [Google Drive](https://drive.google.com/file/d/1StU_nHRDNQYRBhM_t9xHDTXYBU0rMBjW/view?usp=sharing)
 English Lite 2.6.1 hotfix | PC | [MEGA](https://mega.nz/file/N6kiSLaY#Md5dLwhnDfsSKxsS02ZkxPmjyyN59o4tBQXO3XqUBmY) [Google Drive](https://drive.google.com/file/d/1HWQDvh5wBtWFrRt9KFpAM8qTF7VXAIld/view?usp=sharing)
 **English 2.7 by Nvdtn19** | Android |  [Google Drive](https://drive.google.com/drive/folders/13-zefuw1geoi_Ky7919GQ3Can65guXrJ) [Archive](https://archive.org/download/pvz-fusion-fanmade-android-english-version-by-nvdtn19/PvZ%20Fusion%20Fanmade%20Android%20English%20version%20by%20Nvdtn19/)
