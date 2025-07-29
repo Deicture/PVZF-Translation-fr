@@ -361,7 +361,7 @@
             "seedType": 244,
             "name": "Jicamagic",
             "introduce": "<align=justified><size=36><color=black>\"I'm a grand magician to rival the great Imitater,\" proclaimed Jicamagic. However, only his good friend, Imitater, knows the truth: Jicamagic and Dr. Edgar used to study life sciences in the same class.</color>",
-            "info": "<size=36>Catalyst for Titan fusions.\n\n<color=#4A2900>Unlock Conditions: Beat any Titan fusion level in Fusion Showcase</color>\n<color=black>Special: </color><color=#8B0000>A fusion catalyst for Titan plants. Place it on the middle plant to start the fusion. Titan fusions are indicated with \"∞\".<color=#8B0000></color>",
+            "info": "<size=36>Catalyst for Titan fusions.\n\n<color=#4A2900>Unlock Conditions: Beat Titan Pea Turret's showcase in Fusion Showcase</color>\n<color=black>Special: </color><color=#8B0000>A fusion catalyst for Titan plants. Place it on the middle plant to start the fusion. Titan fusions are indicated with \"∞\".<color=#8B0000></color>",
             "cost": "<size=36>Cost: <color=#8B0000>50</color>\nRecharge: <color=#8B0000>30s</color>"
         },
         {
@@ -2172,8 +2172,8 @@
         },
         {
             "seedType": 1195,
-            "name": "Lumos Pot",
-            "introduce": "<align=justified><size=36><color=black>The Lumos Pot always emits a warm glow, so it is often used as a nightlight. If you look closely, you will also find a small inscription on the edge of the pot that says, \"Firefly habitat, please do not disturb.\"</color>",
+            "name": "Pot-light",
+            "introduce": "<align=justified><size=36><color=black>The Pot-light always emits a warm glow, so it is often used as a nightlight. If you look closely, you will also find a small inscription on the edge of the pot that says, \"Firefly habitat, please do not disturb.\"</color>",
             "info": "<size=36>A Flower Pot that can be used as a small Plantern, providing 1 Lumos level for its tile.\n\n<color=black>Special: </color><color=#8B0000>Dispels a small patch of fog, providing 1 Lumos level for its tile.</color>",
             "cost": "<size=36>\nFusion Formula: <color=#8B0000>Flower Pot > Plantern</color>"
         },
