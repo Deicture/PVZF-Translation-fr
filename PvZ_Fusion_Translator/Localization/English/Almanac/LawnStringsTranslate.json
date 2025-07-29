@@ -634,7 +634,7 @@
             "seedType": 927,
             "name": "Apeacalypse Minigun",
             "introduce": "<align=justified><size=36><color=black>Apeacalypse Minigun rarely interacts with people. It's not due to arrogance, but because people keep asking whether the fire on his body is hot or cold, and whether he can create hot ice or cold fire. These questions bore him.</color>",
-            "info": "<size=36>Becomes stronger the more Toughness it loses.\n\n<color=#4A2900>Usage Condition: Odyssey Mode | Unlockable</color>\n<color=black>Damage: </color><color=#8B0000>120×3/0.5s</color>\n<color=black>Toughness: </color><color=#8B0000>8000</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Other plants cannot absorb damage for Apeacalypse Minigun. Each shot fired inflicts 50 damage to self until Toughness is reduced to 1500. \n<color=black>•</color> Shots knock back zombies and pierce twice, with power halved per pierce. \n<color=black>•</color> Fires faster as Toughness decreases and reaches maximum speed of 0.25s at 1/3 Toughness. If Toughness is further reduced, attack damage increases. Damage is capped at 480 at 0 Toughness.</color>\n<color=black>Odyssey Modifiers:\n<color=#8B0000>1. Lv1: Defense increases as Toughness decreases. Below 500 HP, it becomes immune to damage under 1k; Lv2: Below 500 HP, base damage ×2\n2. Increases projectile damage and knockback ×3</color><size=36>",
+            "info": "<size=36>Becomes stronger the more Toughness it loses.\n\n<color=#4A2900>Usage Condition: Odyssey Mode | Unlockable</color>\n<color=black>Damage: </color><color=#8B0000>120×3/0.5s</color>\n<color=black>Toughness: </color><color=#8B0000>8000</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Other plants cannot absorb damage for Apeacalypse Minigun. Each shot fired inflicts 50 damage to self until Toughness is reduced to 500. \n<color=black>•</color> Shots knock back zombies and pierce twice, with power halved per pierce. \n<color=black>•</color> Fires faster as Toughness decreases and reaches maximum speed of 0.25s at 1/3 Toughness. If Toughness is further reduced, attack damage increases. Damage is capped at 480 at 0 Toughness.</color>\n<color=black>Odyssey Modifiers:\n<color=#8B0000>1. Lv1: Defense increases as Toughness decreases. Below 500 HP, it becomes immune to damage under 1k; Lv2: Below 500 HP, base damage ×2\n2. Increases projectile damage and knockback ×3</color><size=36>",
             "cost": "<size=36>Fusion Formula: <color=#8B0000>Spicicle > Titan Pea Turret"
         },
         {
@@ -2172,8 +2172,8 @@
         },
         {
             "seedType": 1195,
-            "name": "Pot-light",
-            "introduce": "<align=justified><size=36><color=black>The Pot-light always emits a warm glow, so it is often used as a nightlight. If you look closely, you will also find a small inscription on the edge of the pot that says, \"Firefly habitat, please do not disturb.\"</color>",
+            "name": "Lumos Pot",
+            "introduce": "<align=justified><size=36><color=black>The Lumos Pot always emits a warm glow, so it is often used as a nightlight. If you look closely, you will also find a small inscription on the edge of the pot that says, \"Firefly habitat, please do not disturb.\"</color>",
             "info": "<size=36>A Flower Pot that can be used as a small Plantern, providing 1 Lumos level for its tile.\n\n<color=black>Special: </color><color=#8B0000>Dispels a small patch of fog, providing 1 Lumos level for its tile.</color>",
             "cost": "<size=36>\nFusion Formula: <color=#8B0000>Flower Pot > Plantern</color>"
         },
