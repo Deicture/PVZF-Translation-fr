@@ -1,8 +1,9 @@
 import json
 import os
 
-# Change the current working directory to the script's directory
-os.chdir(os.path.dirname(os.path.abspath(__file__)))
+# Set working directory to this script's directory
+script_dir = os.path.dirname(os.path.abspath(__file__))
+os.chdir(script_dir)
 
 def merge_entries(primary_list, fallback_list, key):
     """
@@ -26,49 +27,51 @@ def merge_entries(primary_list, fallback_list, key):
 
     return result
 
-# ================== WORKING AREA ==================
+# ---- MAIN ENTRY ----
+if __name__ == '__main__':
+    # Define language codes
+    lang_primary = 'Japanese'
+    lang_fallback = 'English'
 
-# Input file paths (X = target language, Y = English fallback)
-lawn_primary_file = 'LawnStringsTranslate_fr.json'
-lawn_english_file = 'LawnStringsTranslate_en.json'
+    # Define Almanac directory path
+    almanac_base = os.path.abspath(os.path.join(script_dir, '..', 'PvZ_Fusion_Translator', 'Localization'))
 
-zombie_primary_file = 'ZombieStringsTranslate_fr.json'
-zombie_english_file = 'ZombieStringsTranslate_en.json'
+    # Build full input paths
+    lawn_primary_file = os.path.join(almanac_base, lang_primary, 'Almanac', 'LawnStringsTranslate.json')
+    lawn_fallback_file = os.path.join(almanac_base, lang_fallback, 'Almanac', 'LawnStringsTranslate.json')
 
-# Output file paths
-output_lawn_file = 'LawnStringsTranslate.json'
-output_zombie_file = 'ZombieStringsTranslate.json'
+    zombie_primary_file = os.path.join(almanac_base, lang_primary, 'Almanac', 'ZombieStringsTranslate.json')
+    zombie_fallback_file = os.path.join(almanac_base, lang_fallback, 'Almanac', 'ZombieStringsTranslate.json')
 
-# Load JSON data
-with open(lawn_primary_file, 'r', encoding='utf-8') as f:
-    lawn_primary_data = json.load(f)
-with open(lawn_english_file, 'r', encoding='utf-8') as f:
-    lawn_english_data = json.load(f)
+    # Load JSON data
+    with open(lawn_primary_file, 'r', encoding='utf-8') as f:
+        lawn_primary_data = json.load(f)
+    with open(lawn_fallback_file, 'r', encoding='utf-8') as f:
+        lawn_fallback_data = json.load(f)
 
-with open(zombie_primary_file, 'r', encoding='utf-8') as f:
-    zombie_primary_data = json.load(f)
-with open(zombie_english_file, 'r', encoding='utf-8') as f:
-    zombie_english_data = json.load(f)
+    with open(zombie_primary_file, 'r', encoding='utf-8') as f:
+        zombie_primary_data = json.load(f)
+    with open(zombie_fallback_file, 'r', encoding='utf-8') as f:
+        zombie_fallback_data = json.load(f)
 
-# Merge plant entries
-merged_plants = merge_entries(
-    lawn_primary_data.get('plants', []),
-    lawn_english_data.get('plants', []),
-    key='seedType'
-)
-with open(output_lawn_file, 'w', encoding='utf-8') as f:
-    json.dump({'plants': merged_plants}, f, indent=4, ensure_ascii=False)
+    # Merge plant entries
+    merged_plants = merge_entries(
+        lawn_primary_data.get('plants', []),
+        lawn_fallback_data.get('plants', []),
+        key='seedType'
+    )
+    with open('LawnStringsTranslate.json', 'w', encoding='utf-8') as f:
+        json.dump({'plants': merged_plants}, f, indent=4, ensure_ascii=False)
 
-# Merge zombie entries
-merged_zombies = merge_entries(
-    zombie_primary_data.get('zombies', []),
-    zombie_english_data.get('zombies', []),
-    key='theZombieType'
-)
-with open(output_zombie_file, 'w', encoding='utf-8') as f:
-    json.dump({'zombies': merged_zombies}, f, indent=4, ensure_ascii=False)
+    # Merge zombie entries
+    merged_zombies = merge_entries(
+        zombie_primary_data.get('zombies', []),
+        zombie_fallback_data.get('zombies', []),
+        key='theZombieType'
+    )
+    with open('ZombieStringsTranslate.json', 'w', encoding='utf-8') as f:
+        json.dump({'zombies': merged_zombies}, f, indent=4, ensure_ascii=False)
 
-print("✓ Merged output saved to:")
-print(f"  - {output_lawn_file}")
-print(f"  - {output_zombie_file}")
-
+    print("✓ Merged output saved to:")
+    print("  - LawnStringsTranslate.json")
+    print("  - ZombieStringsTranslate.json")

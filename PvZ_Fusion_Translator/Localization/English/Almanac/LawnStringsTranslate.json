@@ -361,7 +361,7 @@
             "seedType": 244,
             "name": "Jicamagic",
             "introduce": "<align=justified><size=36><color=black>\"I'm a grand magician to rival the great Imitater,\" proclaimed Jicamagic. However, only his good friend, Imitater, knows the truth: Jicamagic and Dr. Edgar used to study life sciences in the same class.</color>",
-            "info": "<size=36>Catalyst for Titan fusions.\n\n<color=#4A2900>Unlock Conditions: Beat any Titan fusion level in Fusion Showcase</color>\n<color=black>Special: </color><color=#8B0000>A fusion catalyst for Titan plants. Place it on the middle plant to start the fusion. Titan fusions are indicated with \"∞\".<color=#8B0000></color>",
+            "info": "<size=36>Catalyst for Titan fusions.\n\n<color=#4A2900>Unlock Conditions: Beat Titan Pea Turret's showcase in Fusion Showcase</color>\n<color=black>Special: </color><color=#8B0000>A fusion catalyst for Titan plants. Place it on the middle plant to start the fusion. Titan fusions are indicated with \"∞\".<color=#8B0000></color>",
             "cost": "<size=36>Cost: <color=#8B0000>50</color>\nRecharge: <color=#8B0000>30s</color>"
         },
         {
@@ -522,7 +522,7 @@
             "seedType": 911,
             "name": "Laser Pumpkin",
             "introduce": "<align=justified><size=36><color=black>\"Magnet-shroom's power remains unmatched,\" said Laser Pumpkin. \"After all, composite armor, electromagnetic catapults, and plasma guns came nearly a century after aircraft carriers.\" Other plants envied Laser Pumpkin's high-tech gear, but only Magnet-shroom knew his power came from a Magnetar meteorite.</color></size>",
-            "info": "<size=36>Spawns laser drones that home in on enemies.\n\n<color=#4A2900>Usage Condition: Odyssey Mode | Unlockable</color>\n<color=black>Toughness: </color><color=#8B0000>16000</color>\n<color=#666699>Magnetic System:</color> When part of a Magnetic System with a Mechanized Pumpkin or any Metal-upgraded Pumpkin, gains their special traits. Additionally, assimilates one Mechanized Pumpkin in the same system into a Laser Pumpkin every 30 seconds until there is only one Mechanized Pumpkin.</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Always has a Laser Drone wingman with him when he appears. Generates a Laser Drone on top of a tile around a 3×3 area regularly.\n<color=black>•</color> Reflects 100 damage back to zombies biting it.\n<color=black>Odyssey Modifiers:\n</color><color=#8B0000>1. Wingmen Amount → 3\n2. All drones damage ×3</color></size>",
+            "info": "<size=36>Spawns laser drones that home in on enemies.\n\n<color=#4A2900>Usage Condition: Odyssey Mode | Unlockable</color>\n<color=black>Toughness: </color><color=#8B0000>16000</color>\n<color=#666699>Magnetic System:</color> <color=#8B0000>When part of a Magnetic System with a Mechanized Pumpkin or any Metal-upgraded Pumpkin, gains their special traits. Additionally, assimilates all but one Mechanized Pumpkin in the same system into a Laser Pumpkins every 30 seconds.</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Always has a Laser Drone wingman with him when he appears. Generates a Laser Drone on top of a tile around a 3×3 area regularly.\n<color=black>•</color> Reflects 100 damage back to zombies biting it.\n<color=black>Odyssey Modifiers:\n</color><color=#8B0000>1. Wingmen Amount → 3\n2. All drones damage ×3</color></size>",
             "cost": "<size=35>\nFusion Formula: <color=#8B0000>Magnet Blover > Pump-karrier</color>"
         },
         {
@@ -548,8 +548,8 @@
         },
         {
             "seedType": 915,
-            "name": "Cob-literation",
-            "introduce": "<align=justified><size=36><color=black>Clad in icy armor and dark as a warning, each shot from Cob-literation brings destruction. Zombies hit by it need not prepare—nothing will remain after the flash.</color>",
+            "name": "Cob-literator",
+            "introduce": "<align=justified><size=36><color=black>Clad in icy armor and dark as a warning, each shot from Cob-literator brings destruction. Zombies hit by it need not prepare—nothing will remain after the flash.</color>",
             "info": "<size=36>Possesses earth-shattering power.\n\n<color=#4A2900>Usage Condition: Odyssey Mode | Unlockable</color>\n<color=black>Damage: </color><color=#8B0000>\n<color=black>•</color> Main Blast - 1800 in a 3×3 area. \n<color=black>•</color> Additional 1800 + 30% of Zombies' maximum Toughness across the entire screen.\n<color=black>•</color> Side Gun: 360×2/1.5s</color>\n<color=black>Arming Time: </color><color=#8B0000>36s</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Infuses all plants within the main blast area with Ice-shroom (prioritized)/Doom-shroom. \n<color=black>•</color> Side cannon inflicts Chill and adds 10 Cryo points.</color>\n<color=black>Odyssey Modifiers:\n<color=#8B0000>1. Main Blast damage ×4\n2. Reload Time → 12s</color>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Cryo Cannon + Doomise-shroom</color>"
         },
@@ -634,7 +634,7 @@
             "seedType": 927,
             "name": "Apeacalypse Minigun",
             "introduce": "<align=justified><size=36><color=black>Apeacalypse Minigun rarely interacts with people. It's not due to arrogance, but because people keep asking whether the fire on his body is hot or cold, and whether he can create hot ice or cold fire. These questions bore him.</color>",
-            "info": "<size=36>Becomes stronger the more Toughness it loses.\n\n<color=#4A2900>Usage Condition: Odyssey Mode | Unlockable</color>\n<color=black>Damage: </color><color=#8B0000>120×3/0.5s</color>\n<color=black>Toughness: </color><color=#8B0000>8000</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Other plants cannot absorb damage for Apeacalypse Minigun. Each shot fired inflicts 50 damage to self until Toughness is reduced to 1500. \n<color=black>•</color> Shots knock back zombies and pierce twice, with power halved per pierce. \n<color=black>•</color> Fires faster as Toughness decreases and reaches maximum speed of 0.25s at 1/3 Toughness. If Toughness is further reduced, attack damage increases. Damage is capped at 480 at 0 Toughness.</color>\n<color=black>Odyssey Modifiers:\n<color=#8B0000>1. Lv1: Defense increases as Toughness decreases. Below 500 HP, it becomes immune to damage under 1k; Lv2: Below 500 HP, base damage ×2\n2. Increases projectile damage and knockback ×3</color><size=36>",
+            "info": "<size=36>Becomes stronger the more Toughness it loses.\n\n<color=#4A2900>Usage Condition: Odyssey Mode | Unlockable</color>\n<color=black>Damage: </color><color=#8B0000>120×3/0.5s</color>\n<color=black>Toughness: </color><color=#8B0000>8000</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Other plants cannot absorb damage for Apeacalypse Minigun. Each shot fired inflicts 50 damage to self until Toughness is reduced to 500. \n<color=black>•</color> Shots knock back zombies and pierce twice, with power halved per pierce. \n<color=black>•</color> Fires faster as Toughness decreases and reaches maximum speed of 0.25s at 1/3 Toughness. If Toughness is further reduced, attack damage increases. Damage is capped at 480 at 0 Toughness.</color>\n<color=black>Odyssey Modifiers:\n<color=#8B0000>1. Lv1: Defense increases as Toughness decreases. Below 500 HP, it becomes immune to damage under 1k; Lv2: Below 500 HP, base damage ×2\n2. Increases projectile damage and knockback ×3</color><size=36>",
             "cost": "<size=36>Fusion Formula: <color=#8B0000>Spicicle > Titan Pea Turret"
         },
         {
@@ -802,7 +802,7 @@
             "seedType": 951,
             "name": "Tyrannoflora Lux",
             "introduce": "<align=justified><size=36><color=black>Tyrannoflora Lux wasn't sure how he ended up on land after a deep-sea haul, but he's made himself right at home. \"Why go back to the sparse, dark depths when zombies are always on the menu?\" he growls. Legend says his appetite is so huge, the gourmet contests could no longer afford their electric bill—guess he's their new emergency power source.</color>",
-            "info": "<size=36>A giant chomper attracting zombies with light—a master of luring, devouring, and digesting.\n\n<color=#4A2900>Usage Condition: Odyssey Mode | Unlockable</color>\n<color=black>Toughness: </color><color=#8B0000>8000</color>\n<color=black>Damage: </color><color=#8B0000>Insta-kill (Devour)</color>\n<color=black>Digestion Time: </color><color=#8B0000>5 + (Sum Toughness of Zombies)^0.33s</color>\n<color=#99582a>Lumos System: </color><color=#8B0000> Each Lumos level reduces digest time by 10s to a minimum of 5s.</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Anti-crush.\n<color=black>•</color> Can swallow all non-miniboss zombies in a 1.5 tile range.\n<color=black>•</color> Using a Chomper seedpacket on it reduces digest time by 10s.\n<color=black>•</color> Upon successful digestion, pulls nearby zombies from adjacent lanes to its lane and heals HP equal to 1×Toughness.</color>\n<color=black>Odyssey Modifiers:</color>\n<color=#8B0000>1. Attack range ×2\n2. Provides 2 Lumos levels to a 5×5 area during digestion</color>",
+            "info": "<size=36>A giant chomper attracting zombies with light—a master of luring, devouring, and digesting.\n\n<color=#4A2900>Usage Condition: Odyssey Mode | Unlockable</color>\n<color=black>Toughness: </color><color=#8B0000>8000</color>\n<color=black>Damage: </color><color=#8B0000>Insta-kill (Devour)</color>\n<color=black>Digestion Time: </color><color=#8B0000>5 + (Sum Toughness of Zombies)^0.33s</color>\n<color=#99582a>Lumos System: </color><color=#8B0000> Each Lumos level reduces digest time by 10s to a minimum of 5s.</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Anti-crush.\n<color=black>•</color> Can swallow all non-miniboss zombies in a 1.5 tile range.\n<color=black>•</color> Using a Chomper seedpacket on it reduces digest time by 10s.\n<color=black>•</color> Upon successful digestion, pulls nearby zombies from adjacent lanes to its lane and heals to full HP.</color>\n<color=black>Odyssey Modifiers:</color>\n<color=#8B0000>1. Attack range ×2\n2. Provides 2 Lumos levels to a 5×5 area during digestion</color>",
             "cost": "<size=36>Fusion Formula: <color=#8B0000>Lumos Angler > Chomper Maw</color>"
         },
         {
@@ -2235,8 +2235,8 @@
         },
         {
             "seedType": 1204,
-            "name": "Umbrella Hoverleaf",
-            "introduce": "<align=justified><size=36><color=black>After resigning, Umbrella Hoverleaf embarked on a journey around the world. \"Sailing with the wind to the places your heart desires, isn't that very romantic?\" He compiled his experiences into a book, which received praise from all walks of life.</color>",
+            "name": "Hoverleaf",
+            "introduce": "<align=justified><size=36><color=black>After resigning, Hoverleaf embarked on a journey around the world. \"Sailing with the wind to the places your heart desires, isn't that very romantic?\" He compiled his experiences into a book, which received praise from all walks of life.</color>",
             "info": "<size=36>A smaller floating Umbrella Leaf that can only protect the 1 Tile below.\n\n<color=black>Special: </color><color=#8B0000>Hovering plant. He shares the same traits as Umbrella Leaf, but can only protect the plant right below it.</color>",
             "cost": "<size=36>\nFusion Formula: <color=#8B0000>Umbrella Leaf + Blover</color>"
         },
@@ -2244,7 +2244,7 @@
             "seedType": 1205,
             "name": "Hypno Pumpkin",
             "introduce": "<align=justified><size=36><color=black>Many plants were curious about how Hypno Pumpkin had only subdued one zombie. \"I'm a dedicated person, so of course I need a dedicated zombie,\" Hypno Pumpkin said, scratching his head.</color>",
-            "info": "<size=36>Hypno Pumpkin makes a hypnotized zombie stay by your side.\n\n<color=black>Toughness: </color><color=#8B0000>4000</color>\n<color=black>Special: </color><color=#8B0000>Has a 4% chance to hypnotize zombie eating him. Forces up to 1 hypnotized zombie to stay in his tile, and use that zombie as a shield first when under attack.</color>",
+            "info": "<size=36>Hypno Pumpkin makes a hypnotized zombie stay by your side.\n\n<color=black>Toughness: </color><color=#8B0000>4000</color>\n<color=black>Special: </color><color=#8B0000>Has a 4% chance to hypnotize zombies eating him. Forces up to 1 hypnotized zombie to stay in his tile, and use that zombie as a shield first when under attack.</color>",
             "cost": "<size=36>\nFusion Formula: <color=#8B0000>Hypno-shroom > Pumpkin</color>"
         },
         {
@@ -2538,7 +2538,7 @@
             "seedType": 1247,
             "name": "Spruce Ballista",
             "introduce": "<align=justified><size=36><color=black>Pulling a giant ballista is exhausting, so even Spruce Ballista needs a vacation. Thanks to Astro-nut's help, he found a job in another world: Helping to launch angry avians at some very green, very smug pigs.</color>",
-            "info": "<size=36>Fires giant spruce bolts that pierce through zombies and detonate with a short delay.\n\n<color=black>Damage: </color><color=#8B0000>80/3s</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Immune to freeze from Snowballs and Blizzards.\n<color=black>•</color> Bolts pierce up to 2 times (can pierce ice) and explode 0.3s after hitting a zombie, dealing AoE damage in a small area.</color>",
+            "info": "<size=36>Fires giant spruce bolts that pierce through zombies and detonate with a short delay.\n\n<color=black>Damage: </color><color=#8B0000>80/3s</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Must be planted on two side-by-side Spruce Sharpshooters.\n<color=black>•</color> Immune to freeze from Snowballs and Blizzards.\n<color=black>•</color> Bolts pierce up to 2 times (can pierce ice) and explode 0.3s after hitting a zombie, dealing AoE damage in a small area.</color>",
             "cost": "<size=36>Cost: <color=#8B0000>300</color>\nRecharge: <color=#8B0000>50s</color>"
         },
         {
