@@ -2235,8 +2235,8 @@
         },
         {
             "seedType": 1204,
-            "name": "Umbrella Hoverleaf",
-            "introduce": "<align=justified><size=36><color=black>After resigning, Umbrella Hoverleaf embarked on a journey around the world. \"Sailing with the wind to the places your heart desires, isn't that very romantic?\" He compiled his experiences into a book, which received praise from all walks of life.</color>",
+            "name": "Hoverleaf",
+            "introduce": "<align=justified><size=36><color=black>After resigning, Hoverleaf embarked on a journey around the world. \"Sailing with the wind to the places your heart desires, isn't that very romantic?\" He compiled his experiences into a book, which received praise from all walks of life.</color>",
             "info": "<size=36>A smaller floating Umbrella Leaf that can only protect the 1 Tile below.\n\n<color=black>Special: </color><color=#8B0000>Hovering plant. He shares the same traits as Umbrella Leaf, but can only protect the plant right below it.</color>",
             "cost": "<size=36>\nFusion Formula: <color=#8B0000>Umbrella Leaf + Blover</color>"
         },
@@ -2538,7 +2538,7 @@
             "seedType": 1247,
             "name": "Spruce Ballista",
             "introduce": "<align=justified><size=36><color=black>Pulling a giant ballista is exhausting, so even Spruce Ballista needs a vacation. Thanks to Astro-nut's help, he found a job in another world: Helping to launch angry avians at some very green, very smug pigs.</color>",
-            "info": "<size=36>Fires giant spruce bolts that pierce through zombies and detonate with a short delay.\n\n<color=black>Damage: </color><color=#8B0000>80/3s</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Immune to freeze from Snowballs and Blizzards.\n<color=black>•</color> Bolts pierce up to 2 times (can pierce ice) and explode 0.3s after hitting a zombie, dealing AoE damage in a small area.</color>",
+            "info": "<size=36>Fires giant spruce bolts that pierce through zombies and detonate with a short delay.\n\n<color=black>Damage: </color><color=#8B0000>80/3s</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Must be planted on two side-by-side Spruce Sharpshooters.\n<color=black>•</color> Immune to freeze from Snowballs and Blizzards.\n<color=black>•</color> Bolts pierce up to 2 times (can pierce ice) and explode 0.3s after hitting a zombie, dealing AoE damage in a small area.</color>",
             "cost": "<size=36>Cost: <color=#8B0000>300</color>\nRecharge: <color=#8B0000>50s</color>"
         },
         {
