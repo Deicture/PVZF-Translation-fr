@@ -67,9 +67,9 @@
     },
     {
       "seedType": 9,
-      "name": "Seta Miedica",
-      "introduce": "<size=39><color=#3D1400>\u0022Shhh... ¿Oyes eso?\u0022 murmura Seta Miedica, escondiéndose tras una hoja. \u0022Debe ser el viento. O un zombi. O el viento zombi.\u0022</color></size>",
-      "info": "<size=39>Disparos de larga distancia. Si un zombi se acerca, ¡Seta Miedica se convierte en una experta en escondite botánico! o algo así.\n\n<color=#3D1400>Daño: </color><color=red>20 cada 1.5s</color>\n<color=#3D1400>Especial: </color><color=red>Deja de atacar si hay zombis cerca.</color>\n<color=#3D1400>Nombre Científico: </color><color=red>Mycosoma tremula</color></size>",
+      "name": "Seta Miédica",
+      "introduce": "<size=39><color=#3D1400>\u0022Shhh... ¿Oyes eso?\u0022 murmura Seta Miédica, escondiéndose tras una hoja. \u0022Debe ser el viento. O un zombi. O el viento zombi.\u0022</color></size>",
+      "info": "<size=39>Disparos de larga distancia. Si un zombi se acerca, ¡Seta Miédica se convierte en una experta en escondite botánico! o algo así.\n\n<color=#3D1400>Daño: </color><color=red>20 cada 1.5s</color>\n<color=#3D1400>Especial: </color><color=red>Deja de atacar si hay zombis cerca.</color>\n<color=#3D1400>Nombre Científico: </color><color=red>Mycosoma tremula</color></size>",
       "cost": "<size=39>Costo: <color=red>25 (nocturno), 100 (diurno)</color>\nRecarga: <color=red>7.5 Segundos</color></size>"
     },
     {
@@ -3962,8 +3962,8 @@
     {
       "seedType": 930,
       "name": "Setantralladora",
-      "introduce": "<size=39><color=#3D1400>Comparada con la serenidad de Petantralladora, esta versión tiene un temperamento explosivo. \"¡Silencio!\", grita al lanzarse al combate cuando la llaman \"Miedica\".</color></size>",
-      "info": "<size=39>Dispara ráfagas de petasetitas a los zombis.\n\n<color=#3D1400>Especial:</color>\n- <color=red>Transformación:</color> Usa <color=red>Lanzaguisantes → Petantralladora</color> | <color=red>Seta Miedica → Setantralladora</color>.\n- <color=red>Intervalo de ataque reducido</color> (mínimo <color=red>0.5s</color>).\n- Cada <color=red>16 ataques</color>: lanza un <color=red>Proyectil del Juicio</color> (<color=red>1800 daño</color>).\n\n<color=purple>Sinergia con Odisea:</color>\n- Dispara una <color=red>Petaseta</color> cuando el modificador de <color=red>Petaseta/Petacereza Reales </color>está activo.\n\n<color=#3D1400>Daño Base: </color><color=red>300/ataque</color>\n<color=#3D1400>Fórmula de Fusión: </color><color=red>Petantralladora + Seta Miedica</color>\n<color=#3D1400>Nombre Científico: </color><color=red>Mycota Frenesis</color></size>",
+      "introduce": "<size=39><color=#3D1400>Comparada con la serenidad de Petantralladora, esta versión tiene un temperamento explosivo. \"¡Silencio!\", grita al lanzarse al combate cuando la llaman \"Miédica\".</color></size>",
+      "info": "<size=39>Dispara ráfagas de petasetitas a los zombis.\n\n<color=#3D1400>Especial:</color>\n- <color=red>Transformación:</color> Usa <color=red>Lanzaguisantes → Petantralladora</color> | <color=red>Seta Miédica → Setantralladora</color>.\n- <color=red>Intervalo de ataque reducido</color> (mínimo <color=red>0.5s</color>).\n- Cada <color=red>16 ataques</color>: lanza un <color=red>Proyectil del Juicio</color> (<color=red>1800 daño</color>).\n\n<color=purple>Sinergia con Odisea:</color>\n- Dispara una <color=red>Petaseta</color> cuando el modificador de <color=red>Petaseta/Petacereza Reales </color>está activo.\n\n<color=#3D1400>Daño Base: </color><color=red>300/ataque</color>\n<color=#3D1400>Fórmula de Fusión: </color><color=red>Petantralladora + Seta Miédica</color>\n<color=#3D1400>Nombre Científico: </color><color=red>Mycota Frenesis</color></size>",
       "cost": "<size=33>Costo: <color=red>550, 675</color>   Recarga: <color=red>87.5 Segundos</color>\nPlantas Requeridas: <color=red>6\n<color=purple>Condición de Uso: Mejora de Odisea</color></size>"
     },
     {
@@ -4054,7 +4054,7 @@
       "seedType": 943,
       "name": "Astromaíz II",
       "introduce": "<size=39><color=#3D1400>Nació en los albores del universo, su edad es incalculable. Recogió tres estrellas del universo primigenio como sus satélites, y ni siquiera los agujeros negros pueden arrebatárselos. En cambio, Astromaíz I murió. Que en paz descanse.</color></size>",
-      "info": "<size=39>Puede lanzar un agujero negro masivo, que al colapsar genera una explosión y libera la energía que absorbió.\n\n<color=#3D1400>Daño:</color> <color=red>300 cada 2s\n\n<color=#3D1400>Especial:</color> <color=red>Tiene un 75% de probabilidad de lanzar granos de maíz, que reduce el tamaño y la salud de los zombis no encogidos a 0.7 veces. Si no, los congela durante 1.5 segundos y puede eliminar de un golpe a los zombis pequeños. Tiene un 25% de probabilidad de lanzar un agujero negro, que permanece durante 2 segundos, causando desaceleración en el área e absorbiendo los granos de maíz dentro de su alcance (las balas absorbidas aumentan el daño de la explosión posterior). El área de efecto es una de 3x3. Cada absorción aumenta 2 segundos el tiempo de duración del agujero negro, hasta un máximo de 10 segundos. Cuando el agujero negro desaparece, genera una explosión en área, similar a la Petacereza. Si el tiempo de duración es mayor a 7.5 segundos, el radio de daño se duplica.\n\n<color=purple>Mejoras de Odisea:</color>\n</color></color>- El agujero negro que invoca puede absorber cualquier proyectil.</color></color>\n</color>- El área de atracción del agujero negro que invoca se incrementa significativamente.</color>\n\n<color=#3D1400>Fórmula de Fusión: </color><color=red>Maizetita x3 + Cronomaíz</color>\n<color=#3D1400>Nombre Científico: </color><color=red>Maizacronum hypaemyth</color></size>",
+      "info": "<size=39>Puede lanzar un agujero negro masivo, que al colapsar genera una explosión y libera la energía que absorbió.\n\n<color=#3D1400>Daño:</color> <color=red>300 cada 2s\n\n<color=#3D1400>Especial:</color> <color=red>Tiene un 75% de probabilidad de lanzar granos de maíz, que reduce el tamaño y la salud de los zombis no encogidos a 0.7 veces. Si no, los congela durante 1.5 segundos y puede eliminar de un golpe a los zombis pequeños. Tiene un 25% de probabilidad de lanzar un agujero negro, que permanece durante 2 segundos, causando desaceleración en el área e absorbiendo los granos de maíz dentro de su alcance (las balas absorbidas aumentan el daño de la explosión posterior). El área de efecto es una de 3x3. Cada absorción aumenta 2 segundos el tiempo de duración del agujero negro, hasta un máximo de 10 segundos. Cuando el agujero negro desaparece, genera una explosión en área, similar a la Petacereza. Si el tiempo de duración es mayor a 7.5 segundos, el radio de daño se duplica.\n\n<color=purple>Mejoras de Odisea:</color>\n</color></color>- El agujero negro que invoca puede absorber cualquier proyectil.</color></color>\n</color>- El área de atracción del agujero negro que invoca se incrementa significativamente.</color>\n\n<color=#3D1400>Fórmula de Fusión: </color><color=red>Maicito x3 + Cronomaíz</color>\n<color=#3D1400>Nombre Científico: </color><color=red>Maizacronum hypaemyth</color></size>",
       "cost": "<size=33>Costo: <color=red>500, 725</color>   Recarga: <color=red>60 Segundos</color>\nPlantas Requeridas: <color=red>4 (+ Cronofragmento)\n<color=purple>Condición de Uso: Modo Odisea</color></size>"
     },
     {
@@ -4096,26 +4096,29 @@
       "seedType": 949,
       "name": "Gammafarol",
       "introduce": "<size=39><color=#3D1400>\u0022El precio de la guerra nuclear no es algo que cualquiera pueda soportar.\u0022 Superviviente de la aniquilación, Gammafarol, ahora elige contener su reactor central, canalizando su poder en un resplandor tan brillante como la luna, guiando a los errantes en la oscuridad. Pero si alguien amenaza la paz que tanto valora… no dudará en convertirse una vez más en la segadora del campo de batalla.</color></size>",
-      "info": "<size=39>Parte del <color=#0077b6>Sistema Criogénico</color>y<color=#104f30>Sistema Lúmina</color> (Generador y Atacante)\n<color=#104f30>Sistema Lúmina:</color></color>\n-El daño aumenta un 100 % × Nivel Lúmina.</color>\n<color=#0077b6>Sistema Criogénico:</color><color=#28567B>\n</color>- Aplica 30 puntos al impacto.\n- Daño x4 a zombis congelados.</color><color=#3D1400>\n\n<color=#3D1400>Daño:</color> <color=red>600 cada 3s\n<color=#3D1400>Rango:</color> <color=red>5x3, puede atacar zombis aéreos\n\n<color=#3D1400>Especial:</color> <color=red>Subespecie de Gammaseta que se puede cambiar entre Planterna y Gasoseta. Hereda los rasgos de Planterna. Al estar al frente de un Guisantimillán Obsidiana, refracta los láseres de este en 3 láseres con el mismo daño. Al morir, congela a todos los zombis en el mapa y otorga 10 Niveles Lúmina a todas las plantas por 10s.\n\n<color=#3D1400>Fórmula de Fusión: </color><color=red>Gammaseta + Planterna</color>\n<color=#3D1400>Nombre Científico: </color><color=red>Photophyton gamma</color></size>",
+      "info": "<size=39>Parte del <color=#0077b6>Sistema Criogénico</color> y <color=#104f30>Sistema Lúmina</color> (Generador y Atacante)\n<color=#104f30>Sistema Lúmina:</color></color>\n-El daño aumenta un 100 % × Nivel Lúmina.</color>\n<color=#0077b6>Sistema Criogénico:</color><color=#28567B>\n</color>- Aplica 30 puntos al impacto.\n- Daño x4 a zombis congelados.</color><color=#3D1400>\n\n<color=#3D1400>Daño:</color> <color=red>600 cada 3s\n<color=#3D1400>Rango:</color> <color=red>5x3, puede atacar zombis aéreos\n\n<color=#3D1400>Especial:</color> <color=red>Subespecie de Gammaseta que se puede cambiar entre Planterna y Gasoseta. Hereda los rasgos de Planterna. Al estar al frente de un Guisantimillán Obsidiana, refracta los láseres de este en 3 láseres con el mismo daño. Al morir, congela a todos los zombis en el mapa y otorga 10 Niveles Lúmina a todas las plantas por 10s.\n\n<color=#3D1400>Fórmula de Fusión: </color><color=red>Gammaseta + Planterna</color>\n<color=#3D1400>Nombre Científico: </color><color=red>Photophyton gamma</color></size>",
       "cost": "<size=33>Costo: <color=red>575, 650</color>   Recarga: <color=red>90 Segundos</color>\nPlantas Requeridas: <color=red>6\n<color=purple>Condición de Uso: Modo Odisea</color></size>"
     },
     {
       "seedType": 950,
       "name": "Nenúfar Áureo",
       "introduce": "<size=39><color=#3D1400>Su devoción por el Dios Solar resonaba más fuerte que un río desbordado. Por esto mismo, Nenúfar Áureo fue finalmente expulsado de la Guardia Solar por ser demasiado ruidoso, pero eso no la ha detenido de predicar su gloria a toda criatura bajo las olas. Tan sumido está en su fervor, que no ha notado un pequeño detalle: ha estado bloqueando toda la luz del sol que debía llegar al fondo del lago.</color></size>",
-      "info": "<size=39>Parte del <color=#FFCA30>Sistema Monetario</color>.\nLo mismo que Maceta Áurea, pero acuática.\n\n<color=#3D1400>Especial: </color>\n- <color=red>Cada X segundos genera 50 de luz solar y 100 de monedas, (X = 15 * Macetas/Nenufares Áureos en el Mapa / 15000. No debe ser menor que 3 ni mayor que 15.)\n\n<color=#3D1400>Fórmula de Fusión: </color><color=red>Ocupando una pala en una Maceta Áurea. O, se puede transformar automáticamente al cambiar de escenario a uno con agua.</color>\n<color=#3D1400>Nombre Científico: </color><color=red>Nympadia Aurea Solis</color></size>",
+      "info": "<size=39>Parte del <color=#FFCA30>Sistema Monetario</color>\nLo mismo que Maceta Áurea, pero acuática.\n\n<color=#3D1400>Especial: </color>\n- <color=red>Cada X segundos genera 50 de luz solar y 100 de monedas, (X = 15 * Macetas/Nenufares Áureos en el Mapa / 15000. No debe ser menor que 3 ni mayor que 15.)\n\n<color=#3D1400>Fórmula de Fusión: </color><color=red>Ocupando una pala en una Maceta Áurea. O, se puede transformar automáticamente al cambiar de escenario a uno con agua.</color>\n<color=#3D1400>Nombre Científico: </color><color=red>Nympadia Aurea Solis</color></size>",
       "cost": "<size=33>Costo: <color=red>100</color>   Recarga: <color=red>22.5 Segundos</color>\nPlantas Requeridas: <color=red>3\n<color=purple>Condición de Uso: Modo Odisea</color></size>"
     },
     {
       "seedType": 951,
       "name": "Lumiñívora Titán",
       "introduce": "<size=39><color=#3D1400>La Lumiñívora Titán no estaba segura de cómo terminó en tierra firme después de una travesía por las profundidades del mar, pero se ha acomodado perfectamente.  \u0022¿Para qué volver a las oscuras y escasas profundidades si siempre hay zombis en el menú?\u0022, gruñó. La leyenda dice que su apetito es tan grande que los concursos gourmet ya no pudieron pagar la factura de la electricidad... supongo que ahora ella es su nueva fuente de energía.</color></size>",
-      "info": "<size=39>Parte del <color=#104f30>Sistema Lúmina</color>\nUna Carroñívora gigante que atrae zombis con luz; una maestra en atraer, devorar y digerir.\n<color=#104f30>Sistema Lúmina:</color></color>\n-Mientras más Niveles Lúmina tenga, el tiempo de masticación se reduce por 10s hasta un mínimo de 5s</color>\n\n<color=#3D1400>Dureza: </color><color=red>8000</color>\n<color=#3D1400>Daño: </color><color=red>Muerte Instantánea</color>\n<color=#3D1400>Rango: </color><color=red>1.5 casillas al frente</color>\n<color=#3D1400>Tiempo De Masticado: </color><color=red>5 + (Suma Total de la Durabilidad de los Zombis)^0.33s (-10s * Nivel Lúmina)</color>\n<color=#3D1400>Especial:</color> <color=red>Inmune a ser aplastado. Puede comer todos los zombis (excluyendo zombis líderes) en un rango de 1.5 casillas en frente suyo. Ocupando un paquete de semillas de Planta Carroñívora en ella reducirá su tiempo de masticación por 10s. Al digerir, atrae zombis cercanos de sus filas adyacentes y recupera PS iguales a 1*Durabilidad.\n\n<color=purple>Mejoras de Odisea:</color>\n</color>- Rango de Ataque x2</color>\n- Otorga 2 Niveles Lúmina en un área de 5×5 mientras digiere.</color>\n\n<color=#3D1400>Fórmula de Fusión: </color><color=red>Carroñívora Titán + Planta Lumiñívora</color>\n<color=#3D1400>Nombre Científico: </color><color=red>Floralux voratrix</color></size>",
+      "info": "<size=39>Parte del <color=#104f30>Sistema Lúmina</color>\nUna Carroñívora gigante que atrae zombis con luz; una maestra en atraer, devorar y digerir.\n<color=#104f30>Sistema Lúmina:</color></color>\n- Mientras más Niveles Lúmina tenga, el tiempo de masticación se reduce por 10s hasta un mínimo de 5s</color>\n\n<color=#3D1400>Dureza: </color><color=red>8000</color>\n<color=#3D1400>Daño: </color><color=red>Muerte Instantánea</color>\n<color=#3D1400>Rango: </color><color=red>1.5 casillas al frente</color>\n<color=#3D1400>Tiempo De Masticado: </color><color=red>5 + (Suma Total de la Durabilidad de los Zombis)^0.33s (-10s * Nivel Lúmina)</color>\n<color=#3D1400>Especial:</color> <color=red>Inmune a ser aplastado. Puede comer todos los zombis (excluyendo zombis líderes) en un rango de 1.5 casillas en frente suyo. Ocupando un paquete de semillas de Planta Carroñívora en ella reducirá su tiempo de masticación por 10s. Al digerir, atrae zombis cercanos de sus filas adyacentes y recupera PS iguales a 1*Durabilidad.\n\n<color=purple>Mejoras de Odisea:</color>\n</color>- Rango de Ataque x2</color>\n- Otorga 2 Niveles Lúmina en un área de 5×5 mientras digiere.</color>\n\n<color=#3D1400>Fórmula de Fusión: </color><color=red>Carroñívora Titán + Planta Lumiñívora</color>\n<color=#3D1400>Nombre Científico: </color><color=red>Floralux voratrix</color></size>",
       "cost": "<size=33>Costo: <color=red>25</color>   Recarga: <color=red>75 Segundos</color>\nPlantas Requeridas: <color=red>6\n<color=purple>Condición de Uso: Modo Odisea</color></size>"
     },
     {
       "seedType": 952,
-      "name": "952"
+      "name": "Colipultita",
+      "introduce": "<size=39><color=#3D1400>TBD</color></size>",
+      "info": "<size=39>INFO\n\n<color=#3D1400>Daño:</color> <color=red>20 cada 1.5s\n\n<color=#3D1400>Especial:</color> <color=red>Subespecie de Colipulta que se puede cambiar entre Seta Desesporada y Melonpulta. SPECIAL\n\n<color=#3D1400>Fórmula de Fusión: </color><color=red>Colipulta + Seta Desesporada</color>\n<color=#3D1400>Nombre Científico: </color><color=red>SCIENTIFIC</color></size>",
+      "cost": "<size=33>Costo: <color=red>X</color>   Recarga: <color=red>X Segundos</color>\nPlantas Requeridas: <color=red>X\n<color=purple>Condición de Uso: Condición de Uso: Modo Odisea</color></size>"
     },
     {
       "seedType": 953,
@@ -4476,22 +4479,22 @@
     {
       "seedType": 1024,
       "name": "Miédica Onírica",
-      "introduce": "<size=39><color=#3D1400>La Seta Miedica siempre ha temido de los zombis. Para reducir su miedo, Hipnoseta le cuenta un cuento antes de dormir todos los días. Con el tiempo, Seta Miedica finalmente fue lavada del cerebro. Ahora puede usar esporas para lavar el cerebro a los zombis. Por supuesto, todavía tiene mucho miedo.</color></size>",
-      "info": "<size=39>La Miédica Onírica puede disparar balas en 7 colores.\n\n<color=#3D1400>Daño: </color><color=red>40/1.5 Segundos</color>\n<color=#3D1400>Especial: </color><color=red>Dispara aleatoriamente 1 de 7 tipos de balas. Cuando un zombi es golpeado por los 7 tipos de balas, quedará encantado. Cada vez que es golpeado por un tipo de bala, la probabilidad de encanto de la Miédica Onírica aumentará.</color>\n<color=#3D1400>Fórmula: </color><color=red>Hipnoseta + Seta Miedica\n<color=#3D1400>Nombre Científico: </color><color=red>Mycotis Timidus Hypnoticus</color></size>",
+      "introduce": "<size=39><color=#3D1400>La Seta Miédica siempre ha temido de los zombis. Para reducir su miedo, Hipnoseta le cuenta un cuento antes de dormir todos los días. Con el tiempo, Seta Miédica finalmente fue lavada del cerebro. Ahora puede usar esporas para lavar el cerebro a los zombis. Por supuesto, todavía tiene mucho miedo.</color></size>",
+      "info": "<size=39>La Miédica Onírica puede disparar balas en 7 colores.\n\n<color=#3D1400>Daño: </color><color=red>40/1.5 Segundos</color>\n<color=#3D1400>Especial: </color><color=red>Dispara aleatoriamente 1 de 7 tipos de balas. Cuando un zombi es golpeado por los 7 tipos de balas, quedará encantado. Cada vez que es golpeado por un tipo de bala, la probabilidad de encanto de la Miédica Onírica aumentará.</color>\n<color=#3D1400>Fórmula: </color><color=red>Hipnoseta + Seta Miédica\n<color=#3D1400>Nombre Científico: </color><color=red>Mycotis Timidus Hypnoticus</color></size>",
       "cost": "<size=39>Costo: <color=red>100, 250</color>   Recarga: <color=red>37.5 Segundos</color>\nPlantas Requeridas: <color=red>2</color></size>"
     },
     {
       "seedType": 1025,
       "name": "Seta Valiente",
       "introduce": "<size=39><color=#3D1400>\"¡El valor me llena, no queda miedo~ Ya sea primavera, otoño, invierno o verano~\" Seta Valiente ya no se encoge ante los zombis. \"Solía temblar, pero el Sr. Humoseta me dijo: 'Si un zombi se acerca, rocía tus esporas. Esconderse no resolverá nada.'\"</color></size>",
-      "info": "<size=39>Seta Valiente está lista para enfrentarse a los zombis, ¡cerca o lejos!\n\n<color=#3D1400>Daño: </color><color=red>30*2/1.5 Segundos</color>\n<color=#3D1400>Especial: </color><color=red>Cuando los zombis se acercan a 3 losas, rociarán vapores penetrantes en su lugar.</color>\n<color=#3D1400>Fórmula de Fusión: </color><color=red>Humoseta + Seta Miedica</color></size>",
+      "info": "<size=39>Seta Valiente está lista para enfrentarse a los zombis, ¡cerca o lejos!\n\n<color=#3D1400>Daño: </color><color=red>30*2/1.5 Segundos</color>\n<color=#3D1400>Especial: </color><color=red>Cuando los zombis se acercan a 3 losas, rociarán vapores penetrantes en su lugar.</color>\n<color=#3D1400>Fórmula de Fusión: </color><color=red>Humoseta + Seta Miédica</color></size>",
       "cost": "<size=39>Costo: <color=red>100, 250</color>   Recarga: <color=red>15 Segundos</color>\nPlantas Requeridas: <color=red>2</color></size>"
     },
     {
       "seedType": 1026,
       "name": "Coraseta",
       "introduce": "<size=39><color=#3D1400>Coraseta habla con una suave sonrisa: \"Cada espora lleva mi amor, y cuando florecen, es como una brisa primaveral acariciando el aire.\" Incluso torció su cabeza en forma de corazón para expresar sus sentimientos. Sus ojos brillan con sinceridad, esperando que, tal vez, solo tal vez, los zombis entiendan su amor.</color></size>",
-      "info": "<size=39>Coraseta puede disparar esporas explosivas de encanto.\n\n<color=#3D1400>Daño: </color><color=red>120 / 1.5 Segundos</color>\n<color=#3D1400>Especial: </color><color=red>40 de daño por salpicadura en una cuadrícula de 1x1.5. Tiene una oportunidad de encantar a los zombis con < 50% de HP.\n<color=#3D1400>Fórmula de Fusión: </color><color=red>Humoseta + Seta Miedica + Hipnoseta\n<color=#3D1400>Nombre Científico: </color><color=red>Mycotis Cordatus</color></size>",
+      "info": "<size=39>Coraseta puede disparar esporas explosivas de encanto.\n\n<color=#3D1400>Daño: </color><color=red>120 / 1.5 Segundos</color>\n<color=#3D1400>Especial: </color><color=red>40 de daño por salpicadura en una cuadrícula de 1x1.5. Tiene una oportunidad de encantar a los zombis con < 50% de HP.\n<color=#3D1400>Fórmula de Fusión: </color><color=red>Humoseta + Seta Miédica + Hipnoseta\n<color=#3D1400>Nombre Científico: </color><color=red>Mycotis Cordatus</color></size>",
       "cost": "<size=39>Costo: <color=red>175, 400</color>   Recarga: <color=red>45 Segundos</color>\nPlantas Requeridas: <color=red>3</color></size>"
     },
     {
@@ -4573,9 +4576,9 @@
     },
     {
       "seedType": 1038,
-      "name": "Miedica Gélida",
-      "introduce": "<size=39><color=#3D1400>La Miedica Gélida cree que se distingue de otras Miedicas. A diferencia de ellas, nunca se encoge de miedo y participa en todas las actividades sin dudar. Sin embargo, eso es solo porque cuando se asusta, el aire a su alrededor baja de temperatura, dejando a todos demasiado asustados para asustarla.</color></size>",
-      "info": "<size=39>Parte del <color=#0077b6>Sistema Criogénico</color>\nEnfría zombis al esconderse.\n<color=#0077b6>Sistema Criogénico:</color><color=#28567B>\n</color>- Aplica 10 puntos al impacto.\n- Daño x4 a zombis congelados.</color>\n\n<color=#3D1400>Daño: </color><color=red>40/1.5 Segundos</color>\n<color=#3D1400>Especial: </color><color=red>Congela zombis cercanos al asustarse</color>\n<color=#3D1400>Fórmula de Fusión: </color><color=red>Seta Miedica + Seta Congelada</color>\n<color=#3D1400>Nombre Científico: </color><color=red>Mycota Timidus Cryosis</color></size>",
+      "name": "Miédica Gélida",
+      "introduce": "<size=39><color=#3D1400>La Miédica Gélida cree que se distingue de otras Miédicas. A diferencia de ellas, nunca se encoge de miedo y participa en todas las actividades sin dudar. Sin embargo, eso es solo porque cuando se asusta, el aire a su alrededor baja de temperatura, dejando a todos demasiado asustados para asustarla.</color></size>",
+      "info": "<size=39>Parte del <color=#0077b6>Sistema Criogénico</color>\nEnfría zombis al esconderse.\n<color=#0077b6>Sistema Criogénico:</color><color=#28567B>\n</color>- Aplica 10 puntos al impacto.\n- Daño x4 a zombis congelados.</color>\n\n<color=#3D1400>Daño: </color><color=red>40/1.5 Segundos</color>\n<color=#3D1400>Especial: </color><color=red>Congela zombis cercanos al asustarse</color>\n<color=#3D1400>Fórmula de Fusión: </color><color=red>Seta Miédica + Seta Congelada</color>\n<color=#3D1400>Nombre Científico: </color><color=red>Mycota Timidus Cryosis</color></size>",
       "cost": "<size=39>Costo: <color=red>100, 250</color>   Recarga: <color=red>57.5 Segundos</color>\nPlantas Requeridas: <color=red>2</color></size>"
     },
     {
@@ -4601,9 +4604,9 @@
     },
     {
       "seedType": 1042,
-      "name": "Miedica Atómica",
-      "introduce": "<size=39><color=#3D1400>Algunas plantas se esconden cuando están nerviosas, pero la Miedica Atómica se emociona. Su adrenalina dispara sus balas cada vez más rápido. No lo provoques, o podría explotar.</color></size>",
-      "info": "<size=39>La velocidad de ataque de la Miedica Atómica aumenta a medida que ataca.\n\n<color=#3D1400>Daño: </color><color=red>20 / 1.5 Segundos (0.5 Segundos Máximo)</color>\n<color=#3D1400>Especial: </color><color=red>Cada ataque reducirá el intervalo de ataque en 0.1 segundos, máximo 0.5 segundos. Se reinicia cuando los zombis se acercan. Explotará cuando los zombis se acerquen mientras se alcanza la velocidad máxima de ataque.</color>\n<color=#3D1400>Fórmula de Fusión: </color><color=red>Seta Miedica + Petaseta\n<color=#3D1400>Nombre Científico: </color><color=red>Mycotis Timidus Atomis</color></size>",
+      "name": "Miédica Atómica",
+      "introduce": "<size=39><color=#3D1400>Algunas plantas se esconden cuando están nerviosas, pero la Miédica Atómica se emociona. Su adrenalina dispara sus balas cada vez más rápido. No lo provoques, o podría explotar.</color></size>",
+      "info": "<size=39>La velocidad de ataque de la Miédica Atómica aumenta a medida que ataca.\n\n<color=#3D1400>Daño: </color><color=red>20 / 1.5 Segundos (0.5 Segundos Máximo)</color>\n<color=#3D1400>Especial: </color><color=red>Cada ataque reducirá el intervalo de ataque en 0.1 segundos, máximo 0.5 segundos. Se reinicia cuando los zombis se acercan. Explotará cuando los zombis se acerquen mientras se alcanza la velocidad máxima de ataque.</color>\n<color=#3D1400>Fórmula de Fusión: </color><color=red>Seta Miédica + Petaseta\n<color=#3D1400>Nombre Científico: </color><color=red>Mycotis Timidus Atomis</color></size>",
       "cost": "<size=39>Costo: <color=red>150, 300</color>   Recarga: <color=red>57.5 Segundos</color>\nPlantas Requeridas: <color=red>2</color></size>"
     },
     {
@@ -5063,9 +5066,9 @@
     },
     {
       "seedType": 1108,
-      "name": "Birezidora",
-      "introduce": "<size=39><color=#3D1400>Lanzacerezas se arrastró fuera de la trinchera, desconcertada. \u0022¿Quién tiró esa bomba?\u0022 exigió. \u0022Lo siento, hermana.\u0022 respondió tímidamente Birezidora.</color></size>",
-      "info": "<size=39>Birezidora dispara cerezas hacia delante y hacia atrás.\n\n<color=#3D1400>Daño: </color><color=red>40*3/1.5 Segundos</color>\n<color=#3D1400>Fórmula: </color><color=red>Bipetidora + Petacereza\n<color=#3D1400>Nombre Científico: </color><color=red>Prunus retrofractum</color></size>",
+      "name": "Bipecereza",
+      "introduce": "<size=39><color=#3D1400>Lanzacerezas se arrastró fuera de la trinchera, desconcertada. \u0022¿Quién tiró esa bomba?\u0022 exigió. \u0022Lo siento, hermana.\u0022 respondió tímidamente Bipecereza.</color></size>",
+      "info": "<size=39>Bipecereza dispara cerezas hacia delante y hacia atrás.\n\n<color=#3D1400>Daño: </color><color=red>40*3/1.5 Segundos</color>\n<color=#3D1400>Fórmula: </color><color=red>Bipetidora + Petacereza\n<color=#3D1400>Nombre Científico: </color><color=red>Prunus retrofractum</color></size>",
       "cost": "<size=39>Costo: <color=red>450</color>   Recarga: <color=red>72.5 Segundos</color>\nPlantas Requeridas: <color=red>4</color></size>"
     },
     {
@@ -5232,9 +5235,9 @@
     },
     {
       "seedType": 1132,
-      "name": "Melórtero",
-      "introduce": "<size=39><color=#3D1400>El Melórtero es un ferviente defensor del principio de máxima potencia de fuego. 'Si un disparo no es suficiente, ¡haz dos, tres, cuatro!' Esta filosofía lo ha hecho invencible en el campo de batalla y muy popular en las fiestas de verano.</color></size>",
-      "info": "<size=39>Dispara manualmente una gran cantidad de melones hacia los Zombis.\n\n<color=#3D1400>Daño:</color><color=red>200*40, 3×3 sin disminución, con puntos de impacto aleatorios en un área de 5×3</color>\n<color=#3D1400>Recarga:</color><color=red>36 segundos</color>\n<color=#3D1400>Fórmula de Fusión:</color><color=red> Melonpulta + Lanzamaíz + Melonpulta + Combinadora (En Órden)(La Combinadora deberá plantarse encima de la Lanzamaíz)</color>\n<color=#3D1400>Nombre Científico: </color><color=red>Cucumis Mellifera</color></size>",
+      "name": "Melortero",
+      "introduce": "<size=39><color=#3D1400>El Melortero es un ferviente defensor del principio de máxima potencia de fuego. 'Si un disparo no es suficiente, ¡haz dos, tres, cuatro!' Esta filosofía lo ha hecho invencible en el campo de batalla y muy popular en las fiestas de verano.</color></size>",
+      "info": "<size=39>Dispara manualmente una gran cantidad de melones hacia los Zombis.\n\n<color=#3D1400>Daño:</color><color=red>200*40, 3×3 sin disminución, con puntos de impacto aleatorios en un área de 5×3</color>\n<color=#3D1400>Recarga:</color><color=red>36 segundos</color>\n<color=#3D1400>Fórmula de Fusión:</color><color=red> Melonpulta ∞ Lanzamaíz ∞ Melonpulta ∞ Combinadora (En Órden)(La Combinadora deberá plantarse encima de la Lanzamaíz)</color>\n<color=#3D1400>Nombre Científico: </color><color=red>Cucumis Mellifera</color></size>",
       "cost": "<size=39>Costo: <color=red>750</color>   Recarga: <color=red>52.5 Segundos</color>\nPlantas Requeridas: <color=red>4</color></size>"
     },
     {
@@ -5339,7 +5342,7 @@
       "seedType": 1147,
       "name": "Hipnonuez",
       "introduce": "<size=39><color=#3D1400>La Hipnonuez siempre ha tenido un sentimiento especial hacia los zombis. “Cuando me muerden se siente particularmente agradable, no es como rascarse la espalda, sino... bueno, digamos que se ha convertido en \"amor\" con el tiempo.” dice Hipnonuez.</color></size>",
-      "info": "<size=39>¡Invocador de zombis hipnotizados!\n\n<color=#3D1400>Dureza:</color><color=red>4000</color>\n<color=#3D1400>Especial:\n</color><color=red>- Cada vez que es mordido, hay un 4% de probabilidad de hipnotizar al zombi.\n- Recupera 100 de salud cuando es golpeado por una espora de Miedica Onírica y almacena una de ese color (máx. 3).\n- Cuando junta los 7 colores, consume una de cada tipo e invoca un Zombi Caja Dorada hipnotizado y restablece toda su salud.</color>\n<color=#3D1400>Fusión:</color><color=red>Nuez + Hipnoseta</color>\n<color=#3D1400>Nombre Científico: </color><color=red>Juglans fascinatio</color></size>",
+      "info": "<size=39>¡Invocador de zombis hipnotizados!\n\n<color=#3D1400>Dureza:</color><color=red>4000</color>\n<color=#3D1400>Especial:\n</color><color=red>- Cada vez que es mordido, hay un 4% de probabilidad de hipnotizar al zombi.\n- Recupera 100 de salud cuando es golpeado por una espora de Miédica Onírica y almacena una de ese color (máx. 3).\n- Cuando junta los 7 colores, consume una de cada tipo e invoca un Zombi Caja Dorada hipnotizado y restablece toda su salud.</color>\n<color=#3D1400>Fusión:</color><color=red>Nuez + Hipnoseta</color>\n<color=#3D1400>Nombre Científico: </color><color=red>Juglans fascinatio</color></size>",
       "cost": "<size=39>Costo: <color=red>125, 200</color>   Recarga: <color=red>60 Segundos</color>\nPlantas Requeridas: <color=red>2</color></size>"
     },
     {
@@ -5437,7 +5440,7 @@
       "seedType": 1161,
       "name": "Guisantidillón",
       "introduce": "<size=39><color=#3D1400>Como arma definitiva de la familia Guisante, a la Guisantidillón le enseñaron a no acostarse sin razón. \"¡Pero mi cabeza pesa mucho!\" se queja cuando la regañan. Lo que no sabe es que los ancianos Guisantes se lo prohibieron... porque se ve adorable cuando lo hace.</color></size>",
-      "info": "<size=39>Descarga una lluvia de guisantes puros sobre los zombis.\n\n<color=#3D1400>Dureza: </color><color=red>1000</color>\n<color=#3D1400>Daño: </color><color=red>20x30/2.25 Segundos (inicial)</color>\n<color=#3D1400>Daño Máximo: </color><color=red>20x60/2.25 Segundos</color>\n<color=#3D1400>Especial: </color><color=red>Velocidad de disparo aumenta en 3 fases. Se reinicia al dejar de atacar. Los guisantes pueden fallar contra zombis pequeños.</color>\n<color=#3D1400>Fórmula de Fusión: </color><color=red>Repetidora + Tripitidora + Combinadora (En Órden)(La Combinadora deberá plantarse encima de la Tripitidora)</color>\n<color=#3D1400>Nombre Científico: </color><color=red>Pisum titanomitra</color></size>",
+      "info": "<size=39>Descarga una lluvia de guisantes puros sobre los zombis.\n\n<color=#3D1400>Dureza: </color><color=red>1000</color>\n<color=#3D1400>Daño: </color><color=red>20x30/2.25 Segundos (inicial)</color>\n<color=#3D1400>Daño Máximo: </color><color=red>20x60/2.25 Segundos</color>\n<color=#3D1400>Especial: </color><color=red>Velocidad de disparo aumenta en 3 fases. Se reinicia al dejar de atacar. Los guisantes pueden fallar contra zombis pequeños.</color>\n<color=#3D1400>Fórmula de Fusión: </color><color=red>Repetidora ∞ Tripitidora ∞ Combinadora (En Órden)(La Combinadora deberá plantarse encima de la Tripitidora)</color>\n<color=#3D1400>Nombre Científico: </color><color=red>Pisum titanomitra</color></size>",
       "cost": "<size=39>Costo: <color=red>725</color>   Recarga: <color=red>67.5 Segundos</color>\nPlantas Requeridas: <color=red>4</color></size>"
     },
     {
@@ -5465,7 +5468,7 @@
       "seedType": 1165,
       "name": "Sargente Níveo",
       "introduce": "<size=39><color=#3D1400>Como comandante de la familia de los guisantes, la Sargente Níveo tiene tal presencia que incluso a kilómetros de distancia, las plantas y zombis tiemblan de miedo. Sin embargo, nunca habla sobre su habilidad para congelar rápidamente. Hasta que un día, un pequeño guisante, sin querer, abrió su diario: \"Si hubiera sabido que no debía apostar con el Francoguisantes Ígneo, no solo casi me congelo hasta morir en la tundra, sino que ahora me veo así. Esta noche tengo que traer a ese tipo y hacer que coma tres grandes tazones de chile picante.\"</color></size>",
-      "info": "<size=39>Dispara guisantes que acumulan <color=red>10 Puntos Criogénicos</color> por impacto. Al alcanzar <color=red>100 Puntos</color>, el zombi se congela durante <color=red>5 segundos</color>. Cada congelación aumenta el umbral en <color=red>+100</color> (máximo <color=red>400</color>).\n\n<color=#3D1400>Daño Base: </color><color=red>20×6/1.5 Segundos</color>\n<color=#3D1400>Daño Amplificado: </color><color=red>x4</color> contra zombis congelados\n<color=#3D1400>Especial: </color><color=red>3% de probabilidad de disparar 20 guisantes en 0.02 segundos</color>\n<color=#3D1400>Fórmula de Fusión: </color><color=red>Sargente Guisante + Seta Congelada</color>\n<color=#3D1400>Nombre Científico: </color><color=red>Pisum cryorapidicaudex</color></size>",
+      "info": "<size=39>Parte del <color=#0077b6>Sistema Criogénico</color>\nDispara guisantes congelados, y tiene chance de disparar muchos de estos.\n<color=#0077b6>Sistema Criogénico:</color><color=#28567B>\n</color>- Aplica 10 puntos al impacto.\n- Daño x4 a zombis congelados.</color>\n\n<color=#3D1400>Daño: </color><color=red>20×6/1.5 Segundos</color>\n<color=#3D1400>Especial: </color><color=red>3% de probabilidad de disparar 20 guisantes en 0.02 segundos</color>\n<color=#3D1400>Fórmula de Fusión: </color><color=red>Sargente Guisante + Seta Congelada</color>\n<color=#3D1400>Nombre Científico: </color><color=red>Pisum cryorapidicaudex</color></size>",
       "cost": ""
     },
     {
@@ -5505,8 +5508,8 @@
     },
     {
       "seedType": 1171,
-      "name": "Miedicapum",
-      "introduce": "<size=39><color=#3D1400>¿Por qué la Miedicapum se autodestruye mientras pelea? Su explicación es conmovedora: “¡Cada ataque que hago consume mi vida!” Pero en realidad, simplemente es un mago que tiene miedo de complicaciones. Después de atacar un par de veces, se cansa y usa una Patatapum para realizar un gran “truco de setas”.</color>",
+      "name": "Miédicapum",
+      "introduce": "<size=39><color=#3D1400>¿Por qué la Miédicapum se autodestruye mientras pelea? Su explicación es conmovedora: “¡Cada ataque que hago consume mi vida!” Pero en realidad, simplemente es un mago que tiene miedo de complicaciones. Después de atacar un par de veces, se cansa y usa una Patatapum para realizar un gran “truco de setas”.</color>",
       "info": "<size=39>¡Consume vida para lanzar esporas de alto daño!\n\n<color=#3D1400>Daño:</color> <color=red>600/3 segundos</color>\n<color=#3D1400>Características:</color> <color=red>Cada ataque consume 75 de vida. Si la Miédicapum sobrevive más de 20 segundos (cuando la luz roja se apaga), su daño se reduce un 90%, pero ya no pierde vida con los ataques. Al morir, inflige 600 de daño a los zombis cercanos.</color>\n<color=#3D1400>Receta de Fórmula de Fusión:</color> <color=red>Seta Miédica + Patatapum\n<color=#3D1400>Nombre científico: </color><color=red>Mycena vitalis</color>",
       "cost": "<size=39>Costo: <color=red>50, 125</color>   Recarga: <color=red>37.5 Segundos</color>\nPlantas Requeridas: <color=red>2</color></size>"
     },
@@ -5528,14 +5531,14 @@
       "seedType": 1174,
       "name": "Carroñívora Titán",
       "introduce": "<size=39><color=#3D1400> La Carroñívora Titán ganó el concurso de comer más rápido al devorar 10 pasteles de Zombistein en 44 segundos, de los cuales 3 segundos los perdió porque no oyó el silbido de inicio. \"Si hay otro evento como este, por favor invítenme, los bufets cercanos al jardín ya no me dejan entrar\", dijo Carroñívora Titán en una entrevista.<size=39></color>",
-      "info": "<size=39>¡Devora a todos los zombis frente a ella!\n\n<size=39><color=#3D1400>Daño:</color> <size=39><color=red>Instantáneo</color>\n<color=#3D1400>Características:</color> <color=red>Puede devorar todos los zombis en un rango de 1.5 casillas frente a ella (excepto los zombis blindados, gigantes, etc.). El tiempo de masticado depende de la salud total de los zombis (por ejemplo: Zombi común 24.8 segundos, con hierro 29.9 segundos, Mega Zombistein 34 segundos, 10 Mega Zombistein 41 segundos).</color>\n<size=39><color=#3D1400>Receta de Fórmula de Fusión:</color> <color=red>Planta Carroñívora + Planta Carroñívora + Planta Carroñívora + Combinadora (En Órden)(La Combinadora deberá plantarse encima de la Carnivora del centro)\n<color=#3D1400>Nombre científico: </color><color=red>Dionaea titanus</color>",
+      "info": "<size=39>¡Devora a todos los zombis frente a ella!\n\n<size=39><color=#3D1400>Daño:</color> <size=39><color=red>Instantáneo</color>\n<color=#3D1400>Características:</color> <color=red>Puede devorar todos los zombis en un rango de 1.5 casillas frente a ella (excepto los zombis blindados, gigantes, etc.). El tiempo de masticado depende de la salud total de los zombis (por ejemplo: Zombi común 24.8 segundos, con hierro 29.9 segundos, Mega Zombistein 34 segundos, 10 Mega Zombistein 41 segundos).</color>\n<size=39><color=#3D1400>Receta de Fórmula de Fusión:</color> <color=red>Planta Carroñívora ∞ Planta Carroñívora ∞ Planta Carroñívora ∞ Combinadora (En Órden)(La Combinadora deberá plantarse encima de la Carroñívora del centro)\n<color=#3D1400>Nombre científico: </color><color=red>Dionaea titanus</color>",
       "cost": "<size=39>Costo: <color=red>500</color>   Recarga: <color=red>52.5 Segundos</color>\nPlantas Requeridas: <color=red>4</color></size>"
     },
     {
       "seedType": 1175,
       "name": "Krakenseta",
       "introduce": "<size=39><color=#3D1400>La existencia de Krakenseta para ella es un enigma, no sabe si es un monstruo marino o una simple combinación entre plantas. Una vez, tratando de buscar respuestas, busco en el internet y aparecia que era una \u0022Marseta Hen…\u0022 Y no termino su frase. no porque sabe lo que significa, pero simplemente no sabe leer tan bien.</color>",
-      "info": "<size=39>Parte del <color=#03311C>Sistema Enredadera</color>\n\n<color=#3D1400>Mecánica de Enredadera:</color>\n- Aplica <color=red>1 Acumulación</color> por ataque (solo zombis acuáticos).\n- Daño adicional basado en la <color=red>vida máxima del zombi</color>:\n  <color=red>6-10</color>: +1% (ej: 10 daño si zombi tiene 1000 HP)\n  <color=red>11-15</color>: +3%\n  <color=red>16-29</color>: +5%\n  <color=red>30+</color>: ¡Muerte instantánea!\n\n<color=#3D1400>Daño Base:</color> <color=red>20*2/1.5 Segundos (Esporas) 100/1.5 Segundos (Tentaculo)</color> (+ ralentización)</color>\n<color=#3D1400>Dureza: </color><color=red>1000</color>\n<color=#3D1400>Especial: </color><color=red>Puede repeler a los zombis cercanos individualmente y causar 100 de daño, y junto a ello añade 1 Punto de Enredadera.</color>\n<color=#3D1400>Fórmula de Fusión:</color><color=red>Zampalga + Marseta + Zampalga + Combinadora (En Órden)(La Combinadora deberá plantarse encima de la Marseta del centro)\n<color=#3D1400>Nombre científico: </color><color=red>Levithanae Mycotis</color>",
+      "info": "<size=39>Parte del <color=#03311C>Sistema Enredadera</color>\n\n<color=#3D1400>Mecánica de Enredadera:</color>\n- Aplica <color=red>1 Acumulación</color> por ataque (solo zombis acuáticos).\n- Daño adicional basado en la <color=red>vida máxima del zombi</color>:\n  <color=red>6-10</color>: +1% (ej: 10 daño si zombi tiene 1000 HP)\n  <color=red>11-15</color>: +3%\n  <color=red>16-29</color>: +5%\n  <color=red>30+</color>: ¡Muerte instantánea!\n\n<color=#3D1400>Daño Base:</color> <color=red>20*2/1.5 Segundos (Esporas) 100/1.5 Segundos (Tentaculo)</color> (+ ralentización)</color>\n<color=#3D1400>Dureza: </color><color=red>1000</color>\n<color=#3D1400>Especial: </color><color=red>Puede repeler a los zombis cercanos individualmente y causar 100 de daño, y junto a ello añade 1 Punto de Enredadera.</color>\n<color=#3D1400>Fórmula de Fusión:</color><color=red>Zampalga ∞ Marseta ∞ Zampalga ∞ Combinadora (En Órden)(La Combinadora deberá plantarse encima de la Marseta del centro)\n<color=#3D1400>Nombre científico: </color><color=red>Levithanae Mycotis</color>",
       "cost": "<size=39>Costo: <color=red>100, 175</color>   Recarga: <color=red>137.5 Segundos</color>\nPlantas Requeridas: <color=red>4</color></size>"
     },
     {
@@ -5626,8 +5629,8 @@
       "seedType": 1188,
       "name": "Girasol Dorado",
       "introduce": "<size=39><color=#3D1400>Quedarse quieto en un trofeo le resultaba aburrido, ¡y era hora de unirse al campo de batalla! “¡Esto es increible!” “¡Nunca he estado en tanto peligro antes, esto es mucho mejor que quedarse en ese trofeo!”</color></size>",
-      "info": "<size=39>Parte del <color=#FFCA30>Sistema Monetario</color>\nAcumula soles dentro de si mismo.</color>\n\n<color=#3D1400>Producción Solar: </color><color=red>50/10 Segundos (Acumula soles en un apartado diferente, los deposita a tus soles actuales con su mejora.)\n<color=#3D1400>Habilidad Especial:</color><color=red> Deposita todos los soles guardados dentro de si mismo a tu cantidad de soles actuales.</color>\n<color=#3D1400>Costo de Mejora:</color><color=red> 1000 monedas (Próximos costos: 3000*2^Número de Girasoles Dorados en el campo.)\n<color=#3D1400>Nombre Científico: </color><color=red>Helianthus Aurea</color>\n</color><color=#3D1400>Fórmula de Fusión:</color><color=red>Girasol Plateado + Grano de Café</color></size>",
-      "cost": "<size=39>Costo: <color=red>75 ($3000*2^X)</color>   Recarga: <color=red>15 Segundos</color>\nPlantas Requeridas: <color=red>2</color></size>"
+      "info": "<size=39>Parte del <color=#FFCA30>Sistema Monetario</color>\nAcumula soles dentro de si mismo.</color>\n\n<color=#3D1400>Producción Solar: </color><color=red>50/10 Segundos (Acumula soles en un apartado diferente, los deposita a tus soles actuales con su mejora.)\n<color=#3D1400>Habilidad Especial:</color><color=red> Deposita todos los soles guardados dentro de si mismo a tu cantidad de soles actuales.</color>\n<color=#3D1400>Costo de Mejora:</color><color=red> 1000 monedas (Próximos costos: (3000*2)*Número de Girasoles Dorados en el campo.)\n<color=#3D1400>Nombre Científico: </color><color=red>Helianthus Aurea</color>\n</color><color=#3D1400>Fórmula de Fusión:</color><color=red>Girasol Plateado + Grano de Café</color></size>",
+      "cost": "<size=39>Costo: <color=red>75 (+($3000*2)*X)</color>   Recarga: <color=red>15 Segundos</color>\nPlantas Requeridas: <color=red>2</color></size>"
     },
     {
       "seedType": 1189,
@@ -5667,8 +5670,8 @@
     {
       "seedType": 1194,
       "name": "Petaguisantes",
-      "introduce": "<size=39><color=#3D1400>Petaguisantes y Miedica Atómica son grandes amigos; uno es impulsivo y el otro más pausado. Juntos forman el mejor equipo: \u0022Aunque tenemos personalidades distintas, nos complementamos perfectamente\u0022.</color></size>",
-      "info": "<size=39>Un fiero atacante cuyo daño aumenta progresivamente.\n\n<color=#3D1400>Daño: </color><color=red>40 cada 1.5s</color>\n<color=#3D1400>Especial: </color><color=red>Cada disparo aumenta el daño en +1, hasta un máximo de 100.\n<color=#3D1400>Característica Mutua: </color><color=red>Si hay una Miedica Atómica en la casilla trasera, Petaguisantes tendrá la misma cadencia de tiro que la Miedica Atómica.</color>\n<size=39><color=#3D1400>Fusión:</color> <color=red>Lanzaguisantes + Petaseta\n<color=#3D1400>Nombre Científico:</color> <color=red>Pisum atomis</color></size></color></size>",
+      "introduce": "<size=39><color=#3D1400>Petaguisantes y Miédica Atómica son grandes amigos; uno es impulsivo y el otro más pausado. Juntos forman el mejor equipo: \u0022Aunque tenemos personalidades distintas, nos complementamos perfectamente\u0022.</color></size>",
+      "info": "<size=39>Un fiero atacante cuyo daño aumenta progresivamente.\n\n<color=#3D1400>Daño: </color><color=red>40 cada 1.5s</color>\n<color=#3D1400>Especial: </color><color=red>Cada disparo aumenta el daño en +1, hasta un máximo de 100.\n<color=#3D1400>Característica Mutua: </color><color=red>Si hay una Miédica Atómica en la casilla trasera, Petaguisantes tendrá la misma cadencia de tiro que la Miédica Atómica.</color>\n<size=39><color=#3D1400>Fusión:</color> <color=red>Lanzaguisantes + Petaseta\n<color=#3D1400>Nombre Científico:</color> <color=red>Pisum atomis</color></size></color></size>",
       "cost": "<size=39>Costo: <color=red>225</color>   Recarga: <color=red>57.5 Segundos</color>\nPlantas Requeridas: <color=red>2</color></size>"
 
     },
@@ -5730,8 +5733,8 @@
     },
     {
       "seedType": 1203,
-      "name": "Maizetita",
-      "introduce": "<size=39><color=#3D1400> Resultados del experimento: la siembra densa no favorece el crecimiento, las mazorcas de maíz son notablemente más pequeñas. Dave se agacha, observando a la Maizetita con una lupa: ‘No sirve para hacer tacos de maíz’. La Maizetita, enfadado, replica: ¡Los resultados muestran que lo concentrado es puro poder!</color></size>",
+      "name": "Maicito",
+      "introduce": "<size=39><color=#3D1400> Resultados del experimento: la siembra densa no favorece el crecimiento, las mazorcas de maíz son notablemente más pequeñas. Dave se agacha, observando a la Maicito con una lupa: ‘No sirve para hacer tacos de maíz’. La Maicito, enfadado, replica: ¡Los resultados muestran que lo concentrado es puro poder!</color></size>",
       "info": "<size=39>¡Encoge a los zombis con su mantequilla!</color>\n\n<color=#3D1400>Daño:</color> <color=red>20 cada 3s\n<color=#3D1400>Especial:</color> <color=red>25% de probabilidad de lanzar mantequilla con 40 de daño, que reduce el tamaño y la salud de zombis no encogidos a 0.7 veces, inmoviliza zombis encogidos por 1.5 segundos y elimina zombis pequeños. Prioriza zombis no encogidos.</color>\n<color=#3D1400>Nombre Científico:</color> <color=red>Maizapultus diminutyn</color></size>\n<size=39><color=#3D1400>Fórmula de Fusión:</color> <color=red>Seta Desesporada + Lanzamaíz</color></size>",
       "cost": "<size=39>Costo: <color=red>100, 175</color>   Recarga: <color=red>15 Segundos</color>\nPlantas Requeridas: <color=red>2</color></size>"
     },
@@ -6127,6 +6130,223 @@
       "introduce": "<size=39><color=#3D1400>A Bamfluido le encanta viajar y promocionar su nevado pueblo, pero a nadie parece interesarle. \u0022Siempre creen que la mochila que llevo en la espalda es solo un golpe que he recibido\u0022, se queja. \u0022Con razón creen que la tundra es un lugar implacable\u0022.</color></size>",
       "info": "<size=39>Mejora sus capabilidades para combatir con el hielo.</color>\n\n<color=#3D1400>Dureza: </color><color=red>1500</color>\n<color=#3D1400>Especial:</color> <color=red>Inmune al congelamiento. Gana cargas gélidas como Aloe Vera.\nResiliencia (Se predetermina a 1): El daño recibido se divide por la Resiliencia. Los PS máximos se consideran multiplicados por este. Consume una carga para subir Resiliencia a 2. Gana 1 Punto de Resiliencia al pelear zombis relentizados/congelados (no se puede apilar con su abilidad anterior)</color>\n<color=#3D1400>Nombre Científico:</color> <color=red>Bambusa hidratus</color></size>\n<size=39><color=#3D1400>Fórmula de Fusión:</color> <color=red>Aloe Vera + Bambuido</color></size>",
       "cost": "<size=39>Costo: <color=red>125</color>   Recarga: <color=red>22.5 Segundos</color>\nPlantas Requeridas: <color=red>2</color></size>"
+    },
+    {
+      "seedType": 1260,
+      "name": "Buidabeto",
+      "introduce": "<size=39><color=#3D1400>TBD</color></size>",
+      "info": "<size=39>Sacrifica su salud para dañar zombis a distancia.</color>\n\n<color=#3D1400>Dureza: </color><color=red>1800</color>\n<color=#3D1400>Daño:</color> <color=red>30 cada 1.5s\n<color=#3D1400>Especial:</color> <color=red>A lo que impacte uno de sus proyectiles con un zombi, se compara la salud de Buidabeto con la del zombi. Si la salud de Buidabeto es mayor que la del zombi, esta recibe daño igual a la salud actual del zombi,  matando al zombi al instante. Si su salud es menor, pierde hasta 300 PS y el zombi recibe 30.  Esta mecánica no funciona si la salud de Buidabeto es menor de 300.</color>\n<color=#3D1400>Nombre Científico:</color> <color=red>Bambusa clavium</color></size>\n<size=39><color=#3D1400>Fórmula de Fusión:</color> <color=red>Agujabeto + Bambuido</color></size>",
+      "cost": "<size=39>Costo: <color=red>225</color>   Recarga: <color=red>22.5 Segundos</color>\nPlantas Requeridas: <color=red>2</color></size>"
+    },
+    {
+      "seedType": 1261,
+      "name": "Nuez Melón",
+      "introduce": "<size=39><color=#3D1400>TBD</color></size>",
+      "info": "<size=39>Intenta contraatacar con el zombi que lo muerde con melones.</color>\n\n<color=#3D1400>Dureza: </color><color=red>8000</color>\n<color=#3D1400>Especial:</color> <color=red>Nuez Melón tiene un valor que aumenta cada vez que un zombi lo muerde (aumenta 75 por mordisco). Cuando este valor supera los 1000, dispara un melón con un daño igual a al valor almacenado y obtiene un escudo temporal por 5s. El valor almacenado no supera los PS máximos del zombi (valor almacenado x 1.5) y cuanto mayor sea el daño recibido, mayor aumento de valor dará.</color>\n<color=#3D1400>Nombre Científico:</color> <color=red>Citrullo praesidium</color></size>\n<size=39><color=#3D1400>Fórmula de Fusión:</color> <color=red>Nuez + Melonpulta</color></size>",
+      "cost": "<size=39>Costo: <color=red>350</color>   Recarga: <color=red>37.5 Segundos</color>\nPlantas Requeridas: <color=red>2</color></size>"
+    },
+    {
+      "seedType": 1262,
+      "name": "Nuez Col",
+      "introduce": "<size=39><color=#3D1400>TBD</color></size>",
+      "info": "<size=39>Contraataca al zombi que lo muerde con coles.</color>\n\n<color=#3D1400>Dureza: </color><color=red>4000</color>\n<color=#3D1400>Especial:</color> <color=red>Nuez Col tiene un valor que aumenta cada vez que un zombi lo muerde (aumenta 50 por mordisco). Cuando este valor supera los 1000, dispara un melón con un daño igual a al valor almacenado y obtiene un escudo temporal por 5s. El valor almacenado no supera los PS máximos del zombi y cuanto mayor sea el daño recibido, mayor aumento de valor dará.</color>\n<color=#3D1400>Nombre Científico:</color> <color=red>Repoli praesidium</color></size>\n<size=39><color=#3D1400>Fórmula de Fusión:</color> <color=red>Nuez + Coltapulta</color></size>",
+      "cost": "<size=39>Costo: <color=red>150</color>   Recarga: <color=red>37.5 Segundos</color>\nPlantas Requeridas: <color=red>2</color></size>"
+    },
+    {
+      "seedType": 1263,
+      "name": "Nuez Maíz",
+      "introduce": "<size=39><color=#3D1400>TBD</color></size>",
+      "info": "<size=39>Relentiza a cualquiera que intente morderlo.</color>\n\n<color=#3D1400>Dureza: </color><color=red>4000</color>\n<color=#3D1400>Especial:</color> <color=red>Lanza una mantequilla al zombi que lo muerde al ser mordido (mantequilla dura 2s).</color>\n<color=#3D1400>Nombre Científico:</color> <color=red>Maiza praesidium</color></size>\n<size=39><color=#3D1400>Fórmula de Fusión:</color> <color=red>Nuez + Lanzamaíz</color></size>",
+      "cost": "<size=39>Costo: <color=red>150</color>   Recarga: <color=red>37.5 Segundos</color>\nPlantas Requeridas: <color=red>2</color></size>"
+    },
+    {
+      "seedType": 1264,
+      "name": "Bamblindaje",
+      "introduce": "<size=39><color=#3D1400>TBD</color></size>",
+      "info": "<size=39>Ataca y protege con Puntos Escuderos.</color>\n\n<color=#3D1400>Dureza: </color><color=red>1500</color>\n<color=#3D1400>Especial:</color> <color=red>Tiene las mismas características de Bambuido. Se da a si mismo 60 PE cada 1.5 segundos hasta un limite de 1500.\n<color=#3D1400>Puntos Escuderos (PE):</color> <color=red>Los puntos escuderos son puntos de salud adicionales que se le puede dar a una planta por fusiones de Florafilo.</color>\n<color=#3D1400>Nombre Científico:</color> <color=red>Bambusa shuris</color></size>\n<size=39><color=#3D1400>Fórmula de Fusión:</color> <color=red>Florafilo + Bambuido</color></size>",
+      "cost": "<size=39>Costo: <color=red>150</color>   Recarga: <color=red>22.5 Segundos</color>\nPlantas Requeridas: <color=red>2</color></size>"
+    },
+    {
+      "seedType": 1265,
+      "name": "Termambú",
+      "introduce": "<size=39><color=#3D1400>TBD</color></size>",
+      "info": "<size=39>Amplía su zona de calentamiento por cierta cantidad de tiempo.</color>\n\n<color=#3D1400>Especial:</color> <color=red>Calienta a las plantas alrededor suyo por 60s en una área de 3x3. Después de esto, vuelve a ser Plantérmica.</color>\n<color=#3D1400>Nombre Científico:</color> <color=red>Piinak bambusa</color></size>\n<size=39><color=#3D1400>Fórmula de Fusión:</color> <color=red>Plantérmica + Bambuido</color></size>",
+      "cost": "<size=39>Costo: <color=red>75</color>   Recarga: <color=red>22.5 Segundos</color>\nPlantas Requeridas: <color=red>2</color></size>"
+    },
+    {
+      "seedType": 1266,
+      "name": "Nuez Cascolosal",
+      "introduce": "<size=39><color=#3D1400>TBD</color></size>",
+      "info": "<size=39>¡La defensa definitiva!</color>\n\n<color=#3D1400>Dureza: </color><color=red>32000</color>\n<color=#3D1400>Especial:</color> <color=red>Cada nuez adicional en el campo aumenta su defensa. Recibe 1/3 de daño de los zombis, y no puede ser aplastado.</color>\n<color=#3D1400>Nombre Científico:</color> <color=red>Juglans colosidium</color></size>\n<size=39><color=#3D1400>Fórmula de Fusión:</color> <color=red>Nuez ∞ Nuez Alta ∞ Nuez ∞ Combinadora (En Órden)(La Combinadora deberá plantarse encima de la Nuez Alta)</color></size>",
+      "cost": "<size=39>Costo: <color=red>275</color>   Recarga: <color=red>140 Segundos</color>\nPlantas Requeridas: <color=red>4</color></size>"
+    },
+    {
+      "seedType": 1267,
+      "name": "Hipnoguisante",
+      "introduce": "<size=39><color=#3D1400>TBD</color></size>",
+      "info": "<size=39>Lanza guisantes hipnóticos.</color>\n\n<color=#3D1400>Daño:</color> <color=red>30 cada 1.5s\n<color=#3D1400>Especial:</color> <color=red>Convierte a los zombis que derrota en Vegezombis Hipnoguisantes.</color>\n<color=#3D1400>Nombre Científico:</color> <color=red>Hypnotica propulsum</color></size>\n<size=39><color=#3D1400>Fórmula de Fusión:</color> <color=red>Lanzaguisantes + Hipnoseta</color></size>",
+      "cost": "<size=39>Costo: <color=red>175, 250</color>   Recarga: <color=red>37.5 Segundos</color>\nPlantas Requeridas: <color=red>2</color></size>"
+    },
+    {
+      "seedType": 1268,
+      "name": "Repetihipno",
+      "introduce": "<size=39><color=#3D1400>TBD</color></size>",
+      "info": "<size=39>Lanza ni uno, ni tres...dos, guisantes hipnóticos.</color>\n\n<color=#3D1400>Daño:</color> <color=red>30*2 cada 1.5s\n<color=#3D1400>Especial:</color> <color=red>Convierte a los zombis que derrota en Vegezombis Hipnoguisantes.</color>\n<color=#3D1400>Nombre Científico:</color> <color=red>Hypnotica duplex</color></size>\n<size=39><color=#3D1400>Fórmula de Fusión:</color> <color=red>Repetidora + Hipnoseta</color></size>",
+      "cost": "<size=39>Costo: <color=red>275, 350</color>   Recarga: <color=red>45 Segundos</color>\nPlantas Requeridas: <color=red>3</color></size>"
+    },
+    {
+      "seedType": 1269,
+      "name": "Bipetihipno",
+      "introduce": "<size=39><color=#3D1400>TBD</color></size>",
+      "info": "<size=39>Lanza dos guisantes hipnóticos por delante, uno por detrás.</color>\n\n<color=#3D1400>Daño:</color> <color=red>30*3 cada 1.5s\n<color=#3D1400>Especial:</color> <color=red>Convierte a los zombis que derrota en Vegezombis Hipnoguisantes.</color>\n<color=#3D1400>Nombre Científico:</color> <color=red>Hypnotica retrofractum</color></size>\n<size=39><color=#3D1400>Fórmula de Fusión:</color> <color=red>Bipetidora + Hipnoseta</color></size>",
+      "cost": "<size=39>Costo: <color=red>375, 450</color>   Recarga: <color=red>52.5 Segundos</color>\nPlantas Requeridas: <color=red>4</color></size>"
+    },
+    {
+      "seedType": 1270,
+      "name": "Hipnotralladora",
+      "introduce": "<size=39><color=#3D1400>TBD</color></size>",
+      "info": "<size=39>Lanza cuatro guisantes hipnóticos consecutivamente.</color>\n\n<color=#3D1400>Daño:</color> <color=red>30*4 cada 1.5s\n<color=#3D1400>Especial:</color> <color=red>Convierte a los zombis que derrota en Vegezombis Hipnoguisantes.</color>\n<color=#3D1400>Nombre Científico:</color> <color=red>Hypnotica mitragyrator</color></size>\n<size=39><color=#3D1400>Fórmula de Fusión:</color> <color=red>Guisantralladora + Hipnoseta</color></size>",
+      "cost": "<size=39>Costo: <color=red>475, 550</color>   Recarga: <color=red>60 Segundos</color>\nPlantas Requeridas: <color=red>5</color></size>"
+    },
+    {
+      "seedType": 1271,
+      "name": "Sargento Tripitidora",
+      "introduce": "<size=39><color=#3D1400>TBD</color></size>",
+      "info": "<size=39>¡Ay caray! Guisantes en tantos lados...¿Qué suerte tendrán los zombis contra esto?</color>\n\n<color=#3D1400>Daño:</color> <color=red>(20*6)*3 cada 1.5s\n<color=#3D1400>Especial:</color> <color=red>Tiene las mismas características que Sargento Guisante, pero dispara en tres filas. Al usar su habilidad especial, el número de proyectiles permanece sin cambios pero el daño se multiplica x3.</color>\n<color=#3D1400>Nombre Científico:</color> <color=red>Triplopisum rapidicaudex</color></size>\n<size=39><color=#3D1400>Fórmula de Fusión:</color> <color=red>Tripitidora + Sargento Guisante</color></size>",
+      "cost": "<size=39>Costo: <color=red>875</color>   Recarga: <color=red>15 Segundos</color>\nPlantas Requeridas: <color=red>2</color></size>"
+    },
+    {
+      "seedType": 1272,
+      "name": "Francoguisantes Atómico",
+      "introduce": "<size=39><color=#3D1400>TBD</color></size>",
+      "info": "<size=39>Lleva cualquiera a la ruina con sus laseres.</color>\n\n<color=#3D1400>Daño:</color> <color=red>100 cada 0.3s\n<color=#3D1400>Especial:</color> <color=red>- Cada vez que daña un zombi, cargará un punto para activar su habilidad especial. Cuando estos puntos llegen a 300, desatará una explosión Petaseta al atacar el primer zombi que encuentre. El poder de esta explosión es equivalente a 72 veces más que su poder de ataque actual.\n- Cada vez que daña a un zombi, cargará un punto de energía. Cuando estos puntos llegen a 100, toda la energía será consumida, y la velocidad de ataque será el doble de rápido por 8s.\n- Cada vez que daña un zombi, hay una chance de 10% que haga daño crítico, haciendo 6 veces mas daño. Si el zombi está en el Estado Plasmático (ver Plantorcha Plasmática), esta probabilidad se cambia a 100%.</color>\n<color=#3D1400>Nombre Científico:</color> <color=red>Ruinae telescopium</color></size>\n<size=39><color=#3D1400>Fórmula de Fusión:</color> <color=red>Petaseta + Francoguisantes</color></size>",
+      "cost": "<size=39>Costo: <color=red>725, 800</color>   Recarga: <color=red>57.5 Segundos</color>\nPlantas Requeridas: <color=red>2</color></size>"
+    },
+    {
+      "seedType": 1273,
+      "name": "Dron Miédico",
+      "introduce": "<size=39><color=#3D1400>TBD</color></size>",
+      "info": "<size=39>Evita a que los zombis coman Setas Miédicas.</color>\n\n<color=#3D1400>Especial:</color> <color=red>Toda Seta Miédica que este bajo el Drón Miédico en un área de 3x3 será ignorado por zombis.</color>\n<color=#3D1400>Nombre Científico:</color> <color=red>Mycosoma ventosus</color></size>\n<size=39><color=#3D1400>Fórmula de Fusión:</color> <color=red>Seta Miédica + Trebolador</color></size>",
+      "cost": "<size=39>Costo: <color=red>125, 200</color>   Recarga: <color=red>22.5 Segundos</color>\nPlantas Requeridas: <color=red>2</color></size>"
+    },
+    {
+      "seedType": 1274,
+      "name": "Miédica Explosiva",
+      "introduce": "<size=39><color=#3D1400>TBD</color></size>",
+      "info": "<size=39>Genera una explosión al esconderse.</color>\n\n<color=#3D1400>Daño:</color> <color=red>40 cada 1.5s (Esporas) 600 (Explosión)\n<color=#3D1400>Especial:</color> <color=red>Al esconderse crea una explosión en un área de 3x3.</color>\n<color=#3D1400>Nombre Científico:</color> <color=red>Mycosa explosivus</color></size>\n<size=39><color=#3D1400>Fórmula de Fusión:</color> <color=red>F1 + F2</color></size>",
+      "cost": "<size=39>Costo: <color=red>175, 250</color>   Recarga: <color=red>57.5 Segundos</color>\nPlantas Requeridas: <color=red>2</color></size>"
+    },
+    {
+      "seedType": 1275,
+      "name": "Arruinador",
+      "introduce": "<size=39><color=#3D1400>TBD</color></size>",
+      "info": "<size=39>Hace el mismo daño que el de una explosión pasivamente.</color>\n\n<color=#3D1400>Daño:</color> <color=red>180 cada 1s (hasta 10s)\n<color=#3D1400>Especial:</color> <color=red>Inflinge 1800 de daño progresivamente a todos los zombis en pantalla durante 10 segundos. Si un zombi está en el Estado Plasmático (ver Plantorcha Plasmática), su daño se duplica.</color>\n<color=#3D1400>Nombre Científico:</color> <color=red>Gigantrifolium ruinae</color></size>\n<size=39><color=#3D1400>Fórmula de Fusión:</color> <color=red>Petaseta + Trebolador</color></size>",
+      "cost": "<size=39>Costo: <color=red>225, 300</color>   Recarga: <color=red>65 Segundos</color>\nPlantas Requeridas: <color=red>2</color></size>"
+    },
+    {
+      "seedType": 1276,
+      "name": "Escarchador",
+      "introduce": "<size=39><color=#3D1400>TBD</color></size>",
+      "info": "<size=39>Soporte del <color=#0077b6>Sistema Criogénico</color>\nPasivamente enfría a zombis.</color>\n\n<color=#3D1400>Daño:</color> <color=red>1 cada 1s (hasta 10s)\n<color=#3D1400>Especial:</color> <color=red>Acumula 200 Puntos Criogénicos a todos los zombis en pantalla durante 10 segundos. Durante este tiempo, todas los guisantes helados en pantalla se convierten en guisantes criogenizados.</color>\n<color=#3D1400>Nombre Científico:</color> <color=red>Gigantrifolium glacialis</color></size>\n<size=39><color=#3D1400>Fórmula de Fusión:</color> <color=red>Seta Congelada + Trebolador</color></size>",
+      "cost": "<size=39>Costo: <color=red>175, 225</color>   Recarga: <color=red>65 Segundos</color>\nPlantas Requeridas: <color=red>2</color></size>"
+    },
+    {
+      "seedType": 1277,
+      "name": "Ruinastrella",
+      "introduce": "<size=39><color=#3D1400>TBD</color></size>",
+      "info": "<size=39>Deja caer un meteorito a tu campo... ¿Qué?</color>\n\n<color=#3D1400>Especial:</color> <color=red>Después de tres segundos de estar en el campo, desvanece y hace aparecer un meteorito.</color>\n<color=#3D1400>Nombre Científico:</color> <color=red>Pentastellaris ruinae</color></size>\n<size=39><color=#3D1400>Fórmula de Fusión:</color> <color=red>F1 + F2</color></size>",
+      "cost": "<size=39>Costo: <color=red>250, 325</color>   Recarga: <color=red>57.5 Segundos</color>\nPlantas Requeridas: <color=red>2</color></size>"
+    },
+    {
+      "seedType": 1278,
+      "name": "Ajonuez",
+      "introduce": "<size=39><color=#3D1400>TBD</color></size>",
+      "info": "<size=39>Parte del<color=#133816>Sistema Venenoso</color>\nTremendo ajón con mucha resistencia.</color>\n\n<color=#3D1400>Dureza: </color><color=red>4000</color>\n<color=#3D1400>Especial:</color> <color=red>Envenena y cambia de fila al zombi que lo muerde.</color>\n<color=#3D1400>Nombre Científico:</color> <color=red>Colossallium praesidium</color></size>\n<size=39><color=#3D1400>Fórmula de Fusión:</color> <color=red>Nuez + Ajo</color></size>",
+      "cost": "<size=39>Costo: <color=red>100</color>   Recarga: <color=red>37.5 Segundos</color>\nPlantas Requeridas: <color=red>2</color></size>"
+    },
+    {
+      "seedType": 1279,
+      "name": "Magnetonuez",
+      "introduce": "<size=39><color=#3D1400>TBD</color></size>",
+      "info": "<size=39>Crea una onda magnética alrededor de si mismo para circular proyectiles.</color>\n\n<color=#3D1400>Dureza: </color><color=red>4000</color>\n<color=#3D1400>Especial:</color> <color=red>Absorbe proyectiles cerca suyo y los circula alrededor de si mismo. Cada proyectil dura 20s.</color>\n<color=#3D1400>Nombre Científico:</color> <color=red>Juglans magneto</color></size>\n<size=39><color=#3D1400>Fórmula de Fusión:</color> <color=red>Nuez + Magnetoseta</color></size>",
+      "cost": "<size=39>Costo: <color=red>150, 225</color>   Recarga: <color=red>37.5 Segundos</color>\nPlantas Requeridas: <color=red>2</color></size>"
+    },
+    {
+      "seedType": 1280,
+      "name": "Meloncito",
+      "introduce": "<size=39><color=#3D1400>TBD</color></size>",
+      "info": "<size=39>Intercambia su daño en área por daño singular aumentado.</color>\n\n<color=#3D1400>Daño:</color> <color=red>80 cada 3s\n<color=#3D1400>Especial:</color> <color=red>Ya no tiene daño en área. Su daño se duplica contra zombis encogidos.</color>\n<color=#3D1400>Nombre Científico:</color> <color=red>Citrullopultus diminutyn</color></size>\n<size=39><color=#3D1400>Fórmula de Fusión:</color> <color=red>Seta Desesporada + Melonpulta</color></size>",
+      "cost": "<size=39>Costo: <color=red>375, 450</color>   Recarga: <color=red>15 Segundos</color>\nPlantas Requeridas: <color=red>2</color></size>"
+    },
+    {
+      "seedType": 1281,
+      "name": "Colcito",
+      "introduce": "<size=39><color=#3D1400>TBD</color></size>",
+      "info": "<size=39>Encoge con coles a zombis.</color>\n\n<color=#3D1400>Daño:</color> <color=red>40 cada 3s\n<color=#3D1400>Especial:</color> <color=red>Tras impactar a un zombi con un col,  este rebota y convierte al zombi a uno encogido.</color>\n<color=#3D1400>Nombre Científico:</color> <color=red>Repolipultus diminutyn</color></size>\n<size=39><color=#3D1400>Fórmula de Fusión:</color> <color=red>Seta Desesporada + Coltapulta</color></size>",
+      "cost": "<size=39>Costo: <color=red>175, 250</color>   Recarga: <color=red>15 Segundos</color>\nPlantas Requeridas: <color=red>2</color></size>"
+    },
+    {
+      "seedType": 1282,
+      "name": "Cortezantorcha",
+      "introduce": "<size=39><color=#3D1400>TBD</color></size>",
+      "info": "<size=39>Produce una nuez enfrente suyo cada 50 proyectiles que pasen por el.</color>\n\n<color=#3D1400>Especial:</color> <color=red>Genera una Nuez Enflamada cada 50 proyectiles que pasen por el.</color>\n<color=#3D1400>Nombre Científico:</color> <color=red>Flammarbor juglans</color></size>\n<size=39><color=#3D1400>Fórmula de Fusión:</color> <color=red>Nuez + Plantorcha</color></size>",
+      "cost": "<size=39>Costo: <color=red>225</color>   Recarga: <color=red>37.5 Segundos</color>\nPlantas Requeridas: <color=red>2</color></size>"
+    },
+    {
+      "seedType": 1283,
+      "name": "Nuez Enflamada",
+      "introduce": "<size=39><color=#3D1400>TBD</color></size>",
+      "info": "<size=39>Nuez, pero quemada. No confundir con Nuez Ígnea.</color>\n\n<color=#3D1400>Dureza: </color><color=red>4000</color>\n<color=#3D1400>Nombre Científico:</color> <color=red>Juglans praesidium</color></size>",
+      "cost": "<size=39>Planta Requerida: <color=red>Cortezantorcha</color></size>"
+    },
+    {
+      "seedType": 1284,
+      "name": "Nuez Plateada",
+      "introduce": "<size=39><color=#3D1400>TBD</color></size>",
+      "info": "<size=39>Parte del <color=#FFCA30>Sistema Monetario</color>\nUna nuez con mayor resistencia.</color>\n\n<color=#3D1400>Dureza: </color><color=red>6000</color>\n<color=#3D1400>Nombre Científico:</color> <color=red>Juglans monetarium</color></size>\n<size=39><color=#3D1400>Fórmula de Fusión:</color> <color=red>Nuez + Margarita</color></size>",
+      "cost": "<size=39>Costo: <color=red>75</color>   Recarga: <color=red>37.5 Segundos</color>\nPlantas Requeridas: <color=red>2</color></size>"
+    },
+    {
+      "seedType": 1285,
+      "name": "Nuez Dorada",
+      "introduce": "<size=39><color=#3D1400>TBD</color></size>",
+      "info": "<size=39>Parte del <color=#FFCA30>Sistema Monetario</color>\nSu salud máxima se extiende con monedas.</color>\n\n<color=#3D1400>Dureza: </color><color=red>8000</color>\n<color=#3D1400>Habilidad Especial:</color> <color=red>Consume 1000 monedas para restaurar toda su salud, y añadirle +1000 dureza máxima.\n<color=#3D1400>Costo de Monedas:</color> <color=red>1000</color>\n<color=#3D1400>Nombre Científico:</color> <color=red>Juglans aurea</color></size>\n<size=39><color=#3D1400>Fórmula de Fusión:</color> <color=red>Nuez Plateada + Grano de Café</color></size>",
+      "cost": "<size=39>Costo: <color=red>75 (+$1000)</color>   Recarga: <color=red>37.5 Segundos</color>\nPlantas Requeridas: <color=red>2</color></size>"
+    },
+    {
+      "seedType": 1286,
+      "name": "Hipnomelón",
+      "introduce": "<size=39><color=#3D1400>TBD</color></size>",
+      "info": "<size=39>Puede hipnotizar zombis con melones, sip.</color>\n\n<color=#3D1400>Daño:</color> <color=red>120 cada 3s\n<color=#3D1400>Especial:</color> <color=red>Tiene un 25% de probabilidad de hipnotizar a zombis con menos de la mitad de su salud.</color>\n<color=#3D1400>Nombre Científico:</color> <color=red>Citrullopultus hypnotica</color></size>\n<size=39><color=#3D1400>Fórmula de Fusión:</color> <color=red>Hipnoseta + Melonpulta</color></size>",
+      "cost": "<size=39>Costo: <color=red>375, 450</color>   Recarga: <color=red>37.5 Segundos</color>\nPlantas Requeridas: <color=red>2</color></size>"
+    },
+    {
+      "seedType": 1287,
+      "name": "Maceta Congelada",
+      "introduce": "<size=39><color=#3D1400>TBD</color></size>",
+      "info": "<size=39>INFO</color>\n\n<color=#3D1400>Dureza: </color><color=red>4000</color>\n<color=#3D1400>Daño:</color> <color=red>20 cada 1.5s\n<color=#3D1400>Especial:</color> <color=red>SPECIAL</color>\n<color=#3D1400>Nombre Científico:</color> <color=red>SCIENTIFIC</color></size>\n<size=39><color=#3D1400>Fórmula de Fusión:</color> <color=red>F1 + F2</color></size>",
+      "cost": "<size=39>Costo: <color=red>X</color>   Recarga: <color=red>X Segundos</color>\nPlantas Requeridas: <color=red>2</color></size>"
+    },
+    {
+      "seedType": 1288,
+      "name": "Calabaza Tocón",
+      "introduce": "<size=39><color=#3D1400>TBD</color></size>",
+      "info": "<size=39>Cada 50 proyectiles que pasan, genera una calabaza.</color>\n\n<color=#3D1400>Dureza: </color><color=red>4000</color>\n<color=#3D1400>Especial:</color> <color=red>Genera una Nuez Enflamada cada 50 proyectiles que pasen por el. También puede incendiar proyectiles de la planta dentro suyo.</color>\n<color=#3D1400>Nombre Científico:</color> <color=red>Flammabor cucurbascutum</color></size>\n<size=39><color=#3D1400>Fórmula de Fusión:</color> <color=red>Plantorcha + Calabaza</color></size>",
+      "cost": "<size=39>Costo: <color=red>X</color>   Recarga: <color=red>X Segundos</color>\nPlantas Requeridas: <color=red>2</color></size>"
+    },
+    {
+      "seedType": 1289,
+      "name": "Calabaza Enflamada",
+      "introduce": "<size=39><color=#3D1400>TBD</color></size>",
+      "info": "<size=39>Calabaza quemada.</color>\n\n<color=#3D1400>Dureza: </color><color=red>4000</color>\n<color=#3D1400>Nombre Científico:</color> <color=red>Cucurbascutum protegens</color></size>",
+      "cost": "<size=39>Planta Requerida: <color=red>Calabaza Tocón</color></size>"
+    },
+    {
+      "seedType": 1290,
+      "name": "Francosetitas",
+      "introduce": "<size=39><color=#3D1400>TBD</color></size>",
+      "info": "<size=39>¡Se combinan para hacer mucho más daño!</color>\n\n<color=#3D1400>Daño:</color> <color=red>500*3 cada 3s (Escuadra) 1500 cada 0.5s (Solitario, Grande)\n<color=#3D1400>Especial:</color> <color=red>Cada disparo aumenta el poder del siguiente, y mata instantaneamente a un zombi cada 6 disparos. Al disparar 15 veces, la escuadra se combina en una sola Francoseta Grande, haciendo daño en área al disparar y vuelve a la normalidad en unos 15s. La Francoseta Grande no puede matar zombis instantaneamente.</color>\n<color=#3D1400>Nombre Científico:</color> <color=red>Pisum telescopytte</color></size>\n<size=39><color=#3D1400>Fórmula de Fusión:</color> <color=red>Seta Desesporada x3 + Francoguisantes</color></size>",
+      "cost": "<size=39>Costo: <color=red>600, 825</color>   Recarga: <color=red>30 Segundos</color>\nPlantas Requeridas: <color=red>4</color></size>"
         }
     ]
 }
