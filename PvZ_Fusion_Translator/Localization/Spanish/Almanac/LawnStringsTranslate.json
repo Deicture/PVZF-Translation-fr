@@ -5377,7 +5377,7 @@
       "seedType": 1152,
       "name": "Ferrosetita",
       "introduce": "<size=39><color=#3D1400>Ferrosetita tiene una preocupación constante: le aterra que Magnetoseta lo atraiga accidentalmente. '¿Dónde fueron mis tornillos?' Mientras Crazy Dave se acerca, parece que está a punto de tener una nueva preocupación.</color>",
-      "info": "<size=39>Las Ferrosetitas también pueden empujar Zombis.\n\n<color=#3D1400>Dureza: </color><color=red>1000</color>\n<color=#3D1400>Daño: </color><color=red>80/2 Segundos</color>\n<color=#3D1400>Especial: </color><color=red>Los proyectiles empujan a los Zombis y destruyen las puertas mosquiteras con facilidad.</color>\n<color=#3D1400>Fórmula de Fusión: </color><color=red>Guisantiseta + Objeto Metálico</color>\n<color=#3D1400>Nombre científico: </color><color=red>Myceta ferrocystis</color>",
+      "info": "<size=39>Las Ferrosetitas también pueden empujar Zombis.\n\n<color=#3D1400>Dureza: </color><color=red>1000</color>\n<color=#3D1400>Daño: </color><color=red>80/2 Segundos</color>\n<color=#3D1400>Especial: </color><color=red>Los proyectiles empujan a los Zombis y destruyen las puertas mosquiteras con facilidad.</color>\n<color=#3D1400>Fórmula de Fusión: </color><color=red>Guisantiseta + Cubo</color>\n<color=#3D1400>Nombre científico: </color><color=red>Myceta ferrocystis</color>",
       "cost": "<size=39>Costo: <color=red>100, 175</color>   Recarga: <color=red>15 Segundos</color>\nPlantas Requeridas: <color=red>2 (+ Cubo)</color></size>"
     },
     {
