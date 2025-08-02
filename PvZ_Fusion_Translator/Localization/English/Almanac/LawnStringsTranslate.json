@@ -676,7 +676,7 @@
             "seedType": 933,
             "name": "Thornminator",
             "introduce": "<align=justified><size=36><color=black>Thornminator is one of the top hairstylists in town, revolutionizing botanical fashion with every masterpiece she crafts. \"Real style takes real work,\" she says, twirling a carving knife between her fingers. Hammers and chisels may not be traditional hairstyling tools, but for her, they're essential for \"fixing\" even the most stubborn strands.</color>",
-            "info": "<size=36>Fires Doom-Hypno Spike-ices. When planted, unleashes a barrage of Doom-Hypno Spike-ices.\n\n<color=#4A2900>Usage Condition: Odyssey Mode | Unlockable with Doominator-shroom</color>\n<color=black>Damage: </color><color=#8B0000>300/1.5s</color>\n<color=#0077b6>Cryo System: </color><color=#8B0000>Each projectile inflicts chill and adds 20 Cryo points. Deals ×4 damage to frozen zombies.</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Subspecies of Doominator-shroom. \n<color=black>•</color> Attacks pierce infinitely, prioritizes air units.\n<color=black>•</color> Has a chance to hypnotize zombies and cause explosive damage—same effect as Doominator-shroom.\n<color=black>•</color> When planted, scatter-shoots at least 60 Doom-Hypno Spike-ices, targeting both air and ground enemies.</color>",
+            "info": "<size=36>Fires Doom-hypno Ice Spikes. When planted, unleashes a barrage of Doom-hypno Ice Spikes.\n\n<color=#4A2900>Usage Condition: Odyssey Mode | Unlockable with Doominator-shroom</color>\n<color=black>Damage: </color><color=#8B0000>300/1.5s</color>\n<color=#0077b6>Cryo System: </color><color=#8B0000>Each projectile inflicts chill and adds 20 Cryo points. Deals ×4 damage to frozen zombies.</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Subspecies of Doominator-shroom. \n<color=black>•</color> Attacks pierce infinitely, prioritizes air units.\n<color=black>•</color> Has a chance to hypnotize zombies and cause explosive damage—same effect as Doominator-shroom.\n<color=black>•</color> When planted, scatter-shoots at least 60 Doom-Hypno Spike-ices, targeting both air and ground enemies.</color>",
             "cost": "<size=36>\nConversion Formula: </color><color=#8B0000>Fume-shroom <-> Cactus</color>"
         },
         {
@@ -747,7 +747,7 @@
             "name": "Quantum McCornics",
             "introduce": "<align=justified><size=36><color=black>He was born at the dawn of the universe, his age beyond reckoning. From the primordial void, he plucked three stars to orbit him as moons—treasures not even black holes could steal. Now, the old one finds joy in toying with this cosmic keepsake, as ancient as he is.</color>",
             "info": "<size=36>Hurls ultra-dense black holes that collapse into explosions, releasing all the absorbed energy.\n\n<color=#4A2900>Usage Condition: Odyssey Mode | Unlockable</color>\n<color=black>Damage: </color><color=#8B0000>300/2 Seconds (Mini Butter)</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Metal plant.\n<color=black>•</color> 75% chance to launch Mini Butter, shrinking non-miniboss zombies' size and HP to 70%. If shrinking fails, the target is stunned for 1.5s. Instantly kills imp-class zombies.\n<color=black>•</color> 25% chance to launch an Ultimate Black Hole that lasts 2s, slows nearby zombies, and absorbs Quantum McCornics' projectiles in a 3×3 area.\n<color=black>•</color> Each bullet absorbed adds 2s to its duration, up to 7.5s. When it vanishes, it triggers a large explosion (Cherry Bomb-sized) that deals 320 + 60% of stored damage. If it lasted over 5s, the explosion radius significantly increases.</color>\n<color=black>Odyssey Modifiers:</color>\n<color=#8B0000>1. Ultimate Black Hole can absorb all projectiles\n2. Ultimate Black Hole's absorption radius ×2</color>",
-            "cost": "<size=36>\nFusion Formula: <color=#8B0000>Portal-pult > Popcorn-pult x3</color>"
+            "cost": "<size=36>\nFusion Formula: <color=#8B0000>Portal-pult > Popcorn-pult×3</color>"
         },
         {
             "seedType": 944,
@@ -950,7 +950,7 @@
             "name": "Buckshooter",
             "introduce": "<align=justified><size=36><color=black>\"I carry my ancestors' spirit—I won't fall here!\" Buckshooter declared. When told his helmet looked like Buckethead Zombie's, he retorted, \"Then let's invoke their will and ride again!\"</color></size>",
             "info": "<size=36>Buckshooter has the ability to crack armor.\n\n<color=black>Toughness: </color><color=#8B0000>2000</color>\n<color=black>Damage: </color><color=#8B0000>80/1.5s</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Metal plant. Recovers 500 Toughness when fed metal object.\n<color=black>•</color> Takes half the damage from explosive cherries.\n<color=black>•</color> Projectiles knock back zombies and instantly break Type 2 armor.</color></size>",
-            "cost": "<size=36>Fusion Formula: <color=#8B0000>Bucket/Screen Door > Peashooter</color>"
+            "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Bucket > Peashooter</color>"
         },
         {
             "seedType": 1021,
@@ -1013,7 +1013,7 @@
             "name": "Buck-nut",
             "introduce": "<align=justified><size=36><color=black>Plants hold conflicting feelings about Buck-nut. As an exemplary soldier, he executes orders with unwavering precision, yet his cold demeanor leaves much to be desired. The rust at the corners of his mouth hints at a storied past. In the quiet moments, however, Buck-nut wrestles with an unspoken worry: \"How do I prevent rust in a humid garden?\"</color></size>",
             "info": "<size=36>Blocks the zombies' advance with a wall of iron.\n\n<color=black>Toughness: </color><color=#8B0000>8000</color>\n<color=black>Special: </color><color=#8B0000>Metal plant. Can be fed corresponding metal objects to restore 500 Toughness. This also applies to other Metal Plants. All metal plants receive half the damage from explosive cherries.</color></size>",
-            "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Bucket/Screen Door > Wall-nut</color>"
+            "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Bucket > Wall-nut</color>"
         },
         {
             "seedType": 1030,
@@ -1482,14 +1482,14 @@
             "name": "Starsteel",
             "introduce": "<align=justified><size=36><color=black>People often use the headshots of Starsteel and Starmorph to hype up their relationship, which greatly troubles both of them. In fact, Starsteel just wants to be himself - a star with a heart of stone that is hard to rust.</color></size>",
             "info": "<size=36>Fires stars lined with a metallic coating.\n\n<color=black>Toughness: </color><color=#8B0000>2000</color>\n<color=black>Damage: </color><color=#8B0000>80×5/1.5s</color>\n<color=black>Special: </color><color=#8B0000>Metal plant. Breaks Type 2 armor instantly.</color></size>",
-            "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Bucket/Screen Door > Starmorph</color>"
+            "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Bucket > Starmorph</color>"
         },
         {
             "seedType": 1097,
             "name": "Steel Pumpkin",
             "introduce": "<align=justified><size=36><color=black>\"I wish I were stronger,\" Steel Pumpkin muses. \"Maybe if I were made of diamond...\" Starsteel smirks and replies, \"Even that wouldn't be enough! You'd need to be netherite!\" In their spirited banter, they forget a vital truth: they can enchant their own strengths.</color></size>",
             "info": "<size=36>Protects your plants with sturdy iron.\n\n<color=black>Toughness: </color><color=#8B0000>8000</color>\n<color=black>Special: </color><color=#8B0000>Metal plant. Can be fed corresponding metal objects to restore 500 Toughness. Receives half the damage from explosive cherries.</color></size>",
-            "cost": "<size=36>Fusion Formula: <color=#8B0000>Bucket/Screen Door > Pumpkin Morph</color>"
+            "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Bucket > Pumpkin Morph</color>"
         },
         {
             "seedType": 1098,
@@ -1733,7 +1733,7 @@
             "seedType": 1132,
             "name": "Melon Mortar",
             "introduce": "<align=justified><size=36><color=black>Melon Mortar is a fervent advocate of the \"overwhelming firepower\" doctrine: \"If one shot doesn't do it, try two, three, or even four!\" This approach has made it a powerhouse on the battlefield—and a hit at summer parties.</color>",
-            "info": "<size=36>Use manually to launch a barrage of melons from above.\n\n<color=black>Damage: </color><color=#8B0000>200 / Melon. Up to 40 melons in a 3×3 area without falloff. Randomly hits within a 5x3 grid.</color>\n<color=black>Arming Time: </color><color=#8B0000>36s</color>",
+            "info": "<size=36>Use manually to launch a barrage of melons from above.\n\n<color=black>Damage: </color><color=#8B0000>200/Melon. Up to 40 melons in a 3×3 area without splash falloff. Randomly hits within a 5×3 grid.</color>\n<color=black>Arming Time: </color><color=#8B0000>36s</color>",
             "cost": "<size=36>Fusion Formula:  <color=#8B0000>Melon-pult ∞ [Kernel-pult] ∞ Melon-pult < Jicamagic (Place On Middle)</color>"
         },
         {
@@ -1874,7 +1874,7 @@
             "name": "Buck-shroom",
             "introduce": "<align=justified><size=36><color=black>Buck-shroom has a constant worry: he's terrified of Magnet-shroom accidentally pulling him in. 'Where did my screws go?' As Crazy Dave walks up, it seems he is about to have a brand-new concern.</color>",
             "info": "<size=36>Buck-shrooms can knockback zombies too.\n\n<color=black>Toughness: </color><color=#8B0000>1000</color>\n<color=black>Damage: </color><color=#8B0000>80/2.25s</color>\n<color=black>Special: </color><color=#8B0000>Metal plant. Projectiles knock back zombies and destroy Type 2 armor with ease.</color>",
-            "cost": "<size=36>Fusion Formula: <color=#8B0000>Bucket/Screen Door > Pea-shroom</color>"
+            "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Bucket > Pea-shroom</color>"
         },
         {
             "seedType": 1153,
@@ -1923,7 +1923,7 @@
             "name": "Rust-shroom",
             "introduce": "<align=justified><size=36><color=black>'I got canned again!' cries Rust-shroom, who was Morph-shroom just a moment ago. 'All I did was accidentally make a coffee maker instead of an oven!'</color>",
             "info": "<size=36>There could be another twist if you give him a Football Helmet?\n\n<color=black>Toughness: </color><color=#8B0000>2000</color>\n<color=black>Damage: </color><color=#8B0000>50/1.5s</color>\n<color=black>Special: </color><color=#8B0000>Deals ×3 damage to Type 1 armors.</color>",
-            "cost": "<size=36>Fusion Formula: <color=#8B0000>Bucket/Screen Door > Morph-shroom</color>"
+            "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Bucket > Morph-shroom</color>"
         },
         {
             "seedType": 1160,
@@ -1992,7 +1992,7 @@
             "seedType": 1169,
             "name": "Pumpkin Bunker",
             "introduce": "<align=justified><size=36><color=black>Once, a pair of pumpkins dreamed of joining a circus. But after a magnetic mishap left them stuck together, they discovered a better calling: standing their ground as an impenetrable shield. The circus can wait.</color>",
-            "info": "<size=36>Protect two tiles at once!\n\n<color=black>Toughness: </color><color=#8B0000>12000</color>\n<color=black>Special: </color><color=#8B0000>Heals when affected by Cherry and Jack-in-the-Box explosions. Can only be placed on Titan plants.</color></color>",
+            "info": "<size=36>Protect two tiles at once!\n\n<color=black>Toughness: </color><color=#8B0000>12000</color>\n<color=black>Special: </color><color=#8B0000>Heals when affected by Cherry and Jack-in-the-Box explosions. Can only be placed on Titan plants or other 2-tiled plants.</color></color>",
             "cost": "<size=35>Fusion Formula: <color=#8B0000>Joker Pumpkin ∞ [Magnet-shroom] ∞ Cherry Pumpkin < Jicamagic (Place On Middle)"
         },
         {
@@ -2287,7 +2287,7 @@
             "name": "Bolt-pult",
             "introduce": "<align=justified><size=36><color=black>Bolt-pult has been considering buying some anti-rust paint lately, as his butter always ends up with a bit of a rusty taste, which seriously hinders his ability to make butter cakes for his brothers. \"Butter with a rusty taste might only be good for fighting zombies.\"</color>",
             "info": "<size=36>Bolt-pult throws Iron kernels or Iron butter that is miraculously effective against Type 1 armor.\n\n<color=black>Toughness: </color><color=#8B0000>2000</color>\n<color=black>Damage: </color><color=#8B0000>80/3s</color>\n<color=black>Special: </color><color=#8B0000>Metal plant. Has a 25% chance to throw an Iron butter with 100 damage, which stuns the target for 4 seconds and removes their Type 1 armor instantly.</color>",
-            "cost": "<size=36>Fusion Formula: <color=#8B0000>Bucket/Screen Door > Kernel Morph</color>"
+            "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Bucket > Kernel Morph</color>"
         },
         {
             "seedType": 1212,
@@ -2483,7 +2483,7 @@
             "name": "Doomplate-shroom",
             "introduce": "<align=justified><size=36><color=black>Boom! A reality-defying burst of high-speed nuclear fission tears zombies apart, breaking down their atoms and rearranging them into the most stable form known to plantkind: iron. \"Why iron buckets?\" Doomplate-shroom pauses, then replies, \"Because I was born that way.\"</color>",
             "info": "<size=36>Powerful Doom-shroom that turns the ashes from his explosion into Buckets.\n\n<color=black>Damage: </color><color=#8B0000>3240 (Cremator)</color>\n<color=black>Special: </color><color=#8B0000>Every zombie he kills drops a Bucket.</color>",
-            "cost": "<size=36>Fusion Formula: <color=#8B0000>Bucket/Screen Door > Dormant-shroom</color>"
+            "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Bucket > Dormant-shroom</color>"
         },
         {
             "seedType": 1240,
@@ -2581,7 +2581,7 @@
             "name": "Iron Squash",
             "introduce": "<align=justified><size=36><color=black>Iron Squash armored up in cold steel, harder, heavier and packs more harm. Just don't mention the \"rivets\" on his face. He insists they're structural... not acne.</color>",
             "info": "<size=36>A metal-plated Squash with terrifying weight.\n\n<color=black>Toughness: </color><color=#8B0000>1000</color>\n<color=black>Damage: </color><color=#8B0000>3240</color>\n<color=black>Special: </color><color=#8B0000>Metal plant. Can be fed corresponding metal objects to restore 500 Toughness. Receives half the damage from explosive cherries.</color>",
-            "cost": "<size=36>Fusion Formula: <color=#8B0000>Bucket/Screen Door > Squash</color>"
+            "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Bucket > Squash</color>"
         },
         {
             "seedType": 1254,
@@ -2624,6 +2624,223 @@
             "introduce": "<align=justified><size=36><color=black>Bambloe loves to travel and promote his snowy hometown. But no one ever seems interested. \"They always think the pack on my back is just a bump from getting whacked,\" he complains. \"No wonder they think the tundra's an unforgiving place.\"</color>",
             "info": "<size=36>An ice-hardened barricade that thrives against cold-based zombies.\n\n<color=black>Toughness: </color><color=#8B0000>1500</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Immune to freeze from Snowballs and Blizzards.\n<color=black>•</color> Gains ice charges like Aloe Aqua.\n<color=black>•</color> Resilience (defaults to 1): Incoming damage is divided by resilience. Max HP is treated as multiplied by resilience. Consumes 1 charge to raise resilience by 2. Gains 1 resilience when fighting chilled/frozen zombies (not stackable with previous ability).</color>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Bamblock + Aloe Aqua</color>"
+        },
+        {
+            "seedType": 1260,
+            "name": "Bamboo Shooter",
+            "introduce": "<align=justified><size=36><color=black></color>",
+            "info": "<size=36>\n\n<color=black>Damage: </color><color=#8B0000>1500</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Immune to freeze from Snowballs and Blizzards.\n<color=black>•</color> Gains ice charges like Aloe Aqua.\n<color=black>•</color> Resilience (defaults to 1): Incoming damage is divided by resilience. Max HP is treated as multiplied by resilience. Consumes 1 charge to raise resilience by 2. Gains 1 resilience when fighting chilled/frozen zombies (not stackable with previous ability).</color>",
+            "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Spruce Sharpshooter + Bamblock</color>"
+        },
+        {
+            "seedType": 1261,
+            "name": "Melon-nut",
+            "introduce": "<align=justified><size=36><color=black></color>",
+            "info": "<size=36>\n\n<color=black>Toughness: </color><color=#8B0000>1500</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Immune to freeze from Snowballs and Blizzards.\n<color=black>•</color> Gains ice charges like Aloe Aqua.\n<color=black>•</color> Resilience (defaults to 1): Incoming damage is divided by resilience. Max HP is treated as multiplied by resilience. Consumes 1 charge to raise resilience by 2. Gains 1 resilience when fighting chilled/frozen zombies (not stackable with previous ability).</color>",
+            "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Wall-nut + Melon-pult</color>"
+        },
+        {
+            "seedType": 1262,
+            "name": "Cabbage-nut",
+            "introduce": "<align=justified><size=36><color=black></color>",
+            "info": "<size=36>\n\n<color=black>Toughness: </color><color=#8B0000>1500</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Immune to freeze from Snowballs and Blizzards.\n<color=black>•</color> Gains ice charges like Aloe Aqua.\n<color=black>•</color> Resilience (defaults to 1): Incoming damage is divided by resilience. Max HP is treated as multiplied by resilience. Consumes 1 charge to raise resilience by 2. Gains 1 resilience when fighting chilled/frozen zombies (not stackable with previous ability).</color>",
+            "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Wall-nut + Cabbage-pult</color>"
+        },
+        {
+            "seedType": 1263,
+            "name": "Butter-nut",
+            "introduce": "<align=justified><size=36><color=black></color>",
+            "info": "<size=36>\n\n<color=black>Toughness: </color><color=#8B0000>1500</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Immune to freeze from Snowballs and Blizzards.\n<color=black>•</color> Gains ice charges like Aloe Aqua.\n<color=black>•</color> Resilience (defaults to 1): Incoming damage is divided by resilience. Max HP is treated as multiplied by resilience. Consumes 1 charge to raise resilience by 2. Gains 1 resilience when fighting chilled/frozen zombies (not stackable with previous ability).</color>",
+            "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Wall-nut + Kernel-pult</color>"
+        },
+        {
+            "seedType": 1264,
+            "name": "Bamblade",
+            "introduce": "<align=justified><size=36><color=black></color>",
+            "info": "<size=36>\n\n<color=black>Toughness: </color><color=#8B0000>1500</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Immune to freeze from Snowballs and Blizzards.\n<color=black>•</color> Gains ice charges like Aloe Aqua.\n<color=black>•</color> Resilience (defaults to 1): Incoming damage is divided by resilience. Max HP is treated as multiplied by resilience. Consumes 1 charge to raise resilience by 2. Gains 1 resilience when fighting chilled/frozen zombies (not stackable with previous ability).</color>",
+            "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Bamblock + Saw-me-not</color>"
+        },
+        {
+            "seedType": 1265,
+            "name": "Bamboo Firnace",
+            "introduce": "<align=justified><size=36><color=black></color>",
+            "info": "<size=36>\n\n<color=black>Toughness: </color><color=#8B0000>1500</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Immune to freeze from Snowballs and Blizzards.\n<color=black>•</color> Gains ice charges like Aloe Aqua.\n<color=black>•</color> Resilience (defaults to 1): Incoming damage is divided by resilience. Max HP is treated as multiplied by resilience. Consumes 1 charge to raise resilience by 2. Gains 1 resilience when fighting chilled/frozen zombies (not stackable with previous ability).</color>",
+            "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Firnace + Bamblock</color>"
+        },
+        {
+            "seedType": 1266,
+            "name": "Jugger-nut",
+            "introduce": "<align=justified><size=36><color=black></color>",
+            "info": "<size=36>\n\n<color=black>Toughness: </color><color=#8B0000>1500</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Immune to freeze from Snowballs and Blizzards.\n<color=black>•</color> Gains ice charges like Aloe Aqua.\n<color=black>•</color> Resilience (defaults to 1): Incoming damage is divided by resilience. Max HP is treated as multiplied by resilience. Consumes 1 charge to raise resilience by 2. Gains 1 resilience when fighting chilled/frozen zombies (not stackable with previous ability).</color>",
+            "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Wall-nut ∞ [Tall-nut] ∞ Wall-nut < Jicamagic (Place On Middle)<</color>"
+        },
+        {
+            "seedType": 1267,
+            "name": "Hypno Pea",
+            "introduce": "<align=justified><size=36><color=black></color>",
+            "info": "<size=36>\n\n<color=black>Damage: </color><color=#8B0000>1500</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Immune to freeze from Snowballs and Blizzards.\n<color=black>•</color> Gains ice charges like Aloe Aqua.\n<color=black>•</color> Resilience (defaults to 1): Incoming damage is divided by resilience. Max HP is treated as multiplied by resilience. Consumes 1 charge to raise resilience by 2. Gains 1 resilience when fighting chilled/frozen zombies (not stackable with previous ability).</color>",
+            "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Peashooter + Hypno-shroom</color>"
+        },
+        {
+            "seedType": 1268,
+            "name": "Hypno Repeater",
+            "introduce": "<align=justified><size=36><color=black></color>",
+            "info": "<size=36>\n\n<color=black>Damage: </color><color=#8B0000>1500</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Immune to freeze from Snowballs and Blizzards.\n<color=black>•</color> Gains ice charges like Aloe Aqua.\n<color=black>•</color> Resilience (defaults to 1): Incoming damage is divided by resilience. Max HP is treated as multiplied by resilience. Consumes 1 charge to raise resilience by 2. Gains 1 resilience when fighting chilled/frozen zombies (not stackable with previous ability).</color>",
+            "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Repeater + Hypno-shroom</color>"
+        },
+        {
+            "seedType": 1269,
+            "name": "Split Hypno",
+            "introduce": "<align=justified><size=36><color=black></color>",
+            "info": "<size=36>\n\n<color=black>Damage: </color><color=#8B0000>1500</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Immune to freeze from Snowballs and Blizzards.\n<color=black>•</color> Gains ice charges like Aloe Aqua.\n<color=black>•</color> Resilience (defaults to 1): Incoming damage is divided by resilience. Max HP is treated as multiplied by resilience. Consumes 1 charge to raise resilience by 2. Gains 1 resilience when fighting chilled/frozen zombies (not stackable with previous ability).</color>",
+            "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Split Pea + Hypno-shroom</color>"
+        },
+        {
+            "seedType": 1270,
+            "name": "Gatling Hypno",
+            "introduce": "<align=justified><size=36><color=black></color>",
+            "info": "<size=36>\n\n<color=black>Damage: </color><color=#8B0000>1500</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Immune to freeze from Snowballs and Blizzards.\n<color=black>•</color> Gains ice charges like Aloe Aqua.\n<color=black>•</color> Resilience (defaults to 1): Incoming damage is divided by resilience. Max HP is treated as multiplied by resilience. Consumes 1 charge to raise resilience by 2. Gains 1 resilience when fighting chilled/frozen zombies (not stackable with previous ability).</color>",
+            "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Gatling Pea + Hypno-shroom/color>"
+        },
+        {
+            "seedType": 1271,
+            "name": "Threepeater Commando",
+            "introduce": "<align=justified><size=36><color=black></color>",
+            "info": "<size=36>\n\n<color=black>Damage: </color><color=#8B0000>1500</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Immune to freeze from Snowballs and Blizzards.\n<color=black>•</color> Gains ice charges like Aloe Aqua.\n<color=black>•</color> Resilience (defaults to 1): Incoming damage is divided by resilience. Max HP is treated as multiplied by resilience. Consumes 1 charge to raise resilience by 2. Gains 1 resilience when fighting chilled/frozen zombies (not stackable with previous ability).</color>",
+            "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Threepeater + Pea Commando</color>"
+        },
+        {
+            "seedType": 1272,
+            "name": "Berserker Pea",
+            "introduce": "<align=justified><size=36><color=black></color>",
+            "info": "<size=36>\n\n<color=black>Damage: </color><color=#8B0000>1500</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Immune to freeze from Snowballs and Blizzards.\n<color=black>•</color> Gains ice charges like Aloe Aqua.\n<color=black>•</color> Resilience (defaults to 1): Incoming damage is divided by resilience. Max HP is treated as multiplied by resilience. Consumes 1 charge to raise resilience by 2. Gains 1 resilience when fighting chilled/frozen zombies (not stackable with previous ability).</color>",
+            "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Sniper Pea + Doom-shroom</color>"
+        },
+        {
+            "seedType": 1273,
+            "name": "Drifty-shroom",
+            "introduce": "<align=justified><size=36><color=black></color>",
+            "info": "<size=36>\n\n<color=black>Toughness: </color><color=#8B0000>1500</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Immune to freeze from Snowballs and Blizzards.\n<color=black>•</color> Gains ice charges like Aloe Aqua.\n<color=black>•</color> Resilience (defaults to 1): Incoming damage is divided by resilience. Max HP is treated as multiplied by resilience. Consumes 1 charge to raise resilience by 2. Gains 1 resilience when fighting chilled/frozen zombies (not stackable with previous ability).</color>",
+            "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Scaredy-shroom + Blover</color>"
+        },
+        {
+            "seedType": 1274,
+            "name": "Blasty-shroom",
+            "introduce": "<align=justified><size=36><color=black></color>",
+            "info": "<size=36>\n\n<color=black>Damage: </color><color=#8B0000>1500</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Immune to freeze from Snowballs and Blizzards.\n<color=black>•</color> Gains ice charges like Aloe Aqua.\n<color=black>•</color> Resilience (defaults to 1): Incoming damage is divided by resilience. Max HP is treated as multiplied by resilience. Consumes 1 charge to raise resilience by 2. Gains 1 resilience when fighting chilled/frozen zombies (not stackable with previous ability).</color>",
+            "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Scaredy-shroom + Cherry Bomb</color>"
+        },
+        {
+            "seedType": 1275,
+            "name": "Fallout Blover",
+            "introduce": "<align=justified><size=36><color=black></color>",
+            "info": "<size=36>\n\n<color=black>Damage: </color><color=#8B0000>1500</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Immune to freeze from Snowballs and Blizzards.\n<color=black>•</color> Gains ice charges like Aloe Aqua.\n<color=black>•</color> Resilience (defaults to 1): Incoming damage is divided by resilience. Max HP is treated as multiplied by resilience. Consumes 1 charge to raise resilience by 2. Gains 1 resilience when fighting chilled/frozen zombies (not stackable with previous ability).</color>",
+            "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Blover + Doom-shroom</color>"
+        },
+        {
+            "seedType": 1276,
+            "name": "Breeze Blover",
+            "introduce": "<align=justified><size=36><color=black></color>",
+            "info": "<size=36>\n\n<color=black>Damage: </color><color=#8B0000>1500</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Immune to freeze from Snowballs and Blizzards.\n<color=black>•</color> Gains ice charges like Aloe Aqua.\n<color=black>•</color> Resilience (defaults to 1): Incoming damage is divided by resilience. Max HP is treated as multiplied by resilience. Consumes 1 charge to raise resilience by 2. Gains 1 resilience when fighting chilled/frozen zombies (not stackable with previous ability).</color>",
+            "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Blover + Ice-shroom</color>"
+        },
+        {
+            "seedType": 1277,
+            "name": "Death Star",
+            "introduce": "<align=justified><size=36><color=black></color>",
+            "info": "<size=36>\n\n<color=black>Damage: </color><color=#8B0000>1500</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Immune to freeze from Snowballs and Blizzards.\n<color=black>•</color> Gains ice charges like Aloe Aqua.\n<color=black>•</color> Resilience (defaults to 1): Incoming damage is divided by resilience. Max HP is treated as multiplied by resilience. Consumes 1 charge to raise resilience by 2. Gains 1 resilience when fighting chilled/frozen zombies (not stackable with previous ability).</color>",
+            "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Starfruit + Doom-shroom</color>"
+        },
+        {
+            "seedType": 1278,
+            "name": "Foul-nut",
+            "introduce": "<align=justified><size=36><color=black></color>",
+            "info": "<size=36>\n\n<color=black>Toughness: </color><color=#8B0000>1500</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Immune to freeze from Snowballs and Blizzards.\n<color=black>•</color> Gains ice charges like Aloe Aqua.\n<color=black>•</color> Resilience (defaults to 1): Incoming damage is divided by resilience. Max HP is treated as multiplied by resilience. Consumes 1 charge to raise resilience by 2. Gains 1 resilience when fighting chilled/frozen zombies (not stackable with previous ability).</color>",
+            "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Wall-nut + Garlic</color>"
+        },
+        {
+            "seedType": 1279,
+            "name": "Mag-nut",
+            "introduce": "<align=justified><size=36><color=black></color>",
+            "info": "<size=36>\n\n<color=black>Toughness: </color><color=#8B0000>1500</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Immune to freeze from Snowballs and Blizzards.\n<color=black>•</color> Gains ice charges like Aloe Aqua.\n<color=black>•</color> Resilience (defaults to 1): Incoming damage is divided by resilience. Max HP is treated as multiplied by resilience. Consumes 1 charge to raise resilience by 2. Gains 1 resilience when fighting chilled/frozen zombies (not stackable with previous ability).</color>",
+            "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Wall-nut + Magnet-shroom</color>"
+        },
+        {
+            "seedType": 1280,
+            "name": "Slice-pult",
+            "introduce": "<align=justified><size=36><color=black></color>",
+            "info": "<size=36>\n\n<color=black>Damage: </color><color=#8B0000>1500</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Immune to freeze from Snowballs and Blizzards.\n<color=black>•</color> Gains ice charges like Aloe Aqua.\n<color=black>•</color> Resilience (defaults to 1): Incoming damage is divided by resilience. Max HP is treated as multiplied by resilience. Consumes 1 charge to raise resilience by 2. Gains 1 resilience when fighting chilled/frozen zombies (not stackable with previous ability).</color>",
+            "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Melon-pult > Puff-shroom</color>"
+        },
+        {
+            "seedType": 1281,
+            "name": "Sprout-pult",
+            "introduce": "<align=justified><size=36><color=black></color>",
+            "info": "<size=36>\n\n<color=black>Damage: </color><color=#8B0000>1500</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Immune to freeze from Snowballs and Blizzards.\n<color=black>•</color> Gains ice charges like Aloe Aqua.\n<color=black>•</color> Resilience (defaults to 1): Incoming damage is divided by resilience. Max HP is treated as multiplied by resilience. Consumes 1 charge to raise resilience by 2. Gains 1 resilience when fighting chilled/frozen zombies (not stackable with previous ability).</color>",
+            "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Cabbage-pult > Puff-shroom</color>"
+        },
+        {
+            "seedType": 1282,
+            "name": "Torch-nut",
+            "introduce": "<align=justified><size=36><color=black></color>",
+            "info": "<size=36>\n\n<color=black>Toughness: </color><color=#8B0000>1500</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Immune to freeze from Snowballs and Blizzards.\n<color=black>•</color> Gains ice charges like Aloe Aqua.\n<color=black>•</color> Resilience (defaults to 1): Incoming damage is divided by resilience. Max HP is treated as multiplied by resilience. Consumes 1 charge to raise resilience by 2. Gains 1 resilience when fighting chilled/frozen zombies (not stackable with previous ability).</color>",
+            "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Wall-nut + Torchwood</color>"
+        },
+        {
+            "seedType": 1283,
+            "name": "Hot Wall-nut",
+            "introduce": "<align=justified><size=36><color=black></color>",
+            "info": "<size=36>\n\n<color=black>Toughness: </color><color=#8B0000>1500</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Immune to freeze from Snowballs and Blizzards.\n<color=black>•</color> Gains ice charges like Aloe Aqua.\n<color=black>•</color> Resilience (defaults to 1): Incoming damage is divided by resilience. Max HP is treated as multiplied by resilience. Consumes 1 charge to raise resilience by 2. Gains 1 resilience when fighting chilled/frozen zombies (not stackable with previous ability).</color>",
+            "cost": "\n<size=36>"
+        },
+        {
+            "seedType": 1284,
+            "name": "Silver-nut",
+            "introduce": "<align=justified><size=36><color=black></color>",
+            "info": "<size=36>\n\n<color=black>Toughness: </color><color=#8B0000>1500</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Immune to freeze from Snowballs and Blizzards.\n<color=black>•</color> Gains ice charges like Aloe Aqua.\n<color=black>•</color> Resilience (defaults to 1): Incoming damage is divided by resilience. Max HP is treated as multiplied by resilience. Consumes 1 charge to raise resilience by 2. Gains 1 resilience when fighting chilled/frozen zombies (not stackable with previous ability).</color>",
+            "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Wall-nut + Marigold</color>"
+        },
+        {
+            "seedType": 1285,
+            "name": "Golden-nut",
+            "introduce": "<align=justified><size=36><color=black></color>",
+            "info": "<size=36>\n\n<color=black>Toughness: </color><color=#8B0000>1500</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Immune to freeze from Snowballs and Blizzards.\n<color=black>•</color> Gains ice charges like Aloe Aqua.\n<color=black>•</color> Resilience (defaults to 1): Incoming damage is divided by resilience. Max HP is treated as multiplied by resilience. Consumes 1 charge to raise resilience by 2. Gains 1 resilience when fighting chilled/frozen zombies (not stackable with previous ability).</color>",
+            "cost": "\n<size=36>Upgrade Cost: </color><color=#8B0000>1000 Coins</color>"
+        },
+        {
+            "seedType": 1286,
+            "name": "Hypno Melon",
+            "introduce": "<align=justified><size=36><color=black></color>",
+            "info": "<size=36>\n\n<color=black>Damage: </color><color=#8B0000>1500</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Immune to freeze from Snowballs and Blizzards.\n<color=black>•</color> Gains ice charges like Aloe Aqua.\n<color=black>•</color> Resilience (defaults to 1): Incoming damage is divided by resilience. Max HP is treated as multiplied by resilience. Consumes 1 charge to raise resilience by 2. Gains 1 resilience when fighting chilled/frozen zombies (not stackable with previous ability).</color>",
+            "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Melon-pult + Hypno-shroom</color>"
+        },
+        {
+            "seedType": 1287,
+            "name": "Ice-pot",
+            "introduce": "<align=justified><size=36><color=black></color>",
+            "info": "<size=36>\n\n<color=black>Toughness: </color><color=#8B0000>1500</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Immune to freeze from Snowballs and Blizzards.\n<color=black>•</color> Gains ice charges like Aloe Aqua.\n<color=black>•</color> Resilience (defaults to 1): Incoming damage is divided by resilience. Max HP is treated as multiplied by resilience. Consumes 1 charge to raise resilience by 2. Gains 1 resilience when fighting chilled/frozen zombies (not stackable with previous ability).</color>",
+            "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Ice-shroom > Flower Pot</color>"
+        },
+        {
+            "seedType": 1288,
+            "name": "Pumpkin Brazier",
+            "introduce": "<align=justified><size=36><color=black></color>",
+            "info": "<size=36>\n\n<color=black>Toughness: </color><color=#8B0000>1500</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Immune to freeze from Snowballs and Blizzards.\n<color=black>•</color> Gains ice charges like Aloe Aqua.\n<color=black>•</color> Resilience (defaults to 1): Incoming damage is divided by resilience. Max HP is treated as multiplied by resilience. Consumes 1 charge to raise resilience by 2. Gains 1 resilience when fighting chilled/frozen zombies (not stackable with previous ability).</color>",
+            "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Torchwood > Pumpkin</color>"
+        },
+        {
+            "seedType": 1289,
+            "name": "Hot Pumpkin",
+            "introduce": "<align=justified><size=36><color=black></color>",
+            "info": "<size=36>\n\n<color=black>Toughness: </color><color=#8B0000>1500</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Immune to freeze from Snowballs and Blizzards.\n<color=black>•</color> Gains ice charges like Aloe Aqua.\n<color=black>•</color> Resilience (defaults to 1): Incoming damage is divided by resilience. Max HP is treated as multiplied by resilience. Consumes 1 charge to raise resilience by 2. Gains 1 resilience when fighting chilled/frozen zombies (not stackable with previous ability).</color>",
+            "cost": "\n<size=36>"
+        },
+        {
+            "seedType": 1290,
+            "name": "Snipea-shroom Squad",
+            "introduce": "<align=justified><size=36><color=black></color>",
+            "info": "<size=36>\n\n<color=black>Damage: </color><color=#8B0000>1500</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Immune to freeze from Snowballs and Blizzards.\n<color=black>•</color> Gains ice charges like Aloe Aqua.\n<color=black>•</color> Resilience (defaults to 1): Incoming damage is divided by resilience. Max HP is treated as multiplied by resilience. Consumes 1 charge to raise resilience by 2. Gains 1 resilience when fighting chilled/frozen zombies (not stackable with previous ability).</color>",
+            "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Sniper Pea > Puff-shroom×3</color>"
         }
     ]
 }
