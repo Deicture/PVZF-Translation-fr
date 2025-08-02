@@ -5377,7 +5377,7 @@
       "seedType": 1152,
       "name": "Ferrosetita",
       "introduce": "<size=39><color=#3D1400>Ferrosetita tiene una preocupación constante: le aterra que Magnetoseta lo atraiga accidentalmente. '¿Dónde fueron mis tornillos?' Mientras Crazy Dave se acerca, parece que está a punto de tener una nueva preocupación.</color>",
-      "info": "<size=39>Las Ferrosetitas también pueden empujar Zombis.\n\n<color=#3D1400>Dureza: </color><color=red>1000</color>\n<color=#3D1400>Daño: </color><color=red>80/2 Segundos</color>\n<color=#3D1400>Especial: </color><color=red>Los proyectiles empujan a los Zombis y destruyen las puertas mosquiteras con facilidad.</color>\n<color=#3D1400>Fórmula de Fusión: </color><color=red>Guisantiseta + Objeto Metálico</color>\n<color=#3D1400>Nombre científico: </color><color=red>Myceta ferrocystis</color>",
+      "info": "<size=39>Las Ferrosetitas también pueden empujar Zombis.\n\n<color=#3D1400>Dureza: </color><color=red>1000</color>\n<color=#3D1400>Daño: </color><color=red>80/2 Segundos</color>\n<color=#3D1400>Especial: </color><color=red>Los proyectiles empujan a los Zombis y destruyen las puertas mosquiteras con facilidad.</color>\n<color=#3D1400>Fórmula de Fusión: </color><color=red>Guisantiseta + Cubo</color>\n<color=#3D1400>Nombre científico: </color><color=red>Myceta ferrocystis</color>",
       "cost": "<size=39>Costo: <color=red>100, 175</color>   Recarga: <color=red>15 Segundos</color>\nPlantas Requeridas: <color=red>2 (+ Cubo)</color></size>"
     },
     {
@@ -6044,7 +6044,7 @@
       "seedType": 1247,
       "name": "Balistabeto",
       "introduce": "<size=39><color=#3D1400>Tirar de una balista gigante cansa, así que incluso Balistabeto necesita unas vacaciones. Y gracias a la ayuda de plantas externas, encontró trabajo en otro mundo: ayudar a lanzar aves furiosas contra unos cerdos muy verdes y presumidos.</color></size>",
-      "info": "<size=39>Dispara agujas de abeto gigantes que atraviesan a los zombis y detonan con un breve retraso.\n\n<color=#3D1400>Daño:</color> <color=red>80 cada 3s\n<color=#3D1400>Especial:</color> <color=red>Inmune al congelamiento. Sus agujas atraviesan cualquier objeto dos veces (bloques de hielo incluidos) y explotan 0.3s despues de atacar a un zombi, haciendo daño en grupo en un área pequeño.</color>\n<color=#3D1400>Nombre Científico:</color> <color=red>Abiessal bulistem</color></size>\n<size=39><color=#3D1400>",
+      "info": "<size=39>Dispara agujas de abeto gigantes que atraviesan a los zombis y detonan con un breve retraso.\n\n<color=#3D1400>Daño:</color> <color=red>80 cada 3s\n<color=#3D1400>Especial:</color> <color=red>Inmune al congelamiento. Sus agujas atraviesan cualquier objeto dos veces (bloques de hielo incluidos) y explotan 0.3s despues de atacar a un zombi, haciendo daño en grupo en un área pequeño.</color>\n<color=#3D1400>Nombre Científico:</color> <color=red>Abiessal bulistem</color></size>\n<color=#4B0082>Solo puede ser plantado en 2 Agujabetos.",
       "cost": "<size=39>Costo: <color=red>300</color>\nRecarga: <color=red>50 Segundos</color></size>"
     },
     {
@@ -6324,15 +6324,15 @@
       "seedType": 1287,
       "name": "Maceta Congelada",
       "introduce": "<size=39><color=#3D1400>TBD</color></size>",
-      "info": "<size=39>INFO</color>\n\n<color=#3D1400>Dureza: </color><color=red>4000</color>\n<color=#3D1400>Daño:</color> <color=red>20 cada 1.5s\n<color=#3D1400>Especial:</color> <color=red>SPECIAL</color>\n<color=#3D1400>Nombre Científico:</color> <color=red>SCIENTIFIC</color></size>\n<size=39><color=#3D1400>Fórmula de Fusión:</color> <color=red>F1 + F2</color></size>",
-      "cost": "<size=39>Costo: <color=red>X</color>   Recarga: <color=red>X Segundos</color>\nPlantas Requeridas: <color=red>2</color></size>"
+      "info": "<size=39>Convierte plantas enflamadas en plantas normales. No parece tan útil...</color>\n\n<color=#3D1400>Especial:</color> <color=red>Convierte plantas enflamadas (Nuez Enflamada, Apisonaflor Enflamado) encima de ella en plantas básicas.</color>\n<color=#3D1400>Nombre Científico:</color> <color=red>Vasum glacialis</color></size>\n<size=39><color=#3D1400>Fórmula de Fusión:</color> <color=red>Seta Congelada + Maceta</color></size>",
+      "cost": "<size=39>Costo: <color=red>150, 225</color>   Recarga: <color=red>57.5 Segundos</color>\nPlantas Requeridas: <color=red>2</color></size>"
     },
     {
       "seedType": 1288,
       "name": "Calabaza Tocón",
       "introduce": "<size=39><color=#3D1400>TBD</color></size>",
       "info": "<size=39>Cada 50 proyectiles que pasan, genera una calabaza.</color>\n\n<color=#3D1400>Dureza: </color><color=red>4000</color>\n<color=#3D1400>Especial:</color> <color=red>Genera una Nuez Enflamada cada 50 proyectiles que pasen por el. También puede incendiar proyectiles de la planta dentro suyo.</color>\n<color=#3D1400>Nombre Científico:</color> <color=red>Flammabor cucurbascutum</color></size>\n<size=39><color=#3D1400>Fórmula de Fusión:</color> <color=red>Plantorcha + Calabaza</color></size>",
-      "cost": "<size=39>Costo: <color=red>X</color>   Recarga: <color=red>X Segundos</color>\nPlantas Requeridas: <color=red>2</color></size>"
+      "cost": "<size=39>Costo: <color=red>300</color>   Recarga: <color=red>37.5 Segundos</color>\nPlantas Requeridas: <color=red>2</color></size>"
     },
     {
       "seedType": 1289,
