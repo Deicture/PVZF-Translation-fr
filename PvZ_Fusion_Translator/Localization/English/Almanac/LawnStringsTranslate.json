@@ -1965,7 +1965,7 @@
             "name": "Blizzard Commando",
             "introduce": "<align=justified><size=36><color=black>As the general commander of the Pea family, Blizzard Commando has an aura that makes plants and zombies shudder even from miles away. But regarding his proud freezing ability, Blizzard Commando always keeps quiet about it, until one day a small pea accidentally opened his diary: \"If I had known, I wouldn't have bet against the Blazer Pea. Not only did I almost freeze to death in the ice fields, but I also ended up like this. Tonight, I'll make that gal eat three big bowls of chili—\"</color>",
             "info": "<size=36>Shoots snow peas at zombies, with a small chance of shooting a massive barrage!\n\n<color=black>Damage: </color><color=#8B0000>20×6/1.5s</color>\n<color=black>Ultimate: </color><color=#8B0000>3×20/0.02s</color>\n<color=black>Special: </color><color=#8B0000>3% chance to shoot a barrage of snow peas each attack, lasting 5 seconds.</color>",
-            "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Pea Commando + Ice-shroom</color>"
+            "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Pea-storm Commando + Ice-shroom</color>"
         },
         {
             "seedType": 1166,
@@ -1983,9 +1983,9 @@
         },
         {
             "seedType": 1168,
-            "name": "Pea Commando",
-            "introduce": "<align=justified><size=36><color=black>Faced with the crazy zombies and powerful teammates, Pea Commando, who came to the yard for more challenges, feels immense pressure, and his temper is getting worse... However, the plants are always shocked by the extreme violent tendencies of the Pea Commando, who fires peas madly from a distance. Gatling Frenzy-shroom has already decided to ask for his contact information.</color>",
-            "info": "<size=36>Shoots peas at zombies, with a small chance of shooting a massive barrage!\n\n<color=black>Damage: </color><color=#8B0000>20×6/1.5 Seconds\n<color=black>Ultimate: </color><color=#8B0000>3×20/0.02s</color>\n<color=black>Special: </color><color=#8B0000>3% chance to shoot a barrage of peas each attack, lasting 5 seconds. You can switch between Pea Commando and Sniper Pea with Peashooter.</color>",
+            "name": "Pea-storm Commando",
+            "introduce": "<align=justified><size=36><color=black>Faced with the crazy zombies and powerful teammates, Pea-storm Commando, who came to the yard for more challenges, feels immense pressure, and his temper is getting worse... However, the plants are always shocked by the extreme violent tendencies of the Pea-storm Commando, who fires peas madly from a distance. Gatling Frenzy-shroom has already decided to ask for his contact information.</color>",
+            "info": "<size=36>Shoots peas at zombies, with a small chance of shooting a massive barrage!\n\n<color=black>Damage: </color><color=#8B0000>20×6/1.5 Seconds\n<color=black>Ultimate: </color><color=#8B0000>3×20/0.02s</color>\n<color=black>Special: </color><color=#8B0000>3% chance to shoot a barrage of peas each attack, lasting 5 seconds. You can switch between Pea-storm Commando and Sniper Pea with Peashooter.</color>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Sniper Pea + Peashooter</color>"
         },
         {
@@ -2707,7 +2707,7 @@
             "name": "Threepeater Commando",
             "introduce": "<align=justified><size=36><color=black></color>",
             "info": "<size=36>\n\n<color=black>Damage: </color><color=#8B0000>1500</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Immune to freeze from Snowballs and Blizzards.\n<color=black>•</color> Gains ice charges like Aloe Aqua.\n<color=black>•</color> Resilience (defaults to 1): Incoming damage is divided by resilience. Max HP is treated as multiplied by resilience. Consumes 1 charge to raise resilience by 2. Gains 1 resilience when fighting chilled/frozen zombies (not stackable with previous ability).</color>",
-            "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Threepeater + Pea Commando</color>"
+            "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Threepeater + Pea-storm Commando</color>"
         },
         {
             "seedType": 1272,
