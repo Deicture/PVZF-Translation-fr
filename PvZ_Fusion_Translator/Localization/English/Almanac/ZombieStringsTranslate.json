@@ -863,6 +863,12 @@
             "name": "Trident Heavy Hwacha",
             "introduce": "<align=justified><size=36><color=black>A veteran trident warrior, decorated and seasoned, has joined the Hwacha Division as its newest unit. He has hunted Snowfurs in the tundra and fought crocodiles in the swamps. Now he stands before you, ready to battle. Let's see — can you dodge this?</color>",
             "info": "<size=36>Unleashes tridents that scatter on death.\n\n<color=black>Toughness: </color><color=#4B0082>6000 + 6000 (Type 1)</color>\n<color=black>Traits: </color><color=#4B0082>\n<color=black>•</color> Tier 3 Evolved Zombie.\n<color=black>•</color> Inherits traits of Trident Medium Hwacha.\n<color=black>•</color> Upon death, unused tridents scatter randomly within 3.5 tiles in its lane, damaging all plants hit.</color>"
+        },
+        {
+            "theZombieType": 190,
+            "name": "Sniper Commando",
+            "introduce": "<align=justified><size=36><color=black>A bounty-hunter turned commando, Sniper Commando is shrouded in mystery. No one knows where he came from, why he's so serious, or how he intends to eat brains through such a ridiculous barrel.</color>",
+            "info": "<size=36>Punishes your most valuable plants with precision.\n\n<color=black>Toughness: </color><color=#4B0082>1000</color>\n<color=black>Traits: </color><color=#4B0082>\n<color=black>•</color> Upon entry, targets the most valuable plant on the lawn (by Sun cost).\n<color=black>•</color> If not eliminated in 8s, kills the plant and moves onto the next target.</color>"
         }
     ]
 }
