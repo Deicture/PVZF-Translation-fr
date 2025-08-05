@@ -1845,7 +1845,7 @@
             "seedType": 1148,
             "name": "Alchemist Umbrella",
             "introduce": "<align=justified><size=36><color=black>Alchemist Umbrella is a tycoon among plants, providing jobs for zombies and plants alike. \"I maximize their value,\" it declares with a gilded flourish to its spectacles.</color>",
-            "info": "<size=36>High-risk, high-reward!\n\n<color=black>Toughness: </color><color=#8B0000>4000</color>\n<color=black>Special: </color><color=#8B0000>Has the traits of both Umbrella Clove and Golden Umbrella.</color>\n<color=black>Ultimate: </color><color=#8B0000>Costs 3000 Coins, Cooldown: 7.5 seconds; inherits traits from Golden Umbrella; knocks back all nearby zombies, turning those with less than 25% Toughness into silver statues worth 1000 Coins, or gold statues worth 3000 Coins if below 10% Toughness. Zombies without statues drop Coins directly.</color>",
+            "info": "<size=36>High-risk, high-reward!\n\n<color=black>Toughness: </color><color=#8B0000>4000</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Has the traits of both Umbrella Clove and Golden Umbrella.\n<color=black>•</color> Prioritized by Trident Zombies.</color>\n<color=black>Ultimate: </color><color=#8B0000>Costs 3000 Coins, Cooldown: 7.5 seconds; inherits traits from Golden Umbrella; knocks back all nearby zombies, turning those with less than 25% Toughness into silver statues worth 1000 Coins, or gold statues worth 3000 Coins if below 10% Toughness. Zombies without statues drop Coins directly.</color>",
             "cost": "<size=36>Fusion Formula: <color=#8B0000>Golden Garlic + Umbrella Leaf (or Golden Umbrella + Garlic)</color>"
         },
         {
