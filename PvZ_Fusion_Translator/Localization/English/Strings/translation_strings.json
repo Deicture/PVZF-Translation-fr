@@ -432,7 +432,7 @@
   "腐化：僵尸每受到一次伤害，下次受到的伤害增加5%": "Each time a Zombie is damaged, the next instance of damage to it is increased by 5%",
   "全副武装：开启在游戏过程中自选卡牌的功能": "You now have the option to re-pick your Plant Loadout during the game",
   "合理投资：词条刷新次数+2": "Modifier reroll times + 2",
-  "怒火攻心：红温增伤幅度从50%增至150%，并且火焰豌豆类会对僵尸附加红温效果": "Enflamed damage multiplier → 150%, and ignited projectiles can now inflict the debuff",
+  "怒火攻心：红温增伤幅度从50%增至150%，并且火焰豌豆类会对僵尸附加红温效果": "Enflamed damage multiplier → 150%, and regular ignited projectiles can now inflict the debuff",
   "至极手速：手套挪动植物不再消耗冷却": "Moving plants no longer has a cooldown",
   "势如破竹：冰锥的可以无限穿透，小冰机和小光机的攻击力增加50%": "Gatling Icicle-shroom & Sunburst-shroom: Icicles Pierce Infinitely | 50% Increased Damage",
   "冻彻心扉：冰锥的对冻结的单位造成伤害提升至10倍，并解锁亚种阳光机枪小喷菇": "Gatling Icicle-shroom: Increased damage to Frozen zombies by 10 times | Gatling Sunburst-shroom Subspecies Unlocked",

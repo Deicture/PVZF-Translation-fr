@@ -9,7 +9,7 @@
         {
             "theZombieType": 2,
             "name": "Conehead Zombie",
-            "introduce": "<align=justified><size=36><color=black>The Conehead Zombie has no clue what a traffic cone is. To it, it looks like an ice cream cone, and when it finds out it can't eat it, it just sticks it on its head.</color>",
+            "introduce": "<align=justified><size=36><color=black>The Conehead Zombie has no clue what a traffic cone is. To him, it looks like an ice cream cone, and when he finds out it can't eat it, he just sticks it on his head.</color>",
             "info": "<size=36>His traffic cone headpiece makes him twice as tough as normal zombies.\n\n<color=black>Toughness: </color><color=#4B0082>270 + 370 (Type 1)</color>"
         },
         {
@@ -381,7 +381,7 @@
         {
             "theZombieType": 105,
             "name": "Mystery-box Zombie",
-            "introduce": "<align=justified><size=36><color=black>？？？</color>",
+            "introduce": "<align=justified><size=36><color=black>Mystery-box Zombie came to be when an unassuming zombie put on a tattered cardboard box. It quickly realized there was a set of clothes waiting to be used, but couldn't quite put them on because the box didn't have eyeholes.\n\n- Written by Hazy</color>",
             "info": "<size=36>No one knows what's hiding inside the box.\n\n<color=black>Toughness: </color><color=#4B0082>270 + 370 (Type 1)</color>\n<color=black>Traits: </color><color=#4B0082>\n<color=black>•</color> After the box falls off, spawns a random non-Odyssey zombie with 20/40/60/80/100/120% of the original zombie's Toughness.\n<color=black>•</color> There is a 1% chance that a random Odyssey Modifier will drop when its box is dropped, up to 1 per minute.</color>"
         },
         {
@@ -411,7 +411,7 @@
         {
             "theZombieType": 110,
             "name": "Golden Mystery-box Zombie",
-            "introduce": "<align=justified><size=36><color=black>？？！</color>",
+            "introduce": "<align=justified><size=36><color=black>Golden Mystery-box Zombie just can't make up his mind. One moment, he wants to dress up as a Buck-nut Zombie. The next, he's invested in reading like Scholar Zombie. Perhaps swatting that box off his head will help him make a decision...\n\n-Written by Hazy</color>",
             "info": "<size=36>A golden one!? I wonder what's inside this Mystery-box...\n\n<color=black>Toughness: </color><color=#4B0082>270 + 720 (Type 1)</color>\n<color=black>Traits: </color><color=#4B0082>After the box falls off, spawns a random non-Odyssey zombie with full Toughness. Also has a chance to unlock an Odyssey Modifier when defeated, up to 1 per minute.</color>"
         },
         {
@@ -567,7 +567,7 @@
         {
             "theZombieType": 215,
             "name": "Diamond Mystery-box Zombie",
-            "introduce": "<align=justified><size=36><color=black>！！！</color>",
+            "introduce": "<align=justified><size=36><color=black>A master of cosplay, Diamond Mystery-box Zombie knows how to act as tough as the big shots of the zombie league. The only thing stopping them from pretending to be Dr. Edgar Zomboss is the paralyzing fear of encountering the <i>actual</i> Dr. Edgar.\n\n-Written by Hazy</color>",
             "info": "<size=36>Randomly spawns one of your worst nightmares, or a blessing perhaps?\n\n<color=black>Toughness: </color><color=#4B0082>20000 + 1100 (Type 1)\n<color=black>Traits: </color><color=#4B0082>After the box falls off, spawns a random Odyssey zombie with 80/100/120% Toughness. Also has a chance to unlock an Odyssey Modifier when defeated, up to 1 per minute.</color>"
         },
         {

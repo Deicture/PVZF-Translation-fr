@@ -276,7 +276,7 @@
         {
             "seedType": 39,
             "name": "Bamblock",
-            "introduce": "<align=justified><size=36><color=black>\"Where there's a will, there’s a wall.\" That’s Bamblock’s motto. \"Back when I first sprouted, folks said I was just a pesky pebble underfoot. But I kept growing, and now I've become an official traffic cone.\" If you ask how long ago that was? \"Three days,\" he says.</color>",
+            "introduce": "<align=justified><size=36><color=black>\"Where there's a will, there’s a wall.\" That's Bamblock’s motto. \"Back when I first sprouted, folks said I was just a pesky pebble underfoot. But I kept growing, and now I've become an official traffic cone.\" If you ask how long ago that was? \"Three days,\" he says.</color>",
             "info": "<size=36>Damages incoming zombies at the cost of his own HP.\n\n<color=black>Toughness: </color><color=#8B0000>1500</color>\n<color=black>Special: </color>\n<color=black>•</color><color=#8B0000> Other plants cannot absorb damage for Bamblocks.</color>\n<color=black>•</color><color=#8B0000> Immune to crush.\n<color=black>•</color><color=#8B0000>On contact with a zombie, instantly defeats the zombie if the zombie's HP is less than or equal to his own, but takes damage equal to that zombie's HP. Against zombies with higher HP, deals damage equal to his own HP to the zombie and destroys himself.</color>",
             "cost": "<size=36>Cost: <color=#8B0000>50</color>\nRecharge: <color=#8B0000>15s</color>"
         },
@@ -1206,9 +1206,9 @@
         },
         {
             "seedType": 1057,
-            "name": "Hot Squash",
-            "introduce": "<align=justified><size=36><color=black>Hot Squashes jump out from the Squash Torchwood one by one, \"It's getting hot in there; our entire body is melting!\" they declared.</color></size>",
-            "info": "<size=36>Just a Squash roasted and glazed with delicious sap.\n\n<color=black>Damage: </color><color=#8B0000>1800</color>\n<color=black>Special: </color><color=#8B0000>Cannot be used for fusions.</color></size>",
+            "name": "Roasted Squash",
+            "introduce": "<align=justified><size=36><color=black>Roasted Squashes jump out from the Squash Torchwood one by one, \"It's getting hot in there; our entire body is melting!\" they declared.</color></size>",
+            "info": "<size=36>Just a Squash grilled and glazed with delicious sap.\n\n<color=black>Damage: </color><color=#8B0000>1800</color>\n<color=black>Special: </color><color=#8B0000>Cannot be used for fusions.</color></size>",
             "cost": "\n<size=36>"
         },
         {
@@ -1236,7 +1236,7 @@
             "seedType": 1061,
             "name": "Torchweed",
             "introduce": "<align=justified><size=36><color=black>\"I'm Torchweed, the zombies' passionate barbecue chef! Ignite that little pea, and I'll throw them an unforgettable barbecue party. Rest assured, I'm a professional—I guarantee it will be crispy on the outside and tender on the inside!\"</color></size>",
-            "info": "<size=36>Torchweed can ignite small peas and puncture vehicles.\n\n<color=black>Damage: </color><color=#8B0000>40/1 Second</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Ignite small peas for increased, and splashed, damage.\n<color=black>•</color> Every time 100 small peas are lit, a Hot Spikeweed will be planted in front.\n<color=black>•</color> Can also pop the balloons of regular Balloon Zombies.</color></size>",
+            "info": "<size=36>Torchweed can ignite small peas and puncture vehicles.\n\n<color=black>Damage: </color><color=#8B0000>40/1 Second</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Ignite small peas for increased, and splashed, damage.\n<color=black>•</color> Every time 100 small peas are lit, a Roasted Spikeweed will be planted in front.\n<color=black>•</color> Can also pop the balloons of regular Balloon Zombies.</color></size>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Spikeweed + Torchwood</color>"
         },
         {
@@ -1726,7 +1726,7 @@
             "seedType": 1131,
             "name": "Umbrella Rind",
             "introduce": "<align=justified><size=36><color=black>\"Give me a melon; I'll repay you with kindness.\" Umbrella Rind has always admired this saying from ancient poetry. Plants don't need to bribe him for help—whatever they give, he returns. Well, except basketballs. He's a total basketball fan.</color>",
-            "info": "<size=36>Deflects basketballs and returns a catapulted melon.\n\n<color=black>Toughness: </color><color=#8B0000>2000</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Can reflect zombie projectiles back as a melon; loses 200 Toughness for reflecting projectiles that explode.\n<color=black>•</color> Each reflection of projectiles stores energy equal to the projectile's damage, releasing it all on zombies for extra damage when the next knockback occurs.\n<color=black>•</color> Knocks back and deals 80 damage to zombies at the cost of Toughness. See Umbrella Husk. </color>",
+            "info": "<size=36>Deflects basketballs and returns a catapulted melon.\n\n<color=black>Toughness: </color><color=#8B0000>2000</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Can reflect zombie projectiles (return as melons if they are lobbed projectiles); loses 200 HP for reflecting projectiles that explode.\n<color=black>•</color> Each reflection of projectiles stores energy equal to the projectile's damage, releasing it all on zombies for extra damage when the next knockback occurs.\n<color=black>•</color> Knocks back and deals 80 damage to zombies at the cost of Toughness. See Umbrella Husk. </color>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Umbrella Leaf + Melon-pult</color>"
         },
         {
@@ -1846,7 +1846,7 @@
             "name": "Alchemist Umbrella",
             "introduce": "<align=justified><size=36><color=black>Alchemist Umbrella is a tycoon among plants, providing jobs for zombies and plants alike. \"I maximize their value,\" it declares with a gilded flourish to its spectacles.</color>",
             "info": "<size=36>High-risk, high-reward!\n\n<color=black>Toughness: </color><color=#8B0000>4000</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Has the traits of both Umbrella Clove and Golden Umbrella.\n<color=black>•</color> Prioritized by Trident Zombies.</color>\n<color=black>Ultimate: </color><color=#8B0000>Costs 3000 Coins, Cooldown: 7.5 seconds; inherits traits from Golden Umbrella; knocks back all nearby zombies, turning those with less than 25% Toughness into silver statues worth 1000 Coins, or gold statues worth 3000 Coins if below 10% Toughness. Zombies without statues drop Coins directly.</color>",
-            "cost": "<size=36>Fusion Formula: <color=#8B0000>Golden Garlic + Umbrella Leaf (or Golden Umbrella + Garlic)</color>"
+            "cost": "<size=36>Fusion Formula: <color=#8B0000>Golden Garlic + Umbrella Leaf / Golden Umbrella + Garlic</color>"
         },
         {
             "seedType": 1149,
@@ -1886,22 +1886,22 @@
         {
             "seedType": 1154,
             "name": "Solar Magnet",
-            "introduce": "<align=justified><size=36><color=black>Have you heard? Solar Magnet's been glowing with wealth lately! 'I don't produce iron; I just do the delivery,' he says proudly. 'This is all from years of hard work.' Word is, he's even opened business beyond the lawn!' </color>",
+            "introduce": "<align=justified><size=36><color=black>Have you heard? Solar Magnet's been glowing with wealth lately! 'I don't produce iron; I just do the delivery,' he says proudly. 'This is all from years of hard work.' Word is, he's even opened business beyond the lawn! </color>",
             "info": "<size=36>Produces metal objects and turns metal objects to Sun.\n\n<color=black>Sun Output: </color><color=#8B0000>25/25s</color>\n<color=black>Special: </color><color=#8B0000>Produces a random metal object every 30 Seconds. Drag a metal object on it and it will produce 25 Sun. Produced metal object is automatically given to Grenadier Magnet, Charm Magnet or Charmatron-shroom directly in front.</color>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Sunflower + Magnet-shroom</color>"
         },
         {
             "seedType": 1155,
-            "name": "Hot Spikeweed",
-            "introduce": "<align=justified><size=36><color=black>After the test of fire, he's still the same old Spikeweed, just wiser, shinier, and ready to give zombies warmer welcome!</color>",
-            "info": "<size=36>Hot Spikeweed? What's the difference between him and the cooler Spikeweed?\n\n<color=black>Toughness: </color><color=#8B0000>300</color>\n<color=black>Special: </color><color=#8B0000>Cannot be used in fusions.</color>",
+            "name": "Roasted Spikeweed",
+            "introduce": "<align=justified><size=36><color=black>After the test of fire, he's still the same old Spikeweed, just wiser, shinier, and ready to give the zombies a warmer welcome!</color>",
+            "info": "<size=36>A hot Spikeweed? What's the difference between him and the cooler Spikeweed?\n\n<color=black>Toughness: </color><color=#8B0000>300</color>\n<color=black>Special: </color><color=#8B0000>Cannot be used in fusions.</color>",
             "cost": "\n<size=36>"
         },
         {
             "seedType": 1156,
-            "name": "Hot Kelp",
-            "introduce": "<align=justified><size=36><color=black>Managing a hot spring isn't easy, but Hot Kelp takes pride in having zero customer complaint. In fact they seem to enjoy their dip a little too much to the point of never returning.</color>",
-            "info": "<size=36>Hot Kelp? Does he live in lava or something?\n\n<color=black>Toughness: </color><color=#8B0000>300</color>\n<color=black>Special: </color><color=#8B0000>Cannot be used in fusions.</color>",
+            "name": "Roasted Kelp",
+            "introduce": "<align=justified><size=36><color=black>Managing a hot spring isn't easy, but Roasted Kelp takes pride in having zero customer complaint. In fact they seem to enjoy their dip a little too much to the point of never returning.</color>",
+            "info": "<size=36>Rumor has it that this Kelp also thrives in lava.\n\n<color=black>Toughness: </color><color=#8B0000>300</color>\n<color=black>Special: </color><color=#8B0000>Cannot be used in fusions.</color>",
             "cost": "\n<size=36>"
         },
         {
@@ -2271,7 +2271,7 @@
         {
             "seedType": 1209,
             "name": "Kernel Morph",
-            "introduce": "<align=justified><size=36><color=black>\"The elderly also need to learn to keep up with the times,\" the Kernel Morph said, \"This new force of magnetism has truly opened my eyes.\" Of course, there is a small problem; it always makes the neighbors think I'm a scrap collector.</color>",
+            "introduce": "<align=justified><size=36><color=black>\"The elderly also need to learn to keep up with the times,\" the Kernel Morph said, \"This new force of magnetism has truly opened my eyes.\" Of course, there is a small problem; it always makes the neighbors think he's a scrap collector.</color>",
             "info": "<size=36>The Kernel Morph can fuse with metal objects and changes into the corresponding form based on the type.\n\n<color=black>Damage: </color><color=#8B0000>60/3s</color>\n<color=black>Special: </color><color=#8B0000>Has a 25% chance to throw a magnetic butter with 80 damage, and stuns the target for 4 seconds.</color>",
             "cost": "<size=36>\nFusion Formula: <color=#8B0000>Kernel-pult + Magnet-shroom</color>"
         },
