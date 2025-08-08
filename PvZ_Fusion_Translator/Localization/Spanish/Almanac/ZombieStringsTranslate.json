@@ -476,6 +476,36 @@
       "info": "<size=39>¡Menos mal que no es igual de fuerte que una Petaseta normal!\n\n<color=#3D1400>Dureza: </color><color=#4B0082>1350</color>\n<color=#3D1400>Características:</color><color=#4B0082>Después de cierto tiempo se destruye y crea una explosión que hace 1800 de daño a las plantas en un área de 3x3.</color>"
     },
     {
+     "theZombieType": 121,
+     "name": "Misteriostein",
+     "introduce": "<size=39><color=#3D1400>INTRO</color>",
+     "info": "<size=39>No pongas a prueba tu suerte con el. Cualquier resultado pueda resultar en tu fín...\n\n<color=#3D1400>Dureza: </color><color=#4B0082>3000</color>\n<color=#3D1400>Características:</color> <color=#4B0082>Puede hacer aparecer diferentes tipos de Zombisteins: Acelerados, invocadores y esparcidores.</color>"
+   },
+   {
+     "theZombieType": 122,
+     "name": "Zombistein Acelerado",
+     "introduce": "<size=39><color=#3D1400>INTRO</color>",
+     "info": "<size=39>Va mas rápido que los otros Zombisteins.\n\n<color=#3D1400>Dureza: </color><color=#4B0082>3000</color>\n<color=#3D1400>Características:</color> <color=#4B0082>Tiene el doble de velocidad que un Zombistein común.</color>"
+   },
+   {
+     "theZombieType": 123,
+     "name": "Zombistein Invocador",
+     "introduce": "<size=39><color=#3D1400>INTRO</color>",
+     "info": "<size=39>Copia barata de el Zombistein Medieval.\n\n<color=#3D1400>Dureza: </color><color=#4B0082>3000</color>\n<color=#3D1400>Características:</color> <color=#4B0082>Cada vez que aplaste algo, hace aparecer un Zombidito.</color>"
+   },
+   {
+     "theZombieType": 124,
+     "name": "Zombistein Esparcidor",
+     "introduce": "<size=39><color=#3D1400>INTRO</color>",
+     "info": "<size=39>Lanza más Zombiditos de lo normal...\n\n<color=#3D1400>Dureza: </color><color=#4B0082>3000</color>\n<color=#3D1400>Características:</color> <color=#4B0082>Lanza 5 Zombiditos en vez de solo 1.</color>"
+   },
+   {
+     "theZombieType": 125,
+     "name": "Zombi Parkour",
+     "introduce": "<size=39><color=#3D1400>INTRO</color>",
+     "info": "<size=39>...¿Qué?\n\n<color=#3D1400>Dureza: </color><color=#4B0082>9527</color>\n<color=#3D1400>Características:</color> <color=#4B0082>Cambia de fila al perder la mitad de su dureza.</color>"
+   },
+   {
       "theZombieType": 200,
       "name": "Zombi Submarinón",
       "introduce": "<size=39><color=#3D1400>\"¡Un excelente buceador no solo debe saber bucear, sino también conducir un super submarino!\" declaró el Zombi Submarinón mientras aumentaba la potencia del submarino en una marcha.</color></size>",
