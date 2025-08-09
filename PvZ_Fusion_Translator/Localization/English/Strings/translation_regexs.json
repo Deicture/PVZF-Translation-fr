@@ -192,5 +192,7 @@
   "^当前数据：\n攻击力：(.*?)\n射速：(.*?)\n阳光增幅：(.*?)$": "\nCurrent Stats:\nAttack Damage: {0}\nProduction CD: {1}\nSun Boost: {2}",
   "^当前数据：\n攻击力：(.*?)\n射速：(.*?)\n咀嚼耗时：(.*?)秒$": "\nCurrent Stats:\n<size=24>Explosion Damage: {0}</size>\nAttack CD: {1}\nDigestion Time: {2}s",
   "^当前数据：\n攻击力：(.*?)\n射速：(.*?)\n减速时长：(.*?)秒$": "\nCurrent Stats:\nAttack Damage: {0}\nAttack CD: {1}\nChill Duration: {2}s",
-  "场上敌人数量：(\\d+)\t\t\t\t\t\t植物限制：(\\d+)/(\\d+)": "Zombie(s): {0}\nPlant(s): {1}/{2}"
+  "场上敌人数量：(\\d+)\t\t\t\t\t\t植物限制：(\\d+)/(\\d+)": "Zombie(s): {0}\nPlant(s): {1}/{2}",
+  "([^\\s]+)\n\n尚未拥有这个词条\n\n当前武器词条上限：\n(\\d+)/(\\d+)": "{0}\n\nThis Modifier has not been upgraded yet.\n\nCurrent Weapon Modifier limit:\n{1}/{2}",
+  "([^\\s]+)\n\n该词条已拥有(\\d+)个\n\n当前武器词条上限：\n(\\d+)/(\\d+)": "{0}\n\nThis Modifier has already been upgraded {1} time(s).\n\nCurrent Weapon Modifier limit:\n{2}/{3}"
 }
