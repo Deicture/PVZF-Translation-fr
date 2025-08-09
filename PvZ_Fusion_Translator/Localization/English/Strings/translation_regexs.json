@@ -170,5 +170,7 @@
   "^(\\d+\\D\\d+)%\n(\\d+)\n不死：(\\d+)\\D$": "{0}%\n{1}\nInvin.: {2}",
   "将([^\\s]+)转化为植物类型失败": "Failed to convert {0} into a Plant Class.",
   "尝试将植物类型([^\\s]+)转化为([^\\s]+)失败": "Failed to convert Plant Class {0} into {1}.",
-  "^2048$": "2048: Pea-volution"
+  "^2048$": "2048: Pea-volution",
+  "塔防冒险：第(\\d+)关，关卡用时：(\\d+)秒": "Tower Defense Adventure: Level {0}, Level Time: {1} Seconds",
+  "塔防冒险：第(\\d+)关，关卡用时：(\\d+)分(\\d+)秒": "Tower Defense Adventure: Level {0}, Level Time: {1} Minute(s), {2} Seconds"
 }

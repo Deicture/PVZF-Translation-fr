@@ -212,8 +212,8 @@
         },
         {
             "theZombieType": 36,
-            "name": "Giga-gargantuar",
-            "introduce": "<align=justified><size=36><color=black>Although the Giga-gargantuar wreaks havoc on the battlefield, its blood-red eyes instilling fear in all who face it, there's a little-known secret: the monster is perpetually irritable due to chronic sleep deprivation.</color>",
+            "name": "Giga Gargantuar",
+            "introduce": "<align=justified><size=36><color=black>Although the Giga Gargantuar wreaks havoc on the battlefield, its blood-red eyes instilling fear in all who face it, there's a little-known secret: the monster is perpetually irritable due to chronic sleep deprivation.</color>",
             "info": "<size=36>The enraged Gargantuar crushes everything in its path with terrifying strength.\n\n<color=black>Toughness: </color><color=#4B0082>6000</color>\n<color=black>Traits: </color><color=#4B0082>Inherits all traits from regular Gargantuars.</color>"
         },
         {
@@ -230,7 +230,7 @@
         },
         {
             "theZombieType": 39,
-            "name": "Mecha Giga-gargantuar",
+            "name": "Giga Mecha Gargantuar",
             "introduce": "<align=justified><size=36><color=black>A zombie from the popular Plant Girls vs Zombies.</color>",
             "info": "<size=36>A latest creation by Dr. Gargantuar, this machinery of doom slowly approaches with steady steps.\n\n<color=black>Toughness: </color><color=#4B0082>6000</color>\n<color=black>Traits: </color><color=#4B0082>Inherits all Traits from regular Mecha Gargantuars.</color>"
         },
@@ -475,6 +475,36 @@
             "info": "<size=36>Doom-shroom zombie? Aw man!\n\n<color=black>Toughness: </color><color=#4B0082>1350</color>\n<color=black>Traits: </color><color=#4B0082>Self-destructs after a while and creates a Doom-shroom explosion that deals 1800 damage to plants in a 3×3 area.\n<color=black>Weakness: </color><color=#4B0082>Doom-nut</color>"
         },
         {
+            "theZombieType": 121,
+            "name": "Mystery Gargantuar",
+            "introduce": "<align=justified><size=36><color=black>Mystery Gargantuar stumbles with a box on his head, maybe to keep you guessing, or maybe to shield his rare, patchwork eyes from the world. Whatever's inside, it's a mystery wrapped in a smash waiting to happen.</color>",
+            "info": "<size=36>Who knows what's waiting for us under that paper mask?\n\n<color=black>Toughness: </color><color=#4B0082>3000 + 1100 (Type 1)</color>\n<color=black>Traits: </color><color=#4B0082>Smashes plants and turns into a random Gargantuar when his mask is destroyed.</color>"
+        },
+        {
+            "theZombieType": 122,
+            "name": "Turbo Gargantuar",
+            "introduce": "<align=justified><size=36><color=black>Turbo Gargantuar is always at the forefront in pursuit of fresh brains. Thanks to his outstanding record, the Dr. Zomboss once personally awarded him the Second-Class Tombstone Medal. Sadly, as an exemplary warrior, he never gets to join the zombie parade, as his stride just never matches the others.</color>",
+            "info": "<size=36>Fast-moving Gargantuar.\n\n<color=black>Toughness: </color><color=#4B0082>3000</color>\n<color=black>Traits: </color><color=#4B0082>Has ×2 the attack speed, movement speed and throwing speed of a regular Gargantuar.</color>"
+        },
+        {
+            "theZombieType": 123,
+            "name": "Broody Gargantuar",
+            "introduce": "<align=justified><size=36><color=black>Broody Gargantuar swings his power pole, and the Imps swarmed out from under the ground. These little troublemakers bring plenty of fun, but headaches, too, to their master's life… especially right after he's cracked open a Wall-nut.</color>",
+            "info": "<size=36>Gargantuar that summons Imps with every smash.\n\n<color=black>Toughness: </color><color=#4B0082>3000</color>\n<color=black>Traits: </color><color=#4B0082>Every time he successfully smashes a plant, an Imp is summoned.</color>"
+        },
+        {
+            "theZombieType": 124,
+            "name": "Volley Gargantuar",
+            "introduce": "<align=justified><size=36><color=black>Volley Gargantuar is a descendant of the Sloth Gargantuar from the Frostbite Caves. Those before him have thrown different things, from throwing Jack-in-the-box Zombies to throwing other Gargantuars. He thought he should go back to the roots and throw more Imps, 5 to be exact, a testament to his lineage.\n\n-Written by Medineer Gaming</color>",
+            "info": "<size=36>Gargantuar with more Imps hiding on his back.\n\n<color=black>Toughness: </color><color=#4B0082>3000</color>\n<color=black>Traits: </color><color=#4B0082>Throws 5 Imps at once.</color>"
+        },
+        {
+            "theZombieType": 125,
+            "name": "Parkour Zombie",
+            "introduce": "<align=justified><size=36><color=black>He's world-famous for his flashy moves and masterful skills, but none of that matters to him. After all, only humans care about handing out fancy titles for fame and talent. What's that got to do with a zombie?</color>",
+            "info": "<size=36>A tough, smug parkour enthusiast who, once locked in, swerves and sprints with a burst of speed.\n\n<color=blue>Xiaoxiaosu Collab Zombie, exclusive to Vasebreaker</color>\n<color=black>Toughness: </color><color=#4B0082>9527</color>\n<color=black>Traits: </color><color=#4B0082>Switches lanes and speeds up by 3× when HP drops to 2/3.</color>"
+        },
+        {
             "theZombieType": 200,
             "name": "Sharkmarine",
             "introduce": "<align=justified><size=36><color=black>\"An excellent diver should not only be able to dive but also drive a super submarine!\" declared Sharkmarine Zombie as he increased the submarine's horsepower by one gear.</color>",
@@ -598,7 +628,7 @@
             "theZombieType": 220,
             "name": "<color=#4B0082><u>Giga Football Striker</u>",
             "introduce": "<align=justified><size=36><color=black>There was no escaping him. Giga Football Striker moved with unnatural precision, his unblinking eyes scanning for the next victim. He wasn't just a destroyer—he was a harvester, a nightmare that took more than just life. Every plant he touched became part of him, twisted and corrupted. And as he advanced, his presence whispered the same terrifying truth: \"No matter where you run, I will find you.\"</color>",
-            "info": "<size=36>Giga Football Striker can tear down your defense with ease!\n\n<color=black>Damage: </color><color=#4B0082>200</color>\n<color=black>Toughness: </color><color=#4B0082>24000 + 24000 (Type 1)</color>\n<color=black>Traits: </color><color=#4B0082>\n<color=black>•</color> Mini-boss. Immune to knock-backs and stuns.\n<color=black>•</color> Disables plant healing, converting it to 0.1× damage against himself.\n<color=black>•</color> Instantly kills non-defensive plants when he bites them, turning them into Giga Football-nut Zombies.\n<color=black>•</color> Every 3s, damage ×2 (stackable, max 1M), restores 6000 armor HP, and increases speed by 30% (max 3 times the original speed).</color>"
+            "info": "<size=36>Giga Football Striker can tear down your defense with ease!\n\n<color=black>Damage: </color><color=#4B0082>200</color>\n<color=black>Toughness: </color><color=#4B0082>24000 + 24000 (Type 1)</color>\n<color=black>Traits: </color><color=#4B0082>\n<color=black>•</color> Mini-boss. Immune to knock-backs and stuns.\n<color=black>•</color> Disables plant healing, converting it to 0.1× damage against himself, capped at 1% of his max HP.\n<color=black>•</color> Instantly kills non-defensive plants when he bites them, turning them into Giga Football-nut Zombies.\n<color=black>•</color> Every 3s, damage ×2 (stackable, max 1M), restores 6000 armor HP, and increases speed by 30% (max 3 times the original speed).</color>"
         },
         {
             "theZombieType": 221,
