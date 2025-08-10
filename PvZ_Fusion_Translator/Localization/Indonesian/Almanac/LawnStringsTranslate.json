@@ -273,6 +273,20 @@
             "info": "<size=36>Penembak tahan dingin yang nembakin tetesan air, tapi pas dingin jadi nembak es.\n\n<color=black>Damage:</color><color=#8B0000>20/3 detik</color>\n<color=black>Fitur:</color><color=#8B0000>Kebal silence. Kena bola salju/salju garpu/jamur es dapet 1/1/15 muatan. Bisa pake 1 muatan buat nembak es, damage ×2, ngasih status dingin lv.1, nambahin 40 poin beku. Zombi yang udah beku kena damage ×4</color>\n<color=black>Level Dingin:</color><color=#8B0000>Awalnya 0, kayak Kipli Es. Zombi snow field punya resistensi dingin lv.1, jadi kebal terhadap dingin lv.0. Zombi kereta salju kebal sampai lv.2</color>",
             "cost": "<size=36>\nHarga: </color><color=#8B0000>75 Matahari</color>\nCooldown: <color=#8B0000>7.5 detik</color>"
         },
+{
+  "seedType": 39,
+  "name": "Bamblock",
+  "introduce": "<align=justified><size=36><color=black>\"Selama ada niat, pasti ada tembok.\" Itu moto hidupnya Bamblock. \"Dulu waktu aku baru tumbuh, orang-orang bilang aku cuma kerikil nyebelin di jalan. Tapi aku terus tumbuh, dan sekarang aku udah jadi... cone lalu lintas resmi.\" Kalau ditanya udah berapa lama? \"Baru tiga hari lalu,\" katanya santai.</color>",
+  "info": "<size=36>Nyakitin mayit yang nyerang, tapi ngorbanin HP-nya sendiri.\n\n<color=black>Ketahanan: </color><color=#8B0000>1500</color>\n<color=black>Spesial: </color>\n<color=black>•</color><color=#8B0000> Tanaman lain nggak bisa ngeratain damage buat Bamblock.</color>\n<color=black>•</color><color=#8B0000> Kebal ditindih mayit.\n<color=black>•</color><color=#8B0000>Kalau kena mayit, langsung bunuh mayit itu kalau HP-nya sama atau lebih rendah dari HP dia, tapi dia juga kena damage sesuai HP mayit itu. Kalau mayitnya lebih kuat, dia bakal ngasih damage sesuai HP dia, lalu mati.</color>",
+  "cost": "<size=36>Biaya: <color=#8B0000>50</color>\nWaktu Muat Ulang: <color=#8B0000>15s</color>"
+},
+{
+  "seedType": 233,
+  "name": "Frozen Giftbox",
+  "introduce": "<align=justified><size=36><color=black>Dari semua kotak hadiah di toko, si Frozen ini paling jarang dipilih. Kenapa? Soalnya… dia sering banget kena perlakuan <i>dingin</i>.</color>",
+  "info": "<size=36>Kotak hadiah dengan harga yang cukup terjangkau.\n\n<color=black>Spesial: </color><color=#8B0000>Ngasih 1 tanaman frozen acak sebagai isi hadiahnya.</color>",
+  "cost": "<size=36>Biaya: <color=#8B0000>50</color>\nWaktu Muat Ulang: <color=#8B0000>15s</color>"
+},
         {
             "seedType": 234,
             "name": "Ranjau Berlian",
@@ -494,7 +508,7 @@
             "seedType": 909,
             "name": "King Bintang",
             "introduce": "<size=30><color=black>Asal-usul King Meteor masih misterius, tapi satu hal yang pasti: dia bukan penyebab punahnya dinosaurus. Sama sekali tidak!</color></size>",
-            "info": "<size=30>Kok ada meteor di halaman rumah gue sih!?\n\n<color=black>Damage: </color><color=#8B0000>25*5/1,5 Detik</color>\n<color=#99582a>Sistem Cahaya: </color><color=#8B0000>+20 Damage per Level Cahaya.</color>\n<color=#495057>Sistem Magnet: </color><color=#8B0000>+5% Damage per Tanaman Magnet.\n<color=#6A0C9D>Dua-duanya bisa naikin damage bintang sampe 300, maksimal.</color>\n<color=black>Khusus: </color><color=#8B0000>Manggil meteor tiap 20 detik, ngasih 1800 damage pas nabrak. Pecah jadi banyak bintang yang ngejar zombi terus ngasih 100 damage tiap bintang.</color>\n<color=black>Fusi Formula: </color><color=#8B0000>Bintang Jatuh + Duri Magnet</color>\n<color=black>Buff Spesial:\n</color><color=#8B0000>1. Jeda Serangan → 0,5 Detik\n2. Damage dasar dikali dua sama batasnya (120) diilangin</color>",
+            "info": "<size=30>Kok ada meteor di halaman rumah gue sih!?\n\n<color=black>Damage: </color><color=#8B0000>25*5/1,5 Detik</color>\n<color=#99582a>Sistem Cahaya: </color><color=#8B0000>+20 Damage per Level Cahaya.</color>\n<color=#495057>Sistem Magnet: </color><color=#8B0000>+5% Damage per Tanaman Magnet.\n<color=#6A0C9D>Dua-duanya bisa naikin damage bintang sampe 300, maksimal.</color>\n<color=black>Khusus: </color><color=#8B0000>Manggil meteor tiap 20 detik, ngasih 1800 damage pas nabrak. Pecah jadi banyak bintang yang ngejar zombi terus ngasih 100 damage tiap bintang.</color>\n<color=black>Fusi Formula: </color><color=#8B0000>Bintang Jatuh + Magnet Duri</color>\n<color=black>Buff Spesial:\n</color><color=#8B0000>1. Jeda Serangan → 0,5 Detik\n2. Damage dasar dikali dua sama batasnya (120) diilangin</color>",
             "cost": null
         },
         {
@@ -740,7 +754,7 @@
             "name": "Magnet Tesla",
             "introduce": "<align=justified><size=36><color=black>Magnet Tesla itu ngatur besi pake petir, dan ngendaliin petir pake medan magnet. Dia tuh ngasih kekuatan magnet abadi ke para pengikutnya dan ngebangun kerajaan listrik. Tapi walaupun udah jago di medan perang dan politik, dia masih pusing nyari ratu yang bisa ngimbangi kutubnya.</color>",
             "info": "<size=36>Super magnetik, nyedot benda logam cepet terus dijadiin Ceri meledak.\n\n<color=#4A2900>Syarat Pemakaian: Mode Spesial | Pemilihan Awal</color>\n<color=black>Spesial: </color><color=#8B0000>\n<color=black>•</color> Nurunin sifat Jamur Teragnet, CD nyedot logam: 0.5 detik.\n<color=black>•</color> Bisa narik tongkat pogo dari Pogo King Badut di kotak dan ubah jadi Badut di kotak; juga narik (insta-kill) Kirov Drone dan jadiin Badut di kotak.\n<color=black>•</color> Ngasih 300 damage tiap 0.5 detik ke 1 Maha Zombi Trisula atau Maha Delimi Zombi di sekitarnya.\n<color=black>•</color> Ngeluncurin logam yang disedot setelah 3 detik, damagenya sama kayak Ceri meledak, bisa nyerang seluruh map, termasuk target anti.</color>\n<color=black>Modifier Spesial:</color>\n<color=#8B0000>1. Jangkauan serangan ×2\n2. Bisa nyedot 3 benda logam sekaligus, damage ke Maha Trisula atau Maha Delimi ×3</color>",
-            "cost": "\n<size=36>Formula Fusi: <color=#8B0000>Jamur Teragnet + Magnet Labil</color>"
+            "cost": "\n<size=36>Fusi Formula: <color=#8B0000>Jamur Teragnet + Magnet Labil</color>"
         },
         {
             "seedType": 945,
@@ -761,13 +775,13 @@
             "name": "Pembajak Kutub",
             "introduce": "<align=justified><size=36><color=black>Di tengah hutan salju berdiri Pembajak Kutub, penjaga alam beku. Bertahun-tahun dia tahan musim dingin, dahannya berat karena salju, tapi tetep mekarin bunga lotus. Meski anak-anak iseng ngukir di batangnya, dia tetep tenang dan kokoh.</color>",
             "info": "<size=36>Dingin ngumpul di daun cemara, bunga lotus tumbuh di pucuk.\n\n<color=#4A2900>Syarat Pemakaian: Mode Spesial | Bisa dibuka</color>\n<color=black>Damage: </color><color=#8B0000>60/0.02 Detik (selama 5 Detik)</color>\n<color=#0077b6>Sistem Beku: </color><color=#8B0000>\n<color=black>•</color> Dapet 1/1/15/60 charge es dari bola salju/salju trisula/Jamur Es/badai salju.\n<color=black>•</color> Nembak gergaji boreal tiap 1.5 detik yang berubah jadi peluru homing kalau kena, bikin efek Deep Chill, nambah 1 Beku Point, dan dapet 1 charge es.\n<color=black>•</color> Kalau charge es lebih dari 50, bakal ke-reset tiap 5 detik dan nyembuhin semua tanaman di area 3×3 sebesar (charge ÷ jumlah tanaman)×(0.3×shield + 0.7×HP).\n<color=black>Spesial: </color><color=#8B0000>Kebal terhadap beku dari Bola Salju dan Badai Salju.</color>\n<color=black>Modifier Spesial:</color>\n<color=#8B0000>1. Gergaji boreal sekarang aktif 15 detik\n2. Nilai shield saat healing gak dibagi sama jumlah tanaman</color>",
-            "cost": "<size=36>Formula Fusi: <color=#8B0000>Pembobol Harmoni + Seroja Cemara</color>"
+            "cost": "<size=36>Fusi Formula: <color=#8B0000>Pembobol Harmoni + Seroja Cemara</color>"
         },
         {
             "seedType": 948,
             "name": "Bintang Jahanam",
             "introduce": "<align=justified><size=36><color=black>Infernostar emang nyala lebih terang dari api biasa, tapi justru masakan futuristiknya yang bikin semua terkesima. Di final Culinary Clash, dia bagi trofinya sama King Kentang Astral, yang camilan lintas waktunya bikin juri sampe bengong. Bahkan McCornics bilang, \"ini sih bener-bener dari dunia lain.\"</color>",
-            "info": "<size=36>Kayu Obor yang berkobar pake api bintang, nyulut proyektile bintang sampe jadi homing OP.\n\n<color=#4A2900>Syarat Pemakaian: Mode Spesial | Bisa dibuka dengan Kayu Laprek Jahanam</color>\n<color=black>Spesial: </color><color=#8B0000>\n<color=black>•</color> Turunan dari Kayu Laprek Jahanam.\n<color=black>•</color> Gak lagi nyeluarin Laprek Pedas. Tapi tiap 51 proyektile yang lewat bakal munculin Bintang Pedas di depan.\n<color=black>•</color> Nyulut proyektile bintang (kecuali bintang pedas) biar damage ×2, tapi sifat aslinya ilang (kecuali magnetar), terus jadi homing global dan fokus target udara.\n<color=black>•</color> Ceri meledak berubah jadi Explod-o-Star: damage ×2, homing global, anti-udara.\n<color=black>•</color> Nge-boost peluru lain kayak Kayu Laprek Jahanam. Meledak kayak Cabai pas mati.</color>",
+            "info": "<size=36>Kayu Obor yang berkobar pake api bintang, nyulut proyektile bintang sampe jadi homing OP.\n\n<color=#4A2900>Syarat Pemakaian: Mode Spesial | Bisa dibuka dengan Kayu Laprek Jahanam</color>\n<color=black>Spesial: </color><color=#8B0000>\n<color=black>•</color> Turunan dari Kayu Laprek Jahanam.\n<color=black>•</color> Gak lagi nyeluarin Laprek Pedas. Tapi tiap 51 proyektile yang lewat bakal munculin Bintang Pedas di depan.\n<color=black>•</color> Nyulut proyektile bintang (kecuali bintang pedas) biar damage ×2, tapi sifat aslinya ilang (kecuali king bintang), terus jadi homing global dan fokus target udara.\n<color=black>•</color> Ceri meledak berubah jadi Explod-o-Star: damage ×2, homing global, anti-udara.\n<color=black>•</color> Nge-boost peluru lain kayak Kayu Laprek Jahanam. Meledak kayak Cabai pas mati.</color>",
             "cost": "\n<size=36>Formula Konversi: <color=#8B0000>Laprek <-> Bintang</color>"
         },
         {
@@ -775,20 +789,20 @@
             "name": "King Lampu Ireng",
             "introduce": "<align=justified><size=36><color=black>\"Harga dari perang nuklir tuh gak bisa ditanggung sembarang orang.\" King Lampu Ireng adalah penyintas kehancuran yang sekarang nahan inti reaktornya, dan ngubah tenaganya jadi cahaya secerah bulan — jadi penuntun di kegelapan. Tapi kalau ada yang ganggu kedamaian yang dia jaga… dia gak ragu buat balik jadi malaikat maut di medan perang.</color>",
             "info": "<size=36>Plantern dengan energi beku radioaktif, ngeluarin fusion dingin yang makin kuat kalo dikombinasi sama cahya.\n\n<color=#4A2900>Syarat Pemakaian: Mode Spesial | Bisa dibuka dengan King Gurita</color>\n<color=black>Damage: </color><color=#8B0000>600/3s</color>\n<color=black>Jangkauan: </color><color=#8B0000>3×5, bisa nyerang udara</color>\n<color=#0077b6>Sistem Beku: </color><color=#8B0000>\n<color=black>•</color> Serangan ngasih efek Chill dan nambah 30 Beku Point.\n<color=#99582a>Sistem cahya: </color><color=#8B0000> Damage naik 100% × Level cahya.</color>\n<color=black>Spesial: </color><color=#8B0000>\n<color=black>•</color> Turunan dari King Gurita. Ganti bentuk gak bikin efek kematian aktif.</color>",
-            "cost": "<size=36>Formula Fusi: <color=#8B0000>King Gurita + Lampu</color>"
+            "cost": "<size=36>Fusi Formula: <color=#8B0000>King Gurita + Lampu</color>"
         },
         {
             "seedType": 950,
             "name": "Teratai Emas Bersinar",
             "introduce": "<align=justified><size=36><color=black>Dia tuh fanatik banget sama Dewa Matahari, sampe suaranya bisa ngalahin derasnya sungai. Akhirnya dia dipecat dari Sun Guard gara-gara ribut terus—tapi tetep aja, dia masih gencar nyebarin ajaran-Nya ke semua makhluk laut. Sayangnya, dia nggak sadar satu hal: sinar matahari malah nggak nyampe ke dasar danau gara-gara dia.</color>",
-            "info": "<size=36>Pad emas yang bisa cepet banget ngehasilin Sun sama Koin.\n\n<color=#4A2900>Syarat Pakai: Mode Spesial | Pilihan Awal bareng Radiant Pot</color>\n<color=black>Spesial: </color><color=#8B0000>\n<color=black>•</color> Ngasih 50 Sun & 100 Koin tiap n=(Sun Sekarang/1000) detik, di mana 3 ≥ n ≥ 15.</color>",
+            "info": "<size=36>Teratai Emas yang bisa cepet banget ngehasilin Matahari sama Koin.\n\n<color=#4A2900>Syarat Pakai: Mode Spesial | Pilihan Awal bareng Pot Emas Bersinar</color>\n<color=black>Spesial: </color><color=#8B0000>\n<color=black>•</color> Ngasih 50 Sun & 100 Koin tiap n=(Sun Sekarang/1000) detik, di mana 3 ≥ n ≥ 15.</color>",
             "cost": "\n<size=36>Rumus Konversi: <color=#8B0000>Daratan <-> Air</color>"
         },
         {
             "seedType": 951,
             "name": "Titan Pemakan Bersinar",
-            "introduce": "<align=justified><size=36><color=black>Titan Pemakan Bersinar sendiri juga nggak yakin gimana bisa nyasar ke daratan abis narik jaring dari laut dalem, tapi sekarang dia udah nyaman banget di sini. \"Ngapain balik ke laut yang gelap dan sepi kalo zombie selalu ada buat dimakan?\" katanya. Katanya sih nafsu makannya gede banget sampe lomba makan mewah pun bangkrut bayar listrik—jadinya dia dipake buat nyuplai listrik darurat.</color>",
-            "info": "<size=36>Pemakan raksasa yang nyala dan narik zombie—jagonya manggil, makan, dan cerna.\n\n<color=#4A2900>Syarat Pakai: Mode Spesial | Bisa dibuka</color>\n<color=black>Kekebalan: </color><color=#8B0000>8000</color>\n<color=black>Damage: </color><color=#8B0000>Instan kill (Telan)</color>\n<color=black>Waktu Cerna: </color><color=#8B0000>5 + (Total Toughness Zombie)^0.33 detik</color>\n<color=#99582a>Sistem cahya: </color><color=#8B0000> Tiap level cahya ngurangin waktu cerna 10 detik sampe minimal 5 detik.</color>\n<color=black>Spesial: </color><color=#8B0000>\n<color=black>•</color> Anti-lindas.\n<color=black>•</color> Bisa nelen semua zombie (selain miniboss) dalam jarak 1.5 petak.\n<color=black>•</color> Kalo dikasih seedpacket Pemakan, waktu cernanya berkurang 10 detik.\n<color=black>•</color> Abis berhasil cerna, narik zombie dari lajur samping dan nyembuhin HP sesuai 1×Toughness musuh.</color>\n<color=black>Modifikasi Spesial:</color>\n<color=#8B0000>1. Jangkauan serangan ×2\n2. Ngasih 2 level cahya ke area 5×5 pas lagi cerna</color>",
+            "introduce": "<align=justified><size=36><color=black>Titan Pemakan Bersinar sendiri juga nggak yakin gimana bisa nyasar ke daratan abis narik jaring dari laut dalem, tapi sekarang dia udah nyaman banget di sini. \"Ngapain balik ke laut yang gelap dan sepi kalo zombi selalu ada buat dimakan?\" katanya. Katanya sih nafsu makannya gede banget sampe lomba makan mewah pun bangkrut bayar listrik—jadinya dia dipake buat nyuplai listrik darurat.</color>",
+            "info": "<size=36>Pemakan raksasa yang nyala dan narik Zombi—jagonya manggil, makan, dan cerna.\n\n<color=#4A2900>Syarat Pakai: Mode Spesial | Bisa dibuka</color>\n<color=black>Kekebalan: </color><color=#8B0000>8000</color>\n<color=black>Damage: </color><color=#8B0000>Instan kill (Telan)</color>\n<color=black>Waktu Cerna: </color><color=#8B0000>5 + (Total Toughness Zombi)^0.33 detik</color>\n<color=#99582a>Sistem cahya: </color><color=#8B0000> Tiap level cahya ngurangin waktu cerna 10 detik sampe minimal 5 detik.</color>\n<color=black>Spesial: </color><color=#8B0000>\n<color=black>•</color> Anti-lindas.\n<color=black>•</color> Bisa nelen semua Zombi (selain miniboss) dalam jarak 1.5 petak.\n<color=black>•</color> Kalo dikasih seedpacket Pemakan, waktu cernanya berkurang 10 detik.\n<color=black>•</color> Abis berhasil cerna, narik Zombi dari lajur samping dan nyembuhin HP sesuai 1×Toughness musuh.</color>\n<color=black>Modifikasi Spesial:</color>\n<color=#8B0000>1. Jangkauan serangan ×2\n2. Ngasih 2 level cahya ke area 5×5 pas lagi cerna</color>",
             "cost": "<size=36>Rumus Fusi: <color=#8B0000>Pemakan Sinar > Titan Pemakan</color>"
         },
         {
@@ -830,21 +844,21 @@
             "seedType": 965,
             "name": "<color=yellow>King Gojo Wibu",
             "introduce": "<size=36><align=justified><color=black><color=black>Pembuat Tekstur: @林秋AutumnLin</color>\nSetelah bertahun-tahun berjuang, dia akhirnya siap buat pensiun. Hidup damai penuh nostalgia, nonton film lama, dengerin Sunflower Opera—harusnya itu jadi hadiah buatnya. Tapi nasib berkata lain. Zombi nggak ngasih dia istirahat, maksa dia balik bertarung. Pensiun nanti aja—masih ada perlawanan terakhir yang harus dilakukan.",
-            "info": "<size=36>Gasnya bisa ngehambatin dan meracuni zombi.\n\n<color=#4A2900>Syarat Pemakaian: Mode Spesial | Bisa dibuka dengan King Gojo</color>\n<color=#0077b6>Sistem Beku: </color><color=#8B0000>Setiap serangan nambah 10 Poin Beku.</color>\n<color=#5E1675>Sistem Racun: </color><color=#8B0000>Setiap serangan nambah 1 Poin Racun.</color>\n<color=black>Spesial: </color><color=#8B0000>\n<color=black>•</color> Subspesies dari King Gojo. Pake Jamur Hipno dan Bawang buat ganti-ganti di antara keduanya.\n<color=black>•</color> Nyerang terus-terusan dalam garis lurus, ngasih 150 + (Poin Racun * 20) damage tiap 0,5 detik dan bikin zombie melambat.",
+            "info": "<size=36>Gasnya bisa ngehambatin dan meracuni zombi.\n\n<color=#4A2900>Syarat Pemakaian: Mode Spesial | Bisa dibuka dengan King Gojo</color>\n<color=#0077b6>Sistem Beku: </color><color=#8B0000>Setiap serangan nambah 10 Poin Beku.</color>\n<color=#5E1675>Sistem Racun: </color><color=#8B0000>Setiap serangan nambah 1 Poin Racun.</color>\n<color=black>Spesial: </color><color=#8B0000>\n<color=black>•</color> Subspesies dari King Gojo. Pake Jamur Hipno dan Bawang buat ganti-ganti di antara keduanya.\n<color=black>•</color> Nyerang terus-terusan dalam garis lurus, ngasih 150 + (Poin Racun * 20) damage tiap 0,5 detik dan bikin Zombi melambat.",
             "cost": "<size=36>\n<color=black>Fusi Formula: </color><color=#8B0000>King Gojo + Bawang"
         },
         {
             "seedType": 966,
             "name": "<color=yellow>Payung Za Warudo",
             "introduce": "<size=36><align=justified><color=black><color=black>Pembuat Tekstur: @仨硝基甲苯 & @摆烂的克莱尔</color>\nSebagai koki kepala restoran, masakan Payung Za Warudo bener-bener karya seni kuliner. Para pelanggan kagum sama cita rasanya yang luar biasa, tiap gigitan nunjukin keahlian tanpa tanding. \"Rahasianya?\" kata Payung Za Warudo. \"Sentuhan ahli, jiwa yang halus, dan seni memijat yang sempurna.\"",
-            "info": "<size=36>Ngelempar zombi ke belakang dan nge-freeze mereka dengan Ultimate-nya.\n\n<color=#4A2900>Syarat Pemakaian: Mode Spesial | Pilihan Awal bareng Payung Za Warudo</color>\n<color=black>Daya Tahan: </color><color=#8B0000>4000</color>\n<color=black>Spesial: </color><color=#8B0000>\n<color=black>•</color> Subspesies dari Payung Sultan. Pake Pelontar Kubis dan Pelontar Jagung buat ganti-ganti di antara keduanya.\n<color=black>•</color> Nggak bisa lagi ningkatin proyektil yang dilempar. Sebagai gantinya, zombie yang mendekat bakal diserang dan didorong mundur kayak efek Umbrella Husk.\n<color=black>•</color> Pake 6000 Koin buat ngeluarin Ultimate, bikin efek Butter ke zombi sekitar dan ngelempar mereka ke belakang.</color></color>",
+            "info": "<size=36>Ngelempar zombi ke belakang dan nge-freeze mereka dengan Ultimate-nya.\n\n<color=#4A2900>Syarat Pemakaian: Mode Spesial | Pilihan Awal bareng Payung Za Warudo</color>\n<color=black>Daya Tahan: </color><color=#8B0000>4000</color>\n<color=black>Spesial: </color><color=#8B0000>\n<color=black>•</color> Subspesies dari Payung Sultan. Pake Pelontar Kubis dan Pelontar Jagung buat ganti-ganti di antara keduanya.\n<color=black>•</color> Nggak bisa lagi ningkatin proyektil yang dilempar. Sebagai gantinya, Zombi yang mendekat bakal diserang dan didorong mundur kayak efek Umbrella Husk.\n<color=black>•</color> Pake 6000 Koin buat ngeluarin Ultimate, bikin efek Butter ke zombi sekitar dan ngelempar mereka ke belakang.</color></color>",
             "cost": "<size=36>\n<color=black>Fusi Formula: </color><color=#8B0000>Payung Sultan + Pelontar Jagung"
         },
         {
             "seedType": 967,
             "name": "<color=yellow>Payung Cinta",
             "introduce": "<size=36><align=justified><color=black><color=black>Pembuat Tekstur: @仨硝基甲苯 & @摆烂的克莱尔</color>\nLegenda bilang kalau Payung Cinta tertidur dalam mimpi tanpa akhir, cuma bangun pas seseorang nemuin warna favoritnya. Dalam sekejap, dia bersinar dengan keindahan yang nggak tertandingi. Tapi hatinya labil kayak cuaca setelah badai—warna favoritnya berubah-ubah terus, nggak pernah bertahan lama.",
-            "info": "<size=36>Ngelempar dan nge-hipno zombie dengan Ultimate-nya.\n\n<color=#4A2900>Syarat Pemakaian: Mode Spesial | Pilihan Awal bareng Payung Sultan</color>\n<color=black>Daya Tahan: </color><color=#8B0000>4000</color>\n<color=black>Spesial: </color><color=#8B0000>\n<color=black>•</color> Subspesies dari Payung Sultan. Pake Pelontar Kubis dan Jamur Hipno buat ganti-ganti di antara keduanya.\n<color=black>•</color> Nggak bisa lagi ningkatin proyektil yang dilempar. Sebagai gantinya, zombi yang mendekat bakal didorong mundur dan punya 5% kemungkinan kena hipno.\n<color=black>•</color> Pake 1000 * [10 + 4ln(Jumlah Zombi + 1)] Koin buat ngeluarin Ultimate, nge-charm semua zombi di sekitar.</color></color>",
+            "info": "<size=36>Ngelempar dan nge-hipno Zombi dengan Ultimate-nya.\n\n<color=#4A2900>Syarat Pemakaian: Mode Spesial | Pilihan Awal bareng Payung Sultan</color>\n<color=black>Daya Tahan: </color><color=#8B0000>4000</color>\n<color=black>Spesial: </color><color=#8B0000>\n<color=black>•</color> Subspesies dari Payung Sultan. Pake Pelontar Kubis dan Jamur Hipno buat ganti-ganti di antara keduanya.\n<color=black>•</color> Nggak bisa lagi ningkatin proyektil yang dilempar. Sebagai gantinya, zombi yang mendekat bakal didorong mundur dan punya 5% kemungkinan kena hipno.\n<color=black>•</color> Pake 1000 * [10 + 4ln(Jumlah Zombi + 1)] Koin buat ngeluarin Ultimate, nge-charm semua zombi di sekitar.</color></color>",
             "cost": "<size=36>\n<color=black>Fusi Formula: </color><color=#8B0000>Payung Sultan + Jamur Hipno"
         },
         {
@@ -1578,7 +1592,7 @@
         {
             "seedType": 1103,
             "name": "Magnet Duri",
-            "introduce": "<size=34><color=black>Duri Magnet pernah belajar cara ngerusak sinyal komunikasi di Akademi Angkatan Udara, dia sering pamer ke temen-temennya soal nilai-nilainya yang bagus. Dia gak sadar kalo kesuksesannya itu kebanyakan karena bokapnya, komandan Angkatan Udara yang berkuasa, bantuin dia diem-diem.</color>",
+            "introduce": "<size=34><color=black>Magnet Duri pernah belajar cara ngerusak sinyal komunikasi di Akademi Angkatan Udara, dia sering pamer ke temen-temennya soal nilai-nilainya yang bagus. Dia gak sadar kalo kesuksesannya itu kebanyakan karena bokapnya, komandan Angkatan Udara yang berkuasa, bantuin dia diem-diem.</color>",
             "info": "<size=34>Bisa ngasih damage gede ke benda-benda terbang.\n\n<color=black>Damage: </color><color=#8B0000>20/1,5 Detik</color>\n<color=black>Khusus: </color><color=#8B0000>Ngasih damage dua kali lipat ke armor logam. Kalo ngasih damage tertentu ke Pesawat, bisa bikin pesawatnya jatuh, terus ngasih 1000 damage ke zombi di deket tempat jatuhnya.</color>\n<color=black>Fusi Formula: </color><color=#8B0000>Kaktus + Jamur Magnet</color>",
             "cost": null
         },
@@ -2455,49 +2469,49 @@
             "name": "Laprek Beku",
             "introduce": "<align=justified><size=36><color=black>Biar nggak gampang naik darah, Laprek Beku ngurung diri di freezer selama tiga hari tiga malam. Sekarang dia bener-bener adem — saking dinginnya, tanaman lain jadi takut ngomong apa pun yang bisa bikin dia meledak. Kalau zombi? Hmm… bisa dibilang, nggak ada yang berani ‘pecahin suasana’ sama dia.</color>",
             "info": "<size=36>Laprek yang punya kekuatan es.\n\n<color=black>Damage: </color><color=#8B0000>1800</color>\n<color=black>Spesial: </color><color=#8B0000>Pas nyemplak, dia kasih 600 damage ke zombi di area 3×3 dan ngebekuin mereka selama 4 detik.</color>",
-            "cost": "\n<size=36>Formula Fusi: <color=#8B0000>Laprek + Jamur Es</color>"
+            "cost": "\n<size=36>Fusi Formula: <color=#8B0000>Laprek + Jamur Es</color>"
         },
         {
             "seedType": 1229,
             "name": "Laprek Hipno",
-            "introduce": "<align=justified><size=36><color=black>\"Gue sadar kalo zombi itu sebenernya temen kita,\" kata Laprek Hipno, yang langsung daftar jadi anggota Zombie Buddy Club. Masalahnya: cara dia nunjukin rasa sayangnya kelewat ekstrim, sampe bikin anggota lain jadi pada konservatif.</color>",
+            "introduce": "<align=justified><size=36><color=black>\"Gue sadar kalo zombi itu sebenernya temen kita,\" kata Laprek Hipno, yang langsung daftar jadi anggota Zombi Buddy Club. Masalahnya: cara dia nunjukin rasa sayangnya kelewat ekstrim, sampe bikin anggota lain jadi pada konservatif.</color>",
             "info": "<size=36>Laprek yang nyihir zombi pake pesona.\n\n<color=black>Damage: </color><color=#8B0000>1800</color>\n<color=black>Spesial: </color><color=#8B0000>Ngehypnotis zombi yang dia injek. Kalo zombinya kebal hipnotis, dia ngasih 1800 damage aja.</color>",
-            "cost": "\n<size=36>Formula Fusi: <color=#8B0000>Laprek + Jamur Hipno</color>"
+            "cost": "\n<size=36>Fusi Formula: <color=#8B0000>Laprek + Jamur Hipno</color>"
         },
         {
             "seedType": 1230,
             "name": "Bawang Hipno",
             "introduce": "<align=justified><size=36><color=black>Bawang hipno beda sendiri dari keluarga bawangnya — dia terlalu terkenal buat ngumpul bareng. Disayang sekaligus dicemburuin saudara-saudaranya, dia bodo amat. Yang dia pengen cuma nutup topinya sampe nutup mata dan tidur nyenyak kapan aja bisa.</color>",
             "info": "<size=36>Bawang hipnotis yang pake jamur di kepala.\n\n<color=black>Spesial: </color><color=#8B0000>\n<color=black>•</color> Tanaman pendek (bisa ngindar proyektil lurus).\n<color=black>•</color> Zombi yang udah kehipnotis dan nyentuh dia bakal pindah jalur.\n<color=black>•</color> Kalo digigit, dia ngehipnotis penyerangnya, maksa pindah jalur, terus balik jadi bawang biasa.</color>",
-            "cost": "\n<size=36>Formula Fusi: <color=#8B0000>Bawang + Jamur Hipno</color>"
+            "cost": "\n<size=36>Fusi Formula: <color=#8B0000>Bawang + Jamur Hipno</color>"
         },
         {
             "seedType": 1231,
             "name": "Ranjau Hipno",
             "introduce": "<align=justified><size=36><color=black>Ranjau Hipno nggak suka buru-buru. Menurut dia, semua zombi pantas dikasih kesempatan kedua — sebelum dia meledak. Kontradiktif? Bisa jadi. Tapi katanya sih ini sesuai sama 5 prinsip hidupnya… yang dia nggak mau kasih tau.</color>",
             "info": "<size=36>Ranjau yang punya aura hipnotis.\n\n<color=black>Damage: </color><color=#8B0000>1800</color>\n<color=black>Spesial: </color><color=#8B0000>\n<color=black>•</color> Tanaman pendek (bisa ngindar proyektil lurus).\n<color=black>•</color> Zombi yang kena ledakannya jadi kehipnotis. Tapi kalo nggak bisa dihipnotis, langsung kena 1800 damage aja.</color>",
-            "cost": "\n<size=36>Formula Fusi: <color=#8B0000>Ranjau + Jamur Hipno</color>"
+            "cost": "\n<size=36>Fusi Formula: <color=#8B0000>Ranjau + Jamur Hipno</color>"
         },
         {
             "seedType": 1232,
             "name": "Ranput Darat",
             "introduce": "<align=justified><size=36><color=black>Dulu dia tuh ranjau laut yang kebuang ke daratan gara-gara tsunami. Sekarang dia tidur setengah terkubur di tanah. Rumput lautnya emang udah layu, tapi bahan peledaknya masih bahaya banget.</color>",
             "info": "<size=36>Ranjau yang nyatu sama rumput laut.\n\n<color=black>Damage: </color><color=#8B0000>Langsung KO (Tenggelam)</color>\n<color=black>Spesial: </color><color=#8B0000>\n<color=black>•</color> Tanaman pendek (bisa ngindar proyektil lurus).\n<color=black>•</color> Kalo udah aktif, langsung KO-in zombi pertama yang deket dan nyalain ledakan kayak Ranjau.</color>",
-            "cost": "\n<size=36>Formula Fusi: <color=#8B0000>Rumput Laut > Ranjau</color>"
+            "cost": "\n<size=36>Fusi Formula: <color=#8B0000>Rumput Laut > Ranjau</color>"
         },
         {
             "seedType": 1233,
             "name": "Rumjau Laut",
             "introduce": "<align=justified><size=36><color=black>\"Awas kapal! Karang di depan!\" Rumjau Laut jadi penjaga sungai sekarang, selalu nyalain lampu merah kalo bahaya ngintip. Kerjaannya sih oke — soalnya tiap dia nongol, pasti ada yang berabe nyusul.</color>",
             "info": "<size=36>Rumput Laut yang bisa meledak kayak Ranjau.\n\n<color=black>Damage: </color><color=#8B0000>Langsung KO (Tenggelam)</color>\n<color=black>Spesial: </color><color=#8B0000>\n<color=black>•</color> Tanaman pendek (bisa ngindar proyektil lurus).\n<color=black>•</color> Langsung KO zombi pertama yang dateng dan ngasih 600 damage ke zombi sekitar (3×3 area).</color>",
-            "cost": "\n<size=36>Formula Fusi: <color=#8B0000>Ranjau > Rumput Laut</color>"
+            "cost": "\n<size=36>Fusi Formula: <color=#8B0000>Ranjau > Rumput Laut</color>"
         },
         {
             "seedType": 1234,
             "name": "Tungkuster",
             "introduce": "<align=justified><size=36><color=black>Tungkuster bawa kehangatan dan kehidupan ke alam beku. Walau tampilannya aneh, anak-anak lokal pada suka banget sama dia. \"Mau gula batu?\" katanya ceria. \"Biar badan tetep anget!\"</color>",
             "info": "<size=36>Versi stabil dari Tungkomatsu yang ngasih charge atau nyembuhin tanaman di deketnya.\n\n<color=black>Spesial: </color><color=#8B0000>\n<color=black>•</color> Ngewarisin skill Tungkomatsu, jangkauan proteksi 3×3.\n<color=black>•</color> Ngasih 1 ice charge ke tanaman salju setiap 3 detik.\n<color=black>•</color> Nyembuhin 50 HP ke tanaman yang dilindungi tiap 15 detik.</color>",
-            "cost": "\n<size=36>Formula Fusi: <color=#8B0000>Tungkomatsu + Lidah Buaya</color>"
+            "cost": "\n<size=36>Fusi Formula: <color=#8B0000>Tungkomatsu + Lidah Buaya</color>"
         },
         {
             "seedType": 1235,
@@ -2544,10 +2558,136 @@
         {
             "seedType": 1241,
             "name": "Pemakan Sinar",
-            "introduce": "<align=justified><size=36><color=black>Kata orang, cahya Angler nggak pernah kelaperan—tiap gigitannya pasti dapet zombi empuk. Dia bahkan nulis buku panduan: \"Goyang dikit... goyang dikit... zombi suka cahaya lembut.\" — Dari buku karyanya 'Lentera'.</color>",
+            "introduce": "<align=justified><size=36><color=black>Kata orang, Pemakan Sinar nggak pernah kelaperan—tiap gigitannya pasti dapet zombi empuk. Dia bahkan nulis buku panduan: \"Goyang dikit... goyang dikit... zombi suka cahaya lembut.\" — Dari buku karyanya 'Lentera'.</color>",
             "info": "<size=36>Manfaatin lampu buat narik zombi, terus dimakan.\n\n<color=black>Damage: </color><color=#8B0000>Instan kill (Dimakan)</color>\n<color=black>Waktu Cerna: </color><color=#8B0000>40s</color>\n<color=#99582a>Sistem cahya: </color><color=#8B0000>Tiap level cahya ngurangin waktu cerna 10s (minimal 10s).</color>\n<color=black>Spesial: </color><color=#8B0000>Abis mencerna sukses, narik zombi dari jalur sebelah ke jalurnya.</color>",
             "cost": "<size=36>\n<color=black>Fusi Formula: </color><color=#8B0000>Pemakan + Lampu</color>"
         },
+{
+  "seedType": 1242,
+  "name": "Doombox-shroom",
+  "introduce": "<align=justified><size=36><color=black>\"Heh badut!\" teriak para mayit. Doombox-shroom cuma ngelirik mereka tanpa sepatah kata pun. Dia ga perlu debat: mahakaryanya bakal ngomong sendiri. Sayangnya, ga ada yang bakal sempat liat ending-nya.</color>",
+  "info": "<size=36>Versi upgrade dari Doom-shroom dengan kekuatan ledakan berantai.\n\n<color=black>Damage: </color><color=#8B0000>3240 (Cremator)</color>\n<color=black>Spesial: </color><color=#8B0000>Setiap mayit yang kena, bakal nyebarin ledakan kotak kejutan yang ngasih 1800 damage di tempat dia mati.</color>",
+  "cost": "\n<size=36>Formula Fusi: <color=#8B0000>Jack-in-the-Box > Dormant-shroom</color>"
+},
+{
+  "seedType": 1243,
+  "name": "Cherry Pot",
+  "introduce": "<align=justified><size=36><color=black>Cherry Pot mendingan ga digaji di Zen Garden daripada dikira tanaman. \"Mereka pada ga bisa dapet ceri asli, makanya segala yang rasa ceri juga dimakan!\" Cuma ngomongin itu aja bikin dia merinding.</color>",
+  "info": "<size=36>Pot yang doyan banget ledakan ceri, dipake buat nyembuhin tanaman di ubinnya sendiri dan kasih buff sementara ke penembak tipe ceri.\n\n<color=black>Spesial: </color><color=#8B0000>\n<color=black>•</color> Kebal sama ledakan ceri.\n<color=black>•</color> Nyembuhin tanaman di atas dia sendiri 20 HP kalo kena ledakan ceri.\n<color=black>•</color> Pas nyembuhin, ngasih buff 1 detik kecepatan nembak (30%) ke tanaman penembak ceri.</color>",
+  "cost": "\n<size=36>Formula Fusi: <color=#8B0000>Cherry Bomb > Flower Pot</color>"
+},
+{
+  "seedType": 1244,
+  "name": "Cherry Drone",
+  "introduce": "<align=justified><size=36><color=black>Cherry Drone selalu peduli penampilan—mau ada yang liat atau enggak. Di tanah atau di udara, kalau lo acak-acak rambutnya, siap-siap dibom. Keras.</color>",
+  "info": "<size=36>Preman ceri terbang yang doyan gaya sambil nge-bomb mayit dari udara.\n\n<color=black>Damage: </color><color=#8B0000>300</color>\n<color=black>Spesial: </color><color=#8B0000>Tiap 15 detik, nyasar satu mayit di area 3×5 dan nge-bomb dia, bikin ledakan ceri radius 1 tile.</color>",
+  "cost": "\n<size=36>Formula Fusi: <color=#8B0000>Cherry Bomb + Blover</color>"
+},
+{
+  "seedType": 1245,
+  "name": "Bright-shroom",
+  "introduce": "<align=justified><size=36><color=black>Bankir cahaya berpengalaman, Bright-shroom ngasih bunga gede buat tabungan lo. \"Kamu pilih deposito,\" katanya ke Twin Solar-nut yang kesel. \"Belum boleh narik dana sekarang.\"</color>",
+  "info": "<size=36>Produsen matahari visioner yang nyerap dan ngelipatgandain cahaya di sekitar, lalu ngasihnya dalam bentuk cicilan.\n\n<color=black>Output Matahari: </color><color=#8B0000>25/20s</color>\n<color=black>Spesial: </color><color=#8B0000>\n<color=black>•</color> Nyerap matahari jatuh di area 5×5, dilipatin nilainya ×1.3, terus disimpen.\n<color=black>•</color> Ngeluarin matahari sebanyak mungkin dalam batch 25 pas produksi berikutnya.</color>",
+  "cost": "\n<size=36>Formula Fusi: <color=#8B0000>Sunflower + Fume-shroom</color>"
+},
+{
+  "seedType": 1246,
+  "name": "Sunny-shroom",
+  "introduce": "<align=justified><size=36><color=black>Sunny-shroom lagi nyobain teknik napas baru buat ngeluarin sinar matahari yang ganggu. Tapi… \"Aaa! Mayit!!\" Langsung ciut, gemeteran, semua lupa. Soal teknik napas? Nanti aja kalo mayitnya udah pergi.</color>",
+  "info": "<size=36>Produsen matahari pemalu yang makin cepet kerja... sampe panik.\n\n<color=black>Output Matahari: </color><color=#8B0000>25/25s</color>\n<color=black>Spesial: </color><color=#8B0000>\n<color=black>•</color> Interval produksi makin cepet, bisa sampe 10s.\n<color=black>•</color> Kalo ada mayit deket, dia meringkuk ketakutan, interval balik ke 25s dan langsung ngeluarin 25 matahari.</color>",
+  "cost": "\n<size=36>Formula Fusi: <color=#8B0000>Sunflower + Scaredy-shroom</color>"
+},
+{
+  "seedType": 1247,
+  "name": "Spruce Ballista",
+  "introduce": "<align=justified><size=36><color=black>Narik ballista gede itu capek, jadi Spruce Ballista butuh liburan juga. Untungnya, berkat bantuan Astro-nut, dia dapet kerjaan di dunia lain: Ngelontarin burung ngamuk ke babi-pipi hijau yang ngeselin.</color>",
+  "info": "<size=36>Ngelontarin baut kayu cemara gede yang bisa nembus mayit dan meledak setelah delay.\n\n<color=black>Damage: </color><color=#8B0000>80/3s</color>\n<color=black>Spesial: </color><color=#8B0000>\n<color=black>•</color> Kebal beku dari Snowball & Blizzard.\n<color=black>•</color> Bautnya bisa nembus 2x (bisa nembus es juga) dan meledak 0.3s setelah kena mayit, ngasih AoE damage di area kecil.</color>",
+  "cost": "<size=36>Biaya: <color=#8B0000>300</color>\nIsi Ulang: <color=#8B0000>50s</color>"
+},
+{
+  "seedType": 1248,
+  "name": "Doomflower",
+  "introduce": "<align=justified><size=36><color=black>Permainan di kebun kadang cuma soal hoki-hokian. Nah, pas momen itulah Doomflower muncul. \"Kenapa selalu aku?\" \"Karena kamu emang ditakdirin... atau dikutuk.\"</color>",
+  "info": "<size=36>Bunga matahari yang nanem spora Doom di sekitarnya, yang bakal tumbuh dan meledak dari jauh.\n\n<color=black>Output Matahari: </color><color=#8B0000>25/25s</color>\n<color=black>Spesial: </color><color=#8B0000>\n<color=black>•</color> Tiap 50 detik, nanem 1 Doom-spore acak di area 3×3 sekeliling dia.\n<color=black>•</color> Doom-spore butuh 30 detik buat tumbuh, dan kalau ada mayit masuk radius ledaknya, langsung meledak kayak Doom-shroom.</color>",
+  "cost": "\n<size=36>Formula Fusi: <color=#8B0000>Sunflower + Doom-shroom</color>"
+},
+{
+  "seedType": 1249,
+  "name": "Doom-spore",
+  "introduce": "<align=justified><size=36><color=black>Diam-diam tumbuh di halaman, Doom-spore nyanyi lagu nina bobo yang diajarin Doomflower. Mimpinya? Jadi matahari yang bersinar terang... dan nggak dikira baut berkarat lagi.</color>",
+  "info": "<size=36>Spora tidur yang penuh aura kehancuran — tinggal tunggu waktu aja.\n\n<color=black>Spesial: </color><color=#8B0000>Butuh 30 detik buat tumbuh, dan kalau udah dewasa, bakal meledak kayak Doom-shroom kalau ada mayit yang nyelonong masuk radius ledaknya.</color>",
+  "cost": "<size=36>"
+},
+{
+  "seedType": 1250,
+  "name": "Squash-nut",
+  "introduce": "<align=justified><size=36><color=black>Diseret keluar dari taman bermain anak-anak karena dikira bola karet cacat, Squash-nut dibuang ke halaman. Sekarang, dengan bentuk aneh dan emosi meluap, dia lompat-lompat ngawur sambil teriak: \"GUE MAU MAIN SEPUASNYA! SEPUASNYA!\"</color>",
+  "info": "<size=36>Kacang mental yang lincah dan penuh amarah.\n\n<color=black>Ketahanan: </color><color=#8B0000>4000</color>\n<color=black>Damage: </color><color=#8B0000>160/1.5s</color>\n<color=black>Spesial: </color><color=#8B0000>Lompat-lompat di tempatnya kalau mayit mendekat, ngasih splash damage tiap kali mendarat. Ga bisa nahan mayit pas lagi di udara.</color>",
+  "cost": "\n<size=36>Formula Fusi: <color=#8B0000>Wall-nut + Squash</color>"
+},
+{
+  "seedType": 1251,
+  "name": "Silver Doom-shroom",
+  "introduce": "<align=justified><size=36><color=black>Silver Doom-shroom nyulap kehancuran jadi bisnis cuan—dan lumayan sukses juga. Sayangnya, duit pertamanya langsung dihambur buat beli skin baru yang fancy.</color>",
+  "info": "<size=36>Doom-shroom yang tuker ledakan sama gaya bling-bling.\n\n<color=black>Spesial: </color><color=#8B0000>Tidak meledak.</color>",
+  "cost": "\n<size=36>Formula Fusi: <color=#8B0000>Doom-shroom + Marigold</color>"
+},
+{
+  "seedType": 1252,
+  "name": "Golden Doom-shroom",
+  "introduce": "<align=justified><size=36><color=black>\"Ahem, sini liat ke aku dulu.\" Gitu caranya Golden Doom-shroom buka rapat di Wall-nut Street. Para pebisnis lain takut, bukan cuma karena duitnya, tapi karena dia bisa ngehapus kekayaan mereka dalam satu ledakan megah.</color>",
+  "info": "<size=36>Ngubah duit jadi kehancuran.\n\n<color=black>Spesial: </color><color=#8B0000>Ga meledak otomatis.</color>\n<color=black>Ultimate: </color><color=#8B0000>Biaya 3000 Koin, Cooldown: 30 detik; Ngeluarin efek Doom-shroom tapi tanpa ninggalin lubang.</color>",
+  "cost": "\n<size=36>Biaya Upgrade: </color><color=#8B0000>6000 Koin</color>"
+},
+{
+  "seedType": 1253,
+  "name": "Iron Squash",
+  "introduce": "<align=justified><size=36><color=black>Iron Squash sekarang pake baja dingin—lebih keras, lebih berat, dan lebih nyakitin. Tapi... jangan pernah komentar soal \"bintik-bintik\" di mukanya. Katanya sih itu rivet, bukan jerawat.</color>",
+  "info": "<size=36>Squash berlapis besi dengan bobot yang ngagetin.\n\n<color=black>Ketahanan: </color><color=#8B0000>1000</color>\n<color=black>Damage: </color><color=#8B0000>3240</color>\n<color=black>Spesial: </color><color=#8B0000>Tanaman logam. Bisa dikasih item logam yang cocok buat balikin 500 ketahanan. Cuma kena setengah damage dari ledakan ceri.</color>",
+  "cost": "<size=36>Formula Fusi: <color=#8B0000>Bucket/Screen Door > Squash</color>"
+},
+{
+  "seedType": 1254,
+  "name": "Atlantis Ballista",
+  "introduce": "<align=justified><size=36><color=black>Dulu Atlantis Ballista bangga banget jadi penjaga tembok kastil, ngerasa kekuatannya kayak tsunami dahsyat. Tapi ternyata… orang-orang cuma ngomongin suara berdecit nyebelin dari senarnya pas reload. Malu sih, tapi dia nggak menyerah. Ketemu jus lidah buaya, sekarang panahnya lebih halus, lebih mematikan, dan yang paling penting — jauh lebih hening.</color>",
+  "info": "<size=36>Ngeluarin panah air dengan kekuatan tsunami; musuh yang kena jadi lebih rentan sama serangan dingin.\n\n<color=black>Damage: </color><color=#8B0000>80/1s</color>\n<color=black>Spesial: </color><color=#8B0000>\n<color=black>•</color> Kebal beku dari Snowball & Blizzard.\n<color=black>•</color> Ngeluarin 4 panah cepat sebelum istirahat 3 detik.\n<color=black>•</color> 90% peluang nembak Tidal Bolt. Kasih efek Basah 5 detik. Mayit yang basah bakal beku total (bukan cuma dingin) kalo kena serangan cryo. Efek ini ilang dan ga bisa muncul lagi 10 detik.\n<color=black>•</color> 10% peluang nembak Ice Bolt. Kasih efek Deep Chill.</color>",
+  "cost": "<size=36>Formula Fusi: <color=#8B0000>Aloe Aqua > Spruce Ballista</color>"
+},
+{
+  "seedType": 1255,
+  "name": "Drone-nut",
+  "introduce": "<align=justified><size=36><color=black>Ada yang bilang para mayit udah jago bela diri, bisa nyakitin tanaman cuma pake kelopak bunga jatuh. Kebanyakan tanaman sih ngetawain... tapi Drone-nut beda pendapat. \"Itu beneran,\" katanya, sambil ngambang. \"Aku udah nahan serangan kayak gitu. Tiga kali.\"</color>",
+  "info": "<size=36>Kacang ngambang yang jagain ubin tempat dia berada dari segala damage.\n\n<color=black>Ketahanan: </color><color=#8B0000>4000</color>\n<color=black>Spesial: </color><color=#8B0000>\n<color=black>•</color> Nyerap damage yang kena ubinnya.\n<color=black>•</color> Kalau nggak kena damage selama 10 detik, regen 50 HP per detik.</color>",
+  "cost": "<size=36>Formula Fusi: <color=#8B0000>Wall-nut + Blover</color>"
+},
+{
+  "seedType": 1256,
+  "name": "Thorn-nut",
+  "introduce": "<align=justified><size=36><color=black>Thorn-nut ngotot banget bilang dia itu Spike-nut yang asli. \"Liat dong duri-duri ini! Warnaku juga cakep kan?\" Tapi suatu hari, ada yang nanya, \"Eh… Spike-nut itu siapa ya?\"</color>",
+  "info": "<size=36>Kacang berduri yang nyakitin musuh yang nyentuh dan bisa nebak balon mayit.\n\n<color=black>Ketahanan: </color><color=#8B0000>4000</color>\n<color=black>Spesial: </color><color=#8B0000>\n<color=black>•</color> Ngebalikin 50 damage ke mayit yang gigit dia.\n<color=black>•</color> Bisa mecahin Balon.</color>",
+  "cost": "<size=36>Formula Fusi: <color=#8B0000>Wall-nut + Cactus</color>"
+},
+{
+  "seedType": 1257,
+  "name": "Star-nut",
+  "introduce": "<align=justified><size=36><color=black>Star-nut hidup di bawah batu dan jarang gerak. Bukan karena mager, tapi karena dia punya standar. Dia cuma bakal bergerak kalau diajak temen kotaknya mancing ubur-ubur… atau nge-prank tetangga.</color>",
+  "info": "<size=36>Pertahanan reaktif yang bales serangan pake bintang kecil.\n\n<color=black>Ketahanan: </color><color=#8B0000>4000</color>\n<color=black>Spesial: </color><color=#8B0000>Pas kena damage, nembak lima bintang (20 damage) ke segala arah.</color>",
+  "cost": "<size=36>Formula Fusi: <color=#8B0000>Wall-nut + Starfruit</color>"
+},
+{
+  "seedType": 1258,
+  "name": "Bamblotus",
+  "introduce": "<align=justified><size=36><color=black>Tiap musim dingin, Bamblotus berusaha tampil keren buat ngedapetin gebetan dengan pertunjukan kelopak yang memukau. Sayangnya, show-nya sering... terlalu cepet dan terlalu dingin. Cewek-cewek udah cabut duluan sebelum dia selesai mekar.</color>",
+  "info": "<size=36>Pertahanan yang bisa nyembuhin diri sendiri dan makin kuat kalau ada temen deket.\n\n<color=black>Ketahanan: </color><color=#8B0000>1500</color>\n<color=black>Spesial: </color><color=#8B0000>\n<color=black>•</color> Kebal beku dari Snowball dan Blizzard.\n<color=black>•</color> Sembuhin diri sendiri 50 HP saat dicas.\n<color=black>•</color> Regen 40 HP tiap 1.5 detik. Regen ini naik 100% per tanaman Bamblock yang ada di samping.\n<color=black>•</color> Ketahanan (default 1): Damage masuk dibagi ketahanan. Max HP dianggap dikali ketahanan. Ketahanan nambah 0.3 per tanaman Bamblock yang nempel.</color>",
+  "cost": "<size=36>Formula Fusi: <color=#8B0000>Bamblock + Snow Lotus</color>"
+},
+{
+  "seedType": 1259,
+  "name": "Bambloe",
+  "introduce": "<align=justified><size=36><color=black>Bambloe suka banget jalan-jalan dan ngenalin kampung halamannya yang dingin bersalju. Tapi nggak ada yang tertarik. \"Mereka kira tas di punggungku tuh benjol karena ketabrak,\" keluhnya. \"Makanya mereka pikir tundra itu tempat yang keras banget.\"</color>",
+  "info": "<size=36>Pertahanan es yang makin kuat kalau lawannya zombie dingin.\n\n<color=black>Ketahanan: </color><color=#8B0000>1500</color>\n<color=black>Spesial: </color><color=#8B0000>\n<color=black>•</color> Kebal beku dari Snowball dan Blizzard.\n<color=black>•</color> Bisa dapet ice charge kayak Aloe Aqua.\n<color=black>•</color> Ketahanan (default 1): Damage masuk dibagi ketahanan. Max HP dianggap dikali ketahanan. Konsumsi 1 charge buat nambah ketahanan +2. Dapet ketahanan +1 kalo ngelawan mayit beku/dingin (nggak bisa ditumpuk sama skill sebelumnya).</color>",
+  "cost": "<size=36>Formula Fusi: <color=#8B0000>Bamblock + Aloe Aqua</color>"
+},
         {
             "seedType": 1900,
             "name": "<color=yellow>Titan Naga Besi",
@@ -2565,7 +2705,7 @@
         {
             "seedType": 1902,
             "name": "<color=yellow>Labu Hipno",
-            "introduce": "<size=36><align=justified><color=black><color=black>Pembuat Tekstur: @10000why</color>\nDengan senyum tolol dan cat nutupin sekujur tubuhnya, si idiot menawan dengan semangat nekat ngelakuin teknik terlarang: Reinkarnasi Dunia Najis. Korban yang dibutuhin? Dirinya sendiri. Tapi bukannya takut, dia malah menikmati. “Apa yang lebih seru,” pikirnya, “daripada ngidupin lagi zombie yang udah gepeng?”",
+            "introduce": "<size=36><align=justified><color=black><color=black>Pembuat Tekstur: @10000why</color>\nDengan senyum tolol dan cat nutupin sekujur tubuhnya, si idiot menawan dengan semangat nekat ngelakuin teknik terlarang: Reinkarnasi Dunia Najis. Korban yang dibutuhin? Dirinya sendiri. Tapi bukannya takut, dia malah menikmati. “Apa yang lebih seru,” pikirnya, “daripada ngidupin lagi Zombi yang udah gepeng?”",
             "info": "<size=36>Zombi yang kena bakal ketarik jadi temen.\n\n<color=black>Damage: </color><color=#8B0000> 1800 (Satu Petak)</color>\n<color=black>Spesial: </color><color=#8B0000> Ngubah zombi yang kena jadi temen. Kalau zombi nggak bisa dikendalikan, kasih damage 1800 aja.</color>",
             "cost": "<size=36>\n<color=black>Fusi Formula: </color><color=#8B0000>Laprek +Jamur Hipno"
         }

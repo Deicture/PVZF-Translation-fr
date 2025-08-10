@@ -156,7 +156,7 @@
   "抽取次数：\n(\\d+)/(\\d+)\n当前up植物：\n究极云杉\nup刷新倒计时：\n(\\d+)": "Jumlah Undi:\n{0}/{1}\nUp Saat Ini:\nPembajak Kutub\nUp Selanjutnya:\n{2} detik",
   "抽取次数：\n(\\d+)/(\\d+)\n当前up植物：\n究极灯笼巨嘴花\nup刷新倒计时：\n(\\d+)": "Jumlah Undi:\n{0}/{1}\nUp Saat Ini:\nTitan Pemakan Bersinar\nUp Selanjutnya:\n{2} detik",
   "^无尽：超限 (\\d+)轮已经完成": "Tanpa Batas: Lewat Batas | {0} Ronde Kelar",
-  "^旅行炼狱：诅咒 (\\d+)轮已经完成": "Petualangan Neraka: Terkutuk | {0} Ronde Kelar",
+  "^旅行炼狱：诅咒 (\\d+)轮已经完成": "Petualangan Purgatory: Azab | {0} Ronde Kelar",
   "^旅行：极速版 (\\d+)轮已经完成": "Petualangan: Mode Cepat | {0} Ronde Kelar",
   "^旅行：随机 (\\d+)轮已经完成": "Petualangan: Acak | {0} Ronde Kelar",
   "^旅行：无尽 (\\d+)轮已经完成": "Tanpa Batas: Acak | {0} Ronde Kelar",

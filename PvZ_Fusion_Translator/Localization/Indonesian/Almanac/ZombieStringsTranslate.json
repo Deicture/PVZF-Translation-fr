@@ -324,6 +324,18 @@
             "introduce": "<align=justified><size=36><color=black>Dulu dia mimpi jadi putri duyung, tapi dokter bedah yang harusnya benerin dia malah ketuker bagian atas sama bawahnya.</color>",
             "info": "<size=36>Ngamuk kalo lagi baca diganggu... terus balik ke rumah buat ngambil pil lagi.\n\n<color=black>Toughness: </color><color=#4B0082>720 + 720 (Tipe 2)</color>\n<color=black>Sifat: </color><color=#4B0082>Abis pilnya ilang, langsung ngebut banget dan balik arah. Pas keluar di kanan, nge-spawn Zombie Koran Kepala Lumba-lumba baru. Nggak kejadian kalo dia dihipnotis.</color>"
         },
+{
+  "theZombieType": 61,
+  "name": "Mayit Football Kepala Lumba-lumba",
+  "introduce": "<align=justified><size=36><color=black>Gerakannya lincah banget di lapangan, kayak ikan di air. Eh, itu kiasan loh! Siapa yang bilang boleh ngebanjirin halaman!?</color>",
+  "info": "<size=36>Lari gesit di lapangan sambil pamer helm kece-nya.\n\n<color=black>Daya Tahan: </color><color=#4B0082>720 + 1400 (Tipe 1)</color>\n<color=black>Ciri Khas: </color><color=#4B0082>Selama pakai helm, dia bisa nembus tanaman tanpa tabrakan. Begitu nyampe kolom pertama atau ujung halaman, dia langsung full HP lagi, ganti helm baru, dan balik arah.</color>"
+},
+{
+  "theZombieType": 62,
+  "name": "Furling",
+  "introduce": "<align=justified><size=36><color=black>Masih anak kecil sih, tapi cita-citanya Furling gede banget — pengen jadi penguasa tundra kayak Snowfur senior, bukan main-main bareng Mayit Imp. Dia kabur dari kamp buat cari nama… eh, malah nggelinding nyasar ke markas tanaman. Waduh!</color>",
+  "info": "<size=36>Anak Snowfur yang doyan muter-muter, tapi jarang selamat.\n\n<color=black>Daya Tahan: </color><color=#4B0082>300</color>\n<color=black>Ciri Khas: </color><color=#4B0082>\n<color=black>•</color> Ngelinding ke depan. Kalau nabrak tanaman, kasih damage sebesar HP-nya saat itu, terus langsung KO.\n<color=black>•</color> Punya peluang 2 dari 3 buat ngindarin serangan.</color>"
+},
         {
             "theZombieType": 100,
             "name": "Zompli",
@@ -442,7 +454,13 @@
             "theZombieType": 119,
             "name": "Zompli Balon Besi",
             "introduce": "<align=justified><size=36><color=black>Pas dituduh bukan zombi angkatan lama, dia buru-buru ngeluarin foto jadul bareng geng lama. Tapi para zombi malah nanya, \"Lah, kamu yang mana?\" Dia sendiri liatin fotonya sambil bingung, kok gak ada mukanya?</color>",
-            "info": "<size=36>Zompli Besi yang dilengkapi alat balon logam!\n\n<color=black>Damage Peluru: </color><color=#4B0082>80</color>\n<color=black>Daya Tahan: </color><color=#4B0082>1350 + 500 (tipe 1)</color>\n<color=black>Fitur: </color><color=#8B0000>Punya kemampuan kayak Zombi Balon Besi. Tiap 1.5 detik nembak pluru besi yang bisa ngedorong mundur zombi yang kena pengaruh hipno.</color>"
+            "info": "<size=36>Zompli Besi yang dilengkapi alat balon logam!\n\n<color=black>Damage Peluru: </color><color=#4B0082>80</color>\n<color=black>Daya Tahan: </color><color=#4B0082>1350 + 500 (tipe 1)</color>\n<color=black>Fitur: </color><color=#4B0082>Punya kemampuan kayak Zombi Balon Besi. Tiap 1.5 detik nembak pluru besi yang bisa ngedorong mundur zombi yang kena pengaruh hipno.</color>"
+        },
+        {
+            "theZombieType": 120,
+            "name": "Zombi Jamur Nuklir",
+            "introduce": "<align=justified><size=36><color=black>Zombi-zombi udah capek bro, tiap muncul diledakin sama Jamur Nuklir. Yaudah akhirnya mereka bales, bikin versi nuklir sendiri. Biar tanaman juga ngerasain gimana rasanya diledakin balik. Emang sih, ga sekuat ledakan aslinya... tapi ya lumayan lah, daripada pasrah terus.\n\n- Kata Pak Etc., yang katanya udah pensiun</color>",
+            "info": "<size=36>Zombi jamur nuklir? Buset dah, Zombi sekarang udah bawa bom!\n\n<color=black>HP: </color><color=#4B0082>1350</color>\n<color=black>Skill: </color><color=#4B0082>Meledak sendiri setelah beberapa detik, terus ngasih 1800 damage ke tanaman di area 3×3. Gila, serem!</color>\n<color=black>Musuh bebuyutan: </color><color=#4B0082>Kentang Nuklir</color>"
         },
         {
             "theZombieType": 200,
@@ -610,7 +628,223 @@
             "theZombieType": 228,
             "name": "<u>Queen Eksekutor Es Mk. Alpha</u>",
             "introduce": "<align=justified><size=36><color=black>Dengan bilah es dan jubah badai salju, dia mengukir patung dari daging yang hancur dan membentuk kekuatan ilahi dengan kemauan yang tak tergoyahkan. Dewa buatan, hantu dari tundra. Ketika neraka menyatukan kita kembali, akankah dia mengingat tanah kesedihan ini?</color>",
-            "info": "<size=36>Penguasa Tundra Beku.\n\n<color=black>Damage: </color><color=#4B0082>1000</color>\n<color=black>Toughness: </color><color=#4B0082>64000</color>\n<color=black>Sifat: </color><color=#4B0082>\n<color=black>•</color> Mini-boss. Kebal terhadap dingin, mental, dan stun.\n<color=black>•</color> Ngancurin tanaman. Serangan membekukan tanaman selama 5 detik. \n<color=black>•</color> Pas masuk, langsung nyabet semua tanaman di depan (bisa dilindungin P labu), terus ngelepasin 5 bola salju di sekitar jalurnya, masing-masing ngasih damage area 3x3.\n<color=black>•</color> Abis itu, nyabet atau nyerang biasa tiap 3 detik — makin tipis HP, makin gede kemungkinan nyabet.\n<color=black>•</color> Serangan biasa ngeluarin 4 pedang es ke depan.\n<color=black>•</color> Di map Salju, ada kemungkinan langsung manggil badai salju.</color>"
-        }
+            "info": "<size=36>Penguasa Tundra Beku.\n\n<color=black>Damage: </color><color=#4B0082>1000</color>\n<color=black>Toughness: </color><color=#4B0082>64000</color>\n<color=black>Sifat: </color><color=#4B0082>\n<color=black>•</color> Mini-boss. Kebal terhadap dingin, mental, dan stun.\n<color=black>•</color> Ngancurin tanaman. Serangan membekukan tanaman selama 5 detik. \n<color=black>•</color> Pas masuk, langsung nyabet semua tanaman di depan (bisa dilindungin dengan labu), terus ngelepasin 5 bola salju di sekitar jalurnya, masing-masing ngasih damage area 3x3.\n<color=black>•</color> Abis itu, nyabet atau nyerang biasa tiap 3 detik — makin tipis HP, makin gede kemungkinan nyabet.\n<color=black>•</color> Serangan biasa ngeluarin 4 pedang es ke depan.\n<color=black>•</color> Di map Salju, ada kemungkinan langsung manggil badai salju.</color>"
+        },
+{
+  "theZombieType": 300,
+  "name": "Mayit Cendekia Gatling Cherry",
+  "introduce": "<align=justified><size=36><color=black>\"Hidup itu nggak cuma soal teka-teki matematika... ada juga ilalang di luar jendela... atau cahaya bulan malam ini,\" gumam si Mayit Cendekia Gatling Cherry. \"Tapi sebelumnya, aku harus selesain Sudoku ini dulu. Susah juga, ya.\"</color>",
+  "info": "<size=36>Ngamuk dikit, langsung nembakin peluru cherry yang meledak terus-terusan.\n\n<color=black>Damage: </color><color=#4B0082>400 (gigit) 1000 (peluru cherry)</color>\n<color=black>Daya Tahan: </color><color=#4B0082>1500 + 1500 (Tipe 2)</color>\n<color=black>Ciri Khas: </color><color=#4B0082>\n<color=black>•</color> Mayit Evolusi Tingkat 1.\n<color=black>•</color> Nurun sifat dari Mayit Cendekia.\n<color=black>•</color> Kalau kertasnya jatuh, langsung nembak 4 peluru cherry tiap 0,5 detik.</color>"
+},
+{
+  "theZombieType": 301,
+  "name": "Mayit Sarjana Gatling Cherry",
+  "introduce": "<align=justified><size=36><color=black>Dosen spesialis peledakan di Universitas Internasional Mayit ini cuma mau ngajar setelah Profesor Cherryz janji 3 hal: pai cherry, ledakan gede, dan main Zuma. \"Cherryz emang nggak pernah salah,\" katanya.</color>",
+  "info": "<size=36>Langsung nembak peluru cherry bahkan sebelum ngamuk.\n\n<color=black>Damage: </color><color=#4B0082>400 (gigit) 1000 (peluru cherry)</color>\n<color=black>Daya Tahan: </color><color=#4B0082>3000 + 3000 (Tipe 2)</color>\n<color=black>Ciri Khas: </color><color=#4B0082>\n<color=black>•</color> Mayit Evolusi Tingkat 2.\n<color=black>•</color> Nurun sifat dari tingkatan sebelumnya.\n<color=black>•</color> Nembakin 4 peluru cherry tiap 1,5 detik bahkan sebelum kehilangan koran.</color>"
+},
+{
+  "theZombieType": 302,
+  "name": "Mayit Doktor Gatling Cherry",
+  "introduce": "<align=justified><size=36><color=black>Buat lanjut studi bidang ledakan, Mayit Doktor Gatling Cherry siap ke luar negeri. Stok pai cherry yang dia bawa di punggung? Itu cuma perlengkapan darurat aja.</color>",
+  "info": "<size=36>Lulus magna cum bombis — siap unjuk gigi.\n\n<color=black>Damage: </color><color=#4B0082>400 (gigit) 1000 (peluru cherry)</color>\n<color=black>Daya Tahan: </color><color=#4B0082>6000 + 6000 (Tipe 2)</color>\n<color=black>Ciri Khas: </color><color=#4B0082>\n<color=black>•</color> Mayit Evolusi Tingkat 3.\n<color=black>•</color> Nurun sifat dari tingkatan sebelumnya.\n<color=black>•</color> Kalau ngamuk, dia angkut amunisinya dan mulai nembakin 1 peluru cherry tambahan tiap 0,5 detik.</color>"
+},
+{
+  "theZombieType": 303,
+  "name": "Mayit Giga Football",
+  "introduce": "<align=justified><size=36><color=black>Capek jadi pusat perhatian, Mayit Giga Football ganti jersey merah mencoloknya jadi warna hitam legam. Sayangnya, penampilan barunya malah bikin dia lebih mirip perampok bank daripada pemain bola.</color>",
+  "info": "<size=36>Linebacker stealth yang siap ngegempur.\n\n<color=black>Daya Tahan: </color><color=#4B0082>6000 + 6000 (Tipe 1)</color>\n<color=black>Ciri Khas: </color><color=#4B0082>Mayit Evolusi Tingkat 1.</color>"
+},
+{
+  "theZombieType": 304,
+  "name": "Mayit Elit Giga Football-nut",
+  "introduce": "<align=justified><size=36><color=black>Muncul dari alam misterius, Mayit Elit Giga Football-nut itu penuh teka-teki. Gelap, ganas, dan kadang bingung sendiri. Dia aja udah lupa asalnya dari mana, cuma inget masa lalu kayak mimpi yang perlahan kabur waktu pagi datang.</color>",
+  "info": "<size=36>Petarung keras kepala yang nggak takut kegelapan.\n\n<color=black>Daya Tahan: </color><color=#4B0082>12000 + 12000 (Tipe 1)</color>\n<color=black>Ciri Khas: </color><color=#4B0082>\n<color=black>•</color> Mayit Evolusi Tingkat 2.\n<color=black>•</color> Regenerasi 5% dari HP maksimal tiap 3 detik.</color>"
+},
+{
+  "theZombieType": 305,
+  "name": "Mayit Pemimpin Giga Football-nut",
+  "introduce": "<align=justified><size=36><color=black>Si tangan kanan Striker, Mayit Pemimpin Giga Football-nut dihormati pasukan dan dipercaya bos. Dia loyal, jago, dan bingung kenapa penghargaan nggak pernah dikasih dalam bentuk otak segar.</color>",
+  "info": "<size=36>Ngamuk di garis depan tanpa ampun.\n\n<color=black>Damage: </color><color=#4B0082>200 (gigit)</color>\n<color=black>Daya Tahan: </color><color=#4B0082>24000 + 24000 (Tipe 1)</color>\n<color=black>Ciri Khas: </color><color=#4B0082>\n<color=black>•</color> Mayit Evolusi Tingkat 3.\n<color=black>•</color> Nurun sifat dari tingkat sebelumnya.\n<color=black>•</color> Kebal dorongan, dingin, dan mentega.\n<color=black>•</color> Gigitannya bikin tanaman nggak bisa nyembuhin diri dan kena 3x damage selama 1 detik.</color>"
+},
+{
+  "theZombieType": 306,
+  "name": "Mayit Pemimpin Giga Buckshot",
+  "introduce": "<align=justified><size=36><color=black>Ditakuti di medan perang, disayang di luar perang. Mayit Pemimpin Giga Buckshot punya trik khas: nyimpen peluru di benderanya sendiri.</color>",
+  "info": "<size=36>Hujan peluru tanpa henti.\n\n<color=black>Damage: </color><color=#4B0082>200 (gigit) 80/0.1s (peluru buckshot)</color>\n<color=black>Daya Tahan: </color><color=#4B0082>24000 + 24000 (Tipe 1)</color>\n<color=black>Ciri Khas: </color><color=#4B0082>\n<color=black>•</color> Mayit Evolusi Tingkat 3.\n<color=black>•</color> Kebal dorongan, dingin, dan mentega.</color>"
+},
+{
+  "theZombieType": 307,
+  "name": "Mayit Sersan Michael",
+  "introduce": "<align=justified><size=36><color=black>Idola pop mayit yang digilai banyak fans, Mayit Sersan Michael nggak bisa jalan sejengkal tanpa diserbu penggemar yang teriak-teriak. Dia lagi belajar gerakan baru, bukan cuma buat tur dunia, tapi juga biar bisa ngeles dari fangirl.</color>",
+  "info": "<size=36>Masuk ke arena sambil moonwalk bareng dancer.\n\n<color=black>Daya Tahan: </color><color=#4B0082>3000</color>\n<color=black>Ciri Khas: </color><color=#4B0082>\n<color=black>•</color> Mayit Evolusi Tingkat 1.\n<color=black>•</color> Masuk sambil moonwalk 3 detik, lalu manggil 4 Mayit Tiang Penari Super.</color>"
+},
+{
+  "theZombieType": 308,
+  "name": "Mayit Komandan Michael",
+  "introduce": "<align=justified><size=36><color=black>Di puncak ketenaran, kekuatan, dan penampilan, Mayit Komandan Michael cuma butuh satu panggung buat berbagi kebahagiaannya ke dunia.</color>",
+  "info": "<size=36>Moonwalk dengan gaya, terus panggil pasukan.\n\n<color=black>Daya Tahan: </color><color=#4B0082>6000</color>\n<color=black>Ciri Khas: </color><color=#4B0082>\n<color=black>•</color> Mayit Evolusi Tingkat 2.\n<color=black>•</color> Masuk dengan moonwalk sliding selama 3 detik. Setelah sampai kolom ke-4 atau kehalang tanaman, berhenti dan manggil 4 Mayit Tiang Penari Super.</color>"
+},
+{
+  "theZombieType": 309,
+  "name": "Mayit Jenderal Michael",
+  "introduce": "<align=justified><size=36><color=black>Langkah kece, putaran anggun. Jagoan dansa ini udah lulus dari Akademi Edgar dan sekarang jebolan Akademi Jackson. Dia lagi syuting MV bareng bodyguard-nya. Jangan lupa rekam salam 45° khas dia — kalo kamu masih hidup.</color>",
+  "info": "<size=36>Datang dengan gaya, lanjut dengan aksi panggung.\n\n<color=black>Daya Tahan: </color><color=#4B0082>12000</color>\n<color=black>Ciri Khas: </color><color=#4B0082>\n<color=black>•</color> Mayit Evolusi Tingkat 3.\n<color=black>•</color> Abaikan tanaman selama 3 detik sambil moonwalk ke kolom ke-4. Setelah itu manggil 8 Mayit Tiang Penari Super.</color>"
+},
+{
+  "theZombieType": 310,
+  "name": "Sharkmarine-X",
+  "introduce": "<align=justified><size=36><color=black>Versi KW yang dibuat saingannya Gfishtus Corps. Katanya sih performanya sama aja kayak asli, tapi Gfishtus ngotot bilang ini bocor.</color>",
+  "info": "<size=36>Unit kapal selam massal terbaru dari Edgar.\n\n<color=black>Daya Tahan: </color><color=#4B0082>3000</color>\n<color=black>Ciri Khas: </color><color=#4B0082>\n<color=black>•</color> Mayit Evolusi Tingkat 1.\n<color=black>•</color> Bergerak cepat di jalur air, ngancurin semua tanaman yang dilewatin.</color>"
+},
+{
+  "theZombieType": 311,
+  "name": "Sharkmarine Penghancur",
+  "introduce": "<align=justified><size=36><color=black>Senjata 'sempurna' itu overrated. Kemenangan sejati ada di serangan misil tanpa henti dari langit. Submarine peledak ini kayak gudang misil bawah laut berjalan.</color>",
+  "info": "<size=36>Ngirim bom terus-terusan ke garis depan.\n\n<color=black>Daya Tahan: </color><color=#4B0082>6000</color>\n<color=black>Ciri Khas: </color><color=#4B0082>\n<color=black>•</color> Mayit Evolusi Tingkat 2.\n<color=black>•</color> Ngebom tiap 1.5 detik ke arah 2 tile depan. Bom meledak kayak Jack-in-the-Box dan bisa ditembak jatuh kalau kena 1000 damage di udara.</color>"
+},
+{
+  "theZombieType": 312,
+  "name": "Sharkmarine Penyeruduk",
+  "introduce": "<align=justified><size=36><color=black>Tujuan kapal ini cuma satu: nabrak garis pertahanan dan bikin celah buat temennya nyerang. Katanya sih terlalu ngorbanin pertahanan buat kecepatan, tapi Edgar santai aja — \"Yang penting maju, apapun yang terjadi.\"</color>",
+  "info": "<size=36>Ngamuk di jalur air dengan kecepatan brutal.\n\n<color=black>Daya Tahan: </color><color=#4B0082>6000</color>\n<color=black>Ciri Khas: </color><color=#4B0082>\n<color=black>•</color> Mayit Evolusi Tingkat 2.\n<color=black>•</color> Nyeruduk tanaman di jalur air secepat kilat.</color>"
+},
+{
+  "theZombieType": 313,
+  "name": "Sharkmarine Pengebom",
+  "introduce": "<align=justified><size=36><color=black>Penguasa medan perang sejati, hasil kolaborasi Edgar dan Gfishtus Corps. Masalah banjir misil udah disolusikan. Sekarang udah nyaris sempurna... kecuali kalau baling-balingnya nyangkut rumput laut.</color>",
+  "info": "<size=36>Muncul buat bombardir barisan belakang dengan misil cruise.\n\n<color=black>Daya Tahan: </color><color=#4B0082>12000</color>\n<color=black>Ciri Khas: </color><color=#4B0082>\n<color=black>•</color> Mayit Evolusi Tingkat 3.\n<color=black>•</color> Masuk medan perang sambil nyelam. Muncul ke permukaan kalau ada tanaman di jalurnya, lalu berhenti.\n<color=black>•</color> Saat muncul, nembakin 2 misil tiap 1.5 detik ke kolom paling belakang. Bisa ditembak jatuh kalau kena 1000 damage di udara.</color>"
+},
+{
+  "theZombieType": 314,
+  "name": "Narwhalmarine",
+  "introduce": "<align=justified><size=36><color=black>Kebanggaan Edgar paling mutakhir, dibuat buat ngebut maksimal. Semua awak kapal harus lulus tes G-force brutal. \"Rasanya kayak didudukin 10 Gargantuar,\" kata salah satu penyintas.</color>",
+  "info": "<size=36>Tombak baja dari jalur air.\n\n<color=black>Daya Tahan: </color><color=#4B0082>12000</color>\n<color=black>Ciri Khas: </color><color=#4B0082>\n<color=black>•</color> Mayit Evolusi Tingkat 3.\n<color=black>•</color> Nyeruduk jalur air dengan kecepatan ekstrem.\n<color=black>•</color> Sekali tiap unit, bisa ngegandain kecepatan gerak semua mayit di area 3×3 (bisa ditumpuk 2x).</color>"
+},
+{
+  "theZombieType": 315,
+  "name": "Mayit Giga Trisula",
+  "introduce": "<align=justified><size=36><color=black>Pake jas hujan anti air dan bawa trisula mengilap, dia siap mancing. Helmnya? Bukan buat tahan serangan tanaman, tapi buat ngelindungin diri dari nelayan yang iri.</color>",
+  "info": "<size=36>Ngelempar trisula ke barisan paling belakang.\n\n<color=black>Daya Tahan: </color><color=#4B0082>3000 + 3000 (Tipe 1)</color>\n<color=black>Ciri Khas: </color><color=#4B0082>\n<color=black>•</color> Mayit Evolusi Tingkat 1.\n<color=black>•</color> Setelah 6–9 detik atau kalau kehalang, langsung lempar 4 trisula ke kolom terakhir.\n<color=black>•</color> Tiap trisula ngasih damage ke tanaman sebesar 20% HP-nya sekarang (minimal 60).</color>"
+},
+{
+  "theZombieType": 316,
+  "name": "Mayit Wakil Kapten Trisula Giga",
+  "introduce": "<align=justified><size=36><color=black>Bawa obat tetes mata dan helm Tallnut yang diperkuat, dia siap nusuk target — entah itu ikan atau saingan.</color>",
+  "info": "<size=36>Sekali ditarget, nggak bisa ngeles.\n\n<color=black>Daya Tahan: </color><color=#4B0082>6000 + 6000 (Tipe 1)</color>\n<color=black>Ciri Khas: </color><color=#4B0082>\n<color=black>•</color> Mayit Evolusi Tingkat 2.\n<color=black>•</color> Setelah 6–9 detik atau kalau kehalang, lempar 8 trisula ke tanaman acak dalam jarak 4 tile di depan (nggak bisa diblok payung).\n<color=black>•</color> Damage dasar trisula +100.</color>"
+},
+{
+  "theZombieType": 317,
+  "name": "Mayit Kapten Trisula Giga",
+  "introduce": "<align=justified><size=36><color=black>Dia dulunya calon operator forklift, tapi gagal tes helm. Akhirnya sekarang kerjaan dia cuma satu: lemparin lebih banyak trisula, lebih keras.</color>",
+  "info": "<size=36>Trisula turun kayak hujan gerimis tapi nyakitin.\n\n<color=black>Daya Tahan: </color><color=#4B0082>12000 + 12000 (Tipe 1)</color>\n<color=black>Ciri Khas: </color><color=#4B0082>\n<color=black>•</color> Mayit Evolusi Tingkat 3.\n<color=black>•</color> Setelah 6–9 detik atau kalau kehalang, lempar 12 trisula bertipe menyebar.\n<color=black>•</color> Tiap tanaman dalam 4 tile ke depan bakal nambah 1 trisula tambahan.\n<color=black>•</color> Damage dasar trisula +300.</color>"
+},
+{
+  "theZombieType": 318,
+  "name": "Mayit Penambang Netherite",
+  "introduce": "<align=justified><size=36><color=black>Dengan pickaxe netherite dan lisensi tambang palsu, dia berangkat buat nego batu bara sama Ratu Endoflame — walau geng Wither Skeleton milik Piglin Corp bakal jadi saingan berat.</color>",
+  "info": "<size=36>Penambang tercepat di tambang Nether.\n\n<color=black>Daya Tahan: </color><color=#4B0082>3000 + 3000 (Tipe 1)</color>\n<color=black>Ciri Khas: </color><color=#4B0082>\n<color=black>•</color> Mayit Evolusi Tingkat 1.\n<color=black>•</color> Tiap serangan nambahin 2000 poin ‘progres tambang’ ke tanaman. Kalau progres lebih tinggi dari HP tanaman, langsung ancur.</color>"
+},
+{
+  "theZombieType": 319,
+  "name": "Mayit Pembor Netherit",
+  "introduce": "<align=justified><size=36><color=black>Juara lomba gali tanah dengan bor netherite bertenaga lava. Walaupun dia jarang nyebutin cangkulnya juga netherite, dedikasinya tetap keren.</color>",
+  "info": "<size=36>Gali-gali tapi gampang nyasar.\n\n<color=black>Daya Tahan: </color><color=#4B0082>6000 + 6000 (Tipe 1)</color>\n<color=black>Ciri Khas: </color><color=#4B0082>\n<color=black>•</color> Mayit Evolusi Tingkat 2.\n<color=black>•</color> Tiap serangan nambahin 4000 progres tambang.\n<color=black>•</color> Gali dari bawah tanah dan bor-nya nggak bisa ditarik pakai Magnet-shroom.\n<color=black>•</color> Muncul acak di kolom 2 sampai 8.</color>"
+},
+{
+  "theZombieType": 320,
+  "name": "Mayit Kepala Ekskavator Netherite",
+  "introduce": "<align=justified><size=36><color=black>Pemimpin Badan Tambang Mayit di Nether, diikuti ratusan pekerja zombie. Mimpinya bikin kerajaan tambang. Edgar: \"Dia mah cuma terus-terusan gali ke kuburan mayit lain. Helm-nya bikin dia buta arah. Makanya dikejar terus.\"</color>",
+  "info": "<size=36>Mimpin rombongan zombie lain buat gali rame-rame.\n\n<color=black>Daya Tahan: </color><color=#4B0082>12000 + 12000 (Tipe 1)</color>\n<color=black>Ciri Khas: </color><color=#4B0082>\n<color=black>•</color> Mayit Evolusi Tingkat 3.\n<color=black>•</color> Tiap serangan nambah 8000 progres tambang.\n<color=black>•</color> Nurun sifat dari level sebelumnya.\n<color=black>•</color> Masuk lewat bawah tanah bareng zombie non-kendaraan terdekat. Mereka muncul bareng nanti.</color>"
+},
+{
+  "theZombieType": 321,
+  "name": "Mayit Zomboni Michael Berlapis",
+  "introduce": "<align=justified><size=36><color=black>Gas terus! Giling semua yang di depan! Si Zomboni ngelaju tanpa henti... sampe ketemu kolam di tengah lapangan.</color>",
+  "info": "<size=36>Mayit disko yang naik kendaraan lapis baja.\n\n<color=black>Daya Tahan: </color><color=#4B0082>6000</color>\n<color=black>Ciri Khas: </color><color=#4B0082>\n<color=black>•</color> Mayit Evolusi Tingkat 1.\n<color=black>•</color> Giling tanaman. Terima 50% damage aja.\n<color=black>•</color> Setelah hancur, munculin Michael biasa.</color>"
+},
+{
+  "theZombieType": 322,
+  "name": "Mayit Zomboni Michael Berzirah",
+  "introduce": "<align=justified><size=36><color=black>\"Sekarang depan kendaraan udah makin tebel!\" Kendaraan baru ini jadi kebanggaan si Michael. Tapi dia masih sedih karena celah antar zirah belum cukup buat nyempilin dancer cadangan.</color>",
+  "info": "<size=36>Kendaraan Michael sekarang tambah zirah ringan.\n\n<color=black>Daya Tahan: </color><color=#4B0082>12000</color>\n<color=black>Ciri Khas: </color><color=#4B0082>\n<color=black>•</color> Mayit Evolusi Tingkat 2.\n<color=black>•</color> Giling tanaman. Cuma kena 34% damage.\n<color=black>•</color> Setelah hancur, munculin Zomboni Michael Berlapis.</color>"
+},
+{
+  "theZombieType": 323,
+  "name": "Juggernaut Michael Zomboni",
+  "introduce": "<align=justified><size=36><color=black>Kendaraan ini punya armor super tebal sampe dijuluki 'Kapal Tempur Darat'. Belakangan ini, Michael Zombie bikin desain gila baru: pake roda rantai, pasang turret berlapis-lapis, sama meriam panjang. Dia yakin ini bakal jadi penemuan yang bener-bener orisinal.</color>",
+  "info": "<size=36>Kendaraan Michael Zombie sekarang dilapisi dua lapis baja super berat.\n\n<color=black>Kekebalan: </color><color=#4B0082>24000</color>\n<color=black>Fitur: </color><color=#4B0082>\n<color=black>•</color> Zombie Evolusi Tier 3.\n<color=black>•</color> Ngehancurin tanaman, tahan 75% serangan.\n<color=black>•</color> Munculin Michael Zomboni Berlapis pas mati.</color>"
+},
+{
+  "theZombieType": 324,
+  "name": "Zombie Pogo Badut Ksatria",
+  "introduce": "<align=justified><size=36><color=black>Jangan ganggu dia—lagi jatuh cinta. Dia nggak mood dengerin omongan negatif soal asmaranya, dan kalo kamu maksa, siap-siap kena reaksi emosional yang... meledak-ledak.</color>",
+  "info": "<size=36>Zombie pogo versi modern yang pogo-nya diisi bahan peledak. Agak anti magnet, susah dijatuhin.\n\n<color=black>Kekebalan: </color><color=#4B0082>3000 + 3000 (Tipe 1)</color>\n<color=black>Fitur: </color><color=#4B0082>\n<color=black>•</color> Zombie Evolusi Tier 1.\n<color=black>•</color> Punya kemampuan khas Zombie Pogo.\n<color=black>•</color> Nggak bakal jatuh kalo ditendang payung.\n<color=black>•</color> Kalo mati sambil masih pegang pogo, meledak kayak Jack-in-the-Box.</color>"
+},
+{
+  "theZombieType": 325,
+  "name": "Zombie Pogo Badut Raja",
+  "introduce": "<align=justified><size=36><color=black>Dulu jualan pogo, semangka, sama jack-in-the-box-nya sepi. Akhirnya dia curhat ke Zombie Katapel. Katanya, 'Bayangin semangka sama jack-in-the-box jadi satu.' Dan... BOOM! Laku keras!</color>",
+  "info": "<size=36>Punya charger sekali pakai buat pogo peledaknya.\n\n<color=black>Kekebalan: </color><color=#4B0082>6000 + 6000 (Tipe 1)</color>\n<color=black>Fitur: </color><color=#4B0082>\n<color=black>•</color> Zombie Evolusi Tier 2.\n<color=black>•</color> Warisin kemampuan si Ksatria Badut Pogo.\n<color=black>•</color> Kalo spawn di kanan, nge-charge 5 detik lalu lompat jauh 4 tile.</color>"
+},
+{
+  "theZombieType": 326,
+  "name": "Zombie Pogo Badut Kaisar",
+  "introduce": "<align=justified><size=36><color=black>Setelah lama galau, akhirnya move on juga. Sekarang dia tampil dengan warna mencolok dan siap ngegebet dewi baru: Jill-in-the-Box. Semoga mentalnya udah makin kuat ya.</color>",
+  "info": "<size=36>Sistem charge-nya udah upgrade, asap dari pogo-nya bisa nyamarin tubuh palsunya.\n\n<color=black>Kekebalan: </color><color=#4B0082>12000 + 12000 (Tipe 1)</color>\n<color=black>Fitur: </color><color=#4B0082>\n<color=black>•</color> Zombie Evolusi Tier 3.\n<color=black>•</color> Warisin kemampuan Raja Badut Pogo tapi waktu charge jadi cuma 0,75 detik.\n<color=black>•</color> Bisa selamat dari kematian asal masih pegang pogo.</color>"
+},
+{
+  "theZombieType": 327,
+  "name": "Bomber Kirov",
+  "introduce": "<align=justified><size=36><color=black>Karena part mahal susah dicari, Gfishtus Corps bikin versi murahnya buat serangan kecil. Tapi ujung-ujungnya malah jadi mirip banget sama airship versi Dr. Zomboss...\n\n- Ditulis oleh Pak Dll.</color>",
+  "info": "<size=36>Airship Kirov yang sesekali ngejatuhin bom Jack-in-the-Box.\n\n<color=black>Damage: </color><color=#4B0082>500/1.5 detik</color>\n<color=black>Kekebalan: </color><color=#4B0082>3000</color>\n<color=black>Fitur: </color><color=#4B0082>\n<color=black>•</color> Zombie Evolusi Tier 1.\n<color=black>•</color> Jatuh kalo kena 20 bintang Magnetar.</color>"
+},
+{
+  "theZombieType": 328,
+  "name": "Kirov Mothership",
+  "introduce": "<align=justified><size=36><color=black>Kapal induk Kirov adalah produk unggulan Gfishtus Corps, katanya sih pakai teknologi drone paling canggih. Tapi kalo kamu perhatiin puing-puing anak buahnya... sering ada tulisan 'CCCP' warna merah.</color>",
+  "info": "<size=36>Kapal induk terbang yang ngeluarin Drone Kirov.\n\n<color=black>Kekebalan: </color><color=#4B0082>6000</color>\n<color=black>Fitur: </color><color=#4B0082>\n<color=black>•</color> Zombie Evolusi Tier 2.\n<color=black>•</color> Tiap 2 detik, nyummon Drone Kirov dengan 10% HP-nya.\n<color=black>•</color> Jatuh kalo kena 30 bintang Magnetar.</color>"
+},
+{
+  "theZombieType": 329,
+  "name": "Kirov Flagship",
+  "introduce": "<align=justified><size=36><color=black>Penerobosan dari langit! Gabungan pengintaian dan serangan! Serangan full otomatis tanpa awak! Inilah Kirov 2.0 dari Gfishtus Corps! Sayangnya, jarak tempuhnya cupu banget, jadi cuma bisa jadi kapal kecil di bawah induknya. (Induknya dijual terpisah ya.)</color>",
+  "info": "<size=36>Pesawat pengebom cepat yang ngedrop bom karpet dengan brutal.\n\n<color=black>Damage: </color><color=#4B0082>300/1.5 detik</color>\n<color=black>Kekebalan: </color><color=#4B0082>12000</color>\n<color=black>Fitur: </color><color=#4B0082>\n<color=black>•</color> Zombie Evolusi Tier 3.\n<color=black>•</color> Tiap 4 detik, summon 2 Bomber Supersonik buat ngebasmi 1 jalur dengan cepat.\n<color=black>•</color> Jatuh kalo kena 40 bintang Magnetar.</color>"
+},
+{
+  "theZombieType": 330,
+  "name": "Wraith Gelisah",
+  "introduce": "<align=justified><size=36><color=black>Lahir dari keluarga miskin, untung ada orang kaya yang nyekolahin gue. Gue sempet jadi pejabat yang lurus, suka ngomong blak-blakan ke Kaisar. Katanya sih Kaisarnya diktator, tapi walau gue sering ngasih saran, dia nggak pernah marah. Baru belakangan gue tahu... ternyata dia tuli.</color>",
+  "info": "<size=36>Arwah hidup lagi yang meledak pas mati, nyakitin semua tanaman di sekitarnya.\n\n<color=black>Damage: </color><color=#4B0082>250 (bukan gigitan)</color>\n<color=black>Kekebalan: </color><color=#4B0082>3000</color>\n<color=black>Fitur: </color><color=#4B0082>\n<color=black>•</color> Zombie Evolusi Tier 1.\n<color=black>•</color> Kalo dibunuh, ngasih 125 damage ke semua tanaman dalam area 3×3.</color>"
+},
+{
+  "theZombieType": 331,
+  "name": "Wraith Abadi",
+  "introduce": "<align=justified><size=36><color=black>Wraith malam itu terbang tinggi, temen-temennya kabur semua. Dua tanaman berdiri di depannya. Dia ngamuk—satu langsung tumbang, satu lagi coba lawan. Tapi dia nerobos dua-duanya, abisin mereka dengan serangan brutal. Keren sih, tapi tetep aja dua-duanya KO. Bisa apa? Ya udah nasib.</color>",
+  "info": "<size=36>Hantu berwujud bayangan yang nerobos halangan pake tenaga ghaib.\n\n<color=black>Damage: </color><color=#4B0082>500 (bukan gigitan)</color>\n<color=black>Kekebalan: </color><color=#4B0082>6000</color>\n<color=black>Fitur: </color><color=#4B0082>\n<color=black>•</color> Zombie Evolusi Tier 2.\n<color=black>•</color> Tiap 4–8 detik, ngedash sampe 2 tile ke depan, nembus tanaman dan nyerang.\n<color=black>•</color> Kalo mati, nyebarin 250 damage ke tanaman di sekitar 3×3.</color>"
+},
+{
+  "theZombieType": 332,
+  "name": "Wraith Kekal",
+  "introduce": "<align=justified><size=36><color=black>Li Chi-hsing, bocah dari Fengdu, pernah bilang, “Aku lihat segel giok di sana—itu punya keluargaku.” Semua ketawa. Umur 24, pas paceklik, dia memberontak dan jadi Raja Fengdu. Tapi begitu dapet segel itu, wajahnya kebakar. Tahun berikutnya kelaparan lagi, dia digulingin dan nyaris mati. Lidahnya luka kena segel, pas ditanya namanya, dia cuma bisa bilang, “Aku... Li..ch...”</color>",
+  "info": "<size=36>Wraith yang bisa nembus tanaman dan nyerang kayak Kaisar ngamuk.\n\n<color=black>Damage: </color><color=#4B0082>300/1.5 detik</color>\n<color=black>Kekebalan: </color><color=#4B0082>12000</color>\n<color=black>Fitur: </color><color=#4B0082>\n<color=black>•</color> Zombie Evolusi Tier 3.\n<color=black>•</color> Di sisi kanan lapangan, tiap 4–8 detik, bisa nembus sampe 4 tile sambil nyerang semua tanaman yang dilewatin. Kalo nggak ada yang bisa dilewatin, cuma maju 1 tile doang.\n<color=black>•</color> Di sisi kiri, skill tembus ini nggak bisa dipake.\n<color=black>•</color> Kalo mati, ngasih 500 damage ke tanaman dalam area 3×3.</color>"
+},
+{
+  "theZombieType": 333,
+  "name": "Hwacha Trisula Ringan",
+  "introduce": "<align=justified><size=36><color=black>“Saat bunga pir bermekaran, sungai mengalir di bawah kain lembut.” Hwacha Trisula Ringan baca balada itu dari buku kuning usang, terharu sama kisahnya. Sayangnya, dia nggak ngerti kalo roket butuh mesin biar bisa terbang jauh.</color>",
+  "info": "<size=36>Ngeluarin gelombang kecil trisula.\n\n<color=black>Kekebalan: </color><color=#4B0082>3000</color>\n<color=black>Fitur: </color><color=#4B0082>\n<color=black>•</color> Zombie Evolusi Tier 1.\n<color=black>•</color> Nembak 4 trisula sekaligus, bisa reload sekali lalu lanjut maju sambil ngancurin tanaman. Trisula jatuh di jarak 5–7 tile di depan.</color>"
+},
+{
+  "theZombieType": 334,
+  "name": "Hwacha Trisula Sedang",
+  "introduce": "<align=justified><size=36><color=black>Latihan Hwacha Trisula Sedang butuh akurasi tinggi. Karena trisulanya nggak bisa belok di udara, pengendara harus gerakin seluruh gerobak buat ngarahin. \"Geser dikit... lagi... ya dikiiit—\" BYUR! Nyemplung ke kolam.</color>",
+  "info": "<size=36>Ngeluarin gelombang trisula yang lebih banyak.\n\n<color=black>Kekebalan: </color><color=#4B0082>3000 + 3000 (Tipe 1)</color>\n<color=black>Fitur: </color><color=#4B0082>\n<color=black>•</color> Zombie Evolusi Tier 2.\n<color=black>•</color> Warisin kemampuan Hwacha Trisula Ringan tapi nembak 14 trisula sekali tembak.</color>"
+},
+{
+  "theZombieType": 335,
+  "name": "Hwacha Trisula Berat",
+  "introduce": "<align=justified><size=36><color=black>Veteran trisula yang udah malang melintang, pernah buru Snowfur di tundra dan lawan buaya di rawa. Sekarang dia gabung divisi Hwacha sebagai unit terbaru. Dia udah siap bertempur. Ayo, bisa ngindar nggak nih?</color>",
+  "info": "<size=36>Ngeluarin trisula yang nyebar pas mati.\n\n<color=black>Kekebalan: </color><color=#4B0082>6000 + 6000 (Tipe 1)</color>\n<color=black>Fitur: </color><color=#4B0082>\n<color=black>•</color> Zombie Evolusi Tier 3.\n<color=black>•</color> Warisin kemampuan Hwacha Trisula Sedang.\n<color=black>•</color> Kalo mati, trisula yang belum kepake bakal nyebar acak dalam 3,5 tile di jalurnya dan nyakitin semua tanaman yang kena.</color>"
+}
     ]
 }
