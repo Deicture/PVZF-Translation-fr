@@ -1698,7 +1698,7 @@
             "seedType": 1126,
             "name": "Salad-pult",
             "introduce": "<align=justified><size=36><color=black>\"When I was little, everyone asked what kind of Pult I wanted to be,\" says Salad-pult. \"They thought you couldn't have it all. But I decided I wanted everything—even back then.\"</color>",
-            "info": "<size=36>Can catapult mixed projectiles in rapid succession.\n\n<color=black>Damage: </color><color=#8B0000>140/5s</color>\n<color=black>Special: </color><color=#8B0000>42% chance of rapid-firing. Projectiles split into a mix of corn kernels (1/4 chance for butter) and cabbages upon hitting zombies.</color>",
+            "info": "<size=36>Can catapult mixed projectiles in rapid succession.\n\n<color=black>Damage: </color><color=#8B0000>140/5s</color>\n<color=black>Special: </color><color=#8B0000>42% chance of rapid-firing. Projectiles split into a mix of corn on the cobs (1/4 chance for buttered corn) and cracked melons upon hitting zombies.</color>",
             "cost": "<size=36>Fusion Formula: <color=#8B0000>Cabbage-pult + Kernel-pult + Melon-pult</color>"
         },
         {
