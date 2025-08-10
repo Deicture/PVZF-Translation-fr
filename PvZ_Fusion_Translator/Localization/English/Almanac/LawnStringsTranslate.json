@@ -1180,7 +1180,7 @@
             "seedType": 1052,
             "name": "Infernowood",
             "introduce": "<align=justified><size=36><color=black>\"It's sweltering out here!\" Infernowood fumed. Convinced that the intense weather was to blame for its skin, it noted how the flames on its head had also turned a vibrant red. Maybe it was the perfect time to kick off a summer adventure called the \"Sledding Tour.\"</color></size>",
-            "info": "<size=36>Infernowood can provide an even stronger damage boost to projectiles!\n\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Explodes like a Jalapeno upon death.\n<color=black>•</color> Ignites projectiles for the following effects:\n\t-Peas, Potatoes and Low-tier Ignited Peas:\n\t  +40 damage\n\t-Hypno Peas:\n\t  +30 damage, but will only transform killed\n\t  zombies into Peashooter Zombies\n\t-Snow Peas: Turn into regular peas\n\t-Cherries, Bucks, Suns: ×4 damage\n\t-Queen Endoflame's attacks:\n\t  Now drop 15 Suns instead of 5.\n<color=black>•</color> Deals 40 damage-over-time to nearby zombies every 1.5s.</color></size>",
+            "info": "<size=36>Infernowood can provide an even stronger damage boost to projectiles!\n\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Explodes like a Jalapeno upon death.\n<color=black>•</color> Ignites projectiles for the following effects:\n\t-Peas, Potatoes and Low-tier Ignited Peas:\n\t  +40 damage\n\t-Hypno Peas: +30 damage\n\t-Snow Peas: Turn into regular peas\n\t-Cherries, Bucks, Suns: ×4 damage\n\t-Queen Endoflame's attacks:\n\t  Now drop 15 Suns instead of 5.\n<color=black>•</color> Deals 40 damage-over-time to nearby zombies every 1.5s.</color></size>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Torchwood + Jalapeno + Jalapeno</color>"
         },
         {
@@ -2230,7 +2230,7 @@
             "seedType": 1202,
             "name": "Squash Pumpkin",
             "introduce": "<align=justified><size=36><color=black>Squash Pumpkin has never met a match in arm wrestling, has diligently learned various techniques for skipping stones, and is very good at selecting stones—his only bane is that he is very afraid of water and can only watch others skip stones.</color>",
-            "info": "<size=36>The cozy nest of Squashes. When there are specific plants in the shell, it can spawn squashes.\n\n<color=black>Toughness: </color><color=#8B0000>4000</color>\n<color=black>Damage: </color><color=#8B0000>225</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Does nothing in Water Lanes.\n<color=black>•</color> Squash plants in Squash Pumpkins lose their ability to detect enemies.\n<color=black>•</color> When there are Squash or Squashwood plants in Squash Pumpkin, a baby squash with 1/8 damage (minimum 225) and a maximum jump distance of 1.5 Tiles is spawned. It disappears after 6 jumps and regenerates after 3 seconds.\n<color=black>•</color> Baby squashes spawned from Infernal Squashwood releases the Jalapeno effect when it lands.</color>",
+            "info": "<size=36>The cozy nest of Squashes. When there are specific plants in the shell, it can spawn squashes.\n\n<color=black>Toughness: </color><color=#8B0000>4000</color>\n<color=black>Damage: </color><color=#8B0000>225</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Squash plants in Squash Pumpkins lose their ability to detect enemies.\n<color=black>•</color> When there are Squash or Squashwood plants in Squash Pumpkin, a baby squash with 1/8 damage (minimum 225) and a maximum jump distance of 1.5 Tiles is spawned. It disappears after 6 jumps and regenerates after 3 seconds.\n<color=black>•</color> Baby squashes spawned from Infernal Squashwood releases the Jalapeno effect when it lands.\n<color=black>•</color> Abilities do not work in water lanes.</color>",
             "cost": "<size=36>\nFusion Formula: <color=#8B0000>Squash > Pumpkin</color>"
         },
         {
@@ -2685,7 +2685,7 @@
             "seedType": 1267,
             "name": "Hypno Pea",
             "introduce": "<align=justified><size=36><color=black>\"Simply making Zombies into our allies isn't enough. We need to equip them with a little extra firepower, and have them look more like us in the process!\" Hypno Pea says in an alluring tone.\n\n-Written by Mr. Etc.</color>",
-            "info": "<size=36>Shoots hypno peas that summons a Hypnotized Hypno Pea Zombie when a zombie is killed.\n\n<color=black>Damage: </color><color=#8B0000>30/1.5s</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Summons a Hypnotized Hypno Pea Zombie upon kill.\n<color=black>•</color>Hypno Pea Zombie: 270 HP, fires a 20-damage Hypno Pea every 1.5s.</color>",
+            "info": "<size=36>Shoots hypno peas that turn killed zombies into friendly Hypno Pea Zombies.\n\n<color=black>Damage: </color><color=#8B0000>30/1.5s</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Summons a Hypnotized Hypno Pea Zombie upon killing a zombie.\n<color=black>•</color> Abilities do not work in water lanes.\n<color=black>•</color> Hypno Pea Zombie: 270 HP, fires a 20-damage Hypno Pea every 1.5s.</color>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Peashooter + Hypno-shroom</color>"
         },
         {
