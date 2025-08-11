@@ -339,7 +339,7 @@
         {
             "seedType": 241,
             "name": "Coldsnap Bean",
-            "introduce": "<align=justified><size=36><color=black>The plants couldn't figure out how such a tiny bean could chill the air so effectively. But Coldsnap Bean just grinned mischievously. \"You know why Cattail sneezes when she washes clothes? Because she washes 'cat' clothes.\" Maybe the real magic was in its sense of humor.</color>",
+            "introduce": "<align=justified><size=36><color=black>The plants couldn't figure out how such a tiny bean could chill the air so effectively. But Coldsnap Bean just grinned mischievously. \"You know why Cattail sneezes when she washes clothes? Because she washes 'cat' clothes.\" Maybe the real magic was in his sense of humor.</color>",
             "info": "<size=36>Hey↑ Yeh↓！\n\n<color=#4A2900>Unlock Conditions: Complete Wall-nut Billards 1</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Hovering plant.\n<color=black>•</color> Strengthens the snow pea shooters below to launch polar ice peas, increasing the damage and Cryo points inflicted on the zombie by 2 times.</color>",
             "cost": "<size=36>Cost: <color=#8B0000>125</color>\nRecharge: <color=#8B0000>30s</color>"
         },
@@ -2677,7 +2677,7 @@
         {
             "seedType": 1266,
             "name": "Jugger-nut",
-            "introduce": "<align=justified><size=36><color=black>The plants always complain that Jugger-nut is an obstacle at the view, and that despite being so large he does nothing to get rid of the zombies in front of him. \"He's lazy, I don't think he got here on his own,\" some said. \"He rolled down a mountain and ended up here,\" others mocked. But Jugger-nut had no intention of answering them because like his shell, his will was hardened to protect the plants that needed him, after all.\n\n-Written by Ultra Badlander</color>",
+            "introduce": "<align=justified><size=36><color=black>The plants always complain that Jugger-nut is an obstacle to the view, and that despite being so large he does nothing to get rid of the zombies in front of him. \"He's lazy, I don't think he got here on his own,\" some said. \"He rolled down a mountain and ended up here,\" others mocked. But Jugger-nut had no intention of answering them because like his shell, his will was hardened to protect the plants that needed him, after all.\n\n-Written by Ultra Badlander</color>",
             "info": "<size=36>The more types of defensive plants are on the field, the higher its own defense.\n\n<color=black>Toughness: </color><color=#8B0000>32000</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Tall plant.\n<color=black>•</color> Anti-crush, damage received is capped at 1/3 Toughness.\n<color=black>•</color> After Damage Cap, damage is reduced by dividing it by (1 + 0.1×number of defensive plant types on the field).</color>",
             "cost": "<size=36>Fusion Formula: <color=#8B0000>Wall-nut ∞ [Tall-nut] ∞ Wall-nut < Jicamagic (Place On Middle)</color>"
         },
@@ -2740,7 +2740,7 @@
         {
             "seedType": 1275,
             "name": "Fallout Blover",
-            "introduce": "<align=justified><size=36><color=black>Nyan Squash just wanted a stronger fan… buy not even nuclear power can seem to meet her requirements. \"This is a terrible model,\" Zomboss noted. \"All that heat and waste product? Blasted straight out.\"</color>",
+            "introduce": "<align=justified><size=36><color=black>Nyan Squash just wanted a stronger fan… but not even nuclear power can seem to meet her requirements. \"This is a terrible model,\" Zomboss noted. \"All that heat and waste product? Blasted straight out.\"</color>",
             "info": "<size=36>Blasts zombies with high-temp wind laced with ash and nuclear fallout.\n\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Lasts for 10s before disappearing.\n<color=black>•</color> Every second, deals 180 Cremator damage to all zombies on the lawn. Damage is doubled against zombies with the Ember debuff.</color>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Blover + Doom-shroom</color>"
         },
@@ -2818,7 +2818,7 @@
             "seedType": 1286,
             "name": "Hypno Melon",
             "introduce": "<align=justified><size=36><color=black>Hypno Melon loves making friends, painting, and mixing drinks. She's the star bartender at a bar, and her iced hypno melon juice is even more popular than classic cocktails. Some of her more eccentric fans have even dressed up as zombies just to get a taste.</color>",
-            "info": "Lobs hypno melons capable of hypnotizing hordes of zombies.<size=36>\n\n<color=black>Damage: </color><color=#8B0000>120/3s</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Both direct hits and splash damage have a 25% chance to hypnotize zombies with less than 50% max HP.\n<color=black>•</color> Splash damage affects all armor and the zombie itself at the same time.\n<color=black>•</color> When bitten, hypnotizes the attacker, then reverts to a Melon-pult.</color>",
+            "info": "Lobs hypno melons capable of hypnotizing hordes of zombies.<size=36>\n\n<color=black>Damage: </color><color=#8B0000>120/3s</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Both direct hits and splash damage have a 25% chance to hypnotize zombies with less than 50% max HP.\n<color=black>•</color> When bitten, hypnotizes the attacker, then reverts to a Melon-pult.</color>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Melon-pult + Hypno-shroom</color>"
         },
         {
