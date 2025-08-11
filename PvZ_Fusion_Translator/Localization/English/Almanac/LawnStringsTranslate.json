@@ -130,7 +130,7 @@
             "seedType": 18,
             "name": "Torchwood",
             "introduce": "<align=justified><size=36><color=black>Everybody likes and respects Torchwood. They like him for his integrity, for his steadfast friendship, for his ability to greatly maximize pea damage. But Torchwood has a secret: He can't read.</color></size>",
-            "info": "<size=36>Torchwoods turn peas that pass through them into fireballs that deal twice as much damage.\n\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Ignites peas that pass through it, damage +20.\n<color=black>•</color> Turns snow peas back into regular peas. \n<color=black>•</color> Dispels fog in a cross shape.</color></size>",
+            "info": "<size=36>Torchwoods turn peas that pass through them into fireballs that deal twice as much damage.\n\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Ignites peas that pass through it, damage +20.\n<color=black>•</color> Turns snow peas back into regular peas. \n<color=black>•</color> Dispels fog in a 1-tile radius.</color></size>",
             "cost": "<size=36>Cost: <color=#8B0000>175</color>\nRecharge: <color=#8B0000>7.5s</color></size>"
         },
         {
@@ -144,7 +144,7 @@
             "seedType": 20,
             "name": "Plantern",
             "introduce": "<align=justified><size=36><color=black>Plantern defies science. He just does. Other plants eat light and excrete oxygen; Plantern eats darkness and excretes light. Plantern's cagey about how he does it. \"I'm not gonna say 'sorcery,' I wouldn't use the term 'dark forces,' I just... I think I've said enough.\"</color></size>",
-            "info": "<size=36>Planterns light up an area to let you see through fog, and give Lumos levels to plants.\n\n<color=black>Special: </color><color=#8B0000>Dispels fog (5×7 except the corners). Plantern fusions dispel fog in a smaller cross shape.</color>\n<color=#99582a>Lumos System: </color><color=#8B0000>Provides 1 Lumos Level in a 3×3 Grid, which can be stacked to provide strength to other Lumos plants. Refer to its fusions for the list of affected plants.</color></size>",
+            "info": "<size=36>Planterns light up an area to let you see through fog, and give Lumos levels to plants.\n\n<color=black>Special: </color><color=#8B0000>Dispels fog (5×7 except the corners). Plantern fusions dispel fog in a smaller 1-tile radius.</color>\n<color=#99582a>Lumos System: </color><color=#8B0000>Provides 1 Lumos Level in a 3×3 Grid, which can be stacked to provide strength to other Lumos plants. Refer to its fusions for the list of affected plants.</color></size>",
             "cost": "<size=36>Cost: <color=#8B0000>25</color>\nRecharge: <color=#8B0000>15s</color></size>"
         },
         {
@@ -942,14 +942,14 @@
             "seedType": 1018,
             "name": "Pea-shroom",
             "introduce": "<align=justified><size=36><color=black>\"Don't let my size fool you; even a small body can contain a lot of energy,\" Pea-shroom cautions those who underestimate him. \"We all began as tiny mushrooms, making progress a little at a time. With dedication to a sunny breakfast, you can become just like me.\"</color></size>",
-            "info": "<size=36>Pea-shroom shoots further than Puff-shroom.\n\n<color=black>Damage: </color><color=#8B0000>20/2.25s</color></size>",
+            "info": "<size=36>Pea-shroom shoots further than Puff-shroom.\n\n<color=black>Damage: </color><color=#8B0000>20/2.25s</color>\n<color=black>Special: </color><color=#8B0000>Short plant (evades straight-firing projectiles).</color></size>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Peashooter > Puff-shroom</color>"
         },
         {
             "seedType": 1019,
             "name": "Repeat-shroom",
             "introduce": "<align=justified><size=36><color=black>\"Who am I? The double-shot holds the answer!\" exclaims the little Repeat-shroom, proudly flaunting the twin leaves atop its head. With double the firing rate and double the cheer, these spirited beings thrive in groups, eagerly pouring their firepower onto the battlefield, showcasing that size doesn't define their strength.</color></size>",
-            "info": "<size=36>Repeat-shroom can fire two small peas at a time.\n\n<color=black>Damage: </color><color=#8B0000>20×2/2.25s</color></size>",
+            "info": "<size=36>Repeat-shroom can fire two small peas at a time.\n\n<color=black>Damage: </color><color=#8B0000>20×2/2.25s</color>\n<color=black>Special: </color><color=#8B0000>Short plant (evades straight-firing projectiles).</color></size>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Repeater > Puff-shroom</color>"
         },
         {
@@ -963,14 +963,14 @@
             "seedType": 1021,
             "name": "Nut-shroom",
             "introduce": "<align=justified><size=36><color=black>Nut or mushroom? Why worry about labels? Nut-shroom isn't about to tell you it's actually a matsutake in disguise anyway.</color></size>",
-            "info": "<size=36>Nut-shroom can be your stalwart defender despite its size.\n\n<color=black>Toughness: </color><color=#8B0000>2000</color></size>",
+            "info": "<size=36>Nut-shroom can be your stalwart defender despite its size.\n\n<color=black>Toughness: </color><color=#8B0000>2000</color>\n<color=black>Special: </color><color=#8B0000>Short plant (evades straight-firing projectiles).</color></size>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Wall-nut > Puff-shroom</color>"
         },
         {
             "seedType": 1022,
             "name": "Gnome-shroom",
             "introduce": "<align=justified><size=36><color=black>\"As a kid, I believed zombies were nothing more than fairy tale monsters,\" Gnome-shroom said softly. \"Now, don't get it twisted—I'm just restoring them to the fairy tale form they were always supposed to have.\"</color></size>",
-            "info": "<size=36>Shrinks a zombie and makes it fight for you!\n\n<color=black>Special: </color><color=#8B0000>Makes a zombie smaller (cuts Toughness to 70%) and fight for you.</color></size>",
+            "info": "<size=36>Shrinks a zombie and makes it fight for you!\n\n<color=black>Special: </color><color=#8B0000>Short plant. Makes a zombie smaller (cuts Toughness to 70%) and fight for you.</color></size>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Hypno-shroom > Puff-shroom</color>"
         },
         {
@@ -998,7 +998,7 @@
             "seedType": 1026,
             "name": "Charm-shroom",
             "introduce": "<align=justified><size=36><color=black>Charm-shroom speaks with a soft smile, \"Each spore carries my love, and when they bloom, it's like a spring breeze caressing the air.\" She even twisted her head into a heart to express her feelings. Her eyes shine with sincerity, hoping that maybe, just maybe, the zombies will understand her love.</color></size>",
-            "info": "<size=36>Charm-shroom can fire explosive Charm spores.\n\n<color=black>Damage: </color><color=#8B0000>120/1.5s</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Deals 40 no-falloff splash damage in a cross shape.\n<color=black>•</color>  Has a chance to hypnotize zombies with < 60% Toughness (ignoring Type 2 armor).\n<color=black>•</color> When bitten, hypnotizes the attacker, then reverts to a Gutsy-shroom.</color></size>",
+            "info": "<size=36>Charm-shroom can fire explosive Charm spores.\n\n<color=black>Damage: </color><color=#8B0000>120/1.5s</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Deals 40 no-falloff splash damage in a 1-tile radius.\n<color=black>•</color>  Has a chance to hypnotize zombies with < 60% Toughness (ignoring Type 2 armor).\n<color=black>•</color> When bitten, hypnotizes the attacker, then reverts to a Gutsy-shroom.</color></size>",
             "cost": "<size=36>Fusion Formula: <color=#8B0000>Fume-shroom + Scaredy-shroom + Hypno-shroom</color>"
         },
         {
@@ -1033,7 +1033,7 @@
             "seedType": 1031,
             "name": "Sun-shroom",
             "introduce": "<align=justified><size=36><color=black>Sun-shroom hates sun. He hates it so much that when it builds up in his system, he spits it out as fast as he can. He just won't abide it. To him, sun is crass.</color></size>",
-            "info": "<size=36>Sun-shrooms give small sun at first and normal sun later.\n\n<color=black>Sun Output: </color><color=#8B0000>15→25/25s\n<color=black>Growth Time: </color><color=#8B0000>120s</color></size>",
+            "info": "<size=36>Sun-shrooms give small sun at first and normal sun later.\n\n<color=black>Sun Output: </color><color=#8B0000>15→25/25s\n<color=black>Growth Time: </color><color=#8B0000>120s</color>\n<color=black>Special: </color><color=#8B0000>Short plant (evades straight-firing projectiles).</color></size>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Sunflower > Puff-shroom</color>"
         },
         {
@@ -1061,14 +1061,14 @@
             "seedType": 1035,
             "name": "Icicle-shroom",
             "introduce": "<align=justified><size=36><color=black>The Icicle-shrooms didn't set out to master refrigeration technology. During a hiking trip, they forgot their quilts and spent an entire night frozen atop a mountain, frost forming on their heads. Later, Snow Pea, captivated by their frosty appearance, gifted them some icicles to complement their new look.</color></size>",
-            "info": "<size=36>Icicle-shroom fires icicles that slow down enemies.\n\n<color=black>Damage: </color><color=#8B0000>20/1.5s</color>\n<color=#0077b6>Cryo System: </color><color=#8B0000>Inflicts chill and adds 5 Cryo points for every icicle hit. Pierce 2 times. Deals ×4 damage to frozen zombies.</color></size>",
+            "info": "<size=36>Icicle-shroom fires icicles that slow down enemies.\n\n<color=black>Damage: </color><color=#8B0000>20/1.5s</color>\n<color=#0077b6>Cryo System: </color><color=#8B0000>Inflicts chill and adds 5 Cryo points for every icicle hit. Pierce 2 times. Deals ×4 damage to frozen zombies.</color>\n<color=black>Special: </color><color=#8B0000>Short plant (evades straight-firing projectiles).</color></size>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Snow Pea > Puff-shroom</color>"
         },
         {
             "seedType": 1036,
             "name": "Hail-shroom",
             "introduce": "<align=justified><size=36><color=black>\"Smaller in size, same big abilities!\" Hail-shroom's signature poker face never cracks as he delivers his jokes, and that might just be why zombies freeze on the spot.</color></size>",
-            "info": "<size=36>Hail-shroom can temporarily freeze zombies they come into contact with.\n\n<color=black>Special: </color><color=#8B0000>Freezes zombies that eat it in place.</color></size>",
+            "info": "<size=36>Hail-shroom can temporarily freeze zombies they come into contact with.\n\n<color=black>Special: </color><color=#8B0000>Short plant. Freezes zombies that eat it in place.</color></size>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Ice-shroom > Puff-shroom</color>"
         },
         {
@@ -1124,7 +1124,7 @@
             "seedType": 1044,
             "name": "Boom-shroom",
             "introduce": "<align=justified><size=36><color=black>Boom-shroom may be small, but his temper is explosive. Disagree with him, and he might blow up—no eye contact needed. It's best to admire him from afar—just don't get too close, or things might get messy.</color></size>",
-            "info": "<size=36>Boom-shroom will explode when it comes into contact with a zombie.\n\n<color=black>Damage: </color><color=#8B0000>1800 (Cremator)</color>\n<color=black>Special: </color><color=#8B0000>Will explode when zombies get close.</color></size>",
+            "info": "<size=36>Boom-shroom will explode when it comes into contact with a zombie.\n\n<color=black>Damage: </color><color=#8B0000>1800 (Cremator)</color>\n<color=black>Special: </color><color=#8B0000>Short plant. Will explode when zombies get close.</color></size>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Doom-shroom > Puff-shroom</color>"
         },
         {
@@ -1271,7 +1271,7 @@
             "seedType": 1065,
             "name": "Gatling Pea-shroom",
             "introduce": "<align=justified><size=36><color=black>\"We're off to join the army!\" the three little mushrooms shouted with joy. Although their heights didn't meet the requirements and locating small helmets was a struggle, these challenges couldn't hold back the Gatling Pea-shrooms. United as one, they set their sights on becoming the top trio in the army.</color></size>",
-            "info": "<size=36>Can be stacked three times to shoot 12 small peas at once!\n\n<color=black>Damage: </color><color=#8B0000>20×4/2.25s</color></size>",
+            "info": "<size=36>Can be stacked three times to shoot 12 small peas at once!\n\n<color=black>Damage: </color><color=#8B0000>20×4/2.25s</color>\n<color=black>Special: </color><color=#8B0000>Short plant (evades straight-firing projectiles).</color></size>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Gatling Pea > Puff-shroom</color>"
         },
         {
@@ -1425,7 +1425,7 @@
             "seedType": 1087,
             "name": "Jack O' Lantern",
             "introduce": "<align=justified><size=36><color=black>Jack O' Lantern insists that he frequently encounters ghosts, but do they truly exist? Who can say for certain? Perhaps he was simply dragged into another round of Halloween festivities by someone eager for a good scare.</color></size>",
-            "info": "<size=36>In a small area, dispels fog and increase the Lumos Level for the Lumos plants inside.\n\n<color=black>Toughness: </color><color=#8B0000>4000</color>\n<color=#99582a>Lumos System: </color><color=#8B0000>Give 1 Lumos Level in a 3×3 Grid. Restores 150 Toughness per Lumos Level every 15 seconds.</color></size>",
+            "info": "<size=36>In a small area, dispels fog like a Plantern and increase the Lumos Level for the Lumos plants inside.\n\n<color=black>Toughness: </color><color=#8B0000>4000</color>\n<color=#99582a>Lumos System: </color><color=#8B0000>Give 1 Lumos Level in a 3×3 Grid. Restores 150 Toughness per Lumos Level every 15 seconds.</color></size>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Plantern > Pumpkin</color>"
         },
         {
@@ -1880,14 +1880,14 @@
             "seedType": 1152,
             "name": "Buck-shroom",
             "introduce": "<align=justified><size=36><color=black>Buck-shroom has a constant worry: he's terrified of Magnet-shroom accidentally pulling him in. 'Where did my screws go?' As Crazy Dave walks up, it seems he is about to have a brand-new concern.</color>",
-            "info": "<size=36>Buck-shrooms can knockback zombies too.\n\n<color=black>Toughness: </color><color=#8B0000>1000</color>\n<color=black>Damage: </color><color=#8B0000>80/2.25s</color>\n<color=black>Special: </color><color=#8B0000>Metal plant. Projectiles knock back zombies and destroy Type 2 armor with ease.</color>",
+            "info": "<size=36>Buck-shrooms can knockback zombies too.\n\n<color=black>Toughness: </color><color=#8B0000>1000</color>\n<color=black>Damage: </color><color=#8B0000>80/2.25s</color>\n<color=black>Special: </color><color=#8B0000>Metal plant. Short plant. Projectiles knock back zombies and destroy Type 2 armor with ease.</color>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Bucket > Pea-shroom</color>"
         },
         {
             "seedType": 1153,
             "name": "Split Pea-shroom",
             "introduce": "<align=justified><size=36><color=black>The front head declares, 'My turn to use the eyebrow!' The back head replies, 'Guess we'll have to split it.' Born just two minutes apart, their eternal battle over the eyebrow shows no signs of stopping.</color>",
-            "info": "<size=36>Shoots peas both forward and backward.\n\n<color=black>Damage: </color><color=#8B0000>20×3/2.25s</color>\n<color=black>Special: </color><color=#8B0000>Backward peas rebound if no zombie is hit.</color>",
+            "info": "<size=36>Shoots peas both forward and backward.\n\n<color=black>Damage: </color><color=#8B0000>20×3/2.25s</color>\n<color=black>Special: </color><color=#8B0000>Short plant. Backward peas rebound if no zombie is hit.</color>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Split Pea > Puff-shroom</color>"
         },
         {
@@ -2006,7 +2006,7 @@
             "seedType": 1170,
             "name": "Nugget-shroom",
             "introduce": "<align=justified><size=36><color=black>Some plants asked: \"Why is the top of Nugget-shroom red?\", to which he replied, \"Well, let me ask you first...\"</color>",
-            "info": "<size=36>Can reproduce itself!\n\n<color=black>Damage: </color><color=#8B0000>20/1.5s</color>\n<color=black>Special: </color><color=#8B0000>Spawns a new Nugget-shroom in the same tile after 20 Seconds. Each Nugget-shroom can only reproduce once. Upon death, it deals 300 damage to nearby zombies</color>",
+            "info": "<size=36>Can reproduce itself!\n\n<color=black>Damage: </color><color=#8B0000>20/1.5s</color>\n<color=black>Special: </color><color=#8B0000>Short plant. Spawns a new Nugget-shroom in the same tile after 20 Seconds. Each Nugget-shroom can only reproduce once. Upon death, it deals 300 damage to nearby zombies</color>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Potato Mine > Puff-shroom</color>"
         },
         {
@@ -2097,7 +2097,7 @@
             "seedType": 1183,
             "name": "Twinkle-shroom",
             "introduce": "<align=justified><size=36><color=black>Twinkle-shroom would be all over Dave's house, on the floor, on the table, on the dinner plate - Dave always forgot about the Doc's reminder - who cares, Daisy loved the gummy vitamins anyway!</color>",
-            "info": "<size=36>A small mushroom that shoots mini-stars.\n\n<color=black>Damage: </color><color=#8B0000>20×5/2.25 Seconds (Equivalent to the DPS of 10 Peashooters) </color>",
+            "info": "<size=36>A small mushroom that shoots mini-stars.\n\n<color=black>Damage: </color><color=#8B0000>20×5/2.25 Seconds (Equivalent to the DPS of 10 Peashooters) </color>\n<color=black>Special: </color><color=#8B0000>Short plant (evades straight-firing projectiles).</color>",
             "cost": "<size=36>\nFusion Formula: <color=#8B0000>Starfruit > Puff-shroom</color>"
         },
         {
@@ -2111,7 +2111,7 @@
             "seedType": 1185,
             "name": "Lumos Umbrella",
             "introduce": "<align=justified><size=36><color=black>Beyond the fog, she watches, a prophet untouched by mortal blindness. When God willed light into existence, she stepped forth. \"By decree of the Almighty, I have come to the land of Seth. The fire looms, but with this sacred light, I shall protect the lost from its grasp.\"</color>",
-            "info": "<size=36>It can dispel fog and block bullets.\n\n<color=black>Energy Limit: </color><color=#8B0000>2000</color>\n<color=black>Shield & Light Range: </color><color=#8B0000>3×3</color>\n<color=black>Special: <color=#99582a>Lumos System</color></color><color=#8B0000>\n<color=black>•</color> Provides 1 Lumos Level and dispels the fog for the surrounding 3×3 tiles.\n<color=black>•</color> Consumes Energy to block projectiles. Each block consumes Energy based on the damage of the projectile (excluding basketballs).\n<color=black>•</color> Restores (25 x Lumos Level) Energy every second, pausing to rest for 5 seconds when it is completely exhausted.\n<color=black>•</color> Reduces Energy first to absorb damage, where 5 Energy = 1 Toughness.</color>",
+            "info": "<size=36>It can dispel fog and block bullets.\n\n<color=black>Energy Limit: </color><color=#8B0000>2000</color>\n<color=black>Shield & Light Range: </color><color=#8B0000>3×3</color>\n<color=black>Special: <color=#99582a>Lumos System</color></color><color=#8B0000>\n<color=black>•</color> Provides 1 Lumos Level and dispels fog like a Plantern.\n<color=black>•</color> Consumes Energy to block projectiles. Each block consumes Energy based on the damage of the projectile (excluding basketballs).\n<color=black>•</color> Restores (25 x Lumos Level) Energy every second, pausing to rest for 5 seconds when it is completely exhausted.\n<color=black>•</color> Reduces Energy first to absorb damage, where 5 Energy = 1 Toughness.</color>",
             "cost": "<size=36>\nFusion Formula: <color=#8B0000>Plantern + Umbrella Leaf</color>"
         },
         {
@@ -2188,7 +2188,7 @@
             "seedType": 1196,
             "name": "Spring Melon",
             "introduce": "<align=justified><size=36><color=black>\"Holding your breath, focusing, and striking with precision!\" Spring Melon is very patient, always waiting for the perfect moment to make a move. If you ask him how he manages to stay calm, he will always mention his mentor, Imitater.</color>",
-            "info": "<size=36>A big shroom with coiling vines that lob watermelons after charging.\n\n<color=black>Damage: </color><color=#8B0000>120/4s</color>\n<color=black>Range: 4 tiles ahead</color>\n<color=black>Special: </color><color=#8B0000>Charges when not attacking for at least 4.5s to increase damage to (1 + charge time × 0.5) times the base damage. Maximum charge time: 30s.</color>",
+            "info": "<size=36>A big shroom with coiling vines that lob watermelons after charging.\n\n<color=black>Damage: </color><color=#8B0000>120/4s</color>\n<color=black>Range:</color><color=#8B0000> 4 tiles ahead</color>\n<color=black>Special: </color><color=#8B0000>Charges when not attacking for at least 4.5s to increase damage to (1 + charge time × 0.5) times the base damage. Maximum charge time: 30s.</color>",
             "cost": "<size=36>\nFusion Formula: <color=#8B0000>Fume-shroom + Melon-pult</color>"
         },
         {
@@ -2237,7 +2237,7 @@
             "seedType": 1203,
             "name": "Popcorn-pult",
             "introduce": "<align=justified><size=36><color=black>\"The results of this experiment: dense planting is not conducive to plant growth, and the corn ears have obviously shrunk.\" Dave bent down, took out a magnifying glass, and looked at the Popcorn-pult, \"Not suitable for making corn rolls anymore.\" Popcorn-pult said angrily, \"The results of this experiment show that the concentrated ones are all the essence!\"</color>",
-            "info": "<size=36>A tiny Kernel-pult, with a chance to throw a small butter that shrinks zombies.\n\n<color=black>Damage: </color><color=#8B0000>20/3s</color>\n<color=black>Special: </color><color=#8B0000>Has a 25% chance to throw a small butter that deals 40 damage, which shrinks the size and health of non-shrunken zombies by a factor of 0.7, otherwise it will be stunned for 1.5 seconds, while Imps are killed instantly. Prioritizes zombies that are not shrunken.</color>",
+            "info": "<size=36>A tiny Kernel-pult, with a chance to throw a small butter that shrinks zombies.\n\n<color=black>Damage: </color><color=#8B0000>20/3s</color>\n<color=black>Special: </color><color=#8B0000>Short plant. Has a 25% chance to throw a small butter that deals 40 damage, which shrinks the size and health of non-shrunken zombies by a factor of 0.7, otherwise it will be stunned for 1.5 seconds, while Imps are killed instantly. Prioritizes zombies that are not shrunken.</color>",
             "cost": "<size=36>\nFusion Formula: <color=#8B0000>Kernel-pult > Puff-shroom</color>"
         },
         {
@@ -2846,7 +2846,7 @@
             "seedType": 1290,
             "name": "Snipea-shroom Squad",
             "introduce": "<align=justified><size=36><color=black>As the Snipea-shroom Squad says: \"In the great tides of history, what's long divided must unite, and what's long united must divide… you included.\" In downtime, he loves reading Romance of the Three Kingdoms. \"The past is just old tales. Right now I'm the sharpest shot there is!\"</color>",
-            "info": "<size=36>Splits for pinpoint snipes, merges for explosive crowd control.\n\n<color=#4A2900>Usage Condition: Odyssey Mode</color>\n<color=black>Damage: </color><color=#8B0000>500×3/3s (Split), 1500/0.5s (Merged)</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Short plant (evades straight-firing projectiles).\n<color=black>•</color> In split mode, every 6th shot is a headshot dealing 1M damage.\n<color=black>•</color> After 15 shots, merges for 15s before splitting again.\n<color=black>•</color> In merged mode, attacks splash and deal AoE damage in a 1-tile radius.</color>",
+            "info": "<size=36>Splits for pinpoint snipes, merges for explosive crowd control.\n\n<color=#4A2900>Usage Condition: Odyssey Mode</color>\n<color=black>Damage: </color><color=#8B0000>500×3/3s (Split), 1500/0.5s (Merged)</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Short plant (evades straight-firing projectiles).\n<color=black>•</color> In split mode, every 6th shot is a headshot dealing 1M damage.\n<color=black>•</color> After 15 shots, merges for 15s before splitting again.\n<color=black>•</color> In merged mode, attacks do AoE splash damage in a 1-tile radius.</color>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Snipea > Puff-shroom×3</color>"
         },
         {

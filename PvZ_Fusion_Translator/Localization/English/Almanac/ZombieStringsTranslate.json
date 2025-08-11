@@ -489,7 +489,7 @@
         {
             "theZombieType": 123,
             "name": "Broody Gargantuar",
-            "introduce": "<align=justified><size=36><color=black>Broody Gargantuar swings his power pole, and the Imps swarm out from under the ground. These little troublemakers bring plenty of fun, but headaches, too, to their master's life… especially right after he's cracked open a Wall-nut.</color>",
+            "introduce": "<align=justified><size=36><color=black>Broody Gargantuar swings his power pole, and Imps swarm out from under the ground. These little troublemakers bring plenty of fun, but headaches, too, to their master's life… especially right after he's cracked open a Wall-nut.</color>",
             "info": "<size=36>Gargantuar that summons Imps with every smash.\n\n<color=black>Toughness: </color><color=#4B0082>3000</color>\n<color=black>Traits: </color><color=#4B0082>Every time he successfully smashes a plant, an Imp is summoned.</color>"
         },
         {
