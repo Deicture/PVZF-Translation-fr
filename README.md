@@ -1,5 +1,5 @@
 # PVZRH-Multi-language-Mod-Translation files
-The download links for the Multi-language Mod and the translation files of the Multi-language Mod for PvZ: Fusion. Current supported base game version: 2.7. **Source code** for the **Translator mod** can be found [here](https://github.com/Teyliu/PVZFusionTranslation) and source code for the built-in **Better Fusions mods** can be found [here](https://github.com/Nanami-Houko/PVZRH-Better-Fusion-Suite).
+The download links for the Multi-language Mod and the translation files of the Multi-language Mod for PvZ: Fusion. Current supported base game version: 2.8.1. **Source code** for the **Translator mod** can be found [here](https://github.com/Teyliu/PVZFusionTranslation) and source code for the built-in **Better Fusions mods** can be found [here](https://github.com/Nanami-Houko/PVZRH-Better-Fusion-Suite).
 
 # Plants vs Zombies: Fusion | Downloads, Resources, etc. 
 ***
@@ -30,12 +30,11 @@ Chinese 2.7 | Android | [MEGA](https://mega.nz/file/828HwBZD#JPDHvVa8gybSoIF2MFj
 > Looking to play the Multi-Language on Linux? [Click Here](https://discord.com/channels/1320410104587227147/1320555521744437258)
 
 > The Multi-Language version supports the following languages: **English**, **French**, **Italian**, **German**, **Spanish**, **Portuguese**, **Vietnamese**, **Javanese**, **Indonesian**, **Russian**, **Japanese**, and **Korean**. Other contained languages are empty for the moment.
-	Up-to-date - None
- 	Last Updated 2.7 - English, Vietnamese, Spanish
+	Up-to-date - English, Spanish
+	Last Updated 2.7 - Vietnamese, Japanese
 	Last Updated 2.6.1 - Indonesian, Russian 
 	Last Updated 2.5.1 - Portuguese, Javanese
 	Last Updated 2.3.1 - Korean, French
-	Last Updated 2.2.1 / Partially Updated - Japanese
 	Last Updated 2.1.6 / Partially Updated - German, Italian
 	Want to add your language here? Go to our Discord for more info!
 
@@ -108,12 +107,12 @@ French | Erwandawa123, Grymm80, Jedi | Ronny, Mamoru-kun
 Italian | No active translator | Dyna, Pasuqlaw, Daka
 German | No active translator | Stevenzocker, Dynagi
 Spanish | Xabdi, Teyliu | Hairy Nugget, Moonlight, Arooming
-Portuguese |  | Bioxcis (Texture Editor), NickZin006, Prats, Shel (Texture Editor), Dgamer15 (Playtester)
+Portuguese | No active translator | Bioxcis (Texture Editor), NickZin006, Prats, Shel (Texture Editor), Dgamer15 (Playtester)
 Javanese | Xelag, 由羅 (Yura), JustTer, Star Apple
-Vietnamese | Just Eris, CBD Team | 
+Vietnamese | Shion, Cryda, JustNull | 
 Indonesian | 由羅 (Yura), Xelag, Seroja, Star Apple | 
 Russian | Nekosha, LancerX0 (Coder), Kammerer | 
-Japanese | No active translator | devilzwawa, Ryna (Marina), Mamoru-kun
+Japanese | Annie | devilzwawa, Ryna (Marina), Mamoru-kun
 Korea | No active translator | 설이 , ATMnou, 취미로 놀고 먹는 사람
 
 ## Notice to Translators
