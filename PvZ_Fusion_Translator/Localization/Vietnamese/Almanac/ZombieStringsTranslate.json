@@ -209,7 +209,7 @@
             "theZombieType": 35,
             "name": "Zombie Khổng Lồ (35)",
             "introduce": "<size=36><color=black>Khi Zombie Khổng lồ bước đi, mặt đất rung chuyển theo. Khi hắn gầm lên, những con Zombie khác liền im lặng. Hắn chính là hình mẫu Zombie mà những con Zombie khác muốn trở thành. Thế nhưng, hắn vẫn bị ế. .</color>",
-            "info": "<size=36>Đập nát bất kì cây nào trước mặt nó!\n\n<color=black>Máu: </color><color=#4B0082>3000</color>"
+            "info": "<size=36>Đập nát bất kì cây nào trước mặt nó!\n\n<color=black>Máu: </color><color=#4B0082>3000</color>\n<color=black>Đặc Điểm: </color><color=#4B0082>Đập cây trong phạm vi tấn công của nó, có thể đập nhiều cây cùng lúc.</color>"
         },
         {
             "theZombieType": 36,
@@ -463,6 +463,36 @@
         "introduce": "<size=36><color=black>Bọn Zombie đã chán ngấy việc bị Nấm Nguyên Tử cho biến thành tro bụi. Nên giờ chúng cuối cùng đã tạo ra được vũ khí phản công huỷ diệt nhằm khiến cây cối phải chịu đau khổ. Mặc dù cơ thể của lũ Zombie chỉ có thể chịu được một phần ba sức mạnh của Nấm Nguyên Tử, nhưng ít ra có còn hơn không, phải không nhể?.</color>",
         "info": "<size=36>Sức mạnh của Nấm Nguyên Tử nhưng bị giới hạn.\n\n<color=black>Máu: </color><color=#4B0082>1350</color>\n<color=black>Sát Thương: </color><color=#4B0082>1800</color>\n<color=black>Đặc Điểm: </color><color=#4B0082>Sau một thời gian, phát nổ gây 1800 sát thương cho cây xung quanh ở phạm vi 3x3 ô.</color>"
       },
+      {
+        "theZombieType": 121,
+        "name": "<size=28>Zombie Hộp Quà Khổng Lồ (121)",
+        "introduce": "<size=36><color=black>Tìm được một chiếc túi giấy mà Zombie khổng lồ có thể dễ dàng đội lên đầu quả thật rất khó. Dù sao thì, ngay cả việc cầm cái túi lên thôi cũng đã khó khăn rồi. Và mặc dù ai cũng biết Zombie khổng lồ có sức mạnh phi thường, nhưng sự tháo vát cũng quan trọng không kém. </color>",
+        "info": "<size=36>Zombie hộp quà size XXXXXXL\n\n<color=black>Máu: </color><color=#4B0082>3000+1100 (Giáp cấp 1)</color>\n<color=black>Đặc Điểm: </color><color=#4B0082>Khi mất hộp quà bí mất, nó sẽ biến thành 1 Zombie khổng lồ ngẫu nhiên.</color>"
+      },
+      {
+        "theZombieType": 122,
+        "name": "<size=28>Zombie Khổng Lồ Mắt Xanh (122)",
+        "introduce": "<size=36><color=black>Zombie khổng lồ mắt xanh vô cùng nhanh nhẹn, luôn hướng tới các ý tưởng độc đáo. Với những thành tựu đặt được, tiến sĩ Zomboss còn trao cả huy chương danh dự. Tuy nhiên kể cả khi là chiến binh xuất sắc, cậu ta không bào giờ hành quân theo nhịp.</color>",
+        "info": "<size=36>Một con Garg nguy hiểm là một con Garg chay nhanh.\n\n<color=black>Máu: </color><color=#4B0082>3000</color>\n<color=black>Đặc Điểm: </color><color=#4B0082>Tốc đánh, tốc độ di chuyển, và ném Zombie tí hon nhanh gấp đôi so với Zombie khổng lồ.</color>"
+      },
+      {
+        "theZombieType": 123,
+        "name": "<size=28>Zombie Khổng Lồ Mắt Xanh Lá(123)",
+        "introduce": "<size=36><color=black>Mỗi khi Zombie khổng lồ mắt xanh lá cầm cột điện đập xuống đất, đám Zombie tí hon chui lên từ lòng đất góp vui, nhất là khi Zombie khổng lồ vừa mới đập bẹp dí Óc Chó.</color>",
+        "info": "<size=36>Mỗi khi đập là Zombie tí hon xuất hiện.\n\n<color=black>Máu: </color><color=#4B0082>3000</color>\n<color=black>Đặc Điểm: </color><color=#4B0082>Mỗi lần đập cây thì sẽ xuất hiện 1 Zombie tí hon.</color>"
+      },
+      {
+        "theZombieType": 124,
+        "name": "<size=28>Zombie Khổng Lồ Mắt Vàng (124)",
+        "introduce": "<size=36><color=black>Trước khi tấn công vào khu vườn, Zombie khổng lồ mắt vàng thường tập ném Zombie tí hon. Nó muốn phá vỡ kỉ lục thế giới, thế là nó đem theo 5 con Zombie tí hon luôn.</color>",
+        "info": "<size=36>Ném 5 Zombie tí hon cùng lúc.\n\n<color=black>Máu: </color><color=#4B0082>3000</color>\n<color=black>Đặc Điểm: </color><color=#4B0082>Sau khi mất 2/3 máu hiện tại, ném 5 Zombie tí hon cùng 1 lúc.</color>"
+      },
+      {
+        "theZombieType": 125,
+        "name": "<size=28>Zombie Dân Chơi (125)",
+        "introduce": "<size=36><color=black>Hắn nổi tiếng khắp thế giới nhờ những động tác ngầu lòi và kỹ thuật điêu luyện, nhưng với hắn thì tất cả những thứ đó chẳng quan trọng chút nào. Dù sao thì, chỉ có loài 'Zombie' mới có cái thói hám danh thôi. Chứ liên quan gì đến một con Zombie như hắn chứ?</color>",
+        "info": "<size=36>Trùm parkout trong giới Zombie\n\n<color=black>Máu: </color><color=#4B0082>9527</color>\n<color=black>Đặc Điểm: </color><color=#4B0082>Chỉ xuất hiện ở chế độ: Đập Bình. Nếu máu dưới 2/3, x3 tốc độ và có thể di chuyển sang hàng khác.</color>"
+      },
     {
         "theZombieType": 200,
          "name": "<size=28>Đại Thiết Tiềm Hải Độn (200)",
@@ -587,7 +617,7 @@
       "theZombieType": 220,
       "name": "<color=#4B0082>An Bá Tử Khang (220)",
       "introduce": "<size=36><color=black>An Bá Tử Khang khi sinh ra đã được đặt tên gắn liền với sức mạnh cao cả để huỷ diệt cây cối của hắn. \"An\" nghĩa là An Phận, \"Bá\" nghĩa là Bá Đạo, \"Tử\" nghĩa là Tử Thần, \"Khang\" nghĩa là Khoẻ Mạnh. Vậy mà, cứ mỗi khi được nhắc tên, mọi người lại cười phá vì cái tên của hắn",
-      "info": "<size=36>Hắn có thể huỷ diệt hàng phòng thủ của bạn\n\n<color=black>Sát Thương: </color><color=#4B0082>200</color>\n<color=black>Máu: </color><color=#4B0082>24000+24000 (Giáp cấp 1)</color>\n<color=black>Đặc Điểm:  </color><color=#4B0082>\n<color=black>•</color> Xuất hiện trong Luyện Ngục khi bạn chọn Debuff của nó.\n<color=black>•</color> Miễn nhiễm với thôi miên, nuốt chửng và đẩy lùi.\n<color=black>•</color> Chỉ nhận tối đa 5000 sát thương cho các đòn hành quyết.\n<color=black>•</color> Khi xuất hiện, các cây không thể hồi phục, lượng máu được hồi sẽ chuyển thành 10% sát thương chuẩn cho An Bá Tử Khang.\n<color=black>•</color> Khi một cây không phải thuộc dạng Bí Ngô hay Óc Chó, lập tức hành quyết và triệu hồi thêm 1 Zombie Hắc Khổng Hạch Bầu Dục cho mỗi lần như vậy\n<color=black>•</color> Mỗi 3s, nó sẽ nhận được gấp đôi sát thương (Tối đa là 1 triệu), tăng 0,3 tốc chạy(tối đa 3) và hồi 6000 giáp.</color>"
+      "info": "<size=36>Hắn có thể huỷ diệt hàng phòng thủ của bạn\n\n<color=black>Sát Thương: </color><color=#4B0082>200</color>\n<color=black>Máu: </color><color=#4B0082>24000+24000 (Giáp cấp 1)</color>\n<color=black>Đặc Điểm:  </color><color=#4B0082>\n<color=black>•</color> Xuất hiện trong Luyện Ngục khi bạn chọn Debuff của nó.\n<color=black>•</color> Miễn nhiễm với thôi miên, nuốt chửng và đẩy lùi.\n<color=black>•</color> Chỉ nhận tối đa 5000 sát thương cho các đòn hành quyết.\n<color=black>•</color> Khi xuất hiện, các cây không thể hồi phục.\n<color=black>•</color> Khi một cây không phải thuộc dạng Bí Ngô hay Óc Chó, lập tức hành quyết và triệu hồi thêm 1 Zombie Hắc Khổng Hạch Bầu Dục cho mỗi lần như vậy\n<color=black>•</color> Mỗi 3s, nó sẽ nhận được gấp đôi sát thương (Tối đa là 1000000), tăng 0,3 tốc chạy(tối đa 3) và hồi 6000 giáp.</color>"
     },
     {
       "theZombieType": 221,
@@ -833,7 +863,7 @@
             "theZombieType": 332,
             "name": "Cương Thi Vương Giả (332)",
             "introduce": "<size=36><color=black>Một người nông dân bần hàn, người Phong Đô. Khi còn nhỏ đã từng nói với người khác rằng: “Ta có thể thấy ấn ngọc ở nơi kia, ấy là bảo vật của nhà ta.” Người nghe đều cười. Năm hai mươi bốn tuổi, vào năm nạn đói, hắn phất cờ khởi nghĩa, chiếm cứ Phong Đô, rồi tự xưng làm vương. Nhận lấy ngọc tỷ, nhưng tỷ tuột khỏi tay, đập trúng mặt. Năm đó lại càng đói kém, sau đó bị nghĩa quân đánh đuổi, may mắn thoát thân. Lưỡi y bị ngọc tỷ làm thương, người hỏi tên họ, chỉ ú ớ nói được hai chữ “Thi Hoàng' mà thôi.</color>",
-            "info": "<size=36>Là 1 con Zombie sống từ tận thời nhà Tần.\n\n<color=black>Cấp Độ:</color><color=#4B0082> 3</color>\n<color=black>Sát Thương: </color><color=#4B0082>1000</color>\n<color=black>Máu: </color><color=#4B0082>12000</color>\n<color=black>Khả Năng: </color><color=#4B0082>\n<color=black>•</color> Không gây sát thương cắn, mỗi 4-8 giây có thể dịch chuyển xuyên qua cây phía trước và gây 1000 sát thương.\n<color=black>•</color> Một khi dịch chuyển, Cương Thi sẽ luôn gây sát thương lên cây đó kể cả khi được di chuyển sang chỗ khác và đi xuyên qua tối đa 4 cây. Không giới hạn khoảng cách khi bắt đầu dịch chuyển xuyên qua cây.\n<color=black>•</color> Nếu không có cây đằng trước, lướt 1 ô.\n<color=black>•</color> Khi chết thì sẽ phát nổ gây 500 sát thương trong phạm vi 3x3 ô.</color></size>"
+            "info": "<size=36>Là 1 con Zombie sống từ tận thời nhà Tần.\n\n<color=black>Cấp Độ:</color><color=#4B0082> 3</color>\n<color=black>Sát Thương: </color><color=#4B0082>1000</color>\n<color=black>Máu: </color><color=#4B0082>12000</color>\n<color=black>Khả Năng: </color><color=#4B0082>\n<color=black>•</color> Không gây sát thương cắn, mỗi 4-8 giây có thể dịch chuyển xuyên qua cây phía trước và gây 1000 sát thương.\n<color=black>•</color> Một khi dịch chuyển, Cương Thi sẽ luôn gây sát thương lên cây đó kể cả khi được di chuyển sang chỗ khác và đi xuyên qua tối đa 4 cây, kể cả khi cây không đứng cạnh nhau. Không giới hạn khoảng cách khi bắt đầu dịch chuyển xuyên qua cây.\n<color=black>•</color> Nếu không có cây đằng trước, lướt 1 ô.\n<color=black>•</color> Khi chết thì sẽ phát nổ gây 500 sát thương trong phạm vi 3x3 ô.</color></size>"
           },
           {
             "theZombieType": 333,
