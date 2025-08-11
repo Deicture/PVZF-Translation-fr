@@ -234,8 +234,8 @@
         {
             "seedType": 33,
             "name": "Bunga Shuriken",
-            "introduce": "<size=36><color=black>Buat tanaman, kelopak bunga yang muter tanpa ngerusak batangnya itu seni yang jagoan. Beberapa ahli botani mikir Bunga Shuriken mungkin punya hubungan jauh sama Kipas karena kemampuan ini. \"Emang sih, itu skill yang ribet,\" kata Bungan Shuriken dengan gaya sok bijak, \"Tantangan sesungguhnya itu cari gergaji bundar yang ringan dan gambarin pola kelopak di atasnya.\"</color>",
-            "info": "<size=36>Ngerusak zombi jarak deket pake gergaji muter!\n\n<color=black>Spesial: </color><color=#8B0000>Muterin gergajinya pas zombi deket, ngasih 5 damage AOE tiap 0.02 detik ke zombi sekitar.</color>",
+            "introduce": "<size=36><color=black>Buat tanaman, kelopak bunga yang muter tanpa ngerusak batangnya itu seni yang jagoan. Beberapa ahli botani mikir Bunga Shuriken mungkin punya hubungan jauh sama Kipas angin karena kemampuan ini. \"Emang sih, itu skill yang ribet,\" kata Bungan Shuriken dengan gaya sok bijak, \"Tantangan sesungguhnya itu cari gergaji bundar yang ringan dan gambarin pola kelopak di atasnya.\"</color>",
+            "info": "<size=36>Ngerusak zombi jarak deket pake gergaji muter!\n\n<color=black>Spesial: </color><color=#8B0000>Perlahan menghasilkan perisai dan Muterin gergajinya pas zombi deket, ngasih 5 damage AOE tiap 0.02 detik ke zombi di depannya.</color>",
             "cost": "<size=36>Harga: <color=#8B0000>100</color>\nIsi Ulang: <color=#8B0000>7.5 Detik</color>"
         },
         {
@@ -249,8 +249,8 @@
             "seedType": 35,
             "name": "Tungkomatsu",
             "introduce": "<align=justified><size=36><color=black>Pohon ini dapet penghargaan 'Juara Ngebantu Taneman' di salju edisi ke-6! Semua tanaman setuju dia pantes dapet piala itu—dia rela kepalanya diselimuti salju demi jagain temen-temennya tetap hangat. Rispekk gila!</color>",
-            "info": "<size=36>Bisa ngelindungin tanaman dari efek dingin.\n\n<color=black>Keunikan: </color><color=#8B0000>Ngasih kehangatan ke tanaman di area 3x3 biar gak kena efek dingin.</color>",
-            "cost": "<size=36>Harga: <color=#8B0000>50</color>\nIsi Ulang: <color=#8B0000>7.5 detik</color>"
+            "info": "<size=36>Bisa ngelindungin tanaman dari efek dingin.\n\n<color=black>Keunikan: </color><color=#8B0000>Ngasih kehangatan ke tanaman di area 1x1 biar gak kena efek dingin.</color>",
+            "cost": "<size=36>Harga: <color=#8B0000>25</color>\nIsi Ulang: <color=#8B0000>7.5 detik</color>"
         },
         {
             "seedType": 36,
@@ -270,7 +270,7 @@
             "seedType": 38,
             "name": "Lidah Buaya",
             "introduce": "<align=justified><size=36><color=black>Tanaman lain sering nanya kenapa Lidah Buaya nggak jadi dokter kayak sepupunya. Dia jawab, 'Gue juga kuliah kedokteran, tapi cuma bisa nenangin, nggak bisa ngilangin rasa sakit…'</color>",
-            "info": "<size=36>Penembak tahan dingin yang nembakin tetesan air, tapi pas dingin jadi nembak es.\n\n<color=black>Damage:</color><color=#8B0000>20/3 detik</color>\n<color=black>Fitur:</color><color=#8B0000>Kebal silence. Kena bola salju/salju garpu/jamur es dapet 1/1/15 muatan. Bisa pake 1 muatan buat nembak es, damage ×2, ngasih status dingin lv.1, nambahin 40 poin beku. Zombi yang udah beku kena damage ×4</color>\n<color=black>Level Dingin:</color><color=#8B0000>Awalnya 0, kayak Kipli Es. Zombi snow field punya resistensi dingin lv.1, jadi kebal terhadap dingin lv.0. Zombi kereta salju kebal sampai lv.2</color>",
+            "info": "<size=36>Penembak tahan dingin yang nembakin tetesan air, tapi pas dingin jadi nembak es.\n\n<color=black>Damage:</color><color=#8B0000>20/3 detik</color>\n<color=black>Fitur:</color><color=#8B0000>Kebal silence. Saat kena bola salju/tombak salju/jamur es dapet 1/1/15 poin, dan bisa pake 1 poin buat nembak es, damage ×2, ngasih status dingin lv.1, nambahin 40 poin beku. Zombi yang udah beku kena damage ×4</color>\n<color=black>Level Dingin:</color><color=#8B0000>Awalnya 0, kayak Kipli Es. Zombi yang kebal efek dingin bakalan kena efek Deep freeze lv.1, Zomboni baru beku kalau efek Deep freeze udah lv.2</color>",
             "cost": "<size=36>\nHarga: </color><color=#8B0000>75 Matahari</color>\nCooldown: <color=#8B0000>7.5 detik</color>"
         },
 {
@@ -282,7 +282,7 @@
 },
 {
   "seedType": 233,
-  "name": "Frozen Giftbox",
+  "name": "Kotak Beku",
   "introduce": "<align=justified><size=36><color=black>Dari semua kotak hadiah di toko, si Frozen ini paling jarang dipilih. Kenapa? Soalnya… dia sering banget kena perlakuan <i>dingin</i>.</color>",
   "info": "<size=36>Kotak hadiah dengan harga yang cukup terjangkau.\n\n<color=black>Spesial: </color><color=#8B0000>Ngasih 1 tanaman frozen acak sebagai isi hadiahnya.</color>",
   "cost": "<size=36>Biaya: <color=#8B0000>50</color>\nWaktu Muat Ulang: <color=#8B0000>15s</color>"
