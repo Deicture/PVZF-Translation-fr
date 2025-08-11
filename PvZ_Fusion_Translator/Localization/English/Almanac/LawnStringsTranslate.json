@@ -641,7 +641,7 @@
             "seedType": 928,
             "name": "Calamity-shroom",
             "introduce": "<align=justified><size=36><color=black>Everyone wonders how Calamity-shroom subdues massive creatures to serve her. Endless destruction should bring silence... When questioned, she sits alone atop a tower, sipping her dreamy brew: \"Oblivion? No, I simply grant them rebirth within illusions.\"</color>",
-            "info": "<size=36>Turn the tide of battle!\n\n<color=#4A2900>Usage Condition: Odyssey Mode | Initial Selection</color>\n<color=black>Special: </color><color=#8B0000>Hypnotizes zombies in range (same as Doom-shroom) and makes them explode upon death, dealing damage like Doom-shroom.</color>\n<color=black>Odyssey Modifiers:\n<color=#8B0000>1. Doom-shroom explosions now leave no craters | Avarice-shroom Subspecies Unlocked\n2. Summons 3 hypnotized Armored Gargantuars upon explosion. Each hypnotized zombie summons a Zomboni too</color><size=36>",
+            "info": "<size=36>Turn the tide of battle!\n\n<color=#4A2900>Usage Condition: Odyssey Mode | Initial Selection</color>\n<color=black>Special: </color><color=#8B0000>Hypnotizes all zombies in range (same as Doom-shroom) and makes them explode upon death like Doom-shrooms.</color>\n<color=black>Odyssey Modifiers:\n<color=#8B0000>1. Doom-shroom explosions now leave no craters | Avarice-shroom Subspecies Unlocked\n2. Summons 3 hypnotized Armored Gargantuars upon explosion. Each hypnotized zombie summons a Zomboni too</color><size=36>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Curse-shroom + Doom-shroom"
         },
         {
