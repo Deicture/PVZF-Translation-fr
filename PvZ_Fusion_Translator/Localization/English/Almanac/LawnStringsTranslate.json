@@ -2111,7 +2111,7 @@
             "seedType": 1185,
             "name": "Lumos Umbrella",
             "introduce": "<align=justified><size=36><color=black>Beyond the fog, she watches, a prophet untouched by mortal blindness. When God willed light into existence, she stepped forth. \"By decree of the Almighty, I have come to the land of Seth. The fire looms, but with this sacred light, I shall protect the lost from its grasp.\"</color>",
-            "info": "<size=36>It can dispel fog and block bullets.\n\n<color=black>Energy Limit: </color><color=#8B0000>2000</color>\n<color=black>Search & Light Range: </color><color=#8B0000>3×3</color>\n<color=black>Special: <color=#99582a>Lumos System</color></color><color=#8B0000>\n<color=black>•</color> Provides 1 Lumos Level and dispels the fog for the surrounding 3×3 tiles.\n<color=black>•</color> Consumes Energy to block projectiles. Each block consumes Energy based on the damage of the projectile (excluding basketballs).\n<color=black>•</color> Restores (25 x Lumos Level) Energy every second, pausing to rest for 5 seconds when it is completely exhausted.\n<color=black>•</color> Reduces Energy first to absorb damage, where 5 Energy = 1 Toughness.</color>",
+            "info": "<size=36>It can dispel fog and block bullets.\n\n<color=black>Energy Limit: </color><color=#8B0000>2000</color>\n<color=black>Shield & Light Range: </color><color=#8B0000>3×3</color>\n<color=black>Special: <color=#99582a>Lumos System</color></color><color=#8B0000>\n<color=black>•</color> Provides 1 Lumos Level and dispels the fog for the surrounding 3×3 tiles.\n<color=black>•</color> Consumes Energy to block projectiles. Each block consumes Energy based on the damage of the projectile (excluding basketballs).\n<color=black>•</color> Restores (25 x Lumos Level) Energy every second, pausing to rest for 5 seconds when it is completely exhausted.\n<color=black>•</color> Reduces Energy first to absorb damage, where 5 Energy = 1 Toughness.</color>",
             "cost": "<size=36>\nFusion Formula: <color=#8B0000>Plantern + Umbrella Leaf</color>"
         },
         {
@@ -2754,7 +2754,7 @@
         {
             "seedType": 1277,
             "name": "Death Star",
-            "introduce": "<align=justified><size=36><color=black>\"Stars, grant me the power of destruction!\" Death Star chants a dreadful incantation, summoning meteors to obliterate everything he despises. But why is the meteor black? \"Probably because it burned up a little while passing through the atmosphere.\"</color>",
+            "introduce": "<align=justified><size=36><color=black>\"I could destroy almost the entire planet if I wanted to,\" boasts Death Star, \"and they'd all blame it on the biggest star in the sky...\"</color>",
             "info": "<size=36>Transforms himself into a Doom Meteor and crash into the ground.\n\n<color=black>Special: </color><color=#8B0000>Disappears after 3s and summons a Doom Meteor that deals 1800 area damage on impact and splits into 180 spore stars each dealing 20 damage.</color>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Starfruit + Doom-shroom</color>"
         },
