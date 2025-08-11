@@ -503,7 +503,7 @@
      "theZombieType": 125,
      "name": "Zombi Parkour",
      "introduce": "<size=39><color=#3D1400>Es mundialmente famoso por sus movimientos llamativos y sus habilidades magistrales, pero nada de eso le importa. Al fin y al cabo, solo a los humanos les importa otorgar títulos ostentosos por fama y talento. ¿Qué tiene eso que ver con un zombi?</color>",
-     "info": "<size=39>...¿Qué? Solo esta disponible en Rompejarrones, supongo.\n\n<color=#3D1400>Dureza: </color><color=#4B0082>9527</color>\n<color=#3D1400>Características:</color> <color=#4B0082>Cambia de fila al perder 2/3 de su dureza, y se vuelve 3 veces mas rápido.</color>"
+     "info": "<size=39>...¿Qué?\n\n<color=#3D1400>Dureza: </color><color=#4B0082>9527</color>\n<color=#3D1400>Características:</color> <color=#4B0082>Cambia de fila al perder 2/3 de su dureza, y se vuelve 3 veces mas rápido. Es exclusivo de Rompejarrones, pero puede aparecer de zombis con cajita.</color>"
    },
    {
       "theZombieType": 200,

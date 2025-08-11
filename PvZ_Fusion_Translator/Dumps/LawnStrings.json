@@ -2930,7 +2930,7 @@
             "seedType": 1286,
             "name": "魅惑西瓜投手",
             "introduce": "<color=#3D1400>魅惑西瓜投手喜欢交友、绘画，以及调酒，她是一家酒吧的明星调酒师，调制的魅惑西瓜汁加冰比传统鸡尾酒更受欢迎。她的一些疯狂的客人甚至会为了喝到魅惑西瓜汁而假扮僵尸。</color>",
-            "info": "充满魅力的西瓜投手，投出可以魅惑成群僵尸的魅惑瓜。\n\n<color=#3D1400>伤害：</color><color=red>120/3秒</color>\n<color=#3D1400>特点：①</color><color=red>子弹的直击和溅射均有25%概率魅惑血量低于50%的僵尸</color>\n<color=#3D1400>②</color><color=red>被啃咬时魅惑该僵尸并变为西瓜投手</color>\n<color=#3D1400>融合配方：</color><color=red>魅惑菇+西瓜投手</color>",
+            "info": "充满魅力的西瓜投手，投出可以魅惑成群僵尸的魅惑瓜。\n\n<color=#3D1400>伤害：</color><color=red>120/3秒</color>\n<color=#3D1400>特点：①</color><color=red>子弹的直击和溅射均有25%概率魅惑血量低于50%的僵尸</color>\n<color=#3D1400>②</color><color=red>溅射能同时伤害所有防具和本体</color>\n<color=#3D1400>③</color><color=red>被啃咬时魅惑该僵尸并变为西瓜投手</color>\n<color=#3D1400>融合配方：</color><color=red>魅惑菇+西瓜投手</color>",
             "cost": ""
         },
         {
