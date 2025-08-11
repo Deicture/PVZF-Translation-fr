@@ -20,16 +20,12 @@ The download links for the Multi-language Mod and the translation files of the M
  PvZ Fusion Version  |  Platform  |  Download Links 
 ------ | ------ | ------
 **\_Redist (Install these if you have problem launching the game)** | PC | [MEGA](https://mega.nz/file/gzU2QTIY#R71lWGYvXCxG4WBtzLyCRkkHV-WGqKB84rXXR4ikOSg)
-**Multi-Language 2.7 Version 2** | PC | [MEGA](https://mega.nz/file/svtnQBKY#Ldl0K8N6V6Yei7VMg8nYFFo9gAlg2MB_xVvYNTF4q5c) [Google Drive](https://drive.google.com/file/d/1H9OiXRULuP5OIJYcVsQMI842jgGpamLX/view?usp=sharing)
-Multi-Language 2.6.1 Version 3 hotfix | PC | [MEGA](https://mega.nz/file/Yu1mnawC#nEzWY8_HwGO-Sku1jrLQSD5sffcWK8-KgPkA9T0Kqvw) [Google Drive](https://drive.google.com/file/d/1StU_nHRDNQYRBhM_t9xHDTXYBU0rMBjW/view?usp=sharing)
-English Lite 2.6.1 hotfix | PC | [MEGA](https://mega.nz/file/N6kiSLaY#Md5dLwhnDfsSKxsS02ZkxPmjyyN59o4tBQXO3XqUBmY) [Google Drive](https://drive.google.com/file/d/1HWQDvh5wBtWFrRt9KFpAM8qTF7VXAIld/view?usp=sharing)
+**Multi-Language 2.8.1 Public Beta** | PC | [MEGA](https://mega.nz/file/5vdCkS7I#WJfqHpvpCmjj6j-Jy9QRDkuHoRw3aJfd-hayPSt4JXo) [Google Drive](https://drive.google.com/file/d/1H9OiXRULuP5OIJYcVsQMI842jgGpamLX/view?usp=sharing)
+**Multi-Language 2.7 Version 2** | PC | [MEGA](https://mega.nz/file/svtnQBKY#Ldl0K8N6V6Yei7VMg8nYFFo9gAlg2MB_xVvYNTF4q5c) [Google Drive](https://drive.google.com/file/d/1lD234O36m8OgdqxKlTm3HdCnn7v3mMe5/view?usp=sharing)
 **English 2.7 by Nvdtn19** | Android |  [Google Drive](https://drive.google.com/drive/folders/13-zefuw1geoi_Ky7919GQ3Can65guXrJ) [Archive](https://archive.org/download/pvz-fusion-fanmade-android-english-version-by-nvdtn19/PvZ%20Fusion%20Fanmade%20Android%20English%20version%20by%20Nvdtn19/)
-English 2.6.1 by Nvdtn19 | Android |  [MEGA](https://mega.nz/file/a7xSAahT#vCK7k7PLrhln0cqwoizi0iAlLwGlQcHjQad_6qQk9Rw ) [Google Drive](https://drive.google.com/file/d/1VYHlGq7FfBOqf-VXSlxWE3P4y3nnYfpj/view?usp=drive_link) [GoFile](https://gofile.io/d/6Frq2H)
 Chinese 2.8.1 | PC | MEGA [Google Drive](https://drive.google.com/file/d/1FMIwzZOgh0X-l_vmZJunYlCP5GkZr0XP/view?usp=sharing)
 Chinese 2.7 | PC | [MEGA](https://mega.nz/file/9jcD3axL#qcKxtmzSkUctB3roVQvB6uAgjb5HjANSzDMlGzrsCXQ) [Google Drive](https://drive.google.com/file/d/1zti4_E81JSzmSI3j0NJhG1rLc35gvliA/view?usp=sharing)
 Chinese 2.7 | Android | [MEGA](https://mega.nz/file/828HwBZD#JPDHvVa8gybSoIF2MFjf65UU1xtiH59ppuNrDfWV4MQ) [Google Drive](https://drive.google.com/file/d/1oFuWJw8ZnOdSlgdaOAGa8NMsLI1CfzzZ/view?usp=sharing)
-Chinese 2.6.1 | PC | [MEGA](https://mega.nz/file/JntEhRiJ#ltSIoi6THZp4_julWvHwcPkexG9Zm0KNv-fOn8eBcJQ) [Google Drive](https://drive.google.com/file/d/1YpxYTqqHNM9dWZiUSLgJSikux_Wps68y/view?usp=drive_link)
-Chinese 2.6.1 | Android | [MEGA](https://mega.nz/file/9j0Q1ZzK#SxIgNW-uTDFxHWGE2f5PSknRkZUcAkRfAfU_ktMSVwo) [Google Drive](https://drive.google.com/file/d/1o5H6v5xF2poerciy999CpeVy60eofuJg/view?usp=sharing)
 
 > Looking to play the Multi-Language on Linux? [Click Here](https://discord.com/channels/1320410104587227147/1320555521744437258)
 
