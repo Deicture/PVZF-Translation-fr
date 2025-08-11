@@ -501,7 +501,7 @@
             "seedType": 908,
             "name": "Gatling Icicle-shroom",
             "introduce": "<align=justified><size=36><color=black>The little puff-shrooms who once shouted, \"We are going to join the army!\" have matured into veterans with resolute eyes. Wherever and whenever, the Gatling Icicle-shroom Company is committed to ensuring that the mission is accomplished.</color></size>",
-            "info": "<size=36>Can be stacked three times to shoot 12 icicles at once!\n\n<color=#4A2900>Usage Condition: Odyssey Mode | Initial Selection</color>\n<color=black>Damage: </color><color=#8B0000>20×4×3/1.5s</color>\n<color=#0077b6>Cryo System: </color><color=#8B0000>Each hit adds 5 Cryo points. Icicles deal 4 times more damage to frozen enemies. Each icicle can pierce 2 times.</color>\n<color=black>Odyssey Modifiers:\n</color><color=#8B0000>1. Increased penetration to infinite times\n2. Increased damage to Frozen zombies by 10x | Gatling Sunburst-shroom Subspecies Unlocked</color></size>",
+            "info": "<size=36>Can be stacked three times to shoot 12 icicles at once!\n\n<color=#4A2900>Usage Condition: Odyssey Mode | Initial Selection</color>\n<color=black>Damage: </color><color=#8B0000>20×4×3/1.5s</color>\n<color=#0077b6>Cryo System: </color><color=#8B0000>Each hit adds 5 Cryo points. Icicles deal 4 times more damage to frozen enemies. Each icicle can pierce 2 times.</color>\n<color=black>Odyssey Modifiers:\n</color><color=#8B0000>1. Increased penetration to infinite times, damage +50%\n2. Increased damage to Frozen zombies by 10x | Gatling Sunburst-shroom Subspecies Unlocked</color></size>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Gatling Snow > Puff-shroom×3</color>"
         },
         {
