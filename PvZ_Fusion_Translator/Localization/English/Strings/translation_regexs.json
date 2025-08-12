@@ -5,7 +5,7 @@
   "^开发人员名单\\s+": "<size=16>Credits\nProgram, Director: 蓝飘飘fly\nAnimation: 蓝飘飘fly\nArtist, Visual Director: 机鱼吐司\nVideo Editor: 梦珞\nAnimation Helper: 射命丸文\nArt Helper: 蓝蝶</size>",
   "第(\\d+)已完成": "Level {0} Completed",
   "^确定退出吗？\\s+": "Are you sure you want to exit?\nProgress will not be saved!\nExcept for Survival Mode.",
-  "下一阶段：(\\d+)分(\\d+)秒\\s+当前水分：(\\d+)/100\\s+当前成长阶段：(\\d+)/2\\s+成长值：(\\d+)/100": "<size=39>Cooldown: {0}:{1}\nHydration: {2}/100\nStage: {3}/2\nFavorability: {4}/100",
+  "下一阶段：(\\d+)分(\\d+)秒\n当前水分：(\\d+)/100\n当前成长阶段：(\\d+)/2\n成长值：(\\d+)/100": "<size=39>Cooldown: {0}:{1}\nHydration: {2}/100\nStage: {3}/2\nFavorability: {4}/100",
   "-------UI - Buttons": "UI - Buttons-------",
   "查看([^\\s：]+)": "View {0}",
   "返回([^\\s：]+)": "<size=34>Back to {0}",
