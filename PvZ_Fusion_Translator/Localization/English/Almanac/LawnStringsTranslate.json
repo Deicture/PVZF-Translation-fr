@@ -2713,7 +2713,7 @@
             "seedType": 1271,
             "name": "Threepeater Commando",
             "introduce": "<align=justified><size=36><color=black>This trio in particular showed serious dedication at the Pea Squad Bootcamp, always firing in unison, and settling arguments with each other in record time. They earned the title of First Threepeater Commando, and had the 3 stars split across each of their helmets.\n\n-Written by Mr. Etc.</color>",
-            "info": "<size=36>Fires copious amounts of peas in three lanes.\n\n<color=#4A2900>Usage Condition: Odyssey Mode</color>\n<color=black>Damage: </color><color=#8B0000>(20×6)×3/1.5s</color>\n<color=black>Ultimate: </color><color=#8B0000>60×3/0.02s</color>\n<color=black>Special: </color><color=#8B0000>6% chance to shoot a barrage of snow peas each attack, lasting 5s.</color>",
+            "info": "<size=36>Fires copious amounts of peas in three lanes.\n\n<color=#4A2900>Usage Condition: Odyssey Mode</color>\n<color=black>Damage: </color><color=#8B0000>(20×6)×3/1.5s</color>\n<color=black>Ultimate: </color><color=#8B0000>60×3/0.02s</color>\n<color=black>Special: </color><color=#8B0000>6% chance to shoot a barrage of peas each attack, lasting 5s.</color>",
             "cost": "<size=36>Fusion Formula: <color=#8B0000>Threepeater + Pea-storm Commando</color>"
         },
         {
@@ -2783,7 +2783,7 @@
             "seedType": 1281,
             "name": "Sprout-pult",
             "introduce": "<align=justified><size=36><color=black>People say Sprout-pult holds the magical power to shrink zombies. And the secret, they claim, is in the bounce. But only Popcorn-pult knows the real reason: there's a tiny pat of butter hidden inside. The cabbage leaves are just too thick for it to pop out… so of course it needs to bounce first to shrink a zombie.</color>",
-            "info": "<size=36>Lobs sprouts capable of passing on the shrinking effect.\n\n<color=black>Damage: </color><color=#8B0000>1500</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Short plant (evades straight-firing projectiles).\n<color=black>•</color>Shots bounce twice. If a shot hits a shrunken zombie, it gains the ability to shrink the next zombies hit.</color>",
+            "info": "<size=36>Lobs sprouts capable of passing on the shrinking effect.\n\n<color=black>Damage: </color><color=#8B0000>1500</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Short plant (evades straight-firing projectiles).\n<color=black>•</color> Shots bounce twice. If a shot hits a shrunken zombie, it gains the ability to shrink the next zombies hit.</color>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Cabbage-pult > Puff-shroom</color>"
         },
         {
