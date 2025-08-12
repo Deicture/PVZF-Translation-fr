@@ -380,7 +380,7 @@
         },
         {
             "seedType": 249,
-            "name": "Swordmaster Starfruit</size>",
+            "name": "Swordmaster Starfruit",
             "introduce": "<align=justified><size=36><color=black>\"I have fought across 3,000 miles of battlefield, my blade halting millions in their tracks.\" The Swordmaster Starfruit, a lover of fine drinks and poetry, takes great pride in his impeccable cosplaying skills. With a sly smile, he adds, \"My sword never bleeds, for it is merely a decoration.\"</color></size>",
             "info": "<size=36>A guest from afar, I think you will want to become friends.\n\n<color=#4A2900>Unlock Conditions: Beat The Gods 1</color>\n<color=black>Damage: </color><color=#8B0000>(200×5+30×20)/6s</color>\n<color=black>Special: </color><color=#8B0000>Each attack unleashes 5 swords that pierce infinitely, dealing 200 damage each. Additionally, it inflicts 30 damage to all zombies within the surrounding grid, repeating this 20 times.</color></size>",
             "cost": "<size=36>Cost: <color=#8B0000>325</color>\nRecharge: <color=#8B0000>30s</color></size>"
@@ -3005,4 +3005,3 @@
         }
     ]
 }
-
