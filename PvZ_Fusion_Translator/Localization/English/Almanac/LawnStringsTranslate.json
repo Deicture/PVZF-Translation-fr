@@ -2929,7 +2929,7 @@
         {
             "seedType": 359,
             "name": "Sun-shroom (TD)",
-            "introduce": "<align=justified><size=36><color=black>Sun-shroom hates sun. He hates it so much that when it builds up in his system, he spits it out as fast as he can. He just won't abide it. To him, sun is crass</color>",
+            "introduce": "<align=justified><size=36><color=black>Sun-shroom hates sun. He hates it so much that when it builds up in his system, he spits it out as fast as he can. He just won't abide it. To him, sun is crass.</color>",
             "info": "<size=36>Sun-shrooms give small sun at first and normal sun later.\n\n<color=black>Sun Output: </color><color=#8B0000>5→15/25s</color>\n<color=black>Growth Time: </color><color=#8B0000>120s</color>\n<color=black>Special: </color><color=#8B0000>Short plant, stackable.</color>\n<color=black>Upgrades: </color><color=#8B0000>\n<color=black>• Basic Upgrade: </color>(10 Sun) Sun Production Time → 16.67s\n<color=black>• Elite Upgrade Path 1: </color>(25 Sun) Grows immediately and produces Sun\n<color=black>• Elite Upgrade Path 2: </color>(25 Sun) Now produces 2 Suns at once</color>",
             "cost": "<size=36>Cost: <color=#8B0000>25</color>\nRecharge: <color=#8B0000>7.5s</color></size>"
         },
