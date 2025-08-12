@@ -2984,7 +2984,7 @@
         },
         {
             "seedType": 801,
-            "name": "Bomber Snipea ",
+            "name": "Bomber Snipea",
             "introduce": "<align=justified><size=36>A famous baker renowned for his cherry pie—though he often forgets the most essential ingredient: cherries. But fret not! Once he deals with this zombie, bam, cherry pie, complete!<color=black></color>",
             "info": "<size=36>Create cherry explosions at the location of his targets.\n\n<color=#4A2900>Usage Condition: Odyssey Mode</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Creates cherry explosions at the location of his targets every 2s.\n<color=black>•</color> Headshots every 8 attacks. \n<color=black>Odyssey Modifiers:\n</color><color=#8B0000>Benefits from Gatling Cherrybomber's Modifiers</color>",
             "cost": "<size=36>Fusion Formula: <color=#8B0000>Snipea + Gatling Cherrybomber</color>"
@@ -3005,3 +3005,4 @@
         }
     ]
 }
+
