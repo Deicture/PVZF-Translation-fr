@@ -809,7 +809,7 @@
             "seedType": 952,
             "name": "Rot-pult",
             "introduce": "<align=justified><size=36><color=black>\"Big brother, big sister, am I not cute?\" Rot-pult winks at every passerby. \"Buy a garlic, please.\" He works hard at his sales pitch. Why would such a small child be out selling garlic? \"Grandpa's movies are too boring, and our house is so full of garlic we can't even store it anymore,\" he explains.</color>",
-            "info": "<size=36>Lobs mini garlic, which split on impact, with a chance for rapid-fire or spread-fire.\n\n<color=#4A2900>Usage Condition: Odyssey Mode | Unlockable with Wither-pult</color>\n<color=black>Damage: </color><color=#8B0000>60/2s</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Short plant (evades straight-firing projectiles).\n<color=black>•</color> Inherits rapid-fire and spread-fire chances from Wither-pult.\n<color=black>•</color> Projectiles no longer do splash damage, and splits into a mini-garlic-cabbage, a mini-garlic-kernel (1/4 chance for mini-garlic-butter) and a garlic-melon slice.\n<color=black>•</color> These projectiles behave like their non-garlic mini counterparts (See Popcorn-pult, Slice-pult and Sprout-pult) and each grants 1 Poison point, boosting damage by (5×Poison points)</color>",
+            "info": "<size=36>Lobs mini garlics, which split on impact, with a chance for rapid-fire or spread-fire.\n\n<color=#4A2900>Usage Condition: Odyssey Mode | Unlockable with Wither-pult</color>\n<color=black>Damage: </color><color=#8B0000>60/2s</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Short plant (evades straight-firing projectiles).\n<color=black>•</color> Inherits rapid-fire and spread-fire chances from Wither-pult.\n<color=black>•</color> Projectiles no longer do splash damage, and splits into a mini-garlic-cabbage, a mini-garlic-kernel (1/4 chance for mini-garlic-butter) and a garlic-melon slice.\n<color=black>•</color> These projectiles behave like their non-garlic mini counterparts (See Popcorn-pult, Slice-pult and Sprout-pult) and each grants 1 Poison point, boosting damage by (5×Poison points).</color>",
             "cost": "<size=36>Conversion Formula: <color=#8B0000>×3 + Melon-pult <-> Puff-shroom</color>"
         },
         {
@@ -2642,7 +2642,7 @@
         {
             "seedType": 1261,
             "name": "Melon-nut",
-            "introduce": "<align=justified><size=36><color=black>Whenever zombies come to buy watermelons, the melon stand owner Aloe Aqua always sells them the biggest one—the Melon-nut. After the zombies crack their teeth on it, Aloe Aqua refers them to a nearby dental clinic to get them fixed, and, naturally, that clinic also belongs to Aloe Aqua.</color>",
+            "introduce": "<align=justified><size=36><color=black>Whenever zombies come to buy watermelons, the melon stand owner Aloe Alba always sells them the biggest one—the Melon-nut. After the zombies crack their teeth on it, Aloe Alba refers them to a nearby dental clinic to get them fixed, and, naturally, that clinic also belongs to Aloe Alba.</color>",
             "info": "<size=36>Grows a temporary shield and retaliates with a melon after taking a certain amount of damage.\n\n<color=black>Toughness: </color><color=#8B0000>8000</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> When taking damage, stores 1.5× the damage taken as Retaliation Charge. If the damage exceeds 100/500/1000, stores 3/4.5/6× the damage instead.\n<color=black>•</color> Retaliation Meter is capped at max HP.\n<color=black>•</color> When the Retaliation Meter exceeds 1000, consumes all charges to launch a watermelon dealing the same amount of damage and gains a shield of equal value that fully decays over 5s.</color>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Wall-nut + Melon-pult</color>"
         },
@@ -2664,7 +2664,7 @@
             "seedType": 1264,
             "name": "Bamblade",
             "introduce": "<align=justified><size=36><color=black>\"We're supposed to be barriers, yet zombies always gnaw on us like we're snacks,\" Bamblade laments. Determined, she sets out to master tougher parrying and counterattack skills. Whether she's succeeded is unclear, but she sure looks tastier than ever.</color>",
-            "info": "Bamblock that steadily generates a protective shield.<size=36>\n\n<color=black>Toughness: </color><color=#8B0000>1500</color>\n<color=black>Special: </color><color=#8B0000>Generates 60 points of Shield every 1.5s, up to (max HP×1 + 60) points.</color>",
+            "info": "<size=36>Bamblock that steadily generates a protective shield.\n\n<color=black>Toughness: </color><color=#8B0000>1500</color>\n<color=black>Special: </color><color=#8B0000>Generates 60 points of Shield every 1.5s, up to (max HP×1 + 60) points.</color>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Bamblock + Saw-me-not</color>"
         },
         {
@@ -2783,7 +2783,7 @@
             "seedType": 1281,
             "name": "Sprout-pult",
             "introduce": "<align=justified><size=36><color=black>People say Sprout-pult holds the magical power to shrink zombies. And the secret, they claim, is in the bounce. But only Popcorn-pult knows the real reason: there's a tiny pat of butter hidden inside. The cabbage leaves are just too thick for it to pop out… so of course it needs to bounce first to shrink a zombie.</color>",
-            "info": "<size=36>Lobs sprouts capable of passing on the shrinking effect.\n\n<color=black>Damage: </color><color=#8B0000>1500</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Short plant (evades straight-firing projectiles).\n<color=black>•</color> Shots bounce twice. If a shot hits a shrunken zombie, it gains the ability to shrink the next zombies hit.</color>",
+            "info": "<size=36>Lobs sprouts capable of passing on the shrinking effect.\n\n<color=black>Damage: </color><color=#8B0000>40/3s</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Short plant (evades straight-firing projectiles).\n<color=black>•</color> Shots bounce twice. If a shot hits a shrunken zombie, it gains the ability to shrink the next zombies hit.</color>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Cabbage-pult > Puff-shroom</color>"
         },
         {
@@ -2811,7 +2811,7 @@
             "seedType": 1285,
             "name": "Golden-nut",
             "introduce": "<align=justified><size=36><color=black>Zombies just can't resist biting into Golden-nut's shell to see what's inside. It's not magic; there's simply a rumor among zombies that he's a chocolate truffle wrapped in gold foil.</color>",
-            "info": "<size=36> Wall-nut made of gold, with even higher toughness; can use Ultimate to boost max HP and restore health.\n\n<color=black>Toughness: </color><color=#8B0000>8000</color>\n<color=black>Ultimate: </color><color=#8B0000>Costs 1000 Coins, Cooldown: 5s; Increases max Toughness by 1000 and restores health equal to its full Toughness</color>",
+            "info": "<size=36> Wall-nut made of gold, with even higher toughness; can use Ultimate to boost max HP and restore health.\n\n<color=black>Toughness: </color><color=#8B0000>8000</color>\n<color=black>Ultimate: </color><color=#8B0000>Costs 1000 Coins, Cooldown: 5s; Increases max Toughness by 1000 and restores health equal to its full Toughness.</color>",
             "cost": "<size=36>Upgrade Cost: </color><color=#8B0000>1000 Coins, 1 instance of Ultimate included</color>"
         },
         {
@@ -2874,7 +2874,7 @@
             "seedType": 351,
             "name": "Sunrise-shroom (TD)",
             "introduce": "<align=justified><size=36><color=black>A seasoned sunlight banker, Sunrise-shroom offers high interest on your deposits.\"You chose a time deposit,\" he says sternly to a frustrated Twin Solar-nut. \"Withdrawals aren't allowed just yet.\"</color>",
-            "info": "<size=36>A visionary sun producer that absorbs and multiplies nearby sun, paying out in bursts.\n\n<color=black>Sun Output: </color><color=#8B0000>25/25s</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Absorbs dropped Sun within a 5×5 area, multiplies their value by ×1.3, and stores them.\n<color=black>•</color> Releases as much Sun as possible in batches of 25 along with the next production.</color>\n<color=black>Upgrades: </color><color=#8B0000>\n<color=black>• Basic Upgrade: </color>(60 Sun) Sun Production Speed +50%\n<color=black>• Elite Upgrade Path 1: </color>(160 Sun) Sun Production Speed +200%\n<color=black>• Elite Upgrade Path 2: </color>(160 Sun) Sun Value Multiplier ×2</color>",
+            "info": "<size=36>A visionary sun producer that absorbs and multiplies nearby sun, paying out in bursts.\n\n<color=black>Sun Output: </color><color=#8B0000>25/25s</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Absorbs dropped Sun within a 5×5 area, multiplies their value by ×1.3, and stores them.\n<color=black>•</color> Releases as much Sun as possible in batches of 25 along with the next production.</color>\n<color=black>Upgrades: </color><color=#8B0000>\n<color=black>• Basic Upgrade: </color>(60 Sun) Sun Production Speed +50%\n<color=black>• Elite Upgrade Path 1: </color>(150 Sun) Sun Production Speed +200%\n<color=black>• Elite Upgrade Path 2: </color>(150 Sun) Sun Value Multiplier ×2</color>",
             "cost": "<size=36>Cost: <color=#8B0000>150</color>\nRecharge: <color=#8B0000>7.5s</color></size>"
         },
         {

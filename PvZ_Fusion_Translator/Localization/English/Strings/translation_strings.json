@@ -1452,7 +1452,7 @@
   "分支二，射速+100%": "<size=22>Upgrade Path 2: Attack Speed +100%",
   "分支一，生产速度+200%": "<size=19>Upgrade Path 1: Sun Production Speed +200%",
   "分支二，增幅效果+100%": "<size=21>Upgrade Path 2: Sun Value Multiplier ×2",
-  "分支一，爆炸范围+50%，伤害+100%": "<size=14>Upgrade Path 1: Attack Damage 100%, Explosion Radius +50%",
+  "分支一，爆炸范围+50%，伤害+100%": "<size=14>Upgrade Path 1: Attack Damage +100%, Explosion Radius +50%",
   "分支二，射速+200%": "<size=22>Upgrade Path 2: Attack Speed +200%",
   "分支一，血量上限+200%": "<size=22>Upgrade Path 1: HP +200%",
   "分支二，生命恢复+100": "<size=19>Upgrade Path 2: Regen +100% (100 HP/3s)",
