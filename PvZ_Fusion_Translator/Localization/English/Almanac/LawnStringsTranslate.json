@@ -2818,7 +2818,7 @@
             "seedType": 1286,
             "name": "Hypno Melon",
             "introduce": "<align=justified><size=36><color=black>Hypno Melon loves making friends, painting, and mixing drinks. She's the star bartender at a bar, and her iced hypno melon juice is even more popular than classic cocktails. Some of her more eccentric fans have even dressed up as zombies just to get a taste.</color>",
-            "info": "Lobs hypno melons capable of hypnotizing hordes of zombies.<size=36>\n\n<color=black>Damage: </color><color=#8B0000>120/3s</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Both direct hits and splash damage have a 25% chance to hypnotize zombies with less than 50% max HP.\n<color=black>•</color> When bitten, hypnotizes the attacker, then reverts to a Melon-pult.</color>",
+            "info": "<size=36>Lobs hypno melons capable of hypnotizing hordes of zombies.\n\n<color=black>Damage: </color><color=#8B0000>120/3s</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Both direct hits and splash damage have a 25% chance to hypnotize zombies with less than 50% max HP.\n<color=black>•</color> When bitten, hypnotizes the attacker, then reverts to a Melon-pult.</color>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Melon-pult + Hypno-shroom</color>"
         },
         {
