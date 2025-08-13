@@ -606,7 +606,7 @@
             "seedType": 907,
       "name": "Lan Tử Đinh (907)",
       "introduce": "<align=justified><size=36><color=#3D1400>Ngày tận thế đang đến gần, và chỉ 1 chút nữa thôi, tôi sẽ chứng minh rằng những định kiến tôi là 1 loại cây yếu nhất trong những cây siêu cấp, hãy chờ đấy Liên Pháo Anh Đào!</color>",
-      "info": "<size=36>Bắn ra viên đạn hình nấm nguyên tử.\n\n<color=#4A2900>Điều Kiện Sử Dụng: Chế Độ Du Lịch|Chọn Lúc Ban Đầu\n<color=#3D1400>Sát Thương:</color><color=red> 300*4/1.5 giây</color>\n<color=#3D1400>Khả Năng:</color><color=red> Bắn ra 4 viên đạn nguyên tử, sau 15 viên đạn thì viên đạn thứ 16 sẽ nổ và gây 1800 sát thương, sau đó ngừng bắn trong 4.5 giây</color>\n\n<color=#3D1400>Buff 1:</color><color=red> Xóa thời gian ngừng bắn sau khi bắn ra đạn nguyên tử to<color=#3D1400>|Mở khoá công thức:</color> Tử Cơ Thương Linh</color></color>\n<color=#3D1400>Buff 2: </color><color=red>Lan Tử Đinh và Tử Cơ Thương Linh đều có thể bắn ra đạn nguyên tử to sau 3 viên đạn\n<color=#3D1400>Thực Diệt Linh:</color><color=red> Chỉ kích hoạt trong 3 màn, khi đó toàn bộ đạn đậu nguyên tử, đạn nguyên tử và đạn nguyên tử to được bắn ra đều có đặc tính của Nấm Nguyên Tử</color>",
+      "info": "<size=36>Bắn ra viên đạn hình nấm nguyên tử.\n\n<color=#4A2900>Điều Kiện Sử Dụng: Chế Độ Du Lịch|Chọn Lúc Ban Đầu\n<color=#3D1400>Sát Thương:</color><color=red> 300*4/1.5 giây</color>\n<color=#3D1400>Khả Năng:</color><color=red> \n<color=black>•</color> Bắn ra 4 viên đạn nguyên tử, sau 15 viên đạn thì viên đạn thứ 16 sẽ nổ và gây 1800 sát thương, sau đó ngừng bắn trong 4.5 giây.\n<color=black>•</color> Đạn nguyên tử có thể bắn xuyên giáp cấp 2, Zombie sẽ bị sát thương trực tiếp.</color>\n\n<color=#3D1400>Buff 1:</color><color=red> Xóa thời gian ngừng bắn sau khi bắn ra đạn nguyên tử to<color=#3D1400>|Mở khoá công thức:</color> Tử Cơ Thương Linh</color></color>\n<color=#3D1400>Buff 2: </color><color=red>Lan Tử Đinh và Tử Cơ Thương Linh đều có thể bắn ra đạn nguyên tử to sau 3 viên đạn\n<color=#3D1400>Thực Diệt Linh:</color><color=red> Chỉ kích hoạt trong 3 màn, khi đó toàn bộ đạn đậu nguyên tử, đạn nguyên tử và đạn nguyên tử to được bắn ra đều có đặc tính của Nấm Nguyên Tử</color>",
             "cost": "\n<size=36><color=#3D1400>Công Thức: <color=red>Đậu Súng Máy + Nấm Nguyên Tử</color>"
         },
         {
@@ -2013,7 +2013,7 @@
       "seedType": 1155,
       "name": "Gai Lửa (1155)",
       "introduce": "<align=justified><size=36><color=#3D1400>Liệu bạn có biết, tính tới bản 2.8 đã có tận 425 cây trong Almanac, và nếu đọc được cái này thì xin chúc mừng, bạn vừa tốn 10 giây để đọc cái thứ vô nghĩa này! À và nó sẽ cập nhật mọi phiên bản đấy!</color>",
-      "info": "<size=36>Được tạo ra từ Gai Bốc Lửa\n\n<color=#3D1400>Sát Thương: </color><color=red>20/giây\n<color=#3D1400>Khả Năng:</color><color=red> Không thể ghép với cây khác. Có thể dùng Chậu Băng để biến nó thành Gai Đất thường.</color>",
+      "info": "<size=36>Được tạo ra từ Gai Bốc Lửa\n\n<color=#3D1400>Sát Thương: </color><color=red>20/giây\n<color=#3D1400>Khả Năng:</color><color=red> Không thể ghép với cây khác. Có thể chọc xe tuyết.</color>",
       "cost": "\n<size=36>"
     },
     {
@@ -2286,7 +2286,7 @@
       "seedType": 1194,
       "name": "Đậu Huỷ Diệt (1194)",
       "introduce": "<align=justified><size=36><color=#3D1400>Đậu Huỷ Diệt và Nấm Nhút Nhát Huỷ Diệt là bạn thân của nhau, người này nóng vội thì người kia chậm chạp. Cả 2 đều là đôi bạn thân với nhau đấy, và làm ơn, đừng có nhầm lẫn nấm gattling doom với con nấm nhút nhát này giùm!!!</color>",
-      "info": "<size=36>Sát thương tăng dần, cặp đôi trời sinh với nấm nhút nhát huỷ diệt!\n\n<color=#3D1400>Sát Thương:</color><color=red> 40/1.5 giây</color>\n<color=#3D1400>Khả năng:</color><color=red> \n<color=black>•</color> Mỗi khi tấn công thì sẽ tăng 1 sát thương, tối đa là 100.\n<color=black>•</color> Đạn có thể đốt chảy bởi Gốc Lửa Huỷ Diệt.\n<color=black>•</color> Nếu có Nấm Nhút Nhát Huỷ Diệt ở ô đằng sau nó, thì cả 2 sẽ có chỉ số là là <Sát Thương Của Đậu Huỷ Diệt>/<Tốc Bắn Của Nấm Nhút Nhát Huỷ Diệt></color>",
+      "info": "<size=36>Sát thương tăng dần, cặp đôi trời sinh với nấm nhút nhát huỷ diệt!\n\n<color=#3D1400>Sát Thương:</color><color=red> 40/1.5 giây</color>\n<color=#3D1400>Khả năng:</color><color=red> \n<color=black>•</color> Mỗi khi tấn công thì sẽ tăng 1 sát thương, tối đa là 100.\n<color=black>•</color> Đạn nguyên tử có thể bắn xuyên giáp cấp 2, Zombie sẽ bị sát thương trực tiếp.\n<color=black>•</color> Đạn có thể đốt chảy bởi Gốc Lửa Huỷ Diệt.\n<color=black>•</color> Nếu có Nấm Nhút Nhát Huỷ Diệt ở ô đằng sau nó, thì cả 2 sẽ có chỉ số là là <Sát Thương Của Đậu Huỷ Diệt>/<Tốc Bắn Của Nấm Nhút Nhát Huỷ Diệt></color>",
       "cost": "\n<size=36><color=#3D1400>Công Thức: </color><color=red>Đậu Hà Lan + Nấm Nguyên Tử</color>"
     },
     {
@@ -2937,7 +2937,7 @@
       "seedType": 1287,
       "name": "Chậu Băng (1287)",
       "introduce": "<align=justified><size=36><color=#3D1400>Mùa hè này là mùa của Chậu Băng, vô số cây thường tìm đếm cậu ấy để hạ nhiệt. À mà đừng kêu cấy dưa hấu tới đây, không ai có thể ăn nổi mấy quả dưa hấu băng đâu.</color></color>",
-      "info": "<size=36>Có khả năng tản nhiệt và giúp cây trở về bình thường.\n\n<color=#3D1400>Khả Năng: </color><color=red>Mỗi 10 giây có thể hạ nhiệt cây lửa và biến nó thành cây thường. Bao gồm: Bí Lửa, Gai Lửa, Óc Chó Lửa, Bí Ngô Lửa.</color>",
+      "info": "<size=36>Có khả năng tản nhiệt và giúp cây trở về bình thường.\n\n<color=#3D1400>Khả Năng: </color><color=red>Mỗi 10 giây có thể hạ nhiệt cây lửa và biến nó thành cây thường. Bao gồm: Bí Lửa, Óc Chó Lửa, Bí Ngô Lửa.</color>",
       "cost": "\n<size=36><color=#3D1400>Công Thức: <color=red>Chậu Hoa + Nấm Băng</color>"
     },
     {
@@ -2972,7 +2972,7 @@
       "seedType": 1292,
       "name": "Bão Tố Mê Hoặc (1292)",
       "introduce": "<align=justified><size=36><color=#3D1400>Bão Tố Thôi Miên là 1 fan cuồng Zombie, cô ấy luôn cố gắng sơn mọi viên đậu của mình với hy vọng có thể gửi gắm thật nhiều đạn đậu thôi miên vào các Zombie của cô ấy</color></color>",
-      "info": "<size=36>Gấp 3 lần kích hoạt kĩ năng!\n\n<color=#4A2900>Điều Kiện Sử Dụng: Chế Độ Du Lịch\n<color=#3D1400>Sát Thương: </color><color=red>30*6/1.5 giây</color>\n<color=#3D1400>Khả Năng: </color><color=red>Có mọi đặc tính của Đậu Thôi Miên. Mỗi lần bắn sẽ có tỉ lệ 2% kích hoạt Tuyệt Kĩ.\n<color=#3D1400>Tuyệt Kĩ:</color><color=red> Mỗi 0.02 giây bắn 3 đạn đậu thôi miên. Kéo dài trong 5 giây.</color></color>",
+      "info": "<size=36>Bão tố với khả năng tạo Zombie?\n\n<color=#4A2900>Điều Kiện Sử Dụng: Chế Độ Du Lịch\n<color=#3D1400>Sát Thương: </color><color=red>30*6/1.5 giây</color>\n<color=#3D1400>Khả Năng: </color><color=red>Có mọi đặc tính của Đậu Thôi Miên. Mỗi lần bắn sẽ có tỉ lệ 2% kích hoạt Tuyệt Kĩ.\n<color=#3D1400>Tuyệt Kĩ:</color><color=red> Mỗi 0.02 giây bắn 3 đạn đậu thôi miên. Kéo dài trong 5 giây.</color></color>",
       "cost": "\n<size=36><color=#3D1400>Công Thức: <color=red>Đậu Bão Tố + Nấm Thôi Miên</color>"
     },
 
@@ -3111,8 +3111,15 @@
       "seedType": 1915,
       "name": "Từ Quang Mê Hoặc (1915)",
       "introduce": "<align=justified><size=36><color=#3D1400>Là phù thuỷ tối thượng xứ Neighborville, khả năng đặc biệt của cậu ta là dùng những sắt vụn để tạo ra các Zombie.",
-      "info": "<size=36>Sức mạnh điện từ lớn, có thể biến đổi vật sắt hút được thành Zombie thôi miên.\n\n<color=blue>Từ MC屑鱼 Mod</color></color>\n<color=#3D1400>Khả Năng: </color><color=red>\n<color=black>•</color> Phân loài của Từ Quang Đào, chuyển đổi qua lại bằng Nấm Thôi Miên và Bom Anh Đào.\n<color=black>•</color> Phạm vi hút tương tự như Nam Châm Phát Sáng.\n<color=black>•</color> Có thể hút vật sắt và tạo ra Zombie tướng ứng với đầy đủ máu. Có thể sử dụng vặt sắt lên nó tương tự như Nam Châm Thôi Miên.\n<color=black>•</color> Gây 300 sát thương mỗi 0.5 giây lên Hắc Khổng Hạch và Khổng Hạch Phi Thương.\n\n\n<color=#3D1400>Buff Du Lịch: \n<color=#3D1400>Tua Bin Điện Từ:</color><color=red> Phạm vi hút của Từ Quang Mê Hoặc tăng gấp đôi.\n<color=#3D1400>Vạn Từ Vương:</color><color=red> Từ Quang Mê Hoặc có thể hút 3 vật sắt cùng 1 lúc và x3 sát thương lên Hắc Khổng Hạch và Khổng Hạch Phi Thương.\n<color=#3D1400>Tinh Binh Cường Tướng:</color><color=red> Khi hút vật sắt thì có thể triệu hồi Zombie tối thượng ngẫu nhiên.</color></color>",
+      "info": "<size=36>Sức mạnh điện từ lớn, có thể biến đổi vật sắt hút được thành Zombie thôi miên.\n\n<color=blue>Từ MC屑鱼 Mod</color></color>n<color=#4A2900>Điều Kiện Sử Dụng: Chế Độ Du Lịch\n<color=#3D1400>Khả Năng: </color><color=red>\n<color=black>•</color> Phân loài của Từ Quang Đào, chuyển đổi qua lại bằng Nấm Thôi Miên và Bom Anh Đào.\n<color=black>•</color> Phạm vi hút tương tự như Nam Châm Phát Sáng.\n<color=black>•</color> Có thể hút vật sắt và tạo ra Zombie tướng ứng với đầy đủ máu. Có thể sử dụng vặt sắt lên nó tương tự như Nam Châm Thôi Miên.\n<color=black>•</color> Gây 300 sát thương mỗi 0.5 giây lên Hắc Khổng Hạch và Khổng Hạch Phi Thương.\n\n\n<color=#3D1400>Buff Du Lịch: \n<color=#3D1400>Tua Bin Điện Từ:</color><color=red> Phạm vi hút của Từ Quang Mê Hoặc tăng gấp đôi.\n<color=#3D1400>Vạn Từ Vương:</color><color=red> Từ Quang Mê Hoặc có thể hút 3 vật sắt cùng 1 lúc và x3 sát thương lên Hắc Khổng Hạch và Khổng Hạch Phi Thương.\n<color=#3D1400>Tinh Binh Cường Tướng:</color><color=red> Khi hút vật sắt thì có thể triệu hồi Zombie tối thượng ngẫu nhiên.</color></color>",
       "cost": "\n<size=36><color=#3D1400>Công Thức: </color><color=red>Từ Quang Đào + Nấm Thôi Miên"
+     },
+     {
+      "seedType": 1916,
+      "name": "Chiến Long Đại Đế (1916)",
+      "introduce": "<align=justified><size=36><color=#3D1400>Là sự kết hợp giữa Anh Long Đại Đế và công nghệ tối mật của Gfish Corps, giờ đây Chiến Long Đại Đế, hoặc là Anh Long Máy hay cơ khí gì đó, sẽ gần như bất hoại trước mọi loại Zombie.",
+      "info": "<size=36>Tuyệt tác công nghệ của Gfish Corps, càng nhận nhiều sát thương thì càng nhận ít sát thương\n\n<color=blue>Từ MC屑鱼 Mod</color></color>\n<color=#4A2900>Điều Kiện Sử Dụng: Chế Độ Du Lịch\n<color=#3D1400>Sát Thương: </color><color=red>1000/1.75 giây</color>\n<color=#3D1400>Máu: </color><color=red>16000</color>\n<color=#3D1400>Khả Năng: </color><color=red>\n<color=black>•</color> Khi mới ghép sẽ có lượng máu bằng 20 lần lượng máu tối đa\n<color=black>•</color> Miễn nhiễm với nghiền nát, tối đa sát thương nhận vào là 16000.\n<color=black>•</color> Giảm 10% sát thương nhận vào, có thể nhận sát thương thay cho cây trong phạm vi 3x3 ô.\n<color=black>•</color> Hồi máu vượt ngưỡng mức cơ bản là 16000 (không giới hạn), và có thể hồi 3200 máu cho mỗi vật sắt. Nếu vật sắt rơi ra mà không dùng đến thì khi biến mất sẽ hồi tổng cộng 3200/tất cả Thuỷ Long Cơ Khí và Thuỷ Quái Cơ Khí. \n<color=black>•</color> Đòn tấn công cũng sẽ gây sát thương lan, sát thương cắn sẽ bằng 1% máu hiện tại và sẽ hồi 40% máu bằng sát thương gây ra. Sau khi cắn thì sẽ bắn đạn pháo gây 1000 sát thương lan.\n<color=black>•</color> Mỗi 40 giây có thể kích hoạt Hành Quyết, khi đó sẽ nuốt chửng Zombie thường.\n<color=black>•</color> Nếu nhận quá 32000 sát thương thì lần cắn tiếp theo sẽ luôn nuốt chửng Zombie thường, đồng thời sẽ giảm 150 sát thương tối đa nhận vào, tăng 1% giảm sát thương nhận vào. Tối đa sẽ là 4000 sát thương tối đa có thể nhận vào và giảm 90% sát thương có thể nhận vào.\n<color=black>•</color> Có thể kích hoạt trang thái hấp hối nếu nhận sát thương chí mạng, khi đó máu sẽ không dưới 1 trong 5 giây, và có thể nuốt chửng Zombie tiếp theo ngay lập tức. Có thể kích hoạt mỗi 10 giây.\n\n\n<color=#3D1400>Buff Du Lịch: \n<color=#3D1400>Thị Huyết Như Mệnh:</color><color=red> x3 khả năng hồi máu.\n<color=#3D1400>Chiến Binh Tận Thế:</color><color=red> Thời gian hồi Hành Quyết còn 15 giây, lượng máu bị mất cần để kích hoạt Hành Quyết còn 16000 máu.</color></color>",
+      "cost": "\n<size=36><color=#3D1400>Công Thức: </color><color=red>Phi Long Thăng Thiên + Thuỷ Quái Cơ Khí"
      },
      {
       "seedType": 1918,

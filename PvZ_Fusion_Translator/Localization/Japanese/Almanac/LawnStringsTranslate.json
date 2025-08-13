@@ -305,14 +305,14 @@
             "seedType": 236,
             "name": "霜梨",
             "introduce": "<align=justified><size=36><color=black>「木から落ちて、長いことここにいるんだ。「木の下に天才的な頭脳がいなかったのは残念だ。でも、少なくとも私は物理学について考えることができる」。彼はいつ休憩するのだろう？それは脳なしゾンビがいつ邪魔をするかによるね。",
-            "info": "<size=36>噛まれると衝撃波を放ち、ダメージを与えて、『冷気』を付与する。\n\n<color=blue>SHUTTLEコラボ プラント</color>\n<color=black>耐久力：</color><color=#8B0000> 4000</color>\n<color=#0077b6>氷結システム：</color><color=#8B0000>噛まれた時、3秒ごとに小さな衝撃波を放ち、20ダメージを与えて、『冷気』を付与し、35氷結ポイントを追加する。</color>",
+            "info": "<size=36>噛まれると衝撃波を放ち、ダメージを与えて、冷気を与えする。\n\n<color=blue>SHUTTLEコラボ プラント</color>\n<color=black>耐久力：</color><color=#8B0000> 4000</color>\n<color=#0077b6>氷結システム：</color><color=#8B0000>噛まれた時、3秒ごとに小さな衝撃波を放ち、20ダメージを与えて、冷気を与えし、35氷結ポイントを追加する。</color>",
             "cost": "<size=36>コスト：<color=#8B0000>150</color>\nクールタイム：<color=#8B0000>30秒</color>"
         },
         {
             "seedType": 237,
             "name": "氷の先端リリー",
             "introduce": "<align=justified><size=36><color=black>氷の先端リリーは 「奴らの首を切れ！」とよく叫ぶが、温情主義者ではない。雪山武術の達人として、彼の氷を刃に変える技は、どんな不純な侵入者も阻止することができる。</color>",
-            "info": "<size=36>各攻撃で扇状に5本の氷刃を放つ。\n\n<color=blue>SHUTTLEコラボ プラント</color>\n\n<color=black>ダメージ：</color><color=#8B0000>20×5/1.5秒</color>\n<color=#0077b6>氷結システム：</color>氷刃は2回貫通し、『冷気』を付与、氷結ポイントを5加算し、凍結したゾンビに×4のダメージを与える。</color>\n<color=black>スペシャル：</color><color=#8B0000>同じ列にゾンビがいる場合のみ攻撃する。",
+            "info": "<size=36>各攻撃で扇状に5本の氷刃を放つ。\n\n<color=blue>SHUTTLEコラボ プラント</color>\n\n<color=black>ダメージ：</color><color=#8B0000>20×5/1.5秒</color>\n<color=#0077b6>氷結システム：</color>氷刃は2回貫通し、冷気を与え、氷結ポイントを5加算し、凍結したゾンビに4倍のダメージを与える。</color>\n<color=black>スペシャル：</color><color=#8B0000>同じ列にゾンビがいる場合のみ攻撃する。",
             "cost": "<size=36>コスト：<color=#8B0000>325</color>\nクールタイム：<color=#8B0000>30秒</color>"
         },
         {
@@ -354,7 +354,7 @@
             "seedType": 243,
             "name": "バーガー砲",
             "introduce": "<size=36><color=#3D1400>バーガー砲の出自について、プラントたちはよく首をかしげる。特に、彼が他のプラントを積み重ねてパワーアップしているのを見るときはなおさらだ。実は彼、デイブが植物でタコスを作ろうとした結果生まれた副産物なのだ。「実際の商品は異なる場合があります。具材は各自でご用意ください。」</color>",
-            "info": "<size=36>ハイブリッドエディションからの贈り物！\n\n<color=#3D1400>ダメージ：</color><color=red>20×2/3秒</color>\n<color=#3D1400>耐久力：</color><color=red>1000</color>\n\n<color=#3D1400>太陽生産量：</color><color=red>25/25秒</color>\n<color=#3D1400>スペシャル：</color><color=red>ランダムな弾丸を発射する。サボテン、スイカパルト、氷スイカを使用してアップグレードし、最高レベルに到達できる。\nサボテン強化ーーレベル：0→1、HP：1000→2000、攻撃間隔：3→2.5秒、発射数：2→4、新しい弾丸：スパイク＆バター＆スクワッシュ；\nスイカパルト強化ーーレベル：1→2、HP：2000→3000、ダメージ：30→40、発射数：4→6、新しい弾丸：炎スイカ＆スイカ；\n氷スイカ強化ーーレベル：2→3,攻撃間隔：2.5→2秒、発射数：6→8、新しい弾丸：氷スイカ＆雪ピー＆冷凍胞子＆破滅つらら<color=red></color>",
+            "info": "<size=36>ハイブリッドエディションからの贈り物！\n\n<color=#3D1400>ダメージ：</color><color=red>20×2/3秒</color>\n<color=#3D1400>耐久力：</color><color=red>1000</color>\n\n<color=#3D1400>太陽生産量：</color><color=red>25/25秒</color>\n<color=#3D1400>スペシャル：</color><color=red>背高植物。ランダムな弾丸を発射する。サボテン、スイカパルト、氷スイカを使用してアップグレードし、最高レベルに到達できる。\nサボテン強化ーーレベル：0→1、HP：1000→2000、攻撃間隔：3→2.5秒、発射数：2→4、新しい弾丸：スパイク＆バター＆スクワッシュ；\nスイカパルト強化ーーレベル：1→2、HP：2000→3000、ダメージ：30→40、発射数：4→6、新しい弾丸：炎スイカ＆スイカ；\n氷スイカ強化ーーレベル：2→3,攻撃間隔：2.5→2秒、発射数：6→8、新しい弾丸：氷スイカ＆雪ピー＆冷凍胞子＆破滅つらら<color=red></color>",
             "cost": "<size=36>コスト：<color=red>150</color>\nクールタイム：<color=red>30秒</color>"
         },
         {
@@ -442,6 +442,146 @@
             "cost": "<size=36>コスト：<color=#8B0000>750</color>\nクールタイム<color=#8B0000>30秒</color>"
         },
         {
+            "seedType": 350,
+            "name": "ピーマワリ（ＴＤ）",
+            "introduce": "<align=justified><size=36><color=black>「実は、前にいるピーシューターは私の兄弟なんです」とヒマワリがみんなに説明した。「生まれた時からずっと一緒。私は太陽を作るのが好きで、彼は私の代わりにゾンビを倒してくれるの。」でも、みんな本当のことを知っている。 あの陽気なピー兄弟は、完全なるシスコン。 だって、ヒマワリに近づいたゾンビは、なぜかいつも太陽光で蒸発するのだから。</color>",
+            "info": "<size=36>ピーマワリは、太陽を生成する太陽弾丸を発射できます。\n\n<color=blue>Rキーを押すと元に戻せます</color>\n<color=black>ダメージ：</color><color=#8B0000>20/1.5秒</color>\n<color=black>スペシャル：</color><color=#8B0000>弾がゾンビに当たると、太陽を5つ落とします。</color>\n<color=black>強化リスト：</color><color=#8B0000>\n<color=black>• 基本強化：</color>（80太陽）攻撃力と攻撃速度が20%増加\n<color=black>• 高度強化経路1：</color>（200太陽）攻撃力が200%増加\n<color=black>• 高度強化経路2：</color>（200太陽）攻撃速度が100%増加</color>",
+            "cost": "<size=36>コスト：<color=#8B0000>200</color>\nクールタイム：<color=#8B0000>7.5秒</color></size>"
+        },
+        {
+            "seedType": 351,
+            "name": "サンシャインキノコ（ＴＤ）",
+            "introduce": "<align=justified><size=36><color=black>A seasoned sunlight banker, サンシャインキノコ offers high interest on your deposits.\"You chose a time deposit,\" he says sternly to a frustrated Twin Solar-nut. \"Withdrawals aren't allowed just yet.\"</color>",
+            "info": "<size=36>A visionary sun producer that absorbs and multiplies nearby sun, paying out in bursts.\n\n<color=black>太陽生産量：</color><color=#8B0000>25/25秒</color>\n<color=black>スペシャル：</color><color=#8B0000>\n<color=black>•</color> Absorbs dropped Sun within a 5×5 area, multiplies their value by ×1.3, and stores them.\n<color=black>•</color> Releases as much Sun as possible in batches of 25 along with the next production.</color>\n<color=black>強化リスト：</color><color=#8B0000>\n<color=black>• 基本強化：</color>（60太陽）太陽生産量速度が50%増加\n<color=black>• 高度強化経路1：</color>（160太陽）太陽生産量速度が200%増加\n<color=black>• 高度強化経路2：</color>（160太陽）太陽値が2倍</color>",
+            "cost": "<size=36>コスト：<color=#8B0000>150</color>\nクールタイム：<color=#8B0000>7.5秒</color></size>"
+        },
+        {
+            "seedType": 352,
+            "name": "チェリー爆弾シューター（ＴＤ）",
+            "introduce": "<align=justified><size=36><color=black>Meet チェリー爆弾シューター, the ultimate plant killer. He's more irritable than ever—who would've thought the warm and friendly Cherryshooter would swallow another special cherry? Don't push your luck with him. That cherry stuck in his throat might just be his next shot—his face is already turning red!</color>",
+            "info": "<size=36>Shoots out explosive cherries that explode on impact.\n\n<color=blue>Rキーを押すと元に戻せます</color>\n<color=black>ダメージ：</color><color=#8B0000>20/3s</color>\n<color=black>スペシャル：</color><color=#8B0000>Immune to explosive cherries and deals AoE damage.</color>\n<color=black>強化リスト：</color><color=#8B0000>\n<color=black>• 基本強化：</color>（160太陽）攻撃力が50%増加\n<color=black>• 高度強化経路1：</color>（400太陽）攻撃力が100%増加、爆発範囲が50%増加\n<color=black>• 高度強化経路2：</color>（400太陽）攻撃速度が200%増加</color>",
+            "cost": "<size=36>コスト：<color=#8B0000>400</color>\nクールタイム：<color=#8B0000>50秒</color></size>"
+        },
+        {
+            "seedType": 353,
+            "name": "スターナッツ（ＴＤ）",
+            "introduce": "<align=justified><size=36><color=black>スターナッツ lives under a rock and rarely moves. It's not because he's lazy, but because he's got standards. He'll only act if invited by a certain square friend to jellyfishing… or to prank a cephalopodic neighbor.</color>",
+            "info": "<size=36>A reactive defender that counters with little stars.\n\n<color=black>耐久力：</color><color=#8B0000>4000</color>\n<color=black>スペシャル：</color><color=#8B0000>Fires five 20-damage stars in all directions when damaged.</color>\n<color=black>強化リスト：</color><color=#8B0000>\n<color=black>• 基本強化：</color>（80太陽）現在のHPと最大HPが50％増加\n<color=black>• 高度強化経路1：</color>（200太陽）HPが200%増加\n<color=black>• 高度強化経路2：</color>（200太陽）回復力が100%増加（100HP/3秒）</color>",
+            "cost": "<size=36>コスト：<color=#8B0000>200</color>\nクールタイム：<color=#8B0000>30秒</color></size>"
+        },
+        {
+            "seedType": 354,
+            "name": "太陽地雷（ＴＤ）",
+            "introduce": "<align=justified><size=36><color=black>\"Stop at red lights, slow down at yellow lights, and obey traffic rules!\" 太陽地雷 frequently warns zombies. But to the zombies, all they see is the disgusting green hue before them. He clutches his green leaves and pouts, wishing for more sunshine. \"After all, sunshine is what fuels us all!\"</color>",
+            "info": "<size=36>太陽地雷 produces Sun until and after its explosion.\n\n<color=black>ダメージ：</color><color=#8B0000>1000</color>\n<color=black>スペシャル：</color><color=#8B0000>Drops 50 Sun on explosion.</color>\n<color=black>強化リスト：</color><color=#8B0000>\n<color=black>• 基本強化：</color>（10太陽）爆発ダメージが50％増加\n<color=black>• 高度強化経路1：</color>（25太陽）爆発範囲が50%増加\n<color=black>• 高度強化経路2：</color>（25太陽）爆発ダメージが100%増加</color>",
+            "cost": "<size=36>コスト：<color=#8B0000>25</color>\nクールタイム：<color=#8B0000>50秒</color></size>"
+        },
+        {
+            "seedType": 355,
+            "name": "氷グルームキノコ（ＴＤ）",
+            "introduce": "<align=justified><size=36><color=black>Dreaming of a career as a physicist, the 氷グルームキノコ dedicates his days to unraveling the complexities of the world, avoiding contact with other plants. \"Why do I have multiple strings of icicles sprouting from my head?\" he muses, the latest question occupying his thoughts. He's oddly adamant about calling them \"strings.\"</color>",
+            "info": "<size=36>Releases cold fumes around that can freeze zombies.\n\n<color=black>ダメージ：</color><color=#8B0000>5/3.8s (Piercing)</color>\n<color=black>スペシャル：</color><color=#8B0000>攻撃は冷気効果を与える。</color>\n<color=black>強化リスト：</color><color=#8B0000>\n<color=black>• 基本強化：</color>（80太陽）攻撃速度が50%増加\n<color=black>• 高度強化経路1：</color>（200太陽）攻撃は10の氷結ポイントを追加\n<color=black>• 高度強化経路2：</color>（200太陽）冷却時間が2倍</color>",
+            "cost": "<size=36>コスト：<color=#8B0000>200</color>\nクールタイム：<color=#8B0000>7.5秒</color></size>"
+        },
+        {
+            "seedType": 356,
+            "name": "チェリーチョンパー（ＴＤ）",
+            "introduce": "<align=justified><size=36><color=black>Ever since her drink with チェリー爆弾, Chomper has been constantly \"buzzing.\" She turned into an absolute menace every meal. The sound of chewing transformed into explosive pops as plates and bowls flew everywhere, leaving everyone unwilling to dine with her. After a show of hands, チェリーチョンパー ended up eating in the yard… at least she no longer has to buy new tableware.</color>",
+            "info": "<size=36>Produces a cherry explosion upon eating a zombie.\n\n<color=blue>Rキーを押すと元に戻せます</color>\n<color=black>ダメージ：</color><color=#8B0000>Insta-kill（捕食）</color>\n<color=black>Digestion Time: </color><color=#8B0000>40秒</color>\n<color=black>スペシャル：</color><color=#8B0000>Creates a 3×3 Cherry explosion with 1000 damage in the tile directly ahead on successful biting.</color>\n<color=black>強化リスト：</color><color=#8B0000>\n<color=black>• 基本強化：</color>（200太陽）爆発ダメージ +20%, Digestion Time -10s\n<color=black>• 高度強化経路1：</color>（500太陽）爆発ダメージが100%増加\n<color=black>• 高度強化経路2：</color>（500太陽）咀嚼時間が50%減少（15秒）</color>",
+            "cost": "<size=36>コスト：<color=#8B0000>500</color>\nクールタイム：<color=#8B0000>50秒</color></size>"
+        },
+        {
+            "seedType": 357,
+            "name": "雷のオニオン（ＴＤ）",
+            "introduce": "<align=justified><size=36><color=black>雷のオニオンねぎは『科学怪人』の撮影に参加したことがある。彼はついに主演の役を得られると思っていた。畢竟、閃電を食らった回数はもう100回を優に超えていたからだ。しかし、撮影現場で脚本を受け取った時、彼はただスタン博士の避雷針役を演じるだけだったことに気づいた…</color>",
+            "info": "<size=36>Attacks approaching zombies with lightning rays!\n\n<color=black>ダメージ：</color><color=#8B0000>20/1.5秒</color>\n<color=black>攻撃範囲：</color><color=#8B0000>5×5</color>\n<color=black>スペシャル：</color><color=#8B0000>\n<color=black>•</color> 攻撃範囲内に他の攻撃中の雷のオニオンが存在し、自身がアイドル状態の場合、その雷のオニオンにエネルギーを供給し、今回の射撃に追加で150のダメージを与えます。\n<color=black>•</color> Each shot can arc to other zombies to deal 1/3 the damage, up to a maximum of 3 zombies.</color>\n<color=black>強化リスト：</color><color=#8B0000>\n<color=black>• 基本強化：</color>（120太陽）攻撃力が50%増加\n<color=black>• 高度強化経路1：</color>（300太陽）連鎖攻撃は最大ダメージを与える\n<color=black>• 高度強化経路2：</color>（300太陽）攻撃力が300%増加、ただし連鎖は発生しなくなった</color>",
+            "cost": "<size=36>コスト：<color=#8B0000>300</color>\nクールタイム：<color=#8B0000>7.5秒</color></size>"
+        },
+        {
+            "seedType": 358,
+            "name": "ピーノコ（ＴＤ）",
+            "introduce": "<align=justified><size=36><color=black>\"Don't let my size fool you; even a small body can contain a lot of energy,\" ピーノコ cautions those who underestimate him. \"We all began as tiny mushrooms, making progress a little at a time. With dedication to a sunny breakfast, you can become just like me.\"</color>",
+            "info": "<size=36>ピーノコ shoots further than パフキノコ.\n\n<color=blue>Rキーを押すと元に戻せます</color>\n<color=black>ダメージ：</color><color=#8B0000>10/1.5秒</color>\n<color=black>スペシャル：</color><color=#8B0000>Short plant, stackable.</color>\n<color=black>強化リスト：</color><color=#8B0000>\n<color=black>• 基本強化：</color>（20太陽）攻撃力が50%増加\n<color=black>• 高度強化経路1：</color>（50太陽）攻撃力が100%増加、小さな炎ピーを発射できる\n<color=black>• 高度強化経路2：</color>（50太陽）攻撃力が200%増加</color>",
+            "cost": "<size=36>コスト：<color=#8B0000>50</color>\nクールタイム：<color=#8B0000>7.5秒</color></size>"
+        },
+        {
+            "seedType": 359,
+            "name": "太陽キノコ（ＴＤ）",
+            "introduce": "<align=justified><size=36><color=black>太陽キノコ hates sun. He hates it so much that when it builds up in his system, he spits it out as fast as he can. He just won't abide it. To him, sun is crass</color>",
+            "info": "<size=36>太陽キノコ give small sun at first and normal sun later.\n\n<color=black>太陽生産量：</color><color=#8B0000>5→15/25秒</color>\n<color=black>Growth Time: </color><color=#8B0000>120秒</color>\n<color=black>スペシャル：</color><color=#8B0000>Short plant, stackable.</color>\n<color=black>強化リスト：</color><color=#8B0000>\n<color=black>• 基本強化：</color>（10太陽）太陽生産間隔→16.67秒\n<color=black>• 高度強化経路1：</color>（25太陽）すぐに成長し、太陽を生産します\n<color=black>• 高度強化経路2：</color>（25太陽）太陽生産量が2倍</color>",
+            "cost": "<size=36>コスト：<color=#8B0000>25</color>\nクールタイム：<color=#8B0000>7.5秒</color></size>"
+        },
+        {
+            "seedType": 360,
+            "name": "煙キノコ（ＴＤ）",
+            "introduce": "<align=justified><size=36><color=black>煙キノコ, the misanthropic workaholic, can't stand the sight of zombies—too much of a distraction. He's got a small stash of bullets, but they're more than lethal enough. \"Don't bother me unless it's urgent. If you want them dead, just shoot them yourself.\" Still, his sharp efficiency keeps everyone looking up to him.</color>",
+            "info": "<size=36>煙キノコ can destroy most zombies in front of it.\n\n<color=blue>Rキーを押すと元に戻せます</color>\n<color=black>ダメージ：</color><color=#8B0000>1000/60秒</color>\n<color=black>スペシャル：</color><color=#8B0000>Click manually in the Upgrade Menu to attack all zombies in the row in front.</color>\n<color=black>強化リスト：</color><color=#8B0000>\n<color=black>• 基本強化：</color>（200太陽）攻撃力+50%\n<color=black>• 高度強化経路1：</color>（500太陽）攻撃力が200%増加\n<color=black>• 高度強化経路2：</color>（500太陽）攻撃のクールタイムが50％減少</color>",
+            "cost": "<size=36>コスト：<color=#8B0000>500</color>\nクールタイム：<color=#8B0000>50秒</color></size>"
+        },
+        {
+            "seedType": 361,
+            "name": "墓破壊者（ＴＤ）",
+            "introduce": "<align=justified><size=36><color=black>墓破壊者の恐ろしい外見とは裏腹に、彼は子猫が大好きで、オフの時間は地元のゾンビのリハビリセンターでボランティアをしていることをみんなに知ってもらいたいのだ。「それが正しいことなんだ」と言う。</color>",
+            "info": "<size=36>太陽の像を撤去するために太陽の像に墓破壊者を植える。\n\n<color=black>スペシャル：</color><color=#8B0000>太陽の像を撤去できる。</color>\n<color=black>太陽の像の仕組み：</color><color=#8B0000>\n<color=black>•</color> 太陽の像はプラントからまっすぐに発射される弾丸をブロックし、それぞれ1000HPを持ちます。\n<color=black>•</color> 太陽の像は弾または墓破壊者でのみ破壊できる\n<color=black>•</color>ヒマワリの太陽の像は破壊されると100太陽をドロップ、太陽キノコの太陽の像は破壊されると50太陽をドロップ。</color>",
+            "cost": "<size=36>コスト：<color=#8B0000>0</color>\nクールタイム：<color=#8B0000>50秒</color></size>"
+        },
+        {
+            "seedType": 362,
+            "name": "ガンガンキノコ（ＴＤ）",
+            "introduce": "<align=justified><size=36><color=black>\"Courage fills me, no fear remains~ Whether it's spring, fall, winter, or summer~\" ガンガンキノコ no longer shrinks in the face of zombies. \"I used to tremble, but フュームキノコ先輩 told me, 'If a zombie gets near, spray your spores. Hiding won't solve anything.'\"</color>",
+            "info": "<size=36>ガンガンキノコ is ready to take on the zombies, near or far!\n\n<color=blue>Rキーを押すと元に戻せます</color>\n<color=black>ダメージ：</color><color=#8B0000>20×2/1.5s（遠距離）; 20/1.5s（近距離、貫通）</color>\n<color=black>スペシャル：</color><color=#8B0000>Shoots 2 spores at once. When zombies get within 4 tiles in range, sprays piercing fumes instead.</color>\n<color=black>強化リスト：</color><color=#8B0000>\n<color=black>• 基本強化：</color>（80太陽）攻撃力と攻撃速度が20%増加\n<color=black>• 高度強化経路1：</color>（200太陽）攻撃力が200%増加、胞子を永遠に発射する\n<color=black>• 高度強化経路2：</color>（200太陽）攻撃力が100%増加、胞子群の射程が2倍</color>",
+            "cost": "<size=36>コスト：<color=#8B0000>200</color>\nクールタイム：<color=#8B0000>7.5秒</color></size>"
+        },
+        {
+            "seedType": 363,
+            "name": "冷風ブロバー（ＴＤ）",
+            "introduce": "<align=justified><size=36><color=black>冷風ブロバー is a -4°C air conditioner. When his chilly breeze blows, it feels like stepping straight into winter. Even Snow Pea is frozen, the cold wind actually froze his own projectiles. What could possibly be colder than that? Answer: The atmosphere after Coldsnap Bean's told one of his totally tone deaf jokes.</color>",
+            "info": "<size=36>ブロバー of a freezing breeze that constantly applies chill.\n\n<color=black>スペシャル：</color><color=#8B0000>\n<color=black>•</color> Lasts for 10s before disappearing.\n<color=black>•</color> Deals 1 damage and applies 20 Cryo points to all zombies on the lawn.\n<color=black>•</color> Converts all snow peas on screen to polar ice peas.</color>",
+            "cost": "<size=36>コスト：<color=#8B0000>125</color>\nクールタイム：<color=#8B0000>50秒</color></size>"
+        },
+        {
+            "seedType": 364,
+            "name": "破滅スターフルーツ（ＴＤ）",
+            "introduce": "<align=justified><size=36><color=black>\"Stars, grant me the power of destruction!\" 破滅スターフルーツ chants a dreadful incantation, summoning meteors to obliterate everything he despises. But why is the meteor black? \"Probably because it burned up a little while passing through the atmosphere.\"</color>",
+            "info": "<size=36>Transforms himself into a 破滅メテオ and crash into the ground.\n\n<color=black>スペシャル：</color><color=#8B0000>Disappears after 3s and summons a 破滅メテオ that deals 1800 area damage on impact and splits into 180 spore stars each dealing 20 damage.</color>",
+            "cost": "<size=36>コスト：<color=#8B0000>175</color>\nクールタイム：<color=#8B0000>90秒</color></size>"
+        },
+        {
+            "seedType": 365,
+            "name": "ウツボカズラ迫撃砲（ＴＤ）",
+            "introduce": "<align=justified><size=36><color=black>\"Coach, I want to play basketball.\" ウツボカズラ迫撃砲 has always dreamed of becoming a basketball star. He practices shooting day and night without rest. He has two advantages: first, he kind of looks like a basketball hoop; second, he has an endless supply of basketballs to practice with. For heaven's sake, don't ask what those balls are made of.</color>",
+            "info": "<size=36>Lobs droplet shells that bounce between the zombie and other ウツボカズラ迫撃砲s.\n\n<color=black>ダメージ：</color><color=#8B0000>40/3s</color>\n<color=black>Range: </color><color=#8B0000>Within 2 tiles in all four directions</color>\n<color=black>スペシャル：</color><color=#8B0000>Projectiles rebound to nearby other ウツボカズラ迫撃砲s on hit, prompting them to immediately attact twice.</color>\n<color=black>強化リスト：</color><color=#8B0000>\n<color=black>• 基本強化：</color>（120太陽）攻撃力と攻撃速度が20%増加\n<color=black>• 高度強化経路1：</color>（300太陽）攻撃力が200%増加\n<color=black>• 高度強化経路2：</color>（300太陽）攻撃速度が100%増加, projectiles can now rebound to self</color>",
+            "cost": "<size=36>コスト：<color=#8B0000>300</color>\nクールタイム：<color=#8B0000>7.5秒</color></size>"
+        },
+        {
+            "seedType": 800,
+            "name": "金将狙撃ピー",
+            "introduce": "<align=justified>\"He's a dead man.\" When the first glint of gold arcs through the sky, even a brainless zombie knows that that is the harbinger for ultimate oblivion.<size=36><color=black></color>",
+            "info": "<size=36>Coordinate all firepower!\n\n<color=#4A2900>利用条件：旅行モード</color>\n<color=black>ダメージ：</color><color=#8B0000>1000/6s</color>\n<color=black>スペシャル：</color><color=#8B0000>\n<color=black>•</color> Headshot once every 6s.\n<color=black>•</color> Active Ability: Click on 金将狙撃ピー to bring up a crosshair. Select any zombie as target, and all snipers on the field will immediately coordinate a focused attack on it. This effect has a 30s cooldown. \n<color=black>旅行修正効果：\n</color><color=#8B0000>1. 攻撃速度 of all Snipers increased by 30%\n2. CD for Active Ability reduced to 15秒</color>",
+            "cost": "\n<size=36>融合レシピ：<color=#8B0000>狙撃ピー＋金の磁石</color>"
+        },
+        {
+            "seedType": 801,
+            "name": "チェリー狙撃ピー",
+            "introduce": "<align=justified><size=36>A famous baker renowned for his cherry pie—though he often forgets the most essential ingredient: cherries. But fret not! Once he deals with this zombie, bam, cherry pie, complete!<color=black></color>",
+            "info": "<size=36>Create cherry explosions at the location of his targets.\n\n<color=#4A2900>利用条件：旅行モード</color>\n<color=black>スペシャル：</color><color=#8B0000>\n<color=black>•</color> Creates cherry explosions at the location of his targets every 2s.\n<color=black>•</color> Headshots every 8 attacks. \n<color=black>旅行修正効果：\n</color><color=#8B0000>Benefits from チェリー爆弾ガトリング's Modifiers</color>",
+            "cost": "<size=36>融合レシピ：<color=#8B0000>狙撃ピー＋チェリー爆弾ガトリング</color>"
+        },
+        {
+            "seedType": 802,
+            "name": "破滅狙撃ピー",
+            "introduce": "<align=justified><size=36><color=black>He is the guardian of the night, the stalker in the shadows. The moonlight is his veil, and the night sky his camouflage. I am grateful to fate for granting me this world-shattering power—along with the trials it brings, and the burdens it adds.</color>",
+            "info": "<size=36>His shots create doom explosions!\n\n<color=#4A2900>利用条件：旅行モード</color>\n<color=black>スペシャル：</color><color=#8B0000>\n<color=black>•</color> Unleashes a 破滅キノコ explosion at his target's location every 8s.\n<color=black>•</color> Headshot every 2 attacks.\n<color=black>旅行修正効果：\n</color><color=#8B0000>1. (破滅ガトリング's 1st Modifier) Attack Interval → 4s\n2. (破滅ガトリング's 2nd Modifier) Now every shot headshots the target.</color>",
+            "cost": "\n<size=36>融合レシピ：<color=#8B0000>狙撃ピー＋破滅ガトリング</color>"
+        },
+        {
+            "seedType": 803,
+            "name": "狙撃つららキノコ",
+            "introduce": "<align=justified><size=36><color=black>狙撃つららキノコ is the shortest sniper in the squad, though he doesn't see that as a problem. \"My fellow sniper buddies, sure, they're tall and imposing, but they always need other plants to cover for them. Me? I can handle it myself just fine!\"</color>",
+            "info": "<size=36>His shots create doom explosions!\n\n<color=black>ダメージ：</color><color=#8B0000>500/3s</color>\n<color=#4A2900>利用条件：旅行モード</color>\n<color=#0077b6>Cryo System: </color><color=#8B0000>Attacks inflict 100 Cryo points and deal ×4 damage to frozen zombies.</color>\n<color=black>スペシャル：</color><color=#8B0000>\n<color=black>•</color> Deals splash damage in a single tile.\n<color=black>•</color> Headshots the main target every 6 attacks.\n<color=black>旅行修正効果：\n</color><color=#8B0000>1. (つららガトリングキノコ's 1st Modifier) Splash radius → 3×3\n2. (つららガトリングキノコ's 2nd Modifier) Now deals ×10 damage to frozen zombies</color>",
+            "cost": "<size=36>融合レシピ：<color=#8B0000>狙撃ピー＋つららガトリングキノコ</color>"
+        },
+        {
             "seedType": 900,
             "name": "魅帝王キノコ",
             "introduce": "<size=36><color=black>魅帝王キノコは、自分のゾンビ部下たちに深い愛情を抱いている。「おかげで、帝王としての地位を築けたのよ」と彼女は語る。だが、これらの強力なゾンビたちは他のプラントたちに恐怖を与えており、魅帝王キノコはその事実をまったく知らない。</color></size>",
@@ -466,7 +606,7 @@
             "seedType": 903,
             "name": "チェリージラ",
             "introduce": "<size=36><color=black>「俺の恐竜風ヘアスタイルに憧れるヤツは多いんだ」と、チェリージラは誇らしげに語る。ゾンビを食べたり、チェリー爆弾を吐いたりするのは正直気持ち悪い。でも、これも公の顔としての義務なのだ。</color></size>",
-            "info": "<size=36>チェリジラは陸上での究極の防御植物です。\n\n<color=black>耐久力：</color><color=#8B0000>8000</color>\n<color=black>スペシャル：</color><color=#8B0000>ゾンビを噛むと、耐久力を1000回復し、1000ダメージを与え、爆発するチェリーを吐き出します。HPが2000未満のゾンビは即座に倒され、チェリジラの耐久力が全回復します。車両を撃退し、最大耐久力の1/3までしかダメージを受けません。現在のHPが最大値を超える場合、最大HPの10%を失います。</color>\n<color=black>融合レシピ：</color><color=#8B0000>チョンプジラ＋チェリーチョンパー</color>\n<color=black>旅行モード強化：\n</color><color=#8B0000>1. 自身より少ない体力のゾンビを即死させることが可能になります。\n2. 回復ボーナス200%追加、ゾンビからのダメージが500に制限されます。</color></size>",
+            "info": "<size=36>チェリジラは陸上での究極の防御植物です。\n\n<color=black>耐久力：</color><color=#8B0000>8000</color>\n<color=black>スペシャル：</color><color=#8B0000>背高植物。ゾンビを噛むと、耐久力を1000回復し、1000ダメージを与え、爆発するチェリーを吐き出します。HPが2000未満のゾンビは即座に倒され、チェリジラの耐久力が全回復します。車両を撃退し、最大耐久力の1/3までしかダメージを受けません。現在のHPが最大値を超える場合、最大HPの10%を失います。</color>\n<color=black>融合レシピ：</color><color=#8B0000>チョンプジラ＋チェリーチョンパー</color>\n<color=black>旅行モード強化：\n</color><color=#8B0000>1. 自身より少ない体力のゾンビを即死させることが可能になります。\n2. 回復ボーナス200%追加、ゾンビからのダメージが500に制限されます。</color></size>",
             "cost": ""
         },
         {
@@ -536,7 +676,7 @@
             "seedType": 913,
             "name": "黒曜石のトールナッツ",
             "introduce": "<size=36><color=black>親友の庇護を求めるのではなく、黒曜石のトールナッツは彼を守ることを選んだ。宝石のように硬い身体と揺るがぬ眼差しを持ち、チェリージラの魂によって鍛えられ、氷と炎の試練を乗り越えた。いつかその身体が擦り減る日が来るかもしれない。それでも、彼は他のプラントたちを守り抜く覚悟を持っている。</color></size></size>",
-            "info": "<size=36>黒曜石のトールナッツは通常のトールナッツの4倍の防御力を持っています。\n\n<color=black>耐久力：</color><color=#8B0000>32000</color>\n<color=black>スペシャル：</color><color=#8B0000>15秒ごとに1500HPを回復します。\n車に轢かれるのを耐え、毎回最大200ダメージを受けます。\n黒曜石のトールナッツの1つがダメージを受けると、そのダメージはすべての黒曜石のトールナッツに共有され、分割されます。</color>\n<color=black>融合レシピ：</color><color=#8B0000>氷トールナッツ＋炎トールナッツ</color>\n<color=black>旅行モード強化：\n</color><color=#8B0000>1. 氷キノコの効果で10,000HPを回復し、ハラペーニョの効果で全回復します。\n2. 左右2マスのプラントに向けられたダメージを吸収することが可能になります。</color></size>",
+            "info": "<size=36>黒曜石のトールナッツは通常のトールナッツの4倍の防御力を持っています。\n\n<color=black>耐久力：</color><color=#8B0000>32000</color>\n<color=black>スペシャル：</color><color=#8B0000>背高植物。15秒ごとに1500HPを回復します。\n車に轢かれるのを耐え、毎回最大200ダメージを受けます。\n黒曜石のトールナッツの1つがダメージを受けると、そのダメージはすべての黒曜石のトールナッツに共有され、分割されます。</color>\n<color=black>融合レシピ：</color><color=#8B0000>氷トールナッツ＋炎トールナッツ</color>\n<color=black>旅行モード強化：\n</color><color=#8B0000>1. 氷キノコの効果で10,000HPを回復し、ハラペーニョの効果で全回復します。\n2. 左右2マスのプラントに向けられたダメージを吸収することが可能になります。</color></size>",
             "cost": ""
         },
         {
@@ -774,7 +914,7 @@
             "seedType": 947,
             "name": "究極のスプルース",
             "introduce": "<align=justified><size=36><color=black>ツンドラの中心に立つ究極のスプルースは、凍てつく荒野の守護者。幾年もの厳冬に耐え、霜を纏った枝には繊細な蓮の花が咲き誇る。新参者が戯れに樹皮へルーンを刻もうとも、その姿は揺るがず、静かに佇み続ける。</color>",
-            "info": "<size=36>スプルースの葉に冷気が集まり、蓮が木々に咲く。\n\n<color=#4A2900>利用条件：旅行モード | アンロック可</color>\n\n<color=black>ダメージ：</color><color=#8B0000>60/0.02秒（持続：5秒）</color>\n<color=#0077b6>氷結システム：</color><color=#8B0000>\n<color=black>•</color> 雪玉または雪トライデントの影響を受けると1層のチャージを獲得。氷キノコの影響で15層、吹雪の影響で60層のチャージを獲得。さらに、5秒ごとに1層の氷チャージを自動獲得。\n<color=black>•</color> 1.5秒ごとに「極寒のリーパーソー」を発射。命中時に追尾弾へ変化し、攻撃ごとに『極冷却』を付与。氷結ポイントを1獲得し、氷チャージも1層追加。\n<color=black>•</color> 氷チャージが50を超えると、5秒ごとにチャージが0にリセットされ、3×3グリッド内のすべてのプラントを回復： 回復量＝（氷チャージ ÷ プラント数）×（0.3×シールド＋0.7×HP）\n<color=black>スペシャル：</color><color=#8B0000>雪玉と吹雪から凍結無効</color>\n<color=black>旅行修正効果：</color>\n<color=#8B0000>1. 究極のスプルースの刃草の持続時間が15秒になった。\n2. 回復はもはや植物間で分割されません</color>",
+            "info": "<size=36>スプルースの葉に冷気が集まり、蓮が木々に咲く。\n\n<color=#4A2900>利用条件：旅行モード | アンロック可</color>\n\n<color=black>ダメージ：</color><color=#8B0000>60/0.02秒（持続：5秒）</color>\n<color=#0077b6>氷結システム：</color><color=#8B0000>\n<color=black>•</color> 雪玉または雪トライデントの影響を受けると1層のチャージを獲得。氷キノコの影響で15層、吹雪の影響で60層のチャージを獲得。さらに、5秒ごとに1層の氷チャージを自動獲得。\n<color=black>•</color> 1.5秒ごとに「極寒のリーパーソー」を発射。命中時に追尾弾へ変化し、攻撃ごとに極冷却を付与。氷結ポイントを1獲得し、氷チャージも1層追加。\n<color=black>•</color> 氷チャージが50を超えると、5秒ごとにチャージが0にリセットされ、3×3グリッド内のすべてのプラントを回復： 回復量＝（氷チャージ ÷ プラント数）×（0.3×シールド＋0.7×HP）\n<color=black>スペシャル：</color><color=#8B0000>雪玉と吹雪から凍結無効</color>\n<color=black>旅行修正効果：</color>\n<color=#8B0000>1. 究極のスプルースの刃草の持続時間が15秒になった。\n2. 回復はもはや植物間で分割されません</color>",
             "cost": "<size=36>融合レシピ：<color=#8B0000>超級スプルース＋蓮スプルース</color>"
         },
         {
@@ -788,7 +928,7 @@
             "seedType": 949,
             "name": "原子心プランタン",
             "introduce": "<align=justified><size=36><color=black>\"The price of nuclear war isn't something just anyone can bear.\" A survivor of annihilation, 原子心プランタン now chooses to restrain her core reactor, channeling its power into a glow as bright as the moon—guiding wanderers through the dark. But if anyone threatens the peace she holds dear… she won't hesitate to become the reaper of the battlefield once more。</color>",
-            "info": "<size=36>A プランタン sealed with radioactive frost, releasing cold fusions that strengthens with Lumos.\n\n<color=#4A2900>利用条件：旅行モード | 崩壊キノコでアンロック可</color>\n\n<color=black>ダメージ：</color><color=#8B0000>600/3秒</color>\n<color=black>範囲：</color><color=#8B0000>3×5, can target air</color>\n<color=#0077b6>氷結システム：</color><color=#8B0000>\n<color=black>•</color> Attacks apply Chill and adds 30 氷結ポイントs.\n<color=yellow>光システム：</color><color=#8B0000> Damage increases by 100% × 光レベル。</color>\n<color=black>スペシャル：</color><color=#8B0000>\n<color=black>•</color> 崩壊キノコの亜種。Switching form does not trigger on-death effects.\n<color=black>•</color> プランタンの特性を継承する。\n<color=black>•</color> Refracts passing アピーカリュプス・レールガン beams into 3 beams with equal damage.\n<color=black>•</color> On death, triggers Ice-shroom effect and grants 10 光レベル to all plants for 10秒。</color>",
+            "info": "<size=36>A プランタン sealed with radioactive frost, releasing cold fusions that strengthens with Lumos.\n\n<color=#4A2900>利用条件：旅行モード | 崩壊キノコでアンロック可</color>\n\n<color=black>ダメージ：</color><color=#8B0000>600/3秒</color>\n<color=black>範囲：</color><color=#8B0000>3×5, can target air</color>\n<color=#0077b6>氷結システム：</color><color=#8B0000>\n<color=black>•</color> 攻撃は冷気効果を与え、30氷結ポイントを追加する。\n<color=yellow>光システム：</color><color=#8B0000> Damage increases by 100% × 光レベル。</color>\n<color=black>スペシャル：</color><color=#8B0000>\n<color=black>•</color> 崩壊キノコの亜種。Switching form does not trigger on-death effects.\n<color=black>•</color> プランタンの特性を継承する。\n<color=black>•</color> Refracts passing アピーカリュプス・レールガン beams into 3 beams with equal damage.\n<color=black>•</color> On death, triggers Ice-shroom effect and grants 10 光レベル to all plants for 10秒。</color>",
             "cost": "\n<size=36>変換レシピ：<color=#8B0000>グルームキノコ←→プランタン</color>"
         },
         {
@@ -809,7 +949,7 @@
             "seedType": 952,
             "name": "腐朽サラダパルト",
             "introduce": "<align=justified><size=36><color=black>\"Big brother, big sister, am I not cute?\" 腐朽サラダパルト winks at every passerby. \"Buy a garlic, please.\" He works hard at his sales pitch. Why would such a small child be out selling garlic? \"Grandpa's movies are too boring, and our house is so full of garlic we can't even store it anymore,\" he explains.</color>",
-            "info": "<size=36>Lobs mini garlic, which split on impact, with a chance for rapid-fire or spread-fire.\n\n<color=#4A2900>Usage Condition: 旅行モード | 萎れたサラダパルトでアンロック可</color>\n<color=black>Damage: </color><color=#8B0000>60/2s</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Short plant (evades straight-firing projectiles).\n<color=black>•</color> Inherits rapid-fire and spread-fire chances from Wither-pult.\n<color=black>•</color> Projectiles no longer do splash damage, and splits into a mini-garlic-cabbage, a mini-garlic-kernel (1/4 chance for mini-garlic-butter) and a garlic-melon slice.\n<color=black>•</color> These projectiles behave like their non-garlic mini counterparts (See Popcorn-pult, ミニスイカパルト and Sprout-pult) and each grants 1 Poison point, boosting damage by (5×Poison points)</color>",
+            "info": "<size=36>Lobs mini garlic, which split on impact, with a chance for rapid-fire or spread-fire.\n\n<color=#4A2900>Usage Condition: 旅行モード | 萎れたサラダパルトでアンロック可</color>\n<color=black>Damage: </color><color=#8B0000>60/2s</color>\n<color=black>スペシャル：</color><color=#8B0000>\n<color=black>•</color> Short plant (evades straight-firing projectiles).\n<color=black>•</color> Inherits rapid-fire and spread-fire chances from Wither-pult.\n<color=black>•</color> Projectiles no longer do splash damage, and splits into a mini-garlic-cabbage, a mini-garlic-kernel (1/4 chance for mini-garlic-butter) and a garlic-melon slice.\n<color=black>•</color> These projectiles behave like their non-garlic mini counterparts (See ポップコーンパルト, ミニスイカパルト and Sprout-pult) and each grants 1 Poison point, boosting damage by (5×Poison points)</color>",
             "cost": "<size=36>Conversion Formula: <color=#8B0000>×3 + Melon-pult <-> Puff-shroom</color>"
         },
         {
@@ -1005,14 +1145,14 @@
             "seedType": 1027,
             "name": "トールナッツ",
             "introduce": "<size=36><color=black>\"The taller you are, the more powerful you become.\" Tall-nut firmly believed in this, which is why he always stayed on the front line. Other plants would urge him to take it easy, but he'd just smile and say, \"It's fine, I'm tall. As long as you fight quickly, the zombies won't have time to eat all of me.\"</color></size>",
-            "info": "<size=36>トールナッツは頑丈な壁のプラントで、飛び越えられたり、乗り越えられたりすることはありません。\n\n<color=black>耐久力：</color><color=#8B0000>8000</color></size>",
+            "info": "<size=36>トールナッツは頑丈な壁のプラントで、飛び越えられたり、乗り越えられたりすることはありません。\n\n<color=black>耐久力：</color><color=#8B0000>8000</color>\n<color=black>スペシャル：</color><color=#8B0000>背高植物。棒高跳びゾンビ、ポゴゾンビ、イルカ乗りゾンビをブロックできる。クジラ乗りゾンビ、ポゴスイカゾンビをブロックできません。</size>",
             "cost": "<size=36>コスト：<color=#8B0000>125</color>\nクールタイム：<color=#8B0000>50秒</color></size>"
         },
         {
             "seedType": 1028,
             "name": "フットボールナッツ",
             "introduce": "<size=36><color=black>フットボールナッツ looked fierce, causing some small plants that didn't know the truth to feel scared by his appearance. However, the plants that understood フットボールナッツ knew that beneath his serious exterior lay a strong determination to protect his companions. The stolen helmet undoubtedly boosted his confidence。</color></size>",
-            "info": "<size=36>フットボールナッツは大量のダメージを耐えることができます。\n\n<color=black>耐久力：</color><color=#8B0000>16000</color>\n<color=black>スペシャル：</color><color=#8B0000>金属製の物を与えると500HPを回復します。</color>\n<color=black>融合レシピ：</color><color=#8B0000>トールナッツ＋フットボールヘルメット</color></size>",
+            "info": "<size=36>フットボールナッツは大量のダメージを耐えることができます。\n\n<color=black>耐久力：</color><color=#8B0000>16000</color>\n<color=black>スペシャル：</color><color=#8B0000>背高植物。金属製の物を与えると500HPを回復します。</color>\n<color=black>融合レシピ：</color><color=#8B0000>トールナッツ＋フットボールヘルメット</color></size>",
             "cost": ""
         },
         {
@@ -1089,7 +1229,7 @@
             "seedType": 1039,
             "name": "氷トールナッツ",
             "introduce": "<size=36><color=black>氷トールナッツ raised its icy spikes high, ready to confront the zombies. Others remarked on how \"cold\" and \"silent\" he seemed. Yet, his expression remained unchanged, resolute in his defense against the undead. The truth was his face had simply frozen in place。</color></size>",
-            "info": "<size=36>氷トールナッツは強力なバリア植物です。噛まれるとゾンビをスロー状態にします。\n<color=black>耐久力：</color><color=#8B0000>8000</color>\n<color=#0077b6>冷凍システム：</color><color=#8B0000>噛んだゾンビはスロー状態になり、10冷凍ポイントが蓄積します。。</color>\n<color=black>スペシャル：</color><color=#8B0000>氷キノコの影響を受けると耐久力1000回復。</color>\n<color=black>融合レシピ：</color><color=#8B0000>氷キノコ＋トールナッツ</color></size>",
+            "info": "<size=36>氷トールナッツは強力なバリア植物です。噛まれるとゾンビをスロー状態にします。\n<color=black>耐久力：</color><color=#8B0000>8000</color>\n<color=#0077b6>冷凍システム：</color><color=#8B0000>噛んだゾンビはスロー状態になり、10冷凍ポイントが蓄積します。。</color>\n<color=black>スペシャル：</color><color=#8B0000>背高植物。氷キノコの影響を受けると耐久力1000回復。</color>\n<color=black>融合レシピ：</color><color=#8B0000>氷キノコ＋トールナッツ</color></size>",
             "cost": ""
         },
         {
@@ -2174,7 +2314,7 @@
             "seedType": 1194,
             "name": "破滅ピー",
             "introduce": "<align=justified><size=36><color=black>破滅ピー and Frenzy-shroom are great friends—one's a hothead, the other’s laid-back. But together, they're the perfect pair. \"We may be opposites, but we bring out the best in each other.\"</color>",
-            "info": "<size=36>A damage-scaling ピーシューター and the perfect partner for Frenzy-shroom.\n\n<color=black>ダメージ：</color><color=#8B0000>40/1.5秒</color>\n<color=black>スペシャル：</color><color=#8B0000>Damage increases by 1 each attack, up to 60. If a Frenzy-shroom is planted 1 tile behind it, 破滅ピー gains Frenzy-shroom's attack speed and Frenzy-shroom gains 破滅ピー's attack damage。</color>",
+            "info": "<size=36>A damage-scaling ピーシューター and the perfect partner for Frenzy-shroom.\n\n<color=black>ダメージ：</color><color=#8B0000>40/1.5秒</color>\n<color=black>スペシャル：</color><color=#8B0000>Damage increases by 1 each attack, up to 60. If a Frenzy-shroom is planted 1 tile behind it, 破滅ピー gains Frenzy-shroom's 攻撃速度 and Frenzy-shroom gains 破滅ピー's attack damage。</color>",
             "cost": "<size=36>\n融合レシピ：<color=#8B0000>ピーシューター＋破滅キノコ</color>"
         },
         {
@@ -2342,28 +2482,28 @@
             "seedType": 1218,
             "name": "水滴刃草",
             "introduce": "<align=justified><size=36><color=black>After equipping a high-pressure water jet, 水滴刃草 greatly improved her cutting efficiency. But there's one downside — flowing water is hard to come by on the snowy plains。</color>",
-            "info": "<size=36>Cold-resistant, deals more damage compared to 刃草 and applies chill when there are ice charges.\n\n<color=black>ダメージ：</color><color=#8B0000>8/0.02秒</color>\n<color=#0077b6>氷結システム：</color><color=#8B0000>\n<color=black>•</color> Gains 1/1/15 ice charge when affected by snowball/snow trident/氷キノコ respectively.\n<color=black>•</color> With ice charges, attacks deal double damage, inflict Deep Chill and add 1 Cryo Point, but have an 1/9 chance to use up a charge。</color>\n<color=black>スペシャル：</color><color=#8B0000>雪玉から凍結無効</color>",
+            "info": "<size=36>Cold-resistant, deals more damage compared to 刃草 and applies chill when there are ice charges.\n\n<color=black>ダメージ：</color><color=#8B0000>8/0.02秒</color>\n<color=#0077b6>氷結システム：</color><color=#8B0000>\n<color=black>•</color> Gains 1/1/15 ice charge when affected by snowball/snow trident/氷キノコ respectively.\n<color=black>•</color> With ice charges, attacks deal double damage, 極冷却を付与 and add 1 Cryo Point, but have an 1/9 chance to use up a charge。</color>\n<color=black>スペシャル：</color><color=#8B0000>雪玉から凍結無効</color>",
             "cost": "<size=36>\n融合レシピ：<color=#8B0000>刃草＋水滴アロエ</color>"
         },
         {
             "seedType": 1219,
             "name": "水滴射手",
             "introduce": "<align=justified><size=36><color=black>Can an archer compete without a bow? Droplet Shooter shrugs: \"It's just waterbending.\"</color>",
-            "info": "<size=36>Bends and shoots water orbs; consumes ice charges to launch ice blocks instead.\n\n<color=black>ダメージ：</color><color=#8B0000>50/1.5秒</color>\n<color=#0077b6>氷結システム：</color><color=#8B0000>\n<color=black>•</color> Gains 1/1/15 ice charges when affected by snowball/snow trident/氷キノコ respectively.\n<color=black>•</color> Uses 1 ice charge to shoot an ice block with double the damage that inflicts Deep Chill and adds 40 Cryo points, dealing ×4 damage to Frozen zombies。</color>\n<color=black>スペシャル：</color><color=#8B0000>雪玉と吹雪から凍結無効</color>",
+            "info": "<size=36>Bends and shoots water orbs; consumes ice charges to launch ice blocks instead.\n\n<color=black>ダメージ：</color><color=#8B0000>50/1.5秒</color>\n<color=#0077b6>氷結システム：</color><color=#8B0000>\n<color=black>•</color> Gains 1/1/15 ice charges when affected by snowball/snow trident/氷キノコ respectively.\n<color=black>•</color> Uses 1 ice charge to shoot an ice block with double the damage that 極冷却を付与 and adds 40 Cryo points, dealing ×4 damage to Frozen zombies。</color>\n<color=black>スペシャル：</color><color=#8B0000>雪玉と吹雪から凍結無効</color>",
             "cost": "<size=36>\n融合レシピ：<color=#8B0000>スプルース射手＋水滴アロエ</color>"
         },
         {
             "seedType": 1220,
             "name": "超級スプルース",
             "introduce": "<align=justified><size=36><color=black>超級スプルース is stern, cold, and strict—perfect traits for a top-tier coach。</color>",
-            "info": "<size=36>Shoots spinning hydro-needles that cling to zombies. Consumes ice charges to shoot spinning cryo-needles instead.\n\n<color=black>ダメージ：</color><color=#8B0000>5×75/1.5秒</color>\n<color=#0077b6>氷結システム：</color><color=#8B0000>\n<color=black>•</color> Gains 1/1/15 ice charges when affected by snowball/snow trident/氷キノコ respectively.\n<color=black>•</color> Spinning hydro-needles deal 5 Damage per 0.02秒 and last 1.5秒.\n<color=black>•</color> Uses 1 ice charge to shoot spinning cryo-needles with double the damage that inflict Deep Chill and adds 1 Cryo points, dealing ×4 damage to Frozen zombies。</color>\n<color=black>スペシャル：</color><color=#8B0000>雪玉と吹雪から凍結無効</color>",
+            "info": "<size=36>Shoots spinning hydro-needles that cling to zombies. Consumes ice charges to shoot spinning cryo-needles instead.\n\n<color=black>ダメージ：</color><color=#8B0000>5×75/1.5秒</color>\n<color=#0077b6>氷結システム：</color><color=#8B0000>\n<color=black>•</color> Gains 1/1/15 ice charges when affected by snowball/snow trident/氷キノコ respectively.\n<color=black>•</color> Spinning hydro-needles deal 5 Damage per 0.02秒 and last 1.5秒.\n<color=black>•</color> Uses 1 ice charge to shoot spinning cryo-needles with double the damage that 極冷却を付与 and adds 1 Cryo points, dealing ×4 damage to Frozen zombies。</color>\n<color=black>スペシャル：</color><color=#8B0000>雪玉と吹雪から凍結無効</color>",
             "cost": "<size=36>融合レシピ：<color=#8B0000>スプルース射手＋水滴アロエ＋刃草</color>"
         },
         {
             "seedType": 1221,
             "name": "蓮スプルース",
             "introduce": "<align=justified><size=36><color=black>\"People talk about iron trees blooming or old trees flowering,\" 蓮スプルース murmurs. \"But I’m neither iron nor old. I just... never mind.\" He stops talking to admire his blossoms。</color>",
-            "info": "<size=36>Spruce with 雪蓮 blooms and a reduced cost for healing nearby plants.\n\n<color=#0077b6>氷結システム：</color><color=#8B0000>\n<color=black>•</color> Gains 1 ice charge passively every 10秒.\n<color=black>•</color> Gains 1/1/60 ice charges when affected by snowball/snow trident/blizzard respectively.\n<color=black>•</color> Awakens at 5 charges, firing an ice orb that deals 100 damage with 3×3 splash (no falloff) and inflicts Deep Chill.\n<color=black>•</color> While awake, consumes 1 charge per sec to heal a 3×3グリッド by 50 HP. Returns to sleep when charge is exhausted。</color>\n<color=black>スペシャル：</color><color=#8B0000>雪玉と吹雪から凍結無効</color>",
+            "info": "<size=36>Spruce with 雪蓮 blooms and a reduced cost for healing nearby plants.\n\n<color=#0077b6>氷結システム：</color><color=#8B0000>\n<color=black>•</color> Gains 1 ice charge passively every 10秒.\n<color=black>•</color> Gains 1/1/60 ice charges when affected by snowball/snow trident/blizzard respectively.\n<color=black>•</color> Awakens at 5 charges, firing an ice orb that deals 100 damage with 3×3 splash (no falloff) and 極冷却を付与.\n<color=black>•</color> While awake, consumes 1 charge per sec to heal a 3×3グリッド by 50 HP. Returns to sleep when charge is exhausted。</color>\n<color=black>スペシャル：</color><color=#8B0000>雪玉と吹雪から凍結無効</color>",
             "cost": "<size=36>融合レシピ：<color=#8B0000>スプルース射手＋雪蓮</color>"
         },
         {
@@ -2405,7 +2545,7 @@
             "seedType": 1227,
             "name": "蓮アロエ",
             "introduce": "<align=justified><size=36><color=black>Doctor 蓮アロエ is the most beloved young doctor in the hospital. It's not just due to his diligence and skill — it might also be his mustache-like leaves. After all, patients tend to trust older-looking doctors。</color>",
-            "info": "<size=36>Throws aloe extract upwards; upon falling, it heals surrounding plants and temporarily boosts their attack speed.\n\n<color=#0077b6>氷結システム：</color><color=#8B0000>\n<color=black>•</color> Gains 1 ice charge passively every 5秒.\n<color=black>•</color> Gains 1/1/15/60 ice charges when affected by snowball/snow trident/氷キノコ/blizzard respectively.\n<color=black>•</color> Every 5秒, consumes 5 charges to heal all plants in a 3×3グリッド for 50 HP and boost their attack speed by 30% for 5秒。</color>\n<color=black>スペシャル：</color><color=#8B0000>雪玉と吹雪から凍結無効</color>",
+            "info": "<size=36>Throws aloe extract upwards; upon falling, it heals surrounding plants and temporarily boosts their 攻撃速度.\n\n<color=#0077b6>氷結システム：</color><color=#8B0000>\n<color=black>•</color> Gains 1 ice charge passively every 5秒.\n<color=black>•</color> Gains 1/1/15/60 ice charges when affected by snowball/snow trident/氷キノコ/blizzard respectively.\n<color=black>•</color> Every 5秒, consumes 5 charges to heal all plants in a 3×3グリッド for 50 HP and boost their 攻撃速度 by 30% for 5秒。</color>\n<color=black>スペシャル：</color><color=#8B0000>雪玉と吹雪から凍結無効</color>",
             "cost": "<size=36>\n融合レシピ：<color=#8B0000>水滴アロエ＋雪蓮</color>"
         },
         {
@@ -2517,7 +2657,7 @@
             "seedType": 1243,
             "name": "チェリーの鉢",
             "introduce": "<align=justified><size=36><color=black>チェリーの鉢 would rather give up her pay at the Zen Garden than be mistaken for a plant.\"Those lunatics can't get real cherries, so they're out here trying to eat anything cherry-flavored!\" Just talking about it makes her shudder。</color>",
-            "info": "<size=36>A pot with a passion for cherry explosions, using them to heal the plant on her own tile and briefly empower cherry-type shooters.\n\n<color=black>スペシャル：</color><color=#8B0000>\n<color=black>•</color> Immune to cherry explosions.\n<color=black>•</color> Heals the plant on herself by 20 HP when affected by cherry explosions.\n<color=black>•</color> While healing, also grants an 1-second attack speed boost (30%) to cherry shooting plants。</color>",
+            "info": "<size=36>A pot with a passion for cherry explosions, using them to heal the plant on her own tile and briefly empower cherry-type shooters.\n\n<color=black>スペシャル：</color><color=#8B0000>\n<color=black>•</color> Immune to cherry explosions.\n<color=black>•</color> Heals the plant on herself by 20 HP when affected by cherry explosions.\n<color=black>•</color> While healing, also grants an 1-second 攻撃速度 boost (30%) to cherry shooting plants。</color>",
             "cost": "\n<size=36>融合レシピ：<color=#8B0000>チェリー爆弾＞植木鉢</color>"
         },
         {
@@ -2594,7 +2734,7 @@
             "seedType": 1254,
             "name": "津波スプルースバリスタ",
             "introduce": "<align=justified><size=36><color=black>津波スプルースバリスタ once served proudly atop the castle walls, convinced his power was like a roaring tsunami. Turns out, everyone was just talking about the screech his strings made when reloading. Embarrassed but undeterred, he found salvation in aloe juice. Now his bolts are smoother, deadlier, and most importantly, much quieter。</color>",
-            "info": "<size=36>Fires tidal bolts with a tsunami's force; targets struck become more vulnerable to chill.\n\n<color=black>ダメージ：</color><color=#8B0000>80/1秒</color>\n<color=black>スペシャル：</color><color=#8B0000>\n<color=black>•</color> 雪玉と吹雪から凍結無効\n<color=black>•</color> Fires 4 bolts in quick succesion before resting for 3s.\n<color=black>•</color> 90% chance to fire Tidal Bolts. Applies Soaked for 5秒。A soaked zombie will be frozen instead of chilled when hit by a cryo-system attacks. The status is then cleared and cannot be reapplied for 10秒.\n<color=black>•</color> 10% chance to fire Ice Bolts. Applies Deep Chill。</color>",
+            "info": "<size=36>Fires tidal bolts with a tsunami's force; targets struck become more vulnerable to chill.\n\n<color=black>ダメージ：</color><color=#8B0000>80/1秒</color>\n<color=black>スペシャル：</color><color=#8B0000>\n<color=black>•</color> 雪玉と吹雪から凍結無効\n<color=black>•</color> Fires 4 bolts in quick succesion before resting for 3s.\n<color=black>•</color> 90% chance to fire Tidal Bolts. Applies Soaked for 5秒。A soaked zombie will be frozen instead of chilled when hit by a cryo-system attacks. The status is then cleared and cannot be reapplied for 10秒.\n<color=black>•</color> 10% chance to fire Ice Bolts. 極冷却を付与。</color>",
             "cost": "<size=36>融合レシピ：<color=#8B0000>水滴アロエ＞スプルースバリスタ</color>"
         },
         {
@@ -2606,9 +2746,9 @@
         },
         {
             "seedType": 1256,
-            "name": "ソーンナッツ",
-            "introduce": "<align=justified><size=36><color=black>ソーンナッツ proudly insists he's the true スパイクナッツ。 \"Look at these spines! This color!\" he declares constantly. One day, someone finally asked, \"Wait… who's スパイクナッツ again?\"</color>",
-            "info": "<size=36>A サボテン-covered nut that punishes attackers and disables balloon zombies.\n\n<color=black>耐久力：</color><color=#8B0000>4000</color>\n<color=black>スペシャル：</color><color=#8B0000>\n<color=black>•</color> Reflects 50 damage back to zombies biting it.\n<color=black>•</color> Can pop Balloons。</color>",
+            "name": "とげのあるナッツ",
+            "introduce": "<align=justified><size=36><color=black>とげのあるナッツ proudly insists he's the true スパイクナッツ。 \"Look at these spines! This color!\" he declares constantly. One day, someone finally asked, \"Wait… who's スパイクナッツ again?\"</color>",
+            "info": "<size=36>A とげのあるナッツ that punishes attackers and disables balloon zombies.\n\n<color=black>耐久力：</color><color=#8B0000>4000</color>\n<color=black>スペシャル：</color><color=#8B0000>\n<color=black>•</color> Reflects 50 damage back to zombies biting it.\n<color=black>•</color> Can pop Balloons。</color>",
             "cost": "<size=36>融合レシピ：<color=#8B0000>ウォールナッツ＋サボテン</color>"
         },
         {
@@ -2634,15 +2774,15 @@
         },
         {
             "seedType": 1260,
-            "name": "Bamboo Shooter",
-            "introduce": "<align=justified><size=36><color=black>The zombies thought they could avoid any road accidents by steering clear of Bamblocks. But ever since the Bamboo Shooter arrived, sharpened shoots started flying their way. Scattering in panic, they fled while shouting, \"Shoot! Shoots!\"</color>",
-            "info": "<size=36>Fires piercing bamboo shoots!\n\n<color=black>耐久力：</color><color=#8B0000>1800</color>\n<color=black>ダメージ：</color><color=#8B0000>60/3s</color>\n<color=black>スペシャル：</color><color=#8B0000>\n<color=black>•</color> Immune to freeze from Snowballs and Blizzards.\n<color=black>•</color> Shots pierce like Spruce Sharpshooter's.\n<color=black>•</color> When a shot hits a zombie: If HP is higher than the zombie's, deals damage equal to the HP difference to self and the zombie is instantly killed. If lower, HP is reduced to a minimum of 300, and the zombie takes damage equivalent to the difference. This ability does not activate if HP is 300 or lower.</color>",
-            "cost": "\n<size=36>融合レシピ：<color=#8B0000>Spruce Sharpshooter＋Bamblock</color>"
+            "name": "冬筍射手",
+            "introduce": "<align=justified><size=36><color=black>The zombies thought they could avoid any road accidents by steering clear of 冬筍バリケードs. But ever since the 冬筍射手 arrived, sharpened shoots started flying their way. Scattering in panic, they fled while shouting, \"Shoot! Shoots!\"</color>",
+            "info": "<size=36>Fires piercing bamboo shoots!\n\n<color=black>耐久力：</color><color=#8B0000>1800</color>\n<color=black>ダメージ：</color><color=#8B0000>60/3s</color>\n<color=black>スペシャル：</color><color=#8B0000>\n<color=black>•</color> Immune to freeze from Snowballs and Blizzards.\n<color=black>•</color> Shots pierce like スプルース射手's.\n<color=black>•</color> When a shot hits a zombie: If HP is higher than the zombie's, deals damage equal to the HP difference to self and the zombie is instantly killed. If lower, HP is reduced to a minimum of 300, and the zombie takes damage equivalent to the difference. This ability does not activate if HP is 300 or lower.</color>",
+            "cost": "\n<size=36>融合レシピ：<color=#8B0000>スプルース射手＋冬筍バリケード</color>"
         },
         {
             "seedType": 1261,
             "name": "スイカナッツ",
-            "introduce": "<align=justified><size=36><color=black>Whenever zombies come to buy watermelons, the melon stand owner Aloe Aqua always sells them the biggest one—the スイカナッツ。 After the zombies crack their teeth on it, Aloe Aqua refers them to a nearby dental clinic to get them fixed, and, naturally, that clinic also belongs to Aloe Aqua.</color>",
+            "introduce": "<align=justified><size=36><color=black>Whenever zombies come to buy watermelons, the melon stand owner 水滴アロエ always sells them the biggest one—the スイカナッツ。 After the zombies crack their teeth on it, 水滴アロエ refers them to a nearby dental clinic to get them fixed, and, naturally, that clinic also belongs to 水滴アロエ.</color>",
             "info": "<size=36>Grows a temporary shield and retaliates with a melon after taking a certain amount of damage.\n\n<color=black>耐久力：</color><color=#8B0000>8000</color>\n<color=black>スペシャル：</color><color=#8B0000>\n<color=black>•</color> When taking damage, stores 1.5× the damage taken as Retaliation Charge. If the damage exceeds 100/500/1000, stores 3/4.5/6× the damage instead.\n<color=black>•</color> Retaliation Meter is capped at max HP.\n<color=black>•</color> When the Retaliation Meter exceeds 1000, consumes all charges to launch a watermelon dealing the same amount of damage and gains a shield of equal value that fully decays over 5s.</color>",
             "cost": "\n<size=36>融合レシピ：<color=#8B0000>ウォールナッツ＋スイカパルト</color>"
         },
@@ -2657,29 +2797,29 @@
             "seedType": 1263,
             "name": "バターナッツ",
             "introduce": "<align=justified><size=36><color=black>\"They're terrifying, just like in disaster movies.\" バターナッツ trembles as he hides his face behind butter. But the chance to observe zombies up close fills him with curiosity, and in the end, he can't help but peek out from behind the butter, studying these creatures frozen in the last frame of their lives.</color>",
-            "info": "<size=36>Zombies are immobilized each time they bite - now that's what you call a \"head-butter awakening.\"\n\n<color=black>耐久力：</color><color=#8B0000>4000</color>\n<color=black>スペシャル：</color><color=#8B0000>When bitten, immobilizes the attacking Zombie with Butter for 2s.</color>",
+            "info": "<size=36>Zombies are immobilized each time they bite - now that's what you call a \"head-butter awakening.\"\n\n<color=black>耐久力：</color><color=#8B0000>4000</color>\n<color=black>スペシャル：</color><color=#8B0000>噛まれた場合は、攻撃してきたゾンビをバターで2秒間動けなくします。</color>",
             "cost": "\n<size=36>融合レシピ：<color=#8B0000>ウォールナッツ＋カーネルパルト</color>"
         },
         {
             "seedType": 1264,
-            "name": "Bamblade",
-            "introduce": "<align=justified><size=36><color=black>\"We're supposed to be barriers, yet zombies always gnaw on us like we're snacks,\" Bamblade laments. Determined, she sets out to master tougher parrying and counterattack skills. Whether she's succeeded is unclear, but she sure looks tastier than ever.</color>",
-            "info": "Bamblock that steadily generates a protective shield.<size=36>\n\n<color=black>耐久力：</color><color=#8B0000>1500</color>\n<color=black>スペシャル：</color><color=#8B0000>Generates 60 points of Shield every 1.5s, up to (max HP×1＋60) points.</color>",
-            "cost": "\n<size=36>融合レシピ：<color=#8B0000>Bamblock＋Saw-me-not</color>"
+            "name": "冬筍刃",
+            "introduce": "<align=justified><size=36><color=black>\"We're supposed to be barriers, yet zombies always gnaw on us like we're snacks,\" 冬筍刃 laments. Determined, she sets out to master tougher parrying and counterattack skills. Whether she's succeeded is unclear, but she sure looks tastier than ever.</color>",
+            "info": "冬筍バリケード that steadily generates a protective shield.<size=36>\n\n<color=black>耐久力：</color><color=#8B0000>1500</color>\n<color=black>スペシャル：</color><color=#8B0000>Generates 60 points of Shield every 1.5s, up to (max HP×1＋60) points.</color>",
+            "cost": "\n<size=36>融合レシピ：<color=#8B0000>冬筍バリケード＋草刃</color>"
         },
         {
             "seedType": 1265,
-            "name": "Bamboo Firnace",
-            "introduce": "<align=justified><size=36><color=black>As the tallest bodyguard from the Bamblock Security Company, Bamboo Firnace stays hidden yet alert. Across all his zombie encounters, he's never got injured—not even once. That's a pretty dazzling record.</color>",
-            "info": "<size=36>An upgraded Firnace that absorbed Bamblock, with an expanded protection range.\n\n<color=black>スペシャル：</color><color=#8B0000>Inherits the traits of Firnace but with range expanded to 3×3. Reverts to regular Firnace after 60s.</color>",
-            "cost": "\n<size=36>融合レシピ：<color=#8B0000>Firnace＋Bamblock</color>"
+            "name": "冬筍小松炉草",
+            "introduce": "<align=justified><size=36><color=black>As the tallest bodyguard from the 冬筍バリケード Security Company, 冬筍小松炉草 stays hidden yet alert. Across all his zombie encounters, he's never got injured—not even once. That's a pretty dazzling record.</color>",
+            "info": "<size=36>An upgraded 小松炉草 that absorbed 冬筍バリケード, with an expanded protection range.\n\n<color=black>スペシャル：</color><color=#8B0000>Inherits the traits of 小松炉草 but with range expanded to 3×3. Reverts to regular 小松炉草 after 60s.</color>",
+            "cost": "\n<size=36>融合レシピ：<color=#8B0000>小松炉草＋冬筍バリケード</color>"
         },
         {
             "seedType": 1266,
-            "name": "Jugger-nut",
-            "introduce": "<align=justified><size=36><color=black>The plants always complain that Jugger-nut is an obstacle to the view, and that despite being so large he does nothing to get rid of the zombies in front of him. \"He's lazy, I don't think he got here on his own,\" some said. \"He rolled down a mountain and ended up here,\" others mocked. But Jugger-nut had no intention of answering them because like his shell, his will was hardened to protect the plants that needed him, after all.\n\n-Written by Ultra Badlander</color>",
-            "info": "<size=36>The more types of defensive plants are on the field, the higher its own defense.\n\n<color=black>耐久力：</color><color=#8B0000>32000</color>\n<color=black>スペシャル：</color><color=#8B0000>\n<color=black>•</color> Tall plant.\n<color=black>•</color> Anti-crush, damage received is capped at 1/3 Toughness.\n<color=black>•</color> After Damage Cap, damage is reduced by dividing it by (1＋0.1×number of defensive plant types on the field).</color>",
-            "cost": "<size=36>融合レシピ：<color=#8B0000>ウォールナッツ ∞ [Tall-nut] ∞ ウォールナッツ＜ヒカマホウ（中央に設置して）</color>"
+            "name": "要塞ナッツ",
+            "introduce": "<align=justified><size=36><color=black>プラントの中には、要塞ナッツがゾンビに何もしなかったことに不満を漏らす者もいた。「彼は本当に怠け者だ。庭から戦場まで歩くことすらできないだろう。屋根から転げ落ちたまま、動こうとしないのか？」要塞ナッツは何も答えるつもりはなかった。彼の意志は殻のように固く、ただ自分を必要とするプラントたちを守ることだけを考えていた。\n\n-Ultra Badlanderー著</color>",
+            "info": "<size=36>突破不可能な重防御要塞。フィールド上の防御プラントの種類が多いほど、自身の防御力が上昇します。\n\n<color=black>耐久力：</color><color=#8B0000>32000</color>\n<color=black>スペシャル：</color><color=#8B0000>\n<color=black>•</color> 背高植物。\n<color=black>•</color> 圧殺耐性、被ダメージは最大HPの3分の1に制限される\n<color=black>•</color> ダメージ上限後は、（1＋0.1×フィールド上の防御植物種の数）で割ってダメージを軽減します。</color>",
+            "cost": "<size=36>融合レシピ：<color=#8B0000>ウォールナッツ ∞ トールナッツ ∞ ウォールナッツ＜ヒカマホウ（中央に設置して）</color>"
         },
         {
             "seedType": 1267,
@@ -2698,7 +2838,7 @@
         {
             "seedType": 1269,
             "name": "スプリットヒプノピー",
-            "introduce": "<align=justified><size=36><color=black>\"I feel dizzy!\" \"Actually it's not that bad.\" \"No, I'm totally disoriented.\" \"But your head's in the back.\" \"That's just a figure of speech.\" \"And I'm being literal.\" \"These two brothers are arguing again,\" says ヒプノピー, \"probably their 3,682nd time.\"</color>",
+            "introduce": "<align=justified><size=36><color=black>\"I feel dizzy!\" \"Actually it's not that bad.\" \"No, I'm totally disoriented.\" \"But your head's in the back.\" \"That's just a figure of speech.\" \"And I'm being literal.\" \"These two brothers are arguing again,\" says ヒプノピー, \"probably their 3682nd time.\"</color>",
             "info": "<size=36>スプリットピー that fires ヒプノピー.\n\n<color=black>ダメージ：</color><color=#8B0000>30×3/1.5秒</color>\n<color=black>スペシャル：</color><color=#8B0000>Summons a Hypnotized ヒプノピー Zombie upon kill.</color>",
             "cost": "\n<size=36>融合レシピ：<color=#8B0000>スプリットピー＋ヒプノキノコ</color>"
         },
@@ -2720,7 +2860,7 @@
             "seedType": 1272,
             "name": "破滅狙撃ピー",
             "introduce": "<align=justified><size=36><color=black>\"Ever heard plants whisper in the dead of night?\" He wipes his old rifle. \"She's slow, but she's never let me down…\" A dark light cuts the air. \"Time to beat my 48 out of 50 hit record.\"</color>",
-            "info": "Piercing shots and rapid fire; charged shots deal massive area damage.<size=36>\n\n<color=#4A2900>利用条件：旅行モード</color>\n<color=black>ダメージ：</color><color=#8B0000>100/0.3s</color>\n<color=black>スペシャル：</color><color=#8B0000>\n<color=black>•</color> Unlimited pierce; +1 Doom & Frenzy charge per shot.\n<color=black>•</color> Consumes 300 Doom charges to trigger a 破滅キノコ blast (72× base damage) at the location of the first zombie hit.\n<color=black>•</color> Consumes 100 Frenzy charges for double the fire rate, lasting for 8s.\n<color=black>•</color> 10% chance to crit for 6× damage (crit is guaranteed against zombies with the Ember debuff).</color>",
+            "info": "Piercing shots and rapid fire; charged shots deal massive area damage.<size=36>\n\n<color=#4A2900>利用条件：旅行モード</color>\n<color=black>ダメージ：</color><color=#8B0000>100/0.3s</color>\n<color=black>スペシャル：</color><color=#8B0000>\n<color=black>•</color> 無限貫通; +1 Doom & Frenzy charge per shot.\n<color=black>•</color> Consumes 300 Doom charges to trigger a 破滅キノコ blast (72× base damage) at the location of the first zombie hit.\n<color=black>•</color> Consumes 100 Frenzy charges for double the fire rate, lasting for 8s.\n<color=black>•</color> 10% chance to crit for 6× damage (crit is guaranteed against zombies with the Ember debuff).</color>",
             "cost": "\n<size=36>融合レシピ：<color=#8B0000>狙撃ピー＋破滅キノコ</color>"
         },
         {
@@ -2782,7 +2922,7 @@
         {
             "seedType": 1281,
             "name": "芽キャベツ",
-            "introduce": "<align=justified><size=36><color=black>People say 芽キャベツ holds the magical power to shrink zombies. And the secret, they claim, is in the bounce. But only Popcorn-pult knows the real reason: there's a tiny pat of butter hidden inside. The cabbage leaves are just too thick for it to pop out… so of course it needs to bounce first to shrink a zombie.</color>",
+            "introduce": "<align=justified><size=36><color=black>People say 芽キャベツ holds the magical power to shrink zombies. And the secret, they claim, is in the bounce. But only ポップコーンパルト knows the real reason: there's a tiny pat of butter hidden inside. The cabbage leaves are just too thick for it to pop out… so of course it needs to bounce first to shrink a zombie.</color>",
             "info": "<size=36>Lobs sprouts capable of passing on the shrinking effect.\n\n<color=black>ダメージ：</color><color=#8B0000>1500</color>\n<color=black>スペシャル：</color><color=#8B0000>\n<color=black>•</color> Short plant (evades straight-firing projectiles).\n<color=black>•</color>Shots bounce twice. If a shot hits a shrunken zombie, it gains the ability to shrink the next zombies hit.</color>",
             "cost": "\n<size=36>融合レシピ：<color=#8B0000>キャベツパルト＞パフキノコ</color>"
         },
@@ -2826,14 +2966,14 @@
             "name": "氷の鉢",
             "introduce": "<align=justified><size=36><color=black>Summer is when 氷の鉢 is most active. \"Heehee, feeling hot? Want to come cool off here?\" he says. \"Just be careful not to slip on the ice. And if you're a watermelon seeking shade, watch out! Once you turn into a chilled watermelon, someone might just eat you!\"</color>",
             "info": "<size=36>Can materialize plants forged in fire.\n\n<color=black>スペシャル：</color><color=#8B0000>Every 10s, transforms a specific Roasted plant on its tile into its base form usable for fusion.</color>",
-            "cost": "\n<size=36>融合レシピ：<color=#8B0000>氷キノコ＞Flower Pot</color>"
+            "cost": "\n<size=36>融合レシピ：<color=#8B0000>氷キノコ＞植木鉢</color>"
         },
         {
             "seedType": 1288,
             "name": "パンプキン火鉢",
             "introduce": "<align=justified><size=36><color=black>パンプキン火鉢 dislikes loud, showy gestures. He's calm, reserved, and quietly helps any peas in need. Even at a barbecue, if he's served half-raw food, he won't complain; he'll just tuck it inside himself and take it home. It'll be perfectly cooked by then anyways.</color>",
             "info": "<size=36>Can ignite peas and produce 熱いパンプキンs.\n\n<color=black>耐久力：</color><color=#8B0000>4000</color>\n<color=black>スペシャル：</color><color=#8B0000>For every 50 peas lit, a 熱いパンプキン is spawned in front.</color>",
-            "cost": "\n<size=36>融合レシピ：<color=#8B0000>炎木＞Pumpkin</color>"
+            "cost": "\n<size=36>融合レシピ：<color=#8B0000>炎木＞パンプキン</color>"
         },
         {
             "seedType": 1289,
@@ -2860,148 +3000,8 @@
             "seedType": 1292,
             "name": "幻嵐大将",
             "introduce": "<align=justified><size=36><color=black>幻嵐大将 is hopelessly smitten with zombies. She painstakingly paints every pea pink and admires the bright flash when they ignite. \"It's a gift for the zombies,\" she says, eager to send as many as possible.</color>",
-            "info": "<size=36>Constantly fires loads of ヒプノピーs.\n\n<color=#4A2900>利用条件：旅行モード</color>\n<color=black>ダメージ：</color><color=#8B0000>30×6/1.5秒</color>\n<color=black>Ultimate: </color><color=#8B0000>30×3/0.02s</color>\n<color=black>スペシャル：</color><color=#8B0000>2% chance to shoot a barrage of ヒプノピーs each attack, lasting 5s.</color>",
+            "info": "<size=36>Constantly fires loads of ヒプノピーs.\n\n<color=#4A2900>利用条件：旅行モード</color>\n<color=black>ダメージ：</color><color=#8B0000>30×6/1.5秒</color>\n<color=black>Ultimate: </color><color=#8B0000>30×3/0.02s</color>\n<color=black>スペシャル：</color><color=#8B0000>2% chance to shoot a barrage of ヒプノピー each attack, lasting 5s.</color>",
             "cost": "<size=36>融合レシピ：<color=#8B0000>ピー大将＋ヒプノキノコ</color>"
-        },
-        {
-            "seedType": 350,
-            "name": "ピーマワリ（ＴＤ）",
-            "introduce": "<align=justified><size=36><color=black>「実は、前にいるピーシューターは私の兄弟なんです」とヒマワリがみんなに説明した。「生まれた時からずっと一緒。私は太陽を作るのが好きで、彼は私の代わりにゾンビを倒してくれるの。」でも、みんな本当のことを知っている。 あの陽気なピー兄弟は、完全なるシスコン。 だって、ヒマワリに近づいたゾンビは、なぜかいつも太陽光で蒸発するのだから。</color>",
-            "info": "<size=36>ピーマワリ can fire Sun shots that have a chance to produce Sun.\n\n<color=blue>Reversible by pressing R</color>\n<color=black>ダメージ：</color><color=#8B0000>20/1.5秒</color>\n<color=black>スペシャル：</color><color=#8B0000>Shots have a 30% chance to drop 5 Sun when hitting zombies.</color>\n<color=black>強化リスト：</color><color=#8B0000>\n<color=black>• 基本強化：</color>(80 Sun) Attack Damage & Speed +20%\n<color=black>• 高度強化経路1：</color>（200太陽）攻撃力が200%増加\n<color=black>• 高度強化経路2：</color>(200 Sun) Attack Speed +100%</color>",
-            "cost": "<size=36>コスト：<color=#8B0000>200</color>\nクールタイム：<color=#8B0000>7.5秒</color></size>"
-        },
-        {
-            "seedType": 351,
-            "name": "サンシャインキノコ（ＴＤ）",
-            "introduce": "<align=justified><size=36><color=black>A seasoned sunlight banker, サンシャインキノコ offers high interest on your deposits.\"You chose a time deposit,\" he says sternly to a frustrated Twin Solar-nut. \"Withdrawals aren't allowed just yet.\"</color>",
-            "info": "<size=36>A visionary sun producer that absorbs and multiplies nearby sun, paying out in bursts.\n\n<color=black>Sun Output: </color><color=#8B0000>25/25秒</color>\n<color=black>スペシャル：</color><color=#8B0000>\n<color=black>•</color> Absorbs dropped Sun within a 5×5 area, multiplies their value by ×1.3, and stores them.\n<color=black>•</color> Releases as much Sun as possible in batches of 25 along with the next production.</color>\n<color=black>強化リスト：</color><color=#8B0000>\n<color=black>• 基本強化：</color>(60 Sun) Sun Production Speed +50%\n<color=black>• 高度強化経路1：</color>(160 Sun) Sun Production Speed +200%\n<color=black>• 高度強化経路2：</color>(160 Sun) Sun Value Multiplier ×2</color>",
-            "cost": "<size=36>コスト：<color=#8B0000>150</color>\nクールタイム：<color=#8B0000>7.5秒</color></size>"
-        },
-        {
-            "seedType": 352,
-            "name": "チェリー爆弾シューター（ＴＤ）",
-            "introduce": "<align=justified><size=36><color=black>Meet チェリー爆弾シューター, the ultimate plant killer. He's more irritable than ever—who would've thought the warm and friendly Cherryshooter would swallow another special cherry? Don't push your luck with him. That cherry stuck in his throat might just be his next shot—his face is already turning red!</color>",
-            "info": "<size=36>Shoots out explosive cherries that explode on impact.\n\n<color=blue>Reversible by pressing R</color>\n<color=black>ダメージ：</color><color=#8B0000>20/3s</color>\n<color=black>スペシャル：</color><color=#8B0000>Immune to explosive cherries and deals AoE damage.</color>\n<color=black>強化リスト：</color><color=#8B0000>\n<color=black>• 基本強化：</color>(160 Sun) 攻撃力+50%\n<color=black>• 高度強化経路1：</color>(400 Sun) 攻撃力+100%, Explosion Radius +50%\n<color=black>• 高度強化経路2：</color>(400 Sun) Attack Speed +200%</color>",
-            "cost": "<size=36>コスト：<color=#8B0000>400</color>\nクールタイム：<color=#8B0000>50秒</color></size>"
-        },
-        {
-            "seedType": 353,
-            "name": "スターナッツ（ＴＤ）",
-            "introduce": "<align=justified><size=36><color=black>スターナッツ lives under a rock and rarely moves. It's not because he's lazy, but because he's got standards. He'll only act if invited by a certain square friend to jellyfishing… or to prank a cephalopodic neighbor.</color>",
-            "info": "<size=36>A reactive defender that counters with little stars.\n\n<color=black>耐久力：</color><color=#8B0000>4000</color>\n<color=black>スペシャル：</color><color=#8B0000>Fires five 20-damage stars in all directions when damaged.</color>\n<color=black>強化リスト：</color><color=#8B0000>\n<color=black>• 基本強化：</color>(80 Sun) HP and Max Toughness +50%\n<color=black>• 高度強化経路1：</color>(200 Sun) HP +200%\n<color=black>• 高度強化経路2：</color>(200 Sun) 回復力+100% (100 HP/3s)</color>",
-            "cost": "<size=36>コスト：<color=#8B0000>200</color>\nクールタイム：<color=#8B0000>30秒</color></size>"
-        },
-        {
-            "seedType": 354,
-            "name": "太陽地雷（ＴＤ）",
-            "introduce": "<align=justified><size=36><color=black>\"Stop at red lights, slow down at yellow lights, and obey traffic rules!\" 太陽地雷 frequently warns zombies. But to the zombies, all they see is the disgusting green hue before them. He clutches his green leaves and pouts, wishing for more sunshine. \"After all, sunshine is what fuels us all!\"</color>",
-            "info": "<size=36>太陽地雷 produces Sun until and after its explosion.\n\n<color=black>ダメージ：</color><color=#8B0000>1000</color>\n<color=black>スペシャル：</color><color=#8B0000>Drops 50 Sun on explosion.</color>\n<color=black>強化リスト：</color><color=#8B0000>\n<color=black>• 基本強化：</color>(10 Sun) Explosion Damage +50%\n<color=black>• 高度強化経路1：</color>(25 Sun) Explosion Radius +50%\n<color=black>• 高度強化経路2：</color>(25 Sun) Explosion Damage +100%</color>",
-            "cost": "<size=36>コスト：<color=#8B0000>25</color>\nクールタイム：<color=#8B0000>50秒</color></size>"
-        },
-        {
-            "seedType": 355,
-            "name": "氷グルームキノコ（ＴＤ）",
-            "introduce": "<align=justified><size=36><color=black>Dreaming of a career as a physicist, the 氷グルームキノコ dedicates his days to unraveling the complexities of the world, avoiding contact with other plants. \"Why do I have multiple strings of icicles sprouting from my head?\" he muses, the latest question occupying his thoughts. He's oddly adamant about calling them \"strings.\"</color>",
-            "info": "<size=36>Releases cold fumes around that can freeze zombies.\n\n<color=black>ダメージ：</color><color=#8B0000>5/3.8s (Piercing)</color>\n<color=black>スペシャル：</color><color=#8B0000>Attacks apply Chill.</color>\n<color=black>強化リスト：</color><color=#8B0000>\n<color=black>• 基本強化：</color>(80 Sun) Attack Speed +50%\n<color=black>• 高度強化経路1：</color>(200 Sun) Attacks add 10 Cryo points\n<color=black>• 高度強化経路2：</color>(200 Sun) Chill Duration ×2</color>",
-            "cost": "<size=36>コスト：<color=#8B0000>200</color>\nクールタイム：<color=#8B0000>7.5秒</color></size>"
-        },
-        {
-            "seedType": 356,
-            "name": "チェリーチョンパー（ＴＤ）",
-            "introduce": "<align=justified><size=36><color=black>Ever since her drink with チェリー爆弾, Chomper has been constantly \"buzzing.\" She turned into an absolute menace every meal. The sound of chewing transformed into explosive pops as plates and bowls flew everywhere, leaving everyone unwilling to dine with her. After a show of hands, チェリーチョンパー ended up eating in the yard… at least she no longer has to buy new tableware.</color>",
-            "info": "<size=36>Produces a cherry explosion upon eating a zombie.\n\n<color=blue>Reversible by pressing R</color>\n<color=black>ダメージ：</color><color=#8B0000>Insta-kill（捕食）</color>\n<color=black>Digestion Time: </color><color=#8B0000>40秒</color>\n<color=black>スペシャル：</color><color=#8B0000>Creates a 3×3 Cherry explosion with 1000 damage in the tile directly ahead on successful biting.</color>\n<color=black>強化リスト：</color><color=#8B0000>\n<color=black>• 基本強化：</color>(200 Sun) Explosion Damage +20%, Digestion Time -10s\n<color=black>• 高度強化経路1：</color>(500 Sun) Explosion Damage +100%\n<color=black>• 高度強化経路2：</color>(500 Sun) Digestion Time -50% (15s)</color>",
-            "cost": "<size=36>コスト：<color=#8B0000>500</color>\nクールタイム：<color=#8B0000>50秒</color></size>"
-        },
-        {
-            "seedType": 357,
-            "name": "雷のオニオン（ＴＤ）",
-            "introduce": "<align=justified><size=36><color=black>雷のオニオンねぎは『科学怪人』の撮影に参加したことがある。彼はついに主演の役を得られると思っていた。畢竟、閃電を食らった回数はもう100回を優に超えていたからだ。しかし、撮影現場で脚本を受け取った時、彼はただスタン博士の避雷針役を演じるだけだったことに気づいた…</color>",
-            "info": "<size=36>Attacks approaching zombies with lightning rays!\n\n<color=black>ダメージ：</color><color=#8B0000>20/1.5秒</color>\n<color=black>攻撃範囲：</color><color=#8B0000>5×5</color>\n<color=black>スペシャル：</color><color=#8B0000>\n<color=black>•</color> 攻撃範囲内に他の攻撃中の雷のオニオンが存在し、自身がアイドル状態の場合、その雷のオニオンにエネルギーを供給し、今回の射撃に追加で150のダメージを与えます。\n<color=black>•</color> Each shot can arc to other zombies to deal 1/3 the damage, up to a maximum of 3 zombies.</color>\n<color=black>強化リスト：</color><color=#8B0000>\n<color=black>• 基本強化：</color>(120 Sun) 攻撃力+50%\n<color=black>• 高度強化経路1：</color>（300太陽）Arcing now deals full damage\n<color=black>• 高度強化経路2：</color>（300太陽）攻撃力+300% but no longer arcs</color>",
-            "cost": "<size=36>コスト：<color=#8B0000>300</color>\nクールタイム：<color=#8B0000>7.5秒</color></size>"
-        },
-        {
-            "seedType": 358,
-            "name": "ピーノコ（ＴＤ）",
-            "introduce": "<align=justified><size=36><color=black>\"Don't let my size fool you; even a small body can contain a lot of energy,\" ピーノコ cautions those who underestimate him. \"We all began as tiny mushrooms, making progress a little at a time. With dedication to a sunny breakfast, you can become just like me.\"</color>",
-            "info": "<size=36>ピーノコ shoots further than パフキノコ.\n\n<color=blue>Reversible by pressing R</color>\n<color=black>ダメージ：</color><color=#8B0000>10/1.5秒</color>\n<color=black>スペシャル：</color><color=#8B0000>Short plant, stackable.</color>\n<color=black>強化リスト：</color><color=#8B0000>\n<color=black>• 基本強化：</color>(20 Sun) 攻撃力+50%\n<color=black>• 高度強化経路1：</color>(50 Sun) 攻撃力+100%, now fires ignited small peas\n<color=black>• 高度強化経路2：</color>(50 Sun) 攻撃力+200%</color>",
-            "cost": "<size=36>コスト：<color=#8B0000>50</color>\nクールタイム：<color=#8B0000>7.5秒</color></size>"
-        },
-        {
-            "seedType": 359,
-            "name": "太陽キノコ（ＴＤ）",
-            "introduce": "<align=justified><size=36><color=black>太陽キノコ hates sun. He hates it so much that when it builds up in his system, he spits it out as fast as he can. He just won't abide it. To him, sun is crass</color>",
-            "info": "<size=36>太陽キノコ give small sun at first and normal sun later.\n\n<color=black>Sun Output: </color><color=#8B0000>5→15/25秒</color>\n<color=black>Growth Time: </color><color=#8B0000>120秒</color>\n<color=black>スペシャル：</color><color=#8B0000>Short plant, stackable.</color>\n<color=black>強化リスト：</color><color=#8B0000>\n<color=black>• 基本強化：</color>(10 Sun) Sun Production Time → 16.67s\n<color=black>• 高度強化経路1：</color>(25 Sun) Grows immediately and produces Sun\n<color=black>• 高度強化経路2：</color>(25 Sun) Now produces 2 Suns at once</color>",
-            "cost": "<size=36>コスト：<color=#8B0000>25</color>\nクールタイム：<color=#8B0000>7.5秒</color></size>"
-        },
-        {
-            "seedType": 360,
-            "name": "煙キノコ（ＴＤ）",
-            "introduce": "<align=justified><size=36><color=black>煙キノコ, the misanthropic workaholic, can't stand the sight of zombies—too much of a distraction. He's got a small stash of bullets, but they're more than lethal enough. \"Don't bother me unless it's urgent. If you want them dead, just shoot them yourself.\" Still, his sharp efficiency keeps everyone looking up to him.</color>",
-            "info": "<size=36>煙キノコ can destroy most zombies in front of it.\n\n<color=blue>Reversible by pressing R</color>\n<color=black>ダメージ：</color><color=#8B0000>1000/60秒</color>\n<color=black>スペシャル：</color><color=#8B0000>Click manually in the Upgrade Menu to attack all zombies in the row in front.</color>\n<color=black>強化リスト：</color><color=#8B0000>\n<color=black>• 基本強化：</color>(200 Sun) 攻撃力+50%\n<color=black>• 高度強化経路1：</color>(500 Sun) 攻撃力+200%\n<color=black>• 高度強化経路2：</color>(500 Sun) Attack CD -50%</color>",
-            "cost": "<size=36>コスト：<color=#8B0000>500</color>\nクールタイム：<color=#8B0000>50秒</color></size>"
-        },
-        {
-            "seedType": 361,
-            "name": "墓破壊者（ＴＤ）",
-            "introduce": "<align=justified><size=36><color=black>Despite 墓破壊者's fearsome appearance, he wants everyone to know that he loves kittens and spends his off hours volunteering at a local zombie rehabilitation center. \"It's just the right thing to do,\" he says.</color>",
-            "info": "<size=36>Plant 墓破壊者s on statues to remove the statues.\n\n<color=black>スペシャル：</color><color=#8B0000>Can bust Statues.</color>\n<color=black>Sun Statue Mechanic: </color><color=#8B0000>\n<color=black>•</color> Statues block straight-shooting projectiles from plants and have 1000 HP each.\n<color=black>•</color> Statues can only be damaged by projectiles or 墓破壊者s.\n<color=black>•</color>Sunflower Statues drop 100 Sun when destroyed, 太陽キノコ Statues drop 50.</color>",
-            "cost": "<size=36>コスト：<color=#8B0000>0</color>\nクールタイム：<color=#8B0000>50秒</color></size>"
-        },
-        {
-            "seedType": 362,
-            "name": "ガンガンキノコ（ＴＤ）",
-            "introduce": "<align=justified><size=36><color=black>\"Courage fills me, no fear remains~ Whether it's spring, fall, winter, or summer~\" ガンガンキノコ no longer shrinks in the face of zombies. \"I used to tremble, but フュームキノコ先輩 told me, 'If a zombie gets near, spray your spores. Hiding won't solve anything.'\"</color>",
-            "info": "<size=36>ガンガンキノコ is ready to take on the zombies, near or far!\n\n<color=blue>Reversible by pressing R</color>\n<color=black>ダメージ：</color><color=#8B0000>20×2/1.5s (Long range); 20/1.5s (Short range, piercing)</color>\n<color=black>スペシャル：</color><color=#8B0000>Shoots 2 spores at once. When zombies get within 4 tiles in range, sprays piercing fumes instead.</color>\n<color=black>強化リスト：</color><color=#8B0000>\n<color=black>• 基本強化：</color>(80 Sun) Attack Damage & Speed +20%\n<color=black>• 高度強化経路1：</color>（200太陽）攻撃力が200%増加, now permanently shoots spores\n<color=black>• 高度強化経路2：</color>(200 Sun) 攻撃力+100%, range for spraying fumes ×2</color>",
-            "cost": "<size=36>コスト：<color=#8B0000>200</color>\nクールタイム：<color=#8B0000>7.5秒</color></size>"
-        },
-        {
-            "seedType": 363,
-            "name": "冷風ブロバー（ＴＤ）",
-            "introduce": "<align=justified><size=36><color=black>冷風ブロバー is a -4°C air conditioner. When his chilly breeze blows, it feels like stepping straight into winter. Even Snow Pea is frozen, the cold wind actually froze his own projectiles. What could possibly be colder than that? Answer: The atmosphere after Coldsnap Bean's told one of his totally tone deaf jokes.</color>",
-            "info": "<size=36>ブロバー of a freezing breeze that constantly applies chill.\n\n<color=black>スペシャル：</color><color=#8B0000>\n<color=black>•</color> Lasts for 10s before disappearing.\n<color=black>•</color> Deals 1 damage and applies 20 Cryo points to all zombies on the lawn.\n<color=black>•</color> Converts all snow peas on screen to polar ice peas.</color>",
-            "cost": "<size=36>コスト：<color=#8B0000>125</color>\nクールタイム：<color=#8B0000>50秒</color></size>"
-        },
-        {
-            "seedType": 364,
-            "name": "破滅スターフルーツ（ＴＤ）",
-            "introduce": "<align=justified><size=36><color=black>\"Stars, grant me the power of destruction!\" 破滅スターフルーツ chants a dreadful incantation, summoning meteors to obliterate everything he despises. But why is the meteor black? \"Probably because it burned up a little while passing through the atmosphere.\"</color>",
-            "info": "<size=36>Transforms himself into a 破滅メテオ and crash into the ground.\n\n<color=black>スペシャル：</color><color=#8B0000>Disappears after 3s and summons a 破滅メテオ that deals 1800 area damage on impact and splits into 180 spore stars each dealing 20 damage.</color>",
-            "cost": "<size=36>コスト：<color=#8B0000>175</color>\nクールタイム：<color=#8B0000>90秒</color></size>"
-        },
-        {
-            "seedType": 365,
-            "name": "ウツボカズラ迫撃砲（ＴＤ）",
-            "introduce": "<align=justified><size=36><color=black>\"Coach, I want to play basketball.\" ウツボカズラ迫撃砲 has always dreamed of becoming a basketball star. He practices shooting day and night without rest. He has two advantages: first, he kind of looks like a basketball hoop; second, he has an endless supply of basketballs to practice with. For heaven's sake, don't ask what those balls are made of.</color>",
-            "info": "<size=36>Lobs droplet shells that bounce between the zombie and other ウツボカズラ迫撃砲s.\n\n<color=black>ダメージ：</color><color=#8B0000>40/3s</color>\n<color=black>Range: </color><color=#8B0000>Within 2 tiles in all four directions</color>\n<color=black>スペシャル：</color><color=#8B0000>Projectiles rebound to nearby other ウツボカズラ迫撃砲s on hit, prompting them to immediately attact twice.</color>\n<color=black>強化リスト：</color><color=#8B0000>\n<color=black>• 基本強化：</color>(120 Sun) Attack Damage & Speed +20%\n<color=black>• 高度強化経路1：</color>（300太陽）攻撃力+200%\n<color=black>• 高度強化経路2：</color>（300太陽）Attack Speed +100%, projectiles can now rebound to self</color>",
-            "cost": "<size=36>コスト：<color=#8B0000>300</color>\nクールタイム：<color=#8B0000>7.5秒</color></size>"
-        },
-        {
-            "seedType": 800,
-            "name": "金将狙撃ピー",
-            "introduce": "<align=justified>\"He's a dead man.\" When the first glint of gold arcs through the sky, even a brainless zombie knows that that is the harbinger for ultimate oblivion.<size=36><color=black></color>",
-            "info": "<size=36>Coordinate all firepower!\n\n<color=#4A2900>利用条件：旅行モード</color>\n<color=black>ダメージ：</color><color=#8B0000>1000/6s</color>\n<color=black>スペシャル：</color><color=#8B0000>\n<color=black>•</color> Headshot once every 6s.\n<color=black>•</color> Active Ability: Click on 金将狙撃ピー to bring up a crosshair. Select any zombie as target, and all snipers on the field will immediately coordinate a focused attack on it. This effect has a 30s cooldown. \n<color=black>旅行修正効果：\n</color><color=#8B0000>1. Attack Speed of all Snipers increased by 30%\n2. CD for Active Ability reduced to 15秒</color>",
-            "cost": "\n<size=36>融合レシピ：<color=#8B0000>狙撃ピー＋金の磁石</color>"
-        },
-        {
-            "seedType": 801,
-            "name": "チェリー狙撃ピー",
-            "introduce": "<align=justified><size=36>A famous baker renowned for his cherry pie—though he often forgets the most essential ingredient: cherries. But fret not! Once he deals with this zombie, bam, cherry pie, complete!<color=black></color>",
-            "info": "<size=36>Create cherry explosions at the location of his targets.\n\n<color=#4A2900>利用条件：旅行モード</color>\n<color=black>スペシャル：</color><color=#8B0000>\n<color=black>•</color> Creates cherry explosions at the location of his targets every 2s.\n<color=black>•</color> Headshots every 8 attacks. \n<color=black>旅行修正効果：\n</color><color=#8B0000>Benefits from チェリー爆弾ガトリング's Modifiers</color>",
-            "cost": "<size=36>融合レシピ：<color=#8B0000>狙撃ピー＋チェリー爆弾ガトリング</color>"
-        },
-        {
-            "seedType": 802,
-            "name": "破滅狙撃ピー",
-            "introduce": "<align=justified><size=36><color=black>He is the guardian of the night, the stalker in the shadows. The moonlight is his veil, and the night sky his camouflage. I am grateful to fate for granting me this world-shattering power—along with the trials it brings, and the burdens it adds.</color>",
-            "info": "<size=36>His shots create doom explosions!\n\n<color=#4A2900>利用条件：旅行モード</color>\n<color=black>スペシャル：</color><color=#8B0000>\n<color=black>•</color> Unleashes a 破滅キノコ explosion at his target's location every 8s.\n<color=black>•</color> Headshot every 2 attacks.\n<color=black>旅行修正効果：\n</color><color=#8B0000>1. (破滅ガトリング's 1st Modifier) Attack Interval → 4s\n2. (破滅ガトリング's 2nd Modifier) Now every shot headshots the target.</color>",
-            "cost": "\n<size=36>融合レシピ：<color=#8B0000>狙撃ピー＋破滅ガトリング</color>"
-        },
-        {
-            "seedType": 803,
-            "name": "狙撃つららキノコ",
-            "introduce": "<align=justified><size=36><color=black>狙撃つららキノコ is the shortest sniper in the squad, though he doesn't see that as a problem. \"My fellow sniper buddies, sure, they're tall and imposing, but they always need other plants to cover for them. Me? I can handle it myself just fine!\"</color>",
-            "info": "<size=36>His shots create doom explosions!\n\n<color=black>ダメージ：</color><color=#8B0000>500/3s</color>\n<color=#4A2900>利用条件：旅行モード</color>\n<color=#0077b6>Cryo System: </color><color=#8B0000>Attacks inflict 100 Cryo points and deal ×4 damage to frozen zombies.</color>\n<color=black>スペシャル：</color><color=#8B0000>\n<color=black>•</color> Deals splash damage in a single tile.\n<color=black>•</color> Headshots the main target every 6 attacks.\n<color=black>旅行修正効果：\n</color><color=#8B0000>1. (つららガトリングキノコ's 1st Modifier) Splash radius → 3×3\n2. (つららガトリングキノコ's 2nd Modifier) Now deals ×10 damage to frozen zombies</color>",
-            "cost": "<size=36>融合レシピ：<color=#8B0000>狙撃ピー＋つららガトリングキノコ</color>"
         }
     ]
 }
