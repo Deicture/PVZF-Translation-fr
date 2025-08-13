@@ -2825,7 +2825,7 @@
             "seedType": 1285,
             "name": "Golden-nut",
             "introduce": "<align=justified><size=36><color=black>Zombies just can't resist biting into Golden-nut's shell to see what's inside. It's not magic; there's simply a rumor among zombies that he's a chocolate truffle wrapped in gold foil.</color>",
-            "info": "<size=36> Wall-nut made of gold, with even higher toughness; can use Ultimate to boost max HP and restore health.\n\n<color=black>Toughness: </color><color=#8B0000>8000</color>\n<color=black>Ultimate: </color><color=#8B0000>Costs 1000 Coins, Cooldown: 5s; Increases max Toughness by 1000 and restores health equal to its full Toughness.</color>",
+            "info": "<size=36>Wall-nut made of gold, with even higher toughness; can use Ultimate to boost max HP and restore health.\n\n<color=black>Toughness: </color><color=#8B0000>8000</color>\n<color=black>Ultimate: </color><color=#8B0000>Costs 1000 Coins, Cooldown: 5s; Increases max Toughness by 1000 and restores health equal to its full Toughness.</color>",
             "cost": "<size=36>Upgrade Cost: </color><color=#8B0000>1000 Coins, 1 instance of Ultimate included</color>"
         },
         {
