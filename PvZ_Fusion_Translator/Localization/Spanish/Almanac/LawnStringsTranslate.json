@@ -6281,7 +6281,7 @@
       "seedType": 1274,
       "name": "Miédica Explosiva",
       "introduce": "<size=39><color=#3D1400>La cereza más mansa de la familia, sin rabietas ni gritos, y querida por muchos. \u0022A veces… me dan ganas de decir palabrotas\u0022, admite. \u0022Pero… me da miedo que alguien me grite por ello\u0022.</color></size>",
-      "info": "<size=39>Genera una explosión al esconderse.</color>\n\n<color=#3D1400>Daño:</color> <color=red>40 cada 1.5s (Esporas) 600 (Explosión)\n<color=#3D1400>Especial:</color> <color=red>Al esconderse crea una explosión en un área de 3x3.</color>\n<color=#3D1400>Nombre Científico:</color> <color=red>Mycosa explosivus</color></size>\n<size=39><color=#3D1400>Fórmula de Fusión:</color> <color=red>F1 + F2</color></size>",
+      "info": "<size=39>Genera una explosión al esconderse.</color>\n\n<color=#3D1400>Daño:</color> <color=red>40 cada 1.5s (Esporas) 600 (Explosión)\n<color=#3D1400>Especial:</color> <color=red>Al esconderse crea una explosión en un área de 3x3.</color>\n<color=#3D1400>Nombre Científico:</color> <color=red>Mycosa explosivus</color></size>\n<size=39><color=#3D1400>Fórmula de Fusión:</color> <color=red>Petacereza + Seta Miédica</color></size>",
       "cost": "<size=39>Costo: <color=red>175, 250</color>   Recarga: <color=red>57.5 Segundos</color>\nPlantas Requeridas: <color=red>2</color></size>"
     },
     {
@@ -6400,7 +6400,7 @@
       "seedType": 1291,
       "name": "Humoseta Tiburón",
       "introduce": "<size=39><color=#3D1400>\u0022Vengo del vasto océano\u0022, presume la Humoseta Tiburón. \u0022Con esta imitación de tiburón, puedo ahuyentar a cualquier depredador. Es una evolución solo posible en las profundidades marinas\u0022. Le encanta contar historias de su pasado a las Marsetas, pero nunca revela por qué abandonó el océano: el disfraz suele atraer a tiburones de verdad.</color></size>",
-      "info": "<size=39>Consume una Marseta para potenciarse. ¡Caníbal!</color>\n\n<color=#3D1400>Daño: </color><color=red>20 cada 1.5s</color>\n<color=#3D1400>Especial:</color> <color=red>Al colocar una Marseta en frente de una Humoseta Tiburón, este lo come, aumentando su rango de ataque a toda la fila y aumentando ligeramente su velocidad de ataque por 10 segundos. La Humoseta Tiburón también puede repeler zombis empujados por Krakenseta en 3 segundos.</color>\n<color=#3D1400>Nombre Científico:</color> <color=red>Pelagomyces penetrans</color></size>\n<size=39><color=#3D1400>Fórmula de Fusión:</color> <color=red>Humoseta + Marseta</color></size>",
+      "info": "<size=39>Consume una Marseta para potenciarse. ¡Caníbal!</color>\n\n<color=#3D1400>Daño: </color><color=red>20 cada 1.5s</color>\n<color=#3D1400>Especial:</color> <color=red>Al colocar una Marseta en frente de una Humoseta Tiburón, este lo come, aumentando su rango de ataque a toda la fila. La Humoseta Tiburón también puede repeler zombis empujados por Krakenseta en 3 segundos.</color>\n<color=#3D1400>Nombre Científico:</color> <color=red>Pelagomyces penetrans</color></size>\n<size=39><color=#3D1400>Fórmula de Fusión:</color> <color=red>Humoseta + Marseta</color></size>",
       "cost": "<size=39>Costo: <color=red>75, 225</color>   Recarga: <color=red>15 Segundos</color>\nPlantas Requeridas: <color=red>2</color></size>"
     },
     {
