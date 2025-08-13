@@ -813,6 +813,20 @@
             "cost": "<size=36>Conversion Formula: <color=#8B0000>×3 + Melon-pult <-> Puff-shroom</color>"
         },
         {
+            "seedType": 953,
+            "name": "Ultimate Sunflower",
+            "introduce": "<align=justified><size=36><color=black></color>",
+            "info": "<size=36> \n\n<color=#4A2900>Usage Condition: Odyssey Mode | Unlockable</color>\n<color=black>Toughness: </color><color=#8B0000>8000</color>\n<color=black>Damage: </color><color=#8B0000>Insta-kill (Devour)</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Anti-crush.\n<color=black>•</color> Can swallow all non-miniboss zombies in a 1.5 tile range.\n<color=black>•</color> Using a Chomper seedpacket on it reduces digest time by 10s.\n<color=black>•</color> Upon successful digestion, pulls nearby zombies from adjacent lanes to its lane and heals to full HP.</color>\n<color=black>Odyssey Modifiers:</color>\n<color=#8B0000>1. Attack range ×2\n2. Provides 2 Lumos levels to a 5×5 area during digestion</color>",
+            "cost": "\n<size=36>Fusion Formula: <color=#8B0000></color>"
+        },
+        {
+            "seedType": 954,
+            "name": "Vulcannon",
+            "introduce": "<align=justified><size=36><color=black></color>",
+            "info": "<size=36>Launches cobs of pure lava and heat.\n\n<color=#4A2900>Usage Condition: Odyssey Mode | Unlockable</color>\n<color=black>Toughness: </color><color=#8B0000>8000</color>\n<color=black>Damage: </color><color=#8B0000>3600/36s</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Infuses all plants across the field with Cherry Bomb (prioritized)/Jalapeno (except Pumpkins and Flower Pots).\n<color=black>•</color> Blasts inflict Enflamed Debuff.\n<color=black>•</color> Blasts split into multiple volcanic bombs on impact, the number increases with more zombies hit (at least 6). Volcanic bombs deal splash damage at half the power of the main blast.</color>\n<color=black>Odyssey Modifiers:</color>\n<color=#8B0000>1. Volcanic Bombs Damage ×5\n2. Now triggers Thermonuclear Detonations when main blasts strike Cherry Bombs or Jalapenos</color>",
+            "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Bamboom > Pyro Cannon</color>"
+        },
+        {
             "seedType": 1000,
             "name": "Solar-shooter",
             "introduce": "<align=justified><size=36><color=black>\"Actually, the Sunflower behind me is my sister,\" Peashooter explained to everyone. \"We've been inseparable since birth. She loves producing Sun, and I destroy zombies on her behalf.\" But everyone knows the truth: the cheerful Pea brother is a total siscon. After all, every zombie that gets near his sister mysteriously ends up vaporized by sunlight.</color></size>",
@@ -2862,6 +2876,13 @@
             "introduce": "<align=justified><size=36><color=black>Brainstorm Commando is hopelessly smitten with zombies. She painstakingly paints every pea pink and admires the bright flash when they ignite. \"It's a gift for the zombies,\" she says, eager to send as many as possible.</color>",
             "info": "<size=36>Constantly fires loads of Hypno Peas.\n\n<color=#4A2900>Usage Condition: Odyssey Mode</color>\n<color=black>Damage: </color><color=#8B0000>30×6/1.5s</color>\n<color=black>Ultimate: </color><color=#8B0000>30×3/0.02s</color>\n<color=black>Special: </color><color=#8B0000>2% chance to shoot a barrage of hypno peas each attack, lasting 5s.</color>",
             "cost": "<size=36>Fusion Formula: <color=#8B0000>Pea-storm Commando + Hypno-shroom</color>"
+        },
+        {
+            "seedType": 1293,
+            "name": "Sea-nut",
+            "introduce": "<align=justified><size=36><color=black></color>",
+            "info": "<size=36>Grows and becomes a bowling nut and crushes zombies.\n\n<color=black>Toughness: </color><color=#8B0000>2000 (initial), 6000 (max)</color>\n<color=black>Special: </color><color=#8B0000>Gains 2000 Toughness every 10s. When it exceeds 6000, Sea-nut becomes a bowling nut and rolls forward, crushing all zombies in the lane, dealing 600 damage every 0.02s. </color>",
+            "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Wall-nut > Sea-shroom</color>"
         },
         {
             "seedType": 350,
