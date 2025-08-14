@@ -3906,8 +3906,8 @@
       "seedType": 915,
       "name": "Mazorcañón Cristalino",
       "introduce": "<size=39><color=#3D1400>El hielo es su vestimenta y el negro es su advertencia. Cada disparo contiene el poder de destruir cielo y tierra, cubriendo el mundo de escarcha. Los zombis marcados por él no necesitan prepararse, ya que, después del destello, no quedará nada.</color></size>",
-      "info": "<size=39>Soporte del <color=#0077b6>Sistema Criogénico</color>\nEl Mazorcañón Cristalino tiene el poder de destruir cielo y tierra.\n\n<color=#3D1400>Daño:</color> <color=red>Área de impacto de 3×3 con 1800 más 1800 + 30% del valor de vida máxima en todo el jardín. Daño del cañón secundario es de 300x2/1.5 segundos, con efecto de ralentización</color>\n<color=#3D1400>Recarga:</color> <color=red>36 segundos</color>\n\n<color=purple>Mejoras de Odisea:</color>\n- Daño del estallido principal multiplicado por <color=red>4</color>\n- Su tiempo de recarga <color=red>se reduce a 12 segundos.</color>\n\n<color=#3D1400>Fórmula de Fusión:</color> <color=red>Crio-cañón + Criogeniseta</color>\n<color=#3D1400>Nombre Científico: </color><color=red>Cornucannon Crystallus Nucleos</color></size>",
-      "cost": "<size=33>Costo: <color=red>700, 850</color>   Recarga: <color=red>165 Segundos</color>\nPlantas Requeridas: <color=red>5\n<color=purple>Condición de Uso: Modo Odisea</color></size>"
+      "info": "<size=39>Soporte del <color=#0077b6>Sistema Criogénico</color>\nEl Mazorcañón Cristalino tiene el poder de destruir cielo y tierra.\n\n<color=#3D1400>Daño:</color> <color=red>Área de impacto de 3×3 con 1800 más 1800 + 30% del valor de vida máxima en todo el jardín. Daño del cañón secundario es de 300x2/1.5 segundos, con efecto de ralentización</color>\n<color=#3D1400>Recarga:</color> <color=red>36 segundos</color>\n<color=#3D1400>Especial:</color> <color=red>Sus mazorcas fusionan todas las plantas en el campo con Seta Congelada (prioridad) y Petaseta (excepto Calabazas y Macetas).</color>\n\n<color=purple>Mejoras de Odisea:</color>\n- Daño del estallido principal multiplicado por <color=red>4</color>\n- Su tiempo de recarga <color=red>se reduce a 12 segundos.</color>\n\n<color=#3D1400>Fórmula de Fusión:</color> <color=red>Crio-cañón + Criogeniseta</color>\n<color=#3D1400>Nombre Científico: </color><color=red>Cornucannon Crystallus Nucleos</color></size>",
+      "cost": "<size=33>Costo: <color=red>775, 1050</color>   Recarga: <color=red>165 Segundos</color>\nPlantas Requeridas: <color=red>6\n<color=purple>Condición de Uso: Modo Odisea</color></size>"
     },
     {
       "seedType": 916,
@@ -4169,10 +4169,13 @@
      "cost": "<size=33>Costo: <color=red>850, 925</color>   Recarga: <color=red>45 Segundos</color>\nPlantas Requeridas: <color=red>6\n<color=purple>Condición de Uso: Modo Odisea</color></size>"
     },
     {
-      "seedType": 953,
-      "name": "953"
-    },
-    {
+      "seedType": 953,
+      "name": "Mazorcañón Magmático",
+      "introduce": "<size=39><color=#3D1400>Nacido del fuego que forjó las estrellas, El Mazorcañón Magmático arde como antaño lo hizo su creación: no para extenderse sin fin, sino para acabar con todo. Cuando su último resplandor se apague, solo quedará el silencio tras la primera chispa...</color></size>",
+      "info": "<size=39>Lanza mazorcas con lava y calor puro.\n\n<color=#3D1400>Daño:</color> <color=red>3600 cada 36s\n\n<color=#3D1400>Especial:</color> <color=red>\n- Sus mazorcas fusionan todas las plantas en el campo con Petacereza (prioridad) y Jalapeño (excepto Calabazas y Macetas).\n- Sus explosiones infligen el Estado Pirogénico y despues hacen un gran daño.\n- Las explosiones se dividen en múltiples mazorcas magmáticas al impactar, el número aumentando cuanto más zombis son alcanzados (al menos 6).\n- Las mazorcas magmáticas infligen daño por salpicadura con la mitad de daño de la explosión principal.\n\n<color=purple>Mejoras de Odisea:</color>\n</color>- Daño de mazorcas magmáticas x5</color>\n- Ahora activa Detonaciones Termonucleares cuando las mazorcas principales impactan con Petacerezas o Jalapeños (Petacereza: Libera 10 explosiones de bomba cereza en el área alrededor. Jalapeño: Libera 10 explosiones de Jalapeño en todo el campo. Cada uno inflige daño igual a (daño de mazorca × 18)).</color>\n\n<color=#3D1400>Fórmula de Fusión: </color><color=red>Piro-cañón + Ramo de Cerezas</color>\n<color=#3D1400>Nombre Científico: </color><color=red>Cornucannon Volcanem Nucleos</color></size>",
+      "cost": "<size=33>Costo: <color=red>900</color>   Recarga: <color=red>215 Segundos</color>\nPlantas Requeridas: <color=red>6\n<color=purple>Condición de Uso: Modo Odisea</color></size>"
+    },
+    {
       "seedType": 954,
       "name": "954"
     },
@@ -6409,6 +6412,20 @@
       "introduce": "<size=39><color=#3D1400>Sargento Hipnótico está loca por los zombis. Pinta con esmero cada guisante de rosa y admira el destello brillante que emiten al encenderse. \u0022Es un regalo para los zombis\u0022, dice, ansiosa por enviar tantos como sea posible.</color></size>",
       "info": "<size=39>Dispara ráfagas de guisantes hipnóticos.</color>\n\n<color=#3D1400>Daño:</color> <color=red>30*6 cada 1.5s\n<color=#3D1400>Especial:</color> <color=red>Hereda las características de Hipnoguisantes y Sargento Guisante.</color>\n<color=#3D1400>Nombre Científico:</color> <color=red>Hipnotica rapidicaudex</color></size>\n<size=39><color=#3D1400>Fórmula de Fusión:</color> <color=red>Sargento Guisante + Hipnoseta</color></size>",
       "cost": "<size=39>Costo: <color=red>675, 750</color>   Recarga: <color=red>37.5 Segundos</color>\nPlantas Requeridas: <color=red>2</color></size>"
+        },
+        {
+      "seedType": 1293,
+      "name": "Marinuez",
+      "introduce": "<size=39><color=#3D1400>A Marinuez le encanta pasar tiempo con las perlas de agua, viéndolas absorber agua y crecer. Su cuerpo redondo brillando con la luz del arcoíris, reflejada en sus inocentes ojos. \u0022El tiempo es como una mariposa azul revoloteando junto al arroyo. Una vez que se va, nunca lo volverás a ver\u0022.</color></size>",
+      "info": "<size=39>Crece absorbiendo agua, rodando para aplastar a los zombis.</color>\n\n<color=#3D1400>Dureza: </color><color=red>2000 (inicialmente), 6000 (máximo)</color>\n<color=#3D1400>Especial:</color> <color=red>Crece a los 10 y 20 segundos despues de plantar, incrementando sus PS y dureza por 2000 cada vez. Despues de 30s de ser plantado, se convierte en una nuez boliche, haciendo 600 de daño cada 0.02s al contacto.</color>\n<color=#3D1400>Nombre Científico:</color> <color=red>Juglans maritem</color></size>\n<size=39><color=#3D1400>Fórmula de Fusión:</color> <color=red>Nuez + Marseta</color></size>",
+      "cost": "<size=39>Costo: <color=red>50, 125</color>   Recarga: <color=red>37.5 Segundos</color>\nPlantas Requeridas: <color=red>2</color></size>"
+    },
+    {
+      "seedType": 1294,
+      "name": "Miédica Marina",
+      "introduce": "<size=39><color=#3D1400>La Miédica Marina flota como un arrecife oculto, tímido, quieto, pero peligroso para los incautos. Cuando el agua circundante se mueve, se despierta y se defiende ferozmente, para luego volver a refugiarse bajo las olas como si nada hubiera pasado.</color></size>",
+      "info": "<size=39>Muy tímido para atacar, hasta que ve una Marseta llegar al agua.</color>\n\n<color=#3D1400>Daño:</color> <color=red>20 cada 0.5s\n<color=#3D1400>Especial:</color> <color=red>Se esconde, a pesar que no hayan zombis cercanos. Al ocupar una carta de Marseta en ella, la hace atacar por 10s. Después de esto, vuelve a esconderse.</color>\n<color=#3D1400>Nombre Científico:</color> <color=red>Pegalomyces tremula</color></size>\n<size=39><color=#3D1400>Fórmula de Fusión:</color> <color=red>Seta Miédica + Marseta</color></size>",
+      "cost": "<size=39>Costo: <color=red>25, 175</color>   Recarga: <color=red>15 Segundos</color>\nPlantas Requeridas: <color=red>2</color></size>"
         }
     ]
 }

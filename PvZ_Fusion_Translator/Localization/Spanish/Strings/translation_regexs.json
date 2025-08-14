@@ -193,5 +193,6 @@
   "([^\\s]+)\n\n尚未拥有这个词条\n\n当前武器词条上限：\n(\\d+)/(\\d+)": "{0}\n\nEste modificador no ha sido mejorado aún.\n\nModificadores de Arma Actuales:\n{1}/{2}",
   "([^\\s]+)\n\n该词条已拥有(\\d+)个\n\n当前武器词条上限：\n(\\d+)/(\\d+)": "{0}\n\nEste modificador ya ha sido mejorado {1} vez (veces).\n\nModificadores de Arma Actuales:\n{2}/{3}",
   "手套冷却速度增加(\\d+)%": "Velocidad de Recarga de Guantes +{0}%",
-  "手套冷却速度增加(\\d+)%，锤子的冷却速度增加(\\d+)%": "Velocidad de Recarga de Guantes +{0}%, Velocidad de Recarga de Martillo +{1}%"
+  "手套冷却速度增加(\\d+)%，锤子的冷却速度增加(\\d+)%": "Velocidad de Recarga de Guantes +{0}%, Velocidad de Recarga de Martillo +{1}%",
+  "刷新，消耗金币(\\d+)": "<size=18>Repetir - Precio: {0} Monedas"
 }
