@@ -2741,7 +2741,7 @@
             "seedType": 1273,
             "name": "Camo-shroom",
             "introduce": "<align=justified><size=36><color=black>Camo-shroom cares for his friends. Even though he can fly away from the danger of zombies, into the clouds of high above, he can't simply abandon his roots. In an attempt to protect them, he covers them with his leaves and begs the zombies not to hurt them. And the zombies, for some reason, listen.\n\n-Written by Ultra Badlander</color>",
-            "info": "<size=36>Floats above ground, providing camouflage to nearby Scaredy-shrooms hiding from zombies.\n\nSpecial: </color><color=#8B0000>\n<color=black>•</color> Hovering plant.\n<color=black>•</color> Zombies won't eat hiding Scaredy-type plants in a 3×3 area around the Camo-shroom.</color>",
+            "info": "<size=36>Floats above ground, providing camouflage to nearby Scaredy-shrooms hiding from zombies.\n\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Hovering plant.\n<color=black>•</color> Zombies won't eat hiding Scaredy-type plants in a 3×3 area around the Camo-shroom.</color>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Scaredy-shroom + Blover</color>"
         },
         {
@@ -2853,7 +2853,7 @@
             "seedType": 1289,
             "name": "Roasted Pumpkin",
             "introduce": "<align=justified><size=36><color=black>\"Happy Halloween!\" calls Roasted Pumpkin, handing out bags of candy to mischievous little plants. And when the candy's gone, don't forget to come see his stage play—he might just play the Headless Horseman himself!</color>",
-            "info": "<size=36>A Pumpkin formed in intense temperatures, but not much different.\n\n<color=black>Toughness: </color><color=#8B0000>4000</color>\n<color=black>Special: </color><color=#8B0000>>\n<color=black>•</color> Cannot be used for fusions.\n<color=black>•</color> Can be converted to a regular Pumpkin using an Ice Pot.</color>",
+            "info": "<size=36>A Pumpkin formed in intense temperatures, but not much different.\n\n<color=black>Toughness: </color><color=#8B0000>4000</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Cannot be used for fusions.\n<color=black>•</color> Can be converted to a regular Pumpkin using an Ice Pot.</color>",
             "cost": "\n<size=36>"
         },
         {
