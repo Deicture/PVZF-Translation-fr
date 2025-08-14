@@ -814,16 +814,9 @@
         },
         {
             "seedType": 953,
-            "name": "Ultimate Sunflower",
-            "introduce": "<align=justified><size=36><color=black></color>",
-            "info": "<size=36> \n\n<color=#4A2900>Usage Condition: Odyssey Mode | Unlockable</color>\n<color=black>Toughness: </color><color=#8B0000>8000</color>\n<color=black>Damage: </color><color=#8B0000>Insta-kill (Devour)</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Anti-crush.\n<color=black>•</color> Can swallow all non-miniboss zombies in a 1.5 tile range.\n<color=black>•</color> Using a Chomper seedpacket on it reduces digest time by 10s.\n<color=black>•</color> Upon successful digestion, pulls nearby zombies from adjacent lanes to its lane and heals to full HP.</color>\n<color=black>Odyssey Modifiers:</color>\n<color=#8B0000>1. Attack range ×2\n2. Provides 2 Lumos levels to a 5×5 area during digestion</color>",
-            "cost": "\n<size=36>Fusion Formula: <color=#8B0000></color>"
-        },
-        {
-            "seedType": 954,
             "name": "Vulcannon",
-            "introduce": "<align=justified><size=36><color=black></color>",
-            "info": "<size=36>Launches cobs of pure lava and heat.\n\n<color=#4A2900>Usage Condition: Odyssey Mode | Unlockable</color>\n<color=black>Toughness: </color><color=#8B0000>8000</color>\n<color=black>Damage: </color><color=#8B0000>3600/36s</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Infuses all plants across the field with Cherry Bomb (prioritized)/Jalapeno (except Pumpkins and Flower Pots).\n<color=black>•</color> Blasts inflict Enflamed Debuff.\n<color=black>•</color> Blasts split into multiple volcanic bombs on impact, the number increases with more zombies hit (at least 6). Volcanic bombs deal splash damage at half the power of the main blast.</color>\n<color=black>Odyssey Modifiers:</color>\n<color=#8B0000>1. Volcanic Bombs Damage ×5\n2. Now triggers Thermonuclear Detonations when main blasts strike Cherry Bombs or Jalapenos</color>",
+            "introduce": "<align=justified><size=36><color=black>Born from the fire that forged the stars, Vulcannon burns as creation once did — not to spread without end, but to end all things. When its final blaze fades, only the silence after the first spark will remain.</color>",
+            "info": "<size=36>Launches cobs of pure lava and heat.\n\n<color=#4A2900>Usage Condition: Odyssey Mode | Unlockable</color>\n<color=black>Toughness: </color><color=#8B0000>8000</color>\n<color=black>Damage: </color><color=#8B0000>3600/36s</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Infuses all plants across the field with Cherry Bomb (prioritized)/Jalapeno (except Pumpkins and Flower Pots).\n<color=black>•</color> Blasts inflict Enflamed Debuff and then does damage.\n<color=black>•</color> Blasts split into multiple volcanic bombs on impact, the number increases with more zombies hit (at least 6). Volcanic bombs deal splash damage at half the power of the main blast.</color>\n<color=black>Odyssey Modifiers:</color>\n<color=#8B0000>1. Volcanic Bombs Damage ×5\n2. Now triggers Thermonuclear Detonations when main blasts strike Cherry Bombs or Jalapenos (Cherry Bomb: Releases 10 Cherry Bomb effects in the surrounding area; Jalapeno: Releases 10 Jalapeno effects across the entire field. Each deals damage equal to (blast damage × 18))</color>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Bamboom > Pyro Cannon</color>"
         },
         {
@@ -1684,7 +1677,7 @@
             "seedType": 1122,
             "name": "Pyro Cannon",
             "introduce": "<align=justified><size=36><color=black>Pyro Cannon has a booming popcorn business. The fiery aroma sends zombies running, adding a sizzle to any event. It's even considering a hot pot session with Jalapeno soon.</color>",
-            "info": "<size=36>Use manually to fire an explosive, high-damage flaming projectile that scorches zombies and infuses nearby plants with Jalapeno.\n\n<color=black>Damage: </color><color=#8B0000>3240 (Cremator)</color>\n<color=black>Special: </color><color=#8B0000>Inflicts Enflamed debuff and infuses plants in its blast radius with Jalapeno.</color>",
+            "info": "<size=36>Use manually to fire an explosive, high-damage flaming projectile that scorches zombies and infuses nearby plants with Jalapeno.\n\n<color=black>Damage: </color><color=#8B0000>3240 (Cremator)</color>\n<color=black>Special: </color><color=#8B0000>Inflicts Enflamed debuff and then does damage, and infuses plants in its blast radius with Jalapeno.</color>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Cob Cannon + Jalapeno</color>"
         },
         {
@@ -2083,7 +2076,7 @@
             "seedType": 1179,
             "name": "Bamboom",
             "introduce": "<align=justified><size=36><color=black>Business is booming for Bamboom, but the zombies aren't celebrating. Every time a firecracker goes off, they end up singed, dazed, and fuming—literally. \"Oh, lighten up,\" Bamboom teases. \"You look great in charcoal black.",
-            "info": "<size=36>Propels himself towards the zombies, causing damage and knocking them back.\n\n<color=black>Damage: </color><color=#8B0000>300</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> After being planted, waits for 1 second before flying forward in his lane, knocking back zombies it encounters and causing 300 area damage each impact.\n<color=black>•</color> Deals ×15 damage to Nian zombies.</color>",
+            "info": "<size=36>Propels himself towards the zombies, causing damage and knocking them back.\n\n<color=black>Damage: </color><color=#8B0000>300</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> After being planted, waits for 1s before flying forward in his lane, knocking back zombies it encounters and causing 300 area damage each impact.\n<color=black>•</color> Deals ×15 damage to Nian zombies.</color>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Cherry Bomb + Jalapeno</color>"
         },
         {
@@ -2880,9 +2873,16 @@
         {
             "seedType": 1293,
             "name": "Sea-nut",
-            "introduce": "<align=justified><size=36><color=black></color>",
-            "info": "<size=36>Grows and becomes a bowling nut and crushes zombies.\n\n<color=black>Toughness: </color><color=#8B0000>2000 (initial), 6000 (max)</color>\n<color=black>Special: </color><color=#8B0000>Gains 2000 Toughness every 10s. When it exceeds 6000, Sea-nut becomes a bowling nut and rolls forward, crushing all zombies in the lane, dealing 600 damage every 0.02s. </color>",
+            "introduce": "<align=justified><size=36><color=black>Sea-nut loves spending time with the Water Beads, watching them soak up water and grow, its round body shimmering with rainbow light, reflected in innocent eyes. \"Time is like a blue butterfly fluttering past the stream~ Once it's gone, you'll never see it again~\"</color>",
+            "info": "<size=36>Grows bigger by absorbing water, then rolls forward to crush zombies.\n\n<color=black>Toughness: </color><color=#8B0000>2000 (initial), 6000 (max)</color>\n<color=black>Special: </color><color=#8B0000>Grows at 10s and 20s after planting, increasing HP and durability by 2000 each time. At 30s after planting, turns into a bowling nut rolling forward, dealing 600 damage every 0.02s on contact.</color>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Wall-nut > Sea-shroom</color>"
+        },
+        {
+            "seedType": 1294,
+            "name": "Shelly-shroom",
+            "introduce": "<align=justified><size=36><color=black>Shelly-Shroom drifts like a hidden reef, timid, still, but dangerous to the unwary. When the surrounding water shifts, he rouses and ferociously defends himself, then settles back beneath the waves as if nothing happened.</color>",
+            "info": "<size=36>Too shy to attack until he sees a Sea-shroom dive.\n\n<color=black>Damage: </color><color=#8B0000>20/0.5s</color>\n<color=black>Special: </color><color=#8B0000>Hides himself by default. Using a Sea-shroom seedpacket on him makes him attack for 10s, after which he cowers again.</color>",
+            "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Scaredy-shroom > Sea-shroom</color>"
         },
         {
             "seedType": 350,

@@ -60,7 +60,7 @@
             "seedType": 8,
             "name": "魅惑菇",
             "introduce": "<color=#3D1400>“僵尸是我们的朋友，”魅惑菇这样断言，“他们在我们的生态中发挥着重要作用，却遭到了严重误解。我们可以也应当更努力地让他们‘调转’思维方式。”</color>",
-            "info": "僵尸啃咬魅惑菇时会被魅惑。\n\n<color=#3D1400>特点：</color><color=red>被啃咬时魅惑啃咬者并消失</color>",
+            "info": "僵尸啃咬魅惑菇后，将会转向并为植物方而战。\n\n<color=#3D1400>特点：</color><color=red>被啃咬时魅惑啃咬者并消失</color>",
             "cost": "花费：<color=red>75</color>\n冷却时间：<color=red>30秒</color>"
         },
         {
@@ -123,14 +123,14 @@
             "seedType": 17,
             "name": "地刺",
             "introduce": "<color=#3D1400>冰球运动令地刺痴迷。他买了包厢的季票，密切关注着喜欢的球员，在办公室的冰球赌局中也总是大获全胜。只有一个问题：他害怕冰球。</color>",
-            "info": "地刺攻击踩在上方的僵尸，能扎破轮胎。\n\n<color=#3D1400>伤害：</color><color=red>20/1秒</color>\n<color=#3D1400>特性：</color><color=red>低矮</color>\n<color=#3D1400>特点：①</color><color=red>不会阻挡僵尸</color>\n<color=#3D1400>②</color><color=red>攻击车辆时会扎破轮胎，然后消失</color>\n<color=#3D1400>扎胎：</color><color=red>若雪橇冰车/舞王冰车血量高于50%韧性，改为造成其50%韧性的伤害\n若舞装战车类僵尸血量高于1/3倍韧性，改为造成其1/3倍韧性的伤害</color>",
+            "info": "地刺能扎破轮胎，并对踩在上方的僵尸造成伤害。\n\n<color=#3D1400>伤害：</color><color=red>20/1秒</color>\n<color=#3D1400>特性：</color><color=red>低矮</color>\n<color=#3D1400>特点：①</color><color=red>不会阻挡僵尸</color>\n<color=#3D1400>②</color><color=red>攻击车辆时会扎破轮胎，然后消失</color>\n<color=#3D1400>扎胎：</color><color=red>若雪橇冰车/舞王冰车血量高于50%韧性，改为造成其50%韧性的伤害\n若舞装战车类僵尸血量高于1/3倍韧性，改为造成其1/3倍韧性的伤害</color>",
             "cost": "花费：<color=red>100</color>\n冷却时间：<color=red>7.5秒</color>"
         },
         {
             "seedType": 18,
             "name": "火炬树桩",
             "introduce": "<color=#3D1400>人人爱戴火炬树桩。他们喜欢他的诚实、他坚定的友谊，以及他增加豌豆伤害的能力。但他也有个不能说的秘密：他不识字！</color>",
-            "info": "火炬树桩将经过的豌豆点燃，使其伤害增加。\n\n<color=#3D1400>特点：</color><color=red>影响经过的特定子弹。点燃豌豆：伤害+20；融化寒冰豌豆：变为豌豆；点燃魅惑豌豆：伤害+30，且改为召唤植物方的豌豆射手僵尸。火炬树桩类植物能驱散小片迷雾（十字范围）</color>",
+            "info": "火炬树桩将经过的豌豆点燃，使其伤害增加。\n\n<color=#3D1400>特点：</color><color=red>影响经过的特定子弹。点燃豌豆：伤害+20；融化寒冰豌豆：变为豌豆。火炬树桩类植物能驱散小片迷雾（十字范围）</color>",
             "cost": "花费：<color=red>175</color>\n冷却时间：<color=red>7.5秒</color>"
         },
         {
@@ -332,7 +332,7 @@
         {
             "seedType": 240,
             "name": "黑曜石大麦",
-            "introduce": "<color=#3D1400> 花园里的黑曜石大麦雕像据说是植物们玩建筑接龙游戏的产物。“谁知道呢，”黑曜石大麦似乎很开心，“早在我来到花园之前，他们似乎就把我当成了‘猜不出来’的代名词。不过这样也挺好，谁会不愿意多显示一下自己的形象呢。”</color>",
+            "introduce": "<color=#3D1400>花园里的黑曜石大麦雕像据说是植物们玩建筑接龙游戏的产物。“谁知道呢，”黑曜石大麦似乎很开心，“早在我来到花园之前，他们似乎就把我当成了‘猜不出来’的代名词。不过这样也挺好，谁会不愿意多显示一下自己的形象呢。”</color>",
             "info": "定期变为随机究极植物。\n<color=blue>大麦的限定形态</color>\n\n<color=#3D1400>使用条件：</color><color=red>旅行冒险</color>\n<color=#3D1400>特点：</color><color=red>每30秒一次，变身成随机究极植物，贪欲菇除外</color>",
             "cost": "花费：<color=red>500</color>\n冷却时间：<color=red>70秒</color>"
         },
@@ -445,7 +445,7 @@
             "seedType": 350,
             "name": "豌豆向日葵[塔防]",
             "introduce": "<color=#3D1400>“其实背后的向日葵是我妹妹”豌豆向日葵对大家说 “我们从出生就在一起了，她喜欢产阳光，然后我就可以代表阳光消灭你” 不过大家都知道阳光开朗的豌豆哥哥是个不折不扣的妹控，毕竟所有想靠近他妹妹的僵尸都被阳光砸死了。”</color>",
-            "info": "发射命中时获得阳光的阳光子弹。\n<color=blue>可转向</color>\n\n<color=#3D1400>伤害：</color><color=red>20/1.5秒</color>\n<color=#3D1400>特点：</color><color=red>每第3发子弹击中目标时掉落5阳光</color>\n\n<color=#3D1400>基础强化(80阳光)：</color><color=red>伤害、攻速+20%</color>\n<color=#3D1400>分支一(200阳光)：</color><color=red>伤害+200%</color>\n<color=#3D1400>分支二(200阳光)：</color><color=red>攻速+100%</color>",
+            "info": "发射命中时获得阳光的阳光子弹。\n\n<color=#3D1400>伤害：</color><color=red>20/1.5秒</color>\n<color=#3D1400>特性：</color><color=red>可转向</color>\n<color=#3D1400>特点：</color><color=red>每第3发子弹击中目标时掉落5阳光</color>\n\n<color=#3D1400>基础强化(80阳光)：</color><color=red>伤害、攻速+20%</color>\n<color=#3D1400>分支一(200阳光)：</color><color=red>伤害+200%</color>\n<color=#3D1400>分支二(200阳光)：</color><color=red>攻速+100%</color>",
             "cost": "花费：<color=red>200</color>\n冷却时间：<color=red>7.5秒</color>"
         },
         {
@@ -459,7 +459,7 @@
             "seedType": 352,
             "name": "超级樱桃射手[塔防]",
             "introduce": "<color=#3D1400>他现在超级暴躁，劝你最好别去招惹他，说不定他真会把卡喉咙里的樱桃射出来——看他脸憋的多红。</color>",
-            "info": "发射爆炸樱桃，产生小范围樱桃爆炸。\n<color=blue>可转向</color>\n\n<color=#3D1400>伤害：</color><color=red>20/3秒</color>\n<color=#3D1400>特点：</color><color=red>免疫樱桃爆炸伤害。发射爆炸樱桃</color>\n\n<color=#3D1400>基础强化(160阳光)：</color><color=red>伤害+50%</color>\n<color=#3D1400>分支一(400阳光)：</color><color=red>樱桃爆炸伤害范围+50%，伤害+100%</color>\n<color=#3D1400>分支二(400阳光)：</color><color=red>攻速+200%</color>",
+            "info": "发射爆炸樱桃，产生小范围樱桃爆炸。\n\n<color=#3D1400>伤害：</color><color=red>20/3秒</color>\n<color=#3D1400>特性：</color><color=red>可转向</color>\n<color=#3D1400>特点：</color><color=red>免疫樱桃爆炸伤害。发射爆炸樱桃</color>\n\n<color=#3D1400>基础强化(160阳光)：</color><color=red>伤害+50%</color>\n<color=#3D1400>分支一(400阳光)：</color><color=red>樱桃爆炸伤害范围+50%，伤害+100%</color>\n<color=#3D1400>分支二(400阳光)：</color><color=red>攻速+200%</color>",
             "cost": "花费：<color=red>400</color>\n冷却时间：<color=red>50秒</color>"
         },
         {
@@ -487,7 +487,7 @@
             "seedType": 356,
             "name": "樱桃大嘴花[塔防]",
             "introduce": "<color=#3D1400>​自从跟樱桃炸弹喝了次酒，大嘴花就老是“炸炸呼呼”的。“尝尝这个！”这是他的饭前新口头禅，咀嚼声变成了爆炸声，碟碗乱飞，没有人愿意和他一起吃饭。最后经过一次举手表决，樱桃大嘴花不得不去院子里吃饭。现在，他倒是在僵尸上找到了乐趣，“尝尝这个！”——至少不用再买新餐具了。</color>",
-            "info": "吞食僵尸时在前方释放樱桃炸弹效果。\n<color=blue>可转向</color>\n\n<color=#3D1400>伤害：</color><color=red>秒杀（吞食）</color>\n<color=#3D1400>消化时间：</color><color=red>40秒</color>\n<color=#3D1400>特点：</color><color=red>吞食僵尸时，在前方1格释放伤害1000的樱桃炸弹效果</color>\n\n<color=#3D1400>基础强化(200阳光)：</color><color=red>爆炸伤害+20%，消化时间-10秒</color>\n<color=#3D1400>分支一(500阳光)：</color><color=red>樱桃爆炸伤害+100%</color>\n<color=#3D1400>分支二(500阳光)：</color><color=red>消化时间减半（15秒）</color>",
+            "info": "吞食僵尸时在前方释放樱桃炸弹效果。\n\n<color=#3D1400>伤害：</color><color=red>秒杀（吞食）</color>\n<color=#3D1400>消化时间：</color><color=red>40秒</color>\n<color=#3D1400>特性：</color><color=red>可转向</color>\n<color=#3D1400>特点：</color><color=red>吞食僵尸时，在前方1格释放伤害1000的樱桃炸弹效果</color>\n\n<color=#3D1400>基础强化(200阳光)：</color><color=red>爆炸伤害+20%，消化时间-10秒</color>\n<color=#3D1400>分支一(500阳光)：</color><color=red>樱桃爆炸伤害+100%</color>\n<color=#3D1400>分支二(500阳光)：</color><color=red>消化时间减半（15秒）</color>",
             "cost": "花费：<color=red>500</color>\n冷却时间：<color=red>50秒</color>"
         },
         {
@@ -501,7 +501,7 @@
             "seedType": 358,
             "name": "豌豆小喷菇[塔防]",
             "introduce": "<color=#3D1400>​“小小的身体里蕴含着大大的能量”，任何轻视豌豆小喷菇的人都会被他的表现震惊。“其实我们都是从小喷菇来的，一天一点进步，坚持吃阳光早餐，你也可以像我这样。</color>",
-            "info": "发射小豌豆的小喷菇。\n<color=blue>可转向</color>\n\n<color=#3D1400>伤害：</color><color=red>10/1.5秒</color>\n<color=#3D1400>特性：</color><color=red>低矮，可叠种</color>\n\n<color=#3D1400>基础强化(20阳光)：</color><color=red>伤害+50%</color>\n<color=#3D1400>分支一(50阳光)：</color><color=red>伤害+100%，可以发射小火焰豌豆</color>\n<color=#3D1400>分支二(50阳光)：</color><color=red>伤害+200%</color>",
+            "info": "发射小豌豆的小喷菇。\n\n<color=#3D1400>伤害：</color><color=red>10/1.5秒</color>\n<color=#3D1400>特性：</color><color=red>低矮，可叠种，可转向</color>\n\n<color=#3D1400>基础强化(20阳光)：</color><color=red>伤害+50%</color>\n<color=#3D1400>分支一(50阳光)：</color><color=red>伤害+100%，可以发射小火焰豌豆</color>\n<color=#3D1400>分支二(50阳光)：</color><color=red>伤害+200%</color>",
             "cost": "花费：<color=red>50</color>\n冷却时间：<color=red>7.5秒</color>"
         },
         {
@@ -515,7 +515,7 @@
             "seedType": 360,
             "name": "毁灭大喷菇[塔防]",
             "introduce": "<color=#3D1400>厌世害俗的毁灭大喷菇非常讨厌看见僵尸，因为这会拖累他的下班时间。他准备的子弹不多，却足够致命。“没什么事不要喊我，真的是，子弹要用的话就自己发射吧”虽然如此，高效工作的他仍然被大家所敬畏。</color>",
-            "info": "需要手动攻击的强力大喷菇。\n<color=blue>可转向</color>\n\n<color=#3D1400>伤害：</color><color=red>1000/60秒</color>\n<color=#3D1400>特点：</color><color=red>升级界面中点击射击，发射穿透前方一行的烟雾孢子</color>\n\n<color=#3D1400>基础强化(200阳光)：</color><color=red>伤害+50%</color>\n<color=#3D1400>分支一(500阳光)：</color><color=red>伤害+200%</color>\n<color=#3D1400>分支二(500阳光)：</color><color=red>攻速+100%</color>",
+            "info": "需要手动攻击的强力大喷菇。\n\n<color=#3D1400>伤害：</color><color=red>1000/60秒</color>\n<color=#3D1400>特性：</color><color=red>可转向</color>\n<color=#3D1400>特点：</color><color=red>升级界面中点击射击，发射穿透前方一行的烟雾孢子</color>\n\n<color=#3D1400>基础强化(200阳光)：</color><color=red>伤害+50%</color>\n<color=#3D1400>分支一(500阳光)：</color><color=red>伤害+200%</color>\n<color=#3D1400>分支二(500阳光)：</color><color=red>攻速+100%</color>",
             "cost": "花费：<color=red>500</color>\n冷却时间：<color=red>50秒</color>"
         },
         {
@@ -529,7 +529,7 @@
             "seedType": 362,
             "name": "胆大菇[塔防]",
             "introduce": "<color=#3D1400>​“我有勇气我都不怕～管他春秋冬夏～”胆大菇不再胆小了，见到僵尸也不会缩起来。“曾经我很害怕，但是大喷菇前辈说，如果有僵尸靠近你，拿你的孢子喷他就好了，缩头解决不了问题”</color>",
-            "info": "勇敢的蘑菇，远距离发射孢子，近距离则改为喷射烟雾。\n<color=blue>可转向</color>\n\n<color=#3D1400>伤害：</color><color=red>20×2/1.5秒（远距离）；20/1.5秒（近距离）</color>\n<color=#3D1400>特点：</color><color=red>拥有大喷菇的特点，如果僵尸不在4格射程内，则改为发射两发孢子</color>\n\n<color=#3D1400>基础强化(80阳光)：</color><color=red>伤害、攻速+20%</color>\n<color=#3D1400>分支一(200阳光)：</color><color=red>伤害+200%，永远发射孢子</color>\n<color=#3D1400>分支二(200阳光)：</color><color=red>伤害+100%，烟雾射程翻倍</color>",
+            "info": "喷射近程的烟雾或发射远程的孢子。\n\n<color=#3D1400>伤害：</color><color=red>20/1.5秒（烟雾）\n20×2/1.5秒（孢子）</color>\n<color=#3D1400>特性：</color><color=red>可转向</color>\n<color=#3D1400>特点：①</color><color=red>烟雾射程4格，无限穿透</color>\n<color=#3D1400>②</color><color=red>射程内没有目标则改为发射孢子</color>\n\n<color=#3D1400>基础强化(80阳光)：</color><color=red>伤害、攻速+20%</color>\n<color=#3D1400>分支一(200阳光)：</color><color=red>伤害+200%，永远发射孢子</color>\n<color=#3D1400>分支二(200阳光)：</color><color=red>伤害+100%，烟雾射程翻倍</color>",
             "cost": "花费：<color=red>200</color>\n冷却时间：<color=red>7.5秒</color>"
         },
         {
@@ -543,14 +543,14 @@
             "seedType": 364,
             "name": "毁灭杨桃[塔防]",
             "introduce": "<color=#3D1400>“星辰，赐予我毁灭的力量！”毁灭杨桃念诵着可怕的咒语，召唤流星摧毁一切他讨厌的事物。不过为什么这颗流星是黑色的？“大概是经过大气层时摩擦燃烧导致的。”</color>",
-            "info": "会将自身化作毁灭流星砸向地面。\n\n<color=#3D1400>特点：</color><color=red>出场3秒后消失，召唤一个毁灭流星，坠落时造成1800范围伤害，分裂出180个伤害20的孢子星星</color>",
+            "info": "会将自身化作毁灭流星砸向地面。\n\n<color=#3D1400>特点：</color><color=red>出场3秒后消失，召唤一个毁灭流星，坠落时造成1800范围伤害，分裂出180个伤害20的星星</color>",
             "cost": "花费：<color=red>175</color>\n冷却时间：<color=red>90秒</color>"
         },
         {
             "seedType": 365,
             "name": "猪笼草迫击炮[塔防]",
             "introduce": "<color=#3D1400>“教练，我想打篮球。”猪笼草迫击炮一直希望能成为篮球明星，他每天夜以继日地练习投篮。他有两个优势，一是长的很像篮筐，二是用来练习的篮球无穷无尽。看在上帝的面子上，别问这些球是什么做的。</color>",
-            "info": "发射会在僵尸和其他迫击炮之间来回弹射的液滴炮弹。\n\n<color=#3D1400>伤害：</color><color=red>40/3秒</color>\n<color=#3D1400>索敌范围：</color><color=red>上下左右2格以内</color>\n<color=#3D1400>特点：</color><color=red>子弹命中后会弹射到附近的猪笼草迫击炮中，使其立即攻击两次</color>\n\n<color=#3D1400>基础强化(120阳光)：</color><color=red>伤害、攻速+20%</color>\n<color=#3D1400>分支一(300阳光)：</color><color=red>伤害×3</color>\n<color=#3D1400>分支二(300阳光)：</color><color=red>射速+100%，子弹可以弹给自己</color>",
+            "info": "发射会在僵尸和其他迫击炮之间来回弹射的液滴炮弹。\n\n<color=#3D1400>伤害：</color><color=red>40/3秒</color>\n<color=#3D1400>索敌范围：</color><color=red>上下左右2格以内</color>\n<color=#3D1400>特点：</color><color=red>子弹命中后会弹射到附近的猪笼草迫击炮中，使其立即攻击两次</color>\n\n<color=#3D1400>基础强化(120阳光)：</color><color=red>伤害、攻速+20%</color>\n<color=#3D1400>分支一(300阳光)：</color><color=red>伤害×3</color>\n<color=#3D1400>分支二(300阳光)：</color><color=red>射速+100%，子弹可以并优先弹给自己</color>",
             "cost": "花费：<color=red>300</color>\n冷却时间：<color=red>7.5秒</color>"
         },
         {
@@ -585,7 +585,7 @@
             "seedType": 904,
             "name": "究极大喷菇",
             "introduce": "<color=#3D1400>死神会有自己的时尚顾问吗？究极大喷菇不知道，但在发觉自己并不总能震慑僵尸之后，他向魅惑菇定制了一套时装设计——人们或许不会喜欢死神，但如果死神带着布灵布灵的紫色炫彩冰翼呢？</color>",
-            "info": "宣告末日的大喷菇，持续对整行喷射寒冷且魅惑的烟雾。\n\n<color=#3D1400>使用条件：</color><color=red>旅行模式抽取配方</color>\n<color=#3D1400>融合配方：</color><color=red>超级大喷菇+寒冰魅惑菇</color>\n<color=#3D1400>伤害：</color><color=red>100/0.5秒</color>\n<color=#3D1400>特点：</color><color=red>攻击无限穿透，施加寒冷状态，赋予20点冻结值。有概率魅惑血量低于40%的僵尸，转化为寒冰高坚果雪爪僵尸，并对其附近的僵尸造成3倍爆炸伤害</color>\n<color=#3D1400>词条1：</color><color=red>凛风刺骨：究极大喷菇伤害频率×3，究极仙人掌子弹和雪爪僵尸伤害×3</color>\n<color=#3D1400>词条2：</color><color=red>三尺之寒：僵尸在解除冻结时受到0.3倍血量的伤害</color>",
+            "info": "预示末日的大喷菇，持续对整行喷射寒冷且魅惑的烟雾。\n\n<color=#3D1400>使用条件：</color><color=red>旅行模式抽取配方</color>\n<color=#3D1400>融合配方：</color><color=red>超级大喷菇+寒冰魅惑菇</color>\n<color=#3D1400>伤害：</color><color=red>100/0.5秒</color>\n<color=#3D1400>特点：</color><color=red>攻击无限穿透，施加寒冷状态，赋予20点冻结值。有概率魅惑血量低于40%的僵尸，转化为寒冰高坚果雪爪僵尸，并对其附近的僵尸造成3倍爆炸伤害</color>\n<color=#3D1400>词条1：</color><color=red>凛风刺骨：究极大喷菇伤害频率×3，究极仙人掌子弹和雪爪僵尸伤害×3</color>\n<color=#3D1400>词条2：</color><color=red>三尺之寒：僵尸在解除冻结时受到0.3倍血量的伤害</color>",
             "cost": ""
         },
         {
@@ -660,7 +660,7 @@
         },
         {
             "seedType": 915,
-            "name": "究极加农炮",
+            "name": "究极冷寂加农炮",
             "introduce": "<color=#3D1400>坚冰是他的衣装，玄黑是他的警告，每发炮弹蕴含着毁天灭地的能量，让天地染上冰霜。被他盯上的僵尸们什么都不用准备，因为在白光闪过后，什么都不会留下。</color>",
             "info": "发射的玉米炮弹蕴含寒冰菇和毁灭菇的力量。拥有一门持续射击的副炮。\n\n<color=#3D1400>使用条件：</color><color=red>旅行模式抽取配方</color>\n<color=#3D1400>融合配方：</color><color=red>寒冰加农炮（底座）+寒冰毁灭菇</color>\n<color=#3D1400>伤害：</color><color=red>主炮：落点3×3范围1800+全场（1800+30%韧性）；副炮：360×2/1.5秒</color>\n<color=#3D1400>装填时间：</color><color=red>36秒</color>\n<color=#3D1400>特点：</color><color=red>主炮造成落点和全场2次灰烬伤害，施加全场冻结5秒。为全场非花盆植物融合寒冰菇，失败则融合毁灭菇。副炮攻击施加寒冷状态，赋予10点冻结值</color>\n<color=#3D1400>词条1：</color><color=red>兵贵神速：装填时间降为12秒</color>\n<color=#3D1400>词条2：</color><color=red>中心爆破：落点范围伤害×4</color>",
             "cost": ""
@@ -690,7 +690,7 @@
             "seedType": 919,
             "name": "浴火三线射手",
             "introduce": "<color=#3D1400>没人知道灼烧是否真的会为植物带来新生，那只是一个传说，奔向传说的植物都已化作灰烬，直到他成为的新的传说。 “我也不知道浴火几次才能成功，但为了他们，我必须成功。”</color>",
-            "info": "浴火重生！发射穿透2次并施加红温状态的浴火豌豆。\n\n<color=#3D1400>使用条件：</color><color=red>旅行模式</color>\n<color=#3D1400>融合配方：</color><color=red>灰烬三线射手+火爆辣椒</color>\n<color=#3D1400>伤害：</color><color=red>160×3/1.5秒</color>\n<color=#3D1400>特点：</color><color=red>出场和死亡时在所有行释放火爆辣椒效果。子弹能穿透2次并施加红温状态</color>\n<color=#3D1400>词条1：</color><color=red>怒火攻心：火焰豌豆会施加红温状态，红温增伤提升至150%</color>\n<color=#3D1400>词条2：</color><color=red>百步穿杨：浴火豌豆能无限穿透，且附带等量红温爆炸伤害</color>",
+            "info": "浴火重生，烬灭归尘。\n\n<color=#3D1400>使用条件：</color><color=red>旅行模式</color>\n<color=#3D1400>融合配方：</color><color=red>灰烬三线射手+火爆辣椒</color>\n<color=#3D1400>伤害：</color><color=red>160×3/1.5秒</color>\n<color=#3D1400>特点：</color><color=red>出场和死亡时在所有行释放火爆辣椒效果。子弹能穿透2次并施加红温状态</color>\n<color=#3D1400>词条1：</color><color=red>怒火攻心：火焰豌豆会施加红温状态，红温增伤提升至150%</color>\n<color=#3D1400>词条2：</color><color=red>百步穿杨：浴火豌豆能无限穿透，且附带等量红温爆炸伤害</color>",
             "cost": ""
         },
         {
@@ -781,14 +781,14 @@
             "seedType": 932,
             "name": "摇钱三线火炬",
             "introduce": "<color=#3D1400>从海外留学归来的摇钱三线火炬虽还是只小不点，但他的“点石成金”小魔术却引得观众们连连叫好。“实际上那算是魔法啦——”摇钱三线火炬在后台炼着特制饮料并小声嘟囔道。</color>",
-            "info": "将经过的平射子弹变为钱币子弹，使其失去特殊效果但伤害增加。\n\n<color=#3D1400>使用条件：</color><color=red>旅行模式</color>\n<color=#3D1400>融合配方：</color><color=red>三线火炬树桩+吸金磁</color>\n<color=#3D1400>特点：</color><color=red>将经过的普通平射子弹转化为1枚金币和2枚银币，伤害比例分别为100%和50%，命中时分别获得30和10金钱。金币直线前进，银币会像三线射手子弹一样发射在邻行，但0.8秒后回到本行</color>\n<color=#3D1400>词条1：</color><color=red>大富翁：每拥有1000金钱，钱币子弹的伤害比例增加1%</color>\n<color=#3D1400>词条2：</color><color=red>挥金如土：钱币子弹拥有类似火焰豌豆的溅射伤害</color>",
+            "info": "将经过的平射子弹变为钱币子弹，使其失去特殊效果但伤害增加。\n\n<color=#3D1400>使用条件：</color><color=red>旅行模式</color>\n<color=#3D1400>融合配方：</color><color=red>三线火炬树桩+吸金磁</color>\n<color=#3D1400>特点：</color><color=red>将经过的普通平射子弹转化为1枚金币和2枚银币，伤害比例分别为100%和50%，命中时分别获得30和10金钱。金币直线前进，银币会像三线射手子弹一样发射在邻行，但0.8秒后回到本行</color>\n<color=#3D1400>词条1：</color><color=red>大富翁：每拥有1000金钱，钱币子弹的伤害增加1%</color>\n<color=#3D1400>词条2：</color><color=red>挥金如土：钱币子弹拥有类似火焰豌豆的溅射伤害</color>",
             "cost": ""
         },
         {
             "seedType": 933,
             "name": "究极仙人掌",
             "introduce": "<color=#3D1400>究极仙人掌是镇上一流的发型师，每件作品都能引领植物界的新潮流，“真正的发型是千锤百炼出来的。”锤子和刻刀是她最爱用的“修发”工具。</color>",
-            "info": "发射毁灭魅惑冰锥。出场时一次发射大量毁灭魅惑冰锥。\n\n<color=#3D1400>使用条件：</color><color=red>旅行模式抽取配方</color>\n<color=#3D1400>转换配方：</color><color=red>大喷菇←→仙人掌</color>\n<color=#3D1400>伤害：</color><color=red>300/1.5秒</color>\n<color=#3D1400>特点：</color><color=red>究极大喷菇亚种。攻击无限穿透，优先对空，赋予20点冻结值，对冻结的僵尸伤害x4。有概率魅惑僵尸并造成爆炸伤害，效果同究极大喷菇。出场时散射至少60发毁灭魅惑冰锥，同时对空对地</color>",
+            "info": "宣告末日的仙人掌，发射无限穿透并寒冷且魅惑的冰锥。\n\n<color=#3D1400>使用条件：</color><color=red>旅行模式抽取配方</color>\n<color=#3D1400>转换配方：</color><color=red>大喷菇←→仙人掌</color>\n<color=#3D1400>伤害：</color><color=red>300/1.5秒</color>\n<color=#3D1400>特点：</color><color=red>究极大喷菇亚种。攻击无限穿透，优先对空，赋予20点冻结值，对冻结的僵尸伤害x4。有概率魅惑僵尸并造成爆炸伤害，效果同究极大喷菇。出场时散射至少60发毁灭魅惑冰锥，同时对空对地</color>",
             "cost": ""
         },
         {
@@ -823,7 +823,7 @@
             "seedType": 938,
             "name": "贪欲菇",
             "introduce": "<color=#3D1400>“恐惧，猜忌，懦弱？不！这些在贪欲面前，都太过渺小了”，贪欲菇随手抛出一枚金币，注视它迅速落入深渊之中。相比于拥有着“蛊惑”人心能力的幻灭菇，她更擅长操纵人们无法磨灭的欲望本能。“出来吧”，贪欲菇看向幽渊，缓缓开口道，“我能感受到你，不必再躲藏了。”</color>",
-            "info": "生成领袖僵尸。高风险高回报！\n\n<color=#3D1400>使用条件：</color><color=red>旅行模式抽取配方</color>\n<color=#3D1400>转换配方：</color><color=red>毁灭菇←→金盏花</color>\n<color=#3D1400>特点：</color><color=red>幻灭菇亚种。出场1.5秒后，根据当前场景生成特定领袖，并在每列最右侧召唤对应的究极僵尸，每轮限一次。召唤的领袖/究极僵尸死亡时分别获得大量/少量阳光和钱币资源，领袖额外掉落1500积分，究极僵尸额外掉落1张惊喜礼盒卡片</color>\n<color=#3D1400>召唤池：</color><color=red>白天：Z教授；黑夜：黑橄榄将军；泳池：舞台巡演车；迷雾：鱼型裂空机甲；屋顶：渊海三叉戟；黄昏：玩偶匣皇后；终局：究极机械保龄球；雪原：雪原女皇</color>",
+            "info": "将被悬赏的领袖僵尸及其随从唤至此地。高风险高回报！\n\n<color=#3D1400>使用条件：</color><color=red>旅行模式抽取配方</color>\n<color=#3D1400>转换配方：</color><color=red>毁灭菇←→金盏花</color>\n<color=#3D1400>特点：</color><color=red>幻灭菇亚种。出场1.5秒后，根据当前场景生成特定领袖，并在每列最右侧召唤对应的究极僵尸，每轮限一次。召唤的领袖/究极僵尸死亡时分别获得大量/少量阳光和钱币资源，领袖额外掉落1500积分，究极僵尸额外掉落1张惊喜礼盒卡片</color>\n<color=#3D1400>召唤池：</color><color=red>白天：Z教授；黑夜：黑橄榄将军；泳池：舞台巡演车；迷雾：鱼型裂空机甲；屋顶：渊海三叉戟；黄昏：玩偶匣皇后；终局：究极机械保龄球；雪原：雪原女皇</color>",
             "cost": ""
         },
         {
@@ -900,7 +900,7 @@
             "seedType": 949,
             "name": "究极路灯花",
             "introduce": "<color=#3D1400>“核战争的代价可不是任何人都能承受的。”作为核战争的亲历者，如今的究极路灯花选择约束体内的核能、转化为媲美月亮的光芒，为黑夜中的游子指明方向。当然，如果有人要破坏她珍视的和平，她也不介意再次化作战场的死神。</color>",
-            "info": "封印着辉冷之力的路灯花，向周围释放随光照增强的霜华。\n\n<color=#3D1400>使用条件：</color><color=red>旅行模式抽取配方</color>\n<color=#3D1400>转换配方：</color><color=red>忧郁菇←→路灯花</color>\n<color=#3D1400>伤害：</color><color=red>600/3秒</color>\n<color=#3D1400>攻击范围：</color><color=red>3×5</color>\n<color=#3D1400>特点：</color><color=red>究极忧郁菇亚种，转换生成时不会触发亡语。拥有路灯花的特点。攻击施加寒冷状态，赋予30点冻结值，可对空，每级光照增加1倍伤害。可以将穿过的激光炮台光束折射为伤害相同的3束激光。死亡时释放寒冰菇效果并在10秒内为全场提供10级光照</color>",
+            "info": "封印着辉冷之力的路灯花，向周围释放随光照增强的霜华。\n\n<color=#3D1400>使用条件：</color><color=red>旅行模式抽取配方</color>\n<color=#3D1400>转换配方：</color><color=red>忧郁菇←→路灯花</color>\n<color=#3D1400>伤害：</color><color=red>600/3秒</color>\n<color=#3D1400>攻击范围：</color><color=red>3×5</color>\n<color=#3D1400>特点：</color><color=red>究极忧郁菇亚种，转换生成时不会触发亡语。拥有路灯花的特点。攻击施加等级1的寒冷状态，赋予30点冻结值，可对空，每级光照增加1倍伤害。可以将穿过的激光炮台光束折射为伤害相同的3束激光。死亡时释放寒冰菇效果并在10秒内为全场提供10级光照</color>",
             "cost": ""
         },
         {
@@ -922,6 +922,13 @@
             "name": "究极小投手",
             "introduce": "<color=#3D1400>“哥哥姐姐，我可爱吗？”究极小投手朝每个路过的人眨眼睛，“买一个大蒜吧。”他卖力地推销。这么小的孩子为什么会出来卖大蒜呢？“爷爷看的电影太无聊了，而且家里全都是大蒜，都堆不下了。”究极小投手说。</color>",
             "info": "小小的究极投手，投出会分裂的迷你蒜果卷，有概率连发和散射。\n\n<color=#3D1400>使用条件：</color><color=red>旅行模式抽取配方</color>\n<color=#3D1400>转换配方：</color>\n<color=red>小喷菇（底座）←→西瓜投手</color>\n<color=#3D1400>伤害：</color><color=red>60/2秒</color>\n<color=#3D1400>特性：</color><color=red>低矮</color>\n<color=#3D1400>特点：①</color><color=red>散射和连射概率同究极投手</color>\n<color=#3D1400>②</color><color=red>子弹无溅射，命中后分裂出1个迷你蒜卷心菜、1个迷你蒜玉米粒（1/4概率为迷你蒜黄油）、1个迷你蒜西瓜片。分裂子弹特点同对应迷你子弹，且均会赋予1蒜值后获得（5×蒜值）增伤</color>",
+            "cost": ""
+        },
+        {
+            "seedType": 953,
+            "name": "究极爆破加农炮",
+            "introduce": "<color=#3D1400>火焰的宿命是毁灭，却不会无尽蔓延。万物终将燃烧，在其存在所化的、最鲜活的炼狱之中。有人会说，烧得最炽热的并非吞噬人间魔鬼的炎焰，而是他们面对最终结局时，那最彻底的溃败。他们所有的努力，都将付诸东流。而在灰烬的寂静里，一切终将尘埃落定。</color>",
+            "info": "发射的炮弹蕴含樱桃和辣椒的力量，更可引出两者的更恐怖力量。\n\n<color=#3D1400>使用条件：</color><color=red>旅行模式抽取配方</color>\n<color=#3D1400>融合配方：</color>\n<color=red>火焰加农炮（底座）+樱桃辣椒</color>\n<color=#3D1400>伤害：</color><color=red>3600（灰烬）</color>\n<color=#3D1400>装填时间：</color><color=red>36秒</color>\n<color=#3D1400>特点：①</color><color=red>施加红温状态后造成伤害</color>\n<color=#3D1400>②</color><color=red>命中僵尸后，生成等同于命中僵尸数量（至少6个）的爆米花，爆米花落地时造成等于主炮伤害50%的范围爆炸伤害，效果同爆炸樱桃</color>\n<color=#3D1400>③</color><color=red>炮弹会为3×3范围内的非花盆非南瓜类植物融合樱桃炸弹，失败则融合火爆辣椒</color>\n<color=#3D1400>词条1：</color><color=red>爆米花：爆米花的伤害×3</color>\n<color=#3D1400>词条2：</color><color=red>超载：炮弹命中樱桃炸弹或火爆辣椒时会释放威力巨大的核爆。命中樱桃炸弹：在周围释放10次樱桃炸弹效果；命中火爆辣椒：在全场释放10次火爆辣椒效果。每次伤害均为(炮弹伤害×18)</color>",
             "cost": ""
         },
         {
@@ -1096,14 +1103,14 @@
             "seedType": 1024,
             "name": "魅惑胆小菇",
             "introduce": "<color=#3D1400>​胆小菇一直都很害怕僵尸，为了减轻她的恐惧，魅惑菇每天都给她讲睡前故事“其实呢，僵尸里面也有好人呀”日积月累下，胆小菇终于……被洗脑了，她现在也会用孢子洗脑僵尸，当然啦，她还是很害怕。​​</color>",
-            "info": "充满魅力的胆小菇，发射可以魅惑僵尸的七色孢子，魅惑大喷菇的好搭档。\n\n<color=#3D1400>伤害：</color><color=red>40/1.5秒</color>\n<color=#3D1400>特点：</color><color=red>随机发射7种魅惑孢子之一，僵尸被全部7种魅惑孢子命中后会被魅惑。魅惑大喷菇攻击被魅惑孢子命中的僵尸时，魅惑血量阈值提升至100%。被啃咬时魅惑该僵尸并变为胆小菇</color>\n<color=#3D1400>融合配方：</color><color=red>魅惑菇+胆小菇</color>",
+            "info": "充满魅力的胆小菇，发射可以魅惑僵尸的七色孢子，魅惑大喷菇的好搭档。\n\n<color=#3D1400>伤害：</color><color=red>40/1.5秒</color>\n<color=#3D1400>特点：</color><color=red>随机发射7种魅惑孢子之一，僵尸被全部7种魅惑孢子命中后会被魅惑。魅惑大喷菇攻击被魅惑孢子命中的僵尸时，不再有魅惑血量阈值。被啃咬时魅惑该僵尸并变为胆小菇</color>\n<color=#3D1400>融合配方：</color><color=red>魅惑菇+胆小菇</color>",
             "cost": ""
         },
         {
             "seedType": 1025,
             "name": "胆大菇",
             "introduce": "<color=#3D1400>​“我有勇气我都不怕～管他春秋冬夏～”胆大菇不再胆小了，见到僵尸也不会缩起来。“曾经我很害怕，但是大喷菇前辈说，如果有僵尸靠近你，拿你的孢子喷他就好了，缩头解决不了问题”</color>",
-            "info": "勇敢的蘑菇，远距离发射孢子，近距离则改为喷射烟雾。\n\n<color=#3D1400>伤害：</color><color=red>30×2/1.5秒（远距离）；30/1.5秒（近距离）</color>\n<color=#3D1400>特点：</color><color=red>拥有大喷菇的特点，如果僵尸不在4格射程内，则改为发射两发孢子</color>\n<color=#3D1400>融合配方：</color><color=red>胆小菇+大喷菇</color>",
+            "info": "喷射近程的烟雾或发射远程的孢子。\n\n<color=#3D1400>伤害：</color><color=red>20/1.5秒（烟雾）\n20×2/1.5秒（孢子）</color>\n<color=#3D1400>特点：①</color><color=red>烟雾射程4格，无限穿透</color>\n<color=#3D1400>②</color><color=red>射程内没有目标则改为发射孢子</color>\n<color=#3D1400>融合配方：</color><color=red>胆小菇+大喷菇</color>",
             "cost": ""
         },
         {
@@ -1292,7 +1299,7 @@
             "seedType": 1052,
             "name": "超级火炬树桩",
             "introduce": "<color=#3D1400>“热死了！”超级火炬愤愤的说道。他固执的认为是炎热的天气使得他的皮肤如同隔壁的火爆辣椒一样红，连头顶喷出的火焰也变成了红色，也许是时候该来一次名为“雪橇区之旅”的避暑活动了。</color>",
-            "info": "剧烈爆燃的火炬树桩，点燃能力超强。\n\n<color=#3D1400>特点：</color><color=red>影响经过的特定子弹。魅惑豌豆：伤害+30；豌豆、土豆豌豆、低级火焰豌豆：伤害+40；寒冰豌豆：变为豌豆；樱桃、铁豌豆、阳光、女王阳光：伤害x4，且获得的阳光变为15。每1.5秒，对附近的僵尸造成40火焰伤害。死亡时释放火爆辣椒效果</color>\n<color=#3D1400>融合配方：</color><color=red>火爆树桩+火爆辣椒</color>",
+            "info": "剧烈爆燃的火炬树桩，点燃能力超强。\n\n<color=#3D1400>特点：</color><color=red>影响经过的特定子弹。豌豆、土豆豌豆、低级火焰豌豆：伤害+40；寒冰豌豆：变为豌豆；魅惑豌豆：伤害+30，且改为召唤植物方的豌豆射手僵尸；樱桃、铁豌豆、阳光、女王阳光：伤害x4，且获得的阳光变为15。每1.5秒，对附近的僵尸造成40火焰伤害。死亡时释放火爆辣椒效果</color>\n<color=#3D1400>融合配方：</color><color=red>火爆树桩+火爆辣椒</color>",
             "cost": ""
         },
         {
@@ -1500,7 +1507,7 @@
         },
         {
             "seedType": 1082,
-            "name": "三叶仙人球",
+            "name": "浮空仙人球",
             "introduce": "<color=#3D1400>浮空仙人球总是成群结队，叽叽喳喳却也目中无人，植物们疑虑小小的他究竟能做什么，他自己却毫不在意“蝴蝶能掀起风暴，那我们当然更厉害”。</color>",
             "info": "小巧的无人机，发射对空尖刺。\n\n<color=#3D1400>伤害：</color><color=red>30×2/1.5秒（作为植物）；30×2/1秒（作为僚机）</color>\n<color=#3D1400>特点：</color><color=red>飞行植物。发射只对空的尖刺。出场时释放三叶草效果</color>\n<color=#3D1400>融合配方：</color><color=red>仙人掌+三叶草</color>",
             "cost": ""
@@ -1564,7 +1571,7 @@
         {
             "seedType": 1091,
             "name": "三叶南瓜",
-            "introduce": "<color=#3D1400> 三叶南瓜尤其在意他的发型，每次出门，三叶南瓜总要花半小时打理他头上的叶子。</color>",
+            "introduce": "<color=#3D1400>三叶南瓜尤其在意他的发型，每次出门，三叶南瓜总要花半小时打理他头上的叶子。</color>",
             "info": "定期生成三叶草的南瓜。\n\n<color=#3D1400>韧性：</color><color=red>4000</color>\n<color=#3D1400>特点：</color><color=red>每30秒，在壳内或前方生成一个三叶草</color>\n<color=#3D1400>融合配方：</color><color=red>南瓜（底座）+三叶草</color>",
             "cost": ""
         },
@@ -1572,7 +1579,7 @@
             "seedType": 1092,
             "name": "磁力南瓜",
             "introduce": "<color=#3D1400>磁力南瓜十分害怕外出聚餐，因为每次整张桌子的铁餐具最后都会粘在他脸上。</color>",
-            "info": "可以融合铁器的南瓜，根据不同的铁器变为对应形态。\n\n<color=#3D1400>韧性：</color><color=red>4000</color>\n<color=#3D1400>特点：</color><color=red>可以消耗铁器回血500。每6秒对附近拥有铁器、有掉落物或金属车辆类僵尸，造成(20×磁力链接植物数x目标移速)的伤害，对水中僵尸伤害翻倍。融合后保留该特点</color>\n<color=#3D1400>融合配方：</color><color=red>南瓜（底座）+磁力菇</color>",
+            "info": "可以融合铁器的南瓜，根据不同的铁器变为对应形态。\n\n<color=#3D1400>韧性：</color><color=red>4000</color>\n<color=#3D1400>特点：</color><color=red>每6秒对附近拥有铁器、有掉落物或金属车辆类僵尸，造成(20×磁力链接植物数x目标移速)的伤害，对水中僵尸伤害翻倍。融合后保留该特点</color>\n<color=#3D1400>融合配方：</color><color=red>南瓜（底座）+磁力菇</color>",
             "cost": ""
         },
         {
@@ -1711,7 +1718,7 @@
         {
             "seedType": 1112,
             "name": "卷心菜花盆",
-            "introduce": "<color=#3D1400> “我不是用来装菜的花盆，卷心菜也不是最菜的植物，我和卷心菜是好哥们。”卷心菜花盆自信的说道。其实他们两个一个秃头一个脱发。</color>",
+            "introduce": "<color=#3D1400>“我不是用来装菜的花盆，卷心菜也不是最菜的植物，我和卷心菜是好哥们。”卷心菜花盆自信的说道。其实他们两个一个秃头一个脱发。</color>",
             "info": "卷心菜叶包裹的花盆，提升上方卷心菜类植物的攻速。\n\n<color=#3D1400>特点：</color><color=red>上方究极投手、太阳神卷心菜攻击间隔降为1.5秒，其他卷心菜类植物攻击间隔减少33%</color>\n<color=#3D1400>融合配方：</color><color=red>花盆（底座）+卷心菜投手</color>",
             "cost": ""
         },
@@ -1957,7 +1964,7 @@
             "seedType": 1147,
             "name": "魅惑坚果",
             "introduce": "<color=#3D1400>魅惑坚果对僵尸总有着一种特殊的情感，“他们咬我的时候特别的舒服，不是说像挠背那样，而是……就暂且把这当做日久生情吧。”魅惑坚果如是说道。</color>",
-            "info": "定期生成魅惑盲盒僵尸的坚果。有概率魅惑啃咬者。\n\n<color=#3D1400>韧性：</color><color=red>4000</color>\n<color=#3D1400>特点：</color><color=red>有4%概率魅惑啃咬者。每30秒原地召唤一个魅惑盲盒僵尸。会吸收魅惑孢子并回血100，记录吸收的魅惑孢子颜色，每种最多3个。记录全部7种时，移除每种颜色记录各1个，生成魅惑黄金盲盒僵尸并回复1倍韧性的血量</color>\n<color=#3D1400>融合配方：</color><color=red>坚果+魅惑菇</color>",
+            "info": "定期生成魅惑盲盒僵尸的坚果。有概率魅惑啃咬者。\n\n<color=#3D1400>韧性：</color><color=red>4000</color>\n<color=#3D1400>特点：</color><color=red>有4%概率魅惑啃咬者。每45秒原地召唤一个魅惑盲盒僵尸。会吸收魅惑孢子并回血100，记录吸收的魅惑孢子颜色，每种最多3个。记录全部7种时，移除每种颜色记录各1个，生成魅惑黄金盲盒僵尸并回复1倍韧性的血量</color>\n<color=#3D1400>融合配方：</color><color=red>坚果+魅惑菇</color>",
             "cost": ""
         },
         {
@@ -2083,7 +2090,7 @@
             "seedType": 1165,
             "name": "寒冰超级机枪射手",
             "introduce": "<color=#3D1400>从冰原归来的寒冰超级机枪射手拥有冷酷的外表和寒冷的内心，当其他植物们都因为看不出情感波动的表情感到畏惧的时候，只有他自己还在思考怎么把冻在头上的钢盔拿下来。</color>",
-            "info": "发射寒冰豌豆的超级机枪射手。\n\n<color=#3D1400>使用条件：</color><color=red>旅行模式</color>\n<color=#3D1400>伤害：</color><color=red>20×6/1.5秒；3×20/0.02秒（大招）</color>\n<color=#3D1400>特点：</color><color=red>每次攻击有2%概率触发大招，5秒内，每0.02秒散射3发寒冰豌豆</color>\n<color=#3D1400>融合配方：</color><color=red>超级机枪射手+寒冰菇</color>",
+            "info": "发射寒冰豌豆的超级机枪射手。\n\n<color=#3D1400>使用条件：</color><color=red>旅行模式</color>\n<color=#3D1400>伤害：</color><color=red>20×6/1.5秒</color>\n<color=#3D1400>特点：</color><color=red>每次攻击有2%概率触发大招，5秒内，每0.02秒散射3发寒冰豌豆</color>\n<color=#3D1400>融合配方：</color><color=red>超级机枪射手+寒冰菇</color>",
             "cost": ""
         },
         {
@@ -2104,7 +2111,7 @@
             "seedType": 1168,
             "name": "超级机枪射手",
             "introduce": "<color=#3D1400>持续的工作让超级机枪射手感到烦恼，僵尸们无休止的进攻也让他备感压力。面对这一切，他只能通过疯狂射击僵尸来宣泄情绪，而这却引发了更大规模的进攻……这一切似乎形成了一个可怕的恶性循环？</color>",
-            "info": "一次发射六颗豌豆，有概率一次发射大量随机豌豆。\n\n<color=#3D1400>使用条件：</color><color=red>旅行模式</color>\n<color=#3D1400>伤害：</color><color=red>20×6/1.5秒；3×20/0.02秒（大招）</color>\n<color=#3D1400>特点：</color><color=red>每次攻击有2%概率触发大招，5秒内，每0.02秒散射3发随机子弹（豌豆、寒冰豌豆、火焰豌豆、魅惑豌豆）。可以与狙击射手互相转化</color>\n<color=#3D1400>转换配方：</color><color=red>豌豆射手←→豌豆射手</color>",
+            "info": "一次发射六颗豌豆，有概率一次发射大量随机豌豆。\n\n<color=#3D1400>使用条件：</color><color=red>旅行模式</color>\n<color=#3D1400>伤害：</color><color=red>20×6/1.5秒</color>\n<color=#3D1400>特点：</color><color=red>每次攻击有2%概率触发大招，5秒内，每0.02秒散射3发随机子弹（豌豆、寒冰豌豆、火焰豌豆、魅惑豌豆）。可以与狙击射手互相转化</color>\n<color=#3D1400>转换配方：</color><color=red>豌豆射手←→豌豆射手</color>",
             "cost": ""
         },
         {
@@ -2179,8 +2186,8 @@
         },
         {
             "seedType": 1179,
-            "name": "烈焰爆竹",
-            "introduce": "<color=#3D1400>烈焰爆竹最近开了一家烟火店，生意火爆，但僵尸们并不喜欢他的爆竹，“你看看，它们就是嫉妒我的生意，气得脸都黑了。</color>",
+            "name": "樱桃辣椒",
+            "introduce": "<color=#3D1400>樱桃辣椒最近开了一家烟火店，生意火爆，但僵尸们并不喜欢他的爆竹，“你看看，它们就是嫉妒我的生意，气得脸都黑了。</color>",
             "info": "向前飞去，击退并爆伤沿途的僵尸，年兽克星！\n\n<color=#3D1400>伤害：</color><color=red>300</color>\n<color=#3D1400>特点：</color><color=red>出场1秒后向前飞去，击退碰到的僵尸并造成范围伤害。对年兽僵尸额外造成15倍伤害</color>\n<color=#3D1400>融合配方：</color><color=red>火爆辣椒+樱桃炸弹</color>",
             "cost": ""
         },
@@ -2825,7 +2832,7 @@
             "seedType": 1271,
             "name": "三线超级机枪射手",
             "introduce": "<color=#3D1400>这三人尤其在豌豆小队训练营中展现了极高的敬业精神，他们总是齐声射击，并且以创纪录的速度解决彼此的争执。他们赢得了“第一三连突击队员”的称号，三颗星分别镶嵌在他们各自的头盔上。</color>",
-            "info": "向三行发射豌豆的超级机枪射手。\n\n<color=#3D1400>使用条件：</color><color=red>旅行模式</color>\n<color=#3D1400>伤害：</color><color=red>(20×6)×3/1.5秒</color>\n<color=#3D1400>特点：</color><color=red>每次攻击有6%概率触发大招，5秒内，每0.02秒向三行各发射1个伤害为60的豌豆</color>\n<color=#3D1400>融合配方：</color>\n<color=red>超级机枪射手（底座）+三线射手</color>",
+            "info": "向三行发射豌豆的超级机枪射手。\n\n<color=#3D1400>使用条件：</color><color=red>旅行模式</color>\n<color=#3D1400>伤害：</color><color=red>(20×6)×3/1.5秒</color>\n<color=#3D1400>特点：</color><color=red>每次攻击有2%概率触发大招，5秒内，每0.02秒向三行各发射1个伤害为60的豌豆</color>\n<color=#3D1400>融合配方：</color>\n<color=red>超级机枪射手+三线射手</color>",
             "cost": ""
         },
         {
@@ -2867,7 +2874,7 @@
             "seedType": 1277,
             "name": "毁灭杨桃",
             "introduce": "<color=#3D1400>“星辰，赐予我毁灭的力量！”毁灭杨桃念诵着可怕的咒语，召唤流星摧毁一切他讨厌的事物。不过为什么这颗流星是黑色的？“大概是经过大气层时摩擦燃烧导致的。”</color>",
-            "info": "会将自身化作毁灭流星砸向地面。\n\n<color=#3D1400>特点：</color><color=red>出场3秒后消失，召唤一个毁灭流星，坠落时造成1800范围伤害，分裂出180个伤害20的孢子星星</color>\n<color=#3D1400>融合配方：</color><color=red>杨桃+毁灭菇</color>",
+            "info": "会将自身化作毁灭流星砸向地面。\n\n<color=#3D1400>特点：</color><color=red>出场3秒后消失，召唤一个毁灭流星，坠落时造成1800范围伤害，分裂出180个伤害20的星星</color>\n<color=#3D1400>融合配方：</color><color=red>杨桃+毁灭菇</color>",
             "cost": ""
         },
         {
@@ -2965,14 +2972,28 @@
             "seedType": 1291,
             "name": "海鲨大喷菇",
             "introduce": "<color=#3D1400>“我来自宽广的海洋，”海鲨大喷菇骄傲地说，“看我这身鲨鱼拟态，可以吓退各种天敌，只有在海洋中才能进化出来。”他很喜欢和海蘑菇讲述自己过去的经历，但总是刻意隐去自己离开大海的原因：鲨鱼拟态经常会引来真正的鲨鱼。</color>",
-            "info": "水生的大喷菇，爱“吃”海蘑菇，假借海妖菇的威势来吓退敌人。\n\n<color=#3D1400>伤害：</color><color=red>20/1.5秒</color>\n<color=#3D1400>特点：①</color><color=red>在投喂海蘑菇后，射程提升至整行，持续10秒</color>\n<color=#3D1400>②</color><color=red>击退3秒内曾被海妖菇击退的僵尸</color>\n<color=#3D1400>融合配方：</color><color=red>海蘑菇（底座）+大喷菇</color>",
+            "info": "水生的大喷菇，爱“吃”海蘑菇，假借海妖菇的威势来吓退敌人。\n\n<color=#3D1400>伤害：</color><color=red>20/1.5秒</color>\n<color=#3D1400>特点：①</color><color=red>对其使用海蘑菇卡牌后，射程提升至整行，持续10秒</color>\n<color=#3D1400>②</color><color=red>击退3秒内曾被海妖菇击退的僵尸</color>\n<color=#3D1400>融合配方：</color><color=red>海蘑菇（底座）+大喷菇</color>",
             "cost": ""
         },
         {
             "seedType": 1292,
             "name": "魅惑超级机枪射手",
             "introduce": "<color=#3D1400>魅惑超级机枪射手是个无可救药的僵尸迷，她不厌其烦地为每个豌豆子弹涂上粉色的颜料、细心观察它们点燃后的绚丽火光。“这是给僵尸的礼物。”她说，她已经迫不及待要把这些豌豆送给僵尸了，越多越好。</color>",
-            "info": "发射魅惑豌豆的超级机枪射手。\n\n<color=#3D1400>使用条件：</color><color=red>旅行模式</color>\n<color=#3D1400>伤害：</color><color=red>30×6/1.5秒</color>\n<color=#3D1400>特点：</color><color=red>每次攻击有2%概率触发大招，5秒内，每0.02秒散射3发魅惑豌豆</color>\n<color=#3D1400>融合配方：</color>\n<color=red>超级机枪射手（底座）+魅惑菇</color>",
+            "info": "发射魅惑豌豆的超级机枪射手。\n\n<color=#3D1400>使用条件：</color><color=red>旅行模式</color>\n<color=#3D1400>伤害：</color><color=red>30×6/1.5秒</color>\n<color=#3D1400>特点：</color><color=red>每次攻击有2%概率触发大招，5秒内，每0.02秒散射3发魅惑豌豆</color>\n<color=#3D1400>融合配方：</color>\n<color=red>超级机枪射手+魅惑菇</color>",
+            "cost": ""
+        },
+        {
+            "seedType": 1293,
+            "name": "海蘑菇坚果",
+            "introduce": "<color=#3D1400>海蘑菇坚果喜欢和水宝宝待在一起，看着它们吸水长大，圆滚滚的身体透射着七彩的虹光，倒影在童真的双眸中。“时光就像溪边飞过的蓝蝴蝶，一旦错过，就再也见不到了”</color>",
+            "info": "水生的坚果，吸水变大变高，最后随着水流向前滚去，碾压沿途的僵尸。\n\n<color=#3D1400>韧性：</color><color=red>2000</color>\n<color=#3D1400>特点：①</color><color=red>出场10秒、20秒后各长大一次，血量和韧性均+2000</color>\n<color=#3D1400>②</color><color=red>出场30秒后，变为保龄球向前滚动，伤害为600/0.02秒</color>\n<color=#3D1400>融合配方：</color><color=red>海蘑菇（底座）+坚果</color>",
+            "cost": ""
+        },
+        {
+            "seedType": 1294,
+            "name": "海螺胆小菇",
+            "introduce": "<color=#3D1400>海螺胆小菇是优秀的灯塔，引导船只的方向，成为无数船只返航的最大帮手，而且非常谦虚清廉，从不接受多余的感谢。当然，这是船长之间的说法，对海螺胆小菇自己来说，靠近的船只实在是太可怕了、每次都能吓得他缩起来。</color>",
+            "info": "水生的胆小菇，看到海蘑菇跳水后，才会鼓起勇气攻击一段时间。\n\n<color=#3D1400>伤害：</color><color=red>20/0.5秒</color>\n<color=#3D1400>特点：①</color><color=red>默认处于蹲伏状态</color>\n<color=#3D1400>②</color><color=red>对其使用海蘑菇卡牌后，10秒内正常攻击，随后再度蹲伏</color>\n<color=#3D1400>融合配方：</color><color=red>海蘑菇（底座）+胆小菇</color>",
             "cost": ""
         }
     ]

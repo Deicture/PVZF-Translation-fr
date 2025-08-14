@@ -137,6 +137,7 @@
   SolarLily = 950,
   UltimateBigChomper = 951,
   UltimatePuff = 952,
+  UltimateExplodeCannon = 953,
   PeaSunFlower = 1000,
   Cherryshooter = 1001,
   SunBomb = 1002,
@@ -430,5 +431,7 @@
   SniperPuff = 1290,
   SeaFume = 1291,
   SuperHypnoGatling = 1292,
+  SeaNut = 1293,
+  SeaScaredyshroom = 1294,
   Nothing = -1,
 }
