@@ -23,7 +23,7 @@ The download links for the Multi-language Mod and the translation files of the M
 **Multi-Language 2.8.1 Version 1** | PC | [Github Release](https://github.com/Teyliu/PVZF-Translation/releases/tag/2.8.1_v1)
 **Multi-Language 2.7 Version 2** | PC | [MEGA](https://mega.nz/file/svtnQBKY#Ldl0K8N6V6Yei7VMg8nYFFo9gAlg2MB_xVvYNTF4q5c) [Google Drive](https://drive.google.com/file/d/1lD234O36m8OgdqxKlTm3HdCnn7v3mMe5/view?usp=sharing)
 **English 2.7 by Nvdtn19** | Android |  [Google Drive](https://drive.google.com/drive/folders/13-zefuw1geoi_Ky7919GQ3Can65guXrJ) [Archive](https://archive.org/download/pvz-fusion-fanmade-android-english-version-by-nvdtn19/PvZ%20Fusion%20Fanmade%20Android%20English%20version%20by%20Nvdtn19/)
-Chinese 2.8.1 | PC | MEGA [Google Drive](https://drive.google.com/file/d/1FMIwzZOgh0X-l_vmZJunYlCP5GkZr0XP/view?usp=sharing)
+Chinese 2.8.2 | PC | [MEGA](https://mega.nz/file/yFoFkJpb#I_bM6OW3Mvflea7vx-qP5fFFGRYbXebpupkRUacQGlM) [Google Drive](https://drive.google.com/file/d/1G5xq0mIGaYj3W8Mqku2d3j--Au-qdkp8/view?usp=sharing)
 Chinese 2.7 | PC | [MEGA](https://mega.nz/file/9jcD3axL#qcKxtmzSkUctB3roVQvB6uAgjb5HjANSzDMlGzrsCXQ) [Google Drive](https://drive.google.com/file/d/1zti4_E81JSzmSI3j0NJhG1rLc35gvliA/view?usp=sharing)
 Chinese 2.7 | Android | [MEGA](https://mega.nz/file/828HwBZD#JPDHvVa8gybSoIF2MFjf65UU1xtiH59ppuNrDfWV4MQ) [Google Drive](https://drive.google.com/file/d/1oFuWJw8ZnOdSlgdaOAGa8NMsLI1CfzzZ/view?usp=sharing)
 
