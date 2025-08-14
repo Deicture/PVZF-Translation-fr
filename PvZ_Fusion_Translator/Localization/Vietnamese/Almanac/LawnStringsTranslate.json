@@ -924,6 +924,13 @@
       "info": "<size=36>Ném ra viên pháo tuy nhỏ nhưng đầy mùi tỏi!\n\n<color=#4A2900>Điều Kiện Sử Dụng: Chế Độ Du Lịch|Mở khoá cùng lúc với Độc Lan Đế\n<color=#3D1400>Sát Thương:</color><color=red> 60/2 giây</color>\n<color=#3D1400>Khả Năng:</color>\n<color=black>•</color><color=red> Phân loài của Độc Lan Đế, chuyển đổi qua lại bằng Nấm Lùn và Dưa Hấu.\n<color=black>•</color> Có khả năng tái tạo và phân tán đòn đánh như Độc Lan Đế.\n<color=black>•</color> Viên đạn kèm theo hiệu ứng độc có thể tách ra 3 lần gồm Cải Độc (40 sát thương, thu nhỏ Zombie khi đạn nảy từ Zombie thu nhỏ khác), Ngô Độc (40 sát thương, 25% tỉ lệ ra bơ) và Dưa Độc (80 sát thương, x2 lên Zombie bị thu nhỏ.). \n<color=black>•</color> Toàn bộ đạn đều tích thêm 1 stack độc và cho mỗi 1 Stack độc mà Zombie đang có, sát thương nhận vào sẽ tăng lên 5*Số Stack độc.</color></color>",
       "cost": "\n<size=36><color=#3D1400>Công Thức: </color><color=red>Độc Lan Đế + Nấm Lùn*3</color>"
   },
+  {
+    "seedType": 953,
+    "name": "Hoả Bộc Luân (953)",
+    "introduce": "<align=justified><size=36><color=#3D1400>Kết cục bởi ngọn lửa vĩnh hằng là không thể tránh khỏi, nhưng nó không thể lan xa mãi mãi. Mọi thứ sẽ bị thiêu rụi, biến mất ngay chính thực tại này. Có lời đồn không phải những ngọn lửa này sẽ thiêu cháy chúng, mà chính là kết cục không thể tránh khỏi của chúng. Và đó là khi tất cả đều lụi tàn.",
+    "info": "<size=36>Khẩu pháo tối thượng với khả năng thiêu rụi mọi thứ trong tầm mắt.\n\n<color=#4A2900>Điều Kiện Sử Dụng: Chế Độ Du Lịch|Cần Mở Khoá\n<color=#3D1400>Sát Thương:\n<color=black>•</color> Vụ Nổ: <color=red>3600\n<color=black>•</color><color=#3D1400> Bỏng Ngô: <color=red>1800\n<color=#3D1400>Thời gian nạp đạn: </color>36 giây\n<color=red></color></color><color=red></color><color=#3D1400>Khả Năng:</color><color=red> \n<color=black>•</color> Luôn gây hiệu ứng Chịu Nhiệt.\n<color=black>•</color> Đạn sau khi trúng mục tiêu sẽ tách ra số lượng bỏng ngô tương đương với số lượng Zombie bị bắn trúng. (Tối thiểu 6)\n<color=black>•</color> Vụ nổ Bỏng Ngô không gây sát thương chịu nhiệt, nổ hình dấu cộng và gây 1800 sát thương.\n<color=black>•</color> Đạn có thể hợp nhất với các cây không phải Bí Ngô/Chậu Hoá có thể ghép với Ớt và Bom Anh Đào. Ưu tiên ghép Bom Anh Đào trước.</color></color>\n\n<color=#3D1400>Buff 1: </color><color=red>Sát thương của Vụ nổ Bỏng Ngô do Hoả Bộc Luân gây ra x3</color>\n<color=#3D1400>Buff 2: </color><color=red> Khi đạn của Hoả Bộc Luân bắn trúng Bom Anh Đào hoặc Ớt, tạo ra một Vụ nổ Nguyên Tử kèm hiệu ứng phụ như sau: \n<color=black>•</color> Ghép với Ớt sẽ giải phóng 1 vụ nổ nguyên tử ở phạm vi 5x5 ô, đồng thời thiêu đốt toàn sân 10 lần. Sát thương gây ra từ vụ nổ nguyên tử và thiêu đốt là bằng (sát thương đạn pháo x18).\n<color=black>•</color> Ghép với Bom Anh Đào sẽ giải phóng 1 vụ nổ nguyên tử ở phạm vi 5x5 ô, đồng thời phát nổ Anh Đào 10 lần trong phạm vi 3x3 ô. Sát thương gây ra từ vụ nổ nguyên tử và phát nổ là bằng (sát thương đạn pháo x18).</color>",
+    "cost": "\n<size=36><color=#3D1400>Công Thức: </color><color=red>Hoả Đại Pháo + Pháo Tất Niên</color>"
+  },
     {
             "seedType": 1000,
       "name": "Đậu Mặt Trời (1000)",
@@ -2975,8 +2982,20 @@
       "info": "<size=36>Bão tố với khả năng tạo Zombie?\n\n<color=#4A2900>Điều Kiện Sử Dụng: Chế Độ Du Lịch\n<color=#3D1400>Sát Thương: </color><color=red>30*6/1.5 giây</color>\n<color=#3D1400>Khả Năng: </color><color=red>Có mọi đặc tính của Đậu Thôi Miên. Mỗi lần bắn sẽ có tỉ lệ 2% kích hoạt Tuyệt Kĩ.\n<color=#3D1400>Tuyệt Kĩ:</color><color=red> Mỗi 0.02 giây bắn 3 đạn đậu thôi miên. Kéo dài trong 5 giây.</color></color>",
       "cost": "\n<size=36><color=#3D1400>Công Thức: <color=red>Đậu Bão Tố + Nấm Thôi Miên</color>"
     },
-
-
+    {
+      "seedType": 1293,
+      "name": "Óc Chó Biển (1293)",
+      "introduce": "<align=justified><size=36><color=#3D1400>Óc Chó Biển rất thích ở dưới nước và ngắm các cây dưới nước vui chơi. Vì với cậu ta, thời gian sẽ dần trôi đi nên hiện tại cậu ta đang có gắng tận hưởng khoảng khắc này nhất có thể.</color></color>",
+      "info": "<size=36>Óc Chó sống và phát triển dưới nước.\n\n<color=#3D1400>Máu: </color><color=red>2000</color>\n<color=#3D1400>Khả Năng: </color><color=red>\n<color=black>•</color> Sau mỗi 10 giây, tăng 2000 máu và máu tối đa.\n<color=black>•</color> Sau 30 giây, lăn về phía trước như Óc Chó Lăn Khổng Lồ và gây 600 sát thương mỗi 0.02 giây</color>",
+      "cost": "\n<size=36><color=#3D1400>Công Thức: <color=red>Nấm Biển + Óc Chó</color>"
+    },
+    {
+      "seedType": 1294,
+      "name": "Nấm Nhút Nhát Biển (1294)",
+      "introduce": "<align=justified><size=36><color=#3D1400>Nấm Nhút Nhát Biển là một ngọn hải đăng xuất sắc, hay dẫn đường cho tàu thuyền và trở thành người trợ giúp lớn nhất cho vô số con tàu quay về an toàn. Hơn nữa, cậu ta lại vô cùng khiêm tốn. Tất nhiên, đó là lời đồn thôi — còn với chính Nấm Nhút Nhát Biển, những con tàu đến gần thực sự rất đáng sợ, lần nào cũng khiến cậu ta đều tự lẫn trốn.</color></color>",
+      "info": "<size=36>Sợ hãi mọi lúc, cần Nấm Biển động viên.\n\n<color=#3D1400>Sát Thương: </color><color=red>20/0.5 giây</color>\n<color=#3D1400>Khả Năng: </color><color=red>Sẽ luôn lẫn trốn. Nếu cho nó thẻ Nấm Biển thì nó sẽ tấn công trong 10 giây, sau đó tiếp tục lẫn trốn.</color>",
+      "cost": "\n<size=36><color=#3D1400>Công Thức: <color=red>Nấm Biển + Nấm Nhút Nhát</color>"
+    },
 
 
 
