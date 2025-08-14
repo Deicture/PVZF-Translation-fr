@@ -2880,7 +2880,7 @@
         {
             "seedType": 1294,
             "name": "Shelly-shroom",
-            "introduce": "<align=justified><size=36><color=black>Shelly-Shroom drifts like a hidden reef, timid, still, but dangerous to the unwary. When the surrounding water shifts, he rouses and ferociously defends himself, then settles back beneath the waves as if nothing happened.</color>",
+            "introduce": "<align=justified><size=36><color=black>Shelly-shroom drifts like a hidden reef, timid, still, but dangerous to the unwary. When the surrounding water shifts, he rouses and ferociously defends himself, then settles back beneath the waves as if nothing happened.</color>",
             "info": "<size=36>Too shy to attack until he sees a Sea-shroom dive.\n\n<color=black>Damage: </color><color=#8B0000>20/0.5s</color>\n<color=black>Special: </color><color=#8B0000>Hides himself by default. Using a Sea-shroom seedpacket on him makes him attack for 10s, after which he cowers again.</color>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Scaredy-shroom > Sea-shroom</color>"
         },
