@@ -2265,7 +2265,7 @@
             "seedType": 1205,
             "name": "Hypno Pumpkin",
             "introduce": "<align=justified><size=36><color=black>Many plants were curious about how Hypno Pumpkin had only subdued one zombie. \"I'm a dedicated person, so of course I need a dedicated zombie,\" Hypno Pumpkin said, scratching his head.</color>",
-            "info": "<size=36>Hypno Pumpkin makes a hypnotized zombie stay by your side.\n\n<color=black>Toughness: </color><color=#8B0000>4000</color>\n<color=black>Special: </color><color=#8B0000>Has a 4% chance to hypnotize zombies eating him. Forces up to 1 hypnotized zombie to stay in his tile, and use that zombie as a shield first when under attack.</color>",
+            "info": "<size=36>Hypno Pumpkin makes a hypnotized zombie stay by your side.\n\n<color=black>Toughness: </color><color=#8B0000>4000</color>\n<color=black>Special: </color><color=#8B0000>Has a 4% chance to hypnotize zombies eating him. Forces up to 1 hypnotized zombie to stay in his tile, and uses that zombie as a shield first when under attack.</color>",
             "cost": "<size=36>\nFusion Formula: <color=#8B0000>Hypno-shroom > Pumpkin</color>"
         },
         {
