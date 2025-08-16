@@ -351,7 +351,7 @@
         {
             "theZombieType": 63,
             "name": "Burglar Bungee Zombie",
-            "introduce": "<align=justified><size=36><color=black>Living it large after a recent heist, Burglar Bungee Zombie bought a new suit to flaunt their wealth. Not all heists are successful, but where a heist is failed, Burglar Bungee Zombie leaves a \"present\" for the unsuspecting lawns that believe one Umbrella is enough to save the day.</color>",
+            "introduce": "<align=justified><size=36><color=black>Living it large after a recent heist, Burglar Bungee Zombie bought a new suit to flaunt their wealth. Not all heists are successful, but where a heist is failed, Burglar Bungee Zombie leaves a \"present\" for the unsuspecting lawns that believe one Umbrella is enough to save the day.\n\n-Written by Hazy</color>",
             "info": "<size=36>Carries valuables but also mystery-boxes!\n\n<color=black>Toughness: </color><color=#4B0082>1350</color>\n<color=black>Traits: </color><color=#4B0082>\n<color=black>•</color> If bounced away by an Umbrella Leaf, returns shortly after to drop a Mystery Gargantuar on the right side of the lawn. Can be bounced away again and won't return a second time.\n<color=black>•</color> Drops a Diamond and 100 Sun if defeated.</color>"
         },
         {
