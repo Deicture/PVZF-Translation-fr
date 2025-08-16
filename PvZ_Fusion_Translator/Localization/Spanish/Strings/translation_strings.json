@@ -342,9 +342,9 @@
   "让我们来看看这个一百万血的机械海豚僵尸是怎么被轻松干掉的": "Veamos cómo este Zombarino con un millón de salud es fácilmente derrotado.",
   "水草子弹命中水里的僵尸会造成额外的百分比伤害\n击中30次以上会直接秒杀僵尸！": "Las algas infligen daño porcentual adicional a los zombis en el agua.\r\nGolpear más de 30 veces acabará instantáneamente con el zombi!",
   "--- AM - Level 24": "AM - Level 24 ---",
-  "让我们来看看僵尸的一种新状态：红温": "Veamos las mecánicas de un nuevo efecto en los zombis: Quemaduras.",
-  "当僵尸处于红温状态时会额外受到50%的伤害": "Cuando un zombi esté en estado de quemadura, recibirá un 50% de daño adicional.",
-  "红温的僵尸死亡时会对附近的僵尸造成100点伤害并传递红温效果": "Cuando un zombi quemado es derrotado, infligirá 100 de daño a los zombis cercanos y propagará el efecto de quemadura. ¡Picante!",
+  "让我们来看看僵尸的一种新状态：红温": "Veamos las mecánicas de un nuevo efecto en los zombis: el Efecto Pirogénico.",
+  "当僵尸处于红温状态时会额外受到50%的伤害": "Cuando un zombi esté en el Estado Pirogénico, recibirá un 50% de daño adicional.",
+  "红温的僵尸死亡时会对附近的僵尸造成100点伤害并传递红温效果": "Cuando un zombi quemado es derrotado, infligirá 100 de daño a los zombis cercanos y propagará este efecto. ¡Picante!",
   "--- AM - Level 30": "AM - Level 30 ---",
   "路灯花在这里发挥着比原版更强大的作用": "La Planterna juega un papel muy poderoso.",
   "让我们来看看路灯花的新系统：光照系统": "Veamos el nuevo sistema para la Planterna: el Sistema Lumína.",
@@ -988,7 +988,7 @@
   "严肃窝瓜2": "Batalla de \nApisonaflor 2",
   "僵尸对战2": "Zombis VS Zombis 2",
   "僵尸对战3": "Zombis VS Zombis 3",
-  "2048": "2048:\nEvolución Guisante",
+  "^2048$": "2048:\nEvolución Guisante",
   "大河奔流": "Pozo",
   "反转泳池：无尽": "Río\nInfinito",
   "大型泳池：无尽": "Estanque\nInfinito",
@@ -1440,7 +1440,7 @@
   "孢子群伤害+30%": "Daño de Humo +30%",
   "孢子群宽度+30%": "Ancho de Humo  +30%",
   "孢子群长度+60%": "Largo de Humo +60%",
-  "孢子装填速度+30%": "Velocidad de Recarga de Humo +30%",
+  "孢子装填速度+30%": "Velocidad de Recarga de Esporas +30%",
   "将大局逆转吧": "¡Cambiemos el rumbo de la batalla!",
   "小剑每转一圈将召唤一个大剑从天而降": "¡Cada giro completo de una espada pequeña hace aparecer una gigante del cielo!",
   "所有伤害+30%，机甲血量-25%": "Daño de Toda Arma +30%, PS Máximo de la Nave -25%",
@@ -1483,5 +1483,6 @@
   "-------Strings - No Idea": "Strings - No Idea-------",
   "保存格子完毕！": "¡Casillas guardadas!",
   "加载格子完毕！": "¡Casillas cargadas!",
-  "商品名称": "Nombre de Item"
+  "商品名称": "Nombre de Item",
+  "-------Strings - 3.0": "Strings - 3.0-------"
 }

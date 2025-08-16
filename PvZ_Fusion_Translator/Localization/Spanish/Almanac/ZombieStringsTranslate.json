@@ -350,6 +350,18 @@
       "info": "<size=39>Una Hielabestia pequeña que ama rodar. Raramente sobrevive haciéndolo.\n\n<color=#3D1400>Dureza: </color><color=#4B0082>300</color>\n<color=#3D1400>Características:</color><color=#4B0082>Roda hacia adelante, y al chocar contra una planta, hace daño al igual que sus PS actuales, muriendo.</color>"
     },
     {
+     "theZombieType": 63,
+     "name": "Colgao Ladrón",
+     "introduce": "<size=39><color=#3D1400>Tras un reciente atraco, el Colgao Ladrón se compró un traje nuevo para presumir de su fortuna. No todos los atracos tienen éxito, pero cuando uno fracasa, el Colgao Ladrón deja un \u0022regalo\u0022 para los desprevenidos jardineros que creen que una sola Paraplanta basta para salvar el día.</color>",
+     "info": "<size=39>¡Lleva objetos valiosos pero también cajas misteriosas..!\n\n<color=#3D1400>Dureza: </color><color=#4B0082>1350</color>\n<color=#3D1400>Características:</color> <color=#4B0082>Si una Paraplanta lo rebota, regresa poco después para dejar caer un Misteriostein a la derecha del campo. Puede rebotar de nuevo y no regresará. También, suelta un diamante y 100 sol si es derrotado.</color>"
+   },
+   {
+     "theZombieType": 64,
+     "name": "Jackson Playero",
+     "introduce": "<size=39><color=#3D1400>\"Puff, esta playa se ve muyyy vacía.\" Decía Jackson Playero. \"Creo que lucería mejor con unas...modificaciones mias.\" Al decir eso, llenó la playa con estatuas, lo que terminó siendo una inconveniencia para ambos los zombis y las plantas, ya que tales estatuas generaban más de este tipo molestoso...</color>",
+     "info": "<size=39>Es tan egocéntrico que deja estatuas de el mismo mientras pasa.\n\n<color=#3D1400>Dureza: </color><color=#4B0082>720</color>\n<color=#3D1400>Características:</color> <color=#4B0082>Invoca 4 Estatuas Bailarines con 500 PS. Después de 15s, cada estatua se rompe y suelta otro Jackson Playero con PS iguales a los PS restantes de la Estatua Bailarín. Fuera de los Modos TD, invoca las Estatuas Bailarines donde un Zombi Jackson básico haría aparecer sus Bailarines Extra.</color>"
+   },
+   {
       "theZombieType": 100,
       "name": "Vegezombi Guisante",
       "introduce": "<size=39><color=#3D1400>La habilidad del Vegezombi Guisante para atacar a distancia a menudo asusta a las plantas. Sin embargo, el verdadero pánico lo sienten los zombis, que temen que los que luchan frente a él sean atacados desde atrás.</color></size>",

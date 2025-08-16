@@ -1125,8 +1125,8 @@
     {
       "seedType": 242,
       "name": "Princesa Endoflama",
-      "introduce": "<size=39><color=#3D1400>La pequeña flor que antes era tan ardiente, después de pasar por tantas dificultades, ha crecido para convertirse en una experta en la producción de sol. La Princesa Endoflama ya no necesita sufrir para tener efecto. Su antorcha en la cabeza se ha convertido en su poder, brillando como el sol, y la brillante llama seguirá transmitiéndose, creando un nuevo 'Endoflama' tras otro.</color></size>",
-      "info": "<size=39>¡Dispara soles ardientes que impactan zombis! Si un disparo atraviesa una Plantorcha Infernal, ¡su daño se cuadruplica!\n\n<color=#3D1400>Desbloqueo: <color=red>Completa Odisea: Clásica</color>\n<color=#3D1400>Daño: </color><color=red>300x8/2s</color>\n<color=#3D1400>Resistencia: </color><color=red>1000</color>\n<color=#3D1400>Nombre Científico: </color><color=red>Ignis solaris</color></size>",
+      "introduce": "<size=39><color=#3D1400>La pequeña flor que antes era tan ardiente, después de pasar por tantas dificultades, ha crecido para convertirse en una experta en la producción de sol. La Princesa Endoflama ya no necesita sufrir para tener efecto. Su antorcha en la cabeza se ha convertido en su poder, brillando como el sol, y la brillante llama seguirá transmitiéndose, creando una nueva 'Endoflama' tras otra.</color></size>",
+      "info": "<size=39>¡Dispara soles ardientes que impactan zombis!\n\n<color=#3D1400>Desbloqueo: <color=red>Completa Odisea: Clásica</color>\n<color=#3D1400>Dureza: </color><color=red>1000</color>\n<color=#3D1400>Daño: </color><color=red>300x8/2s</color>\n<color=#3D1400>Especial: </color><color=red>Sus proyectiles generan sol al impactar con un zombi. Si un disparo atraviesa una Plantorcha Infernal, ¡su daño se cuadruplica!</color>\n<color=#3D1400>Nombre Científico: </color><color=red>Ignis solaris</color></size>",
       "cost": "<size=39>Costo: <color=red>200</color>\nRecarga: <color=red>30 segundos</color></size>"
     },
     {
@@ -1703,11 +1703,17 @@
     },
     {
       "seedType": 366,
-      "name": "366"
+      "name": "Nenúfar",
+      "introduce": "<size=39><color=#3D1400>Nenúfar nunca se queja. Nenúfar nunca quiere saber qué está pasando. Ponga una planta encima de Nenúfar y no dirá nada. ¿Tiene opiniones sorprendentes o secretos chocantes? Nadie lo sabe. Nenúfar se lo guarda todo dentro.</color></size>",
+      "info": "<size=39>Los Nenúfares te permiten cultivar plantas no acuáticas encima de ellos.\n\n<color=#3D1400>Especial:</color><color=red>Permite colocar plantas no acuáticas en el agua.</color>\n<color=#3D1400>Nombre Científico: </color><color=red>Nympadia serena</color></size>",
+      "cost": "<size=39>Costo: <color=red>25</color>\nRecarga: <color=red>7.5 Segundos</color>"
     },
     {
       "seedType": 367,
-      "name": "367"
+      "name": "Apisonanuez",
+      "introduce": "<size=39><color=#3D1400>Arrastrado de un parque infantil por el tallo y tirado en el jardín, Apisonanuez fue rechazado por ser una pelota de goma deformada. Ahora, furioso y rebotando, rebota como un loco, gritando: \u0022¡Voy a jugar todo lo que quiera! ¡TODO LO QUE QUIERA!\u0022.</color></size>",
+      "info": "<size=39>Una nuez rebotante que es todo rabietas e impacto.</color>\n\n<color=#3D1400>Dureza: </color><color=red>1000</color>\n<color=#3D1400>Daño:</color> <color=red>TBD\n<color=#3D1400>Especial:</color> <color=red>Salta en su casilla cuando un zombi se acerca, haciendo daño con salpicadura por cada salto. No bloquea zombis mientras esta en el aire.</color>\n\n<color=purple>Mejoras:<color=red>\n- Mejora Básica (X Soles): BASICUPGRADE\n- Mejora Avanzada I (X Soles): UPGRADE1\n- Mejora Avanzada II (X Soles): UPGRADE2\n\n<color=#3D1400>Nombre Científico:</color> <color=red>Cucurbita praesidium</color></size>\n<size=39><color=#3D1400>Fórmula de Fusión:</color> <color=red>Nuez + Apisonaflor</color></size>",
+      "cost": "<size=39>Costo: <color=red>75</color>   Recarga: <color=red>?? Segundos</color>\nPlantas Requeridas: <color=red>2</color></size>"
     },
     {
       "seedType": 368,
@@ -3934,7 +3940,7 @@
       "seedType": 919,
       "name": "Tripitidora Fénix",
       "introduce": "<size=39><color=#3D1400>Nadie sabe si el fuego realmente trae renacimiento a las plantas; es solo una leyenda. Aquellos que lo persiguieron se convirtieron en cenizas, hasta que él se convirtió en la nueva leyenda. \"No sé cuántas veces debo soportar las llamas para tener éxito, pero por ellos, debo hacerlo.\"</color></size>",
-      "info": "<size=39>¡Renacida del fuego!\n\n<color=#3D1400>Daño: </color><color=red>160×3/1.5 Segundos</color>\n<color=#3D1400>Especial: </color>\n- <color=red>Incendia todo el césped</color> al nacer y al morir.\n- Proyectiles infligen <color=red>Quemaduras</color>.\n- <color=red>Atraviesan 3 veces</color>, con daño duplicado tras pasar por <color=red>Apisonantorcha Infernal</color>.\n\n<color=purple>Mejoras de Odisea:</color>\n- <color=red>Multiplicador de Quemaduras → 150%</color>, y guisantes encendidos infligen el debuff.\n- Sus proyectiles pueden atravesar infinitamente y causar explosiones de quemaduras</color>\n\n<color=#3D1400>Fórmula de Fusión: </color><color=red>Tripitidora Carbonizada + Jalapeño</color>\n<color=#3D1400>Nombre Científico: </color><color=red>Pisum phoenicifer</color></size>",
+      "info": "<size=39>¡Renacida del fuego!\n\n<color=#3D1400>Daño: </color><color=red>160×3/1.5 Segundos</color>\n<color=#3D1400>Especial: </color>\n- <color=red>Incendia todo el césped</color> al nacer y al morir.\n- Proyectiles infligen el <color=red>Efecto Pirogénico</color>.\n- <color=red>Atraviesan 3 veces</color>, con daño duplicado tras pasar por <color=red>Apisonantorcha Infernal</color>.\n\n<color=purple>Mejoras de Odisea:</color>\n- <color=red>Multiplicador de Efecto Pirogénico → 150%</color>, y guisantes encendidos infligen el debuff.\n- Sus proyectiles pueden atravesar infinitamente y causar explosiones de quemaduras</color>\n\n<color=#3D1400>Fórmula de Fusión: </color><color=red>Tripitidora Carbonizada + Jalapeño</color>\n<color=#3D1400>Nombre Científico: </color><color=red>Pisum phoenicifer</color></size>",
       "cost": "<size=33>Costo: <color=red>650</color>   Recarga: <color=red>157.5 Segundos</color>\nPlantas Requeridas: <color=red>4\n<color=purple>Condición de Uso: Modo Odisea</color></size>"
     },
     {
@@ -4054,7 +4060,7 @@
       "name": "Maceta Áurea",
       "introduce": "<size=39><color=#3D1400>Como seguidora de Heliocultor, la Maceta Solar siempre permanece en segundo plano, produciendo luz solar y monedas silenciosamente. Solo espera que tú, al igual que ella, puedas llenar tu maceta con abundancia.</color></size>",
       "info": "<size=39>Parte del <color=#FFCA30>Sistema Monetario</color>.\nGenera rápidamente grandes cantidades de sol y monedas.\n\n<color=#3D1400>Especial: </color>\n- <color=red>Cada X segundos genera 50 de luz solar y 300 de monedas, (X = 15 * Maceta Áureas en el Mapa / 15000. No debe ser menor que 3 ni mayor que 15.)\n\n<color=purple>Mejoras de Odisea:</color>\n</color>- El costo de su habilidad no excederá las 8000 monedas.</color>\n- Después de alcanzar el límite de dinero, las monedas sobrantes se convierten en sol. (2 monedas equivalen a 1 sol)</color>\n\n<color=#3D1400>Fórmula de Fusión: </color><color=red>Maceta Dorada + Girasol</color>\n<color=#3D1400>Nombre Científico: </color><color=red>Vasculum Aurea Solis</color></size>",
-      "cost": "<size=33>Costo: <color=red>100</color>   Recarga: <color=red>22.5 Segundos</color>\nPlantas Requeridas: <color=red>3\n<color=purple>Condición de Uso: Modo Odisea</color></size>"
+      "cost": "<size=33>Costo: <color=red>100 (+$2000*X)</color>   Recarga: <color=red>22.5 Segundos</color>\nPlantas Requeridas: <color=red>3\n<color=purple>Condición de Uso: Modo Odisea</color></size>"
     },
     {
       "seedType": 937,
@@ -4081,7 +4087,7 @@
       "seedType": 940,
       "name": "Mecaniseta",
       "introduce": "<size=39><color=#3D1400>La Mecaniseta no solo es imbatible en la cancha, sino que también hace unas barbacoas excepcionales. Su sueño es organizar la fiesta de barbacoa más grande de la historia, una en la que participen todas las plantas y zombis de la ciudad.</color></size>",
-      "info": "<size=39>Parte del <color=#FF4500>Sistema Pirogénico</color>\n\n<color=#3D1400>Sistema Pirogénico:</color>\n- Aplica <color=red>Quemadura</color> en área 3x3.\n- Explosión propaga el efecto a zombis cercanos.\n\n<color=#3D1400>Dureza: </color><color=red>3000</color>\n<color=#3D1400>Daño:</color> <color=red>300 cada 7.5s (10% de daño cada 0.02 segundos)\n\n<color=#3D1400>Especial:</color> <color=red>Alcance de 4 casillas. Descansa 1.5 segundos tras disparar un melón de fuego, luego comienza a cargar, mínimo 6 segundos, aumentando el daño a (1 + tiempo de carga x 50%) veces. El ataque atraviesa toda la armadura, aplica el estado de quemaduras, genera un mar de llamas que dura 2.5 segundos y se divide en 2 melones de fuego que atacan a zombis cercanos con el mismo daño.\n\n<color=purple>Mejoras de Odisea:</color>\n</color>- Velocidad de Carga y Duración Máxima de Carga ×3\n- La duración del mar de llamas se duplica.</color>\n\n<color=#3D1400>Fórmula de Fusión: </color><color=red>Humoseta All-Star + Melonpulta Ígnea</color>\n<color=#3D1400>Nombre Científico: </color><color=red>Fumihornum Mechanism</color></size>",
+      "info": "<size=39>Parte del <color=#FF4500>Sistema Pirogénico</color>\n\n<color=#3D1400>Sistema Pirogénico:</color>\n- Aplica el <color=red>Efecto Pirogénico</color> en área 3x3.\n- Explosión propaga el efecto a zombis cercanos.\n\n<color=#3D1400>Dureza: </color><color=red>3000</color>\n<color=#3D1400>Daño:</color> <color=red>300 cada 7.5s (10% de daño cada 0.02 segundos)\n\n<color=#3D1400>Especial:</color> <color=red>Alcance de 4 casillas. Descansa 1.5 segundos tras disparar un melón de fuego, luego comienza a cargar, mínimo 6 segundos, aumentando el daño a (1 + tiempo de carga x 50%) veces. El ataque atraviesa toda la armadura, aplica el estado de quemaduras, genera un mar de llamas que dura 2.5 segundos y se divide en 2 melones de fuego que atacan a zombis cercanos con el mismo daño.\n\n<color=purple>Mejoras de Odisea:</color>\n</color>- Velocidad de Carga y Duración Máxima de Carga ×3\n- La duración del mar de llamas se duplica.</color>\n\n<color=#3D1400>Fórmula de Fusión: </color><color=red>Humoseta All-Star + Melonpulta Ígnea</color>\n<color=#3D1400>Nombre Científico: </color><color=red>Fumihornum Mechanism</color></size>",
       "cost": "<size=33>Costo: <color=red>600, 750</color>   Recarga: <color=red>65 Segundos</color>\nPlantas Requeridas: <color=red>4 (+ Cubo, Casco All-Star)\n<color=purple>Condición de Uso: Modo Odisea</color></size>"
     },
     {
@@ -4152,7 +4158,7 @@
       "name": "Nenúfar Áureo",
       "introduce": "<size=39><color=#3D1400>Su devoción por el Dios Solar resonaba más fuerte que un río desbordado. Por esto mismo, Nenúfar Áureo fue finalmente expulsado de la Guardia Solar por ser demasiado ruidoso, pero eso no la ha detenido de predicar su gloria a toda criatura bajo las olas. Tan sumido está en su fervor, que no ha notado un pequeño detalle: ha estado bloqueando toda la luz del sol que debía llegar al fondo del lago.</color></size>",
       "info": "<size=39>Parte del <color=#FFCA30>Sistema Monetario</color>\nLo mismo que Maceta Áurea, pero acuática.\n\n<color=#3D1400>Especial: </color>\n- <color=red>Cada X segundos genera 50 de luz solar y 300 de monedas, (X = 15 * Macetas/Nenufares Áureos en el Mapa / 15000. No debe ser menor que 3 ni mayor que 15.)\n\n<color=#3D1400>Fórmula de Fusión: </color><color=red>Ocupando una pala en una Maceta Áurea. O, se puede transformar automáticamente al cambiar de escenario a uno con agua.</color>\n<color=#3D1400>Nombre Científico: </color><color=red>Nympadia Aurea Solis</color></size>",
-      "cost": "<size=33>Costo: <color=red>100</color>   Recarga: <color=red>22.5 Segundos</color>\nPlantas Requeridas: <color=red>3\n<color=purple>Condición de Uso: Modo Odisea</color></size>"
+      "cost": "<size=33>Costo: <color=red>100 (+$2000*X)</color>   Recarga: <color=red>22.5 Segundos</color>\nPlantas Requeridas: <color=red>3\n<color=purple>Condición de Uso: Modo Odisea</color></size>"
     },
     {
       "seedType": 951,
@@ -4172,7 +4178,7 @@
     "seedType": 953,
     "name": "Mazorcañón Magmático",
     "introduce": "<size=39><color=#3D1400>Nacido del fuego que forjó las estrellas, El Mazorcañón Magmático arde como antaño lo hizo su creación: no para extenderse sin fin, sino para acabar con todo. Cuando su último resplandor se apague, solo quedará el silencio tras la primera chispa...</color></size>",
-    "info": "<size=39>Lanza mazorcas con lava y calor puro.\n\n<color=#3D1400>Daño:</color> <color=red>3600 cada 36s\n\n<color=#3D1400>Especial:</color> <color=red>\n- Sus mazorcas fusionan todas las plantas en el campo con Petacereza (prioridad) y Jalapeño (excepto Calabazas y Macetas).\n- Sus explosiones infligen el Estado Pirogénico y despues hacen un gran daño.\n- Las explosiones se dividen en múltiples mazorcas magmáticas al impactar, el número aumentando cuanto más zombis son alcanzados (al menos 6).\n- Las mazorcas magmáticas infligen daño por salpicadura con la mitad de daño de la explosión principal.\n\n<color=purple>Mejoras de Odisea:</color>\n</color>- Daño de mazorcas magmáticas x5</color>\n- Ahora activa Detonaciones Termonucleares cuando las mazorcas principales impactan con Petacerezas o Jalapeños (Petacereza: Libera 10 explosiones de bomba cereza en el área alrededor. Jalapeño: Libera 10 explosiones de Jalapeño en todo el campo. Cada uno inflige daño igual a (daño de mazorca × 18)).</color>\n\n<color=#3D1400>Fórmula de Fusión: </color><color=red>Piro-cañón + Ramo de Cerezas</color>\n<color=#3D1400>Nombre Científico: </color><color=red>Cornucannon Volcanem Nucleos</color></size>",
+    "info": "<size=39>Parte del <color=#FF4500>Sistema Pirogénico</color>\nLanza mazorcas con lava y calor puro.\n\n<color=#3D1400>Daño:</color> <color=red>3600 cada 36s\n\n<color=#3D1400>Especial:</color> <color=red>\n- Sus mazorcas fusionan todas las plantas en un área de 3x3 con Petacereza (prioridad) y Jalapeño (excepto Calabazas y Macetas).\n- Sus explosiones infligen el Estado Pirogénico y despues hacen gran daño.\n- Las explosiones se dividen en múltiples mazorcas magmáticas al impactar, el número aumentando cuanto más zombis son alcanzados (al menos 6).\n- Las mazorcas magmáticas infligen daño por salpicadura con la mitad de daño de la explosión principal.\n\n<color=purple>Mejoras de Odisea:</color>\n</color>- Daño de mazorcas magmáticas x5</color>\n- Ahora activa Detonaciones Termonucleares cuando las mazorcas principales impactan con Petacerezas o Jalapeños (Petacereza: Libera 10 explosiones de bomba cereza en el área alrededor. Jalapeño: Libera 10 explosiones de Jalapeño en todo el campo. Cada uno inflige daño igual a (daño de mazorca × 18)).</color>\n\n<color=#3D1400>Fórmula de Fusión: </color><color=red>Piro-cañón + Ramo de Cerezas</color>\n<color=#3D1400>Nombre Científico: </color><color=red>Cornucannon Volcanem Nucleos</color></size>",
     "cost": "<size=33>Costo: <color=red>900</color>   Recarga: <color=red>215 Segundos</color>\nPlantas Requeridas: <color=red>6\n<color=purple>Condición de Uso: Modo Odisea</color></size>"
   },
   {
@@ -4755,7 +4761,7 @@
       "seedType": 1056,
       "name": "Algantorcha",
       "introduce": "<size=39><color=#3D1400>\"El fuego lucha por existir bajo el agua, lo que significa que no puedo usar mis llamas para iluminar el camino,\" admitió Algantorcha. \"Pero una vez sobre la superficie, mis llamas pueden brillar nuevamente.\"</color></size>",
-      "info": "<size=39>Enciende balas de alga o arrastra zombis al agua.\n\n<color=#3D1400>Especial: </color><color=red>Enciende guisantes y balas de alga. Las balas de alga encendidas pueden añadir 1 valor de enredadera a todos los zombis en el rango de salpicadura.</color>\n<color=#3D1400>Fórmula de Fusión: </color><color=red>Zampalga + Plantorcha\n<color=#3D1400>Nombre Científico: </color><color=red>Hydra Ignis</color></size>",
+      "info": "<size=39>Enciende balas de alga o arrastra zombis al agua.\n\n<color=#3D1400>Especial: </color><color=red>Enciende guisantes y balas de alga. Las balas de alga encendidas pueden añadir 1 valor de enredadera a todos los zombis en el rango de salpicadura, y genera una Zampalga Caliente tras incendiar 100 guisantes/algas.</color>\n<color=#3D1400>Fórmula de Fusión: </color><color=red>Zampalga + Plantorcha\n<color=#3D1400>Nombre Científico: </color><color=red>Hydra Ignis</color></size>",
       "cost": "<size=39>Costo: <color=red>200</color>   Recarga: <color=red>57.5 Segundos</color>\nPlantas Requeridas: <color=red>2</color></size>"
     },
     {
@@ -4790,14 +4796,14 @@
       "seedType": 1061,
       "name": "Hierbantorcha",
       "introduce": "<size=39><color=#3D1400>\"¡Soy Hierbantorcha, el apasionado chef de barbacoa de los zombis! Prende ese pequeño guisante, y les daré una fiesta de barbacoa inolvidable. Te aseguro que soy un profesional: ¡será crujiente por fuera y tierno por dentro!\"</color></size>",
-      "info": "<size=39>Hierbantorcha puede encender pequeños guisantes y perforar vehículos.\n\n<color=#3D1400>Daño: </color><color=red>40 cada 1.5s\n<color=#3D1400>Especial: </color><color=red>Encender pequeños guisantes para aumentar el daño y salpicaduras. Tambien puede hacerle daño ligeramente a zombis aéreos.\n<color=#3D1400>Fórmula de Fusión: </color><color=red>Pinchohierba + Plantorcha\n<color=#3D1400>Nombre Científico: </color><color=red>Graminis Ignis</color></size>",
+      "info": "<size=39>Hierbantorcha puede encender pequeños guisantes y perforar vehículos.\n\n<color=#3D1400>Daño: </color><color=red>40 cada 1.5s\n<color=#3D1400>Especial: </color><color=red>Encendiende pequeños guisantes para aumentar el daño y salpicaduras. También puede hacerle daño ligeramente a Zombis Globo, y puede generar una Pinchohierba Caliente al incendiar 100 guisantes.\n<color=#3D1400>Fórmula de Fusión: </color><color=red>Pinchohierba + Plantorcha\n<color=#3D1400>Nombre Científico: </color><color=red>Graminis Ignis</color></size>",
       "cost": "<size=39>Costo: <color=red>275</color>   Recarga: <color=red>15 Segundos</color>\nPlantas Requeridas: <color=red>2</color></size>"
     },
     {
       "seedType": 1062,
       "name": "Pinchají",
       "introduce": "<size=39><color=#3D1400>\"Los estudios revelan que el picante es en realidad un tipo de dolor,\" anunció Pinchají, haciendo sonar las espinas rojas de su cabeza. \"¡Dejemos que los zombis experimenten esta verdad!\"</color></size>",
-      "info": "<size=39>Parte del <color=#FF4500>Sistema Pirogénico</color>\n\n<color=#3D1400>Sistema Pirogénico:</color>\n- Aplica <color=red>Quemadura</color> a zombis que pisen sus espinas.\n- Zombis quemados explotan al morir (<color=red>100 daño en área</color>).\n\n<color=#3D1400>Daño Base:</color> <color=red>20/s</color>\n<color=#3D1400>Fórmula de Fusión:</color> <color=red>Jalapeño + Pinchohierba</color>\n<color=#3D1400>Nombre Científico: </color><color=red>Capsicum Spinosus</color></size>",
+      "info": "<size=39>Parte del <color=#FF4500>Sistema Pirogénico</color>\n\n<color=#3D1400>Sistema Pirogénico:</color>\n- Aplica el <color=red>Efecto Pirogénico</color> a zombis que pisen sus espinas.\n- Zombis quemados explotan al morir (<color=red>100 daño en área</color>).\n\n<color=#3D1400>Daño Base:</color> <color=red>20/s</color>\n<color=#3D1400>Fórmula de Fusión:</color> <color=red>Jalapeño + Pinchohierba</color>\n<color=#3D1400>Nombre Científico: </color><color=red>Capsicum Spinosus</color></size>",
       "cost": "<size=39>Costo: <color=red>225</color>   Recarga: <color=red>57.5 Segundos</color>\nPlantas Requeridas: <color=red>X</color></size>"
     },
     {
@@ -4846,7 +4852,7 @@
       "seedType": 1069,
       "name": "Rabo de León",
       "introduce": "<size=39><color=#3D1400>\"De cola de gato a cola de dragón,\" rugió Rabo de León. Rabo de Husky susurró: \"Ego de felino...\"</color></size>",
-      "info": "<size=39>Parte del <color=#FF4500>Sistema Pirogénico</color>\n\n<color=#3D1400>Mecánica de Quemaduras:</color>\n- Dispara <color=red>2 espinas ígneas</color> que infligen:\n  - <color=red>40 daño</color> por espina (80 total) contra zombis normales.\n  - <color=red>180 daño</color> por espina (<color=#FF4500>+350%</color>) vs zombis quemados (360 total).\n\n<color=#3D1400>Frecuencia de Ataque:</color> <color=red>1.5 segundos</color>\n<color=#3D1400>Fórmula de Fusión:</color> <color=red>Jalapeño + Rabo de Gato</color>\n<color=#3D1400>Nombre Científico: </color><color=red>Felis Caudatus Ignis</color></size>",
+      "info": "<size=39>Parte del <color=#FF4500>Sistema Pirogénico</color>\n\n<color=#3D1400>Mecánica del Sistema Pirogénico:</color>\n- Dispara <color=red>2 espinas ígneas</color> que infligen:\n  - <color=red>40 daño</color> por espina (80 total) contra zombis normales.\n  - <color=red>180 daño</color> por espina (<color=#FF4500>+350%</color>) vs zombis quemados (360 total).\n\n<color=#3D1400>Frecuencia de Ataque:</color> <color=red>1.5 segundos</color>\n<color=#3D1400>Fórmula de Fusión:</color> <color=red>Jalapeño + Rabo de Gato</color>\n<color=#3D1400>Nombre Científico: </color><color=red>Felis Caudatus Ignis</color></size>",
       "cost": "<size=39>Costo: <color=red>250</color>   Recarga: <color=red>100 Segundos</color>\nPlantas Requeridas: <color=red>2</color></size>"
     },
     {
@@ -4860,7 +4866,7 @@
       "seedType": 1071,
       "name": "Gasoseta Ígnea",
       "introduce": "<size=39><color=#3D1400>Gasoseta Ígnea: el chef estrella de la flora tóxica. Sus especialidades: soufflés de gas inflamable y flambés zombi.</color></size>",
-      "info": "<size=39>Parte del <color=#FF4500>Sistema Pirogénico</color>\n\n<color=#3D1400>Sistema Pirogénico:</color>\n- Aplica <color=red>Quemadura</color> con vapores en área 3x3.\n\n<color=#3D1400>Daño Base:</color> <color=red>40×4/1.9s</color>\n<color=#3D1400>Fórmula de Fusión:</color> <color=red>Jalapeño + Gasoseta</color>\n<color=#3D1400>Nombre Científico: </color><color=red>Mycotis Gas Ignis</color></size>",
+      "info": "<size=39>Parte del <color=#FF4500>Sistema Pirogénico</color>\n\n<color=#3D1400>Sistema Pirogénico:</color>\n- Aplica el <color=red>Efecto Pirogénico</color> con vapores en área 3x3.\n\n<color=#3D1400>Daño Base:</color> <color=red>40×4/1.9s</color>\n<color=#3D1400>Fórmula de Fusión:</color> <color=red>Jalapeño + Gasoseta</color>\n<color=#3D1400>Nombre Científico: </color><color=red>Mycotis Gas Ignis</color></size>",
       "cost": "<size=39>Costo: <color=red>250, 325</color>   Recarga: <color=red>100 Segundos</color>\nPlantas Requeridas: <color=red>2</color></size>"
     },
     {
@@ -4874,7 +4880,7 @@
       "seedType": 1073,
       "name": "Nuez Infernal",
       "introduce": "<size=39><color=#3D1400>Nuez Infernal: olímpica de corazón, antorcha por naturaleza. Advertencia: no muerdas algo que brilla más que tu futuro.</color></size>",
-      "info": "<size=39>Parte del <color=#FF4500>Sistema Pirogénico</color>\n\n<color=#3D1400>Sistema Pirogénico:</color>\n- Zombis que la muerden reciben <color=red>Quemadura</color>.\n\n<color=#3D1400>Daño Base:</color> <color=red>20 HP/mordida</color>\n<color=#3D1400>Dureza:</color> <color=red>8000</color>\n<color=#3D1400>Fórmula de Fusión:</color> <color=red>Jalapeño + Nuez Alta</color>\n<color=#3D1400>Nombre Científico: </color><color=red>Juglans Capsicum</color></size>",
+      "info": "<size=39>Parte del <color=#FF4500>Sistema Pirogénico</color>\n\n<color=#3D1400>Sistema Pirogénico:</color>\n- Zombis que la muerden reciben el <color=red>Efecto Pirogénico</color>.\n\n<color=#3D1400>Daño Base:</color> <color=red>20 HP/mordida</color>\n<color=#3D1400>Dureza:</color> <color=red>8000</color>\n<color=#3D1400>Fórmula de Fusión:</color> <color=red>Jalapeño + Nuez Alta</color>\n<color=#3D1400>Nombre Científico: </color><color=red>Juglans Capsicum</color></size>",
       "cost": "<size=39>Costo: <color=red>250</color>   Recarga: <color=red>100 Segundos</color>\nPlantas Requeridas: <color=red>2</color></size>"
     },
     {
@@ -4888,7 +4894,7 @@
       "seedType": 1075,
       "name": "Piroclasto",
       "introduce": "<size=39><color=#3D1400>Tras su viaje a México, Piroclasto adoptó dos cosas: amor por los tacos y odio por los zombis sin salsa. ¡Ahora combina ambos!</color></size>",
-      "info": "<size=39>Parte del <color=#FF4500>Sistema Pirogénico</color>\n\n<color=#3D1400>Sistema Pirogénico:</color>\n- Zombis que la pisan reciben <color=red>Quemadura</color>.\n\n<color=#3D1400>Daño Base:</color> <color=red>40×2/1s</color>\n<color=#3D1400>Dureza:</color> <color=red>450</color>\n<color=#3D1400>Fórmula de Fusión:</color> <color=red>Jalapeño + Pinchorroca</color>\n<color=#3D1400>Nombre Científico: </color><color=red>Spinosus Magma</color></size>",
+      "info": "<size=39>Parte del <color=#FF4500>Sistema Pirogénico</color>\n\n<color=#3D1400>Sistema Pirogénico:</color>\n- Zombis que la pisan reciben el <color=red>Efecto Pirogénico</color>.\n\n<color=#3D1400>Daño Base:</color> <color=red>40×2/1s</color>\n<color=#3D1400>Dureza:</color> <color=red>450</color>\n<color=#3D1400>Fórmula de Fusión:</color> <color=red>Jalapeño + Pinchorroca</color>\n<color=#3D1400>Nombre Científico: </color><color=red>Spinosus Magma</color></size>",
       "cost": "<size=39>Costo: <color=red>250</color>   Recarga: <color=red>100 Segundos</color>\nPlantas Requeridas: <color=red>2</color></size>"
     },
     {
@@ -5182,21 +5188,21 @@
       "seedType": 1117,
       "name": "Lanzadientes",
       "introduce": "<size=39><color=#3D1400>'En los años 90, la gente creía que el mejor remedio contra los zombis era el arroz glutinoso. Para nosotros, el ajo es un recurso estratégico,' dice el veterano Lanzadientes. En realidad, él solo es un maíz viejo que finge ser un ajo.</color>",
-      "info": "<size=39>Parte del <color=#133816>Sistema Venenoso</color>\nLanza dientes de ajo y mantequilla apestosa.\n\n<color=#3D1400>Sistema Venenoso:</color>\n- Acumula <color=red>1 Punto de Veneno</color> por ataque (máx. 5).\n- Al alcanzar <color=red>5 Puntos</color>, aplica veneno (<color=red>20×Puntos/s</color>).\n- <color=red>25% de probabilidad</color> de lanzar maíz venenoso:\n  - Inmoviliza zombis <color=red>4s</color>.\n  - Aplica veneno instantáneo y elimina límite de puntos.\n\n<color=#3D1400>Daño Base: 40 cada 3s (Dientes de Ajo) 60 (Mantequilla)\n<color=#3D1400>Fórmula de Fusión:</color> <color=red>Lanzamaíz + Ajo</color>\n<color=#3D1400>Nombre Científico: </color><color=red>Zea Allium Defensus</color></size>",
+      "info": "<size=39>Parte del <color=#133816>Sistema Venenoso</color>\nLanza dientes de ajo y mantequilla apestosa.\n\n<color=#3D1400>Sistema Venenoso:</color>\n- Cada ataque recibe daño adicional proporcionalmente al Valor Venenoso de un zombi y acumula 1 punto venenoso.\n- Al tener 5 puntos, el Efecto Venenoso se aplica al zombi.\n- <color=red>25% de probabilidad</color> de lanzar mantequillas venenosas:\n  - Inmoviliza zombis <color=red>4s</color>.\n  - Aplica veneno instantáneo y sube límite de puntos venenosos a 30.\n\n<color=#3D1400>Daño Base: 40 cada 3s (Dientes de Ajo) 60 (Mantequilla)\n<color=#3D1400>Fórmula de Fusión:</color> <color=red>Lanzamaíz + Ajo</color>\n<color=#3D1400>Nombre Científico: </color><color=red>Zea Allium Defensus</color></size>",
       "cost": "<size=39>Costo: <color=red>150</color>   Recarga: <color=red>15 Segundos</color>\nPlantas Requeridas: <color=red>2</color></size>"
     },
     {
       "seedType": 1118,
       "name": "Coltapeste",
       "introduce": "<size=39><color=#3D1400>“El repollo salteado es fresco y delicioso, saludable y fácil de preparar. Si le añades unos dientes de ajo antes de servir, estará aún más sabroso,” explica el chef ajo. Comer mucho ajo también ayuda a combatir la caída del cabello.</color>",
-      "info": "<size=39>Parte del <color=#133816>Sistema Venenoso</color>\n\n<color=#3D1400>Sistema Venenoso:</color>\n- Proyectiles rebotan <color=red>+1 vez por Punto de Veneno</color> en el zombi.\n- Acumula <color=red>1 Punto de Veneno</color> por impacto (sin límite).\n\n<color=#3D1400>Daño:</color> <color=red>40/3 segundos</color>\n<color=#3D1400>Fórmula de Fusión:</color> <color=red>Coltapulta + Ajo</color>\n<color=#3D1400>Nombre Científico: </color><color=red>Brassica Alliumpulta</color></size>",
+      "info": "<size=39>Parte del <color=#133816>Sistema Venenoso</color>\n\n<color=#3D1400>Sistema Venenoso:</color>\n- Ver <color=red>Lanzadientes</color> para detalles del Sistema Venenoso.\n- Cada vez que ataca un zombi con puntos venenosos mayores que 0, puede rebotar de nuevo. No hay un limite a la cantidad de veces que puede rebotar.\n\n<color=#3D1400>Daño:</color> <color=red>40/3 segundos</color>\n<color=#3D1400>Fórmula de Fusión:</color> <color=red>Coltapulta + Ajo</color>\n<color=#3D1400>Nombre Científico: </color><color=red>Brassica Alliumpulta</color></size>",
       "cost": "<size=39>Costo: <color=red>150</color>   Recarga: <color=red>15 Segundos</color>\nPlantas Requeridas: <color=red>2</color></size>"
     },
     {
       "seedType": 1119,
       "name": "Cebollipulta",
       "introduce": "<size=39><color=#3D1400>Antes la evitaban, pues ella siempre se sintió como un ajo, aunque realmente lanzara cebollas. \"Al final, es la misma escencia.\" decía. Por suerte los ajos la recogieron y adoptaron. Ahora comparte la escencia del ajo con todos.</color>",
-      "info": "<size=39>Parte del <color=#133816>Sistema Venenoso</color>\n\n<color=#3D1400>Sistema Venenoso:</color>\n- <color=red>+5 daño en área</color> por Punto de Veneno.\n- Acumula <color=red>1 Punto</color> por impacto en zombis afectados.\n\n<color=#3D1400>Daño Base:</color> <color=red>100/3 segundos</color>\n<color=#3D1400>Fórmula de Fusión:</color> <color=red>Melonpulta + Ajo</color>\n<color=#3D1400>Nombre Científico: </color><color=red>Allium Cepa Projectilis</color></size>",
+      "info": "<size=39>Parte del <color=#133816>Sistema Venenoso</color>\n\n<color=#3D1400>Sistema Venenoso:</color>\n- Ver <color=red>Lanzadientes</color> para detalles del Sistema Venenoso.\n- Cada punto venenoso añade daño adicional a ataques directos y ataques con salpicadura. Acumula 1 punto venenoso para todos los zombis en el área de ataque de su cebolla.\n\n<color=#3D1400>Daño Base:</color> <color=red>100/3 segundos</color>\n<color=#3D1400>Fórmula de Fusión:</color> <color=red>Melonpulta + Ajo</color>\n<color=#3D1400>Nombre Científico: </color><color=red>Allium Cepa Projectilis</color></size>",
       "cost": "<size=39>Costo: <color=red>350</color>   Recarga: <color=red>15 Segundos</color>\nPlantas Requeridas: <color=red>2</color></size>"
     },
     {
@@ -5407,7 +5413,7 @@
       "seedType": 1149,
       "name": "Melonpulta Ígnea",
       "introduce": "<size=39><color=#3D1400>\"¡No son petardos, es ciencia!\" Melonpulta Ígnea explica mientras sus sandías estallan. \"La presión térmica + jugo de melón = ¡fiesta zombi!\"</color></size>",
-      "info": "<size=39>Parte del <color=#FF4500>Sistema Pirogénico</color>\n\n<color=#3D1400>Sistema Pirogénico:</color>\n- Aplica <color=red>Quemadura</color> en área 3x3.\n- Explosión propaga el efecto a zombis cercanos.\n\n<color=#3D1400>Daño Base:</color> <color=red>120/3s</color>\n<color=#3D1400>Fórmula de Fusión:</color> <color=red>Melonpulta + Jalapeño</color>\n<color=#3D1400>Nombre Científico: </color><color=red>Cucumis Ignitus</color></size>",
+      "info": "<size=39>Parte del <color=#FF4500>Sistema Pirogénico</color>\n\n<color=#3D1400>Sistema Pirogénico:</color>\n- Aplica el <color=red>Efecto Pirogénico</color> en área 3x3.\n- Explosión propaga el efecto a zombis cercanos.\n\n<color=#3D1400>Daño Base:</color> <color=red>120/3s</color>\n<color=#3D1400>Fórmula de Fusión:</color> <color=red>Melonpulta + Jalapeño</color>\n<color=#3D1400>Nombre Científico: </color><color=red>Cucumis Ignitus</color></size>",
       "cost": "<size=39>Costo: <color=red>425</color>   Recarga: <color=red>57.5 Segundos</color>\nPlantas Requeridas: <color=red>2</color></size>"
     },
     {
@@ -5681,7 +5687,7 @@
       "name": "Girasol Dorado",
       "introduce": "<size=39><color=#3D1400>Quedarse quieto en un trofeo le resultaba aburrido, ¡y era hora de unirse al campo de batalla! “¡Esto es increible!” “¡Nunca he estado en tanto peligro antes, esto es mucho mejor que quedarse en ese trofeo!”</color></size>",
       "info": "<size=39>Parte del <color=#FFCA30>Sistema Monetario</color>\nAcumula soles dentro de si mismo.</color>\n\n<color=#3D1400>Producción Solar: </color><color=red>50/10 Segundos (Acumula soles en un apartado diferente, los deposita a tus soles actuales con su mejora.)\n<color=#3D1400>Habilidad Especial:</color><color=red> Deposita todos los soles guardados dentro de si mismo a tu cantidad de soles actuales.</color>\n<color=#3D1400>Costo de Mejora:</color><color=red> 1000 monedas (Próximos costos: (3000*2)*Número de Girasoles Dorados en el campo.)\n<color=#3D1400>Nombre Científico: </color><color=red>Helianthus Aurea</color>\n</color><color=#3D1400>Fórmula de Fusión:</color><color=red>Girasol Plateado + Grano de Café</color></size>",
-      "cost": "<size=39>Costo: <color=red>75 (+($3000*2)*X)</color>   Recarga: <color=red>15 Segundos</color>\nPlantas Requeridas: <color=red>2</color></size>"
+      "cost": "<size=39>Costo: <color=red>75 (+($3000*2)*X)</color>   Recarga: <color=red>15s</color>\nPlantas Requeridas: <color=red>2</color></size>"
     },
     {
       "seedType": 1189,
@@ -6011,7 +6017,7 @@
       "seedType": 1235,
       "name": "Nuez Ígnea",
       "introduce": "<size=39><color=#3D1400>\u0022Siempre lleva una sonrisa\u0022, esa es la regla número uno de Nuez Ígnea, el siempre paciente mesero del restaurante. Incluso cuando la media derretida Nuez Helada se resbala por todo el piso gritando por la falta de un cartel de \u0022Piso Mojado\u0022, él simplemente sigue sonriendo. Y chisporroteando.</color></size>",
-      "info": "<size=39>Parte del <color=#FF4500>Sistema Pirogénico</color>\n¡Quema a los zombis que se atreven a morderlo!</color>\n\n<color=#3D1400>Sistema Pirogénico:</color>\n- Zombis que la muerden reciben <color=red>Quemadura</color>.\n\n<color=#3D1400>Dureza: </color><color=red>4000</color>\n<color=#3D1400>Daño Base:</color> <color=red>20 por cada mordisco\n<color=#3D1400>Nombre Científico:</color> <color=red>Juglans incendiarius</color></size>\n<size=39><color=#3D1400>Fórmula de Fusión:</color> <color=red>Nuez + Jalapeño</color></size>",
+      "info": "<size=39>Parte del <color=#FF4500>Sistema Pirogénico</color>\n¡Quema a los zombis que se atreven a morderlo!</color>\n\n<color=#3D1400>Sistema Pirogénico:</color>\n- Zombis que la muerden reciben el <color=red>Efecto Pirogénico</color>.\n\n<color=#3D1400>Dureza: </color><color=red>4000</color>\n<color=#3D1400>Daño Base:</color> <color=red>20 por cada mordisco\n<color=#3D1400>Nombre Científico:</color> <color=red>Juglans incendiarius</color></size>\n<size=39><color=#3D1400>Fórmula de Fusión:</color> <color=red>Nuez + Jalapeño</color></size>",
       "cost": "<size=39>Costo: <color=red>175</color>   Recarga: <color=red>80 Segundos</color>\nPlantas Requeridas: <color=red>2</color></size>"
     },
     {
@@ -6249,7 +6255,7 @@
       "seedType": 1269,
       "name": "Bipetihipno",
       "introduce": "<size=39><color=#3D1400>\"¡Me siento mareado!\" \"En realidad no es para tanto.\" \"No, estoy totalmente desorientado.\" \"Pero tienes la cabeza atrás.\" \"Es solo una forma de hablar.\" \"Y lo digo en el sentido literal.\" \"Y..la familia se pelea de nuevo.\", dice Hipnoguisantes. \"Probablemente la 3682.ª vez que pasa este mes.\"</color></size>",
-      "info": "<size=39>Lanza dos guisantes hipnóticos por delante, uno por detrás.</color>\n\n<color=#3D1400>Daño:</color> <color=red>30*3 cada 1.5s\n<color=#3D1400>Especial:</color> <color=red>Convierte a los zombis que derrota en Vegezombis Hipnoguisantes.</color>\n<color=#3D1400>Nombre Científico:</color> <color=red>Hypnotica retrofractum</color></size>\n<size=39><color=#3D1400>Fórmula de Fusión:</color> <color=red>Bipetidora + Hipnoseta</color></size>",
+      "info": "<size=39>Lanza dos guisantes hipnóticos por detrás, y uno por delante.</color>\n\n<color=#3D1400>Daño:</color> <color=red>30*3 cada 1.5s\n<color=#3D1400>Especial:</color> <color=red>Convierte a los zombis que derrota en Vegezombis Hipnoguisantes.</color>\n<color=#3D1400>Nombre Científico:</color> <color=red>Hypnotica retrofractum</color></size>\n<size=39><color=#3D1400>Fórmula de Fusión:</color> <color=red>Bipetidora + Hipnoseta</color></size>",
       "cost": "<size=39>Costo: <color=red>375, 450</color>   Recarga: <color=red>52.5 Segundos</color>\nPlantas Requeridas: <color=red>4</color></size>"
     },
     {
@@ -6312,7 +6318,7 @@
       "seedType": 1278,
       "name": "Ajonuez",
       "introduce": "<size=39><color=#3D1400>Ajonuez cree que incluso los zombis merecen una dieta equilibrada. Siempre se interpondrá entre ellos y tu cerebro, animándolos suavemente a optar por opciones más saludables, como Nuez Col.</color></size>",
-      "info": "<size=39>Parte del<color=#133816>Sistema Venenoso</color>\nTremendo ajón con mucha resistencia.</color>\n\n<color=#3D1400>Dureza: </color><color=red>4000</color>\n<color=#3D1400>Especial:</color> <color=red>Envenena y cambia de fila al zombi que lo muerde.</color>\n<color=#3D1400>Nombre Científico:</color> <color=red>Colossallium praesidium</color></size>\n<size=39><color=#3D1400>Fórmula de Fusión:</color> <color=red>Nuez + Ajo</color></size>",
+      "info": "<size=39>Parte del <color=#133816>Sistema Venenoso</color>\nTremendo ajón con mucha resistencia.</color>\n\n<color=#3D1400>Dureza: </color><color=red>4000</color>\n<color=#3D1400>Especial:</color> <color=red>Envenena y cambia de fila al zombi que lo muerde.</color>\n<color=#3D1400>Nombre Científico:</color> <color=red>Colossallium praesidium</color></size>\n<size=39><color=#3D1400>Fórmula de Fusión:</color> <color=red>Nuez + Ajo</color></size>",
       "cost": "<size=39>Costo: <color=red>100</color>   Recarga: <color=red>37.5 Segundos</color>\nPlantas Requeridas: <color=red>2</color></size>"
     },
     {
@@ -6382,7 +6388,7 @@
       "seedType": 1288,
       "name": "Calabaza Tocón",
       "introduce": "<size=39><color=#3D1400>A la Calabaza Tocón no le gustan los gestos ruidosos ni ostentosos. Es tranquilo, reservado y ayuda discretamente a los guisantes que lo necesitan. Incluso en una barbacoa, si le sirven comida medio cruda, no se queja; simplemente se la mete dentro y se la lleva a casa. Para entonces, estará perfectamente cocinada.</color></size>",
-      "info": "<size=39>Cada 50 proyectiles que pasan, genera una calabaza.</color>\n\n<color=#3D1400>Dureza: </color><color=red>4000</color>\n<color=#3D1400>Especial:</color> <color=red>Genera una Nuez Caliente cada 50 proyectiles que pasen por el. También puede incendiar proyectiles de la planta dentro suyo.</color>\n<color=#3D1400>Nombre Científico:</color> <color=red>Flammabor cucurbascutum</color></size>\n<size=39><color=#3D1400>Fórmula de Fusión:</color> <color=red>Plantorcha + Calabaza</color></size>",
+      "info": "<size=39>Cada 50 proyectiles que pasan, genera una calabaza.</color>\n\n<color=#3D1400>Dureza: </color><color=red>4000</color>\n<color=#3D1400>Especial:</color> <color=red>Genera una Calabaza Caliente cada 50 proyectiles que pasen por el. También puede incendiar proyectiles de la planta dentro suyo.</color>\n<color=#3D1400>Nombre Científico:</color> <color=red>Flammabor cucurbascutum</color></size>\n<size=39><color=#3D1400>Fórmula de Fusión:</color> <color=red>Plantorcha + Calabaza</color></size>",
       "cost": "<size=39>Costo: <color=red>300</color>   Recarga: <color=red>37.5 Segundos</color>\nPlantas Requeridas: <color=red>2</color></size>"
     },
     {
