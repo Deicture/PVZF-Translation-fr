@@ -165,7 +165,7 @@
         {
             "theZombieType": 28,
             "name": "掘り手ゾンビ",
-            "introduce": "<size=34><color=black>A long time ago, Digger Zombies despised Magnet-shrooms for constantly confiscating their tools. Now, they hate Miner Pumpkins even more. \"My head keeps getting hit, which makes me feel even worse,\" he laments.</color>",
+            "introduce": "<size=34><color=black>A long time ago, 掘り手ゾンビs despised Magnet-shrooms for constantly confiscating their tools. Now, they hate ツルハシのパンプキン even more. \"My head keeps getting hit, which makes me feel even worse,\" he laments.</color>",
             "info": "<size=34>このゾンビは掘って防御を回避します。\n\n<color=black>耐久力：</color><color=#4B0082>720</color>\n<color=black>スペシャル：</color><color=#4B0082>地下を掘り進み、芝生の左側に現れます。磁石キノコに弱いです。</color>"
         },
         {
@@ -236,7 +236,7 @@
         },
         {
             "theZombieType": 40,
-            "name": "メカボーリングゾンビ",
+            "name": "メカボウリングゾンビ",
             "introduce": "<size=32>",
             "info": "<size=29.5>ゾンビ側の転がるボウリングボール。\n\n<color=black>耐久力：</color><color=#4B0082>1350</color>\n<color=black>スペシャル：</color><color=#4B0082>プラントに当たると方向を変え、坂を下ると速くなります。1000ヘルス以下のプラントを押しつぶし、強靭なプラントには1000ダメージを与え、曲がると減速します。傘の葉の融合で止めることができます。倒れると5匹のインプを召喚します。</color>\n<color=black>ドロップ：</color><color=#4B0082>1/3の確率で氷ボール、炎ボール、またはメカ断片をドロップします。</color>\n\n<color=black>ボールはプラントを押しつぶし、最大30発の弾丸をブロックするか、30秒間持続します。氷属性または火属性のプラント融合で対抗可能です。</color>"
         },
@@ -280,7 +280,7 @@
             "theZombieType": 49,
             "name": "霜の軍団・雪玉砲",
             "introduce": "<align=justified><size=36><color=black>\"Snowball fight!\" 霜の軍団・雪玉砲 wakes up from his icy slumber, flinging snowballs wildly in every direction.\n\n\"Should we tell him?\"\n\"Nah, let’s see how long it takes him to figure it out.\"\n\nSMACK!—Another snowball lands.\n\n\"That makes fourteen.\"</color>",
-            "info": "<size=36>霜の軍団・雪玉砲 can attack your plants with snowballs and freeze them.\n\n<color=black>耐久力：</color><color=#4B0082>720</color>\n<color=black>ダメージ：</color><color=#4B0082>20/2s</color>\n<color=black>スペシャル：</color><color=#4B0082>\n<color=black>•</color> Immune to Chill and Freeze. Vulnerable to Deep Chill.\n<color=black>•</color> After appearing, it will continually launch snowballs at plants, which will deal 20 damage and explode upon impact, disabling plants for 5s in a 3×3 range. Snowballs inflict 10 Cryo points to hypnotized zombies affected.</color>\n<color=black>Weakness: </color><color=#4B0082>Umbrella Rind</color>"
+            "info": "<size=36>霜の軍団・雪玉砲 can attack your plants with snowballs and freeze them.\n\n<color=black>耐久力：</color><color=#4B0082>720</color>\n<color=black>ダメージ：</color><color=#4B0082>20/2秒</color>\n<color=black>スペシャル：</color><color=#4B0082>\n<color=black>•</color> Immune to Chill and Freeze. Vulnerable to Deep Chill.\n<color=black>•</color> After appearing, it will continually launch snowballs at plants, which will deal 20 damage and explode upon impact, disabling plants for 5s in a 3×3 range. Snowballs inflict 10 Cryo points to hypnotized zombies affected.</color>\n<color=black>Weakness: </color><color=#4B0082>Umbrella Rind</color>"
         },
         {
             "theZombieType": 50,
@@ -328,7 +328,7 @@
             "theZombieType": 58,
             "name": "鉱夫ゾンビ",
             "introduce": "<align=justified><size=36><color=black>\"I don’t want to live in this world,\" 鉱夫ゾンビ laments, finding no joy in his monotonous life. He just wants to dig up enough obsidian to build a portal and leave. Not to mention that the other side of the portal is even more dangerous and monotonous, he has no chance of lighting the portal at all. The only known ignition tool is guarded deep inside ancient pyramids found in only two locations of the world, where torch-bearing zombies roam.</color>",
-            "info": "<size=36>Wields a random pickaxe to mine through your defense.\n\n<color=black>ダメージ：</color><color=#4B0082>50 (non-biting)</color>\n<color=black>耐久力：</color><color=#4B0082>720＋1400（タイプ1）</color>\n<color=black>スペシャル：</color><color=#4B0082>\n<color=black>•</color> Attacks accumulate mining progress against defensive plants, insta-killing the plant with it reaches 100%.\n<color=black>•</color> Mining progress = (number of attacks × pickaxe damage) / plant HP.\n<color=black>•</color> On appearance, randomly receives a pickaxe with different pickaxe powers. When targeting plants with Toughness below their pickaxe powers, pickaxe damage is multiplied by 5.\n<color=black>•</color>Pickaxe Types:\n\tGold Pickaxe: 150 damage | 4000 power\n\tIron Pickaxe: 50 damage | 16000 power\n\tDiamond Pickaxe: 100 damage | 32000 power\n<color=black>•</color> Defensive plants: Nuts, Pumpkins, Burger Blaster, 霜梨.</color>"
+            "info": "<size=36>Wields a random pickaxe to mine through your defense.\n\n<color=black>ダメージ：</color><color=#4B0082>50 (non-biting)</color>\n<color=black>耐久力：</color><color=#4B0082>720＋1400（タイプ1）</color>\n<color=black>スペシャル：</color><color=#4B0082>\n<color=black>•</color> Attacks accumulate mining progress against defensive plants, 即死ing the plant with it reaches 100%.\n<color=black>•</color> Mining progress = (number of attacks × pickaxe damage) / plant HP.\n<color=black>•</color> On appearance, randomly receives a pickaxe with different pickaxe powers. When targeting plants with Toughness below their pickaxe powers, pickaxe damage is multiplied by 5.\n<color=black>•</color>Pickaxe Types:\n\tGold Pickaxe: 150 damage | 4000 power\n\tIron Pickaxe: 50 damage | 16000 power\n\tDiamond Pickaxe: 100 damage | 32000 power\n<color=black>•</color> Defensive plants: Nuts, Pumpkins, Burger Blaster, 霜梨.</color>"
         },
         {
             "theZombieType": 59,
@@ -394,7 +394,7 @@
             "theZombieType": 107,
             "name": "チェリーナッツゾンビ",
             "introduce": "<size=36><color=black>Real men never turn around to watch explosions, and Cherry-nut Zombie certainly fits the bill, as he often catches bombs with his face.</color>",
-            "info": "<size=36>爆発弾に対して若干の耐性があります。\n\n\n<color=black>耐久力：</color><color=#4B0082>270+1100</color>\n<color=black>スペシャル：</color><color=#4B0082>爆発による最大ダメージは150です。.</color>"
+            "info": "<size=36>爆発弾に対して若干の耐性があります。\n\n\n<color=black>耐久力：</color><color=#4B0082>270+1100</color>\n<color=black>スペシャル：</color><color=#4B0082>爆発による最大ダメージは150です。</color>"
         },
         {
             "theZombieType": 108,
@@ -418,13 +418,13 @@
             "theZombieType": 111,
             "name": "氷トールナッツゾンビ",
             "introduce": "<size=32><color=black>フットボールゾンビ's head has sparked numerous opinions in the zombie world. Some say he aims to distance himself from the cold world, while others suspect it relates to エドガー博士's wild experiments. Yet, only he knows that this headgear appeared after he ate a specific blue mushroom.</color>",
-            "info": "<size=32>アイスプロジェクタイルによるダメージを無効化できる頑丈なゾンビ。\n\n<color=black>耐久力：</color><color=#4B0082>270+2200</color>\n<color=black>スペシャル：</color><color=#4B0082>氷や氷のプロジェクタイルに対する免疫。.</color>"
+            "info": "<size=32>アイスプロジェクタイルによるダメージを無効化できる頑丈なゾンビ。\n\n<color=black>耐久力：</color><color=#4B0082>270+2200</color>\n<color=black>スペシャル：</color><color=#4B0082>氷や氷のプロジェクタイルに対する免疫。</color>"
         },
         {
             "theZombieType": 112,
             "name": "チェリーボムパルトゾンビ",
             "introduce": "<size=35><color=black>Warning: Before he uses up all his basketballs, make sure to run, as his explosive basketballs will cause chaos!</color>",
-            "info": "<size=35>爆発的なバスケットボールを投げて防御を破壊します！\n<color=black>耐久力：</color><color=#4B0082>1350</color>\n<color=black>スペシャル：</color><color=#4B0082>5つのバスケットボールを投げた後、爆発的なバスケットボールを発射します。爆発的なバスケットボールはアンブレラプラントに100ダメージを与えます。.</color>"
+            "info": "<size=35>爆発的なバスケットボールを投げて防御を破壊します！\n<color=black>耐久力：</color><color=#4B0082>1350</color>\n<color=black>スペシャル：</color><color=#4B0082>5つのバスケットボールを投げた後、爆発的なバスケットボールを発射します。爆発的なバスケットボールはアンブレラプラントに100ダメージを与えます。</color>"
         },
         {
             "theZombieType": 113,
@@ -505,6 +505,12 @@
             "info": "<size=36>A tough, smug parkour enthusiast who, once locked in, swerves and sprints with a burst of speed.\n\n<color=blue>Xiaoxiaosu Collab Zombie, exclusive to Vasebreaker</color>\n<color=black>耐久力：</color><color=#4B0082>9527</color>\n<color=black>スペシャル：</color><color=#4B0082>Switches lanes and speeds up by 3× when HP drops to 2/3.</color>"
         },
         {
+            "theZombieType": 190,
+            "name": "Sniper Commando",
+            "introduce": "<align=justified><size=36><color=black>A bounty-hunter turned commando, Sniper Commando is shrouded in mystery. No one knows where he came from, why he's so serious, or how he intends to eat brains through such a ridiculous barrel.</color>",
+            "info": "<size=36>Punishes your most valuable plants with precision.\n\n<color=black>耐久力：</color><color=#4B0082>1000</color>\n<color=black>Traits: </color><color=#4B0082>\n<color=black>•</color> Upon entry, targets the most valuable plant on the lawn (by Sun cost).\n<color=black>•</color> If not eliminated in 8s, kills the plant and moves onto the next target.</color>"
+        },
+        {
             "theZombieType": 200,
             "name": "鮫雷艦ゾンビ",
             "introduce": "<size=36><color=black>\"An excellent diver should not only be able to dive but also drive a super submarine!\" declared Sharkmarine Zombie as he increased the submarine's horsepower by one gear.</color>",
@@ -566,9 +572,15 @@
         },
         {
             "theZombieType": 210,
-            "name": "超級メカボーリング",
+            "name": "超級メカボウリング",
             "introduce": "<size=36><color=black>\"Fish balls? Mecha armor? That’s all that matters,\" says ギガメカナッツ Zombie. Sporting an impressive mechanical suit, he feels that’s all he really needs.</color></size>",
-            "info": "<size=36>超級メカボーリングは方向を変えることができます。\n\n<color=black>耐久力：</color><color=#4B0082>1350</color></size>"
+            "info": "<size=36>超級メカボウリングは方向を変えることができます。\n\n<color=black>耐久力：</color><color=#4B0082>1350</color></size>"
+        },
+        {
+            "theZombieType": 211,
+            "name": "接地鮫雷艦ゾンビ</size>",
+            "introduce": "<align=justified><size=36><color=black>Why is it here? Did it emerge from the groud? Or did it fall from the sky? No one really knows. What is certain is that those displaced dirt looking thingies are definitely camouflage.</color></size>",
+            "info": "<size=36>A failed example of a Sharkmarine test.\n\n<color=black>ダメージ：</color><color=#4B0082>20/0.02秒</color>\n<color=black>耐久力：</color><color=#4B0082>ギガメカナッツのHP/3</color>\n<color=black>スペシャル：</color><color=#4B0082>Sharkmarine, but on land and immobile. Using a ウォールナッツの種パケット on a ギガメカナッツ summons a hypnotized Sharkmarine. The 接地鮫雷艦ゾンビ dies instantly if the ギガメカナッツ summons again or is destroyed.</color></size>"
         },
         {
             "theZombieType": 212,
@@ -614,8 +626,8 @@
         },
         {
             "theZombieType": 219,
-            "name": "究極メカボーリング",
-            "introduce": "<size=30><color=black>究極メカボーリングは、元々超級メカボーリング小型で精密なバージョンとして設計された。しかし、設計図の寸法にミスがあり…結果としてとんでもなく巨大なものが生まれた。技術者たちは失敗に気づいたものの、もう手遅れだったので、そのまま「転」がるように受け入れた。</color>",
+            "name": "究極メカボウリング",
+            "introduce": "<size=30><color=black>究極メカボウリングは、元々超級メカボウリング小型で精密なバージョンとして設計された。しかし、設計図の寸法にミスがあり…結果としてとんでもなく巨大なものが生まれた。技術者たちは失敗に気づいたものの、もう手遅れだったので、そのまま「転」がるように受け入れた。</color>",
             "info": "<size=32>フィールド上のすべてのゾンビの盾となる！\n\n<color=black>耐久力：</color><color=#4B0082>12000</color>\n<color=black>スペシャル：</color><color=#4B0082>煉獄モードで対応する効果を選択した場合のみ出現。ヒプノやチョンパーに無効化され、1回の攻撃で5000以上のダメージを受けない。フィールド上のすべてのゾンビ（謎の箱ゾンビたちを除く）に対してダメージを肩代わりする。無敵フレームを持ち、0.2秒ごとに1回のみダメージを受ける。</color>"
         },
         {
@@ -643,12 +655,6 @@
             "info": "<size=32>チェリーZ教授は科学的な遺物、特に爆発物の研究に執着している。チェリージラはもともと彼の発明だったという噂も…\n\n<color=black>耐久力：</color><color=#4B0082>1200+12000+1500</color>\n<color=black>スペシャル：</color><color=#4B0082>煉獄モードで対応する効果を選択した際にのみ登場。撃退、ヒプノ、チョンパーの影響を受けず、一撃で受けるダメージは最大5000まで。新聞が破壊されるまでは無敵状態。新聞を失うと短時間無敵になり、最大30体のゾンビを怒れるチェリーシューター新聞ゾンビに変化させる。その後、チェリーの弾幕を放ち、最終列へチェリーを発射しながら突進する。スパイクウィードに触れると即座に新聞を失う（未破壊の場合）。</color>"
         },
         {
-            "theZombieType": 211,
-            "name": "接地鮫雷艦ゾンビ</size>",
-            "introduce": "<align=justified><size=36><color=black>Why is it here? Did it emerge from the groud? Or did it fall from the sky? No one really knows. What is certain is that those displaced dirt looking thingies are definitely camouflage.</color></size>",
-            "info": "<size=36>A failed example of a Sharkmarine test.\n\n<color=black>ダメージ：</color><color=#4B0082>20/0.02s</color>\n<color=black>耐久力：</color><color=#4B0082>ギガメカナッツのHP/3</color>\n<color=black>スペシャル：</color><color=#4B0082>Sharkmarine, but on land and immobile. Using a ウォールナッツの種パケット on a ギガメカナッツ summons a hypnotized Sharkmarine. The 接地鮫雷艦ゾンビ dies instantly if the ギガメカナッツ summons again or is destroyed.</color></size>"
-        },
-        {
             "theZombieType": 224,
             "name": "<color=#4B0082><u>びっくり箱のピエロ女王</u>",
             "introduce": "<align=justified><size=36><color=black>The Queen's gaze alone is enough to make her servants tremble. None dare defy her. But power is not her only delight—she loves to give. Within her ornate gift box, toys and trinkets await young hands... along with bombs primed to surprise. And oh, how she loves surprises.</color>",
@@ -664,7 +670,7 @@
             "theZombieType": 226,
             "name": "アルファアサシン部隊",
             "introduce": "<align=justified><size=36><color=black>The アルファアサシン部隊 moves like shadows, striking faster than a breath and leaving no trace behind—except for the occasional zombie body, of course. They never miss a target, and they never leave anyone alive to tell the tale.</color>",
-            "info": "<size=36>Typically operating in pairs, with elite members deploying as a full squad when necessary.\n\n<color=black>ダメージ：</color><color=#4B0082>500 × 2</color>\n<color=black>耐久力：</color><color=#4B0082>6000＋6000（タイプ2）</color>\n<color=black>スペシャル：</color><color=#4B0082>\n<color=black>•</color> Immune to being hypnotized. Appear in pairs. When appearing as a miniboss, 5 spawn in one lane at once, with their health increased by 5×.\n<color=black>•</color> If they take fatal damage while any member of the group is still alive, they become incapacitated. Otherwise, the whole squad dies simultaneously.\n<color=black>•</color> While incapacitated, they're immune to damage and knockback (only for the first occasion), block projectiles, but won't be targeted by plants.\n<color=black>•</color> After 10s of incapacitation, they revive with full health, charge forward 2.5 tiles, dealing 500 damage to all plants they collide with, and trigger a Jack-in-the-Box Explosion.\n<color=black>•</color> If killed by Chompers or other insta-kill methods, both they and their squad immediately perish.</color>\n<color=black>Odyssey Modifiers:\n</color><color=#4B0082>1. Now always invincible when incapacitated.\n2. Can now appear as a Mini-boss.</color>"
+            "info": "<size=36>Typically operating in pairs, with elite members deploying as a full squad when necessary.\n\n<color=black>ダメージ：</color><color=#4B0082>500 × 2</color>\n<color=black>耐久力：</color><color=#4B0082>6000＋6000（タイプ2）</color>\n<color=black>スペシャル：</color><color=#4B0082>\n<color=black>•</color> Immune to being hypnotized. Appear in pairs. When appearing as a miniboss, 5 spawn in one lane at once, with their health increased by 5×.\n<color=black>•</color> If they take fatal damage while any member of the group is still alive, they become incapacitated. Otherwise, the whole squad dies simultaneously.\n<color=black>•</color> While incapacitated, they're immune to damage and knockback (only for the first occasion), block projectiles, but won't be targeted by plants.\n<color=black>•</color> After 10s of incapacitation, they revive with full health, charge forward 2.5 tiles, dealing 500 damage to all plants they collide with, and trigger a Jack-in-the-Box Explosion.\n<color=black>•</color> If killed by Chompers or other 即死 methods, both they and their squad immediately perish.</color>\n<color=black>Odyssey Modifiers:\n</color><color=#4B0082>1. Now always invincible when incapacitated.\n2. Can now appear as a Mini-boss.</color>"
         },
         {
             "theZombieType": 227,
