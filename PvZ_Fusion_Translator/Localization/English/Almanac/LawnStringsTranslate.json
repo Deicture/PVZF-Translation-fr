@@ -2762,7 +2762,7 @@
             "seedType": 1277,
             "name": "Death Star",
             "introduce": "<align=justified><size=36><color=black>\"I could destroy almost the entire planet if I wanted to,\" boasts Death Star, \"and they'd all blame it on the biggest star in the sky...\"</color>",
-            "info": "<size=36>Transforms himself into a Doom Meteor and crash into the ground.\n\n<color=black>Special: </color><color=#8B0000>Disappears after 3s and summons a Doom Meteor that deals 1800 area damage on impact and splits into 180 spore stars each dealing 20 damage.</color>",
+            "info": "<size=36>Transforms himself into a Doom Meteor and crashes into the ground.\n\n<color=black>Special: </color><color=#8B0000>Disappears after 3s and summons a Doom Meteor that deals 1800 area damage on impact and splits into 180 spore stars each dealing 20 damage.</color>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Starfruit + Doom-shroom</color>"
         },
         {
@@ -2985,8 +2985,8 @@
         {
             "seedType": 364,
             "name": "Death Star (TD)",
-            "introduce": "<align=justified><size=36><color=black>\"Stars, grant me the power of destruction!\" Death Star chants a dreadful incantation, summoning meteors to obliterate everything he despises. But why is the meteor black? \"Probably because it burned up a little while passing through the atmosphere.\"</color>",
-            "info": "<size=36>Transforms himself into a Doom Meteor and crash into the ground.\n\n<color=black>Special: </color><color=#8B0000>Disappears after 3s and summons a Doom Meteor that deals 1800 area damage on impact and splits into 180 spore stars each dealing 20 damage.</color>",
+            "introduce": "<align=justified><size=36><color=black>\"I could destroy almost the entire planet if I wanted to,\" boasts Death Star, \"and they'd all blame it on the biggest star in the sky...\"</color>",
+            "info": "<size=36>Transforms himself into a Doom Meteor and crashes into the ground.\n\n<color=black>Special: </color><color=#8B0000>Disappears after 3s and summons a Doom Meteor that deals 1800 area damage on impact and splits into 180 spore stars each dealing 20 damage.</color>",
             "cost": "<size=36>Cost: <color=#8B0000>175</color>\nRecharge: <color=#8B0000>90s</color></size>"
         },
         {

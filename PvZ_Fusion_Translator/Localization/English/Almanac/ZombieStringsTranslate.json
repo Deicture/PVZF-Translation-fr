@@ -349,6 +349,12 @@
             "info": "<size=36>A baby Snowfur that loves to tumble, but rarely survives it.\n\n<color=black>Toughness: </color><color=#4B0082>300</color>\n<color=black>Traits: </color><color=#4B0082>\n<color=black>•</color> Rolls forward. Upon hitting a plant, deals damage equal to its current HP, then dies.\n<color=black>•</color> Has a 2/3 chance to evade attacks.</color>"
         },
         {
+            "theZombieType": 63,
+            "name": "Burglar Bungee Zombie",
+            "introduce": "<align=justified><size=36><color=black></color>",
+            "info": "<size=36>Carries valuables but also mystery-boxes!\n\n<color=black>Toughness: </color><color=#4B0082>1350</color>\n<color=black>Traits: </color><color=#4B0082>\n<color=black>•</color> If repelled by an Umbrella Leaf, re-enters the lawn and drops a Mystery Gargantuar. Does not return if repelled again during the drop.\n<color=black>•</color> Drops a Diamond and 100 Sun if defeated.</color>"
+        },
+        {
             "theZombieType": 100,
             "name": "Peashooter Zombie",
             "introduce": "<align=justified><size=36><color=black>The ability of Peashooter Zombie to engage from a distance often frightens the plants. However, the real panic lies with the zombies, who fear that those fighting in front of him will be targeted from behind.</color>",
