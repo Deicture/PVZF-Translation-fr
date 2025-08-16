@@ -355,6 +355,12 @@
             "info": "<size=36>Carries valuables but also mystery-boxes!\n\n<color=black>Toughness: </color><color=#4B0082>1350</color>\n<color=black>Traits: </color><color=#4B0082>\n<color=black>•</color> If bounced away by an Umbrella Leaf, returns shortly after to drop a Mystery Gargantuar on the right side of the lawn. Can be bounced away again and won't return a second time.\n<color=black>•</color> Drops a Diamond and 100 Sun if defeated.</color>"
         },
         {
+            "theZombieType": 64,
+            "name": "Beach Michael Zombie",
+            "introduce": "<align=justified><size=36><color=black>Heehee~</color>",
+            "info": "<size=36>Michael is on vacation with a newfound passion for uncovering stone statues from lost coastal civilizations!\n\n<color=black>Toughness: </color><color=#4B0082>720</color>\n<color=black>Traits: </color><color=#4B0082>\n<color=black>•</color> Summons 4 Dancing Statues with 500 HP. After 15s, each Statue breaks and spawns a Beach Michael with HP equal to the statue's remaining HP.\n<color=black>•</color> In non-TD modes, Statues appear in the same spots where a regular Michael would summon Dancing Pole Vaulters.</color>"
+        },
+        {
             "theZombieType": 100,
             "name": "Peashooter Zombie",
             "introduce": "<align=justified><size=36><color=black>The ability of Peashooter Zombie to engage from a distance often frightens the plants. However, the real panic lies with the zombies, who fear that those fighting in front of him will be targeted from behind.</color>",
