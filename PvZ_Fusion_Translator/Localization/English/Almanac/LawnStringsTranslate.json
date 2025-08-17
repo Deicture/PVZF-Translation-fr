@@ -2718,8 +2718,8 @@
         },
         {
             "seedType": 1271,
-            "name": "Threepeater Commando",
-            "introduce": "<align=justified><size=36><color=black>This trio in particular showed serious dedication at the Pea Squad Bootcamp, always firing in unison, and settling arguments with each other in record time. They earned the title of First Threepeater Commando, and had the 3 stars split across each of their helmets.\n\n-Written by Mr. Etc.</color>",
+            "name": "Tri-phoon Commando",
+            "introduce": "<align=justified><size=36><color=black>This trio in particular showed serious dedication at the Pea Squad Bootcamp, always firing in unison, and settling arguments with each other in record time. They earned the title of First Tri-phoon Commando, and had the 3 stars split across each of their helmets.\n\n-Written by Mr. Etc.</color>",
             "info": "<size=36>Fires copious amounts of peas in three lanes.\n\n<color=#4A2900>Usage Condition: Odyssey Mode</color>\n<color=black>Damage: </color><color=#8B0000>(20×6)×3/1.5s</color>\n<color=black>Ultimate: </color><color=#8B0000>60×3/0.02s</color>\n<color=black>Special: </color><color=#8B0000>6% chance to shoot a barrage of peas each attack, lasting 5s.</color>",
             "cost": "<size=36>Fusion Formula: <color=#8B0000>Threepeater + Pea-storm Commando</color>"
         },
@@ -2879,10 +2879,17 @@
         },
         {
             "seedType": 1294,
-            "name": "Shelly-shroom",
-            "introduce": "<align=justified><size=36><color=black>Shelly-shroom drifts like a hidden reef, timid, still, but dangerous to the unwary. When the surrounding water shifts, he rouses and ferociously defends himself, then settles back beneath the waves as if nothing happened.</color>",
+            "name": "Hermit-shroom",
+            "introduce": "<align=justified><size=36><color=black>Hermit-shroom drifts like a hidden reef, timid, still, but dangerous to the unwary. When the surrounding water shifts, he rouses and ferociously defends himself, then settles back beneath the waves as if nothing happened.</color>",
             "info": "<size=36>Too shy to attack until he sees a Sea-shroom dive.\n\n<color=black>Damage: </color><color=#8B0000>20/0.5s</color>\n<color=black>Special: </color><color=#8B0000>Hides himself by default. Using a Sea-shroom seedpacket on him makes him attack for 10s, after which he cowers again.</color>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Scaredy-shroom > Sea-shroom</color>"
+        },
+        {
+            "seedType": 1295,
+            "name": "Three-nuts",
+            "introduce": "<align=justified><size=36><color=black></color>",
+            "info": "<size=36>Three small-nuts stacked on top of each other.\n\n<color=black>Damage: </color><color=#8B0000>\n<color=black>•</color> (12-8k HP) 80, pierces twice;\n<color=black>•</color> (8-4k HP) 60, pierces 4 times;\n<color=black>•</color> (4k-0 HP) 40, pierces 6 times</color>\n<color=black>Special: </color><color=#8B0000>Tall plant. Has 12k HP in total. Each Small-nut has 4k HP. Losing one Small-nut permanently reduces max HP by 4k.</color>",
+            "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Threepeater + Wall-nut</color>"
         },
         {
             "seedType": 350,
