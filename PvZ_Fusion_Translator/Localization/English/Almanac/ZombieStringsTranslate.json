@@ -202,7 +202,7 @@
             "theZombieType": 34,
             "name": "Pogo Melon Zombie",
             "introduce": "<align=justified><size=36><color=black>Quote: \"It's highly unlikely for shells to explode in the same crater twice! This is what 'Crater Theory' states.\" Pogo Melon Zombie says while adjusting his melon peel hat. However, no one told him that his red-and-green color scheme stands out a bit too much in a crowd of zombies.</color>",
-            "info": "<size=36>This zombie charges up and leaps into your defenses!\n\n<color=black>Toughness: </color><color=#4B0082>270 + 2200 (Type 1)</color>\n<color=black>Traits: </color><color=#4B0082>Charges up for 5 seconds, then performs a big jump (about 4 Tiles long).\n<color=black>Weakness: </color><color=#4B0082>Umbrellas</color>"
+            "info": "<size=36>This zombie charges up and leaps into your defenses!\n\n<color=black>Toughness: </color><color=#4B0082>270 + 2200 (Type 1)</color>\n<color=black>Traits: </color><color=#4B0082>Charges up for 5 seconds, then performs a big jump (about 4 Tiles long).\n<color=black>Weakness: </color><color=#4B0082>Umbrella Fusions</color>"
         },
         {
             "theZombieType": 35,
@@ -238,7 +238,7 @@
             "theZombieType": 40,
             "name": "Mecha-nut Zombie",
             "introduce": "<align=justified><size=36><color=black>Mecha-nut Zombie doesn’t have time for small talk—literally. With every turn, crash, and slope-assisted sprint, it’s all about momentum. \"Gotta keep rolling, gotta keep crushing,\" it mutters in a tinny, robotic voice, steam hissing from its joints. Plants unlucky enough to be in its path? Flattened. But even machines have limits—when it finally grinds to a halt, the Imps inside spill out, ready to pick up where their rolling fortress left off.",
-            "info": "<size=36>A rolling bowling ball on the zombies' side.\n\n<color=black>Toughness: </color><color=#4B0082>1350</color>\n<color=black>Traits: </color><color=#4B0082>\n<color=black>•</color> Switches lanes when hitting plants, speeds up on slopes. Slows down after switching lanes.\n<color=black>•</color>Crushes plants that has less than or equal to 1000 Toughness, and deals 1000 damage to tougher plants.\n<color=black>•</color> Spawns 5 Imps upon death.\n<color=black>•</color> Has equal probablities to drop an ice ball, fireball, or Mecha Fragment.\n<color=black>•</color> The balls can crush plants, block up to 30 bullets, and last 30 seconds. Can be countered by Ice-/Fire-based plant fusions.\n<color=black>Weakness: </color><color=#4B0082>Umbrellas</color>"
+            "info": "<size=36>A rolling bowling ball on the zombies' side.\n\n<color=black>Toughness: </color><color=#4B0082>1350</color>\n<color=black>Traits: </color><color=#4B0082>\n<color=black>•</color> Switches lanes when hitting plants, speeds up on slopes. Slows down after switching lanes.\n<color=black>•</color>Crushes plants that has less than or equal to 1000 Toughness, and deals 1000 damage to tougher plants.\n<color=black>•</color> Spawns 5 Imps upon death.\n<color=black>•</color> Has equal probablities to drop an ice ball, fireball, or Mecha Fragment.\n<color=black>•</color> The balls can crush plants, block up to 30 bullets, and last 30 seconds. Can be countered by Ice-/Fire-based plant fusions.\n<color=black>Weakness: </color><color=#4B0082>Umbrella Fusions</color>"
         },
         {
             "theZombieType": 43,
