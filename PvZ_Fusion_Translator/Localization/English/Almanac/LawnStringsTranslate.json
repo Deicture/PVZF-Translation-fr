@@ -565,7 +565,7 @@
             "name": "Enchantress-shroom",
             "introduce": "<align=justified><size=36><color=black>The subjects of the Empress-shroom are captivated by the Enchantress-shroom's mysterious power. \"She's not just my advisor; she's the force that keeps our kingdom thriving. Her magic isn't just powerful—it's explosive\", the Empress-shroom declared. In truth, the Enchantress-shroom simply delights in blowing up any unruly dissenters who dare resist her charm.</color>",
             "info": "<size=36>Summons exclusively explosive zombies to fight for you!\n\n<color=#4A2900>Usage Condition: Odyssey Mode | Unlockable With Empress-shroom's Modifier</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> The same as Empress-shroom, but only summons Cherryshooter Newspaper Zombie/Zombarine/Gatling Cherry Newspaper/Gatling Explod-o-rider zombies.\n<color=black>•</color> Benefits from Empress-shroom modifiers.\n<color=black>•</color> Immediately summons a zombie when an Empress-shroom dies in a 3×3 range.</color>",
-            "cost": "\n<size=36>Fusion Formula: <color=#8B0000> Hypno-shroom <-> Cherry Bomb</color>"
+            "cost": "<size=36>Conversion Formula: <color=#8B0000> Hypno-shroom <-> Cherry Bomb</color>"
         },
         {
             "seedType": 918,
@@ -1979,7 +1979,7 @@
             "name": "Blizzard Commando",
             "introduce": "<align=justified><size=36><color=black>As the general commander of the Pea family, Blizzard Commando has an aura that makes plants and zombies shudder even from miles away. But regarding his proud freezing ability, Blizzard Commando always keeps quiet about it, until one day a small pea accidentally opened his diary: \"If I had known, I wouldn't have bet against the Blazer Snipea. Not only did I almost freeze to death in the ice fields, but I also ended up like this. Tonight, I'll make that gal eat three big bowls of chili—\"</color>",
             "info": "<size=36>Shoots snow peas at zombies, with a small chance of shooting a massive barrage!\n\n<color=#4A2900>Usage Condition: Odyssey Mode</color>\n<color=black>Damage: </color><color=#8B0000>20×6/1.5s</color>\n<color=black>Ultimate: </color><color=#8B0000>20×3/0.02s</color>\n<color=black>Special: </color><color=#8B0000>2% chance to shoot a barrage of snow peas each attack, lasting 5s.</color>",
-            "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Pea-storm Commando + Ice-shroom</color>"
+            "cost": "<size=36>Fusion Formula: <color=#8B0000>Pea-storm Commando + Ice-shroom</color>"
         },
         {
             "seedType": 1166,
