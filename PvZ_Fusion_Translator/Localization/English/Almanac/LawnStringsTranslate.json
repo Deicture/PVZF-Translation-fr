@@ -2916,7 +2916,7 @@
             "seedType": 353,
             "name": "Star-nut (TD)",
             "introduce": "<align=justified><size=36><color=black>Star-nut lives under a rock and rarely moves. It's not because he's lazy, but because he's got standards. He'll only act if invited by a certain square friend to jellyfishing… or to prank a cephalopodic neighbor.</color>",
-            "info": "<size=36>A reactive defender that counters with little stars.\n\n<color=black>Toughness: </color><color=#8B0000>4000</color>\n<color=black>Special: </color><color=#8B0000>Fires five 20-damage stars in all directions when damaged.</color>\n<color=black>Upgrades: </color><color=#8B0000>\n<color=black>• Basic Upgrade: </color>(80 Sun) HP and Max Toughness +50%\n<color=black>• Elite Upgrade Path 1: </color>(200 Sun) HP +200%\n<color=black>• Elite Upgrade Path 2: </color>(200 Sun) Regen +100% (100 HP/3s)</color>",
+            "info": "<size=36>A reactive defender that counters with little stars.\n\n<color=black>Toughness: </color><color=#8B0000>4000</color>\n<color=black>Special: </color><color=#8B0000>Fires five 10-damage stars in all directions when damaged.</color>\n<color=black>Upgrades: </color><color=#8B0000>\n<color=black>• Basic Upgrade: </color>(80 Sun) HP and Max Toughness +50%\n<color=black>• Elite Upgrade Path 1: </color>(200 Sun) HP +200%\n<color=black>• Elite Upgrade Path 2: </color>(200 Sun) Regen +100% (100 HP/3s)</color>",
             "cost": "<size=36>Cost: <color=#8B0000>200</color>\nRecharge: <color=#8B0000>30s</color></size>"
         },
         {
