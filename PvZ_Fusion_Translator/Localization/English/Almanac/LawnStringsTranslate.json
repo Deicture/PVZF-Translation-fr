@@ -326,7 +326,7 @@
             "seedType": 239,
             "name": "Grave Buster",
             "introduce": "<align=justified><size=36><color=black>Despite Grave Buster's fearsome appearance, he wants everyone to know that he loves kittens and spends his off hours volunteering at a local zombie rehabilitation center. \"It's just the right thing to do,\" he says.</color>",
-            "info": "<size=36>Plant Grave Busters on graves to remove the graves.\n\n<color=black>Special: </color><color=#8B0000>Plant Grave Buster on a gravestone to remove it, taking 5s. Drops itself as a seedpacket if not planted on a grave.</color>",
+            "info": "<size=36>Plant Grave Busters on graves to remove the graves.\n\n<color=black>Special: </color><color=#8B0000>Plant Grave Buster on a gravestone to remove it, taking 5s. Drops itself as a seed packet if not planted on a grave.</color>",
             "cost": "<size=36>Cost: <color=#8B0000>75</color>\nRecharge: <color=#8B0000>7.5s</color>"
         },
         {
@@ -368,7 +368,7 @@
             "seedType": 245,
             "name": "Imitater",
             "introduce": "<align=justified><size=36><color=black>\"I remember the Zombie Wars back in 76\", says Imitater in a raspy, old-man's voice. \"Back then, we didn't have all these fancy peashooters and jalapenos. All we had was guts. Guts and a spoon.\"</color>",
-            "info": "<size=36>Imitater can make copies of your plants!\n\n<color=#4A2900>Unlock Conditions: Beat Odyssey Gacha - Imitater</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Plant Imitater on a plant or fusion to receive a free seed packet of that plant.\n<color=black>•</color> Cannot imitate pots, pads, pumpkins or drones. \n<color=black>•</color> Failure returns an Imitater seedpacket.</color>",
+            "info": "<size=36>Imitater can make copies of your plants!\n\n<color=#4A2900>Unlock Conditions: Beat Odyssey Gacha - Imitater</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Plant Imitater on a plant or fusion to receive a free seed packet of that plant.\n<color=black>•</color> Cannot imitate pots, pads, pumpkins or drones. \n<color=black>•</color> Failure returns an Imitater seed packet.</color>",
             "cost": "<size=36>Cost: <color=#8B0000>100</color>\nRecharge: <color=#8B0000>5 Minutes</color>"
         },
         {
@@ -565,7 +565,7 @@
             "name": "Enchantress-shroom",
             "introduce": "<align=justified><size=36><color=black>The subjects of the Empress-shroom are captivated by the Enchantress-shroom's mysterious power. \"She's not just my advisor; she's the force that keeps our kingdom thriving. Her magic isn't just powerful—it's explosive\", the Empress-shroom declared. In truth, the Enchantress-shroom simply delights in blowing up any unruly dissenters who dare resist her charm.</color>",
             "info": "<size=36>Summons exclusively explosive zombies to fight for you!\n\n<color=#4A2900>Usage Condition: Odyssey Mode | Unlockable With Empress-shroom's Modifier</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> The same as Empress-shroom, but only summons Cherryshooter Newspaper Zombie/Zombarine/Gatling Cherry Newspaper/Gatling Explod-o-rider zombies.\n<color=black>•</color> Benefits from Empress-shroom modifiers.\n<color=black>•</color> Immediately summons a zombie when an Empress-shroom dies in a 3×3 range.</color>",
-            "cost": "\n<size=36>Fusion Formula: <color=#8B0000> Hypno-shroom <-> Cherry Bomb</color>"
+            "cost": "<size=36>Conversion Formula: <color=#8B0000> Hypno-shroom <-> Cherry Bomb</color>"
         },
         {
             "seedType": 918,
@@ -802,7 +802,7 @@
             "seedType": 951,
             "name": "Tyrannoflora Lux",
             "introduce": "<align=justified><size=36><color=black>Tyrannoflora Lux wasn't sure how he ended up on land after a deep-sea haul, but he's made himself right at home. \"Why go back to the sparse, dark depths when zombies are always on the menu?\" he growls. Legend says his appetite is so huge, the gourmet contests could no longer afford their electric bill—guess he's their new emergency power source.</color>",
-            "info": "<size=36>A giant chomper attracting zombies with light—a master of luring, devouring, and digesting.\n\n<color=#4A2900>Usage Condition: Odyssey Mode | Unlockable</color>\n<color=black>Toughness: </color><color=#8B0000>8000</color>\n<color=black>Damage: </color><color=#8B0000>Insta-kill (Devour)</color>\n<color=black>Digestion Time: </color><color=#8B0000>5 + (Sum Toughness of Zombies)^0.33s</color>\n<color=#99582a>Lumos System: </color><color=#8B0000> Each Lumos level reduces digestion time by 10s to a minimum of 5s.</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Anti-crush.\n<color=black>•</color> Can swallow all non-miniboss zombies in a 1.5 tile range.\n<color=black>•</color> Using a Chomper seedpacket on it reduces digest time by 10s.\n<color=black>•</color> Upon successful digestion, pulls nearby zombies from adjacent lanes to its lane and heals to full HP.</color>\n<color=black>Odyssey Modifiers:</color>\n<color=#8B0000>1. Attack range ×2\n2. Provides 2 Lumos levels to a 5×5 area during digestion</color>",
+            "info": "<size=36>A giant chomper attracting zombies with light—a master of luring, devouring, and digesting.\n\n<color=#4A2900>Usage Condition: Odyssey Mode | Unlockable</color>\n<color=black>Toughness: </color><color=#8B0000>8000</color>\n<color=black>Damage: </color><color=#8B0000>Insta-kill (Devour)</color>\n<color=black>Digestion Time: </color><color=#8B0000>5 + (Sum Toughness of Zombies)^0.33s</color>\n<color=#99582a>Lumos System: </color><color=#8B0000> Each Lumos level reduces digestion time by 10s to a minimum of 5s.</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Anti-crush.\n<color=black>•</color> Can swallow all non-miniboss zombies in a 1.5 tile range.\n<color=black>•</color> Using a Chomper seed packet on it reduces digest time by 10s.\n<color=black>•</color> Upon successful digestion, pulls nearby zombies from adjacent lanes to its lane and heals to full HP.</color>\n<color=black>Odyssey Modifiers:</color>\n<color=#8B0000>1. Attack range ×2\n2. Provides 2 Lumos levels to a 5×5 area during digestion</color>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Lumos Angler > Chomper Maw</color>"
         },
         {
@@ -1979,7 +1979,7 @@
             "name": "Blizzard Commando",
             "introduce": "<align=justified><size=36><color=black>As the general commander of the Pea family, Blizzard Commando has an aura that makes plants and zombies shudder even from miles away. But regarding his proud freezing ability, Blizzard Commando always keeps quiet about it, until one day a small pea accidentally opened his diary: \"If I had known, I wouldn't have bet against the Blazer Snipea. Not only did I almost freeze to death in the ice fields, but I also ended up like this. Tonight, I'll make that gal eat three big bowls of chili—\"</color>",
             "info": "<size=36>Shoots snow peas at zombies, with a small chance of shooting a massive barrage!\n\n<color=#4A2900>Usage Condition: Odyssey Mode</color>\n<color=black>Damage: </color><color=#8B0000>20×6/1.5s</color>\n<color=black>Ultimate: </color><color=#8B0000>20×3/0.02s</color>\n<color=black>Special: </color><color=#8B0000>2% chance to shoot a barrage of snow peas each attack, lasting 5s.</color>",
-            "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Pea-storm Commando + Ice-shroom</color>"
+            "cost": "<size=36>Fusion Formula: <color=#8B0000>Pea-storm Commando + Ice-shroom</color>"
         },
         {
             "seedType": 1166,
@@ -2307,7 +2307,7 @@
             "seedType": 1212,
             "name": "Frozen Cherry",
             "introduce": "<align=justified><size=36><color=black>The plants all say that Frozen Cherry is calm, introverted, and taciturn. \"I occasionally confide in the other cherries,\" Frozen Cherry said, \"they call it 'explosive news.'\"</color>",
-            "info": "<size=36>Cherry mold made of ice, he absorbs cherry projectiles from plants to generate Cherry Bomb seedpackets.\n\n<color=black>Special: </color><color=#8B0000>Absorbing cherries, ignited cherries, and explosive cherries grants 1, 2, and 10 energy points respectively. For every 100 energy points collected, a Cherry Bomb seed packet is generated. Upon death, unleashes a Cherry Bomb explosion and freezes all zombies in its range for 10 seconds.</color>",
+            "info": "<size=36>Cherry mold made of ice, he absorbs cherry projectiles from plants to generate Cherry Bomb seed packets.\n\n<color=black>Special: </color><color=#8B0000>Absorbing cherries, ignited cherries, and explosive cherries grants 1, 2, and 10 energy points respectively. For every 100 energy points collected, a Cherry Bomb seed packet is generated. Upon death, unleashes a Cherry Bomb explosion and freezes all zombies in its range for 10 seconds.</color>",
             "cost": "<size=36>\nFusion Formula: <color=#8B0000>Cherry Bomb + Ice-shroom</color>"
         },
         {
@@ -2860,7 +2860,7 @@
             "seedType": 1291,
             "name": "Shark-shroom",
             "introduce": "<align=justified><size=36><color=black>\"I come from the vast ocean,\"  Shark-shroom boasts. \"With this shark mimicry, I can scare off any predator. It's an evolution only possible in the deep sea.\" He loves telling tales of his past to Sea-shrooms, but never reveals why he left the ocean: the disguise often attracts real sharks.</color>",
-            "info": "<size=36>A cannibalistic Fume-shroom that \"feeds\" on Sea-shrooms, borrowing the menace of Leviathan-shroom to drive away enemies.\n\n<color=black>Damage: </color><color=#8B0000>20/1.5s</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Using a Sea-shroom seedpacket on him extends his range to the full lane for 10s.\n<color=black>•</color> Knocks back zombies knocked back by Leviathan-shroom within the last 3s.</color>",
+            "info": "<size=36>A cannibalistic Fume-shroom that \"feeds\" on Sea-shrooms, borrowing the menace of Leviathan-shroom to drive away enemies.\n\n<color=black>Damage: </color><color=#8B0000>20/1.5s</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Using a Sea-shroom seed packet on him extends his range to the full lane for 10s.\n<color=black>•</color> Knocks back zombies knocked back by Leviathan-shroom within the last 3s.</color>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Fume-shroom > Sea-shroom</color>"
         },
         {
@@ -2881,7 +2881,7 @@
             "seedType": 1294,
             "name": "Hermit-shroom",
             "introduce": "<align=justified><size=36><color=black>Hermit-shroom drifts like a hidden reef, timid, still, but dangerous to the unwary. When the surrounding water shifts, he rouses and ferociously defends himself, then settles back beneath the waves as if nothing happened.</color>",
-            "info": "<size=36>Too shy to attack until he sees a Sea-shroom dive.\n\n<color=black>Damage: </color><color=#8B0000>20/0.5s</color>\n<color=black>Special: </color><color=#8B0000>Hides himself by default. Using a Sea-shroom seedpacket on him makes him attack for 10s, after which he cowers again.</color>",
+            "info": "<size=36>Too shy to attack until he sees a Sea-shroom dive.\n\n<color=black>Damage: </color><color=#8B0000>20/0.5s</color>\n<color=black>Special: </color><color=#8B0000>Hides himself by default. Using a Sea-shroom seed packet on him makes him attack for 10s, after which he cowers again.</color>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Scaredy-shroom > Sea-shroom</color>"
         },
         {
@@ -2890,6 +2890,13 @@
             "introduce": "<align=justified><size=36><color=black></color>",
             "info": "<size=36>Three small-nuts stacked on top of each other.\n\n<color=black>Damage: </color><color=#8B0000>\n<color=black>•</color> (12-8k HP) 80, pierces twice;\n<color=black>•</color> (8-4k HP) 60, pierces 4 times;\n<color=black>•</color> (4k-0 HP) 40, pierces 6 times</color>\n<color=black>Special: </color><color=#8B0000>Tall plant. Has 12k HP in total. Each Small-nut has 4k HP. Losing one Small-nut permanently reduces max HP by 4k.</color>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Threepeater + Wall-nut</color>"
+        },
+        {
+            "seedType": 1296,
+            "name": "Gold Mine",
+            "introduce": "<align=justified><size=36><color=black></color>",
+            "info": "<size=36>\n\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Digs up a treasure every 30s: 1% chance for a random zombie, 10% for a random seed packet, otherwise produces 25 Sun and 100 Coins.\n<color=black>•</color> On Beach maps, Gold Mines placed on Treasure Spots gain 50% faster production; seed packet chance rises to 33% while zombie chance drops to 0%.\n<color=black>•</color> Disappears after finding 3 seed packets.\n<color=black>•</color> On death, triggers a Potato Mine explosion with 1800 damage.</color>",
+            "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Marigold + Potato Mine</color>"
         },
         {
             "seedType": 350,
@@ -2916,7 +2923,7 @@
             "seedType": 353,
             "name": "Star-nut (TD)",
             "introduce": "<align=justified><size=36><color=black>Star-nut lives under a rock and rarely moves. It's not because he's lazy, but because he's got standards. He'll only act if invited by a certain square friend to jellyfishing… or to prank a cephalopodic neighbor.</color>",
-            "info": "<size=36>A reactive defender that counters with little stars.\n\n<color=black>Toughness: </color><color=#8B0000>4000</color>\n<color=black>Special: </color><color=#8B0000>Fires five 20-damage stars in all directions when damaged.</color>\n<color=black>Upgrades: </color><color=#8B0000>\n<color=black>• Basic Upgrade: </color>(80 Sun) HP and Max Toughness +50%\n<color=black>• Elite Upgrade Path 1: </color>(200 Sun) HP +200%\n<color=black>• Elite Upgrade Path 2: </color>(200 Sun) Regen +100% (100 HP/3s)</color>",
+            "info": "<size=36>A reactive defender that counters with little stars.\n\n<color=black>Toughness: </color><color=#8B0000>4000</color>\n<color=black>Special: </color><color=#8B0000>Fires five 10-damage stars in all directions when damaged.</color>\n<color=black>Upgrades: </color><color=#8B0000>\n<color=black>• Basic Upgrade: </color>(80 Sun) HP and Max Toughness +50%\n<color=black>• Elite Upgrade Path 1: </color>(200 Sun) HP +200%\n<color=black>• Elite Upgrade Path 2: </color>(200 Sun) Regen +100% (100 HP/3s)</color>",
             "cost": "<size=36>Cost: <color=#8B0000>200</color>\nRecharge: <color=#8B0000>30s</color></size>"
         },
         {
