@@ -46,7 +46,7 @@
             "seedType": 6,
             "name": "Puff-shroom",
             "introduce": "<align=justified><size=36><color=black>\"I only recently became aware of the existence of zombies,\" says Puff-shroom. \"Like many fungi, I'd just assumed they were fairy tales or movie monsters. This whole experience has been a huge eye-opener for me.\"</color></size>",
-            "info": "<size=36>Puff-shrooms are cheap, but can only fire a short distance.\n\n<color=black>Damage: </color><color=#8B0000>20/1.5s</color>\n<color=black>Range: </color><color=#8B0000>2.5 tiles ahead</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Can stack up to three times in a single tile.\n<color=black>•</color> Short plant (evades straight-firing projectiles).</color>\n<color=black>Spreading: </color><color=#8B0000>Plant Fume-shroom or Scaredy-shroom on 1/2/3 Puff-shrooms to spread it ahead/in a fan shape, spawning 1/3/6 Puff-shrooms.</color></size>",
+            "info": "<size=36>Puff-shrooms are cheap, but can only fire a short distance.\n\n<color=black>Damage: </color><color=#8B0000>20/1.5s</color>\n<color=black>Range: </color><color=#8B0000>2.5 tiles ahead</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Can stack up to three times in a single tile.\n<color=black>•</color> Short plant (evades straight-firing projectiles).</color>\n<color=black>Spreading: </color><color=#8B0000>Plant Fume-shroom or Scaredy-shroom on 1/2/3 Puff-shrooms to spread it to empty tiles ahead/in a fan shape, spawning 1/3/6 Puff-shrooms.</color></size>",
             "cost": "<size=36>Cost: <color=#8B0000>0</color>\nRecharge: <color=#8B0000>7.5s</color></size>"
         },
         {
@@ -732,8 +732,8 @@
             "seedType": 941,
             "name": "Kelptain Goldbeard",
             "introduce": "<align=justified><size=36><color=black>Since sailin' back from the battle o' Maelstrom Abyss, Kelptain Goldbeard be a changed beast — fiercer, greedier, and twice as hearted. Now, as captain o' the cursed Raiding Goldplant, bound by two hearts — one ripped from his own breast, t'other stolen from the fallen rival — Kelptain Goldbeard's fury rules the Seven Seas. Dare lay a hand on his hearts, and ye'll see yer own ship sink straight to Davy Jones' Locker, doom'd to perish 'neath the briny deep.</color>",
-            "info": "<size=36>Greedy overlord of the seven seas, capable of squeezing every last drop of value from zombies.\n\n<color=#4A2900>Usage Condition: Odyssey Mode | Unlockable</color>\n<color=black>Damage: </color><color=#8B0000>40×3/1.5s + Insta-kill (Drown) × ∞</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Retains all traits of Krakerberus, but can drag zombies underwater an infinite amount of times (up to once per second).\n<color=black>•</color> Zombies hit by its projectiles turn golden—when they die, they grant ×3 Odyssey points. Max bonus: +2000 points per wave.</color>\n<color=black>Odyssey Modifiers:</color>\n<color=#8B0000>1. Plants deal 5% more attack damage for every 1000 points owned (up to +300%)\n2. The Odyssey shop now has a 30% discount on Modifiers</color>",
-            "cost": "<size=33>\nFusion Formula: <color=#8B0000>Twin Marigold > Krakerberus</color>"
+            "info": "<size=36>Greedy overlord of the seven seas, capable of squeezing every last drop of value from zombies.\n\n<color=#4A2900>Usage Condition: Odyssey Mode | Unlockable</color>\n<color=black>Damage: </color><color=#8B0000>40×3/1.5s + Insta-kill (Drown) × ∞</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Retains all traits of Hydra Kelp, but can drag zombies underwater an infinite amount of times (up to once per second).\n<color=black>•</color> Zombies hit by its projectiles turn golden—when they die, they grant ×3 Odyssey points. Max bonus: +2000 points per wave.</color>\n<color=black>Odyssey Modifiers:</color>\n<color=#8B0000>1. Plants deal 5% more attack damage for every 1000 points owned (up to +300%)\n2. The Odyssey shop now has a 30% discount on Modifiers</color>",
+            "cost": "<size=33>\nFusion Formula: <color=#8B0000>Twin Marigold > Hydra Kelp</color>"
         },
         {
             "seedType": 942,
@@ -1283,8 +1283,8 @@
         },
         {
             "seedType": 1066,
-            "name": "Krakerberus",
-            "introduce": "<align=justified><size=36><color=black>Krakerberus possesses a contemplative heart. If you hand him a glass of root beer, be prepared for a discourse on Nietzsche's or Kant's works.Although he has profound musings, sometimes he longs for lighthearted conversations.</color></size>",
+            "name": "Hydra Kelp",
+            "introduce": "<align=justified><size=36><color=black>Hydra Kelp possesses a contemplative heart. If you hand him a glass of root beer, be prepared for a discourse on Nietzsche's or Kant's works.Although he has profound musings, sometimes he longs for lighthearted conversations.</color></size>",
             "info": "<size=36>Fires kelps that bounce upon contact and slow down water zombies, can also drag 3 zombies under the water.\n\n<color=black>Damage: </color><color=#8B0000>40×3/3s + Insta-kill (Drown) ×3</color>\n<color=#006400>Tangled Debuff: </color><color=#8B0000>Kelps bounce upon contact, dealing 40 damage to nearby zombies when they land. Each kelp 1 Tangle Value upon contact.</color>\n<color=black>Special: </color><color=#8B0000>Can drag 3 zombies under the water.</color></size>",
             "cost": "<size=36>Fusion Formula: <color=#8B0000>Threepeater + Squash > Tangle Kelp</color>"
         },
@@ -2046,8 +2046,8 @@
         },
         {
             "seedType": 1175,
-            "name": "Leviathan-shroom",
-            "introduce": "<align=justified><size=36><color=black>Sailors whisper of the Giant Kraken of the Northern Sea, its name alone enough to turn the bravest hearts cold. But Leviathan-shroom? He's got no time for legends. He didn't come to terrify—he came to play. And his favorite game? Pushing zombies around like driftwood.</color>",
+            "name": "Kraken-shroom",
+            "introduce": "<align=justified><size=36><color=black>Sailors whisper of the Giant Kraken of the Northern Sea, its name alone enough to turn the bravest hearts cold. But Kraken-shroom? He's got no time for legends. He didn't come to terrify—he came to play. And his favorite game? Pushing zombies around like driftwood.</color>",
             "info": "<size=36>Can repel zombies in front.\n\n<color=black>Damage: </color><color=#8B0000>20×2/1.5s</color>\n<color=black>Toughness: </color><color=#8B0000>1000</color>\n<color=#006400>Tangled Debuff: </color><color=#8B0000> Adds 1 Tangle Value per hit, dealing additional damage based on the Tangle Value.</color>\n<color=black>Special: </color><color=#8B0000>Repels approaching zombies (single target) and deals 100 damage.",
             "cost": "<size=36>Fusion Formula: <color=#8B0000>Tangle Kelp ∞ [Sea-shroom] ∞ Tangle Kelp < Jicamagic (Place On Middle)</color>"
         },
@@ -2860,7 +2860,7 @@
             "seedType": 1291,
             "name": "Shark-shroom",
             "introduce": "<align=justified><size=36><color=black>\"I come from the vast ocean,\"  Shark-shroom boasts. \"With this shark mimicry, I can scare off any predator. It's an evolution only possible in the deep sea.\" He loves telling tales of his past to Sea-shrooms, but never reveals why he left the ocean: the disguise often attracts real sharks.</color>",
-            "info": "<size=36>A cannibalistic Fume-shroom that \"feeds\" on Sea-shrooms, borrowing the menace of Leviathan-shroom to drive away enemies.\n\n<color=black>Damage: </color><color=#8B0000>20/1.5s</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Using a Sea-shroom seed packet on him extends his range to the full lane for 10s.\n<color=black>•</color> Knocks back zombies knocked back by Leviathan-shroom within the last 3s.</color>",
+            "info": "<size=36>A cannibalistic Fume-shroom that \"feeds\" on Sea-shrooms, borrowing the menace of Kraken-shroom to drive away enemies.\n\n<color=black>Damage: </color><color=#8B0000>20/1.5s</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Using a Sea-shroom seed packet on him extends his range to the full lane for 10s.\n<color=black>•</color> Knocks back zombies knocked back by Kraken-shroom within the last 3s.</color>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Fume-shroom > Sea-shroom</color>"
         },
         {
@@ -2893,10 +2893,17 @@
         },
         {
             "seedType": 1296,
-            "name": "Gold Mine",
+            "name": "Marigold Mine",
             "introduce": "<align=justified><size=36><color=black></color>",
-            "info": "<size=36>\n\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Digs up a treasure every 30s: 1% chance for a random zombie, 10% for a random seed packet, otherwise produces 25 Sun and 100 Coins.\n<color=black>•</color> On Beach maps, Gold Mines placed on Treasure Spots gain 50% faster production; seed packet chance rises to 33% while zombie chance drops to 0%.\n<color=black>•</color> Disappears after finding 3 seed packets.\n<color=black>•</color> On death, triggers a Potato Mine explosion with 1800 damage.</color>",
+            "info": "<size=36>\n\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Digs up a treasure every 30s: 1% chance for a random zombie, 10% for a random seed packet, otherwise produces 25 Sun and 100 Coins.\n<color=black>•</color> On Beach maps, Marigold Mines placed on Treasure Spots gain 50% faster production; seed packet chance rises to 33% while zombie chance drops to 0%.\n<color=black>•</color> Disappears after finding 3 seed packets.\n<color=black>•</color> On death, triggers a Potato Mine explosion with 1800 damage.</color>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Marigold + Potato Mine</color>"
+        },
+        {
+            "seedType": 1297,
+            "name": "Swell-shroom",
+            "introduce": "<align=justified><size=36><color=black></color>",
+            "info": "<size=36>\n\n<color=black>Special: </color><color=#8B0000>Loses the ability to attack. Using a Sea-shroom seed packet on him makes him swell up and freeze all zombies in a 3×3 area, applying chill.</color>",
+            "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Ice-shroom > Sea-shroom</color>"
         },
         {
             "seedType": 350,
