@@ -172,7 +172,7 @@
             "seedType": 24,
             "name": "Pumpkin",
             "introduce": "<align=justified><size=36><color=black>Pumpkin had just wrapped up his part-time gig. \"Honestly, it was a pretty fun experience,\" he chuckled. \"But can someone explain why they kept stuffing candy and candles inside me?\"</color></size>",
-            "info": "<size=36>Pumpkins protect plants that are within their shells.\n\n<color=black>Toughness: </color><color=#8B0000>4000</color>\n<color=black>Special: </color><color=#8B0000>Pumpkin and subsequent fusions prevent splash damage from explosive cherries at difficulty 4 or lower. </color>\n<color=black>Fusion Priority: </color><color=#8B0000>Lowest, hold Left Shift key while fusing to forcibly fuse with Pumpkin. (with Better Pumpkin Fusions mod, included by default)</color></size>",
+            "info": "<size=36>Pumpkins protect plants that are within their shells.\n\n<color=black>Toughness: </color><color=#8B0000>4000</color>\n<color=black>Special: </color><color=#8B0000>Pumpkin and subsequent fusions prevent splash damage from explosive cherries at difficulty 4 or lower. Use a Pumpkin seed packet on Pumpkin and his fusions with less than 2/3 Toughness to restore HP to full.</color>\n<color=black>Fusion Priority: </color><color=#8B0000>Lowest, hold Left Shift key while fusing to forcibly fuse with Pumpkin. (with Better Pumpkin Fusions mod, included by default)</color></size>",
             "cost": "<size=36>Cost: <color=#8B0000>125</color>\nRecharge: <color=#8B0000>30s</color></size>"
         },
         {
