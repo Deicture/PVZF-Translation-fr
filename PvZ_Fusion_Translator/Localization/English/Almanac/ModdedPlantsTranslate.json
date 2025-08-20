@@ -44,14 +44,14 @@
     },
     {
       "seedType": 175,
-      "name": "<color=#FFD700>Topaz Umbrella",
+      "name": "<color=#FFD700>Talos Umbrella",
       "introduce": "<size=36><align=justified><color=black><color=#3D1400>Texture Authors: @仁硝基甲苯, @林秋AutumnLin</color>\nAs the bistro's star chef, Topaz Umbrella's \"signature butter-glazed dishes\" have zombies stuck in admiration. \"The secret? My kernels get massaged for 24 hours pre-service,\" it boasts while switching between corn and cabbage artillery.",
       "info": "<size=36>Specializes in butter-based crowd control.\n\n<color=#4A2900>Usage Condition: Odyssey Mode | Initial Selection with Midas Umbrella</color>\n<color=black>Toughness: </color><color=#8B0000>4000</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> A subspecies of Midas Umbrella and part of the Gem Umbrella family of fusions. Interchangeable with each other using its respective material.\n<color=black>•</color> Zombies approaching it will be attacked and knocked back similar to what Umbrella Husk does.\n<color=black>Ultimate:</color> Costs 6000 Coins; applies the Butter effect to surrounding zombies and knocks them back.</color>\n\n<color=black>Traits: </color><color=#8B0000>\n<color=black>•</color> Rainbow Umbrella God: All Ultimate costs reduced to 500 with all 9 different types of Gem Umbrellas present.</color>",
       "cost": "<size=36>\n<color=black>Fusion Formula: </color><color=#8B0000>Gem Umbrella + Kernel Pult"
     },
     {
       "seedType": 176,
-      "name": "<color=#FF66CC>Morganite Umbrella",
+      "name": "<color=#FF66CC>Eros Umbrella",
       "introduce": "<size=36><align=justified><color=black><color=#3D1400>Texture Authors: @仁硝基甲苯, @林秋AutumnLin</color>\nRevered for its hypnotic glow, this gemstone umbrella lulls zombies into devotion. \"My pink hue shifts with your desires,\" it murmurs, \"but catch it *just right*... and I'll turn your foes into fleeting allies.\" Its charm is as fickle as dawn light—there one moment, gone the next.",
       "info": "<size=36>Charms zombies with gemstone radiance.\n\n<color=#4A2900>Usage Condition: Odyssey Mode | Initial Selection with Midas Umbrella</color>\n<color=black>Toughness: </color><color=#8B0000>4000</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> A subspecies of Midas Umbrella and part of the Gem Umbrella family of fusions. Interchangeable with each other using its respective material.\n<color=black>•</color> Zombies approaching it will be knocked back and will be charmed at the cost of 700 HP (Non-Transferrable).\n<color=black>Ultimate:</color> Costs <color=#8B0000>[1000 × (10 + 4×ln(# of Zombies Charmed + 1)]</color> Coins; charms all nearby zombies.</color>\n\n<color=black>Traits: </color><color=#8B0000>\n<color=black>•</color> Rainbow Umbrella God: All Ultimate costs reduced to 500 with all 9 different types of Gem Umbrellas present.\n<color=black>•</color> Prismatic Ward: Amethyst/Onyx/Morganite Umbrellas gain damage reduction.</color>",
       "cost": "<size=36>\n<color=black>Fusion Formula: </color><color=#8B0000>Gem Umbrella + Hypno-shroom"
@@ -107,14 +107,14 @@
     },
     {
       "seedType": 170,
-      "name": "<color=purple>Amethyst Umbrella",
+      "name": "<color=purple>Lamia Umbrella",
       "introduce": "<size=36><align=justified><color=black><color=#3D1400>Texture Authors: @仨硝基甲苯_@林秋AutumnLin</color>\nAmethyst Umbrella is a master magician whose shows are always sold out. No zombie ever realizes that the disappearing act's performers end up in its stomach. Its magic never lacks for volunteers... unwilling though they may be.",
       "info": "<size=36>Devours nearby zombies with its special ability.\n\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Automatically swallows approaching zombies\n<color=black>•</color> Loses 900 HP per swallow (3999 HP for leader zombies)\n<color=black>•</color> Ultimate: Spends {50000[1-e^(-0.00003*808[Total HP])]-1} coins to instantly kill all nearby zombies (45s cooldown)\n<color=black>•</color> Cannot transfer damage when swallowing</color>\n\n<color=black>Traits: </color><color=#8B0000>\n<color=black>•</color> Rainbow Umbrella God: Reduces all coin costs to 500 when 9 gem umbrellas are present\n<color=black>•</color> Protective Canopy: Purple/Black/Enchanting umbrellas take reduced damage and can transfer damage when passive triggers</color>",
       "cost": "<size=36>\n<color=black>Fusion Formula: </color><color=#8B0000>Gem Umbrella + Chomper"
     },
     {
       "seedType": 171,
-      "name": "<color=black>Onyx Umbrella",
+      "name": "<color=black>Hades Umbrella",
       "introduce": "<size=36><align=justified><color=black><color=#3D1400>Texture Authors: @仁硝基甲苯, @林秋AutumnLin</color>\n\"Finish browsing my goods and move along. I work discreetly, only appearing at midnight - you'll never find me in daylight. Don't tell others you saw me, and don't worry about me. My merchandise consists of life essentials... like concentrated fertilizer. Take this sample, but next meeting will cost you. Goodbye.\"",
       "info": "<size=36>Creates Doom-shroom explosions with its special ability.\n\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Triggers Doom-shroom explosion when zombies approach\n<color=black>•</color> Loses 700 HP per explosion (cannot transfer damage)\n<color=black>•</color> Ultimate: Spends 6000 coins to create 7200-damage Doom-shroom explosion</color>\n\n<color=black>Traits: </color><color=#8B0000>\n<color=black>•</color> Rainbow Umbrella God: Reduces all coin costs to 500 when 9 gem umbrellas are present\n<color=black>•</color> Protective Canopy: Purple/Onyx/Enchanting umbrellas take reduced damage and can transfer damage when passive triggers</color>",
       "cost": "<size=36>\n<color=black>Fusion Formula: </color><color=#8B0000>Gem Umbrella + Doom-shroom"
@@ -128,14 +128,14 @@
     },
     {
       "seedType": 173,
-      "name": "<color=#00BFFF>Sapphire Umbrella",
+      "name": "<color=#00BFFF>Boreas Umbrella",
       "introduce": "<size=36><align=justified><color=black><color=#3D1400>Texture Authors: @仁硝基甲苯, @林秋AutumnLin</color>\n\"Please browse my wares, but don't stand too close—I might freeze you in place. Your helmet could get stuck permanently! By the way... could you help me find the Orange Gem Umbrella? Or anything fiery? Only heat can melt my icy grip.\"",
       "info": "<size=36>Freezes nearby zombies with chilling efficiency.\n\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Repels and slows approaching zombies\n<color=black>•</color> Ultimate: Spends 4000 coins to freeze all nearby zombies for 20 seconds</color>\n\n<color=black>Traits: </color><color=#8B0000>\n<color=black>•</color> Rainbow Umbrella God: Reduces all coin costs to 500 when 9 gem umbrellas are present</color>",
       "cost": "<size=36>\n<color=black>Fusion Formula: </color><color=#8B0000>Gem Umbrella + Ice-shroom"
     },
     {
       "seedType": 174,
-      "name": "<color=orange>Citrine Umbrella",
+      "name": "<color=orange>Hephaestus Umbrella",
       "introduce": "<size=36><align=justified><color=black><color=#3D1400>Texture Authors: @仁硝基甲苯_@林秋-AutumnLio</color>\n\"Countless clients beg for my trades daily. ‘Do you know how many meetings I canceled to be here?’ They come because zombies here are dumb and rich—yet all they crave are brains, refusing even free chili peppers!\"",
       "info": "<size=36>Ignites zombies with scorching fury.\n\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Repels and <color=red>Overheats</color> approaching zombies\n<color=black>•</color> Ultimate: Spends 7000 coins to:\n   <color=black>-</color> <color=red>Overheat</color> all nearby zombies\n   <color=black>-</color> Trigger <color=red>Jalapeño</color> effect on current + adjacent lanes</color>\n\n<color=black>Traits: </color><color=#8B0000>\n<color=black>•</color> Rainbow Umbrella God: Reduces all coin costs to 500 when 9 gem umbrellas are present</color>",
       "cost": "<size=36>\n<color=black>Fusion Formula: </color><color=#8B0000>Gem Umbrella + Jalapeño"

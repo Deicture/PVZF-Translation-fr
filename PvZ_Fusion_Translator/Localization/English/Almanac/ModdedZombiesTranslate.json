@@ -2,7 +2,7 @@
   "zombies": [
     {
       "theZombieType": 99,
-      "name": "<color=#4B0082><u>Obsidian Doll</u>",
+      "name": "<color=#4B0082><u>Obsidian-box Zombie</u>",
       "introduce": "<align=justified><size=36><color=black>Placeholder</color>",
       "info": "<size=36>Placeholder\n\n<color=black>Toughness: </color><color=#4B0082>32000</color>\n<color=black>Traits: </color><color=#4B0082>\n<color=black>•</color> Placeholder</color>"
     },
