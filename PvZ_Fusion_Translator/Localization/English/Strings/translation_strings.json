@@ -1486,6 +1486,7 @@
   "运筹帷幄：所有狙击射手的攻击速度提升30%\u00A0": "Golden Ace Snipea: Attack Speed of all Snipers increased by 30%",
   "决胜千里：主动技能的cd缩短至15秒": "Golden Ace Snipea: CD for Active Ability reduced to 15s",
   "狙击射手僵尸(190)": "Sniper Commando Zombie",
+  "狙击僵尸": "Sniper Commando Zombie",
   "随时瞄准植物的脑袋，并给予沉重一击。\n<color=#3D1400>韧性：</color><color=red>1000</color>\n<color=#3D1400>特点：</color><color=red>入场时锁定场上阳光总价值最高的植物，锁定八秒后如果自身仍未被击杀则对目标爆头，并切换新的目标。</color>\n<color=#3D1400>狙击橄榄球僵尸飞快奔跑、精准寻找高价值的目标。他是眼光和射击能力同样顶尖的杀手，张贴在宾州的通缉令被一张张揭下。完成任务后，在附近的酒馆点上一杯脑味水，打包好买给家人的高级脑粉，留给花园的唯有传说。</color>": "<size=36>Punishes your most valuable plants with precision.\n\n<color=black>Toughness: </color><color=#4B0082>1000 </color>\n<color=black>Traits: </color><color=#4B0082>\n<color=black>•</color> Upon entry, targets the most valuable plant on the lawn (by Sun cost).\n<color=black>•</color> If not eliminated in 8s, kills the plant and moves onto the next target.</color>\n\n<size=36><color=black>A bounty-hunter turned commando, Sniper Commando Zombie is shrouded in mystery. No one knows where he came from, why he's so serious, or how he intends to eat brains through such a ridiculous barrel.</color>",
   "-------Strings - No Idea": "Strings - No Idea-------",
   "保存格子完毕！": "Tiles saved!",

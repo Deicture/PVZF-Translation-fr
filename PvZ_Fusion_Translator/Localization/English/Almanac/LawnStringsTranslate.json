@@ -2909,8 +2909,15 @@
             "seedType": 1298,
             "name": "Rush-shroom",
             "introduce": "<align=justified><size=36><color=black></color>",
-            "info": "<size=36>\n<color=black>Damage: </color><color=#8B0000>20/1.5s</color>\n\n<color=black>Special: </color><color=#8B0000>Has full-lane range. While emitting fumes, boosts straight-shooting projectiles ahead, increasing their speed and +1 damage every 0.02s.</color>",
+            "info": "<size=36>\n<color=black>Damage: </color><color=#8B0000>20/1.5s</color>\n\n<color=black>Special: </color><color=#8B0000>Has full-lane range. While emitting fumes, boosts straight-shooting projectiles ahead, increasing their speed and +1 damage every 0.02s. The boost is stackable.</color>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Peashooter + Fume-shroom</color>"
+        },
+        {
+            "seedType": 1299,
+            "name": "Nut-shell",
+            "introduce": "<align=justified><size=36><color=black></color>",
+            "info": "<size=36>\n<color=black>Toughness: </color><color=#8B0000>8000</color>\n\n<color=black>Special: </color><color=#8B0000>Spawns a Mini-nut every 50s. When the Mini-nut is fully grown, it is consumed to heal a nearby damaged Pumpkin-type plant for up to 1000 HP or to produce a Wall-nut seed packet if no such plant exists. A single Nut-shell can produce at most 3 Wall-nut seed packets.</color>",
+            "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Wall-nut > Pumpkin</color>"
         },
         {
             "seedType": 350,
