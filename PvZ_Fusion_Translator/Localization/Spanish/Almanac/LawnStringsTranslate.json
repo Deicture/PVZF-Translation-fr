@@ -6464,9 +6464,9 @@
 {
     "seedType": 1299,
     "name": "Calabaza Cáscara",
-    "introduce": "<size=39><color=#3D1400>INTRO</color></size>",
-    "info": "<size=39>Genera pequeñas nueces para curar a otras calabazas.</color>\n\n<color=#3D1400>Dureza: </color><color=red>8000</color>\n<color=#3D1400>Especial:</color> <color=red>Genera una Mini-Nuez cada 50s. Cuando esta Mini-Nuez está completamente crecida, se consume para curar una Calabaza cercana dañada hasta 1000 PS o para producir un paquete de semillas de Nuez si no existe dicha Calabaza. Una sola Calabaza Cáscara puede producir un máximo de 3 paquetes de semillas de Nuez.</color>\n<color=#3D1400>Nombre Científico:</color> <color=red>Juglans protegens</color></size>\n<size=39><color=#3D1400>Fórmula de Fusión:</color> <color=red>Nuez + Calabaza</color></size>",
-    "cost": "<size=39>Costo: <color=red>175</color>   Recarga: <color=red>60 Segundos</color>\nPlantas Requeridas: <color=red>2</color></size>"
+   "introduce": "<size=39><color=#3D1400>INTRO</color></size>",
+   "info": "<size=39>Genera pequeñas nueces para curar a otras calabazas.</color>\n\n<color=#3D1400>Dureza: </color><color=red>8000</color>\n<color=#3D1400>Especial:</color> <color=red>Genera una Mini-Nuez cada 50s. Cuando esta Mini-Nuez está completamente crecida, se consume para curar una Calabaza cercana dañada hasta 1000 PS o para producir un paquete de semillas de Nuez si no existe dicha Calabaza. Una sola Calabaza Cáscara puede producir un máximo de 3 paquetes de semillas de Nuez.</color>\n<color=#3D1400>Nombre Científico:</color> <color=red>Juglans protegens</color></size>\n<size=39><color=#3D1400>Fórmula de Fusión:</color> <color=red>Nuez + Calabaza</color></size>",
+   "cost": "<size=39>Costo: <color=red>175</color>   Recarga: <color=red>60 Segundos</color>\nPlantas Requeridas: <color=red>2</color></size>"
         }
     ]
 }
