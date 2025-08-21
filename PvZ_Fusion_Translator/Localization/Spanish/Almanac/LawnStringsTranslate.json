@@ -1091,7 +1091,7 @@
       "seedType": 237,
       "name": "Lanceloto",
       "introduce": "<size=39><color=#3D1400>Aunque a menudo grita '¡Cortar cabezas, cortar cabezas!', el Lanceloto no es beligerante. Como la culminación de las artes marciales de una tal Montaña Nevada, su dominio para convertir agua en hielo y forjar hielo en cuchillas es suficiente para intimidar a los malhechores.</color></size>",
-      "info": "<size=39>Un maestro en relentizar y congelar zombis. Es parte del <color=#0077b6>Sistema Criogénico.\n<color=blue>Planta de la colaboración con PVZ SHUTTLE</color>\n\n<color=#0077b6>Sistema Criogénico:</color><color=#28567B>\n- Sus cuchillas aplican 5 puntos criogénicos. Al tener un zombi congelado, a este se le causará x4 de daño.</color><color=#3D1400>\n<color=#3D1400>Desbloqueo: </color><color=red>Completar Modo Aventura</color>\n<color=#3D1400>Daño:</color><color=red>20*5 cada 1.5s</color>\n<color=#3D1400>Especial:</color> <color=red>Al tener un enemigo en su fila, lanza 5 cuchillas de hielo que atraviesan 2 veces, aplican el estado criogénico, otorgan 5 puntos criogénicos, y causan 4x daño a los zombis congelados.</color></color>\n<color=#3D1400>Nombre Científico:</color> <color=red>Kriulansum nucifera</color></size>\n<size=39><color=#3D1400>",
+      "info": "<size=39>Un maestro en ralentizar y congelar zombis. Es parte del <color=#0077b6>Sistema Criogénico.\n<color=blue>Planta de la colaboración con PVZ SHUTTLE</color>\n\n<color=#0077b6>Sistema Criogénico:</color><color=#28567B>\n- Sus cuchillas aplican 5 puntos criogénicos. Al tener un zombi congelado, a este se le causará x4 de daño.</color><color=#3D1400>\n<color=#3D1400>Desbloqueo: </color><color=red>Completar Modo Aventura</color>\n<color=#3D1400>Daño:</color><color=red>20*5 cada 1.5s</color>\n<color=#3D1400>Especial:</color> <color=red>Al tener un enemigo en su fila, lanza 5 cuchillas de hielo que atraviesan 2 veces, aplican el estado criogénico, otorgan 5 puntos criogénicos, y causan 4x daño a los zombis congelados.</color></color>\n<color=#3D1400>Nombre Científico:</color> <color=red>Kriulansum nucifera</color></size>\n<size=39><color=#3D1400>",
       "cost": "<size=39>Costo: <color=red>325</color>\nRecarga: <color=red>30 Segundos</color></size>"
     },
     {
@@ -1628,7 +1628,7 @@
       "seedType": 355,
       "name": "Gasoseta Gélida (TD)",
       "introduce": "<size=39><color=#3D1400>Soñando con una carrera como físico, la Gasoseta Gélida dedica sus días a desentrañar las complejidades del mundo, evitando el contacto con otras plantas. \u0022¿Por qué tengo múltiples hileras de conos de hielo brotando de mi cabeza?\u0022 medita, con la última pregunta ocupando sus pensamientos. Se muestra extrañamente inflexible a la hora de llamarles \u0022cuerdas.\u0022</color></size>",
-      "info": "<size=39>Parte del <color=#0077b6>Sistema Criogénico</color>\nGasoseta Gélida emite vapores helados.\n<color=#0077b6>Sistema Criogénico:</color><color=#28567B>\n</color>- Aplica relentización. No puede congelar.</color>\n\n<color=#3D1400>Daño: </color><color=red>5x4/3.8 Segundos (Perforante)</color>\n\n<color=purple>Mejoras:</color>\n- Mejora Básica (80 Soles): Velocidad de Ataque +50%\n- Mejora Avanzada I (200 Soles): Ataques añaden +10 Puntos Criogénicos\n- Mejora Avanzada II (X Soles): Duración de Relentización x2\n\n<color=#3D1400>Nombre Científico: </color><color=red>Mycota Gas Gelidus</color></size>",
+      "info": "<size=39>Parte del <color=#0077b6>Sistema Criogénico</color>\nGasoseta Gélida emite vapores helados.\n<color=#0077b6>Sistema Criogénico:</color><color=#28567B>\n</color>- Aplica ralentización. No puede congelar.</color>\n\n<color=#3D1400>Daño: </color><color=red>5x4/3.8 Segundos (Perforante)</color>\n\n<color=purple>Mejoras:</color>\n- Mejora Básica (80 Soles): Velocidad de Ataque +50%\n- Mejora Avanzada I (200 Soles): Ataques añaden +10 Puntos Criogénicos\n- Mejora Avanzada II (X Soles): Duración de Ralentización x2\n\n<color=#3D1400>Nombre Científico: </color><color=red>Mycota Gas Gelidus</color></size>",
       "cost": "<size=39>Costo: <color=red>200</color>\nRecarga: <color=red>7.5 Segundos</color></size>"
     },
     {
@@ -4628,7 +4628,7 @@
       "seedType": 1037,
       "name": "Humoseta Escarchada",
       "introduce": "<size=39><color=#3D1400>La Humoseta Escarchada destaca entre las Humosetas. Su experiencia de estudios en la helada Alaska lo hizo aún más 'frío', literalmente. Aunque solo estudió diseño de cabello por unos años, está bastante orgulloso de ello.</color></size>",
-      "info": "<size=39>Parte del <color=#0077b6>Sistema Criogénico</color>\nPuede relentizar a varios zombis al mismo tiempo con sus esporas.\n<color=#0077b6>Sistema Criogénico:</color><color=#28567B>\n</color>- Aplica 5 puntos al impacto.\n- Daño x4 a zombis congelados.</color>\n\n<color=#3D1400>Daño: </color><color=red>40/1.5 Segundos (Perforante)\n<color=#3D1400>Fórmula de Fusión: </color><color=red>Humoseta + Seta Congelada</color>\n<color=#3D1400>Nombre Científico: </color><color=red>Mycota Vaporis Cryosis</color></size>",
+      "info": "<size=39>Parte del <color=#0077b6>Sistema Criogénico</color>\nPuede ralentizar a varios zombis al mismo tiempo con sus esporas.\n<color=#0077b6>Sistema Criogénico:</color><color=#28567B>\n</color>- Aplica 5 puntos al impacto.\n- Daño x4 a zombis congelados.</color>\n\n<color=#3D1400>Daño: </color><color=red>40/1.5 Segundos (Perforante)\n<color=#3D1400>Fórmula de Fusión: </color><color=red>Humoseta + Seta Congelada</color>\n<color=#3D1400>Nombre Científico: </color><color=red>Mycota Vaporis Cryosis</color></size>",
       "cost": "<size=39>Costo: <color=red>225, 375</color>   Recarga: <color=red>57.5 Segundos</color>\nPlantas Requeridas: <color=red>2</color></size>"
     },
     {
@@ -4845,7 +4845,7 @@
       "seedType": 1068,
       "name": "Rabo de Husky",
       "introduce": "<size=39><color=#3D1400>\u0022No soy solo un gato... ¡Soy... soy un super gato azul!\u0022 declaró Rabo de Husky. \u0022¿Tienes hierbolada de gato?\u0022 Su amor por la hierba gatera brilla a través de él, y tiene una fascinación innegable por todas las cosas frías.</color></size>",
-      "info": "<size=39>Parte del <color=#0077b6>Sistema Criogénico</color>\nRabo de Husky hace mas daño a zombis relentizados.\n<color=#0077b6>Sistema Criogénico:</color><color=#28567B>\n</color>- No relentiza por si mismo, pero causa x2 de daño a zombis relentizados y daño x4 a zombis congelados.</color>\n\n<color=#3D1400>Daño: </color><color=red>40x2/1.5 Segundos</color>\n<color=#3D1400>Especial: </color><color=red>Enfoca ataques en zombis afectados</color>\n<color=#3D1400>Fórmula de Fusión: </color><color=red>Seta Congelada + Rabo de Gato</color>\n<color=#3D1400>Nombre Científico: </color><color=red>Felis Caudatus Glacialis</color></size>",
+      "info": "<size=39>Parte del <color=#0077b6>Sistema Criogénico</color>\nRabo de Husky hace mas daño a zombis ralentizados.\n<color=#0077b6>Sistema Criogénico:</color><color=#28567B>\n</color>- No ralentiza por si mismo, pero causa x2 de daño a zombis ralentizados y daño x4 a zombis congelados.</color>\n\n<color=#3D1400>Daño: </color><color=red>40x2/1.5 Segundos</color>\n<color=#3D1400>Especial: </color><color=red>Enfoca ataques en zombis afectados</color>\n<color=#3D1400>Fórmula de Fusión: </color><color=red>Seta Congelada + Rabo de Gato</color>\n<color=#3D1400>Nombre Científico: </color><color=red>Felis Caudatus Glacialis</color></size>",
       "cost": "<size=39>Costo: <color=red>200, 275</color>   Recarga: <color=red>100 Segundos</color>\nPlantas Requeridas: <color=red>2</color></size>"
     },
     {
@@ -4887,7 +4887,7 @@
       "seedType": 1074,
       "name": "Carámbano",
       "introduce": "<size=39><color=#3D1400>Después de su regreso de Alaska, Carámbano no pudo contener su emoción. Ansioso por congelar a los zombis, disfrutaba la idea de que se \u0022escarcheen\u0022 bajo sus pies. Hizo hincapié en que todos usaran el término \u0022escarchear.\u0022 Su piel aún llevaba el frío de su aventura ártica y sus ojos brillaban con la luminosidad de la nieve que no se derrite.</color></size>",
-      "info": "<size=39>Parte del <color=#0077b6>Sistema Criogénico</color>\nCarámbano relentiza zombis y revienta ruedas.\n<color=#0077b6>Sistema Criogénico:</color><color=#28567B>\n</color>- Aplica 5 puntos al impacto.\n- Daño x4 a zombis congelados.</color>\n\n<color=#3D1400>Daño Base: </color><color=red>40x2/1 Segundo (Perforante)</color>\n<color=#3D1400>Dureza: </color><color=red>450</color>\n<color=#3D1400>Especial: </color><color=red>Destruye neumáticos al impactar</color>\n<color=#3D1400>Fórmula de Fusión: </color><color=red>Seta Congelada + Pinchorroca</color>\n<color=#3D1400>Nombre Científico: </color><color=red>Spinosus Glacialis</color></size>",
+      "info": "<size=39>Parte del <color=#0077b6>Sistema Criogénico</color>\nCarámbano ralentiza zombis y revienta ruedas.\n<color=#0077b6>Sistema Criogénico:</color><color=#28567B>\n</color>- Aplica 5 puntos al impacto.\n- Daño x4 a zombis congelados.</color>\n\n<color=#3D1400>Daño Base: </color><color=red>40x2/1 Segundo (Perforante)</color>\n<color=#3D1400>Dureza: </color><color=red>450</color>\n<color=#3D1400>Especial: </color><color=red>Destruye neumáticos al impactar</color>\n<color=#3D1400>Fórmula de Fusión: </color><color=red>Seta Congelada + Pinchorroca</color>\n<color=#3D1400>Nombre Científico: </color><color=red>Spinosus Glacialis</color></size>",
       "cost": "<size=39>Costo: <color=red>200, 275</color>   Recarga: <color=red>100 Segundos</color>\nPlantas Requeridas: <color=red>2</color></size>"
     },
     {
@@ -5181,7 +5181,7 @@
       "seedType": 1116,
       "name": "Melonpulta Congelada",
       "introduce": "<size=39><color=#3D1400>'Antes no era un melón congelado,' dijo Melonpulta Congelada a Melonpulta. 'Una vez quise entrar al refrigerador para tomar un helado, pero accidentalmente me convertí en un bloque de hielo.'</color></size>",
-      "info": "<size=39>Parte del <color=#0077b6>Sistema Criogénico</color>\nMelonpulta Congelada inflinge grande daño y relentiza en área.\n<color=#0077b6>Sistema Criogénico:</color><color=#28567B>\n</color>- Aplica 50 puntos al impacto.\n- Daño x4 a zombis congelados.</color>\n\n<color=#3D1400>Daño Base: </color><color=red>80/3 Segundos</color>\n<color=#3D1400>Daño Amplificado: </color><color=red>x4</color> contra zombis congelados\n<color=#3D1400>Fórmula de Fusión: </color><color=red>Melonpulta + Seta Congelada</color>\n<color=#3D1400>Nombre Científico: </color><color=red>Cucumis Frigus</color></size>",
+      "info": "<size=39>Parte del <color=#0077b6>Sistema Criogénico</color>\nMelonpulta Congelada inflinge grande daño y ralentiza en área.\n<color=#0077b6>Sistema Criogénico:</color><color=#28567B>\n</color>- Aplica 50 puntos al impacto.\n- Daño x4 a zombis congelados.</color>\n\n<color=#3D1400>Daño Base: </color><color=red>80/3 Segundos</color>\n<color=#3D1400>Daño Amplificado: </color><color=red>x4</color> contra zombis congelados\n<color=#3D1400>Fórmula de Fusión: </color><color=red>Melonpulta + Seta Congelada</color>\n<color=#3D1400>Nombre Científico: </color><color=red>Cucumis Frigus</color></size>",
       "cost": "<size=39>Costo: <color=red>375, 450</color>   Recarga: <color=red>57.5 Segundos</color>\nPlantas Requeridas: <color=red>2</color></size>"
     },
     {
@@ -6150,7 +6150,7 @@
       "seedType": 1254,
       "name": "Balistabeto Atlántico",
       "introduce": "<size=39><color=#3D1400>Balistabeto Atlántico sirvió con orgullo en lo alto de las murallas del castillo, convencido de que su poder era como un tsunami rugiente. Resulta que todos hablaban del chirrido que hacían sus cuerdas al recargarlas. Avergonzado, pero firme, encontró la salvación en el jugo de aloe. Ahora sus virotes son más suaves, más letales y, lo más importante, mucho más silenciosos.</color></size>",
-      "info": "<size=39>Parte del <color=#0077b6>Sistema Criogénico</color>\nLanza agujas marinas con una fuerza a la de un tsunami.\n<color=#0077b6>Sistema Criogénico:</color><color=#28567B>\n</color>- (Agujas Congeladas) Aplica congelamiento profundo al impacto.\n- Daño x4 a zombis congelados.</color></color>\n\n<color=#3D1400>Daño:</color> <color=red>80 cada 1s\n<color=#3D1400>Especial:</color> <color=red>Inmune al congelamiento. Lanza 4 agujas en rapida sucesión antes de descansar por 3s. Tiene una chance de 90% de lanzar Agujas Marinas, los cuales dan el Efecto Humedo a zombis. Un zombi mojado será congelado en vez de relentizado cuando es afectado por ataques del Sistema Criogénico. El efecto de ahí es eliminado y no se puede aplicar de nuevo por 10s. Chance de 10% de lanzar Agujas Congeladas, los cuales aplican Congelamiento Profundo.</color>\n<color=#3D1400>Nombre Científico:</color> <color=red>Abiessal hidratus</color></size>\n<size=39><color=#3D1400>Fórmula de Fusión:</color> <color=red>Balistabeto + Aloe Vera</color></size>",
+      "info": "<size=39>Parte del <color=#0077b6>Sistema Criogénico</color>\nLanza agujas marinas con una fuerza a la de un tsunami.\n<color=#0077b6>Sistema Criogénico:</color><color=#28567B>\n</color>- (Agujas Congeladas) Aplica congelamiento profundo al impacto.\n- Daño x4 a zombis congelados.</color></color>\n\n<color=#3D1400>Daño:</color> <color=red>80 cada 1s\n<color=#3D1400>Especial:</color> <color=red>Inmune al congelamiento. Lanza 4 agujas en rapida sucesión antes de descansar por 3s. Tiene una chance de 90% de lanzar Agujas Marinas, los cuales dan el Efecto Humedo a zombis. Un zombi mojado será congelado en vez de ralentizado cuando es afectado por ataques del Sistema Criogénico. El efecto de ahí es eliminado y no se puede aplicar de nuevo por 10s. Chance de 10% de lanzar Agujas Congeladas, los cuales aplican Congelamiento Profundo.</color>\n<color=#3D1400>Nombre Científico:</color> <color=red>Abiessal hidratus</color></size>\n<size=39><color=#3D1400>Fórmula de Fusión:</color> <color=red>Balistabeto + Aloe Vera</color></size>",
       "cost": "<size=39>Costo: <color=red>375</color>   Recarga: <color=red>57.5 Segundos</color>\nPlantas Requeridas: <color=red>2</color></size>"
     },
     {
@@ -6185,7 +6185,7 @@
       "seedType": 1259,
       "name": "Bamfluido",
       "introduce": "<size=39><color=#3D1400>A Bamfluido le encanta viajar y promocionar su nevado pueblo, pero a nadie parece interesarle. \u0022Siempre creen que la mochila que llevo en la espalda es solo un golpe que he recibido\u0022, se queja. \u0022Con razón creen que la tundra es un lugar implacable\u0022.</color></size>",
-      "info": "<size=39>Mejora sus capabilidades para combatir con el hielo.</color>\n\n<color=#3D1400>Dureza: </color><color=red>1500</color>\n<color=#3D1400>Especial:</color> <color=red>Inmune al congelamiento. Gana cargas gélidas como Aloe Vera.\nResiliencia (Se predetermina a 1): El daño recibido se divide por la Resiliencia. Los PS máximos se consideran multiplicados por este. Consume una carga para subir Resiliencia a 2. Gana 1 Punto de Resiliencia al pelear zombis relentizados/congelados (no se puede apilar con su abilidad anterior)</color>\n<color=#3D1400>Nombre Científico:</color> <color=red>Bambusa hidratus</color></size>\n<size=39><color=#3D1400>Fórmula de Fusión:</color> <color=red>Aloe Vera + Bambuido</color></size>",
+      "info": "<size=39>Mejora sus capabilidades para combatir con el hielo.</color>\n\n<color=#3D1400>Dureza: </color><color=red>1500</color>\n<color=#3D1400>Especial:</color> <color=red>Inmune al congelamiento. Gana cargas gélidas como Aloe Vera.\nResiliencia (Se predetermina a 1): El daño recibido se divide por la Resiliencia. Los PS máximos se consideran multiplicados por este. Consume una carga para subir Resiliencia a 2. Gana 1 Punto de Resiliencia al pelear zombis ralentizados/congelados (no se puede apilar con su abilidad anterior)</color>\n<color=#3D1400>Nombre Científico:</color> <color=red>Bambusa hidratus</color></size>\n<size=39><color=#3D1400>Fórmula de Fusión:</color> <color=red>Aloe Vera + Bambuido</color></size>",
       "cost": "<size=39>Costo: <color=red>125</color>   Recarga: <color=red>22.5 Segundos</color>\nPlantas Requeridas: <color=red>2</color></size>"
     },
     {
@@ -6213,7 +6213,7 @@
       "seedType": 1263,
       "name": "Nuez Maíz",
       "introduce": "<size=39><color=#3D1400>\u0022¡Son aterradores, como en las películas de miedo!\u0022 Dice Nuez Maíz, temblando mientras esconde la cara tras la mantequilla. Pero la oportunidad de observar a los zombis de cerca le llena de curiosidad, y al final, no puede evitar asomarse por detrás de la mantequilla, estudiando a estas criaturas congeladas en el último fotograma de sus vidas.</color></size>",
-      "info": "<size=39>Relentiza a cualquiera que intente morderlo.</color>\n\n<color=#3D1400>Dureza: </color><color=red>4000</color>\n<color=#3D1400>Especial:</color> <color=red>Lanza una mantequilla al zombi que lo muerde al ser mordido (mantequilla dura 2s).</color>\n<color=#3D1400>Nombre Científico:</color> <color=red>Maiza praesidium</color></size>\n<size=39><color=#3D1400>Fórmula de Fusión:</color> <color=red>Nuez + Lanzamaíz</color></size>",
+      "info": "<size=39>Ralentiza a cualquiera que intente morderlo.</color>\n\n<color=#3D1400>Dureza: </color><color=red>4000</color>\n<color=#3D1400>Especial:</color> <color=red>Lanza una mantequilla al zombi que lo muerde al ser mordido (mantequilla dura 2s).</color>\n<color=#3D1400>Nombre Científico:</color> <color=red>Maiza praesidium</color></size>\n<size=39><color=#3D1400>Fórmula de Fusión:</color> <color=red>Nuez + Lanzamaíz</color></size>",
       "cost": "<size=39>Costo: <color=red>150</color>   Recarga: <color=red>37.5 Segundos</color>\nPlantas Requeridas: <color=red>2</color></size>"
     },
     {
@@ -6407,8 +6407,8 @@
     },
     {
       "seedType": 1291,
-      "name": "Humoseta Tiburón",
-      "introduce": "<size=39><color=#3D1400>\u0022Vengo del vasto océano\u0022, presume la Humoseta Tiburón. \u0022Con esta imitación de tiburón, puedo ahuyentar a cualquier depredador. Es una evolución solo posible en las profundidades marinas\u0022. Le encanta contar historias de su pasado a las Marsetas, pero nunca revela por qué abandonó el océano: el disfraz suele atraer a tiburones de verdad.</color></size>",
+      "name": "Tiburonseta",
+      "introduce": "<size=39><color=#3D1400>\u0022Vengo del vasto océano\u0022, presume la Tiburonseta. \u0022Con esta imitación de tiburón, puedo ahuyentar a cualquier depredador. Es una evolución solo posible en las profundidades marinas\u0022. Le encanta contar historias de su pasado a las Marsetas, pero nunca revela por qué abandonó el océano: el disfraz suele atraer a tiburones de verdad.</color></size>",
       "info": "<size=39>Consume una Marseta para potenciarse. ¡Caníbal!</color>\n\n<color=#3D1400>Daño: </color><color=red>20 cada 1.5s</color>\n<color=#3D1400>Especial:</color> <color=red>Al colocar una Marseta en frente de una Humoseta Tiburón, este lo come, aumentando su rango de ataque a toda la fila. La Humoseta Tiburón también puede repeler zombis empujados por Krakenseta en 3 segundos.</color>\n<color=#3D1400>Nombre Científico:</color> <color=red>Pelagomyces penetrans</color></size>\n<size=39><color=#3D1400>Fórmula de Fusión:</color> <color=red>Humoseta + Marseta</color></size>",
       "cost": "<size=39>Costo: <color=red>75, 225</color>   Recarga: <color=red>15 Segundos</color>\nPlantas Requeridas: <color=red>2</color></size>"
     },
@@ -6428,10 +6428,38 @@
   },
   {
     "seedType": 1294,
-    "name": "Miédica Marina",
-    "introduce": "<size=39><color=#3D1400>La Miédica Marina flota como un arrecife oculto, tímido, quieto, pero peligroso para los incautos. Cuando el agua circundante se mueve, se despierta y se defiende ferozmente, para luego volver a refugiarse bajo las olas como si nada hubiera pasado.</color></size>",
-    "info": "<size=39>Muy tímido para atacar, hasta que ve una Marseta llegar al agua.</color>\n\n<color=#3D1400>Daño:</color> <color=red>20 cada 0.5s\n<color=#3D1400>Especial:</color> <color=red>Se esconde, a pesar que no hayan zombis cercanos. Al ocupar una carta de Marseta en ella, la hace atacar por 10s. Después de esto, vuelve a esconderse.</color>\n<color=#3D1400>Nombre Científico:</color> <color=red>Pegalomyces tremula</color></size>\n<size=39><color=#3D1400>Fórmula de Fusión:</color> <color=red>Seta Miédica + Marseta</color></size>",
+    "name": "Almejanseta",
+    "introduce": "<size=39><color=#3D1400>La Almejanseta flota como un arrecife oculto, tímido, quieto, pero peligroso para los incautos. Cuando el agua circundante se mueve, se despierta y se defiende ferozmente, para luego volver a refugiarse bajo las olas como si nada hubiera pasado.</color></size>",
+    "info": "<size=39>Muy tímido para atacar, hasta que ve una Marseta llegar al agua.</color>\n\n<color=#3D1400>Daño:</color> <color=red>20 cada 0.5s\n<color=#3D1400>Especial:</color> <color=red>Se esconde, a pesar que no hayan zombis cercanos. Al ocupar un paquete de semillas de Marseta en ella, la hace atacar por 10s. Después de esto, vuelve a esconderse.</color>\n<color=#3D1400>Nombre Científico:</color> <color=red>Pegalomyces tremula</color></size>\n<size=39><color=#3D1400>Fórmula de Fusión:</color> <color=red>Seta Miédica + Marseta</color></size>",
     "cost": "<size=39>Costo: <color=red>25, 175</color>   Recarga: <color=red>15 Segundos</color>\nPlantas Requeridas: <color=red>2</color></size>"
+        },
+        {
+    "seedType": 1295,
+    "name": "Nuez Tótem",
+   "introduce": "<size=39><color=#3D1400>INTRO</color></size>",
+  "info": "<size=39>Tres nueces pequeñitas puestas una encima del otro.</color>\n\n<color=#3D1400>Dureza: </color><color=red>12000</color>\n<color=#3D1400>Daño:</color>\n- (12k-8k PS) 80, perfora 2 veces.\n- (8k-4k PS) 60, perfora 4 veces.\n- (4k-0 PS) 40, perfora 6 veces.<color=red>\n<color=#3D1400>Especial:</color> <color=red>Tiene 12k PS en total. Cada Nuez Pequeña tiene 4k PS y perdiendo una de estas reduce su dureza máxima por 4000. También, la cabeza de arriba dispara nueces pequeñas que perforan zombis.</color>\n<color=#3D1400>Nombre Científico:</color> <color=red>Juglans thotem</color></size>\n<size=39><color=#3D1400>Fórmula de Fusión:</color> <color=red>Nuez + Tripitidora</color></size>",
+  "cost": "<size=39>Costo: <color=red>325</color>   Recarga: <color=red>37.5 Segundos</color>\nPlantas Requeridas: <color=red>2</color></size>"
+ },
+ {
+    "seedType": 1296,
+    "name": "Fortunapum",
+ "introduce": "<size=39><color=#3D1400>INTRO</color></size>",
+ "info": "<size=39>¡Busca un tesoro bajo tierra para ti!</color>\n\n<color=#3D1400>Daño: </color><color=red>1800 (área de 1×1)</color>\n<color=#3D1400>Tiempo De Armado: </color><color=red>30s, luego vuelve bajo tierra.</color>\n<color=#3D1400>Especial:</color> <color=red>Busca un tesoro bajo tierra cada 30s: 1% de chance que aparezca un zombi aleatorio, 10% para un paquete de semillas aleatorio, 89% de dar 25 Sol y 100 Monedas. En el mapa de playa, las Fortunapum aceleran su producción de busqueda por 50%; las chances de tener un paquete de semillas sube a 33% y las chances de que aparezca un zombi baja a 0%. Desaparece después de conseguir 3 paquetes de semillas.</color>\n<color=#3D1400>Nombre Científico:</color> <color=red>Solanum auritagetes</color></size>\n<size=39><color=#3D1400>Fórmula de Fusión:</color> <color=red>Patatapum + Margarita</color></size>",
+  "cost": "<size=39>Costo: <color=red>50</color>   Recarga: <color=red>37.5 Segundos</color>\nPlantas Requeridas: <color=red>2</color></size>"
+},
+{
+    "seedType": 1297,
+    "name": "Globoseta",
+"introduce": "<size=39><color=#3D1400>INTRO</color></size>",
+  "info": "<size=39>Soporte del <color=#0077b6>Sistema Criogénico</color>\nCongela zombis al estar acompañado de Marsetas.</color>\n\n<color=#3D1400>Especial:</color> <color=red>Al ocupar un paquete de semillas de Marseta en el, congela y ralentiza a todos los zombis en un área de 3x3.</color>\n<color=#3D1400>Nombre Científico:</color> <color=red>Pegalomyces glacialis</color></size>\n<size=39><color=#3D1400>Fórmula de Fusión:</color> <color=red>Seta Congelada + Marseta</color></size>",
+  "cost": "<size=39>Costo: <color=red>75, 225</color>   Recarga: <color=red>57.5 Segundos</color>\nPlantas Requeridas: <color=red>2</color></size>"
+},
+{
+    "seedType": 1298,
+    "name": "Aceleraseta",
+  "introduce": "<size=39><color=#3D1400>INTRO</color></size>",
+  "info": "<size=39>Potencia a todo proyectil yendo hacia al frente con sus humos.</color>\n\n<color=#3D1400>Daño:</color> <color=red>20 cada 1.5s\n<color=#3D1400>Especial:</color> <color=red>El rango de su humo se expande a toda la fila. Al expulsar humo, acelera cualquier proyectil que se dispara hacia adelante, aumentando su daño +1 cada 0.02 segundos.</color>\n<color=#3D1400>Nombre Científico:</color> <color=red>Fumigena propulsum</color></size>\n<size=39><color=#3D1400>Fórmula de Fusión:</color> <color=red>Lanzaguisantes + Humoseta</color></size>",
+  "cost": "<size=39>Costo: <color=red>175, 250</color>   Recarga: <color=red>15 Segundos</color>\nPlantas Requeridas: <color=red>2</color></size>"
         }
     ]
 }
