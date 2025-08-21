@@ -209,7 +209,7 @@
             "theZombieType": 35,
             "name": "Zombie Khổng Lồ (35)",
             "introduce": "<size=36><color=black>Khi Zombie Khổng lồ bước đi, mặt đất rung chuyển theo. Khi hắn gầm lên, những con Zombie khác liền im lặng. Hắn chính là hình mẫu Zombie mà những con Zombie khác muốn trở thành. Thế nhưng, hắn vẫn bị ế. .</color>",
-            "info": "<size=36>Đập nát bất kì cây nào trước mặt nó!\n\n<color=black>Máu: </color><color=#4B0082>3000</color>\n<color=black>Đặc Điểm: </color><color=#4B0082>Đập cây trong phạm vi tấn công của nó, có thể đập nhiều cây cùng lúc.</color>"
+            "info": "<size=36>Đập nát bất kì cây nào trước mặt nó!\n\n<color=black>Máu: </color><color=#4B0082>3000</color>"
         },
         {
             "theZombieType": 36,
@@ -335,7 +335,7 @@
         "theZombieType": 62,
         "name": "Tiểu Thú Tuyết (62)",
         "introduce": "<size=36><color=black>Rất thích lăn và khám phá muôn nơi, từ đồng cỏ xanh ngát tới trước quả óc chó, aiya.</color>",
-        "info": "<size=36>Lăn vào cây.\n\n<color=black>Máu: </color><color=#4B0082>300</color>\n<color=black>Đặc Điểm: </color><color=#4B0082>Có tỉ lệ 2/3 không nhận sát thương. Lăn vào cây với tốc độ nhanh, gây sát thương bằng với lượng máu hiện tại của nó.</color>"
+        "info": "<size=36>Lăn vào cây.\n\n<color=black>Máu: </color><color=#4B0082>300</color>\n<color=black>Đặc Điểm: </color><color=#4B0082>Lăn vào cây với tốc độ nhanh, gây sát thương bằng với lượng máu hiện tại của nó.</color>"
     },
         {
            "theZombieType": 100,
@@ -515,7 +515,7 @@
          "theZombieType": 203,
          "name": "Liên Báo Anh Đào (203)",
          "introduce": "<size=36><color=black>“Ta đã già, già lắm rồi...” Liên Báo Anh Đào lẩm bẩm khi đi trên đường. Cho dù sát khí từ cơ thể nó đã giảm, nhưng sát khí dư thừa còn sót lại vẫn khiến cây và zombie trong vườn không thể ngẩng đầu lên. “Chỉ có tên đó mới có thể khiến ta muốn chiến đấu...” Nó cất tờ báo đi, đi trên phố, lẩm bẩm một mình...</color>",
-         "info": "<size=36>Một kẻ cực kỳ nguy hiểm.\n\n<color=black>Sát thương:</color><color=#4B0082> 400</color>\n<color=black>Sát Thương Đạn:</color><color=#4B0082> 1000*4/0.5 giây</color>\n<color=black>Máu: </color><color=#4B0082>1500 + 1500 (Giáp cấp 2)</color>\n<color=black>Đặc Điểm: </color><color=#4B0082>\n<color=black>•</color> Khi cầm tờ báo, bản thân sẽ không bị bất kì sát thương xuyên giáp nào. \n<color=black>•</color> Sau khi tờ báo mất, nó tạm thời bất tử, rồi bắn ra 4 đạn siêu anh đào mỗi 0.5 giây.</color>\n<color=black>Buff Luyện Ngục 1: </color><color=#4B0082>Liên Báo Anh Đào phớt lờ cây khi nó tức giận</color>\n<color=black>Buff Luyện Ngục 2: </color><color=#4B0082>Liên Báo Anh Đào miễn nhiễm với hiệu ứng giảm tốc và bơ.</color>\n<color=black>Điểm Yếu: </color><color=#4B0082>Dù Ruby</color></size>"
+         "info": "<size=36>Một kẻ cực kỳ nguy hiểm.\n\n<color=black>Sát thương:</color><color=#4B0082> 400</color>\n<color=black>Sát Thương Đạn:</color><color=#4B0082> 1000*4/0.5 giây</color>\n<color=black>Máu: </color><color=#4B0082>1500 + 1500 (Giáp cấp 2)</color>\n<color=black>Đặc Điểm: </color><color=#4B0082>Sau khi tờ báo mất, nó tạm thời bất tử, rồi bắn ra 4 đạn siêu anh đào mỗi 0.5 giây.</color>\n<color=black>Buff Luyện Ngục 1: </color><color=#4B0082>Liên Báo Anh Đào phớt lờ cây khi nó tức giận</color>\n<color=black>Buff Luyện Ngục 2: </color><color=#4B0082>Liên Báo Anh Đào miễn nhiễm với hiệu ứng giảm tốc và bơ.</color>\n<color=black>Điểm Yếu: </color><color=#4B0082>Dù Ruby</color></size>"
      },
      {
          "theZombieType": 204,
@@ -635,7 +635,7 @@
       "theZombieType": 223,
       "name": "<color=#4B0082>Giáo Sư Z (223)",
       "introduce": "<size=36><color=black>Mang chức danh là giáo sư, nhưng bản thiết kế vĩ đại nhất đó chính là xe lăn bọc giáp hạng nặng của chính ông. Nó có cơ chế giúp người dùng di chuyển mà khồng cần làm gì. À và nó còn giúp giảm thấp khớp đĩa đệm nữa.</color>",
-      "info": "<size=36>Kẻ mạnh nhất trong những \"Báo Thủ\"\n\n<color=black>Máu: </color><color=#4B0082>6000 + 15000 (Giáp cấp 1) + 3000 (Giáp cấp 2)</color>\n<color=black>Đặc Điểm:  </color><color=#4B0082>\n<color=black>•</color> Xuất hiện trong Luyện Ngục khi bạn chọn Debuff của nó. Bất tử trước khi bị mất báo.\n<color=black>•</color> Chỉ nhận tối đa 5000 sát thương cho các đòn hành quyết.\n<color=black>•</color> Khi cầm tờ báo, bản thân sẽ không bị sát thương, kể cả đạn nguyên tử.\n<color=black>•</color> Khi bị mất báo, bất tử trong 1 khoảng thời gian và biến 30 Zombie thành Liên Báo Anh Đào tức giận.\n<color=black>•</color> Sau đó sẽ phi thẳng về phía trước, bắn 1 loạt đạn siêu anh đào và đạn cẩu bom anh đào.\n<color=black>•</color> Sẽ rách báo lập tức khi gặp Gai, đồng thời không thể di chuyển</color>"
+      "info": "<size=36>Kẻ mạnh nhất trong những \"Báo Thủ\"\n\n<color=black>Máu: </color><color=#4B0082>6000 + 15000 (Giáp cấp 1) + 3000 (Giáp cấp 2)</color>\n<color=black>Đặc Điểm:  </color><color=#4B0082>\n<color=black>•</color> Xuất hiện trong Luyện Ngục khi bạn chọn Debuff của nó. Bất tử trước khi bị mất báo.\n<color=black>•</color> Chỉ nhận tối đa 5000 sát thương cho các đòn hành quyết.\n<color=black>•</color> Khi bị mất báo, bất tử trong 1 khoảng thời gian và biến 30 Zombie thành Liên Báo Anh Đào tức giận.\n<color=black>•</color> Sau đó sẽ phi thẳng về phía trước, bắn 1 loạt đạn siêu anh đào và đạn cẩu bom anh đào.\n<color=black>•</color> Sẽ rách báo lập tức khi gặp Gai, đồng thời không thể di chuyển</color>"
     },
     {
         "theZombieType": 224,
@@ -671,19 +671,19 @@
             "theZombieType": 300,
             "name": "Liên Báo Anh Đào (300)",
             "introduce": "<size=36><color=black>Luôn có những thứ còn quan trong hơn cái trò chơi này, từ những thành phố đông đúc cho tới bầu trời đêm đầy sao. Nhưng trước hết phải giải quyết cho xong cái trò Sudoku này đã.</color>",
-            "info": "<size=36>Mở đầu cho cơn ác mộng không hồi kết.\n\n<color=black>Cấp Độ:</color><color=#4B0082> 1</color>\n<color=black>Sát thương:</color><color=#4B0082> 400</color>\n<color=black>Sát Thương Đạn:</color><color=#4B0082> 1000</color>\n<color=black>Máu: </color><color=#4B0082>1500+1500 (Giáp cấp 2)</color>\n<color=black>Khả Năng: </color><color=#4B0082>\n<color=black>•</color> Khi cầm tờ báo, bản thân sẽ không bị bất kì sát thương xuyên giáp nào.\n<color=black>•</color>  Sau khi tờ báo mất, nó tạm thời bất tử, rồi bắn ra 4 đạn siêu anh đào mỗi 0.5 giây.\n<color=black>Điểm Yếu:</color><color=#4B0082> Dù Ruby</color></color></color></size>"
+            "info": "<size=36>Mở đầu cho cơn ác mộng không hồi kết.\n\n<color=black>Cấp Độ:</color><color=#4B0082> 1</color>\n<color=black>Sát thương:</color><color=#4B0082> 400</color>\n<color=black>Sát Thương Đạn:</color><color=#4B0082> 1000</color>\n<color=black>Máu: </color><color=#4B0082>1500+1500 (Giáp cấp 2)</color>\n<color=black>Khả Năng: </color><color=#4B0082>Sau khi tờ báo mất, nó tạm thời bất tử, rồi bắn ra 4 đạn siêu anh đào mỗi 0.5 giây.\n<color=black>Điểm Yếu:</color><color=#4B0082> Dù Ruby</color></color></color></size>"
         },
         {
             "theZombieType": 301,
             "name": "Bão Tố Anh Pháo (301)",
             "introduce": "<size=36><color=black>Bão Tố Anh Pháo là 1 giáo sư nổi tiếng tại Học Viện Zombie Quốc Tế. Nếu mà Giáo Sư Z mà không gửi lời mời tới đây thì ông ta sẽ chả thèm tham gia đâu. “Giáo Sư Z cũng đúng đấy!” - Bão Tố Anh Pháo nói. “Cả ba thứ ta thích nhất, bánh anh đào, phát nổ và cả trò Zuma. Tất cả đều ở đây!”</color>",
-            "info": "<size=36>Liên tục khai hoả vào mục tiêu.\n\n<color=black>Cấp Độ:</color><color=#4B0082> 2</color>\n<color=black>Sát thương:</color><color=#4B0082> 400</color>\n<color=black>Sát Thương Đạn:</color><color=#4B0082> 1000</color>\n<color=black>Máu: </color><color=#4B0082>3000+3000 (Giáp cấp 2)</color>\n<color=black>Khả Năng: </color><color=#4B0082>\n<color=black>•</color> Khi ra sân, bắn 4 đạn siêu anh đào mỗi 1.5 giây, và bản thân sẽ không bị bất kì sát thương xuyên giáp nào. \n<color=black>•</color> Sau khi tờ báo mất, nó tạm thời bất tử, rồi bắn ra 4 đạn siêu anh đào mỗi 0.5 giây.\n<color=black>Điểm Yếu:</color><color=#4B0082> Dù Ruby</color></color></color></size>"
+            "info": "<size=36>Liên tục khai hoả vào mục tiêu.\n\n<color=black>Cấp Độ:</color><color=#4B0082> 2</color>\n<color=black>Sát thương:</color><color=#4B0082> 400</color>\n<color=black>Sát Thương Đạn:</color><color=#4B0082> 1000</color>\n<color=black>Máu: </color><color=#4B0082>3000+3000 (Giáp cấp 2)</color>\n<color=black>Khả Năng: </color><color=#4B0082>\n<color=black>•</color> Khi ra sân, bắn 4 đạn siêu anh đào mỗi 1.5 giây. \n<color=black>•</color> Sau khi tờ báo mất, nó tạm thời bất tử, rồi bắn ra 4 đạn siêu anh đào mỗi 0.5 giây.\n<color=black>Điểm Yếu:</color><color=#4B0082> Dù Ruby</color></color></color></size>"
         },
         {
             "theZombieType": 302,
             "name": "Bão Tố Pháo Kích (302)",
             "introduce": "<size=36><color=black>Nhằm cải tiến khả năng bắn phá anh đào, Bão Tố Pháo Kích đã sẳn sàng đi du học để có thể cải tiến. Nhìn vào nguyên 1 cái giỏ chứa đầy bánh anh đào ưa thích của mình có thể thấy cậu ta háo hức tới cỡ nào.</color>",
-            "info": "<size=36>Cơn thịnh nộ của giáo sư.\n\n<color=black>Cấp Độ:</color><color=#4B0082> 3</color>\n<color=black>Sát thương:</color><color=#4B0082> 400</color>\n<color=black>Sát Thương Đạn:</color><color=#4B0082> 1000</color>\n<color=black>Máu: </color><color=#4B0082>6000+6000 (Giáp cấp 2)</color>\n<color=black>Khả Năng: </color><color=#4B0082>\n<color=black>•</color> Khi ra sân, bắn 4 đạn siêu anh đào mỗi 1.5 giây, và bản thân sẽ không bị bất kì sát thương xuyên giáp nào. \n<color=black>•</color> Sau khi tờ báo mất, nó tạm thời bất tử và lấy khẩu pháo ở sau lưng, rồi bắn ra 5 đạn siêu anh đào mỗi 0.5 giây.\n<color=black>Điểm Yếu:</color><color=#4B0082> Dù Ruby</color></color></color></size>"
+            "info": "<size=36>Cơn thịnh nộ của giáo sư.\n\n<color=black>Cấp Độ:</color><color=#4B0082> 3</color>\n<color=black>Sát thương:</color><color=#4B0082> 400</color>\n<color=black>Sát Thương Đạn:</color><color=#4B0082> 1000</color>\n<color=black>Máu: </color><color=#4B0082>6000+6000 (Giáp cấp 2)</color>\n<color=black>Khả Năng: </color><color=#4B0082>\n<color=black>•</color> Khi ra sân, bắn 4 đạn siêu anh đào mỗi 1.5 giây. \n<color=black>•</color> Sau khi tờ báo mất, nó tạm thời bất tử và lấy khẩu pháo ở sau lưng, rồi bắn ra 5 đạn siêu anh đào mỗi 0.5 giây.\n<color=black>Điểm Yếu:</color><color=#4B0082> Dù Ruby</color></color></color></size>"
         },
         {
             "theZombieType": 303,
@@ -924,6 +924,13 @@
             "introduce": "<size=36><color=black>Là sức mạnh tổng hợp của mọi Zombie hộp quà trên thế giới, cậu ta thậm chí còn bị đột biến và có thể đánh ngang cơ với những Zombie mạnh mẽ nhất.</color>",
             "info": "<size=36>Vô cùng mạnh mẽ và cắn mọi thứ trên đường đi!\n\n<color=black>Máu: </color><color=#4B0082>120000+30000 (Giáp cấp 1)</color>\n<color=black>Khả Năng:</color><color=#4B0082> \n<color=black>•</color> Sát thương gây ra luôn là hành quyết, nhưng giới hạn ở các cây có giới hạn sát thương. \n<color=black>•</color> Khi chết sẽ triệu hồi 5 Zombie Hộp Quà Kim Cương và 5 Zombie Hộp Quà Kim Cương thôi miên.</color></color></size>"
         },
+        {
+            "theZombieType": 190,
+            "name": "Zombie Bầu Dục Bắn Tỉa (190)",
+            "introduce": "<size=36><color=black>Là bậc thầy bắn tỉa của phe Zombie, tuy nhiên cậu ta lại thích chơi bầu dục hơn là bắn súng, thế là cậu ta vác nguyên khẩu bắn tỉa vào sân đấu.</color>",
+            "info": "<size=36>Săn lùng cây trong tầm bắn!\n\n<color=black>Máu: </color><color=#4B0082>1000 </color>\n<color=black>Khả Năng:</color><color=#4B0082> Sau khi ra sân sẽ khóa mục tiêu có số mặt trời cao nhất trong 8 giây, sau đó sẽ hành quyết cây đó và chuyển sang mục tiêu khác.</color></color></size>"
+        },
+        
         {
             "theZombieType": 98,
             "name": "Zombie Hộp Quà Hắc Ngọc Bí Ẩn (98)",
