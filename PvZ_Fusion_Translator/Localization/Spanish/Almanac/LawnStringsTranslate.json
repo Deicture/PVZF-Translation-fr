@@ -1703,14 +1703,14 @@
     },
     {
       "seedType": 366,
-      "name": "Nenúfar",
+      "name": "Nenúfar (TD)",
       "introduce": "<size=39><color=#3D1400>Nenúfar nunca se queja. Nenúfar nunca quiere saber qué está pasando. Ponga una planta encima de Nenúfar y no dirá nada. ¿Tiene opiniones sorprendentes o secretos chocantes? Nadie lo sabe. Nenúfar se lo guarda todo dentro.</color></size>",
       "info": "<size=39>Los Nenúfares te permiten cultivar plantas no acuáticas encima de ellos.\n\n<color=#3D1400>Especial:</color><color=red>Permite colocar plantas no acuáticas en el agua.</color>\n<color=#3D1400>Nombre Científico: </color><color=red>Nympadia serena</color></size>",
       "cost": "<size=39>Costo: <color=red>25</color>\nRecarga: <color=red>7.5 Segundos</color>"
     },
     {
       "seedType": 367,
-      "name": "Apisonanuez",
+      "name": "Apisonanuez (TD)",
       "introduce": "<size=39><color=#3D1400>Arrastrado de un parque infantil por el tallo y tirado en el jardín, Apisonanuez fue rechazado por ser una pelota de goma deformada. Ahora, furioso y rebotando, rebota como un loco, gritando: \u0022¡Voy a jugar todo lo que quiera! ¡TODO LO QUE QUIERA!\u0022.</color></size>",
       "info": "<size=39>Una nuez rebotante que es todo rabietas e impacto.</color>\n\n<color=#3D1400>Dureza: </color><color=red>1000</color>\n<color=#3D1400>Daño:</color> <color=red>TBD\n<color=#3D1400>Especial:</color> <color=red>Salta en su casilla cuando un zombi se acerca, haciendo daño con salpicadura por cada salto. No bloquea zombis mientras esta en el aire.</color>\n\n<color=purple>Mejoras:<color=red>\n- Mejora Básica (X Soles): BASICUPGRADE\n- Mejora Avanzada I (X Soles): UPGRADE1\n- Mejora Avanzada II (X Soles): UPGRADE2\n\n<color=#3D1400>Nombre Científico:</color> <color=red>Cucurbita praesidium</color></size>\n<size=39><color=#3D1400>Fórmula de Fusión:</color> <color=red>Nuez + Apisonaflor</color></size>",
       "cost": "<size=39>Costo: <color=red>75</color>   Recarga: <color=red>?? Segundos</color>\nPlantas Requeridas: <color=red>2</color></size>"
@@ -6460,6 +6460,13 @@
   "introduce": "<size=39><color=#3D1400>INTRO</color></size>",
   "info": "<size=39>Potencia a todo proyectil yendo hacia al frente con sus humos.</color>\n\n<color=#3D1400>Daño:</color> <color=red>20 cada 1.5s\n<color=#3D1400>Especial:</color> <color=red>El rango de su humo se expande a toda la fila. Al expulsar humo, acelera cualquier proyectil que se dispara hacia adelante, aumentando su daño +1 cada 0.02 segundos.</color>\n<color=#3D1400>Nombre Científico:</color> <color=red>Fumigena propulsum</color></size>\n<size=39><color=#3D1400>Fórmula de Fusión:</color> <color=red>Lanzaguisantes + Humoseta</color></size>",
   "cost": "<size=39>Costo: <color=red>175, 250</color>   Recarga: <color=red>15 Segundos</color>\nPlantas Requeridas: <color=red>2</color></size>"
+},
+{
+    "seedType": 1299,
+    "name": "Calabaza Cáscara",
+    "introduce": "<size=39><color=#3D1400>INTRO</color></size>",
+    "info": "<size=39>Genera pequeñas nueces para curar a otras calabazas.</color>\n\n<color=#3D1400>Dureza: </color><color=red>8000</color>\n<color=#3D1400>Especial:</color> <color=red>Genera una Mini-Nuez cada 50s. Cuando esta Mini-Nuez está completamente crecida, se consume para curar una Calabaza cercana dañada hasta 1000 PS o para producir un paquete de semillas de Nuez si no existe dicha Calabaza. Una sola Calabaza Cáscara puede producir un máximo de 3 paquetes de semillas de Nuez.</color>\n<color=#3D1400>Nombre Científico:</color> <color=red>Juglans protegens</color></size>\n<size=39><color=#3D1400>Fórmula de Fusión:</color> <color=red>Nuez + Calabaza</color></size>",
+    "cost": "<size=39>Costo: <color=red>175</color>   Recarga: <color=red>60 Segundos</color>\nPlantas Requeridas: <color=red>2</color></size>"
         }
     ]
 }
