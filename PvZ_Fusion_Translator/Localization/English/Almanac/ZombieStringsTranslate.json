@@ -682,7 +682,7 @@
             "theZombieType": 227,
             "name": "Frost Tall-nut Sentinel Zombie",
             "introduce": "<align=justified><size=36><color=black>Clad in armor forged from solid ice, wielding a blade tempered by fire and frost, Frost Tall-nut Sentinel Zombie returns to the lawn stronger and sharper than ever—only to smash through… zombies ahead of him?</color>",
-            "info": "<size=36>Frost Tall-nut Zombies with icy claws. They pack a punch.\n\n<color=black>Toughness: </color><color=#4B0082>270 + 1100 (Type 1)</color>\n<color=black>Traits: </color><color=#4B0082>Inherits traits from Frost Tall-nut Zombie. Transformed from regular zombies by Doominator-shroom and Thornminator.</color>"
+            "info": "<size=36>Frost Tall-nut Zombies with icy claws. They pack a punch.\n\n<color=black>Toughness: </color><color=#4B0082>270 + 1100 (Type 1)</color>\n<color=black>Traits: </color><color=#4B0082>Inherits traits from Frost Tall-nut Zombie. Transformed from regular zombies by Doominator and Thornminator.</color>"
         },
         {
             "theZombieType": 228,
