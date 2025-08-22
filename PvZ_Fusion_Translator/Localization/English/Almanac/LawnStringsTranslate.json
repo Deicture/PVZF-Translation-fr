@@ -551,7 +551,7 @@
             "name": "Cob-literator",
             "introduce": "<align=justified><size=36><color=black>Clad in icy armor and dark as a warning, each shot from Cob-literator brings destruction. Zombies hit by it need not prepare—nothing will remain after the flash.</color>",
             "info": "<size=36>Possesses earth-shattering power.\n\n<color=#4A2900>Usage Condition: Odyssey Mode | Unlockable</color>\n<color=black>Damage: </color><color=#8B0000>\n<color=black>•</color> Main Blast - 1800 in a 3×3 area. \n<color=black>•</color> Additional 1800 + 30% of Zombies' maximum Toughness across the entire screen.\n<color=black>•</color> Side Gun: 360×2/1.5s</color>\n<color=black>Arming Time: </color><color=#8B0000>36s</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Infuses all plants across the field with Ice-shroom (prioritized)/Doom-shroom (except Flower Pots). \n<color=black>•</color> Side cannon inflicts Chill and adds 10 Cryo points.</color>\n<color=black>Odyssey Modifiers:\n<color=#8B0000>1. Main Blast damage ×4\n2. Reload Time → 12s</color>",
-            "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Cryo Cannon + Doomise-shroom</color>"
+            "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Cryo Cannon + Demise-shroom</color>"
         },
         {
             "seedType": 916,
@@ -1101,9 +1101,9 @@
         },
         {
             "seedType": 1040,
-            "name": "Doomise-shroom",
-            "introduce": "<align=justified><size=36><color=black>\"I will freeze the world, and silence will reign. The extreme cold will disrupt your body's temperature system, so it won't be very painful,\" Doomise-shroom proclaims. He seldom appears in battle, but when he does, a blizzard follows in his wake. With a flash of white light, even time seems to freeze.</color></size>",
-            "info": "<size=36>Doomise-shroom can destroy zombies in the entire screen and freeze time.\n\n<color=black>Damage: </color><color=#8B0000>1800 (Cremator)</color>\n<color=black>Special: </color><color=#8B0000>Freezes surviving zombies for 5 seconds. Also freezes the level temporarily – no new zombies will appear within 10 seconds.</color></size>",
+            "name": "Demise-shroom",
+            "introduce": "<align=justified><size=36><color=black>\"I will freeze the world, and silence will reign. The extreme cold will disrupt your body's temperature system, so it won't be very painful,\" Demise-shroom proclaims. He seldom appears in battle, but when he does, a blizzard follows in his wake. With a flash of white light, even time seems to freeze.</color></size>",
+            "info": "<size=36>Demise-shroom can destroy zombies in the entire screen and freeze time.\n\n<color=black>Damage: </color><color=#8B0000>1800 (Cremator)</color>\n<color=black>Special: </color><color=#8B0000>Freezes surviving zombies for 5 seconds. Also freezes the level temporarily – no new zombies will appear within 10 seconds.</color></size>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Ice-shroom + Doom-shroom</color>"
         },
         {
