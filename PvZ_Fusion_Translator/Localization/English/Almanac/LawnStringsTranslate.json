@@ -1082,7 +1082,7 @@
             "seedType": 1037,
             "name": "Frost-shroom",
             "introduce": "<align=justified><size=36><color=black>Frost-shroom stands out among the Fume-shrooms. His study abroad in the freezing Alaskan wilderness made him even cooler—literally. Though he only studied hair design for a few years, he's pretty proud of it.</color></size>",
-            "info": "<size=36>Frost-shroom's fumes can pass through and freeze zombies.\n\n<color=black>Damage: </color><color=#8B0000>40/1.5s (Piercing) </color>\n<color=#0077b6>Cryo System: </color><color=#8B0000> Attacks inflict chill and add 5 Cryo points.</color></size>",
+            "info": "<size=36>Frost-shroom's fumes can pass through and freeze zombies.\n\n<color=black>Damage: </color><color=#8B0000>40/1.5s (Piercing) </color>\n<color=#0077b6>Cryo System: </color><color=#8B0000> Attacks inflict chill and add 5 Cryo points. Frost-shrooms can be upgraded to Frost Gloom-shrooms using a Fertilizer.</color></size>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Fume-shroom + Ice-shroom</color>"
         },
         {
@@ -1095,9 +1095,9 @@
         {
             "seedType": 1039,
             "name": "Frost Tall-nut",
-            "introduce": "<align=justified><size=36><color=black>Frost Tall-nut raised its icy spikes high, ready to confront the zombies. Others remarked on how \"cold\" and \"silent\" he seemed. Yet, his expression remained unchanged, resolute in his defense against the undead. The truth was his face had simply frozen in place.</color></size>",
+            "introduce": "<align=justified><size=36><color=black>Frost Tall-nut raised his icy spikes high, ready to confront the zombies. Others remarked on how \"cold\" and \"silent\" he seemed. Yet, his expression remained unchanged, resolute in his defense against the undead. The truth was his face had simply frozen in place.</color></size>",
             "info": "<size=36>Tall-nuts with a minty taste. They slow down zombies that bite them.\n\n<color=black>Toughness: </color><color=#8B0000>8000</color>\n<color=#0077b6>Cryo System: </color><color=#8B0000>Zombies that bite it are chilled and accumulate 10 Cryo points.</color>\n<color=black>Special: </color><color=#8B0000>Tall plant. When affected by the Ice-shroom, heals 1000 Toughness.</color></size>",
-            "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Ice-shroom + Tall-nut</color>"
+            "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Ice-shroom > Tall-nut</color>"
         },
         {
             "seedType": 1040,
@@ -1257,7 +1257,7 @@
             "seedType": 1062,
             "name": "Scorchweed",
             "introduce": "<align=justified><size=36><color=black>\"Studies reveal that spiciness is actually a type of pain,\" Scorchweed announced, rattling the red thorns on his head. \"I intend to let the unbelieving zombies experience this reality for themselves.\"</color></size>",
-            "info": "<size=36>Scorchweed pops tires and enflames zombies that step on them.\n\n<color=black>Damage: </color><color=#8B0000>40/1 Second</color>\n<color=black>Special: </color><color=#8B0000>Attacks inflict Enflamed Debuff.</color>\n<color=#720026>Enflamed Debuff: </color><color=#8B0000> Damage taken increases by 50%; zombies with this debuff explode on death, spreading it further.</color></size>",
+            "info": "<size=36>Scorchweed pops tires and enflames zombies that step on them.\n\n<color=black>Damage: </color><color=#8B0000>40/1 Second</color>\n<color=black>Special: </color><color=#8B0000>Attacks inflict Enflamed Debuff. Scorchweeds can be upgraded to Spike-hearths using a Fertilizer.</color>\n<color=#720026>Enflamed Debuff: </color><color=#8B0000> Damage taken increases by 50%; zombies with this debuff explode on death, spreading it further.</color></size>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Jalapeno + Spikeweed</color>"
         },
         {
@@ -1312,7 +1312,7 @@
         {
             "seedType": 1070,
             "name": "Gloom-shroom",
-            "introduce": "<align=justified><size=36><color=black>\"I've always enjoyed releasing heavy fumes,\" says Gloom Shroom. \"I know a lot of people aren't cool with that. They say it's rude or that it smells bad. All I can say is, would you rather have your brain eaten by zombies?\"</color></size>",
+            "introduce": "<align=justified><size=36><color=black>\"I've always enjoyed releasing heavy fumes,\" says Gloom-shroom. \"I know a lot of people aren't cool with that. They say it's rude or that it smells bad. All I can say is, would you rather have your brain eaten by zombies?\"</color></size>",
             "info": "<size=36>Gloom-shrooms fire heavy fumes in an area around them.\n\n<color=black>Damage: </color><color=#8B0000>20×4/1.9s (Piercing)</color></size>",
             "cost": "<size=36>Cost: <color=#8B0000>125</color>\nRecharge: <color=#8B0000>50s</color></size>"
         },
@@ -1321,35 +1321,35 @@
             "name": "Flame Gloom-shroom",
             "introduce": "<align=justified><size=36><color=black>Flame Gloom-shroom's ability to release hot steam has established him as a celebrated pastry baker. His signature spicy pastries are a favorite among many, cherished for their distinct flavors.</color></size>",
             "info": "<size=36>Releases high-damaging fire fumes around it.\n\n<color=black>Damage: </color><color=#8B0000>40×4/1.9s (Piercing)</color>\n<color=#720026>Enflamed Debuff: </color><color=#8B0000>Inflicts the Enflamed debuff when attacking zombies.</color></size>",
-            "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Jalapeno + Gloom-shroom</color>"
+            "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Jalapeno > Gloom-shroom</color>"
         },
         {
             "seedType": 1072,
             "name": "Frost Gloom-shroom",
             "introduce": "<align=justified><size=36><color=black>Dreaming of a career as a physicist, the Frost Gloom-shroom dedicates his days to unraveling the complexities of the world, avoiding contact with other plants. \"Why do I have multiple strings of icicles sprouting from my head?\" he muses, the latest question occupying his thoughts. He's oddly adamant about calling them \"strings.\"</color></size>",
             "info": "<size=36>Releases cold fumes around that can freeze zombies.\n\n<color=black>Damage: </color><color=#8B0000>40×4/1.9s (Piercing)</color>\n<color=#0077b6>Cryo System: </color><color=#8B0000>Each attack adds 5 Cryo points.</color></size>",
-            "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Ice-shroom + Gloom-shroom</color>"
+            "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Ice-shroom > Gloom-shroom</color>"
         },
         {
             "seedType": 1073,
             "name": "Flame Tall-nut",
             "introduce": "<align=justified><size=36><color=black>Flame Tall-nut is a huge fan of the Olympics and passionately insists that Torchwood be chosen as the Olympic torch. Cautious warning to the uninformed though: do not try to eat him. You may find yourself burning up from the spicy heat.</color></size>",
             "info": "<size=36>Zombies will get enflamed when it is bitten.\n\n<color=black>Toughness: </color><color=#8B0000>8000</color>\n<color=black>Special: </color><color=#8B0000>When affected by the Jalapeno, heals 3000 Toughness. Inflicts Enflamed debuff and deals 20 damage to zombies that bite him.</color></size>",
-            "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Jalapeno + Tall-nut</color>"
+            "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Jalapeno > Tall-nut</color>"
         },
         {
             "seedType": 1074,
             "name": "Spike-ice",
             "introduce": "<align=justified><size=36><color=black>After his return from Alaska, Spike-ice couldn't contain his excitement. Eager to freeze the zombies solid, he relished the thought of \"ice\" bursting beneath their feet. He made it a point that everyone use the term \"ice.\" His skin still carried the chill from his Arctic adventure, and his eyes shimmered with the brilliance of unmelting snow.</color></size>",
             "info": "<size=36>Can puncture tires and freeze zombies.\n\n<color=black>Toughness: </color><color=#8B0000>450</color>\n<color=black>Damage: </color><color=#8B0000>40×2/1s</color>\n<color=#0077b6>Cryo System: </color><color=#8B0000>Attacks inflict Chill and add 5 Cryo points.</color>\n<color=black>Special: </color><color=#8B0000>Inherits traits from Spikerock.</color></size>",
-            "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Ice-shroom + Spikerock</color>"
+            "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Ice-shroom > Spikerock</color>"
         },
         {
             "seedType": 1075,
             "name": "Spike-hearth",
             "introduce": "<align=justified><size=36><color=black>Not long ago, Spike-hearth traveled to Mexico and was swept away by the vibrant enthusiasm of the locals, quickly falling in love with tacos. Now, he's pouring all his energy into a taco museum alongside Spike-ice, though Spike-ice doesn't seem to share his enthusiasm.</color></size>",
             "info": "<size=36>Enflame zombies that step on it and also puncture vehicles.\n\n<color=black>Toughness: </color><color=#8B0000>450</color>\n<color=black>Damage: </color><color=#8B0000>40×2/1s</color>\n<color=#720026>Enflamed Debuff: </color><color=#8B0000>Applies the Enflamed Debuff when attacking zombies.</color>\n<color=black>Special: </color><color=#8B0000>Inherits traits from Spikerock.</color></size>",
-            "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Jalapeno + Spikerock</color>"
+            "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Jalapeno > Spikerock</color>"
         },
         {
             "seedType": 1076,
@@ -1678,14 +1678,14 @@
             "name": "Pyro Cannon",
             "introduce": "<align=justified><size=36><color=black>Pyro Cannon has a booming popcorn business. The fiery aroma sends zombies running, adding a sizzle to any event. It's even considering a hot pot session with Jalapeno soon.</color>",
             "info": "<size=36>Use manually to fire an explosive, high-damage flaming projectile that scorches zombies and infuses nearby plants with Jalapeno.\n\n<color=black>Damage: </color><color=#8B0000>3240 (Cremator)</color>\n<color=black>Special: </color><color=#8B0000>Inflicts Enflamed debuff and then does damage, and infuses plants in its blast radius with Jalapeno.</color>",
-            "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Cob Cannon + Jalapeno</color>"
+            "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Jalapeno > Cob Cannon</color>"
         },
         {
             "seedType": 1123,
             "name": "Cryo Cannon",
             "introduce": "<align=justified><size=36><color=black>Despite his icy exterior, Cryo Cannon is warmhearted, especially to friends. In his free time, he enjoys skiing, drumming, and exploring caves. His best party trick? A cold joke to \"chill\" the crowd.</color>",
             "info": "<size=36>Use manually to fire a freezing projectile that damages zombies and infuses plants with Ice-shroom.\n\n<color=black>Damage: </color><color=#8B0000>3240 (Cremator)</color>\n<color=black>Special: </color><color=#8B0000>Inflicts Chill and infuses plants in its blast radius with Ice-shroom (except Flower Pots).</color>",
-            "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Cob Cannon + Ice-shroom</color>"
+            "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Ice-shroom > Cob Cannon</color>"
         },
         {
             "seedType": 1124,
@@ -2083,7 +2083,7 @@
             "seedType": 1180,
             "name": "Frostweed",
             "introduce": "<align=justified><size=36><color=black>Breaking news from the first Plants vs. Zombies Hockey Tournament! Frostweed skated to victory, leaving the Bobsled Zombies scrambling. But now, they're calling foul! \"I did nothing wrong,\" Frostweed insists, adjusting their icy spikes. \"And these springs? Just a little pre-game safety gear.\"",
-            "info": "<size=36>Frostweed can slow down zombies that walk on it.\n\n<color=black>Damage: </color><color=#8B0000>40/1 Second</color>\n<color=#0077b6>Cryo System: </color><color=#8B0000>Each hit inflicts Chill and adds 10 Cryo points.</color>",
+            "info": "<size=36>Frostweed can slow down zombies that walk on it.\n\n<color=black>Damage: </color><color=#8B0000>40/1 Second</color>\n<color=black>Special: </color><color=#8B0000>Frostweeds can be upgraded to Spike-ices using a Fertilizer.</color>\n<color=#0077b6>Cryo System: </color><color=#8B0000>Each hit inflicts Chill and adds 10 Cryo points.</color>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Spikeweed + Ice-shroom</color>"
         },
         {
@@ -2174,7 +2174,7 @@
             "seedType": 1193,
             "name": "Flame-shroom",
             "introduce": "<align=justified><size=36><color=black>As the head chef of the restaurant, performing a fiery dragon dance on the teppan is a must-have show for every dinner. But every time, at least one guest ends up getting burned. Word has it that to make up for it, the Flame-shroom gave them an encore performance.</color>",
-            "info": "<size=36>Flamethrower incarnated.\n\n<color=black>Damage: </color><color=#8B0000>33/1.5s (Piercing)</color>\n<color=black>Special: </color><color=#8B0000>Deals fire damage and inflicts Enflamed debuff.</color>",
+            "info": "<size=36>Flamethrower incarnated.\n\n<color=black>Damage: </color><color=#8B0000>33/1.5s (Piercing)</color>\n<color=black>Special: </color><color=#8B0000>Deals fire damage and inflicts Enflamed debuff. Flame-shrooms can be upgraded to Flame Gloom-shrooms using a Fertilizer.</color>",
             "cost": "<size=36>\nFusion Formula: Fume-shroom + Jalapeno<color=#8B0000></color>"
         },
         {
@@ -2468,7 +2468,7 @@
             "seedType": 1235,
             "name": "Flame Wall-nut",
             "introduce": "<align=justified><size=36><color=black>\"Always wear a smile\"—that’s rule number one for Flame Wall-nut, the ever-patient restaurant server. Even when half-melted Frost Wall-nut is slipping all over the floor yelling about the lack of a 'Wet Floor' sign, he just keeps smiling. And sizzling.</color>",
-            "info": "<size=36>Spicy-flavored nut that scorches biters.\n\n<color=black>Toughness: </color><color=#8B0000>4000</color>\n<color=black>Special: </color><color=#8B0000>Deals 20 damage to biters and inflicts Enflamed debuff.</color>",
+            "info": "<size=36>Spicy-flavored nut that scorches biters.\n\n<color=black>Toughness: </color><color=#8B0000>4000</color>\n<color=black>Special: </color><color=#8B0000>Deals 20 damage to biters and inflicts Enflamed debuff. Flame Wall-nuts can be upgraded to Flame Tall-nuts using a Fertilizer.</color>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Wall-nut + Jalapeno</color>"
         },
         {
@@ -2909,15 +2909,22 @@
             "seedType": 1298,
             "name": "Rush-shroom",
             "introduce": "<align=justified><size=36><color=black></color>",
-            "info": "<size=36>\n<color=black>Damage: </color><color=#8B0000>20/1.5s</color>\n\n<color=black>Special: </color><color=#8B0000>Has full-lane range. While emitting fumes, boosts straight-shooting projectiles ahead, increasing their speed and +1 damage every 0.02s. The boost is stackable.</color>",
+            "info": "<size=36>\n\n<color=black>Damage: </color><color=#8B0000>20/1.5s</color>\n<color=black>Special: </color><color=#8B0000>Has full-lane range. While emitting fumes, boosts straight-shooting projectiles ahead, increasing their speed and +1 damage every 0.02s. The boost is stackable.</color>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Peashooter + Fume-shroom</color>"
         },
         {
             "seedType": 1299,
             "name": "Nut-shell",
             "introduce": "<align=justified><size=36><color=black></color>",
-            "info": "<size=36>\n<color=black>Toughness: </color><color=#8B0000>8000</color>\n\n<color=black>Special: </color><color=#8B0000>Spawns a Mini-nut every 50s. When the Mini-nut is fully grown, it is consumed to heal a nearby damaged Pumpkin-type plant for up to 1000 HP or to produce a Wall-nut seed packet if no such plant exists. A single Nut-shell can produce at most 3 Wall-nut seed packets.</color>",
+            "info": "<size=36>\n\n<color=black>Toughness: </color><color=#8B0000>8000</color>\n<color=black>Special: </color><color=#8B0000>Spawns a Mini-nut every 50s. When the Mini-nut is fully grown, it is consumed to heal a nearby damaged Pumpkin-type plant for up to 1000 HP or to produce a Wall-nut seed packet if no such plant exists. A single Nut-shell can produce at most 3 Wall-nut seed packets.</color>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Wall-nut > Pumpkin</color>"
+        },
+        {
+            "seedType": 1300,
+            "name": "Brood-shroom",
+            "introduce": "<align=justified><size=36><color=black></color>",
+            "info": "<size=36>\n\n<color=black>Toughness: </color><color=#8B0000>1000</color>\n<color=black>Damage: </color><color=#8B0000>20×4/1.9s</color>\n<color=black>Special: </color><color=#8B0000>Emits 8 extra spores each attack.</color>",
+            "cost": "<size=36>Fusion Formula: <color=#8B0000>Puff-shroom ∞ [Gloom-shroom] ∞ Puff-shroom < Jicamagic (Place On Middle)</color>"
         },
         {
             "seedType": 350,
