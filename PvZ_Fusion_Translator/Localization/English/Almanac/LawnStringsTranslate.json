@@ -515,7 +515,7 @@
             "seedType": 910,
             "name": "Shroomageddon",
             "introduce": "<align=justified><size=36><color=black>\"Nuclear deterrence is beneficial. Someday, the zombies will stop their assaults out of fear of my formidable self-detonation,\" Shroomageddon asserted with confidence. Yet, it was evident that Shroomageddon failed to understand that zombies wouldn't initiate a Cold War just because they were hit with cold air.</color></size>",
-            "info": "<size=36>Sprays deadly fumes all around, bringing ultimate destruction. Beware!\n\n<color=#4A2900>Usage Condition: Odyssey Mode | Unlockable</color>\n<color=black>Damage: </color><color=#8B0000>(100+100×8)×4/1.9s</color>\n<color=black>Damage Range: </color><color=#8B0000>5×5</color>\n<color=black>Detection Range: </color><color=#8B0000>5×3</color>\n<color=#0077b6>Cryo System: </color><color=#8B0000>Each attack adds 5 Cryo points.</color>\n<color=black>Special: </color><color=#8B0000>Sprays spores, which then explode (both deal penetrating damage). An explosion occurs upon death, dealing 1800 cremator damage and freezing all zombies on the screen.</color>\n<color=black>Odyssey Modifiers:\n</color><color=#8B0000>1. Shroomageddon damage on death → 1M, Atomheart Plantern Lumos addition on death ×3\n2. Now absorbs explosion damage. When 10k damage is absorbed, a Doom-shroom explosion is released</color></size>",
+            "info": "<size=36>Sprays deadly fumes all around, bringing ultimate destruction. Beware!\n\n<color=#4A2900>Usage Condition: Odyssey Mode | Unlockable</color>\n<color=black>Damage: </color><color=#8B0000>(100+100×8)×4/1.9s</color>\n<color=black>Damage Range: </color><color=#8B0000>5×5</color>\n<color=black>Detection Range: </color><color=#8B0000>5×3</color>\n<color=#0077b6>Cryo System: </color><color=#8B0000>Each attack adds 5 Cryo points.</color>\n<color=black>Special: </color><color=#8B0000>Sprays spores, which then explode (both deal penetrating damage). An explosion occurs upon death, dealing 1800 cremator damage and freezing all zombies on the screen.</color>\n<color=black>Odyssey Modifiers:\n</color><color=#8B0000>1. Shroomageddon damage on death → 1M, Atomheart Plantern Lumos addition on death ×3\n2. Now immune to Cherry and Jack-in-the-Box explosions. After resisting 10k points of explosive damage, triggers a Doom-shroom explosion</color></size>",
             "cost": "<size=36>Fusion Formula: <color=#8B0000>Doomspike-shroom + Frost Gloom-shroom</color>"
         },
         {
@@ -1026,7 +1026,7 @@
             "seedType": 1029,
             "name": "Buck-nut",
             "introduce": "<align=justified><size=36><color=black>Plants hold conflicting feelings about Buck-nut. As an exemplary soldier, he executes orders with unwavering precision, yet his cold demeanor leaves much to be desired. The rust at the corners of his mouth hints at a storied past. In the quiet moments, however, Buck-nut wrestles with an unspoken worry: \"How do I prevent rust in a humid garden?\"</color></size>",
-            "info": "<size=36>Blocks the zombies' advance with a wall of iron.\n\n<color=black>Toughness: </color><color=#8B0000>8000</color>\n<color=black>Special: </color><color=#8B0000>Metal plant. Can be fed corresponding metal objects to restore 500 Toughness. This also applies to other Metal Plants. All metal plants receive half the damage from explosive cherries.</color></size>",
+            "info": "<size=36>Blocks the zombies' advance with a wall of iron.\n\n<color=black>Toughness: </color><color=#8B0000>8000</color>\n<color=black>Special: </color><color=#8B0000>Metal plant. Can be fed corresponding metal objects to restore 500 Toughness. This also applies to other Metal Plants. All Bucket plants receive half the damage from explosive cherries.</color></size>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Bucket > Wall-nut</color>"
         },
         {
@@ -1971,7 +1971,7 @@
             "seedType": 1164,
             "name": "Cherry Pumpkin",
             "introduce": "<align=justified><size=36><color=black>Cherry Pumpkin is a distant relative of Cherry-nut, but every time Cherry Pumpkin meets Cherry-nut, he is always late. \"I want to come early too,\" Cherry Pumpkin says, \"but I can't resist jumping to anything red.\"</color>",
-            "info": "<size=36>A pumpkin that cannot be exploded by cherries!\n\n<color=black>Toughness: </color><color=#8B0000>4000</color>\n<color=black>Special: </color><color=#8B0000>Immune to explosive cherries and heals 200 Toughness instead.</color>",
+            "info": "<size=36>A pumpkin that cannot be exploded by cherries!\n\n<color=black>Toughness: </color><color=#8B0000>4000</color>\n<color=black>Special: </color><color=#8B0000>Absorbs explosive cherries and heals 200 Toughness instead.</color>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Cherry Bomb > Pumpkin</color>"
         },
         {
@@ -1984,8 +1984,8 @@
         {
             "seedType": 1166,
             "name": "Grenadier Magnet",
-            "introduce": "<align=justified><size=36><color=black>\"Selling well is also a skill.\" said the Grenadier Magnet. Only Magnet-shrooms can turn hate into love. He once hated cherries the most. Actually, he still does, but perhaps he has discovered a business opportunity?</color>",
-            "info": "<size=36>Transmutes metal objects into explosive cherries!\n\n<color=black>Damage: </color><color=#8B0000>300/3s</color>\n<color=black>Special: </color><color=#8B0000>Attracts metal objects and turns them into explosive cherries. Each object can be turned 5 times before consumption. Metal objects can be actively given to the Grenadier Magnet for it to initiate an attack.</color>",
+            "introduce": "<align=justified><size=36><color=black>\"Selling well is also a skill.\" said Grenadier Magnet. Only Magnet-shrooms can turn hate into love. He once hated cherries the most. Actually, he still does, but perhaps he has discovered a business opportunity?</color>",
+            "info": "<size=36>Transmutes metal objects into explosives!\n\n<color=black>Damage: </color><color=#8B0000>300/3s</color>\n<color=black>Special: </color><color=#8B0000>Attracts metal objects and turns them into explosives. Each object can be turned 5 times before consumption. Metal objects can be actively given to the Grenadier Magnet for it to initiate an attack.</color>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Magnet-shroom + Cherry Bomb</color>"
         },
         {

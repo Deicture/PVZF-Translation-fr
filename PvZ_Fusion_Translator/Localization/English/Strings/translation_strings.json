@@ -469,7 +469,7 @@
   "流星雨：降低究极杨桃的攻击间隔至0.5秒": "Magnetar: Attack Interval → 0.5 Seconds",
   "众星之力：究极杨桃的子弹基础攻击力翻倍并且攻击力不再有上限": "Magnetar: Base damage is doubled and limiter (120) is removed",
   "万籁俱寂：究极忧郁菇亡语伤害增加到1000000": "Shroomageddon: Shroomageddon damage on death → 1M, Atomheart Plantern Lumos addition on death ×3",
-  "以爆制爆：究极忧郁菇免疫爆炸，每吸收10000点爆炸伤害将释放毁灭菇爆炸": "Shroomageddon: Now absorbs explosion damage. When 10,000 damage is absorbed, a Doom-shroom explosion is released",
+  "以爆制爆：究极忧郁菇免疫爆炸，每吸收10000点爆炸伤害将释放毁灭菇爆炸": "Shroomageddon: Now immune to Cherry and Jack-in-the-Box explosions. After resisting 10k points of explosive damage, triggers a Doom-shroom explosion",
   "见者有份：究极投手散射概率提升至100%": "Wither-pult: Spread-fire is now a 100% chance",
   "瓜熟蒂落：究极投手附带瓜盆效果": "Wither-pult: Melon Pot's traits are now inherited",
   "中心爆破：究极大炮的中心点爆炸伤害x4": "Cob-literator: Main Blast damage ×4",
