@@ -557,7 +557,7 @@
             "seedType": 916,
             "name": "Midas Umbrella",
             "introduce": "<align=justified><size=36><color=black>From its appearance, you can tell that Midas Umbrella has a knack for business. \"That's right, my hat of emerald was a trade item I exchanged with someone from a place full of blocks...\"</color>",
-            "info": "<size=36>A combination of Alchemist Umbrella and Umbrella Kale.\n\n<color=#4A2900>Usage Condition: Odyssey Mode | Initial Selection</color>\n<color=black>Toughness: </color><color=#8B0000>4000</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Has the traits of both its ingredients.\n<color=black>•</color> Receives 75% less damage from Tridents.\n<color=black>•</color> Bouncing projectiles now increases their damage by 100%.\n<color=black>•</color> Also allows projectiles to hit zombies in the two adjacent lanes, above and below.\n<color=black>•</color> Its Coffee Bean ultimate can instantly kill zombies below 50% Toughness.</color>\n<color=black>Odyssey Modifiers:<color=#8B0000>\n1. Bounced projectiles additional Damage 100% → 300%\n2. Activates ultimate automatically free of charge if zombies are near, 7.5s cooldown | Aegis Umbrella Subspecies Unlocked</color>",
+            "info": "<size=36>A combination of Alchemist Umbrella and Umbrella Kale.\n\n<color=#4A2900>Usage Condition: Odyssey Mode | Initial Selection</color>\n<color=black>Toughness: </color><color=#8B0000>4000</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Has the traits of both its ingredients.\n<color=black>•</color> Receives 75% less damage from Tridents.\n<color=black>•</color> Bouncing projectiles now increases their damage by 100%.\n<color=black>•</color> Also allows projectiles to hit zombies in the two adjacent lanes.\n<color=black>•</color> Its Coffee Bean ultimate can instantly kill zombies below 50% Toughness.</color>\n<color=black>Odyssey Modifiers:<color=#8B0000>\n1. Bounced projectiles additional Damage 100% → 300%\n2. Activates ultimate automatically free of charge if zombies are near, 7.5s cooldown | Aegis Umbrella Subspecies Unlocked</color>",
             "cost": "<size=36>Fusion Formula: <color=#8B0000>Alchemist Umbrella + Umbrella Kale</color>"
         },
         {
@@ -2209,7 +2209,7 @@
             "seedType": 1198,
             "name": "Spicy Starfruit",
             "introduce": "<align=justified><size=36><color=black>Spicy Starfruit silently glares, while the other starfruits keep their distance: \"He looks too scary.\" But Spicy Starfruit doesn't care; he is focused on creating an ultimate piece of art. He firmly believes that when he finally blooms, everyone will take notice.</color>",
-            "info": "<size=36>Explodes and releases high-damage spicy stars.\n\n<color=black>Damage: </color><color=#8B0000>600 × 25</color>\n<color=black>Special: </color><color=#8B0000>Does not trigger the Jalapeno effect Immediately when fused. Explodes instead 1 second after fusion, releasing Jalapeno effect and exploding into 25 spicy stars.</color>",
+            "info": "<size=36>Explodes and releases high-damage spicy stars.\n\n<color=black>Damage: </color><color=#8B0000>100 × 25</color>\n<color=black>Special: </color><color=#8B0000>Does not trigger the Jalapeno effect Immediately when fused. Explodes instead 1 second after fusion, releasing Jalapeno effect and exploding into 25 spicy stars.</color>",
             "cost": "<size=36>\nFusion Formula: <color=#8B0000>Jalapeno + Starfruit</color>"
         },
         {
@@ -2925,6 +2925,13 @@
             "introduce": "<align=justified><size=36><color=black></color>",
             "info": "<size=36>\n\n<color=black>Toughness: </color><color=#8B0000>1000</color>\n<color=black>Damage: </color><color=#8B0000>20×4/1.9s</color>\n<color=black>Special: </color><color=#8B0000>Emits 8 extra spores each attack.</color>",
             "cost": "<size=36>Fusion Formula: <color=#8B0000>Puff-shroom ∞ [Gloom-shroom] ∞ Puff-shroom < Jicamagic (Place On Middle)</color>"
+        },
+        {
+            "seedType": 1301,
+            "name": "Shroombrella",
+            "introduce": "<align=justified><size=36><color=black></color>",
+            "info": "<size=36>\n\n<color=black>Toughness: </color><color=#8B0000>300</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Repels the first zombie on contact, then vanishes.\n<color=black>•</color> Against shrunken zombies, repels them and loses 50 HP instead.\n<color=black>•</color> Spawns a new Shroombrella in his tile every 30s.</color>",
+            "cost": "<size=36>Fusion Formula: <color=#8B0000>Umbrella Leaf > Puff-shroom</color>"
         },
         {
             "seedType": 350,
