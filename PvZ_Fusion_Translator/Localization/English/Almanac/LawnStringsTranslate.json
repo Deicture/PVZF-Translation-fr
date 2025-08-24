@@ -2928,10 +2928,24 @@
         },
         {
             "seedType": 1301,
-            "name": "Shroombrella",
+            "name": "Umbrella Cap",
             "introduce": "<align=justified><size=36><color=black></color>",
-            "info": "<size=36>\n\n<color=black>Toughness: </color><color=#8B0000>300</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Repels the first zombie on contact, then vanishes.\n<color=black>•</color> Against shrunken zombies, repels them and loses 50 HP instead.\n<color=black>•</color> Spawns a new Shroombrella in his tile every 30s.</color>",
+            "info": "<size=36>\n\n<color=black>Toughness: </color><color=#8B0000>300</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Repels the first zombie on contact, then vanishes.\n<color=black>•</color> Against shrunken zombies, repels them and loses 50 HP instead.\n<color=black>•</color> Spawns a new Umbrella Cap in his tile every 30s.</color>",
             "cost": "<size=36>Fusion Formula: <color=#8B0000>Umbrella Leaf > Puff-shroom</color>"
+        },
+        {
+            "seedType": 1302,
+            "name": "Sardine-shroom",
+            "introduce": "<align=justified><size=36><color=black></color>",
+            "info": "<size=36>\n\n<color=black>Damage: </color><color=#8B0000>20/1.5s</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Starts out as a school of 2.\n<color=black>•</color> Grows into a school of 3 after 15s.\n<color=black>•</color> Afterwards, feeds the plant directly in front with a Sea-shroom every 15s. If unsuccessful, drops a Sea-shroom seed packet.</color>",
+            "cost": "<size=36>Fusion Formula: <color=#8B0000>Puff-shroom > Sea-shroom</color>"
+        },
+        {
+            "seedType": 1303,
+            "name": "Orca-shroom",
+            "introduce": "<align=justified><size=36><color=black></color>",
+            "info": "<size=36>\n\n<color=black>Damage: </color><color=#8B0000>600</color>\n<color=black>Special: </color><color=#8B0000>Launches a Doom spore that deals 600 damage in a small radius after consuming a Sea-shroom.</color>",
+            "cost": "<size=36>Fusion Formula: <color=#8B0000>Doom-shroom > Sea-shroom</color>"
         },
         {
             "seedType": 350,
