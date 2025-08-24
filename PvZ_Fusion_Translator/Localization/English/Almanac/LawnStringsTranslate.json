@@ -2935,7 +2935,7 @@
         },
         {
             "seedType": 1302,
-            "name": "Sardine-shroom",
+            "name": "Minnow-shroom",
             "introduce": "<align=justified><size=36><color=black></color>",
             "info": "<size=36>\n\n<color=black>Damage: </color><color=#8B0000>20/1.5s</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Starts out as a school of 2.\n<color=black>•</color> Grows into a school of 3 after 15s.\n<color=black>•</color> Afterwards, feeds the plant directly in front with a Sea-shroom every 15s. If unsuccessful, drops a Sea-shroom seed packet.</color>",
             "cost": "<size=36>Fusion Formula: <color=#8B0000>Puff-shroom > Sea-shroom</color>"
