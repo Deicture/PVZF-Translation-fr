@@ -2944,7 +2944,7 @@
             "seedType": 1303,
             "name": "Orca-shroom",
             "introduce": "<align=justified><size=36><color=black></color>",
-            "info": "<size=36>\n\n<color=black>Damage: </color><color=#8B0000>600</color>\n<color=black>Special: </color><color=#8B0000>Launches a Doom spore that deals 600 damage in a small radius after consuming a Sea-shroom.</color>",
+            "info": "<size=36>\n\n<color=black>Damage: </color><color=#8B0000>600</color>\n<color=black>Special: </color><color=#8B0000>Launches a Doom spore that deals 600 damage in a moderate radius after consuming a Sea-shroom. Feeding has no CD, but each shot takes 1.5s to fire and only a max of 2 shots can register at the same time.</color>",
             "cost": "<size=36>Fusion Formula: <color=#8B0000>Doom-shroom > Sea-shroom</color>"
         },
         {
