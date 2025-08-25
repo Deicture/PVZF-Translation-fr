@@ -20,7 +20,7 @@ The download links for the Multi-language Mod and the translation files of the M
  PvZ Fusion Version  |  Platform  |  Download Links 
 ------ | ------ | ------
 **\_Redist (Install these if you have problem launching the game)** | PC | [MEGA](https://mega.nz/file/gzU2QTIY#R71lWGYvXCxG4WBtzLyCRkkHV-WGqKB84rXXR4ikOSg)
-**Multi-Language 2.8.2 Version 1** | PC | [Github Release](https://github.com/Teyliu/PVZF-Translation/releases/tag/2.8.2_v1)
+**Multi-Language 2.8.2 Version 2** | PC | [Github Release](https://github.com/Teyliu/PVZF-Translation/releases)
 **Multi-Language 2.7 Version 2** | PC | [MEGA](https://mega.nz/file/svtnQBKY#Ldl0K8N6V6Yei7VMg8nYFFo9gAlg2MB_xVvYNTF4q5c) [Google Drive](https://drive.google.com/file/d/1lD234O36m8OgdqxKlTm3HdCnn7v3mMe5/view?usp=sharing)
 **English 2.7 by Nvdtn19** | Android |  [Google Drive](https://drive.google.com/drive/folders/13-zefuw1geoi_Ky7919GQ3Can65guXrJ) [Archive](https://archive.org/download/pvz-fusion-fanmade-android-english-version-by-nvdtn19/PvZ%20Fusion%20Fanmade%20Android%20English%20version%20by%20Nvdtn19/)
 Chinese 2.8.2 | PC | [MEGA](https://mega.nz/file/yFoFkJpb#I_bM6OW3Mvflea7vx-qP5fFFGRYbXebpupkRUacQGlM) [Google Drive](https://drive.google.com/file/d/1G5xq0mIGaYj3W8Mqku2d3j--Au-qdkp8/view?usp=sharing)
@@ -30,8 +30,7 @@ Chinese 2.7 | Android | [MEGA](https://mega.nz/file/828HwBZD#JPDHvVa8gybSoIF2MFj
 > Looking to play the Multi-Language on Linux? [Click Here](https://discord.com/channels/1320410104587227147/1320555521744437258)
 
 > The Multi-Language version supports the following languages: **English**, **French**, **Italian**, **German**, **Spanish**, **Portuguese**, **Vietnamese**, **Javanese**, **Indonesian**, **Russian**, **Japanese**, and **Korean**. Other contained languages are empty for the moment.
-	Up-to-date - English, Spanish
-	Last Updated 2.7 - Vietnamese, Japanese
+	Up-to-date - English, Spanish, Vietnamese, Japanese
 	Last Updated 2.6.1 - Indonesian, Russian 
 	Last Updated 2.5.1 - Portuguese, Javanese
 	Last Updated 2.3.1 - Korean, French
