@@ -2948,7 +2948,7 @@
     },
     {
       "seedType": 1905,
-      "name": "Cá Hồi (990)",
+      "name": "Cá Hồi (1905)",
       "introduce": "<align=justified><size=36><color=#3D1400>Cá Hồi.</color>",
       "info": "<size=36>Cá Hồi từ Minecraft.\n\n<color=blue>Từ Cá Hồi\n<color=#4A2900>Điều Kiện Sử Dụng: Cá Hồi\n<color=#3D1400>Máu:</color><color=red> Vô hạn</color>\n<color=#3D1400>Khả Năng:</color><color=red>\n<color=black>•</color> Sau khi trồng cá hồi, toàn bộ cây khi đặt ra sẽ có máu là vô hạn.\n<color=black>•</color> Bạn đã thắng.</color></color></color>",
       "cost": "\n<size=36><color=#3D1400>Giá:</color><color=red> 127</color>"
@@ -3017,11 +3017,25 @@
       "cost": "\n<size=36><color=#3D1400>Công Thức: </color><color=red>Phi Long Thăng Thiên + Thuỷ Quái Cơ Khí"
      },
      {
+      "seedType": 1919,
+      "name": "??? Óc Chó (1919)",
+      "introduce": "<align=justified><size=36><color=#3D1400>01000100 01100001 01101110 01101110 01101001 01101100 01101001 01110011 01110100 01101001 01100011 00100000 01000100 01100001 01110111 01110011 01101111 01101110",
+      "info": "<size=36>Không thể xác định.\n\n<color=blue>Từ MC屑鱼 Mod</color>\n<color=#3D1400>Máu: </color><color=red>4000</color>\n<color=#3D1400>Khả Năng: </color><color=red>\n<color=black>•</color> Miễn nhiễm với mọi hiệu ứng bất lợi và nghiền nát, sát thương nhận vào là ngẫu nhiên từ 1~50.\n<color=black>•</color> Zombie tấn công nó sẽ bị dính 1 trong những hiệu ứng sau: Quá Nhiệt, Làm Chậm trong 10 giây, Độc trong 10 giây, nổ Nguyên Tử ko để lại hố, Than Hồng, Tiền Thưởng. \n<color=black>•</color> Có tỉ lệ 20% tiêu diệt Zombie đang ăn nó ngay lập tức.</color>",
+      "cost": "\n<size=36><color=#3D1400>Giá: <color=red>750\n<color=#3D1400>Thời gian chờ: <color=red>60 giây</color>"
+     },
+     {
       "seedType": 1918,
       "name": "Bão Tố Tỏi Độc (1918)",
       "introduce": "<align=justified><size=36><color=#3D1400>'Đội Bão Tố, chúng tôi không thể chấp nhận việc rút lui, tiêu diệt bọn chúng ngay.' - Bộ Chỉ Huy. 'Tôi đoán anh sẽ nói thế mà, việc này sẽ tốn thêm 1 chút chi phí đấy' - Bão Tố Tỏi Độc",
       "info": "<size=36>Cơn mưa đạn tỏi vào mặt kẻ thù.\n\n<color=blue>Từ MC屑鱼 Mod</color>\n<color=#4A2900>Điều Kiện Sử Dụng: Chế Độ Du Lịch\n<color=#3D1400>Sát Thương: </color><color=red>40*6/1.5 giây</color>\n<color=#3D1400>Khả Năng: </color><color=red>\n<color=black>•</color> Đặt 1 điểm Stack độc cho mỗi viên đạn, có tỉ lệ 10% kích hoạt hiệu ứng Bom Tỏi lên Zomebie đã bị nhiễm độc tỏi.\n<color=black>•</color> Gây thêm 20 sát thương cho mỗi Stack độc của Zombie.\n<color=black>•</color> Hiệu ứng Bom Tỏi: Gây sát thương lan bằng (Stack Độc x 40) của Zombie đó trong phạm vi 3x3 ô.\n<color=black>•</color> Mỗi lần bắn sẽ có tỉ lệ 3% kích hoạt Tuyệt Kĩ.\n<color=#3D1400>Tuyệt Kĩ:</color><color=red> Bắn 3 đạn tỏi mỗi 0.02 giây, kéo dài trong 5 giây.\n<color=#3D1400>Buff Du Lịch: \n<color=#3D1400>Toán Độc Sậu Phát:</color><color=red> Sát thương tăng lên từ Stack độc x4, xát suất kích hoạt hiệu ứng Bom Tỏi tăng lên 25%, sát thương từ hiệu ứng Bom Tỏi x10.</color>",
       "cost": "\n<size=36><color=#3D1400>Công Thức: </color><color=red>Tỏi + Đậu Bão Tố"
+     },
+     {
+      "seedType": 1917,
+      "name": "Nấm Mèo Nhút Nhát (1917)",
+      "introduce": "<align=justified><size=36><color=#3D1400>Mèo cute phô mai que, và hôm nay cắt pate nhé.",
+      "info": "<size=36>Càng nhiều Zombie sát thương càng cao.\n\n<color=blue>Từ MC屑鱼 Mod</color>\n<color=#3D1400>Sát Thương: </color><color=red>300/1 giây</color>\n<color=#3D1400>Khả Năng: </color><color=red>\n<color=black>•</color> Có đặc tính của Nấm Nhút Nhát\n<color=black>•</color> Cho mỗi Zombie xuất hiện trên sân, tăng vĩnh viễn 10 sát thương.</color>",
+      "cost": "<size=36><color=#3D1400>Giá: <color=red>250\n<color=#3D1400>Thời gian chờ: <color=red>15 giây</color>"
      },
      {
       "seedType": 1920,
@@ -3037,8 +3051,27 @@
       "info": "<size=36>Những cơn lốc bằng lửa bùng cháy.\n\n<color=#4A2900>Điều Kiện Sử Dụng: Chế Độ Du Lịch\n<color=#3D1400>Sát Thương: </color><color=red>80/100/120*6*3/1.5 giây</color></color>\n<color=#3D1400>Khả Năng: </color><color=red>\n<color=black>•</color> Tầm bắn 3 hàng.\n<color=black>•</color> Mỗi lần bắn ra 3 đậu lửa cấp độ ngẫu nhiên với sát thương 80/100/120, có thể sử dụng các gốc lửa cấp cao hơn để đốt đạn lửa cấp thấp. \n<color=black>•</color> Mỗi lần bắn sẽ có tỉ lệ 6% kích hoạt Tuyệt Kĩ.\n<color=#3D1400>Tuyệt Kĩ:</color><color=red> Mỗi 0.02 giây bắn 1 đạn đậu lửa cấp độ ngẫu nhiên cho từng hàng. Kéo dài trong 5 giây.</color></color>",
       "cost": "\n<size=36><color=#3D1400>Công Thức: <color=red>Đậu Bão Tố 3 Đầu + Ớt</color>"
     },
-
-
+    {
+      "seedType": 1924,
+      "name": "Bão Tố Tro Tàn (1924)",
+      "introduce": "<align=justified><size=36><color=#3D1400>Xem ra bọn Zombie biết kế hoạch của chúng ta, tên tiến sĩ Zomboss đã bắt đầu cuộc tấn công. Mục tiêu của chúng ta không phải để chiến thắng cuộc chiến, mà là câu đủ thời gian để hoàn thiện thứ này.</color>",
+      "info": "<size=36>Sự phục sinh sẽ sớm xuất hiện.\n\n<color=#4A2900>Điều Kiện Sử Dụng: Chế Độ Du Lịch\n<color=#3D1400>Khả Năng: </color><color=red>Mất đi khả năng tấn công.</color>",
+      "cost": "\n<size=36><color=#3D1400>Công Thức: <color=red>Đậu Bão Tố 3 Đầu Lửa + Ớt hoặc Đậu Tro Tàn + Đậu Bão Tố 3 Đầu</color>"
+    },
+    {
+      "seedType": 1923,
+      "name": "Bão Tố Phượng Hoàng (1923)",
+      "introduce": "<align=justified><size=36><color=#3D1400>Hỡi Neighborville, hỡi đất mẹ, chúng con đã trở về để tiêu diệt bọn phản trắc này. Chúng ta đã thành công phá huỷ Zomboss 9000, nhưng đã phải trả cái giá quá đắt. Kể cả khi phải chịu thiệt hại nặng nề, toàn bộ quân ta đã tiến tới Zombieland.</color></color>",
+      "info": "<size=36>Bùng cháy từ đống tro tàn.\n\n<color=#4A2900>Điều Kiện Sử Dụng: Chế Độ Du Lịch\n<color=#3D1400>Sát Thương: </color><color=red>160*6*3/1.5 giây</color></color>\n<color=#3D1400>Khả Năng: </color><color=red>\n<color=black>•</color> Tầm bắn 3 hàng. Thừa hưởng mọi khả năng và buff của Hoả Bộc Phương Lan.\n<color=black>•</color> Mỗi lần bắn có tỉ lệ 6% kích hoạt Tuyệt Kĩ.\n<color=#3D1400>Tuyệt Kĩ:</color><color=red> Mỗi 0.02 giây bắn 1 đạn lửa cho từng hàng. Kéo dài trong 5 giây.</color></color></color>",
+      "cost": "\n<size=36><color=#3D1400>Công Thức: <color=red>Bão Tố Tro Tàn + Ớt hoặc Đậu Bão Tố + Hoả Bộc Phương Lan</color>"
+    },
+    {
+      "seedType": 1926,
+      "name": "Nấm Bão Tố Lửa (1926)",
+      "introduce": "<align=justified><size=36><color=#3D1400>Zombieland, trái tim của cả đế chế - nơi kết thúc mọi thứ. Tiến sĩ Zomboss đang cố gắng phòng thủ với những gì hắn có, nhưng hắn đang dần thua cuộc chiến này. Bọn Zombie tin rằng pháo đài này không thể bị xuyên thủng. Bất khả xâm phạm. Chứng minh bọn chúng đã sai, chỉ huy, tiêu diệt nơi này, tiêu diệt Zomboss. Cho bọn Zombie thấy những gì chúng ta có thể làm tại Garden Center, Chomp Town. Cho bọn Zombie thấy rằng không thể cướp lấy sự yên bình của chúng ta.",
+      "info": "<size=36>Những ngọn lửa tí hon nhưng thiêu đốt mọi thứ.\n\n<color=blue>Từ MC屑鱼 Mod</color>\n<color=#4A2900>Điều Kiện Sử Dụng: Chế Độ Du Lịch\n<color=#3D1400>Sát Thương: </color><color=red>60*6/1.5 giây</color>\n<color=#3D1400>Khả Năng: </color><color=red>\n<color=black>•</color> Bắn 6 đạn đậu lửa vào Zombie phía trước. \n<color=black>•</color> Mỗi lần bắn sẽ có tỉ lệ 2% kích hoạt Tuyệt Kĩ.\n<color=#3D1400>Tuyệt Kĩ:</color><color=red> Bắn 3 đạn tia băng mỗi 0.02 giây, kéo dài trong 5 giây.</color>",
+      "cost": "\n<size=36><color=#3D1400>Công Thức: </color><color=red>Nấm Lùn + Đậu Bão Tố Lửa"
+     },
 
 
 
@@ -3277,14 +3310,20 @@
       "seedType": 747,
       "name": "Mèo Cải (747)",
       "introduce": "<align=justified><size=36><color=#3D1400>“Cái này, tôi không cần nữa đâu.”- Mèo Cải rất hay nói câu này – nhưng thật ra chỉ là cái cớ vì ba lô của cậu ta quá nhỏ mà thôi.</color>",
-      "info": "<size=36>Một trong những tester bên PvZ Fusion\n\n<color=blue>Từ PvZ Fusion Reimagined Plants Mod\n<color=#3D1400>Sát Thương: </color><color=red>300*6/giây\n<color=#3D1400>Máu: </color><color=red>8000</color>\n<color=#3D1400>Khả Năng:</color><color=red>\n<color=black>•</color> Ban đầu khi mới trồng xuống sẽ không gây sát thương, thay vào đó phải nhận sát thương thì các lần tấn công tiếp theo mới gây sát thương.\n<color=black>•</color> Mỗi lần nhận sát thương thì sẽ tích trữ năng lượng.\n<color=black>•</color> Không thể bị đóng băng, câm lặng, nghiền nát. Nếu bị nghiền nát thì chỉ nhận 500 sát thương.\n<color=black>•</color> Nếu máu dưới 16000, giới hạn sát thương nhận vào là 950, mỗi 3 sát thương tích trữ sẽ chuyển đổi thành 1 lớp <color=blue>Lãng Quên</color>.\n<color=black>•</color> Nếu máu trên 16000, giới hạn sát thương nhận vào là 8000, mỗi 10 sát thương tích trữ sẽ chuyển đổi thành 1 lớp <color=blue>Lãng Quên</color>.\n<color=black>•</color> Cho mỗi lớp <color=blue>Lãng Quên</color>, tăng 1000 máu và vô hiệu hoá đòn tấn công. Tối đa 10 lớp.\n<color=black>•</color> Nếu tích hơn 1 sát thương tích trữ, sát thương sẽ là 200% x mỗi lớp <color=blue>Lãng Quên</color>.\n<color=black>•</color> Nếu tích hơn 200 sát thương tích trữ, sát thương sẽ là 300% x mỗi lớp <color=blue>Lãng Quên</color>.\n<color=black>•</color> Nếu tích hơn 500 sát thương tích trữ, sát thương sẽ là 400% x mỗi lớp <color=blue>Lãng Quên</color>.\n<color=black>•</color> Nếu tích hơn 1000 sát thương tích trữ, sát thương sẽ là 500% x mỗi lớp <color=blue>Lãng Quên</color>.\n<color=black>•</color> Nếu tích hơn 2000 sát thương tích trữ, tính sát thương lại từ đầu.\n<color=#3D1400>Sát thương gây ra như sau: </color>\n<color=black>•</color> Dưới 16000 máu: \nNém Bắp Cải Anh Đào gây sát thương bằng: 300 x hệ số sát thương tích luỹ. Phạm vi nổ là 1.25 ô.\n<color=black>•</color> Trên 16000 máu sẽ ném 2 loại đạn: \nNém Bắp Cải Mèo nổ gây sát thương bằng: 1800 x hệ số sát thương tích luỹ. Phạm vi nổ là 1.5 ô.\nNém Bắp Cải Bí nổ gây sát thương bằng: 300 x hệ số sát thương tích luỹ. Phạm vi nổ là 1.25 ô và sẽ luôn tạo ra bí tí hon. Có tỉ lệ 10% tạo ra Bí lửa tí hon.\n<color=black>•</color> Nếu máu đạt 32000, kích hoạt số lần hiệu ứng Bom Anh Đào tương đương số lớp <color=blue>Lãng Quên</color> đang có. Đồng thời tăng sát thương tích luỹ, tối đa 16 lần.</color>",
+      "info": "<size=36>Một trong những tester bên PvZ Fusion\n\n<color=blue>Từ PvZ Fusion Reimagined Plants Mod\n<color=#3D1400>Sát Thương: </color><color=red>300*6/giây\n<color=#3D1400>Máu: </color><color=red>8000</color>\n<color=#3D1400>Khả Năng:</color><color=red>\n<color=black>•</color> Ban đầu khi mới trồng xuống sẽ không gây sát thương, thay vào đó phải nhận sát thương thì các lần tấn công tiếp theo mới gây sát thương.\n<color=black>•</color> Mỗi lần nhận sát thương thì sẽ tích trữ năng lượng.\n<color=black>•</color> Không thể bị đóng băng, câm lặng, nghiền nát. Nếu bị nghiền nát thì chỉ nhận 500 sát thương.\n<color=black>•</color> Máu tối đa có thể đạt được là 32000.\n<color=black>•</color> Nếu máu dưới 16000, giới hạn sát thương nhận vào là 950, mỗi 3 sát thương tích trữ sẽ chuyển đổi thành 1 lớp <color=blue>Lãng Quên</color>.\n<color=black>•</color> Nếu máu trên 16000, giới hạn sát thương nhận vào là 8000, mỗi 10 sát thương tích trữ sẽ chuyển đổi thành 1 lớp <color=blue>Lãng Quên</color>.\n<color=black>•</color> Cho mỗi lớp <color=blue>Lãng Quên</color>, tăng 1000 máu và vô hiệu hoá đòn tấn công. Tối đa 10 lớp.\n<color=black>•</color> Nếu tích hơn 1 sát thương tích trữ, sát thương sẽ là 200% x mỗi lớp <color=blue>Lãng Quên</color>.\n<color=black>•</color> Nếu tích hơn 200 sát thương tích trữ, sát thương sẽ là 300% x mỗi lớp <color=blue>Lãng Quên</color>.\n<color=black>•</color> Nếu tích hơn 500 sát thương tích trữ, sát thương sẽ là 400% x mỗi lớp <color=blue>Lãng Quên</color>.\n<color=black>•</color> Nếu tích hơn 1000 sát thương tích trữ, sát thương sẽ là 500% x mỗi lớp <color=blue>Lãng Quên</color>.\n<color=black>•</color> Nếu tích hơn 2000 sát thương tích trữ, tính sát thương lại từ đầu.\n<color=#3D1400>Sát thương gây ra như sau: </color>\n<color=black>•</color> Dưới 16000 máu: \nNém Bắp Cải Anh Đào gây sát thương bằng: 300 x hệ số sát thương tích luỹ. Phạm vi nổ là 1.25 ô.\n<color=black>•</color> Trên 16000 máu sẽ ném 2 loại đạn: \nNém Bắp Cải Mèo nổ gây sát thương bằng: 1800 x hệ số sát thương tích luỹ. Phạm vi nổ là 1.5 ô.\nNém Bắp Cải Bí nổ gây sát thương bằng: 300 x hệ số sát thương tích luỹ. Phạm vi nổ là 1.25 ô và sẽ luôn tạo ra bí tí hon. Có tỉ lệ 10% tạo ra Bí lửa tí hon.\n<color=black>•</color> Nếu máu đạt 32000, kích hoạt số lần hiệu ứng Bom Anh Đào tương đương số lớp <color=blue>Lãng Quên</color> đang có. Đồng thời tăng sát thương tích luỹ, tối đa 16 lần.</color>",
       "cost": "\n<size=36><color=#3D1400>Giá:</color><color=red> 500</color>\n<color=#3D1400>Thời Gian Hồi:</color> <color=red>90 giây</color>"
     },
 
 
 
 
-
+    {
+      "seedType": 2308,
+      "name": "Đậu Súng Máy Tinh Nhuệ (2308)",
+      "introduce": "<align=justified><size=36><color=#3D1400>Mod này đầu tay của ai đó, nên nó hơi, không hoàn thiện.</color>",
+      "info": "<size=36>Một trong những biểu tượng của PvZ Hybrid\n\n<color=blue>Từ ??? Mod\n<color=#3D1400>Sát Thương: </color><color=red>20*5*4/giây\n<color=#3D1400>Khả Năng:</color><color=red>Đạn bắn ra sẽ phân tán.</color>",
+      "cost": "<size=36><color=#3D1400>Giá:</color><color=red> 500?</color>\n<color=#3D1400>Thời Gian Hồi:</color> <color=red>30? giây</color>"
+    },
 
 
 
