@@ -788,7 +788,7 @@
             "seedType": 949,
             "name": "Atomheart Plantern",
             "introduce": "<align=justified><size=36><color=black>\"The price of nuclear war isn't something just anyone can bear.\" A survivor of annihilation, Atomheart Plantern now chooses to restrain her core reactor, channeling its power into a glow as bright as the moon—guiding wanderers through the dark. But if anyone threatens the peace she holds dear… she won't hesitate to become the reaper of the battlefield once more.</color>",
-            "info": "<size=36>A Plantern sealed with radioactive frost, releasing cold fusion reactions that become stronger with Lumos.\n\n<color=#4A2900>Usage Condition: Odyssey Mode | Unlockable with Shroomageddon</color>\n<color=black>Damage: </color><color=#8B0000>600/3s</color>\n<color=black>Range: </color><color=#8B0000>3×5, can target air</color>\n<color=#0077b6>Cryo System: </color><color=#8B0000>\n<color=black>•</color> Attacks apply Deep Chill and add 30 Cryo Points.\n<color=#99582a>Lumos System: </color><color=#8B0000> Damage increases by 100% × Lumos level.</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Subspecies of Shroomageddon. Switching form does not trigger on-death effects.\n<color=black>•</color> Inherits traits of Plantern.\n<color=black>•</color> Refracts passing Apeacalypse Railgun beams into 3 beams with the same damage.\n<color=black>•</color> On death, triggers Ice-shroom effect and grants 10 Lumos levels to all plants for 10s.</color>",
+            "info": "<size=36>A Plantern sealed with radioactive frost, releasing cold fusion reactions that become stronger with Lumos.\n\n<color=#4A2900>Usage Condition: Odyssey Mode | Unlockable with Shroomageddon</color>\n<color=black>Damage: </color><color=#8B0000>600/3s</color>\n<color=black>Range: </color><color=#8B0000>3×5, can target air</color>\n<color=#0077b6>Cryo System: </color><color=#8B0000>\n<color=black>•</color> Attacks apply Deep Chill and add 30 Cryo Points.\n<color=#99582a>Lumos System: </color><color=#8B0000> Damage increases by 100% × Lumos level.</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Subspecies of Shroomageddon. Switching form does not trigger on-death effects.\n<color=black>•</color> Inherits traits of Plantern.\n<color=black>•</color> Refracts passing Apeacalypse Railgun beams into 3 beams with the same damage as the initial beam.\n<color=black>•</color> On death, triggers Ice-shroom effect and grants 10 Lumos levels to all plants for 10s.</color>",
             "cost": "\n<size=36>Conversion Formula: <color=#8B0000>Gloom-shroom <-> Plantern</color>"
         },
         {
@@ -822,7 +822,7 @@
         {
             "seedType": 1000,
             "name": "Solar-shooter",
-            "introduce": "<align=justified><size=36><color=black>\"Actually, the Sunflower behind me is my sister,\" Peashooter explained to everyone. \"We've been inseparable since birth. She loves producing Sun, and I destroy zombies on her behalf.\" But everyone knows the truth: the cheerful Pea brother is a total siscon. After all, every zombie that gets near his sister mysteriously ends up vaporized by sunlight.</color></size>",
+            "introduce": "<align=justified><size=36><color=black>\"Actually, the Sunflower behind me is my sister,\" Solar-shooter explained to everyone. \"We've been inseparable since birth. She loves producing Sun, and I destroy zombies on her behalf.\" But everyone knows the truth: the cheerful Pea brother is a total siscon. After all, every zombie that gets near his sister mysteriously ends up vaporized by sunlight.</color></size>",
             "info": "<size=36>Solar-shooter can fire Sun shots that have a chance to produce Sun.\n\n<color=black>Sun Output: </color><color=#8B0000>25/25s</color>\n<color=black>Damage: </color><color=#8B0000>30/1.5s</color>\n<color=black>Special: </color><color=#8B0000>Shots have a 30% chance to drop 5 Sun when hitting zombies.</size>",
             "cost": "\n<size=36></color>Fusion Formula: <color=#8B0000>Peashooter + Sunflower</color>"
         },
@@ -2948,9 +2948,16 @@
             "cost": "<size=36>Fusion Formula: <color=#8B0000>Doom-shroom > Sea-shroom</color>"
         },
         {
+            "seedType": 1304,
+            "name": "Torchflower",
+            "introduce": "<align=justified><size=36><color=black></color>",
+            "info": "<size=36>\n\n<color=black>Sun Output: </color><color=#8B0000>25/25s</color>\n<color=black>Special: </color><color=#8B0000>Each time she produces Sun, converts all nearby plant (and hypnotized zombie) projectiles into Sun at a rate of 5 Sun per projectile.</color>",
+            "cost": "<size=36>Fusion Formula: <color=#8B0000>Sunflower + Torchwood</color>"
+        },
+        {
             "seedType": 350,
             "name": "Solar-shooter (TD)",
-            "introduce": "<align=justified><size=36><color=black>\"Actually, the Sunflower behind me is my sister,\" Peashooter explained to everyone. \"We've been inseparable since birth. She loves producing Sun, and I destroy zombies on her behalf.\" But everyone knows the truth: the cheerful Pea brother is a total siscon. After all, every zombie that gets near his sister mysteriously ends up vaporized by sunlight.</color>",
+            "introduce": "<align=justified><size=36><color=black>\"Actually, the Sunflower behind me is my sister,\" Solar-shooter explained to everyone. \"We've been inseparable since birth. She loves producing Sun, and I destroy zombies on her behalf.\" But everyone knows the truth: the cheerful Pea brother is a total siscon. After all, every zombie that gets near his sister mysteriously ends up vaporized by sunlight.</color>",
             "info": "<size=36>Solar-shooter can fire Sun shots that have a chance to produce Sun.\n\n<color=blue>Reversible by pressing R</color>\n<color=black>Damage: </color><color=#8B0000>20/1.5s</color>\n<color=black>Special: </color><color=#8B0000>Shots have a 30% chance to drop 5 Sun when hitting zombies.</color>\n<color=black>Upgrades: </color><color=#8B0000>\n<color=black>• Basic Upgrade: </color>(80 Sun) Attack Damage & Speed +20%\n<color=black>• Elite Upgrade Path 1: </color>(200 Sun) Attack Damage +200%\n<color=black>• Elite Upgrade Path 2: </color>(200 Sun) Attack Speed +100%</color>",
             "cost": "<size=36>Cost: <color=#8B0000>200</color>\nRecharge: <color=#8B0000>7.5s</color></size>"
         },
