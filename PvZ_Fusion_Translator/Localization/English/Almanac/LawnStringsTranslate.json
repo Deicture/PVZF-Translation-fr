@@ -1992,7 +1992,7 @@
             "seedType": 1167,
             "name": "Blazer Snipea",
             "introduce": "<align=justified><size=36><color=black>Other snipers envy Blazer Snipea for being a reliable assistant to the commander, even though she is still a little one. \"Talent is one thing, but... I have to thank the commander for cultivating me!~\"Blazer Snipea says, but in reality, it's because Blizzard Commando is naturally cold and always keeps Blazer Snipea as a warm-up buddy.</color>",
-            "info": "<size=36>Can lock onto zombies anywhere on the map!\n\n<color=black>Damage: </color><color=#8B0000>300/3s</color>\n<color=black>Special: </color><color=#8B0000>Attacks inflict the Enflamed debuff and deal 100 damage to nearby zombies.</color>",
+            "info": "<size=36>Can lock onto zombies anywhere on the map!\n\n<color=#4A2900>Usage Condition: Odyssey Mode</color>\n<color=black>Damage: </color><color=#8B0000>300/3s</color>\n<color=black>Special: </color><color=#8B0000>Attacks inflict the Enflamed debuff and deal 100 damage to nearby zombies.</color>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Snipea + Jalapeno</color>"
         },
         {
