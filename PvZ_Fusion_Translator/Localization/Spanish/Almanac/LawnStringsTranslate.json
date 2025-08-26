@@ -5294,7 +5294,7 @@
       "seedType": 1132,
       "name": "Melortero",
       "introduce": "<size=39><color=#3D1400>El Melortero es un ferviente defensor del principio de máxima potencia de fuego. 'Si un disparo no es suficiente, ¡haz dos, tres, cuatro!' Esta filosofía lo ha hecho invencible en el campo de batalla y muy popular en las fiestas de verano.</color></size>",
-      "info": "<size=39>Dispara manualmente una gran cantidad de melones hacia los Zombis.\n\n<color=#3D1400>Daño:</color><color=red>200*40, 3×3 sin disminución, con puntos de impacto aleatorios en un área de 5×3</color>\n<color=#3D1400>Recarga:</color><color=red>36 segundos</color>\n<color=#3D1400>Fórmula de Fusión:</color><color=red> Melonpulta ∞ Lanzamaíz ∞ Melonpulta ∞ Combinadora (En Órden)(La Combinadora deberá plantarse encima de la Lanzamaíz)</color>\n<color=#3D1400>Nombre Científico: </color><color=red>Cucumis Mellifera</color></size>",
+      "info": "<size=39>Dispara manualmente una gran cantidad de melones hacia los Zombis.\n\n<color=#3D1400>Daño:</color><color=red>200*40, 3×3 sin disminución, con puntos de impacto aleatorios en un área de 5×3</color>\n<color=#3D1400>Recarga:</color><color=red>36 segundos</color>\n<color=#3D1400>Fórmula de Fusión:</color><color=red> Melonpulta ∞ Lanzamaíz ∞ Melonpulta < Combinadora (En Órden) (La Combinadora deberá plantarse encima del Lanzamaíz)</color>\n<color=#3D1400>Nombre Científico: </color><color=red>Cucumis Mellifera</color></size>",
       "cost": "<size=39>Costo: <color=red>750</color>   Recarga: <color=red>52.5 Segundos</color>\nPlantas Requeridas: <color=red>4</color></size>"
     },
     {
@@ -5497,7 +5497,7 @@
       "seedType": 1161,
       "name": "Guisantidillón",
       "introduce": "<size=39><color=#3D1400>Como arma definitiva de la familia Guisante, a la Guisantidillón le enseñaron a no acostarse sin razón. \"¡Pero mi cabeza pesa mucho!\" se queja cuando la regañan. Lo que no sabe es que los ancianos Guisantes se lo prohibieron... porque se ve adorable cuando lo hace.</color></size>",
-      "info": "<size=39>Descarga una lluvia de guisantes puros sobre los zombis.\n\n<color=#3D1400>Dureza: </color><color=red>1000</color>\n<color=#3D1400>Daño: </color><color=red>20x30/2.25 Segundos (inicial)</color>\n<color=#3D1400>Daño Máximo: </color><color=red>20x60/2.25 Segundos</color>\n<color=#3D1400>Especial: </color><color=red>Velocidad de disparo aumenta en 3 fases. Se reinicia al dejar de atacar. Los guisantes pueden fallar contra zombis pequeños.</color>\n<color=#3D1400>Fórmula de Fusión: </color><color=red>Repetidora ∞ Tripitidora ∞ Combinadora (En Órden)(La Combinadora deberá plantarse encima de la Tripitidora)</color>\n<color=#3D1400>Nombre Científico: </color><color=red>Pisum titanomitra</color></size>",
+      "info": "<size=39>Descarga una lluvia de guisantes puros sobre los zombis.\n\n<color=#3D1400>Dureza: </color><color=red>1000</color>\n<color=#3D1400>Daño: </color><color=red>20x30/2.25 Segundos (inicial)</color>\n<color=#3D1400>Daño Máximo: </color><color=red>20x60/2.25 Segundos</color>\n<color=#3D1400>Especial: </color><color=red>Velocidad de disparo aumenta en 3 fases. Se reinicia al dejar de atacar. Los guisantes pueden fallar contra zombis pequeños.</color>\n<color=#3D1400>Fórmula de Fusión: </color><color=red>Repetidora ∞ Tripitidora ∞ Repetidora < Combinadora (En Órden) (La Combinadora deberá plantarse encima de la Tripitidora)</color>\n<color=#3D1400>Nombre Científico: </color><color=red>Pisum titanomitra</color></size>",
       "cost": "<size=39>Costo: <color=red>725</color>   Recarga: <color=red>67.5 Segundos</color>\nPlantas Requeridas: <color=red>4</color></size>"
     },
     {
@@ -5553,7 +5553,7 @@
       "seedType": 1169,
       "name": "Calabaza Electromagnética",
       "introduce": "<size=39><color=#3D1400>La Calabaza Electromagnética le dijo a otras plantas que en realidad son \"hermanos\" de la misma \"calabaza\", pero siempre se pelean por saber quién es el mayor. La respuesta de las plantas siempre es la misma: ¡Dios mío, no sigas contando esos chistes tan malos!</color>",
-      "info": "<size=39>¡Puede proteger 2 plantas!\n\n<color=#3D1400>Resistencia:</color> <color=red>12000</color>\n<color=#3D1400>Características:</color> <color=red>Recupera vida cuando es golpeada por una explosión de cereza o una Cajita Sorpresa. Solo puede colocarse sobre plantas que ocupen dos casillas.</color>\n<color=#3D1400>Fórmula de Fusión:</color> <color=red>Calabaza Bromista + Magnetoseta + Calabúnker + Combinadora (En Órden)(La Combinadora deberá plantarse encima de la Magnetoseta)\n<color=#3D1400>Nombre científico: </color><color=red>Cucurbita electrum</color>",
+      "info": "<size=39>¡Puede proteger 2 plantas!\n\n<color=#3D1400>Resistencia:</color> <color=red>12000</color>\n<color=#3D1400>Características:</color> <color=red>Recupera vida cuando es golpeada por una explosión de cereza o una Cajita Sorpresa. Solo puede colocarse sobre plantas que ocupen dos casillas.</color>\n<color=#3D1400>Fórmula de Fusión:</color> <color=red>Calabaza Bromista ∞ Magnetoseta ∞ Calabúnker < Combinadora (En Órden) (La Combinadora deberá plantarse encima de la Magnetoseta)\n<color=#3D1400>Nombre científico: </color><color=red>Cucurbita electrum</color>",
       "cost": "<size=39>Costo: <color=red>650, 800</color>   Recarga: <color=red>155 Segundos</color>\nPlantas Requeridas: <color=red>6 (+ Cajita Sorpresa)</color></size>"
     },
     {
@@ -5588,14 +5588,14 @@
       "seedType": 1174,
       "name": "Carroñívora Titán",
       "introduce": "<size=39><color=#3D1400> La Carroñívora Titán ganó el concurso de comer más rápido al devorar 10 pasteles de Zombistein en 44 segundos, de los cuales 3 segundos los perdió porque no oyó el silbido de inicio. \"Si hay otro evento como este, por favor invítenme, los bufets cercanos al jardín ya no me dejan entrar\", dijo Carroñívora Titán en una entrevista.<size=39></color>",
-      "info": "<size=39>¡Devora a todos los zombis frente a ella!\n\n<size=39><color=#3D1400>Daño:</color> <size=39><color=red>Instantáneo</color>\n<color=#3D1400>Características:</color> <color=red>Puede devorar todos los zombis en un rango de 1.5 casillas frente a ella (excepto los zombis blindados, gigantes, etc.). El tiempo de masticado depende de la salud total de los zombis (por ejemplo: Zombi común 24.8 segundos, con hierro 29.9 segundos, Mega Zombistein 34 segundos, 10 Mega Zombistein 41 segundos).</color>\n<size=39><color=#3D1400>Fórmula de Fusión:</color> <color=red>Planta Carroñívora ∞ Planta Carroñívora ∞ Planta Carroñívora ∞ Combinadora (En Órden)(La Combinadora deberá plantarse encima de la Carroñívora del centro)\n<color=#3D1400>Nombre científico: </color><color=red>Dionaea titanus</color>",
+      "info": "<size=39>¡Devora a todos los zombis frente a ella!\n\n<size=39><color=#3D1400>Daño:</color> <size=39><color=red>Instantáneo</color>\n<color=#3D1400>Características:</color> <color=red>Puede devorar todos los zombis en un rango de 1.5 casillas frente a ella (excepto los zombis blindados, gigantes, etc.). El tiempo de masticado depende de la salud total de los zombis (por ejemplo: Zombi común 24.8 segundos, con hierro 29.9 segundos, Mega Zombistein 34 segundos, 10 Mega Zombistein 41 segundos).</color>\n<size=39><color=#3D1400>Fórmula de Fusión:</color> <color=red>Planta Carroñívora ∞ Planta Carroñívora ∞ Planta Carroñívora < Combinadora (En Órden) (La Combinadora deberá plantarse encima de la Planta Carroñívora central)\n<color=#3D1400>Nombre científico: </color><color=red>Dionaea titanus</color>",
       "cost": "<size=39>Costo: <color=red>500</color>   Recarga: <color=red>52.5 Segundos</color>\nPlantas Requeridas: <color=red>4</color></size>"
     },
     {
       "seedType": 1175,
       "name": "Krakenseta",
       "introduce": "<size=39><color=#3D1400>La existencia de Krakenseta para ella es un enigma, no sabe si es un monstruo marino o una simple combinación entre plantas. Una vez, tratando de buscar respuestas, busco en el internet y aparecia que era una \u0022Marseta Hen…\u0022 Y no termino su frase. no porque sabe lo que significa, pero simplemente no sabe leer tan bien.</color>",
-      "info": "<size=39>Parte del <color=#03311C>Sistema Enredadera</color>\n\n<color=#3D1400>Mecánica de Enredadera:</color>\n- Aplica <color=red>1 Acumulación</color> por ataque (solo zombis acuáticos).\n- Daño adicional basado en la <color=red>vida máxima del zombi</color>:\n  <color=red>6-10</color>: +1% (ej: 10 daño si zombi tiene 1000 HP)\n  <color=red>11-15</color>: +3%\n  <color=red>16-29</color>: +5%\n  <color=red>30+</color>: ¡Muerte instantánea!\n\n<color=#3D1400>Daño Base:</color> <color=red>20*2/1.5 Segundos (Esporas) 100/1.5 Segundos (Tentaculo)</color> (+ ralentización)</color>\n<color=#3D1400>Dureza: </color><color=red>1000</color>\n<color=#3D1400>Especial: </color><color=red>Puede repeler a los zombis cercanos individualmente y causar 100 de daño, y junto a ello añade 1 Punto de Enredadera.</color>\n<color=#3D1400>Fórmula de Fusión:</color><color=red>Zampalga ∞ Marseta ∞ Zampalga ∞ Combinadora (En Órden)(La Combinadora deberá plantarse encima de la Marseta del centro)\n<color=#3D1400>Nombre científico: </color><color=red>Levithanae Mycotis</color>",
+      "info": "<size=39>Parte del <color=#03311C>Sistema Enredadera</color>\n\n<color=#3D1400>Mecánica de Enredadera:</color>\n- Aplica <color=red>1 Acumulación</color> por ataque (solo zombis acuáticos).\n- Daño adicional basado en la <color=red>vida máxima del zombi</color>:\n  <color=red>6-10</color>: +1% (ej: 10 daño si zombi tiene 1000 HP)\n  <color=red>11-15</color>: +3%\n  <color=red>16-29</color>: +5%\n  <color=red>30+</color>: ¡Muerte instantánea!\n\n<color=#3D1400>Daño Base:</color> <color=red>20*2/1.5 Segundos (Esporas) 100/1.5 Segundos (Tentaculo)</color> (+ ralentización)</color>\n<color=#3D1400>Dureza: </color><color=red>1000</color>\n<color=#3D1400>Especial: </color><color=red>Puede repeler a los zombis cercanos individualmente y causar 100 de daño, y junto a ello añade 1 Punto de Enredadera.</color>\n<color=#3D1400>Fórmula de Fusión:</color><color=red>Zampalga ∞ Marseta ∞ Zampalga < Combinadora (En Órden) (La Combinadora deberá plantarse encima de la Marseta)\n<color=#3D1400>Nombre científico: </color><color=red>Levithanae Mycotis</color>",
       "cost": "<size=39>Costo: <color=red>100, 175</color>   Recarga: <color=red>137.5 Segundos</color>\nPlantas Requeridas: <color=red>4</color></size>"
     },
     {
@@ -6234,7 +6234,7 @@
       "seedType": 1266,
       "name": "Nuez Cascolosal",
       "introduce": "<size=39><color=#3D1400>Las plantas siempre se quejan de que la Nuez Cascolosal es un obstáculo para la vista, y que a pesar de ser tan grande no hace nada para deshacerse de los zombis que tiene delante. \u0022Es un vago, no creo que haya llegado solo\u0022, decían algunos. \u0022Rodó montaña abajo y acabó aquí\u0022, se burlaban otros. Pero la Nuez Cascolosal no tenía intención de responderles porque, al igual que su caparazón, su voluntad estaba endurecida para proteger a las plantas que, después de todo, lo necesitaban.</color></size>",
-      "info": "<size=39>Una nuez extrañamente más grande de lo normal. Imaginate ver esto en persona.</color>\n\n<color=#3D1400>Dureza: </color><color=red>32000</color>\n<color=#3D1400>Especial:</color> <color=red>Cada nuez adicional en el campo aumenta su defensa. Recibe 1/3 de daño de los zombis, y no puede ser aplastado.</color>\n<color=#3D1400>Nombre Científico:</color> <color=red>Juglans colosidium</color></size>\n<size=39><color=#3D1400>Fórmula de Fusión:</color> <color=red>Nuez ∞ Nuez Alta ∞ Nuez ∞ Combinadora (En Órden)(La Combinadora deberá plantarse encima de la Nuez Alta)</color></size>",
+      "info": "<size=39>Una nuez extrañamente más grande de lo normal. Imaginate ver esto en persona.</color>\n\n<color=#3D1400>Dureza: </color><color=red>32000</color>\n<color=#3D1400>Especial:</color> <color=red>Cada nuez adicional en el campo aumenta su defensa. Recibe 1/3 de daño de los zombis, y no puede ser aplastado.</color>\n<color=#3D1400>Nombre Científico:</color> <color=red>Juglans colosidium</color></size>\n<size=39><color=#3D1400>Fórmula de Fusión:</color> <color=red>Nuez ∞ Nuez Alta ∞ Nuez < Combinadora (En Órden) (La Combinadora deberá plantarse encima de la Nuez Alta)</color></size>",
       "cost": "<size=39>Costo: <color=red>275</color>   Recarga: <color=red>140 Segundos</color>\nPlantas Requeridas: <color=red>4</color></size>"
     },
     {
@@ -6467,6 +6467,34 @@
    "introduce": "<size=39><color=#3D1400>INTRO</color></size>",
    "info": "<size=39>Genera pequeñas nueces para curar a otras calabazas.</color>\n\n<color=#3D1400>Dureza: </color><color=red>8000</color>\n<color=#3D1400>Especial:</color> <color=red>Genera una Mini-Nuez cada 50s. Cuando esta Mini-Nuez está completamente crecida, se consume para curar una Calabaza cercana dañada hasta 1000 PS o para producir un paquete de semillas de Nuez si no existe dicha Calabaza. Una sola Calabaza Cáscara puede producir un máximo de 3 paquetes de semillas de Nuez.</color>\n<color=#3D1400>Nombre Científico:</color> <color=red>Juglans protegens</color></size>\n<size=39><color=#3D1400>Fórmula de Fusión:</color> <color=red>Nuez + Calabaza</color></size>",
    "cost": "<size=39>Costo: <color=red>175</color>   Recarga: <color=red>60 Segundos</color>\nPlantas Requeridas: <color=red>2</color></size>"
+},
+{
+  "seedType": 1300,
+  "name": "Vaporiseta",
+   "introduce": "<size=39><color=#3D1400>INTRO</color></size>",
+   "info": "<size=39>¡Una versión mas poderosa de la Gasoseta!</color>\n\n<color=#3D1400>Dureza: </color><color=red>1000</color>\n<color=#3D1400>Daño:</color> <color=red>20*4 cada 1.9s\n<color=#3D1400>Especial:</color> <color=red>Lanza 8 esporas adicionales por cada ataque</color>\n<color=#3D1400>Nombre Científico:</color> <color=red>Humongus mycosporia</color></size>\n<size=39><color=#3D1400>Fórmula de Fusión:</color> <color=red>Seta Desesporada (x1) ∞ Gasoseta ∞ Seta Desesporada (x1) < Combinadora (En Órden) (La Combinadora deberá plantarse encima de la Gasoseta)</color></size>",
+   "cost": "<size=39>Costo: <color=red>175, 400</color>   Recarga: <color=red>65 Segundos</color>\nPlantas Requeridas: <color=red>4</color></size>"
+        },
+        {
+    "seedType": 1301,
+    "name": "Paraplantita",
+   "introduce": "<size=39><color=#3D1400>INTRO</color></size>",
+   "info": "<size=39>Repela zombis acogidos facilmente, y se autoregeran por si mismos.</color>\n\n<color=#3D1400>Dureza: </color><color=red>300</color>\n<color=#3D1400>Especial:</color> <color=red>Contra zombis normales, los empuja y muere instantaneamente. Con zombis acogidos, los empuja y simplemente pierde 50 PS. Se generan otras Paraplantitas en la misma casilla en donde están cada 30s.</color>\n<color=#3D1400>Nombre Científico:</color> <color=red>Umbellifolia diminutyn</color></size>\n<size=39><color=#3D1400>Fórmula de Fusión:</color> <color=red>Seta Desesporada + Paraplanta</color></size>",
+   "cost": "<size=39>Costo: <color=red>100, 175</color>   Recarga: <color=red>15 Segundos</color>\nPlantas Requeridas: <color=red>2</color></size>"
+},
+{
+    "seedType": 1302,
+    "name": "Pescaseta", 
+   "introduce": "<size=39><color=#3D1400>INTRO</color></size>",
+   "info": "<size=39>Se sacrifican para alimentar a sus fusiones con las setas nocturnas.</color>\n\n<color=#3D1400>Daño:</color> <color=red>20 cada 1.5s\n<color=#3D1400>Especial:</color> <color=red>Al fusionarlos, solo aparecerán dos. Luego, después de 15s, se genera otro, así creando 3 Pescasetas. Después de esto, alimenta a la planta adelante de ellos con una Marseta, y si no se puede alimentar, entonces genera un paquete de semillas de Marseta.</color>\n<color=#3D1400>Nombre Científico:</color> <color=red>Pegalopuffia mycosultra</color></size>\n<size=39><color=#3D1400>Fórmula de Fusión:</color> <color=red>Seta Desesporada + Marseta</color></size>",
+   "cost": "<size=39>Costo: <color=red>0, 150</color>   Recarga: <color=red>15 Segundos</color>\nPlantas Requeridas: <color=red>2</color></size>"
+},
+{
+    "seedType": 1303,
+    "name": "Orcaseta",
+   "introduce": "<size=39><color=#3D1400>INTRO</color></size>",
+   "info": "<size=39>Digiere una Marseta y la transforma en una bomba.</color>\n\n<color=#3D1400>Daño:</color> <color=red>600\n<color=#3D1400>Especial:</color> <color=red>Al ocupar un paquete de semillas de Marseta en ella, lanza un misil petaseta que hace 600 de daño en un área moderado. Las veces que la puedes alimentar no tienen tiempo de recarga, pero cada disparo toma 1.5s para disparar y solo un máximo de dos disparos pueden ser registrados al mismo tiempo.</color>\n<color=#3D1400>Nombre Científico:</color> <color=red>Pegalomyces ruinae</color></size>\n<size=39><color=#3D1400>Fórmula de Fusión:</color> <color=red>Petaseta + Marseta</color></size>",
+   "cost": "<size=39>Costo: <color=red>125, 275</color>   Recarga: <color=red>57.5 Segundos</color>\nPlantas Requeridas: <color=red>2</color></size>"
         }
     ]
 }
