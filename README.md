@@ -40,7 +40,7 @@ Chinese 2.7 | Android | [MEGA](https://mega.nz/file/828HwBZD#JPDHvVa8gybSoIF2MFj
 ## Official DLCs
 Item | Author |  Platform  |  Download Links 
 ------ | ------ | ------ | ------
-SniperPlus DLC **Installer** for ver 2.8.2 | 高数带我飞、机鱼 | PC | [MEGA](https://mega.nz/file/8ilQQSwC#a-q8myDGSB77dwHtPAr2h5eYOogEcQkW2KshOS-vYc8)
+SniperPlus DLC **Mod Files** for ver 2.8.2 | 高数带我飞、机鱼 | PC | [MEGA](https://mega.nz/file/8ilQQSwC#a-q8myDGSB77dwHtPAr2h5eYOogEcQkW2KshOS-vYc8)
 
 ##### Instructions for the Multi-Language Version
 1. Download from the link that says `Multi-Language` and `PC`.
