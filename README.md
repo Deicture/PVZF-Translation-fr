@@ -40,9 +40,7 @@ Chinese 2.7 | Android | [MEGA](https://mega.nz/file/828HwBZD#JPDHvVa8gybSoIF2MFj
 ## Official DLCs
 Item | Author |  Platform  |  Download Links 
 ------ | ------ | ------ | ------
-SniperPlus DLC **Installer** for ver 2.5.1 | 高数带我飞、机鱼 | PC | [MEGA](https://mega.nz/file/I2tRlRJZ#tzu-im9JvdcIIxfAR058f3COW1GkkVvFFoWF2tGQIJ4)
-> The Official DLCs
-	The Official DLCs make use of the BepInEx modloader and are not compatible with MelonLoader mods or addons. Therefore it is also incompatible with the MelonLoader version of the translation mod. Before we release a BepInEx version of our translation, you will have to choose one.
+SniperPlus DLC **Installer** for ver 2.8.2 | 高数带我飞、机鱼 | PC | [MEGA](https://mega.nz/file/8ilQQSwC#a-q8myDGSB77dwHtPAr2h5eYOogEcQkW2KshOS-vYc8)
 
 ##### Instructions for the Multi-Language Version
 1. Download from the link that says `Multi-Language` and `PC`.
