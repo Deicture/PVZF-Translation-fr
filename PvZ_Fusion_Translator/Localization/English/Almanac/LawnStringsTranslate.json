@@ -3062,14 +3062,14 @@
         {
             "seedType": 800,
             "name": "Golden Ace Snipea",
-            "introduce": "<align=justified>\"He's a dead man.\" When the first glint of gold arcs through the sky, even a brainless zombie knows that that is the harbinger for ultimate oblivion.<size=36><color=black></color>",
+            "introduce": "<align=justified><size=36><color=black>\"He's a dead man.\" When the first glint of gold arcs through the sky, even a brainless zombie knows that that is the harbinger for ultimate oblivion.</color>",
             "info": "<size=36>Coordinate all firepower!\n\n<color=#4A2900>Usage Condition: Odyssey Mode</color>\n<color=black>Damage: </color><color=#8B0000>1000/6s</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Headshot once every 6s.\n<color=black>•</color> Active Ability: Click on Golden Ace Snipea to bring up a crosshair. Select any zombie as target, and all snipers on the field will immediately coordinate a focused attack on it. This effect has a 30s cooldown. \n<color=black>Odyssey Modifiers:\n</color><color=#8B0000>1. Attack Speed of all Snipers increased by 30%\n2. CD for Active Ability reduced to 15s</color>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Snipea + Gold Magnet</color>"
         },
         {
             "seedType": 801,
             "name": "Bomber Snipea",
-            "introduce": "<align=justified><size=36>A famous baker renowned for his cherry pie—though he often forgets the most essential ingredient: cherries. But fret not! Once he deals with this zombie, bam, cherry pie, complete!<color=black></color>",
+            "introduce": "<align=justified><size=36><color=black>A famous baker renowned for his cherry pie—though he often forgets the most essential ingredient: cherries. But fret not! Once he deals with this zombie, bam, cherry pie, complete!</color>",
             "info": "<size=36>Create cherry explosions at the location of his targets.\n\n<color=#4A2900>Usage Condition: Odyssey Mode</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Creates cherry explosions at the location of his targets every 2s.\n<color=black>•</color> Headshots every 8 attacks. \n<color=black>Odyssey Modifiers:\n</color><color=#8B0000>Benefits from Gatling Cherrybomber's Modifiers</color>",
             "cost": "<size=36>Fusion Formula: <color=#8B0000>Snipea + Gatling Cherrybomber</color>"
         },
@@ -3084,7 +3084,7 @@
             "seedType": 803,
             "name": "Sniper Icicle-shroom",
             "introduce": "<align=justified><size=36><color=black>Sniper Icicle-shroom is the shortest sniper in the squad, though he doesn't see that as a problem. \"My fellow sniper buddies, sure, they're tall and imposing, but they always need other plants to cover for them. Me? I can handle it myself just fine!\"</color>",
-            "info": "<size=36>His shots create doom explosions!\n\n<color=black>Damage: </color><color=#8B0000>500/3s</color>\n<color=#4A2900>Usage Condition: Odyssey Mode</color>\n<color=#0077b6>Cryo System: </color><color=#8B0000>Attacks inflict 100 Cryo points and deal ×4 damage to frozen zombies.</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Deals splash damage in a single tile.\n<color=black>•</color> Headshots the main target every 6 attacks.\n<color=black>Odyssey Modifiers:\n</color><color=#8B0000>1. (Gatling Icicle-shroom's 1st Modifier) Splash radius → 3×3\n2. (Gatling Icicle-shroom's 2nd Modifier) Now deals ×10 damage to frozen zombies</color>",
+            "info": "<size=36>Piercingly cold and deadly!\n\n<color=black>Damage: </color><color=#8B0000>500/3s</color>\n<color=#4A2900>Usage Condition: Odyssey Mode</color>\n<color=#0077b6>Cryo System: </color><color=#8B0000>Attacks inflict 100 Cryo points and deal ×4 damage to frozen zombies.</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Deals splash damage in a single tile.\n<color=black>•</color> Headshots the main target every 6 attacks.\n<color=black>Odyssey Modifiers:\n</color><color=#8B0000>1. (Gatling Icicle-shroom's 1st Modifier) Splash radius → 3×3\n2. (Gatling Icicle-shroom's 2nd Modifier) Now deals ×10 damage to frozen zombies</color>",
             "cost": "<size=36>Fusion Formula: <color=#8B0000>Snipea + Gatling Icicle-shroom</color>"
         }
     ]
