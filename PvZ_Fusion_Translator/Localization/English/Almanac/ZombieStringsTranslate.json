@@ -274,7 +274,7 @@
             "theZombieType": 48,
             "name": "Nian Zombie",
             "introduce": "<align=justified><size=36><color=black>To celebrate the New Year, the zombie party sends out Nian Zombie, the embodiment of festive spirit.\n\n\"Look at my new clothes! Don’t I look just like a lion dancer? Pretty nice, right? Now, time to give my New Year's greetings to the plants!\"\n\nUnfortunately for him, the plants were too polite. After a flurry of cheerful “thank yous”, Nian Zombie found himself promptly swept away—whether he liked it or not.",
-            "info": "<size=36>Nian Zombies have very strong armor.\n\n<color=black>Toughness: </color><color=#4B0082>8888 + 8888 (Type 1)</color>\n<color=black>Weakness: </color><color=#4B0082>Bamboom deals 15× Damage to Nian Zombies.</color>"
+            "info": "<size=36>Nian Zombies have very strong armor.\n\n<color=black>Toughness: </color><color=#4B0082>8888 + 8888 (Type 1)</color>\n<color=black>Weakness: </color><color=#4B0082>Pepper Popper deals 15× Damage to Nian Zombies.</color>"
         },
         {
             "theZombieType": 49,

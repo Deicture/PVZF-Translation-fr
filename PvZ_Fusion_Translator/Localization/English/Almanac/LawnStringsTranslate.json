@@ -817,7 +817,14 @@
             "name": "Vulcannon",
             "introduce": "<align=justified><size=36><color=black>Born from the fire that forged the stars, Vulcannon burns as creation once did — not to spread without end, but to end all things. When his final blaze fades, only the silence after the first spark will remain.</color>",
             "info": "<size=36>Launches cobs of pure lava and heat.\n\n<color=#4A2900>Usage Condition: Odyssey Mode | Unlockable</color>\n<color=black>Damage: </color><color=#8B0000>3600 (3×3)/36s</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Infuses all plants in the blast area (3×3) with Cherry Bomb (prioritized)/Jalapeno (except Pumpkins and Flower Pots).\n<color=black>•</color> Blasts inflict Enflamed Debuff and then does damage.\n<color=black>•</color> Blasts split into multiple volcanic bombs on impact, the number increases with more zombies hit (at least 6). Volcanic bombs deal splash damage at half the power of the main blast.</color>\n<color=black>Odyssey Modifiers:</color>\n<color=#8B0000>1. Volcanic Bombs Damage ×5\n2. Now triggers Thermonuclear Detonations when main blasts strike Cherry Bombs or Jalapenos (Cherry Bomb: Releases 10 Cherry Bomb effects in the surrounding area; Jalapeno: Releases 10 Jalapeno effects across the entire field. Each deals damage equal to (blast damage × 18))</color>",
-            "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Bamboom > Pyro Cannon</color>"
+            "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Pepper Popper > Pyro Cannon</color>"
+        },
+        {
+            "seedType": 954,
+            "name": "Princess Solarnova",
+            "introduce": "<align=justified><size=36><color=black></color>",
+            "info": "<size=36>\n\n<color=#4A2900>Usage Condition: Odyssey Mode | Unlockable</color>\n<color=black>Sun Output: </color><color=#8B0000>50/3s</color>\n<color=black>Damage: </color><color=#8B0000>1800</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Generates Sun and consumes nearby plant projectiles to absorb energy (1 damage = 1 energy). Energy is capped at Attack damage ×4; excess energy is converted to Sun (1 projectile = 5 Sun).\n<color=black>•</color> When energy exceeds Attack damage, fires a solar shot that explodes on impact, dealing 100% Damage in a small area.\n<color=black>•</color> Using a Coffee Bean toggles active/inactive modes. Does not attack in inactive mode.</color>\n<color=black>Odyssey Modifiers:</color>\n<color=#8B0000>1. When a solar shot hits a zombie, it cause nearby projectiles to explode as well, dealing 10% damage\n2. Energy cap ×3, Sun output ×3</color>",
+            "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Torchflower + Golden Sunflower</color>"
         },
         {
             "seedType": 1000,
@@ -2074,8 +2081,8 @@
         },
         {
             "seedType": 1179,
-            "name": "Bamboom",
-            "introduce": "<align=justified><size=36><color=black>Business is booming for Bamboom, but the zombies aren't celebrating. Every time a firecracker goes off, they end up singed, dazed, and fuming—literally. \"Oh, lighten up,\" Bamboom teases. \"You look great in charcoal black.",
+            "name": "Pepper Popper",
+            "introduce": "<align=justified><size=36><color=black>Business is booming for Pepper Popper, but the zombies aren't celebrating. Every time a firecracker goes off, they end up singed, dazed, and fuming—literally. \"Oh, lighten up,\" Pepper Popper teases. \"You look great in charcoal black.",
             "info": "<size=36>Propels himself towards the zombies, causing damage and knocking them back.\n\n<color=black>Damage: </color><color=#8B0000>300</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> After being planted, waits for 1s before flying forward in his lane, knocking back zombies it encounters and causing 300 area damage each impact.\n<color=black>•</color> Deals ×15 damage to Nian zombies.</color>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Cherry Bomb + Jalapeno</color>"
         },
