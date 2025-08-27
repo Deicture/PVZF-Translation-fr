@@ -1194,7 +1194,7 @@
             "seedType": 1052,
             "name": "Infernowood",
             "introduce": "<align=justified><size=36><color=black>\"It's sweltering out here!\" Infernowood fumed. Convinced that the intense weather was to blame for its skin, it noted how the flames on its head had also turned a vibrant red. Maybe it was the perfect time to kick off a summer adventure called the \"Sledding Tour.\"</color></size>",
-            "info": "<size=36>Infernowood can provide an even stronger damage boost to projectiles!\n\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Explodes like a Jalapeno upon death.\n<color=black>•</color> Ignites projectiles for the following effects:\n\t-Peas, Potatoes and Low-tier Ignited Peas:\n\t  +40 damage\n\t-Hypno Peas: +30 damage\n\t-Snow Peas: Turn into regular peas\n\t-Cherries, Bucks, Suns: ×4 damage\n\t-Queen Endoflame's attacks:\n\t  Now drop 15 Suns instead of 5.\n<color=black>•</color> Deals 40 damage-over-time to nearby zombies every 1.5s.</color></size>",
+            "info": "<size=36>Infernowood can provide an even stronger damage boost to projectiles!\n\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Explodes like a Jalapeno upon death.\n<color=black>•</color> Ignites projectiles for the following effects:\n\t-Peas, Potatoes and Low-tier Ignited Peas:\n\t  +40 damage\n\t-Hypno Peas: +30 damage\n\t-Snow Peas: Turn into regular peas\n\t-Cherries, Iron Peas, Suns: ×4 damage\n\t-Queen Endoflame's attacks:\n\t  Now drop 15 Suns instead of 5.\n<color=black>•</color> Deals 40 damage-over-time to nearby zombies every 1.5s.</color></size>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Torchwood + Jalapeno + Jalapeno</color>"
         },
         {
