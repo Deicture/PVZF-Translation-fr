@@ -788,7 +788,7 @@
             "seedType": 949,
             "name": "Atomheart Plantern",
             "introduce": "<align=justified><size=36><color=black>\"The price of nuclear war isn't something just anyone can bear.\" A survivor of annihilation, Atomheart Plantern now chooses to restrain her core reactor, channeling its power into a glow as bright as the moon—guiding wanderers through the dark. But if anyone threatens the peace she holds dear… she won't hesitate to become the reaper of the battlefield once more.</color>",
-            "info": "<size=36>A Plantern sealed with radioactive frost, releasing cold fusion reactions that become stronger with Lumos.\n\n<color=#4A2900>Usage Condition: Odyssey Mode | Unlockable with Shroomageddon</color>\n<color=black>Damage: </color><color=#8B0000>600/3s</color>\n<color=black>Range: </color><color=#8B0000>3×5, can target air</color>\n<color=#0077b6>Cryo System: </color><color=#8B0000>\n<color=black>•</color> Attacks apply Deep Chill and add 30 Cryo Points.\n<color=#99582a>Lumos System: </color><color=#8B0000> Damage increases by 100% × Lumos level.</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Subspecies of Shroomageddon. Switching form does not trigger on-death effects.\n<color=black>•</color> Inherits traits of Plantern.\n<color=black>•</color> Refracts passing Apeacalypse Railgun beams into 3 beams with equal damage.\n<color=black>•</color> On death, triggers Ice-shroom effect and grants 10 Lumos levels to all plants for 10s.</color>",
+            "info": "<size=36>A Plantern sealed with radioactive frost, releasing cold fusion reactions that become stronger with Lumos.\n\n<color=#4A2900>Usage Condition: Odyssey Mode | Unlockable with Shroomageddon</color>\n<color=black>Damage: </color><color=#8B0000>600/3s</color>\n<color=black>Range: </color><color=#8B0000>3×5, can target air</color>\n<color=#0077b6>Cryo System: </color><color=#8B0000>\n<color=black>•</color> Attacks apply Deep Chill and add 30 Cryo Points.\n<color=#99582a>Lumos System: </color><color=#8B0000> Damage increases by 100% × Lumos level.</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Subspecies of Shroomageddon. Switching form does not trigger on-death effects.\n<color=black>•</color> Inherits traits of Plantern.\n<color=black>•</color> Refracts passing Apeacalypse Railgun beams into 3 beams with the same damage as the initial beam.\n<color=black>•</color> On death, triggers Ice-shroom effect and grants 10 Lumos levels to all plants for 10s.</color>",
             "cost": "\n<size=36>Conversion Formula: <color=#8B0000>Gloom-shroom <-> Plantern</color>"
         },
         {
@@ -817,12 +817,19 @@
             "name": "Vulcannon",
             "introduce": "<align=justified><size=36><color=black>Born from the fire that forged the stars, Vulcannon burns as creation once did — not to spread without end, but to end all things. When his final blaze fades, only the silence after the first spark will remain.</color>",
             "info": "<size=36>Launches cobs of pure lava and heat.\n\n<color=#4A2900>Usage Condition: Odyssey Mode | Unlockable</color>\n<color=black>Damage: </color><color=#8B0000>3600 (3×3)/36s</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Infuses all plants in the blast area (3×3) with Cherry Bomb (prioritized)/Jalapeno (except Pumpkins and Flower Pots).\n<color=black>•</color> Blasts inflict Enflamed Debuff and then does damage.\n<color=black>•</color> Blasts split into multiple volcanic bombs on impact, the number increases with more zombies hit (at least 6). Volcanic bombs deal splash damage at half the power of the main blast.</color>\n<color=black>Odyssey Modifiers:</color>\n<color=#8B0000>1. Volcanic Bombs Damage ×5\n2. Now triggers Thermonuclear Detonations when main blasts strike Cherry Bombs or Jalapenos (Cherry Bomb: Releases 10 Cherry Bomb effects in the surrounding area; Jalapeno: Releases 10 Jalapeno effects across the entire field. Each deals damage equal to (blast damage × 18))</color>",
-            "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Bamboom > Pyro Cannon</color>"
+            "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Pepper Popper > Pyro Cannon</color>"
+        },
+        {
+            "seedType": 954,
+            "name": "Princess Solarnova",
+            "introduce": "<align=justified><size=36><color=black></color>",
+            "info": "<size=36>\n\n<color=#4A2900>Usage Condition: Odyssey Mode | Unlockable</color>\n<color=black>Sun Output: </color><color=#8B0000>50/3s</color>\n<color=black>Damage: </color><color=#8B0000>1800</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Generates Sun and consumes nearby plant projectiles to absorb energy (1 damage = 1 energy). Energy is capped at Attack damage ×4; excess energy is converted to Sun (1 projectile = 5 Sun).\n<color=black>•</color> When energy exceeds Attack damage, fires a solar shot that explodes on impact, dealing 100% Damage in a small area.\n<color=black>•</color> Using a Coffee Bean toggles active/inactive modes. Does not attack in inactive mode.</color>\n<color=black>Odyssey Modifiers:</color>\n<color=#8B0000>1. When a solar shot hits a zombie, it cause nearby projectiles to explode as well, dealing 10% damage\n2. Energy cap ×3, Sun output ×3</color>",
+            "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Torchflower + Golden Sunflower</color>"
         },
         {
             "seedType": 1000,
             "name": "Solar-shooter",
-            "introduce": "<align=justified><size=36><color=black>\"Actually, the Sunflower behind me is my sister,\" Peashooter explained to everyone. \"We've been inseparable since birth. She loves producing Sun, and I destroy zombies on her behalf.\" But everyone knows the truth: the cheerful Pea brother is a total siscon. After all, every zombie that gets near his sister mysteriously ends up vaporized by sunlight.</color></size>",
+            "introduce": "<align=justified><size=36><color=black>\"Actually, the Sunflower behind me is my sister,\" Solar-shooter explained to everyone. \"We've been inseparable since birth. She loves producing Sun, and I destroy zombies on her behalf.\" But everyone knows the truth: the cheerful Pea brother is a total siscon. After all, every zombie that gets near his sister mysteriously ends up vaporized by sunlight.</color></size>",
             "info": "<size=36>Solar-shooter can fire Sun shots that have a chance to produce Sun.\n\n<color=black>Sun Output: </color><color=#8B0000>25/25s</color>\n<color=black>Damage: </color><color=#8B0000>30/1.5s</color>\n<color=black>Special: </color><color=#8B0000>Shots have a 30% chance to drop 5 Sun when hitting zombies.</size>",
             "cost": "\n<size=36></color>Fusion Formula: <color=#8B0000>Peashooter + Sunflower</color>"
         },
@@ -1187,7 +1194,7 @@
             "seedType": 1052,
             "name": "Infernowood",
             "introduce": "<align=justified><size=36><color=black>\"It's sweltering out here!\" Infernowood fumed. Convinced that the intense weather was to blame for its skin, it noted how the flames on its head had also turned a vibrant red. Maybe it was the perfect time to kick off a summer adventure called the \"Sledding Tour.\"</color></size>",
-            "info": "<size=36>Infernowood can provide an even stronger damage boost to projectiles!\n\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Explodes like a Jalapeno upon death.\n<color=black>•</color> Ignites projectiles for the following effects:\n\t-Peas, Potatoes and Low-tier Ignited Peas:\n\t  +40 damage\n\t-Hypno Peas: +30 damage\n\t-Snow Peas: Turn into regular peas\n\t-Cherries, Bucks, Suns: ×4 damage\n\t-Queen Endoflame's attacks:\n\t  Now drop 15 Suns instead of 5.\n<color=black>•</color> Deals 40 damage-over-time to nearby zombies every 1.5s.</color></size>",
+            "info": "<size=36>Infernowood can provide an even stronger damage boost to projectiles!\n\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Explodes like a Jalapeno upon death.\n<color=black>•</color> Ignites projectiles for the following effects:\n\t-Peas, Potatoes and Low-tier Ignited Peas:\n\t  +40 damage\n\t-Hypno Peas: +30 damage\n\t-Snow Peas: Turn into regular peas\n\t-Cherries, Iron Peas, Suns: ×4 damage\n\t-Queen Endoflame's attacks:\n\t  Now drop 15 Suns instead of 5.\n<color=black>•</color> Deals 40 damage-over-time to nearby zombies every 1.5s.</color></size>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Torchwood + Jalapeno + Jalapeno</color>"
         },
         {
@@ -2074,8 +2081,8 @@
         },
         {
             "seedType": 1179,
-            "name": "Bamboom",
-            "introduce": "<align=justified><size=36><color=black>Business is booming for Bamboom, but the zombies aren't celebrating. Every time a firecracker goes off, they end up singed, dazed, and fuming—literally. \"Oh, lighten up,\" Bamboom teases. \"You look great in charcoal black.",
+            "name": "Pepper Popper",
+            "introduce": "<align=justified><size=36><color=black>Business is booming for Pepper Popper, but the zombies aren't celebrating. Every time a firecracker goes off, they end up singed, dazed, and fuming—literally. \"Oh, lighten up,\" Pepper Popper teases. \"You look great in charcoal black.",
             "info": "<size=36>Propels himself towards the zombies, causing damage and knocking them back.\n\n<color=black>Damage: </color><color=#8B0000>300</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> After being planted, waits for 1s before flying forward in his lane, knocking back zombies it encounters and causing 300 area damage each impact.\n<color=black>•</color> Deals ×15 damage to Nian zombies.</color>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Cherry Bomb + Jalapeno</color>"
         },
@@ -2948,9 +2955,16 @@
             "cost": "<size=36>Fusion Formula: <color=#8B0000>Doom-shroom > Sea-shroom</color>"
         },
         {
+            "seedType": 1304,
+            "name": "Torchflower",
+            "introduce": "<align=justified><size=36><color=black></color>",
+            "info": "<size=36>\n\n<color=black>Sun Output: </color><color=#8B0000>25/25s</color>\n<color=black>Special: </color><color=#8B0000>Each time she produces Sun, converts all nearby plant (and hypnotized zombie) projectiles into Sun at a rate of 5 Sun per projectile.</color>",
+            "cost": "<size=36>Fusion Formula: <color=#8B0000>Sunflower + Torchwood</color>"
+        },
+        {
             "seedType": 350,
             "name": "Solar-shooter (TD)",
-            "introduce": "<align=justified><size=36><color=black>\"Actually, the Sunflower behind me is my sister,\" Peashooter explained to everyone. \"We've been inseparable since birth. She loves producing Sun, and I destroy zombies on her behalf.\" But everyone knows the truth: the cheerful Pea brother is a total siscon. After all, every zombie that gets near his sister mysteriously ends up vaporized by sunlight.</color>",
+            "introduce": "<align=justified><size=36><color=black>\"Actually, the Sunflower behind me is my sister,\" Solar-shooter explained to everyone. \"We've been inseparable since birth. She loves producing Sun, and I destroy zombies on her behalf.\" But everyone knows the truth: the cheerful Pea brother is a total siscon. After all, every zombie that gets near his sister mysteriously ends up vaporized by sunlight.</color>",
             "info": "<size=36>Solar-shooter can fire Sun shots that have a chance to produce Sun.\n\n<color=blue>Reversible by pressing R</color>\n<color=black>Damage: </color><color=#8B0000>20/1.5s</color>\n<color=black>Special: </color><color=#8B0000>Shots have a 30% chance to drop 5 Sun when hitting zombies.</color>\n<color=black>Upgrades: </color><color=#8B0000>\n<color=black>• Basic Upgrade: </color>(80 Sun) Attack Damage & Speed +20%\n<color=black>• Elite Upgrade Path 1: </color>(200 Sun) Attack Damage +200%\n<color=black>• Elite Upgrade Path 2: </color>(200 Sun) Attack Speed +100%</color>",
             "cost": "<size=36>Cost: <color=#8B0000>200</color>\nRecharge: <color=#8B0000>7.5s</color></size>"
         },

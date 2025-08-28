@@ -274,7 +274,7 @@
             "theZombieType": 48,
             "name": "Nian Zombie",
             "introduce": "<align=justified><size=36><color=black>To celebrate the New Year, the zombie party sends out Nian Zombie, the embodiment of festive spirit.\n\n\"Look at my new clothes! Don’t I look just like a lion dancer? Pretty nice, right? Now, time to give my New Year's greetings to the plants!\"\n\nUnfortunately for him, the plants were too polite. After a flurry of cheerful “thank yous”, Nian Zombie found himself promptly swept away—whether he liked it or not.",
-            "info": "<size=36>Nian Zombies have very strong armor.\n\n<color=black>Toughness: </color><color=#4B0082>8888 + 8888 (Type 1)</color>\n<color=black>Weakness: </color><color=#4B0082>Bamboom deals 15× Damage to Nian Zombies.</color>"
+            "info": "<size=36>Nian Zombies have very strong armor.\n\n<color=black>Toughness: </color><color=#4B0082>8888 + 8888 (Type 1)</color>\n<color=black>Weakness: </color><color=#4B0082>Pepper Popper deals 15× Damage to Nian Zombies.</color>"
         },
         {
             "theZombieType": 49,
@@ -412,7 +412,7 @@
             "theZombieType": 108,
             "name": "Buckshooter Zombie",
             "introduce": "<align=justified><size=36><color=black>Last year, Buckshooter Zombie drew a tarot card that read \"The Emperor.\" Since then, he has been able to shoot iron peas at will.</color>",
-            "info": "<size=36>Fires high-damaging bullets.\n\n<color=black>Damage: </color><color=#4B0082>80/1.5s</color>\n<color=black>Toughness: </color><color=#4B0082>1350</color>\n<color=black>Traits: </color><color=#4B0082>Fires buckshot peas at your defense, these can knock back hypnotized zombies. Drops a Bucket when killed by projectiles.</color>"
+            "info": "<size=36>Fires high-damaging bullets.\n\n<color=black>Damage: </color><color=#4B0082>80/1.5s</color>\n<color=black>Toughness: </color><color=#4B0082>1350</color>\n<color=black>Traits: </color><color=#4B0082>Fires iron peas at your defense, which can knock back hypnotized zombies. Drops a Bucket when killed by projectiles.</color>"
         },
         {
             "theZombieType": 109,
@@ -478,7 +478,7 @@
             "theZombieType": 119,
             "name": "Buckshoot-copter Zombie",
             "introduce": "<align=justified><size=36><color=black>Faced with doubts from fellow zombies, Buckshoot-copter tried to prove his veteran status with an old group photo. \"But… where are you in this?\" they asked. He stared at the black-and-white film, just as puzzled.</color>",
-            "info": "<size=36>Buckshooter Zombie hanging from a rotor.\n\n<color=black>Damage: </color><color=#4B0082>80/1.5s</color>\n<color=black>Toughness: </color><color=#4B0082>1350 + 500 (Type 1)</color>\n<color=black>Traits: </color><color=#4B0082>Immune to Blover. Fires buckshot peas at your defense, these can knock back hypnotized zombies. </color>"
+            "info": "<size=36>Buckshooter Zombie hanging from a rotor.\n\n<color=black>Damage: </color><color=#4B0082>80/1.5s</color>\n<color=black>Toughness: </color><color=#4B0082>1350 + 500 (Type 1)</color>\n<color=black>Traits: </color><color=#4B0082>Immune to Blover. Fires iron peas at your defense, these can knock back hypnotized zombies. </color>"
         },
         {
             "theZombieType": 120,
@@ -670,7 +670,7 @@
             "theZombieType": 225,
             "name": "Giga Buckshot Commando",
             "introduce": "<align=justified><size=36><color=black>Giga Buckshot Commando is a warrior made of iron — iron body, iron will, iron bullets, and an ironic attitude towards complaints from his colleagues. He firmly believes that the zombies being knocked back by his bullets must simply lack the kind of iron-refining training he’s undergone.</color>",
-            "info": "<size=36>An unstoppable warrior. Fearless and peerless.\n\n<color=black>Damage: </color><color=#4B0082>80/0.1s</color>\n<color=black>Toughness: </color><color=#4B0082>3000 + 3000 (Type 1)</color>\n<color=black>Traits: </color><color=#4B0082>Immune to Knock backs. Fires buckshot peas at your defense at a ridiculous rate, these can knock back hypnotized zombies. </color>"
+            "info": "<size=36>An unstoppable warrior. Fearless and peerless.\n\n<color=black>Damage: </color><color=#4B0082>80/0.1s</color>\n<color=black>Toughness: </color><color=#4B0082>3000 + 3000 (Type 1)</color>\n<color=black>Traits: </color><color=#4B0082>Immune to Knock backs. Fires iron peas at your defense at a ridiculous rate, which can knock back hypnotized zombies. </color>"
         },
         {
             "theZombieType": 226,
@@ -730,7 +730,7 @@
             "theZombieType": 306,
             "name": "Giga Buckshot Leader Zombie",
             "introduce": "<align=justified><size=36><color=black>Feared on the battlefield, beloved off it. Giga Buckshot Leader dazzles troops with his signature trick: hiding bullets in his banner.</color>",
-            "info": "<size=36>Suppressive fire that doesn't cease.\n\n<color=black>Damage: </color><color=#4B0082>200 (bite) 80/0.1s (buckshot)</color>\n<color=black>Toughness: </color><color=#4B0082>24000 + 24000 (Type 1)</color>\n<color=black>Traits: </color><color=#4B0082>\n<color=black>•</color> Tier 3 Evolved Zombie.\n<color=black>•</color> Immune to knockback, chill, and butter.</color>"
+            "info": "<size=36>Suppressive fire that doesn't cease.\n\n<color=black>Damage: </color><color=#4B0082>200 (bite) 80/0.1s (iron pea)</color>\n<color=black>Toughness: </color><color=#4B0082>24000 + 24000 (Type 1)</color>\n<color=black>Traits: </color><color=#4B0082>\n<color=black>•</color> Tier 3 Evolved Zombie.\n<color=black>•</color> Immune to knockback, chill, and butter.</color>"
         },
         {
             "theZombieType": 307,
