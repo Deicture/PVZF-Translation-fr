@@ -277,7 +277,7 @@
             "seedType": 39,
             "name": "Bamblock",
             "introduce": "<align=justified><size=36><color=black>\"Where there's a will, there’s a wall.\" That's Bamblock’s motto. \"Back when I first sprouted, folks said I was just a pesky pebble underfoot. But I kept growing, and now I've become an official traffic cone.\" If you ask how long ago that was? \"Three days,\" he says.</color>",
-            "info": "<size=36>Damages incoming zombies at the cost of his own HP.\n\n<color=black>Toughness: </color><color=#8B0000>1500</color>\n<color=black>Special: </color>\n<color=black>•</color><color=#8B0000> Other plants cannot absorb damage for Bamblocks.</color>\n<color=black>•</color><color=#8B0000> Immune to crush.\n<color=black>•</color><color=#8B0000>On contact with a zombie, instantly defeats the zombie if the zombie's HP is less than or equal to his own, but takes damage equal to that zombie's HP. Against zombies with higher HP, deals damage equal to his own HP to the zombie and destroys himself.</color>",
+            "info": "<size=36>Damages incoming zombies at the cost of his own HP.\n\n<color=black>Toughness: </color><color=#8B0000>1500</color>\n<color=black>Special: </color>\n<color=black>•</color><color=#8B0000> Other plants cannot absorb damage for Bamblocks.</color>\n<color=black>•</color><color=#8B0000> Immune to crush.\n<color=black>•</color><color=#8B0000> On contact with a zombie, instantly defeats the zombie if the zombie's HP is less than or equal to his own, but takes damage equal to that zombie's HP. Against zombies with higher HP, deals damage equal to his own HP to the zombie and destroys himself.</color>",
             "cost": "<size=36>Cost: <color=#8B0000>50</color>\nRecharge: <color=#8B0000>15s</color>"
         },
         {
@@ -1824,7 +1824,7 @@
             "seedType": 1142,
             "name": "Golden Melon",
             "introduce": "<align=justified><size=36><color=black>Golden Melon doesn't mind questions about its golden rind and seeds, but never ask if it's seedless—it has no patience for that question.</color>",
-            "info": "<size=36>Hurls golden melons at zombies; its ultimate rains golden melons across the screen.\n\n<color=black>Damage: </color><color=#8B0000>120/3s</color>\n<color=black>Ultimate: </color><color=#8B0000>Costs 3000 Coins, Cooldown: 2s; launches 60 golden melons, each dealing 120 damage, landing randomly across the screen.</color>",
+            "info": "<size=36>Hurls golden melons at zombies; its ultimate rains golden melons across the screen.\n\n<color=black>Damage: </color><color=#8B0000>120/3s</color>\n<color=black>Ultimate: </color><color=#8B0000>Costs 3000 Coins, Cooldown: 2s; launches 60 golden melons, each dealing 120 damage with no falloff, landing randomly across the screen.</color>",
             "cost": "\n<size=36>Upgrade Cost: </color><color=#8B0000>3000 Coins</color>"
         },
         {
