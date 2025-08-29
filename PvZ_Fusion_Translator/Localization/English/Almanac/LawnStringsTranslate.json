@@ -1670,7 +1670,7 @@
             "seedType": 1120,
             "name": "Cob Cannon",
             "introduce": "<align=justified><size=36><color=black>Cob Cannon is quite the intellectual powerhouse—rumor has it that it studied at Harvard and once worked at a prestigious law firm in New York. Known for its immense power, a single shot from Cob Cannon can decimate a large area of zombies. However, the true source of its formidable energy remains a mystery.</color>",
-            "info": "<size=36>Can be manually operated to launch deadly corn cobs that cause cremator damage.\n\n<color=black>Damage: </color><color=#8B0000>1800 (Cremator)</color>\n<color=black>Arming Time: </color><color=#8B0000>36s</color>\n<color=black>Special: </color><color=#8B0000>Must be planted on top of two Kernel-pults.</color>",
+            "info": "<size=36>Can be manually operated to launch deadly corn cobs that cause cremator damage.\n\n<color=black>Damage: </color><color=#8B0000>1800 (Cremator)</color>\n<color=black>Arming Time: </color><color=#8B0000>36s</color>\n<color=black>Special: </color><color=#8B0000>Must be planted on two side-by-side Kernel-pults.</color>",
             "cost": "<size=36>Cost: <color=#8B0000>300</color>\nRecharge: <color=#8B0000>50s</color>"
         },
         {
@@ -1775,7 +1775,7 @@
             "seedType": 1135,
             "name": "Golden Cabbage",
             "introduce": "<align=justified><size=36><color=black>Golden Cabbage isn't just about its dazzling appearance—it has a heart of pure gold. It relishes fighting alongside plants against zombies and dreams of one day being honored as the \"Heroic Cabbage of Gold.\"</color>",
-            "info": "<size=36>Attacks zombies by throwing golden cabbages. Its ultimate move unleashes cabbages on all zombies!\n\n<color=black>Damage: </color><color=#8B0000>80/3s</color>\n<color=black>Ultimate: </color><color=#8B0000>Costs 1000 Coins, Cooldown: 2s; throws a cabbage at every zombie, instantly killing those with Toughness below 300.</color>",
+            "info": "<size=36>Attacks zombies by throwing golden cabbages. Its ultimate move unleashes cabbages on all zombies!\n\n<color=black>Damage: </color><color=#8B0000>80/3s</color>\n<color=black>Ultimate: </color><color=#8B0000>Costs 1000 Coins, Cooldown: 2s; throws a Golden cabbage with 160 damage at every zombie, instantly killing those with Toughness below 300.</color>",
             "cost": "\n<size=36>Upgrade Cost: </color><color=#8B0000>1000 Coins</color>"
         },
         {
