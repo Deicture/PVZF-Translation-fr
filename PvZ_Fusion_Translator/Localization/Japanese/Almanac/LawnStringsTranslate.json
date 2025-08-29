@@ -39,14 +39,14 @@
             "seedType": 5,
             "name": "チョンパー",
             "introduce": "<size=36><color=black>チョンパーは『ザ・リトル・ショップ・オブ・ホラーズ』のスタント役で仕事を得る寸前までいったが、エージェントが前払いを過剰に要求したため、話は流れてしまった。しかし、チョンパーは恨んでいない。彼は「これは単なるビジネスの一部だ」と述べている。</color></size>",
-            "info": "<size=36>チョンパーはゾンビを丸ごと食べることができますが、噛んでいる間は脆弱です。\n\n<color=black>ダメージ：</color><color=#8B0000> 即死（捕食）</color></size>",
+            "info": "<size=36>チョンパーはゾンビを丸ごと食べることができますが、噛んでいる間は脆弱です。\n\n<color=black>ダメージ：</color><color=#8B0000>即死（捕食）</color></size>",
             "cost": "<size=36>コスト：<color=#8B0000>150</color>\nクールタイム：<color=#8B0000>7.5秒</color></size>"
         },
         {
             "seedType": 6,
             "name": "パフキノコ",
             "introduce": "<size=36><color=black>\"「私は最近になって初めてゾンビの存在を知りました」とパフキノコは言う。「多くのキノコと同じように、私はただ、それらが童話や映画のモンスターだと思っていたのです。この経験は私にとって大きな目から鱗の体験でした」</color></size>",
-            "info": "<size=36>パフキノコは安価ですが、近距離でしか発砲できません。\n\n<color=black>ダメージ：</color><color=#8B0000>20/1.5秒</color>\n<color=black>スペシャル：</color>\n<color=black>•</color><color=#8B0000> 3回まで重ね植え可能</color>\n<color=black>•</color><color=#8B0000> 低身植物（直進弾丸を回避する）</color></size>",
+            "info": "<size=36>パフキノコは安価ですが、近距離でしか発砲できません。\n\n<color=black>ダメージ：</color><color=#8B0000>20/1.5秒</color>\n<color=black>スペシャル：</color>\n<color=black>※</color><color=#8B0000>3回まで重ね植え可能</color>\n<color=black>※</color><color=#8B0000>低身植物（直進弾丸を回避する）</color></size>",
             "cost": "<size=36>コスト：<color=#8B0000>0</color>\nクールタイム：<color=#8B0000>7.5秒</color></size>"
         },
         {
@@ -87,8 +87,8 @@
         {
             "seedType": 12,
             "name": "スイレン",
-            "introduce": "<size=36><color=black>スイレンは決して文句を言わない。スイレンは決して何が起こっているのか知りたがらない。スイレンの上に植物を置いても、彼は何も言わない。彼は驚くべき意見や衝撃的な秘密を持っているのか？誰も知らない。スイレンはすべてを胸に秘めている。</color></size>",
-            "info": "<size=36>スイレンの上に非水生植物を植えることができます。\n\n<color=black>スペシャル：</color><color=#8B0000>水草以外のプラントも植えることができます。特定のプラントを配置する場合, スイレンはその変種に変化します できる <i>ムを自動で植</i> そのプラント変身毎90秒。</color></size>",
+            "introduce": "<size=36><color=black>スイレンは決して文句を言わない。スイレンは決して何が起こっているのか知りたがらない。スイレンの上にプラントを置いても、彼は何も言わない。彼は驚くべき意見や衝撃的な秘密を持っているのか？誰も知らない。スイレンはすべてを胸に秘めている。</color></size>",
+            "info": "<size=36>スイレンの上に非水性植物を植えることができます。\n\n<color=black>スペシャル：</color><color=#8B0000>非水性植物も植えることができます。特定の植物を置くと、スイレンはその植物に変化します。90秒ごとに変化する植物を自動で植えることもできます。</color></size>",
             "cost": "<size=36>コスト：<color=#8B0000>25</color>\nクールタイム：<color=#8B0000>7.5秒</color></size>"
         },
         {
@@ -108,8 +108,8 @@
         {
             "seedType": 15,
             "name": "もつれたケルプ",
-            "introduce": "<size=36><color=black>「僕は完全に目立たない」と、もつれたケルプは自分に言い聞かせる。「水面直下のここに隠れていれば、誰も僕を見ないだろう」 彼の友達は彼に、彼を完璧に見えていると伝えるが、彼は決して変わらない。</color></size>",
-            "info": "<size=36>もつれたケルプは、最初に近づいたゾンビを水中に引き込む水生植物です。\n\n<color=black>ダメージ：</color><color=#8B0000>即死（溺死）</color>\n<color=black>スペシャル：</color><color=#8B0000>低身植物（直進弾丸を回避する）</size>",
+            "introduce": "<size=36><color=black>「僕は完全に目立たない」と、もつれたケルプは自分に言い聞かせる。「水面直下のここに隠れていれば、誰も僕を見ないだろう」彼の友達は彼に、彼を完璧に見えていると伝えるが、彼は決して変わらない。</color></size>",
+            "info": "<size=36>もつれたケルプは、最初に近づいたゾンビを水中に引き込む水性植物です。\n\n<color=black>ダメージ：</color><color=#8B0000>即死（溺死）</color>\n<color=black>スペシャル：</color><color=#8B0000>低身植物（直進弾丸を回避する）</size>",
             "cost": "<size=36>コスト：<color=#8B0000>25</color>\nクールタイム：<color=#8B0000>50秒</color></size>"
         },
         {
@@ -123,7 +123,7 @@
             "seedType": 17,
             "name": "スパイクウィード",
             "introduce": "<size=36><color=black>スパイクウィードはホッケーに夢中だった。チケット売り場でシーズンチケットを購入し、お気に入りの選手を熱心に追いかけ、職場のホッケー賭博では常に大勝ちしていた。ただ一つ問題があった。パックが怖かったのだ。</color></size>",
-            "info": "<size=36>スパイクウィードはタイヤをポップし、それを踏むゾンビを傷つけます。\n\n<color=black>ダメージ：</color><color=#8B0000>20/1秒</color>\n<color=black>スペシャル：</color>\n<color=black>•</color><color=#8B0000> 低身植物（直進弾丸を回避する）</color>\n<color=black>•</color><color=#8B0000> 車両ゾンビをインスタキルする</color></size>",
+            "info": "<size=36>スパイクウィードはタイヤをポップし、それを踏むゾンビを傷つけます。\n\n<color=black>ダメージ：</color><color=#8B0000>20/1秒</color>\n<color=black>スペシャル：</color>\n<color=black>※</color><color=#8B0000>低身植物（直進弾丸を回避する）</color>\n<color=black>※</color><color=#8B0000>車両ゾンビをインスタキルする</color></size>",
             "cost": "<size=36>コスト：<color=#8B0000>100</color>\nクールタイム：<color=#8B0000>7.5秒</color></size>"
         },
         {
@@ -137,7 +137,7 @@
             "seedType": 19,
             "name": "海キノコ",
             "introduce": "<size=36><color=black>海キノコは海を見たことがない。名前にも海とあるし、海の話はよく聞いていたけれど、なかなか時間が取れなかった。でも、いつかは海に沈む日が来る。</color></size>",
-            "info": "<size=36>海キノコは短距離の胞子を発射する水生植物です。\n\n<color=black>ダメージ：</color><color=#8B0000>20/1.5秒</color>\n<color=black>スペシャル：</color><color=#8B0000>低身植物（直進弾丸を回避する）</size>",
+            "info": "<size=36>海キノコは短距離の胞子を発射する水性植物です。\n\n<color=black>ダメージ：</color><color=#8B0000>20/1.5秒</color>\n<color=black>スペシャル：</color><color=#8B0000>低身植物（直進弾丸を回避する）</size>",
             "cost": "<size=36>コスト：<color=#8B0000>0</color>\nクールタイム：<color=#8B0000>7.5秒</color></size>"
         },
         {
@@ -158,7 +158,7 @@
             "seedType": 22,
             "name": "ブロバー",
             "introduce": "<size=36><color=black>ブロバーが5歳の時、ピカピカの誕生日ケーキをもらいました。ブロバーは願い事を言い、息を切らしながらもろうそくの火を60%しか消すことができませんでした。しかし、彼は諦めるどころか、その敗北を糧に、それ以来ずっと自分を奮い立たせています。</color></size>",
-            "info": "<size=36>ブロバー バケットコプターゾンビとゾンペリンを除くすべての風船ゾンビと霧を吹き飛ばす。\n\n<color=black>スペシャル：</color><color=#8B0000>霧やバルーンゾンビを吹き飛ばす。ゾンペリンをわずかに押し戻す。</color></size>",
+            "info": "<size=36>ブロバーバケットコプターゾンビとゾンペリンを除くすべての風船ゾンビと霧を吹き飛ばす。\n\n<color=black>スペシャル：</color><color=#8B0000>霧やバルーンゾンビを吹き飛ばす。ゾンペリンをわずかに押し戻す。</color></size>",
             "cost": "<size=36>コスト：<color=#8B0000>100</color>\nクールタイム：<color=#8B0000>15秒</color></size>"
         },
         {
@@ -186,14 +186,14 @@
             "seedType": 26,
             "name": "キャベツパルト",
             "introduce": "<size=36><color=black>ある人は愛はキャベツのようなものだとよく言います。少しずつ剥がしていかなければ、相手の心を見ることができないからです。しかし、キャベツパルトはこの比喩に不満を抱えています。なぜなら、彼は今も独身だからです。</color>",
-            "info": "<size=36>キャベツを発射してゾンビを攻撃する。\n\n<color=black>ダメージ：</color><color=#8B0000>40/3秒</color>\n<color=black>",
+            "info": "<size=36>キャベツを発射してゾンビを攻撃する。\n\n<color=black>ダメージ：</color><color=#8B0000>40/3秒</color><color=black>",
             "cost": "<size=36>コスト：<color=#8B0000>100</color>\nクールタイム：<color=#8B0000>7.5秒</color>"
         },
         {
             "seedType": 27,
             "name": "植木鉢",
-            "introduce": "<size=36><color=black>「屋根に植木鉢を置き、その鉢は植物です。鉢の頂部に植物を植え、1つの鉢に1つの植物を植えます。あなたの頭はまだ回っていますか？」</color>",
-            "info": "<size=36>その上にプラントを植えることもできます。\n\n<color=black>スペシャル：</color>\n<color=black>•</color><color=#8B0000> 屋上にプラントを植えることが可能。</color>\n<color=black>•</color><color=#8B0000> 低身植物（直進弾丸を回避する）</color>",
+            "introduce": "<size=36><color=black>「屋根に植木鉢を置き、その鉢はプラントです。鉢の頂部にプラントを植え、1つの鉢に1つのプラントを植えます。あなたの頭はまだ回っていますか？」</color>",
+            "info": "<size=36>その上にプラントを植えることもできます。\n\n<color=black>スペシャル：</color>\n<color=black>※</color><color=#8B0000>屋上にプラントを植えることが可能。</color>\n<color=black>※</color><color=#8B0000>低身植物（直進弾丸を回避する）</color>",
             "cost": "<size=36>コスト：<color=#8B0000>25</color>\nクールタイム：<color=#8B0000>7.5秒"
         },
         {
@@ -207,13 +207,13 @@
             "seedType": 29,
             "name": "ニンニク",
             "introduce": "<size=36><color=black>ニンニクはアリシン含有量の高さを誇り、ニンニクを食べることが健康に良いと主張しています。それが真実かどうかはさておき、ゾンビたちが彼をかじりながら吐き気を催す様子を見れば、その効果は相当なものだとわかります。</color>",
-            "info": "<size=36>噛もうとするゾンビは車線を変更します。\n\n<color=black>スペシャル：</color>\n<color=black>•</color><color=#8B0000> ゾンビを他のレーンに迂回させる。</color>\n<color=black>•</color><color=#8B0000> 低身植物（直進弾丸を回避する）</color>",
+            "info": "<size=36>噛もうとするゾンビは車線を変更します。\n\n<color=black>スペシャル：</color>\n<color=black>※</color><color=#8B0000>ゾンビを他のレーンに迂回させる。</color>\n<color=black>※</color><color=#8B0000>低身植物（直進弾丸を回避する）</color>",
             "cost": "<size=36>コスト：<color=#8B0000>50</color>\nクールタイム：<color=#8B0000>7.5秒</color>"
         },
         {
             "seedType": 30,
             "name": "傘の葉",
-            "introduce": "<size=36><color=black>傘の葉はかつて非常に優れたパス職人でした。彼は114回目の植物ゾンビNBAで一世を風靡しましたが、中年期に差し掛かると…薄毛に悩まされるようになったのです。</color>",
+            "introduce": "<size=36><color=black>傘の葉はかつて非常に優れたパス職人でした。彼は114回目のプラントゾンビNBAで一世を風靡しましたが、中年期に差し掛かると…薄毛に悩まされるようになったのです。</color>",
             "info": "<size=36>入ってくるバスケットボールを反映する。\n\n<color=#3D1400>耐久力：</color><color=red>1000</color>\n<color=black>スペシャル：</color><color=#8B0000>3×3のエリア内でバスケットボールを跳ね返す。</color>",
             "cost": "<size=36>コスト：<color=#8B0000>75</color>\nクールタイム：<color=#8B0000>7.5秒</color>"
         },
@@ -221,13 +221,13 @@
             "seedType": 31,
             "name": "マリーゴールド",
             "introduce": "<size=36><color=black>マリーゴールドは非常に裕福なので、自由にお金を使うことができます。厳密に言うと、手も足もありません。</color>",
-            "info": "<size=36>銀貨、金貨、ダイヤモンドを生産します。\n\n<color=black>生産間隔：</color><color=#8B0000>25秒</color>\n<color=black>コイン生産量：\n</color><color=#8B0000>100コインの確率：75%\n300コインの確率：20%\n1000コインの確率：5%</color>",
+            "info": "<size=36>銀貨、金貨、ダイヤモンドを生産します。\n\n<color=black>生産間隔：</color><color=#8B0000>25秒</color>\n<color=black>コイン生産量：\n※</color><color=#8B0000>100コインの確率：75%\n</color><color=black>※</color><color=#8B0000>300コインの確率：20%\n</color><color=black>※</color><color=#8B0000>1000コインの確率：5%</color>",
             "cost": "<size=36>コスト：<color=#8B0000>25</color>\nクールタイム：<color=#8B0000>7.5秒</color>"
         },
         {
             "seedType": 32,
             "name": "スイカパルト",
-            "introduce": "<size=36><color=black>休憩中、スイカパルトはスイカの腕を二つに割って、かじって涼を取るのが大好きです。「味見してみますか？」とゾンビに陽気に尋ねますが、周りの植物は暑さでうだるような暑さで、羨ましそうによだれを垂らすしかありません。</color>",
+            "introduce": "<size=36><color=black>休憩中、スイカパルトはスイカの腕を二つに割って、かじって涼を取るのが大好きです。「味見してみますか？」とゾンビに陽気に尋ねますが、周りのプラントは暑さでうだるような暑さで、羨ましそうによだれを垂らすしかありません。</color>",
             "info": "<size=36>ゾンビにダメージを与えるためにメロンを発射する。\n\n<color=black>ダメージ：</color><color=#8B0000>80/3秒</color>",
             "cost": "<size=36>コスト：<color=#8B0000>300</color>\nクールタイム：<color=#8B0000>7.5秒</color>"
         },
@@ -249,35 +249,35 @@
             "seedType": 35,
             "name": "小松炉草",
             "introduce": "<align=justified><size=36><color=black>小松炉草は雪原第6回「植樹を楽しみにする」賞を受賞しました。プラントたちは一様に、彼が受賞に値する人物であると認めています。畢竟、仲間たちの暖を取るために、彼は自分の頭上の積雪を片付ける暇もなかったからです。</color>",
-            "info": "<size=36>浮遊する松の木製の小松炉草は、熱を放出し、小規模な植物が寒さから身を守るのを助けます。\n\n<color=black>スペシャル：</color><color=#8B0000>\n<color=black>•</color> 飛行植物同じタイル内の植物を雪玉や吹雪から守ります。\n<color=black>•</color> 保護範囲内の氷ブロックに3秒ごとに200のダメージを与えます。\n<color=black>•</color> 下方の雪原の基礎植物を吸収し、一時的に高熱小松炉草に変身します。保護範囲は3×3に拡大され、(1.2×植物の価格)秒間持続します。他の状況では、登場時に180秒間持続します。\n<color=#cceaed>雪原のギミック</color>：\n<color=black>•</color> 氷のブロックのHPは2000で、水平射撃の弾丸とゾンビを遮断します。\n<color=black>•</color> 植物側が氷のブロックを破壊すると、対応する植物が生成されます。\n<color=black>•</color> ゾンビ側が氷のブロックを破壊すると、対応するゾンボタニーが生成され、そうでない場合はモフモフ霜獣が生成されます。\n<color=black>•</color> 旗の波が始まると吹雪が発生し、フィールド内のすべての植物を氷のブロックに凍結します。</color>",
+            "info": "<size=36>浮遊する松の木製の小松炉草は、熱を放出し、小規模なプラントが寒さから身を守るのを助けます。\n\n<color=black>スペシャル：</color><color=#8B0000>\n<color=black>※</color>飛行植物同じタイル内のプラントを雪玉や吹雪から守ります。\n<color=black>※</color>保護範囲内の氷ブロックに3秒ごとに200のダメージを与えます。\n<color=black>※</color>下方の雪原の基礎植物を吸収し、一時的に高熱小松炉草に変身します。保護範囲は3×3に拡大され、(1.2×植物の価格)秒間持続します。他の状況では、登場時に180秒間持続します。\n<color=#cceaed>雪原のギミック</color>：\n<color=black>※</color>氷のブロックのHPは2000で、水平射撃の弾丸とゾンビを遮断します。\n<color=black>※</color>植物側が氷のブロックを破壊すると、対応するプラントが生成されます。\n<color=black>※</color>ゾンビ側が氷のブロックを破壊すると、対応するゾンボタニーが生成され、そうでない場合はモフモフ霜獣が生成されます。\n<color=black>※</color>旗の波が始まると吹雪が発生し、フィールド内のすべてのプラントを氷のブロックに凍結します。</color>",
             "cost": "<size=36>コスト：<color=#8B0000>25</color>\nクールタイム：<color=#8B0000>7.5秒</color>"
         },
         {
             "seedType": 36,
             "name": "スプルース射手",
             "introduce": "<align=justified><size=36><color=black>スプルース射手は雪原に引っ越してきたばかりだ。唇をすぼめた様子は、近寄りがたい険しい印象を与える。しかし、小松炉草は怖がってはいない。雪原の寒さに、新しい友人が襟首を引っ張り上げただけだと分かっているからだ。</color>",
-            "info": "<size=36>耐寒植物。突き刺すトウヒの針を発射する。\n\n<color=black>ダメージ：</color><color=#8B0000>20/1.5秒</color>\n<color=black>スペシャル：</color><color=#8B0000>\n<color=black>•</color> 雪玉と吹雪による凍結無効\n<color=black>•</color> 弾丸は一度だけ貫通可能で、盾膜を無視する。</color>",
+            "info": "<size=36>耐寒植物。突き刺すトウヒの針を発射する。\n\n<color=black>ダメージ：</color><color=#8B0000>20/1.5秒</color>\n<color=black>スペシャル：</color><color=#8B0000>\n<color=black>※</color>雪玉と吹雪による凍結無効\n<color=black>※</color>弾丸は一度だけ貫通可能で、盾膜を無視する。</color>",
             "cost": "<size=36>コスト：<color=#8B0000>175</color>\nクールタイム：<color=#8B0000>7.5秒</color>"
         },
         {
             "seedType": 37,
             "name": "雪蓮",
-            "introduce": "<align=justified><size=36><color=black>雪蓮は、決して回復者になるつもりはなかった——しかし、彼女の存在だけで周囲の植物が元気になるため、噂は瞬く間に広まった。今では、仕方なくクリニックを運営しながら、「私はただ冷たいだけで、資格はない」と主張している。患者たちは、その言葉に構わないようだ。</color>",
-            "info": "<size=36>耐寒植物。寒さでエネルギーを得て、近くのプラントを回復させる。\n\n<color=#0077b6>氷結システム：</color><color=#8B0000>\n<color=black>•</color> 10秒ごとに1層のチャージを獲得します。\n<color=black>•</color> 5層のチャージを獲得すると、チャージがリセットされ、周囲の3×3グリッドの植物に50のHPを回復します。</color>\n<color=black>•</color> 雪玉の効果を受けると、即座に1層のチャージを獲得します。\n<color=black>スペシャル：</color><color=#8B0000>雪玉と吹雪による凍結無効</color>",
+            "introduce": "<align=justified><size=36><color=black>雪蓮は、決して回復者になるつもりはなかった——しかし、彼女の存在だけで周囲のプラントが元気になるため、噂は瞬く間に広まった。今では、仕方なくクリニックを運営しながら、「私はただ冷たいだけで、資格はない」と主張している。患者たちは、その言葉に構わないようだ。</color>",
+            "info": "<size=36>耐寒植物。寒さでエネルギーを得て、近くのプラントを回復させる。\n\n<color=#0077b6>氷結システム：</color><color=#8B0000>\n<color=black>※</color>10秒ごとに1層のチャージを獲得します。\n<color=black>※</color>5層のチャージを獲得すると、チャージがリセットされ、周囲の3×3グリッドのプラントに50のHPを回復します。</color>\n<color=black>※</color>雪玉の効果を受けると、即座に1層のチャージを獲得します。\n<color=black>スペシャル：</color><color=#8B0000>雪玉と吹雪による凍結無効</color>",
             "cost": "<size=36>コスト：<color=#8B0000>50</color>\nクールタイム：<color=#8B0000>30秒</color>"
         },
         {
             "seedType": 38,
             "name": "水滴アロエ",
             "introduce": "<align=justified><size=36><color=black>水滴アロエは雪原にスパを開店するのはリラックスできるだろうと思っていたが、氷点下の寒さの中で冷たいお風呂に入りたい人はいないことに気づいた。少なくとも雪のおかげでタオルはパリパリしている。</color>",
-            "info": "<size=36>耐寒植物。寒さを好む投手は、水滴を投げ、寒くなると氷の塊を投げる。\n\n<color=black>ダメージ：</color><color=#8B0000>20/3秒</color>\n<color=#0077b6>氷結システム：</color><color=#8B0000>\n<color=black>•</color> 雪玉または雪トライデントの影響を受けると1層のチャージを獲得し、氷キノコの影響を受けると15層のチャージを獲得します。\n<color=black>•</color> チャージが0を超えると、1点のチャージを消費してダメージ×2の氷の塊を発射します。\n<color=black>•</color> 寒冷度1：ゾンビに命中するたびに40点の凍結値が累積し、凍結状態のゾンビに対して4倍のダメージを与えます。（霜の軍団には有効、ゾンビには無効）</color>",
+            "info": "<size=36>耐寒植物。寒さを好む投手は、水滴を投げ、寒くなると氷の塊を投げる。\n\n<color=black>ダメージ：</color><color=#8B0000>20/3秒</color>\n<color=#0077b6>氷結システム：</color><color=#8B0000>\n<color=black>※</color>雪玉または雪トライデントの影響を受けると1層のチャージを獲得し、氷キノコの影響を受けると15層のチャージを獲得します。\n<color=black>※</color>チャージが0を超えると、1点のチャージを消費してダメージ×2の氷の塊を発射します。\n<color=black>※</color>寒冷度1：ゾンビに命中するたびに40点の凍結値が累積し、凍結状態のゾンビに対して4倍のダメージを与えます。（霜の軍団には有効、ゾンビには無効）</color>",
             "cost": "<size=36>コスト：<color=#8B0000>75</color>\nクールタイム：<color=#8B0000>7.5秒</color>"
         },
         {
             "seedType": 39,
             "name": "冬筍バリケード",
-            "introduce": "<align=justified><size=36><color=black>「意志があれば、壁がある。」それが冬筍バリケードのモットーだ。「私が初めて芽を出した頃、人々は私をただの邪魔な小石だと言っていた。でも私は成長を続け、今では正式な交通コーンになった。」 それがどれくらい前のことか？ 「3日前だ」と言う。</color>",
-            "info": "<size=36>自身のHPを消費して、接近してくるゾンビにダメージを与える。\n\n<color=black>耐久力：</color><color=#8B0000>1500</color>\n<color=black>スペシャル：</color>\n<color=black>•</color> <color=#8B0000>他のプラントは、冬筍バリケードのダメージを吸収できません。</color>\n<color=black>•</color> <color=#8B0000>圧殺無効\n<color=black>•</color> <color=#8B0000>ゾンビと接触すると、ゾンビのHPが自身のHP以下であれば即座にゾンビを倒すが、そのゾンビのHPに等しいダメージを受ける。HPが自身のHPを超えるゾンビに対しては、自身のHPに等しいダメージをゾンビに与え、自身も破壊される。</color>",
+            "introduce": "<align=justified><size=36><color=black>「意志があれば、壁がある。」それが冬筍バリケードのモットーだ。「私が初めて芽を出した頃、人々は私をただの邪魔な小石だと言っていた。でも私は成長を続け、今では正式な交通コーンになった。」それがどれくらい前のことか？「3日前だ」と言う。</color>",
+            "info": "<size=36>自身のHPを消費して、接近してくるゾンビにダメージを与える。\n\n<color=black>耐久力：</color><color=#8B0000>1500</color>\n<color=black>スペシャル：</color>\n<color=black>※</color><color=#8B0000>他のプラントは、冬筍バリケードのダメージを吸収できません。</color>\n<color=black>※</color><color=#8B0000>圧殺無効。\n<color=black>※</color><color=#8B0000>ゾンビと接触すると、ゾンビのHPが自身のHP以下であれば即座にゾンビを倒すが、そのゾンビのHPに等しいダメージを受ける。HPが自身のHPを超えるゾンビに対しては、自身のHPに等しいダメージをゾンビに与え、自身も破壊される。</color>",
             "cost": "<size=36>コスト：<color=#8B0000>50</color>\nクールタイム：<color=#8B0000>15秒</color>"
         },
         {
@@ -291,35 +291,35 @@
             "seedType": 234,
             "name": "ダイヤモンド地雷",
             "introduce": "<align=justified><size=36><color=black>「子供の頃はいつも弱虫で、ゾンビには敵わず、誰も私と遊んでくれなかった」とダイヤモンド地雷は言った。「でも今、ダイヤモンドに包まれて、私は強くなった——そして反撃する準備はできている」しかし、彼は本当にそうする必要がある——すでにマリーゴールドに対して相当な借金を抱えているからだ。</color>",
-            "info": "<size=36>地雷ナッツは、ダイヤモンドと同じくらい硬く、同じくらい希少なものです。\n\n<color=#4A2900>利用条件：旅行モード：ランダム｜イースターエッグのプラントで、非常に稀な確率で出現する</color>\n<color=black>耐久力：</color><color=#8B0000>32000</color>\n<color=black>スペシャル：</color><color=#8B0000>\n<color=black>•</color> 低身植物（直進弾丸を回避する）\n<color=black>•</color> 圧殺無効、1回の攻撃で200ダメージ以上受けません。\n<color=black>•</color> ダメージフェーズの移行時と死亡時に500ポイントを獲得します。</color>",
+            "info": "<size=36>地雷ナッツは、ダイヤモンドと同じくらい硬く、同じくらい希少なものです。\n\n<color=#4A2900>利用条件：旅行モード：ランダム｜イースターエッグのプラントで、非常に稀な確率で出現する</color>\n<color=black>耐久力：</color><color=#8B0000>32000</color>\n<color=black>スペシャル：</color><color=#8B0000>\n<color=black>※</color>低身植物（直進弾丸を回避する）\n<color=black>※</color>圧殺無効、1回の攻撃で200ダメージ以上受けません。\n<color=black>※</color>ダメージフェーズの移行時と死亡時に500ポイントを獲得します。</color>",
             "cost": ""
         },
         {
             "seedType": 235,
             "name": "ダブルブラストパッションフルーツ",
-            "introduce": "<align=justified><size=36><color=black>ダブルブラストパッションフルーツは一度に1発しか発射しないので、なぜ「ダブルブラスト」なのか？ ああ、それはゾンビの骨が砕ける音だ。</color>",
-            "info": "<size=36>浮遊するパッションフルーツがゾンビに種を放つ。\n\n<color=blue>SHUTTLEコラボ プラント</color>\n\n<color=black>ダメージ：</color><color=#8B0000>40/1.5秒</color>\n<color=black>スペシャル：</color><color=#8B0000>\n<color=black>•</color> 飛行植物\n<color=black>•</color> 一撃ごとにゾンビの最大耐久力の10%分の追加ダメージをゾンビの装甲に与える。\n<color=black><color=black>必殺技：</color><color=#8B0000>コスト：3000コイン、クールタイム：2秒。巨大なパッションフルーツの実を発射し、アーマーに現在のHPの20%分のダメージを与える。</color>",
+            "introduce": "<align=justified><size=36><color=black>ダブルブラストパッションフルーツは一度に1発しか発射しないので、なぜ「ダブルブラスト」なのか？ああ、それはゾンビの骨が砕ける音だ。</color>",
+            "info": "<size=36>浮遊するパッションフルーツがゾンビに種を放つ。\n\n<color=blue>SHUTTLEコラボプラント</color>\n\n<color=black>ダメージ：</color><color=#8B0000>40/1.5秒</color>\n<color=black>スペシャル：</color><color=#8B0000>\n<color=black>※</color>飛行植物\n<color=black>※</color>一撃ごとにゾンビの最大耐久力の10%分の追加ダメージをゾンビの装甲に与える。\n<color=black><color=black>必殺技：</color><color=#8B0000>コスト：3000コイン、クールタイム：2秒。巨大なパッションフルーツの実を発射し、アーマーに現在のHPの20%分のダメージを与える。</color>",
             "cost": "<size=36>コスト：<color=#8B0000>100</color>\nクールタイム：<color=#8B0000>7.5秒</color>"
         },
         {
             "seedType": 236,
             "name": "霜梨",
             "introduce": "<align=justified><size=36><color=black>「木から落ちて、長いことここにいるんだ。「木の下に天才的な頭脳がいなかったのは残念だ。でも、少なくとも私は物理学について考えることができる」。彼はいつ休憩するのだろう？それは脳なしゾンビがいつ邪魔をするかによるね。",
-            "info": "<size=36>噛まれると衝撃波を放ち、ダメージを与えて、冷気を与えする。\n\n<color=blue>SHUTTLEコラボ プラント</color>\n<color=black>耐久力：</color><color=#8B0000> 4000</color>\n<color=#0077b6>氷結システム：</color><color=#8B0000>噛まれた時、3秒ごとに小さな衝撃波を放ち、20ダメージを与えて、冷気を与えし、35氷結ポイントを追加する。</color>",
+            "info": "<size=36>噛まれると衝撃波を放ち、ダメージを与えて、冷気を与えする。\n\n<color=blue>SHUTTLEコラボプラント</color>\n<color=black>耐久力：</color><color=#8B0000> 4000</color>\n<color=#0077b6>氷結システム：</color><color=#8B0000>噛まれた時、3秒ごとに小さな衝撃波を放ち、20ダメージを与えて、冷気を与えし、35氷結ポイントを追加する。</color>",
             "cost": "<size=36>コスト：<color=#8B0000>150</color>\nクールタイム：<color=#8B0000>30秒</color>"
         },
         {
             "seedType": 237,
             "name": "氷の先端リリー",
-            "introduce": "<align=justified><size=36><color=black>氷の先端リリーは 「奴らの首を切れ！」とよく叫ぶが、温情主義者ではない。雪山武術の達人として、彼の氷を刃に変える技は、どんな不純な侵入者も阻止することができる。</color>",
-            "info": "<size=36>各攻撃で扇状に5本の氷刃を放つ。\n\n<color=blue>SHUTTLEコラボ プラント</color>\n\n<color=black>ダメージ：</color><color=#8B0000>20×5/1.5秒</color>\n<color=#0077b6>氷結システム：</color>氷刃は2回貫通し、冷気を与え、氷結ポイントを5加算し、凍結したゾンビに4倍のダメージを与える。</color>\n<color=black>スペシャル：</color><color=#8B0000>同じ列にゾンビがいる場合のみ攻撃する。",
+            "introduce": "<align=justified><size=36><color=black>氷の先端リリーは「奴らの首を切れ！」とよく叫ぶが、温情主義者ではない。雪山武術の達人として、彼の氷を刃に変える技は、どんな不純な侵入者も阻止することができる。</color>",
+            "info": "<size=36>各攻撃で扇状に5本の氷刃を放つ。\n\n<color=blue>SHUTTLEコラボプラント</color>\n\n<color=black>ダメージ：</color><color=#8B0000>20×5/1.5秒</color>\n<color=#0077b6>氷結システム：</color>氷刃は2回貫通し、冷気を与え、氷結ポイントを5加算し、凍結したゾンビに4倍のダメージを与える。</color>\n<color=black>スペシャル：</color><color=#8B0000>同じ列にゾンビがいる場合のみ攻撃する。",
             "cost": "<size=36>コスト：<color=#8B0000>325</color>\nクールタイム：<color=#8B0000>30秒</color>"
         },
         {
             "seedType": 238,
             "name": "澄んだ芽の秋菊",
             "introduce": "<align=justified><size=36><color=black>澄んだ芽の秋菊は雪原が大好きだ。何しろ、彼は雪を見たことがないのだから。</color>",
-            "info": "<size=36>近くのプラントに一時的な無敵状態を与える。\n\n<color=blue>PvZ: Ultimateコラボ プラント</color>\n<color=black>スペシャル：</color><color=#8B0000>\n植えてから2秒後に消える。3×3グリッド内のすべてのプラントに、全ダメージおよび圧殺に対する6秒間の無効を付与する。</color>",
+            "info": "<size=36>近くのプラントに一時的な無敵状態を与える。\n\n<color=blue>PvZ: Ultimateコラボプラント</color>\n<color=black>スペシャル：</color><color=#8B0000>\n植えてから2秒後に消える。3×3グリッド内のすべてのプラントに、全ダメージおよび圧殺に対する6秒間の無効を付与する。</color>",
             "cost": "<size=36>コスト：<color=#8B0000>100</color>\nクールタイム：<color=#8B0000>50秒</color>"
         },
         {
@@ -340,7 +340,7 @@
             "seedType": 241,
             "name": "極寒豆",
             "introduce": "<align=justified><size=36><color=black>プラントたちは、こんなに小さな豆がどうして空気をこれほど冷やせるのか理解できなかった。でも極寒豆はいたずらっぽくニヤリと笑った。「猫尾草が洗濯するとくしゃみする理由、知ってる？だって“ネコ”の服を洗ってるからさ。」——本当の魔法は、ユーモアのセンスにあるのかもしれない。</color>",
-            "info": "<size=36>Hey↑ Yeh↓！\n\n<color=#4A2900>アンロック条件：ウォルナットビリヤードを完了する</color>\n<color=black>スペシャル：</color><color=#8B0000>\n<color=black>•</color> 飛行植物\n<color=black>•</color> 下にいる雪ピーシューターを強化し、極寒氷ピー豆を発射させる。ゾンビに与えるダメージと氷結ポイントが2倍になる。</color>",
+            "info": "<size=36>Hey↑ Yeh↓！\n\n<color=#4A2900>アンロック条件：ウォルナットビリヤードを完了する</color>\n<color=black>スペシャル：</color><color=#8B0000>\n<color=black>※</color>飛行植物\n<color=black>※</color>下にいる雪ピーシューターを強化し、極寒氷ピー豆を発射させる。ゾンビに与えるダメージと氷結ポイントが2倍になる。</color>",
             "cost": "<size=36>コスト：<color=#8B0000>125</color>\nクールタイム：<color=#8B0000>30秒</color>"
         },
         {
@@ -353,7 +353,7 @@
         {
             "seedType": 243,
             "name": "バーガー砲",
-            "introduce": "<size=36><color=#3D1400>バーガー砲の出自について、プラントたちはよく首をかしげる。特に、彼が他のプラントを積み重ねてパワーアップしているのを見るときはなおさらだ。実は彼、デイブが植物でタコスを作ろうとした結果生まれた副産物なのだ。「実際の商品は異なる場合があります。具材は各自でご用意ください。」</color>",
+            "introduce": "<size=36><color=#3D1400>バーガー砲の出自について、プラントたちはよく首をかしげる。特に、彼が他のプラントを積み重ねてパワーアップしているのを見るときはなおさらだ。実は彼、デイブがプラントでタコスを作ろうとした結果生まれた副産物なのだ。「実際の商品は異なる場合があります。具材は各自でご用意ください。」</color>",
             "info": "<size=36>ハイブリッドエディションからの贈り物！\n\n<color=#3D1400>ダメージ：</color><color=red>20×2/3秒</color>\n<color=#3D1400>耐久力：</color><color=red>1000</color>\n\n<color=#3D1400>太陽生産量：</color><color=red>25/25秒</color>\n<color=#3D1400>スペシャル：</color><color=red>背高植物。ランダムな弾丸を発射する。サボテン、スイカパルト、氷スイカを使用してアップグレードし、最高レベルに到達できる。\nサボテン強化——レベル：0→1、HP：1000→2000、攻撃間隔：3→2.5秒、発射数：2→4、新しい弾丸：スパイク＆バター＆スクワッシュ；\nスイカパルト強化——レベル：1→2、HP：2000→3000、ダメージ：30→40、発射数：4→6、新しい弾丸：炎スイカ＆スイカ；\n氷スイカ強化——レベル：2→3,攻撃間隔：2.5→2秒、発射数：6→8、新しい弾丸：氷スイカ＆雪ピー＆冷凍胞子＆破滅つらら<color=red></color>",
             "cost": "<size=36>コスト：<color=red>150</color>\nクールタイム：<color=red>30秒</color>"
         },
@@ -430,14 +430,14 @@
         {
             "seedType": 256,
             "name": "プラントガチャ箱",
-            "introduce": "<size=36><color=black>誰も、プラントガチャ箱が植物と共にゾンビと戦っている理由を完全に理解していない。彼は植物には全く見えないが、能力を全て熟知しているようだ。「実は、私はただゲームが好きな大学生です」と、彼は笑みを浮かべて告白する。「教授が追加の単位をくれると言っていたので、ここにいます」</color></size>",
+            "introduce": "<size=36><color=black>誰も、プラントガチャ箱がプラントと共にゾンビと戦っている理由を完全に理解していない。彼はプラントには全く見えないが、能力を全て熟知しているようだ。「実は、私はただゲームが好きな大学生です」と、彼は笑みを浮かべて告白する。「教授が追加の単位をくれると言っていたので、ここにいます」</color></size>",
             "info": "<size=36>プラントガチャ箱を植えて、ランダムプラントや融合物を生成できます。\n\n<color=black>スペシャル：</color><color=#8B0000>土の上またはスイレンに置くと、ランダムプラントを生み出します。適応可能なプラントの上に置くと、ランダムな融合を生み出すことがあります。</color></size>",
             "cost": "<size=36>コスト：<color=#8B0000>100</color>\nクールタイム：<color=#8B0000>15秒</color></size>"
         },
         {
             "seedType": 300,
             "name": "剣聖スターフルーツ",
-            "introduce": "<align=justified><size=36><color=black>「花の香りが広間に満ち、三千の客を酔わせる。剣は十四の州を凍らせる。帝が船に乗れと呼んでも、私は乗らない——酒に宿る仙人だから。」 \n 剣聖スターフルーツは、酔ったときに詩を吟じながら、酔拳ならぬ酔剣を振るうのが好きだ。プラントたちは彼がゾンビを倒す力に驚嘆するが、彼は「空の明月を狙って剣を飛ばしただけ」と言う。そして剣を収めると、それは地上へと戻ってくるのだった。</color>",
+            "introduce": "<align=justified><size=36><color=black>「花の香りが広間に満ち、三千の客を酔わせる。剣は十四の州を凍らせる。帝が船に乗れと呼んでも、私は乗らない——酒に宿る仙人だから。」\n 剣聖スターフルーツは、酔ったときに詩を吟じながら、酔拳ならぬ酔剣を振るうのが好きだ。プラントたちは彼がゾンビを倒す力に驚嘆するが、彼は「空の明月を狙って剣を飛ばしただけ」と言う。そして剣を収めると、それは地上へと戻ってくるのだった。</color>",
             "info": "<size=36>剣聖スターフルーツはゾンビを一掃し、天空から十本の巨大な剣を召喚する。\n\n<color=#3D1400>利用条件：深淵チャレンジ。レベル10をクリアすると、剣豪スターフルーツからアップグレードされる。フィールドには剣聖スターフルーツを1体のみ配置可能。</color>\n\n<color=black>ダメージ：</color><color=#8B0000>(1800×2+1800×10)/6秒</color>\n<color=black>スペシャル：</color><color=#8B0000>攻撃時、3×3グリッド内のゾンビに1800のダメージを2回与える。その後、フィールド全体の敵を狙う巨大な剣を10本召喚し、それぞれ着地時に1800の範囲ダメージを与える。</color>",
             "cost": "<size=36>コスト：<color=#8B0000>750</color>\nクールタイム<color=#8B0000>30秒</color>"
         },
@@ -445,98 +445,98 @@
             "seedType": 350,
             "name": "ピーマワリ（ＴＤ）",
             "introduce": "<align=justified><size=36><color=black>「実は、前にいるピーシューターは私の兄弟なんです」とヒマワリがみんなに説明した。「生まれた時からずっと一緒。私は太陽を作るのが好きで、彼は私の代わりにゾンビを倒してくれるの。」でも、みんな本当のことを知っている。あの陽気なピー兄弟は、完全なるシスコン。だって、ヒマワリに近づいたゾンビは、なぜかいつも太陽光で蒸発するのだから。</color>",
-            "info": "<size=36>ピーマワリは、太陽を生成する太陽弾丸を発射できます。\n\n<color=blue>Rキーを押すと元に戻せます</color>\n<color=black>ダメージ：</color><color=#8B0000>20/1.5秒</color>\n<color=black>スペシャル：</color><color=#8B0000>弾がゾンビに当たると、太陽を5つ落とします。</color>\n<color=black>強化リスト：</color><color=#8B0000>\n<color=black>• 基本強化：</color>（80太陽）攻撃力と攻撃速度が20%増加\n<color=black>• 高度強化経路1：</color>（200太陽）攻撃力が200%増加\n<color=black>• 高度強化経路2：</color>（200太陽）攻撃速度が100%増加</color>",
+            "info": "<size=36>ピーマワリは、太陽を生成する太陽弾丸を発射できます。\n\n<color=blue>Rキーを押すと元に戻せます</color>\n<color=black>ダメージ：</color><color=#8B0000>20/1.5秒</color>\n<color=black>スペシャル：</color><color=#8B0000>弾がゾンビに当たると、太陽を5つ落とします。</color>\n<color=black>強化リスト：</color><color=#8B0000>\n<color=black>※基本強化：</color>（80太陽）攻撃力と攻撃速度が20%増加\n<color=black>※高度強化経路1：</color>（200太陽）攻撃力が200%増加\n<color=black>※高度強化経路2：</color>（200太陽）攻撃速度が100%増加</color>",
             "cost": "<size=36>コスト：<color=#8B0000>200</color>\nクールタイム：<color=#8B0000>7.5秒</color></size>"
         },
         {
             "seedType": 351,
             "name": "サンシャインキノコ（ＴＤ）",
             "introduce": "<align=justified><size=36><color=black>熟練の日光預かり屋、サンシャインキノコは、あなたの預金に高利率を提供します。「定期預金を選んだんだろう？」と彼は、苛立つ双子太陽ナッツに厳しく言い放つ。「まだ引き出しはできないよ。」</color>",
-            "info": "<size=36>近くの太陽を吸収・増幅し、まとめて放出する先見の明ある太陽生産者。\n\n<color=black>太陽生産量：</color><color=#8B0000>25/25秒</color>\n<color=black>スペシャル：</color><color=#8B0000>\n<color=black>•</color> 落ちた太陽を5×5の範囲で吸収し、価値を1.3倍にして蓄えます。\n<color=black>•</color> 次の生産時に、可能な限り太陽を25個ずつまとめて放出します。</color>\n<color=black>強化リスト：</color><color=#8B0000>\n<color=black>• 基本強化：</color>（60太陽）太陽生産量速度が50%増加\n<color=black>• 高度強化経路1：</color>（160太陽）太陽生産量速度が200%増加\n<color=black>• 高度強化経路2：</color>（160太陽）太陽値が2倍</color>",
+            "info": "<size=36>近くの太陽を吸収・増幅し、まとめて放出する先見の明ある太陽生産者。\n\n<color=black>太陽生産量：</color><color=#8B0000>25/25秒</color>\n<color=black>スペシャル：</color><color=#8B0000>\n<color=black>※</color>落ちた太陽を5×5の範囲で吸収し、価値を1.3倍にして蓄えます。\n<color=black>※</color>次の生産時に、可能な限り太陽を25個ずつまとめて放出します。</color>\n<color=black>強化リスト：</color><color=#8B0000>\n<color=black>※基本強化：</color>（60太陽）太陽生産量速度が50%増加\n<color=black>※高度強化経路1：</color>（160太陽）太陽生産量速度が200%増加\n<color=black>※高度強化経路2：</color>（160太陽）太陽値が2倍</color>",
             "cost": "<size=36>コスト：<color=#8B0000>150</color>\nクールタイム：<color=#8B0000>7.5秒</color></size>"
         },
         {
             "seedType": 352,
             "name": "チェリー爆弾シューター（ＴＤ）",
             "introduce": "<align=justified><size=36><color=black>究極のゾンビキラー、チェリー爆弾シューター登場。あの温厚で親しみやすかったチェリーシューターが、特別なチェリーをもう一つ飲み込むなんて…誰が予想した？刺激しないほうがいい。喉に詰まったそのチェリー、次の弾になるかも。顔はすでに真っ赤だ！</color>",
-            "info": "<size=36>着弾すると爆発するチェリーを発射します。\n\n<color=blue>Rキーを押すと元に戻せます</color>\n<color=black>ダメージ：</color><color=#8B0000>20/3秒</color>\n<color=black>スペシャル：</color><color=#8B0000>チェリー爆弾に耐性があり、範囲ダメージを与えます。</color>\n<color=black>強化リスト：</color><color=#8B0000>\n<color=black>• 基本強化：</color>（160太陽）攻撃力が50%増加\n<color=black>• 高度強化経路1：</color>（400太陽）攻撃力が100%増加、爆発範囲が50%増加\n<color=black>• 高度強化経路2：</color>（400太陽）攻撃速度が200%増加</color>",
+            "info": "<size=36>着弾すると爆発するチェリーを発射します。\n\n<color=blue>Rキーを押すと元に戻せます</color>\n<color=black>ダメージ：</color><color=#8B0000>20/3秒</color>\n<color=black>スペシャル：</color><color=#8B0000>チェリー爆弾に耐性があり、範囲ダメージを与えます。</color>\n<color=black>強化リスト：</color><color=#8B0000>\n<color=black>※基本強化：</color>（160太陽）攻撃力が50%増加\n<color=black>※高度強化経路1：</color>（400太陽）攻撃力が100%増加、爆発範囲が50%増加\n<color=black>※高度強化経路2：</color>（400太陽）攻撃速度が200%増加</color>",
             "cost": "<size=36>コスト：<color=#8B0000>400</color>\nクールタイム：<color=#8B0000>50秒</color></size>"
         },
         {
             "seedType": 353,
             "name": "スターナッツ（ＴＤ）",
             "introduce": "<align=justified><size=36><color=black>スターナッツは岩の下に住み、めったに動きません。怠け者だからではなく、彼にはこだわりがあるのです。ある四角い友達にクラゲ釣りや、頭足類の隣人へのいたずらに誘われたときだけ動くのです。</color>",
-            "info": "<size=36>スターで反撃するリアクティブな防御者。\n\n<color=black>耐久力：</color><color=#8B0000>4000</color>\n<color=black>スペシャル：</color><color=#8B0000>ダメージを受けると、全方向に20ダメージのスターを5つ発射します。</color>\n<color=black>強化リスト：</color><color=#8B0000>\n<color=black>• 基本強化：</color>（80太陽）現在のHPと最大HPが50％増加\n<color=black>• 高度強化経路1：</color>（200太陽）HPが200%増加\n<color=black>• 高度強化経路2：</color>（200太陽）回復力が100%増加（100HP/3秒）</color>",
+            "info": "<size=36>スターで反撃するリアクティブな防御者。\n\n<color=black>耐久力：</color><color=#8B0000>4000</color>\n<color=black>スペシャル：</color><color=#8B0000>ダメージを受けると、全方向に20ダメージのスターを5つ発射します。</color>\n<color=black>強化リスト：</color><color=#8B0000>\n<color=black>※基本強化：</color>（80太陽）現在のHPと最大HPが50％増加\n<color=black>※高度強化経路1：</color>（200太陽）HPが200%増加\n<color=black>※高度強化経路2：</color>（200太陽）回復力が100%増加（100HP/3秒）</color>",
             "cost": "<size=36>コスト：<color=#8B0000>200</color>\nクールタイム：<color=#8B0000>30秒</color></size>"
         },
         {
             "seedType": 354,
             "name": "太陽地雷（ＴＤ）",
             "introduce": "<align=justified><size=36><color=black>「赤信号では止まり、黄信号では減速、交通ルールは守ること！」太陽地雷はゾンビたちに何度も忠告します。しかしゾンビたちの目に映るのは、ただ不快な緑色だけ 彼は緑の葉をぎゅっと握りしめ、ふくれっ面で太陽を恋しがります。「だって、太陽こそが僕たちのエネルギー源なんだから！」</color>",
-            "info": "<size=36>太陽地雷は爆発する前と爆発した後に太陽を生成します。\n\n<color=black>ダメージ：</color><color=#8B0000>1000</color>\n<color=black>スペシャル：</color><color=#8B0000>爆発時に50太陽を落とす</color>\n<color=black>強化リスト：</color><color=#8B0000>\n<color=black>• 基本強化：</color>（10太陽）爆発ダメージが50％増加\n<color=black>• 高度強化経路1：</color>（25太陽）爆発範囲が50%増加\n<color=black>• 高度強化経路2：</color>（25太陽）爆発ダメージが100%増加</color>",
+            "info": "<size=36>太陽地雷は爆発する前と爆発した後に太陽を生成します。\n\n<color=black>ダメージ：</color><color=#8B0000>1000</color>\n<color=black>スペシャル：</color><color=#8B0000>爆発時に50太陽を落とす</color>\n<color=black>強化リスト：</color><color=#8B0000>\n<color=black>※基本強化：</color>（10太陽）爆発ダメージが50％増加\n<color=black>※高度強化経路1：</color>（25太陽）爆発範囲が50%増加\n<color=black>※高度強化経路2：</color>（25太陽）爆発ダメージが100%増加</color>",
             "cost": "<size=36>コスト：<color=#8B0000>25</color>\nクールタイム：<color=#8B0000>50秒</color></size>"
         },
         {
             "seedType": 355,
             "name": "氷グルームキノコ（ＴＤ）",
-            "introduce": "<align=justified><size=36><color=black>物理学者になる夢を抱き、氷グルームキノコは日々世界の複雑さを解き明かすことに没頭しています。他の植物との接触を避けながら、彼の頭に生える複数の氷の“ひも”について考え込むのが最近の関心事。「なぜ僕の頭から氷のひもが何本も生えてるんだろう？」彼はなぜか“ひも”と呼ぶことに強いこだわりを持っています。</color>",
-            "info": "<size=36>周囲に冷たい氷胞子塊を放ち、ゾンビを凍らせます。\n\n<color=black>ダメージ：</color><color=#8B0000>5×4/3.8秒（貫通）</color>\n<color=black>スペシャル：</color><color=#8B0000>攻撃は冷気効果を与える。</color>\n<color=black>強化リスト：</color><color=#8B0000>\n<color=black>• 基本強化：</color>（80太陽）攻撃速度が50%増加\n<color=black>• 高度強化経路1：</color>（200太陽）攻撃は10の氷結ポイントを追加\n<color=black>• 高度強化経路2：</color>（200太陽）冷却時間が2倍</color>",
+            "introduce": "<align=justified><size=36><color=black>物理学者になる夢を抱き、氷グルームキノコは日々世界の複雑さを解き明かすことに没頭しています。他のプラントとの接触を避けながら、彼の頭に生える複数の氷の“ひも”について考え込むのが最近の関心事。「なぜ僕の頭から氷のひもが何本も生えてるんだろう？」彼はなぜか“ひも”と呼ぶことに強いこだわりを持っています。</color>",
+            "info": "<size=36>周囲に冷たい氷胞子塊を放ち、ゾンビを凍らせます。\n\n<color=black>ダメージ：</color><color=#8B0000>5×4/3.8秒（貫通）</color>\n<color=black>スペシャル：</color><color=#8B0000>攻撃は冷気効果を与える。</color>\n<color=black>強化リスト：</color><color=#8B0000>\n<color=black>※基本強化：</color>（80太陽）攻撃速度が50%増加\n<color=black>※高度強化経路1：</color>（200太陽）攻撃は10の氷結ポイントを追加\n<color=black>※高度強化経路2：</color>（200太陽）冷却時間が2倍</color>",
             "cost": "<size=36>コスト：<color=#8B0000>200</color>\nクールタイム：<color=#8B0000>7.5秒</color></size>"
         },
         {
             "seedType": 356,
             "name": "チェリーチョンパー（ＴＤ）",
             "introduce": "<align=justified><size=36><color=black>チェリー爆弾との一杯以来、チョンパーは常に“バズって”います。食事のたびに大騒ぎ。噛む音は爆発音に変わり、皿や茶碗が宙を舞い、誰も彼女と食卓を囲みたがらなくなりました。多数決の末、チェリーチョンパーは庭で食事をすることに…少なくとも、食器を買い直す必要はなくなりました。</color>",
-            "info": "<size=36>ゾンビを噛むとチェリー爆発を起こします。\n\n<color=blue>Rキーを押すと元に戻せます</color>\n<color=black>ダメージ：</color><color=#8B0000>即死（捕食）</color>\n<color=black>咀嚼時間：</color><color=#8B0000>40秒</color>\n<color=black>スペシャル：</color><color=#8B0000>噛みつき成功時、前方のタイルに1000ダメージの3×3チェリー爆発を発生させます。</color>\n<color=black>強化リスト：</color><color=#8B0000>\n<color=black>• 基本強化：</color>（200太陽）爆発ダメージが20％増加、咀嚼時間が10秒減少\n<color=black>• 高度強化経路1：</color>（500太陽）爆発ダメージが100%増加\n<color=black>• 高度強化経路2：</color>（500太陽）咀嚼時間が50%減少（15秒）</color>",
+            "info": "<size=36>ゾンビを噛むとチェリー爆発を起こします。\n\n<color=blue>Rキーを押すと元に戻せます</color>\n<color=black>ダメージ：</color><color=#8B0000>即死（捕食）</color>\n<color=black>咀嚼時間：</color><color=#8B0000>40秒</color>\n<color=black>スペシャル：</color><color=#8B0000>噛みつき成功時、前方のタイルに1000ダメージの3×3チェリー爆発を発生させます。</color>\n<color=black>強化リスト：</color><color=#8B0000>\n<color=black>※基本強化：</color>（200太陽）爆発ダメージが20％増加、咀嚼時間が10秒減少\n<color=black>※高度強化経路1：</color>（500太陽）爆発ダメージが100%増加\n<color=black>※高度強化経路2：</color>（500太陽）咀嚼時間が50%減少（15秒）</color>",
             "cost": "<size=36>コスト：<color=#8B0000>500</color>\nクールタイム：<color=#8B0000>50秒</color></size>"
         },
         {
             "seedType": 357,
             "name": "雷のオニオン（ＴＤ）",
             "introduce": "<align=justified><size=36><color=black>雷のオニオンねぎは『科学怪人』の撮影に参加したことがある。彼はついに主演の役を得られると思っていた。畢竟、閃電を食らった回数はもう100回を優に超えていたからだ。しかし、撮影現場で脚本を受け取った時、彼はただスタン博士の避雷針役を演じるだけだったことに気づいた…</color>",
-            "info": "<size=36>電流で近づいてくるゾンビを攻撃せよ！\n\n<color=black>ダメージ：</color><color=#8B0000>20/1.5秒</color>\n<color=black>攻撃範囲：</color><color=#8B0000>5×5</color>\n<color=black>スペシャル：</color><color=#8B0000>\n<color=black>•</color> 攻撃範囲内に他の攻撃中の雷のオニオンが存在し、自身がアイドル状態の場合、その雷のオニオンにエネルギーを供給し、今回の射撃に追加で150のダメージを与えます。\n<color=black>•</color> 各攻撃は最大3体のゾンビに連鎖し、1体につき元のダメージの3分の1を与えます。</color>\n<color=black>強化リスト：</color><color=#8B0000>\n<color=black>• 基本強化：</color>（120太陽）攻撃力が50%増加\n<color=black>• 高度強化経路1：</color>（300太陽）連鎖攻撃は最大ダメージを与える\n<color=black>• 高度強化経路2：</color>（300太陽）攻撃力が300%増加、ただし連鎖は発生しなくなった</color>",
+            "info": "<size=36>電流で近づいてくるゾンビを攻撃せよ！\n\n<color=black>ダメージ：</color><color=#8B0000>20/1.5秒</color>\n<color=black>攻撃範囲：</color><color=#8B0000>5×5</color>\n<color=black>スペシャル：</color><color=#8B0000>\n<color=black>※</color>攻撃範囲内に他の攻撃中の雷のオニオンが存在し、自身がアイドル状態の場合、その雷のオニオンにエネルギーを供給し、今回の射撃に追加で150のダメージを与えます。\n<color=black>※</color>各攻撃は最大3体のゾンビに連鎖し、1体につき元のダメージの3分の1を与えます。</color>\n<color=black>強化リスト：</color><color=#8B0000>\n<color=black>※基本強化：</color>（120太陽）攻撃力が50%増加\n<color=black>※高度強化経路1：</color>（300太陽）連鎖攻撃は最大ダメージを与える\n<color=black>※高度強化経路2：</color>（300太陽）攻撃力が300%増加、ただし連鎖は発生しなくなった</color>",
             "cost": "<size=36>コスト：<color=#8B0000>300</color>\nクールタイム：<color=#8B0000>7.5秒</color></size>"
         },
         {
             "seedType": 358,
             "name": "ピーノコ（ＴＤ）",
             "introduce": "<align=justified><size=36><color=black>「私のサイズに惑わされないで。小さな体にも、大きなエネルギーは宿るんだよ」ピーノコは、彼を侮る者たちにそう忠告します。「みんな最初は小さなキノコだった。少しずつ進めば、私みたいになれるさ。太陽の朝食に真剣に取り組めばね。」</color>",
-            "info": "<size=36>ピーノコはパフキノコよりも遠くまで弾を飛ばします。\n\n<color=blue>Rキーを押すと元に戻せます</color>\n<color=black>ダメージ：</color><color=#8B0000>10/1.5秒</color>\n<color=black>スペシャル：</color><color=#8B0000>低背植物、重ね植え可能。</color>\n<color=black>強化リスト：</color><color=#8B0000>\n<color=black>• 基本強化：</color>（20太陽）攻撃力が50%増加\n<color=black>• 高度強化経路1：</color>（50太陽）攻撃力が100%増加、小さな炎ピー豆を発射できる\n<color=black>• 高度強化経路2：</color>（50太陽）攻撃力が200%増加</color>",
+            "info": "<size=36>ピーノコはパフキノコよりも遠くまで弾を飛ばします。\n\n<color=blue>Rキーを押すと元に戻せます</color>\n<color=black>ダメージ：</color><color=#8B0000>10/1.5秒</color>\n<color=black>スペシャル：</color><color=#8B0000>低背植物、重ね植え可能。</color>\n<color=black>強化リスト：</color><color=#8B0000>\n<color=black>※基本強化：</color>（20太陽）攻撃力が50%増加\n<color=black>※高度強化経路1：</color>（50太陽）攻撃力が100%増加、小さな炎ピー豆を発射できる\n<color=black>※高度強化経路2：</color>（50太陽）攻撃力が200%増加</color>",
             "cost": "<size=36>コスト：<color=#8B0000>50</color>\nクールタイム：<color=#8B0000>7.5秒</color></size>"
         },
         {
             "seedType": 359,
             "name": "太陽キノコ（ＴＤ）",
-            "introduce": "<align=justified><size=36><color=black>太陽キノコは、いつもひっそりと暗い隅で育つ。でも、黙って太陽を蓄えている。「私は弱くて小さいって、わかってる」太陽キノコは言う。「でも、私の太陽は欠かせないもの。私は、すべての輝きの道の始まりなの」 誰も彼女の考えを否定しない。夜には彼女がいる。そして、彼女だけではない。</color>",
-            "info": "<size=36>成長すると、より多くの太陽を生み出せる。\n\n<color=black>太陽生産量：</color><color=#8B0000>5→15/25秒</color>\n<color=black>成長時間</color><color=#8B0000>120秒</color>\n<color=black>スペシャル：</color><color=#8B0000>低背植物、重ね植え可能。</color>\n<color=black>強化リスト：</color><color=#8B0000>\n<color=black>• 基本強化：</color>（10太陽）太陽生産間隔→16.67秒\n<color=black>• 高度強化経路1：</color>（25太陽）すぐに成長し、太陽を生産します\n<color=black>• 高度強化経路2：</color>（25太陽）太陽生産量が2倍</color>",
+            "introduce": "<align=justified><size=36><color=black>太陽キノコは、いつもひっそりと暗い隅で育つ。でも、黙って太陽を蓄えている。「私は弱くて小さいって、わかってる」太陽キノコは言う。「でも、私の太陽は欠かせないもの。私は、すべての輝きの道の始まりなの」誰も彼女の考えを否定しない。夜には彼女がいる。そして、彼女だけではない。</color>",
+            "info": "<size=36>成長すると、より多くの太陽を生み出せる。\n\n<color=black>太陽生産量：</color><color=#8B0000>5→15/25秒</color>\n<color=black>成長時間</color><color=#8B0000>120秒</color>\n<color=black>スペシャル：</color><color=#8B0000>低背植物、重ね植え可能。</color>\n<color=black>強化リスト：</color><color=#8B0000>\n<color=black>※基本強化：</color>（10太陽）太陽生産間隔→16.67秒\n<color=black>※高度強化経路1：</color>（25太陽）すぐに成長し、太陽を生産します\n<color=black>※高度強化経路2：</color>（25太陽）太陽生産量が2倍</color>",
             "cost": "<size=36>コスト：<color=#8B0000>25</color>\nクールタイム：<color=#8B0000>7.5秒</color></size>"
         },
         {
             "seedType": 360,
             "name": "煙キノコ（ＴＤ）",
             "introduce": "<align=justified><size=36><color=black>煙キノコは、ゾンビの姿すら目障りな人間嫌いの仕事人。弾の備蓄は少ないが、殺傷力は十分すぎるほど。「急ぎじゃなきゃ話しかけるな。殺したいなら、自分で撃てばいいだろ」そんな冷淡な態度でも、その圧倒的な効率の良さに、周囲は一目置いている。</color>",
-            "info": "<size=36>煙キノコは前方のゾンビをほとんど殲滅できます。\n\n<color=blue>Rキーを押すと元に戻せます</color>\n<color=black>ダメージ：</color><color=#8B0000>1000/60秒</color>\n<color=black>スペシャル：</color><color=#8B0000>強化メニューで手動クリックすると（攻撃）、前方の列のゾンビ全員を攻撃します。</color>\n<color=black>強化リスト：</color><color=#8B0000>\n<color=black>• 基本強化：</color>（200太陽）攻撃力+50%\n<color=black>• 高度強化経路1：</color>（500太陽）攻撃力が200%増加\n<color=black>• 高度強化経路2：</color>（500太陽）攻撃のクールタイムが50％減少</color>",
+            "info": "<size=36>煙キノコは前方のゾンビをほとんど殲滅できます。\n\n<color=blue>Rキーを押すと元に戻せます</color>\n<color=black>ダメージ：</color><color=#8B0000>1000/60秒</color>\n<color=black>スペシャル：</color><color=#8B0000>強化メニューで手動クリックすると（攻撃）、前方の列のゾンビ全員を攻撃します。</color>\n<color=black>強化リスト：</color><color=#8B0000>\n<color=black>※基本強化：</color>（200太陽）攻撃力+50%\n<color=black>※高度強化経路1：</color>（500太陽）攻撃力が200%増加\n<color=black>※高度強化経路2：</color>（500太陽）攻撃のクールタイムが50％減少</color>",
             "cost": "<size=36>コスト：<color=#8B0000>500</color>\nクールタイム：<color=#8B0000>50秒</color></size>"
         },
         {
             "seedType": 361,
             "name": "墓破壊者（ＴＤ）",
             "introduce": "<align=justified><size=36><color=black>墓破壊者の恐ろしい外見とは裏腹に、彼は子猫が大好きで、オフの時間は地元のゾンビのリハビリセンターでボランティアをしていることをみんなに知ってもらいたいのだ。「それが正しいことなんだ」と言う。</color>",
-            "info": "<size=36>太陽の像を撤去するために太陽の像に墓破壊者を植える。\n\n<color=black>スペシャル：</color><color=#8B0000>太陽の像を撤去できる。</color>\n<color=black>太陽の像の仕組み：</color><color=#8B0000>\n<color=black>•</color> 太陽の像はプラントからまっすぐに発射される弾丸をブロックし、それぞれ1000HPを持ちます。\n<color=black>•</color> 太陽の像は弾または墓破壊者でのみ破壊できる\n<color=black>•</color>ヒマワリの太陽の像は破壊されると100太陽をドロップ、太陽キノコの太陽の像は破壊されると50太陽をドロップ。</color>",
+            "info": "<size=36>太陽の像を撤去するために太陽の像に墓破壊者を植える。\n\n<color=black>スペシャル：</color><color=#8B0000>太陽の像を撤去できる。</color>\n<color=black>太陽の像の仕組み：</color><color=#8B0000>\n<color=black>※</color>太陽の像はプラントからまっすぐに発射される弾丸をブロックし、それぞれ1000HPを持ちます。\n<color=black>※</color>太陽の像は弾または墓破壊者でのみ破壊できる\n<color=black>※</color>ヒマワリの太陽の像は破壊されると100太陽をドロップ、太陽キノコの太陽の像は破壊されると50太陽をドロップ。</color>",
             "cost": "<size=36>コスト：<color=#8B0000>0</color>\nクールタイム：<color=#8B0000>50秒</color></size>"
         },
         {
             "seedType": 362,
             "name": "ガンガンキノコ（ＴＤ）",
             "introduce": "<align=justified><size=36><color=black>「勇気がみなぎる、恐れはもうない〜春でも秋でも冬でも夏でも〜」ガンガンキノコは、もうゾンビに怯えない。「昔は震えてたけど、フュームキノコ先輩が言ったんだ。『ゾンビが近づいたら胞子を撒け。隠れても何も変わらない』ってね」</color>",
-            "info": "<size=36>ガンガンキノコは、近くでも遠くでもゾンビに立ち向かいます！\n\n<color=blue>Rキーを押すと元に戻せます</color>\n<color=black>ダメージ：</color><color=#8B0000>20×2/1.5秒（遠距離）、20/1.5秒（近距離、貫通）</color>\n<color=black>スペシャル：</color><color=#8B0000>胞子を2発同時に発射。ゾンビが4マス以内に入ると、貫通する煙胞子を噴射します。</color>\n<color=black>強化リスト：</color><color=#8B0000>\n<color=black>• 基本強化：</color>（80太陽）攻撃力と攻撃速度が20%増加\n<color=black>• 高度強化経路1：</color>（200太陽）攻撃力が200%増加、胞子を永遠に発射する\n<color=black>• 高度強化経路2：</color>（200太陽）攻撃力が100%増加、胞子群の射程が2倍</color>",
+            "info": "<size=36>ガンガンキノコは、近くでも遠くでもゾンビに立ち向かいます！\n\n<color=blue>Rキーを押すと元に戻せます</color>\n<color=black>ダメージ：</color><color=#8B0000>20×2/1.5秒（遠距離）、20/1.5秒（近距離、貫通）</color>\n<color=black>スペシャル：</color><color=#8B0000>胞子を2発同時に発射。ゾンビが4マス以内に入ると、貫通する煙胞子を噴射します。</color>\n<color=black>強化リスト：</color><color=#8B0000>\n<color=black>※基本強化：</color>（80太陽）攻撃力と攻撃速度が20%増加\n<color=black>※高度強化経路1：</color>（200太陽）攻撃力が200%増加、胞子を永遠に発射する\n<color=black>※高度強化経路2：</color>（200太陽）攻撃力が100%増加、胞子群の射程が2倍</color>",
             "cost": "<size=36>コスト：<color=#8B0000>200</color>\nクールタイム：<color=#8B0000>7.5秒</color></size>"
         },
         {
             "seedType": 363,
             "name": "冷風ブロバー（ＴＤ）",
-            "introduce": "<align=justified><size=36><color=black>冷風ブロバーは、−4°Cのエアコン。その冷たい風に吹かれると、まるで真冬にワープした気分になる。あの雪ピー豆ですら凍りついたほど。それより寒いものなんて、ある？ 答え：極寒豆が放った、完全に音痴なジョークの後の空気。</color>",
-            "info": "<size=36>冷風ブロバーは、常に冷却を与える冷たい風を吹き続けます。\n\n<color=black>スペシャル：</color><color=#8B0000>\n<color=black>•</color> 10秒間持続した後、消滅します。\n<color=black>•</color> 全てのゾンビに1ダメージを与え、20氷結ポイントを付与します。\n<color=black>•</color> 画面上のすべての雪ピー豆を極寒ピー豆に変換します。</color>",
+            "introduce": "<align=justified><size=36><color=black>冷風ブロバーは、−4°Cのエアコン。その冷たい風に吹かれると、まるで真冬にワープした気分になる。あの雪ピー豆ですら凍りついたほど。それより寒いものなんて、ある？答え：極寒豆が放った、完全に音痴なジョークの後の空気。</color>",
+            "info": "<size=36>冷風ブロバーは、常に冷却を与える冷たい風を吹き続けます。\n\n<color=black>スペシャル：</color><color=#8B0000>\n<color=black>※</color>10秒間持続した後、消滅します。\n<color=black>※</color>全てのゾンビに1ダメージを与え、20氷結ポイントを付与します。\n<color=black>※</color>画面上のすべての雪ピー豆を極寒ピー豆に変換します。</color>",
             "cost": "<size=36>コスト：<color=#8B0000>125</color>\nクールタイム：<color=#8B0000>50秒</color></size>"
         },
         {
@@ -550,154 +550,154 @@
             "seedType": 365,
             "name": "ウツボカズラ迫撃砲（ＴＤ）",
             "introduce": "<align=justified><size=36><color=black>「コーチ、バスケがしたいです」ウツボカズラ迫撃砲は、バスケットボールスターになる夢をずっと抱いている。昼も夜も休まずシュート練習に励む彼には、2つの強みがある。ひとつ、見た目がちょっとバスケットゴールっぽいこと。もうひとつ、練習用のボールが無限にあること。…そのボールの素材については、絶対に聞かないでほしい。</color>",
-            "info": "<size=36>ゾンビと他のウツボカズラ迫撃砲の間を跳ね返るしずく弾を投げます。\n\n<color=black>ダメージ：</color><color=#8B0000>40/3秒</color>\n<color=black>範囲：</color><color=#8B0000>上下左右2マス以内</color>\n<color=black>スペシャル：</color><color=#8B0000>弾が命中すると、近くのウツボカズラ迫撃砲に跳ね返り、即座に2回攻撃を行います。</color>\n<color=black>強化リスト：</color><color=#8B0000>\n<color=black>• 基本強化：</color>（120太陽）攻撃力と攻撃速度が20%増加\n<color=black>• 高度強化経路1：</color>（300太陽）攻撃力が200%増加\n<color=black>• 高度強化経路2：</color>（300太陽）攻撃速度が100%増加、弾が自分に跳ね返るようになった</color>",
+            "info": "<size=36>ゾンビと他のウツボカズラ迫撃砲の間を跳ね返るしずく弾を投げます。\n\n<color=black>ダメージ：</color><color=#8B0000>40/3秒</color>\n<color=black>範囲：</color><color=#8B0000>上下左右2マス以内</color>\n<color=black>スペシャル：</color><color=#8B0000>弾が命中すると、近くのウツボカズラ迫撃砲に跳ね返り、即座に2回攻撃を行います。</color>\n<color=black>強化リスト：</color><color=#8B0000>\n<color=black>※基本強化：</color>（120太陽）攻撃力と攻撃速度が20%増加\n<color=black>※高度強化経路1：</color>（300太陽）攻撃力が200%増加\n<color=black>※高度強化経路2：</color>（300太陽）攻撃速度が100%増加、弾が自分に跳ね返るようになった</color>",
             "cost": "<size=36>コスト：<color=#8B0000>300</color>\nクールタイム：<color=#8B0000>7.5秒</color></size>"
         },
         {
             "seedType": 800,
             "name": "金将狙撃ピー",
-            "introduce": "<align=justified>「…死んだな。」 黄金の閃光が空を裂いた瞬間、脳のないゾンビですら悟る。それは、究極の消滅を告げる予兆。金将狙撃ピーが照準を合わせた時、戦場は静まり返る。<size=36><color=black></color>",
-            "info": "<size=36>全火力、座標一致——撃て！\n\n<color=#4A2900>利用条件：旅行モード</color>\n<color=black>ダメージ：</color><color=#8B0000>1000/6秒</color>\n<color=black>スペシャル：</color><color=#8B0000>\n<color=black>•</color> 6秒ごとに1回、即死級の精密射撃を発動。\n<color=black>•</color> アクティブスキル：金将狙撃ピーをクリックすると照準が表示され、任意のゾンビをターゲット指定可能。フィールド上のすべての狙撃ピーが即座に集中攻撃を開始。この効果のクールタイムは30秒。\n<color=black>旅行修正効果：\n</color><color=#8B0000>1. すべての狙撃ピーの攻撃速度が30%増加する。\n2. アクティブスキルのクールタイムが15秒に減少</color>",
+            "introduce": "<align=justified>「…死んだな。」黄金の閃光が空を裂いた瞬間、脳のないゾンビですら悟る。それは、究極の消滅を告げる予兆。金将狙撃ピーが照準を合わせた時、戦場は静まり返る。<size=36><color=black></color>",
+            "info": "<size=36>全火力、座標一致——撃て！\n\n<color=#4A2900>利用条件：旅行モード</color>\n<color=black>ダメージ：</color><color=#8B0000>1000/6秒</color>\n<color=black>スペシャル：</color><color=#8B0000>\n<color=black>※</color>6秒ごとに1回、即死級の精密射撃を発動。\n<color=black>※</color>アクティブスキル：金将狙撃ピーをクリックすると照準が表示され、任意のゾンビをターゲット指定可能。フィールド上のすべての狙撃ピーが即座に集中攻撃を開始。この効果のクールタイムは30秒。\n<color=black>旅行修正効果：\n</color><color=#8B0000>①すべての狙撃ピーの攻撃速度が30%増加する。\n②アクティブスキルのクールタイムが15秒に減少</color>",
             "cost": "\n<size=36>融合レシピ：<color=#8B0000>狙撃ピー＋金の磁石</color>"
         },
         {
             "seedType": 801,
             "name": "チェリー狙撃ピー",
             "introduce": "<align=justified><size=36>チェリーパイで有名なベーカー…なのに、肝心のチェリーをよく忘れちゃう。でも心配ご無用！ゾンビを片付けたら、はい、チェリーパイ完成！<color=black></color>",
-            "info": "<size=36>ターゲットの位置にチェリー爆発を発生させる。\n\n<color=#4A2900>利用条件：旅行モード</color>\n<color=black>スペシャル：</color><color=#8B0000>\n<color=black>•</color> ターゲットの位置に2秒ごとにチェリー爆発を発生。\n<color=black>•</color> 8回攻撃ごとにヘッドショットを決める。\n<color=black>旅行修正効果：\n</color><color=#8B0000>チェリー爆弾ガトリングの修正効果を継承する。</color>",
+            "info": "<size=36>ターゲットの位置にチェリー爆発を発生させる。\n\n<color=#4A2900>利用条件：旅行モード</color>\n<color=black>スペシャル：</color><color=#8B0000>\n<color=black>※</color>ターゲットの位置に2秒ごとにチェリー爆発を発生。\n<color=black>※</color>8回攻撃ごとにヘッドショットを決める。\n<color=black>旅行修正効果：\n</color><color=#8B0000>チェリー爆弾ガトリングの修正効果を継承する。</color>",
             "cost": "<size=36>融合レシピ：<color=#8B0000>狙撃ピー＋チェリー爆弾ガトリング</color>"
         },
         {
             "seedType": 802,
             "name": "破壊狙撃ピー",
             "introduce": "<align=justified><size=36><color=black>夜の守護者、影に潜む狙撃手。月光は彼のヴェール、夜空は彼のカモフラージュ。この世界を揺るがす力と、それに伴う試練と重荷を授けてくれた運命に、感謝している。</color>",
-            "info": "<size=36>弾丸は破壊爆発を引き起こす！\n\n<color=#4A2900>利用条件：旅行モード</color>\n<color=black>スペシャル：</color><color=#8B0000>\n<color=black>•</color> 8秒ごとにターゲットの位置で破壊爆発を発生。\n<color=black>•</color> 2回攻撃ごとにヘッドショットを決める。\n<color=black>旅行修正効果：\n</color><color=#8B0000>1. 破壊ガトリング・第1修正効果：攻撃間隔→4秒\n2. 破壊ガトリング・第2修正効果：すべての攻撃がヘッドショットになる</color>",
+            "info": "<size=36>弾丸は破壊爆発を引き起こす！\n\n<color=#4A2900>利用条件：旅行モード</color>\n<color=black>スペシャル：</color><color=#8B0000>\n<color=black>※</color>8秒ごとにターゲットの位置で破壊爆発を発生。\n<color=black>※</color>2回攻撃ごとにヘッドショットを決める。\n<color=black>旅行修正効果：\n</color><color=#8B0000>①破壊ガトリング・第1修正効果：攻撃間隔→4秒\n②破壊ガトリング・第2修正効果：すべての攻撃がヘッドショットになる</color>",
             "cost": "\n<size=36>融合レシピ：<color=#8B0000>狙撃ピー＋破壊ガトリング</color>"
         },
         {
             "seedType": 803,
             "name": "狙撃つららキノコ",
-            "introduce": "<align=justified><size=36><color=black>狙撃隊の中で一番背が低いけれど、本人はまったく気にしていない。「他の狙撃仲間たちは確かに背が高くて威圧的だけど、いつも他の植物に助けてもらってるんだ。私？自分ひとりで十分さ！」</color>",
-            "info": "<size=36>弾丸は破壊爆発を引き起こす！\n\n<color=black>ダメージ：</color><color=#8B0000>500/3秒</color>\n<color=#4A2900>利用条件：旅行モード</color>\n<color=#0077b6>氷結システム：</color><color=#8B0000>攻撃は100氷結ポイントを与え、凍結状態のゾンビに×4ダメージを与える。</color>\n<color=black>スペシャル：</color><color=#8B0000>\n<color=black>•</color> 1タイル内でスプラッシュダメージを与える。\n<color=black>•</color> 6回攻撃ごとにメインターゲットへヘッドショット。\n<color=black>旅行修正効果：\n</color><color=#8B0000>1. つららガトリングキノコ・第1修正効果：スプラッシュ範囲→3×3\n2. つららガトリングキノコ・第2修正効果：凍結状態のゾンビに×10ダメージを与える</color>",
+            "introduce": "<align=justified><size=36><color=black>狙撃隊の中で一番背が低いけれど、本人はまったく気にしていない。「他の狙撃仲間たちは確かに背が高くて威圧的だけど、いつも他のプラントに助けてもらってるんだ。私？自分ひとりで十分さ！」</color>",
+            "info": "<size=36>弾丸は破壊爆発を引き起こす！\n\n<color=black>ダメージ：</color><color=#8B0000>500/3秒</color>\n<color=#4A2900>利用条件：旅行モード</color>\n<color=#0077b6>氷結システム：</color><color=#8B0000>攻撃は100氷結ポイントを与え、凍結状態のゾンビに×4ダメージを与える。</color>\n<color=black>スペシャル：</color><color=#8B0000>\n<color=black>※</color>1タイル内でスプラッシュダメージを与える。\n<color=black>※</color>6回攻撃ごとにメインターゲットへヘッドショット。\n<color=black>旅行修正効果：\n</color><color=#8B0000>①つららガトリングキノコ・第1修正効果：スプラッシュ範囲→3×3\n②つららガトリングキノコ・第2修正効果：凍結状態のゾンビに×10ダメージを与える</color>",
             "cost": "<size=36>融合レシピ：<color=#8B0000>狙撃ピー＋つららガトリングキノコ</color>"
         },
         {
             "seedType": 900,
             "name": "魅帝王キノコ",
             "introduce": "<size=36><color=black>魅帝王キノコは、自分のゾンビ部下たちに深い愛情を抱いている。「おかげで、帝王としての地位を築けたのよ」と彼女は語る。だが、これらの強力なゾンビたちは他のプラントたちに恐怖を与えており、魅帝王キノコはその事実をまったく知らない。</color></size>",
-            "info": "<size=36>あなたのために戦うゾンビを召喚します。\n\n<color=black>スペシャル：</color><color=#8B0000>次のゾンビの中から1体をランダムに選んで召喚します：\nフットボールナッツゾンビ｜チェリーシュタ新聞ゾンビ｜ゾンボニー｜学者ゾンビ</color>\n<color=black>融合レシピ：</color><color=#8B0000>ヒプノキノコ＋ヒプノキノコ</color>\n<color=black>旅行モード強化：\n</color><color=#8B0000>1. 召喚間隔→10秒｜魅皇后キノコの亜種がアンロック\n2. 今すぐ究極ゾンビを召喚できるようになりました</color></size>",
+            "info": "<size=36>あなたのために戦うゾンビを召喚します。\n\n<color=black>スペシャル：</color><color=#8B0000>次のゾンビの中から1体をランダムに選んで召喚します：\nフットボールナッツゾンビ｜チェリーシュタ新聞ゾンビ｜ゾンボニー｜学者ゾンビ</color>\n<color=black>融合レシピ：</color><color=#8B0000>ヒプノキノコ＋ヒプノキノコ</color>\n<color=black>旅行モード強化：\n</color><color=#8B0000>①召喚間隔→10秒｜魅皇后キノコの亜種がアンロック\n②今すぐ究極ゾンビを召喚できるようになりました</color></size>",
             "cost": ""
         },
         {
             "seedType": 901,
             "name": "チェリー爆弾ガトリング",
             "introduce": "<size=36><color=black>「どうしてみんながガトリングピーをそんなに好きなのか、よくわからない。だって、僕も兄弟と一緒に4発撃てるのに」と、チェリー爆弾ガトリングは羨ましげにぼやいた。でも本当のところ、ガトリングピーが愛されているのは、その優しさと料理の腕前のおかげなのだ。</color></size>",
-            "info": "<size=36>チェリー爆弾ガトリングは、地上最強級の火力兵器のひとつです。\n\n<color=black>ダメージ：</color><color=#8B0000>300×4/1.5秒</color>\n<color=black>融合レシピ：</color><color=#8B0000>チェリーガトリング＋チェリー爆弾シューター</color>\n<color=black>：\n</color><color=#8B0000>1. ミニチェリー爆弾のダメージが3倍になります。\n2. 攻撃間隔→1秒</color></size>",
+            "info": "<size=36>チェリー爆弾ガトリングは、地上最強級の火力兵器のひとつです。\n\n<color=black>ダメージ：</color><color=#8B0000>300×4/1.5秒</color>\n<color=black>融合レシピ：</color><color=#8B0000>チェリーガトリング＋チェリー爆弾シューター</color>\n<color=black>：\n</color><color=#8B0000>①ミニチェリー爆弾のダメージが3倍になります。\n②攻撃間隔→1秒</color></size>",
             "cost": ""
         },
         {
             "seedType": 902,
             "name": "スクワッシュの地獄木",
             "introduce": "<size=36><color=black>「俺が強いのは事実さ。でもその力がチェリーのためだけにあるって？バカな。…俺、エンドウ族には体が反応しちまうんだ。」</color></size>",
-            "info": "<size=36>20個のチェリーが通過するごとに辛いスクワッシュを生成します。\n\n<color=black>スペシャル：</color><color=#8B0000>チェリーボムの弾丸が通過すると、バウンドするたびに爆発するスクワッシュに変化します。そのような弾丸が20個通過すると、前方に辛いスクワッシュを生成します。</color>\n<color=black>融合レシピ：</color><color=#8B0000>地獄木＋辛いスクワッシュ</color>\n<color=black>旅行モード強化：\n</color><color=#8B0000>1. 辛いスクワッシュを出現させるための弾数→10\n2. 今は一度に2つの辛いスクワッシュを出現させます。</color></size>",
+            "info": "<size=36>20個のチェリーが通過するごとに辛いスクワッシュを生成します。\n\n<color=black>スペシャル：</color><color=#8B0000>チェリーボムの弾丸が通過すると、バウンドするたびに爆発するスクワッシュに変化します。そのような弾丸が20個通過すると、前方に辛いスクワッシュを生成します。</color>\n<color=black>融合レシピ：</color><color=#8B0000>地獄木＋辛いスクワッシュ</color>\n<color=black>旅行モード強化：\n</color><color=#8B0000>①辛いスクワッシュを出現させるための弾数→10\n②今は一度に2つの辛いスクワッシュを出現させます。</color></size>",
             "cost": ""
         },
         {
             "seedType": 903,
             "name": "チェリージラ",
             "introduce": "<size=36><color=black>「俺の恐竜風ヘアスタイルに憧れるヤツは多いんだ」と、チェリージラは誇らしげに語る。ゾンビを食べたり、チェリー爆弾を吐いたりするのは正直気持ち悪い。でも、これも公の顔としての義務なのだ。</color></size>",
-            "info": "<size=36>チェリジラは陸上での究極の防御植物です。\n\n<color=black>耐久力：</color><color=#8B0000>8000</color>\n<color=black>スペシャル：</color><color=#8B0000>背高植物。ゾンビを噛むと、耐久力を1000回復し、1000ダメージを与え、爆発するチェリーを吐き出します。HPが2000未満のゾンビは即座に倒され、チェリジラの耐久力が全回復します。車両を撃退し、最大耐久力の1/3までしかダメージを受けません。現在のHPが最大値を超える場合、最大HPの10%を失います。</color>\n<color=black>融合レシピ：</color><color=#8B0000>チョンプジラ＋チェリーチョンパー</color>\n<color=black>旅行モード強化：\n</color><color=#8B0000>1. 自身より少ない体力のゾンビを即死させることが可能になります。\n2. 回復ボーナス200%追加、ゾンビからのダメージが500に制限されます。</color></size>",
+            "info": "<size=36>チェリジラは陸上での究極の防御植物です。\n\n<color=black>耐久力：</color><color=#8B0000>8000</color>\n<color=black>スペシャル：</color><color=#8B0000>背高植物。ゾンビを噛むと、耐久力を1000回復し、1000ダメージを与え、爆発するチェリーを吐き出します。HPが2000未満のゾンビは即座に倒され、チェリジラの耐久力が全回復します。車両を撃退し、最大耐久力の1/3までしかダメージを受けません。現在のHPが最大値を超える場合、最大HPの10%を失います。</color>\n<color=black>融合レシピ：</color><color=#8B0000>チョンプジラ＋チェリーチョンパー</color>\n<color=black>旅行モード強化：\n</color><color=#8B0000>①自身より少ない体力のゾンビを即死させることが可能になります。\n②回復ボーナス200%追加、ゾンビからのダメージが500に制限されます。</color></size>",
             "cost": ""
         },
         {
             "seedType": 904,
             "name": "制覇キノコ",
             "introduce": "<size=36><color=black>「死がファッションセンスを重視するなんて、ありえるのか？」制覇キノコには分からなかった。ゾンビを怖がらせることに安定感が欠けていると気づき、彼はヒプノキノコに衣装の相談を持ちかける。死を好まない者もいるかもしれないが——もし彼が氷の翼をきらめかせていたら、果たして人々の目にはどう映るのだろう？</color></size>",
-            "info": "<size=36>制覇キノコは巨大なダメージを与え、同時にゾンビを魅了して動きを遅くします。\n\n<color=black>ダメージ：</color><color=#8B0000>120/0.5秒</color>\n<color=black>スペシャル：</color><color=#8B0000>HPが50%未満のゾンビを魅了する可能性があり、魅了されたゾンビがいるマスで通常の3倍のダメージを与える爆発を起こします。</color>\n<color=black>融合レシピ：</color><color=#8B0000>破晶キノコ＋凍眠キノコ</color>\n<color=black>旅行モード強化：\n</color><color=#8B0000>1. 噴射のダメージが3倍になります。\n2. 凍結速度が3倍に向上します。</color></size>",
+            "info": "<size=36>制覇キノコは巨大なダメージを与え、同時にゾンビを魅了して動きを遅くします。\n\n<color=black>ダメージ：</color><color=#8B0000>120/0.5秒</color>\n<color=black>スペシャル：</color><color=#8B0000>HPが50%未満のゾンビを魅了する可能性があり、魅了されたゾンビがいるマスで通常の3倍のダメージを与える爆発を起こします。</color>\n<color=black>融合レシピ：</color><color=#8B0000>破晶キノコ＋凍眠キノコ</color>\n<color=black>旅行モード強化：\n</color><color=#8B0000>①噴射のダメージが3倍になります。\n②凍結速度が3倍に向上します。</color></size>",
             "cost": ""
         },
         {
             "seedType": 905,
             "name": "双子太陽ナッツ",
             "introduce": "<size=36><color=black>光合成の達人・双子太陽ナッツは、光エネルギーと質量の変換に革命をもたらした。エネルギー損失を極限まで抑えるため、再利用システムの確立に成功したのだ。先人たちへの敬意を忘れない。「僕は、巨人たちの肩の上に立っているだけさ」と謙虚に語る。</color></size>",
-            "info": "<size=36>双子太陽ナッツは攻撃を受けるたびにサンを生産します。\n\n<color=black>耐久力：</color><color=#8B0000>4000</color>\n<color=black>スペシャル：</color><color=#8B0000>ダメージの種類に関係なく、各攻撃で減少する耐久力は50のみです。攻撃を受けるたびに15サンを生産します。クリックすると500サンを消費し、ジャイアントナッツが転がりながら攻撃し、耐久力を1500回復します。</color>\n<color=black>融合レシピ：</color><color=#8B0000>（ヒマワリ＋ウォールナッツ）＋ウォールナッツ</color>\n<color=black>旅行モード強化：\n</color><color=#8B0000>1. 回復量が毎回完全回復になります。\n2. 攻撃を受けるごとに耐久力の減少→10。</color></size>",
+            "info": "<size=36>双子太陽ナッツは攻撃を受けるたびにサンを生産します。\n\n<color=black>耐久力：</color><color=#8B0000>4000</color>\n<color=black>スペシャル：</color><color=#8B0000>ダメージの種類に関係なく、各攻撃で減少する耐久力は50のみです。攻撃を受けるたびに15サンを生産します。クリックすると500サンを消費し、ジャイアントナッツが転がりながら攻撃し、耐久力を1500回復します。</color>\n<color=black>融合レシピ：</color><color=#8B0000>（ヒマワリ＋ウォールナッツ）＋ウォールナッツ</color>\n<color=black>旅行モード強化：\n</color><color=#8B0000>①回復量が毎回完全回復になります。\n②攻撃を受けるごとに耐久力の減少→10。</color></size>",
             "cost": ""
         },
         {
             "seedType": 906,
             "name": "黒曜石のスパイク",
             "introduce": "<size=36><color=black>炎と氷の洗礼を受けたことで、黒曜石のスパイクは鋼のように硬くなった。しかし、その気性は不安定になり、口の中に凝縮された鋼の影響で、言葉を発することをためらうようになった。</color></size>",
-            "info": "<size=36>スパイクシディアンは、複数のタイヤを耐え抜きながらも強大なダメージを与えることができます。\n\n<color=black>耐久力：</color><color=#8B0000>6000</color>\n<color=black>ダメージ：</color><color=#8B0000>100×2/1秒</color>\n<color=black>融合レシピ：</color><color=#8B0000>氷スパイク＋炎スパイク</color>\n<color=black>旅行モード強化：\n</color><color=#8B0000>1. ダメージが5倍に増加します。\n2. 95%のダメージ軽減率を獲得します。</color></size>",
+            "info": "<size=36>スパイクシディアンは、複数のタイヤを耐え抜きながらも強大なダメージを与えることができます。\n\n<color=black>耐久力：</color><color=#8B0000>6000</color>\n<color=black>ダメージ：</color><color=#8B0000>100×2/1秒</color>\n<color=black>融合レシピ：</color><color=#8B0000>氷スパイク＋炎スパイク</color>\n<color=black>旅行モード強化：\n</color><color=#8B0000>①ダメージが5倍に増加します。\n②95%のダメージ軽減率を獲得します。</color></size>",
             "cost": ""
         },
         {
             "seedType": 907,
             "name": "破壊ガトリング",
             "introduce": "<size=36><color=black>破壊ガトリングは危険であり、近づくべきではない。この世界において禁忌の力とされている。しかし、プラントたちの間で語られる恐ろしい噂とは裏腹に、その本性は驚くほど友好的である。ただし、灰となったゾンビたちは、そうは思わないだろう。</color></size>",
-            "info": "<size=36>破壊の化身。破壊の弾丸を発射するが、運悪くその怒りに直面することになる\n\n<color=black>ダメージ：</color><color=#8B0000>300×4/1.5秒</color>\n<color=black>スペシャル：</color><color=#8B0000>4ラウンドごとに、1800ダメージを与える破滅の弾丸を発射します。各弾丸は広範囲にスプラッシュダメージを与えます。</color>\n<color=black>融合レシピ：</color><color=#8B0000>ガトリングピー＋破壊キノコ</color>\n<color=black>旅行モード強化：\n</color><color=#8B0000>1. 大破滅弾を発射した後の休止時間がなくなります。\n2. 毎回大破滅弾を発射できるようになります。</color></size>",
+            "info": "<size=36>破壊の化身。破壊の弾丸を発射するが、運悪くその怒りに直面することになる\n\n<color=black>ダメージ：</color><color=#8B0000>300×4/1.5秒</color>\n<color=black>スペシャル：</color><color=#8B0000>4ラウンドごとに、1800ダメージを与える破滅の弾丸を発射します。各弾丸は広範囲にスプラッシュダメージを与えます。</color>\n<color=black>融合レシピ：</color><color=#8B0000>ガトリングピー＋破壊キノコ</color>\n<color=black>旅行モード強化：\n</color><color=#8B0000>①大破滅弾を発射した後の休止時間がなくなります。\n②毎回大破滅弾を発射できるようになります。</color></size>",
             "cost": ""
         },
         {
             "seedType": 908,
             "name": "つららガトリングキノコ",
             "introduce": "<size=36><color=black>「軍隊に入るぞ！」と叫んでいた小さなパフキノコたちは、今や決意に満ちた眼差しを持つ歴戦の兵士となった。いつでも、どこでも——つららガトリングキノコ中隊は、任務の遂行を誓っている。</color></size>",
-            "info": "<size=36>3回まで重ねて、一度に12本の氷のつららを撃つことができる！\n\n<color=black>ダメージ：</color><color=#8B0000>20×4×3/1.5秒</color>\n<color=#0077b6>冷凍システム：</color><color=#8B0000>各ヒットで5の氷属性ポイントが追加されます。氷結状態の敵には、氷のつららが4倍のダメージを与えます。各つららは3回貫通します。</color>\n<color=black>融合レシピ：</color><color=#8B0000>パフキノコ＋雪ガトリングピー（順番通り）</color>\n<color=black>旅行モード強化：\n</color><color=#8B0000>1. つららの貫通力が10回に増加。\n2. 凍結したゾンビへのダメージが10倍に増加。</color></size>",
+            "info": "<size=36>3回まで重ねて、一度に12本の氷のつららを撃つことができる！\n\n<color=black>ダメージ：</color><color=#8B0000>20×4×3/1.5秒</color>\n<color=#0077b6>冷凍システム：</color><color=#8B0000>各ヒットで5の氷属性ポイントが追加されます。氷結状態の敵には、氷のつららが4倍のダメージを与えます。各つららは3回貫通します。</color>\n<color=black>融合レシピ：</color><color=#8B0000>パフキノコ＋雪ガトリングピー（順番通り）</color>\n<color=black>旅行モード強化：\n</color><color=#8B0000>①つららの貫通力が10回に増加。\n②凍結したゾンビへのダメージが10倍に増加。</color></size>",
             "cost": ""
         },
         {
             "seedType": 909,
             "name": "マグネター",
             "introduce": "<size=36><color=black>マグネターがどこから来たのか、誰にも分からない。だが、ひとつだけ確かなことがある。恐竜の絶滅は、彼のせいではない。絶対に違う。</color></size>",
-            "info": "<size=36>なんで私の庭に隕石があるんだ⁉\n\n<color=black>ダメージ：</color><color=#8B0000>25×5/1.5秒</color>\n<color=yellow>光システム：</color><color=#8B0000>光レベルごとにダメージが20増加</color>\n<color=#495057>磁気システム：</color><color=#8B0000>磁気植物ごとにダメージが5%増加\n<color=#6A0C9D>両方のシステムは、最大で星のダメージを300まで増加させることができます</color>\n<color=black>スペシャル：</color><color=#8B0000>20秒ごとに隕石を召喚し、衝突時に1800ダメージを与えます。隕石は複数の星に分裂し、ゾンビに向かって飛び、各星が100ダメージを与えます。</color></color>\n<color=black>融合レシピ：</color><color=#8B0000>スタードロップ＋磁力サボテン</color>\n<color=black>旅行モード強化：\n</color><color=#8B0000>1. 攻撃間隔→0.5秒。\n2. 基礎ダメージが2倍に増加し、上限（120）が解除されます。</color></size>",
+            "info": "<size=36>なんで私の庭に隕石があるんだ⁉\n\n<color=black>ダメージ：</color><color=#8B0000>25×5/1.5秒</color>\n<color=yellow>光システム：</color><color=#8B0000>光レベルごとにダメージが20増加</color>\n<color=#495057>磁気システム：</color><color=#8B0000>磁気植物ごとにダメージが5%増加\n<color=#6A0C9D>両方のシステムは、最大で星のダメージを300まで増加させることができます</color>\n<color=black>スペシャル：</color><color=#8B0000>20秒ごとに隕石を召喚し、衝突時に1800ダメージを与えます。隕石は複数の星に分裂し、ゾンビに向かって飛び、各星が100ダメージを与えます。</color></color>\n<color=black>融合レシピ：</color><color=#8B0000>スタードロップ＋磁力サボテン</color>\n<color=black>旅行モード強化：\n</color><color=#8B0000>①攻撃間隔→0.5秒。\n②基礎ダメージが2倍に増加し、上限（120）が解除されます。</color></size>",
             "cost": ""
         },
         {
             "seedType": 910,
             "name": "崩壊キノコ",
             "introduce": "<size=36><color=black>「核による抑止力は有益だ。いつか、私の強力な自爆能力を恐れて、ゾンビたちは攻撃をやめるだろう。」崩壊キノコは自信満々に語った。だが、冷気を浴びせられただけで、ゾンビたちが冷戦を始めるはずもなかった。</color></size>",
-            "info": "<size=36>周囲に致命的な煙を撒き散らし、究極の破壊をもたらします。気をつけて！\n\n<color=black>ダメージ：</color><color=#8B0000>(100+100×8)×4/1.9秒</color>\n<color=black>ダメージ範囲：</color><color=#8B0000>5×5</color>\n<color=black>検索範囲：</color><color=#8B0000>5×3</color>\n<color=black>融合レシピ：</color><color=#8B0000>破晶キノコ＋氷グルームキノコ</color>\n<color=black>旅行モード強化：\n</color><color=#8B0000>1. 死亡時のダメージ→1,000,000。\n2. 爆発ダメージを吸収し、10,000ダメージを吸収すると破壊キノコの爆発を発生させます。</color></size>",
+            "info": "<size=36>周囲に致命的な煙を撒き散らし、究極の破壊をもたらします。気をつけて！\n\n<color=black>ダメージ：</color><color=#8B0000>(100+100×8)×4/1.9秒</color>\n<color=black>ダメージ範囲：</color><color=#8B0000>5×5</color>\n<color=black>検索範囲：</color><color=#8B0000>5×3</color>\n<color=black>融合レシピ：</color><color=#8B0000>破晶キノコ＋氷グルームキノコ</color>\n<color=black>旅行モード強化：\n</color><color=#8B0000>①死亡時のダメージ→1,000,000。\n②爆発ダメージを吸収し、10,000ダメージを吸収すると破壊キノコの爆発を発生させます。</color></size>",
             "cost": ""
         },
         {
             "seedType": 911,
             "name": "レーザーパンプキン",
             "introduce": "<size=36><color=black>「磁石キノコの力は、いまだに誰にも匹敵しない。」レーザーパンプキンはそう語った。「だって、複合装甲も電磁カタパルトもプラズマ砲も、空母の登場から約一世紀も後の技術だよ。」他のプラントたちは、レーザーパンプキンのハイテク装備を羨んだ。だが、磁石キノコだけが知っていた——その力の源は、マグネターのメテオだったのだ。</color></size>",
-            "info": "<size=36>敵に向かって飛ぶレーザードローンを召喚します。\n\n<color=black>耐久力：</color><color=#8B0000>8000</color>\n<color=black>スペシャル：</color><color=#8B0000>登場時には常にレーザードローンの僚機が一緒にいます。定期的に3×3のグリッド上にレーザードローンを生成します。</color>\n<color=black>融合レシピ：</color><color=#8B0000>飛刺パンプキン＋磁力ブロバー</color>\n<color=black>旅行モード強化：\n</color><color=#8B0000>1. 僚機の数→3。\n2. 同じ磁気システム内でピエロのパンプキンの効果を継承｜チェリーパンプキン亜種をアンロック。</color></size>",
+            "info": "<size=36>敵に向かって飛ぶレーザードローンを召喚します。\n\n<color=black>耐久力：</color><color=#8B0000>8000</color>\n<color=black>スペシャル：</color><color=#8B0000>登場時には常にレーザードローンの僚機が一緒にいます。定期的に3×3のグリッド上にレーザードローンを生成します。</color>\n<color=black>融合レシピ：</color><color=#8B0000>飛刺パンプキン＋磁力ブロバー</color>\n<color=black>旅行モード強化：\n</color><color=#8B0000>①僚機の数→3。\n②同じ磁気システム内でピエロのパンプキンの効果を継承｜チェリーパンプキン亜種をアンロック。</color></size>",
             "cost": ""
         },
         {
             "seedType": 912,
             "name": "レーザードローン",
             "introduce": "<size=36><color=black>マグネターに感謝！これで新装備が一式揃ったぞ！見てくれ、この奇抜なギアたち——複合装甲、電磁高速スクリュー、そして等離子機砲……待って！いやああ！お気に入りの花瓶があああ！</color></size>",
-            "info": "<size=36>レーザードローンはレーザーを発射して攻撃を突破することができます。\n\n<color=black>ダメージ：</color><color=#8B0000>200/1.5秒（作为植物） 200/1秒(作为僚机)</color></size>",
+            "info": "<size=36>レーザードローンはレーザーを発射して攻撃を突破することができます。\n\n<color=black>ダメージ：</color><color=#8B0000>200/1.5秒（プラント）、200/1秒（ドローン）</color></size>",
             "cost": ""
         },
         {
             "seedType": 913,
             "name": "黒曜石のトールナッツ",
             "introduce": "<size=36><color=black>親友の庇護を求めるのではなく、黒曜石のトールナッツは彼を守ることを選んだ。宝石のように硬い身体と揺るがぬ眼差しを持ち、チェリージラの魂によって鍛えられ、氷と炎の試練を乗り越えた。いつかその身体が擦り減る日が来るかもしれない。それでも、彼は他のプラントたちを守り抜く覚悟を持っている。</color></size></size>",
-            "info": "<size=36>黒曜石のトールナッツは通常のトールナッツの4倍の防御力を持っています。\n\n<color=black>耐久力：</color><color=#8B0000>32000</color>\n<color=black>スペシャル：</color><color=#8B0000>背高植物。15秒ごとに1500HPを回復します。\n車に轢かれるのを耐え、毎回最大200ダメージを受けます。\n黒曜石のトールナッツの1つがダメージを受けると、そのダメージはすべての黒曜石のトールナッツに共有され、分割されます。</color>\n<color=black>融合レシピ：</color><color=#8B0000>氷トールナッツ＋炎トールナッツ</color>\n<color=black>旅行モード強化：\n</color><color=#8B0000>1. 氷キノコの効果で10,000HPを回復し、ハラペーニョの効果で全回復します。\n2. 左右2マスのプラントに向けられたダメージを吸収することが可能になります。</color></size>",
+            "info": "<size=36>黒曜石のトールナッツは通常のトールナッツの4倍の防御力を持っています。\n\n<color=black>耐久力：</color><color=#8B0000>32000</color>\n<color=black>スペシャル：</color><color=#8B0000>背高植物。15秒ごとに1500HPを回復します。\n車に轢かれるのを耐え、毎回最大200ダメージを受けます。\n黒曜石のトールナッツの1つがダメージを受けると、そのダメージはすべての黒曜石のトールナッツに共有され、分割されます。</color>\n<color=black>融合レシピ：</color><color=#8B0000>氷トールナッツ＋炎トールナッツ</color>\n<color=black>旅行モード強化：\n</color><color=#8B0000>①氷キノコの効果で10,000HPを回復し、ハラペーニョの効果で全回復します。\n②左右2マスのプラントに向けられたダメージを吸収することが可能になります。</color></size>",
             "cost": ""
         },
         {
             "seedType": 914,
             "name": "萎れたサラダパルト",
             "introduce": "<size=36><color=black>過去の苦難を乗り越えた萎れたサラダパルトは、今では穏やかな日々を望んでいる。「今の願いはただひとつ——クラシック映画を観ながら、静かに暮らすこと。」</color>",
-            "info": "<size=36>迅速な散弾式の弾幕を発射することができます\n\n<color=black>ダメージ：</color><color=#8B0000>120/2秒</color>\n<color=black>スペシャル：</color><color=#8B0000>42%の確率で速射します。そのレーンにいるゾンビの数と同じ数だけ、散弾式で発射する確率があります。弾は衝突時にニンニク、トウモロコシ、そしてメロンに分裂します。</color>\n<color=black>融合レシピ：</color><color=#8B0000>サラダパルト＋スイカーリックパルト</color>\n<color=black>旅行モード強化：\n<color=#8B0000>1. 拡散射撃の発生確率が100%になります。\n2. スイカの鉢の特性が継承されます。</color>",
+            "info": "<size=36>迅速な散弾式の弾幕を発射することができます\n\n<color=black>ダメージ：</color><color=#8B0000>120/2秒</color>\n<color=black>スペシャル：</color><color=#8B0000>42%の確率で速射します。そのレーンにいるゾンビの数と同じ数だけ、散弾式で発射する確率があります。弾は衝突時にニンニク、トウモロコシ、そしてメロンに分裂します。</color>\n<color=black>融合レシピ：</color><color=#8B0000>サラダパルト＋スイカーリックパルト</color>\n<color=black>旅行モード強化：\n<color=#8B0000>①拡散射撃の発生確率が100%になります。\n②スイカの鉢の特性が継承されます。</color>",
             "cost": "<size=36>"
         },
         {
             "seedType": 915,
             "name": "終焉大砲",
             "introduce": "<size=36><color=black>氷の鎧をまとい、警告のように暗く輝く終焉大砲。その一撃ごとに破壊が訪れる。撃ち抜かれたゾンビたちに備えは不要——閃光の後には、何も残らない。</color>",
-            "info": "<size=36>大地を揺るがす力を持っています。\n\n<color=black>ダメージ：</color><color=#8B0000>メインブラスト - 3×3エリアで1800ダメージ。追加で1800ダメージ＋ゾンビの最大HPの30%を画面全体に与えます。\nサイドガン: 360度を2回/1.5秒で発射し、スロー効果があります。</color>\n<color=black>リロード：</color><color=#8B0000>36秒</color>\n<color=black>融合レシピ：</color><color=#8B0000>氷の大砲＋霜終キノコ</color>\n<color=black>旅行モード強化：\n<color=#8B0000>1. 主爆発エリアのダメージが4倍になります。\n2. リロード時間：12秒。</color>",
+            "info": "<size=36>大地を揺るがす力を持っています。\n\n<color=black>ダメージ：</color><color=#8B0000>メインブラスト～3×3エリアで1800ダメージ。追加で1800ダメージ＋ゾンビの最大HPの30%を画面全体に与えます。\nサイドガン: 360度を2回/1.5秒で発射し、スロー効果があります。</color>\n<color=black>リロード：</color><color=#8B0000>36秒</color>\n<color=black>融合レシピ：</color><color=#8B0000>氷の大砲＋霜終キノコ</color>\n<color=black>旅行モード強化：\n<color=#8B0000>①主爆発エリアのダメージが4倍になります。\n②リロード時間：12秒。</color>",
             "cost": "<size=36>"
         },
         {
             "seedType": 916,
             "name": "エメラルドの傘",
             "introduce": "<size=36><color=black>見た目からして、エメラルドの傘には商才があることがわかる。「そう、エメラルドの帽子は、『ブロックだらけの世界』の誰かと交換した交易品だったんだ…」</color>",
-            "info": "<size=36>ダイヤモンドの傘とキャベツの傘の組み合わせ。\n\n<color=black>耐久力：</color><color=#8B0000>4000</color>\n<color=black>スペシャル：</color><color=#8B0000>両方の素材の特性を持っています。また、弾が下の2レーンにいるゾンビに当たることができます。Iコーヒービーンのアルティメットは、50％以下のHPのゾンビを即座に倒すことができます。</color>\n<color=black>融合レシピ：</color><color=#8B0000>ダイヤモンドの傘＋キャベツの傘</color>\n<color=black>旅行モード強化：\n<color=#8B0000>1. 他のエメラルドの傘と弾丸を跳ね返す効果を追加、跳ね返すたびに弾丸のダメージが1.8倍増加します。\n2. ゾンビが近くにいる場合に必殺技を自動発動。7.5秒クールダウン｜ルビーの傘亜種をアンロック。</color>",
+            "info": "<size=36>ダイヤモンドの傘とキャベツの傘の組み合わせ。\n\n<color=black>耐久力：</color><color=#8B0000>4000</color>\n<color=black>スペシャル：</color><color=#8B0000>両方の素材の特性を持っています。また、弾が下の2レーンにいるゾンビに当たることができます。Iコーヒービーンのアルティメットは、50％以下のHPのゾンビを即座に倒すことができます。</color>\n<color=black>融合レシピ：</color><color=#8B0000>ダイヤモンドの傘＋キャベツの傘</color>\n<color=black>旅行モード強化：\n<color=#8B0000>①他のエメラルドの傘と弾丸を跳ね返す効果を追加、跳ね返すたびに弾丸のダメージが1.8倍増加します。\n②ゾンビが近くにいる場合に必殺技を自動発動。7.5秒クールダウン｜ルビーの傘亜種をアンロック。</color>",
             "cost": "<size=36>"
         },
         {
@@ -717,8 +717,8 @@
         {
             "seedType": 919,
             "name": "炎帝スリーピーター",
-            "introduce": "<size=36><color=black>火が本当に植物に再生をもたらすのかは誰にもわからない──それは、ただの伝説。炎を追い求めた者たちは灰となり、そして新たな伝説が誕生した。何度炎に耐えれば成功を手にできるのかは定かではない。それでも、彼らのために──炎の中を歩み続ける。</color>",
-            "info": "<size=36>炎から復活！\n\n<color=black>ダメージ：</color><color=#8B0000>160×3/1.5秒</color>\n<color=black>スペシャル：</color><color=#8B0000>登場時に芝生全体を燃やし、弾はエンフレイムデバフを付与し、3回貫通してダメージを与えます。スカッシュインフェルノウッドを通過するとダメージが2倍になります。</color>\n<color=black>融合レシピ：</color><color=#8B0000>灰焼けスリーピーター＋ハラペーニョ</color>\n<color=black>旅行モード強化：\n<color=#8B0000>1. 炎上ダメージ倍率→150%、点火したピーが炎上デバフを付与可能。\n2. 弾丸が無限に貫通可能になります。</color>",
+            "introduce": "<size=36><color=black>火が本当にプラントに再生をもたらすのかは誰にもわからない──それは、ただの伝説。炎を追い求めた者たちは灰となり、そして新たな伝説が誕生した。何度炎に耐えれば成功を手にできるのかは定かではない。それでも、彼らのために──炎の中を歩み続ける。</color>",
+            "info": "<size=36>炎から復活！\n\n<color=black>ダメージ：</color><color=#8B0000>160×3/1.5秒</color>\n<color=black>スペシャル：</color><color=#8B0000>登場時に芝生全体を燃やし、弾はエンフレイムデバフを付与し、3回貫通してダメージを与えます。スカッシュインフェルノウッドを通過するとダメージが2倍になります。</color>\n<color=black>融合レシピ：</color><color=#8B0000>灰焼けスリーピーター＋ハラペーニョ</color>\n<color=black>旅行モード強化：\n<color=#8B0000>①炎上ダメージ倍率→150%、点火したピーが炎上デバフを付与可能。\n②弾丸が無限に貫通可能になります。</color>",
             "cost": ""
         },
         {
@@ -738,7 +738,7 @@
         {
             "seedType": 922,
             "name": "チェリーパンプキン",
-            "introduce": "<size=36><color=black>チェリーか？パンプキンか？それとも融合から生まれたハイブリッドか？ チェリーパンプキンは、そんな細かいことにはこだわらない。彼にとってハロウィンとは、良い子にはジューシーなチェリーを、いたずらっ子にはチェリー爆弾を配るだけのもの。—それ以外はどうでもいいのだ。</color>",
+            "introduce": "<size=36><color=black>チェリーか？パンプキンか？それとも融合から生まれたハイブリッドか？チェリーパンプキンは、そんな細かいことにはこだわらない。彼にとってハロウィンとは、良い子にはジューシーなチェリーを、いたずらっ子にはチェリー爆弾を配るだけのもの。—それ以外はどうでもいいのだ。</color>",
             "info": "<size=36>爆発耐性ありパンプキン.\n\n<color=black>耐久力：</color><color=#8B0000>8000</color>\n<color=black>スペシャル：</color><color=#8B0000>ホバードローンを生成しなくなり、チェリー爆発を無効化し、それによって回復します。30秒ごとに自爆ドローンを生成し、それがゾンビを追跡してチェリー爆弾のように爆発します。</color>\n<color=black>融合レシピ：</color><color=#8B0000>レーザーパンプキン＋チェリー爆弾</color>",
             "cost": ""
         },
@@ -753,35 +753,35 @@
             "seedType": 924,
             "name": "チャーマロボキノコ",
             "introduce": "<size=36><color=black></color>",
-            "info": "<size=36>カリスマ・マキシマ\n\n<color=black>ダメージ：</color><color=#8B0000>80/2秒</color>\n<color=black>スペシャル：</color><color=#8B0000>弾は1タイルのスプラッシュ範囲を持ち、威力減衰がなく、ゾンビに消費されることはありません。金属製の物を与えると、30秒間1つのチャージレベルが付与され、最大で2つまでチャージできます。1チャージレベルでは1回の攻撃で2発を発射し、2チャージレベルでは4発を発射します。同じ磁気システム内の各植物は、その攻撃に5%のダメージブーストを提供します。</color>\n<color=black>融合レシピ：</color><color=#8B0000>チャームキノコ＋魅惑磁石キノコ</color>\n<color=black>旅行モード強化：\n<color=#8B0000>1. 魅了のHPしきい値が50%から100%に増加しました。\n2. 常にフルチャージ状態になります｜攻撃間隔→1秒。</color>",
+            "info": "<size=36>カリスマ・マキシマ\n\n<color=black>ダメージ：</color><color=#8B0000>80/2秒</color>\n<color=black>スペシャル：</color><color=#8B0000>弾は1タイルのスプラッシュ範囲を持ち、威力減衰がなく、ゾンビに消費されることはありません。金属製の物を与えると、30秒間1つのチャージレベルが付与され、最大で2つまでチャージできます。1チャージレベルでは1回の攻撃で2発を発射し、2チャージレベルでは4発を発射します。同じ磁気システム内の各植物は、その攻撃に5%のダメージブーストを提供します。</color>\n<color=black>融合レシピ：</color><color=#8B0000>チャームキノコ＋魅惑磁石キノコ</color>\n<color=black>旅行モード強化：\n<color=#8B0000>①魅了のHPしきい値が50%から100%に増加しました。\n②常にフルチャージ状態になります｜攻撃間隔→1秒。</color>",
             "cost": ""
         },
         {
             "seedType": 925,
             "name": "黒曜石の地雷",
             "introduce": "<size=36><color=#3D1400>黒曜石の地雷はその小さなサイズにもかかわらず、莫大な力を持つ。彼はゾンビを恐れない。しかし、彼には悩みもある。ダイヤモンドのツルハシを持ったブロックみたいな人間が、よく頭を叩きに来るのだ。</color>",
-            "info": "<size=36>非常に高い耐久力を持ち、掘り手ゾンビをブロックする。\n\n<color=#3D1400>耐久力：</color><color=red>32000</color>\n<color=#3D1400>スペシャル：</color>\n<color=black>•</color><color=#8B0000> 低身植物（直進弾丸を回避する）</color>\n<color=black>•</color><color=#8B0000> 黒曜石のトールナッツの亜種。ジャガイモ地雷またはトールナッツと切り替え可能。掘り手ゾンビをブロックし、1000ダメージ受けるごとに（ダメージ軽減前）、小規模な地雷ナッツ爆発を起こし、周囲のゾンビに500ダメージを与える。</color>\n<color=black>融合レシピ：</color><color=#8B0000>黒曜石のトールナッツ＋ジャガイモ地雷</color>",
+            "info": "<size=36>非常に高い耐久力を持ち、掘り手ゾンビをブロックする。\n\n<color=#3D1400>耐久力：</color><color=red>32000</color>\n<color=#3D1400>スペシャル：</color>\n<color=black>※</color><color=#8B0000>低身植物（直進弾丸を回避する）</color>\n<color=black>※</color><color=#8B0000>黒曜石のトールナッツの亜種。ジャガイモ地雷またはトールナッツと切り替え可能。掘り手ゾンビをブロックし、1000ダメージ受けるごとに（ダメージ軽減前）、小規模な地雷ナッツ爆発を起こし、周囲のゾンビに500ダメージを与える。</color>\n<color=black>融合レシピ：</color><color=#8B0000>黒曜石のトールナッツ＋ジャガイモ地雷</color>",
             "cost": ""
         },
         {
             "seedType": 926,
             "name": "猫神",
             "introduce": "<size=36><color=#3D1400>「水に浮くなら、例えば浮き輪よりも動物の毛を使ったほうがいいと思う！」猫神はそう信じている。ふむ…これは彼女の学力の低さや泳げないことが原因ではないかと思うなら、その通り。猫が泳げるわけがない！ただし、彼女は適当に分類されることを拒む。</color>",
-            "info": "<size=36>ゾンビを倒すたびにドローンを召喚して攻撃。\n\n<color=#3D1400>ダメージ：</color><color=red>160×2/1.5秒,倒したゾンビごとに、同じレーンに小さな浮遊ドローンを召喚し、100ダメージのネトルスパイクを30発発射する。</color>\n<color=#3D1400>スペシャル：</color><color=red>ゾンビが多いほど、ゾンビは減る（猫スクワッシュの特性を継承し、ゾンビを倒すとカードを払い戻す）。</color>\n<color=black>旅行モード強化：\n<color=#8B0000>1. 基本ダメージ×5.\n2. ドローンのダメージ×3。</color>\n<color=black>融合レシピ：</color><color=#8B0000>猫スクワッシュ＋猫尾草</color>",
+            "info": "<size=36>ゾンビを倒すたびにドローンを召喚して攻撃。\n\n<color=#3D1400>ダメージ：</color><color=red>160×2/1.5秒,倒したゾンビごとに、同じレーンに小さな浮遊ドローンを召喚し、100ダメージのネトルスパイクを30発発射する。</color>\n<color=#3D1400>スペシャル：</color><color=red>ゾンビが多いほど、ゾンビは減る（猫スクワッシュの特性を継承し、ゾンビを倒すとカードを払い戻す）。</color>\n<color=black>旅行モード強化：\n<color=#8B0000>①基本ダメージ×5.\n②ドローンのダメージ×3。</color>\n<color=black>融合レシピ：</color><color=#8B0000>猫スクワッシュ＋猫尾草</color>",
             "cost": ""
         },
         {
             "seedType": 927,
             "name": "タイタン黒曜石砲塔",
             "introduce": "<size=36><color=#3D1400>タイタン黒曜石砲塔は、人々とあまり交流しない。それは傲慢だからではなく、いつも「体の火は熱いのか冷たいのか？熱い氷や冷たい火を作れるのか？」といった質問をされるからだ。そんな質問にはもう飽き飽きしている。</color>",
-            "info": "<size=36>耐久力を消費して黒曜石の弾丸を発射し、敵を撃退させる。撃ち続けるほど威力が増す。\n\n<color=#3D1400>ダメージ：</color><color=red>攻撃ごとに120ダメージ</color>\n<color=#3D1400>耐久力：</color><color=red>8000</color>\n<color=#3D1400>スペシャル：</color><color=red>発射した弾はゾンビを撃退させ、2回まで貫通する（貫通時の威力は半減）。耐久力が減少すると発射速度が上昇し、耐久力が1/3以下になると最大速度に達する。さらに耐久力が減少すると、攻撃力が増加する。HPが0になると、ダメージは最大480に達する。発射ごとに自身へ50のダメージを与え、耐久力が1500以下になるまで持続する。</color>\n<color=black>旅行モード強化：\n<color=#8B0000>1. 耐久力が減少するほど防御力が上昇。耐久力が100未満の場合、100未満のダメージを無効化。\n2. 発射ダメージと撃退効果が大幅に強化される。</color>\n<color=black>融合レシピ：</color><color=#8B0000>タイタンピー砲塔＋黒曜石のトールナッツ</color>",
+            "info": "<size=36>耐久力を消費して黒曜石の弾丸を発射し、敵を撃退させる。撃ち続けるほど威力が増す。\n\n<color=#3D1400>ダメージ：</color><color=red>攻撃ごとに120ダメージ</color>\n<color=#3D1400>耐久力：</color><color=red>8000</color>\n<color=#3D1400>スペシャル：</color><color=red>発射した弾はゾンビを撃退させ、2回まで貫通する（貫通時の威力は半減）。耐久力が減少すると発射速度が上昇し、耐久力が1/3以下になると最大速度に達する。さらに耐久力が減少すると、攻撃力が増加する。HPが0になると、ダメージは最大480に達する。発射ごとに自身へ50のダメージを与え、耐久力が1500以下になるまで持続する。</color>\n<color=black>旅行モード強化：\n<color=#8B0000>①耐久力が減少するほど防御力が上昇。耐久力が100未満の場合、100未満のダメージを無効化。\n②発射ダメージと撃退効果が大幅に強化される。</color>\n<color=black>融合レシピ：</color><color=#8B0000>タイタンピー砲塔＋黒曜石のトールナッツ</color>",
             "cost": ""
         },
         {
             "seedType": 928,
             "name": "災厄キノコ",
-            "introduce": "<size=36><color=#3D1400>誰もが疑問に思う——災厄キノコは、なぜ巨大なクリーチャーを従わせることができるのか。果てしない破壊は、沈黙をもたらすはず…問い詰められた彼女は、ひとり塔の上で夢幻の酒をすする。「消滅？ いいえ、私はただ、幻想の中で彼らを再生させているだけよ。」</color>",
-            "info": "<size=36>戦局を一変させる！\n\n<color=#3D1400>スペシャル：</color><color=red>破壊キノコと同じ範囲でゾンビを魅了し、倒されると爆発して破壊キノコと同様のダメージを与える。</color>\n<color=black>旅行モード強化：\n<color=#8B0000>1. 破壊キノコの爆発がクレーターを残さなくなる。\n2. 爆発時に装甲ガーガンチュア3体を魅了して召喚。魅了されたゾンビはそれぞれゾンボニーを召喚する。</color>\n<color=black>融合レシピ：</color><color=#8B0000>破壊キノコ＋破壊ヒプノキノコ</color>",
+            "introduce": "<size=36><color=#3D1400>誰もが疑問に思う——災厄キノコは、なぜ巨大なクリーチャーを従わせることができるのか。果てしない破壊は、沈黙をもたらすはず…問い詰められた彼女は、ひとり塔の上で夢幻の酒をすする。「消滅？いいえ、私はただ、幻想の中で彼らを再生させているだけよ。」</color>",
+            "info": "<size=36>戦局を一変させる！\n\n<color=#3D1400>スペシャル：</color><color=red>破壊キノコと同じ範囲でゾンビを魅了し、倒されると爆発して破壊キノコと同様のダメージを与える。</color>\n<color=black>旅行モード強化：\n<color=#8B0000>①破壊キノコの爆発がクレーターを残さなくなる。\n②爆発時に装甲ガーガンチュア3体を魅了して召喚。魅了されたゾンビはそれぞれゾンボニーを召喚する。</color>\n<color=black>融合レシピ：</color><color=#8B0000>破壊キノコ＋破壊ヒプノキノコ</color>",
             "cost": ""
         },
         {
@@ -809,154 +809,154 @@
             "seedType": 932,
             "name": "マネートーチ",
             "introduce": "<align=justified><size=36><color=black>まだ幼いにもかかわらず、マネートーチは海外から華やかな芸人風の振る舞いで戻ってきた。「石を金に変える」芸に、観客は歓声を上げて喝采した。舞台裏で不思議な飲み物をかき混ぜながら、マネートーチはにやりと笑い、「ちょっとした魔法なんだよ」とささやいた。</color>",
-            "info": "<size=36>すべての直進型弾をコイン弾に変換！\n\n<color=#4A2900>利用条件：旅行モード｜初期選択</color>\n<color=black>スペシャル：</color><color=#8B0000>\n<color=black>•</color> 通常の直進型弾を銀のコイン2枚と金のコイン1枚に変換する。\n<color=black>•</color> 金のコインは直進し、銀のコインは上下の列に分かれて発射された後、0.8秒後に中央列に合流する。\n<color=black>•</color> 銀のコインは元の弾の50%のダメージを与え、ゾンビに命中すると10コインを獲得。\n<color=black>•</color> 金のコインは元の弾の100%のダメージを与え、ゾンビに命中すると30コインを獲得。</color>\n<color=black>旅行修正効果：</color>\n<color=#8B0000>1. 所持コインが1000枚ごとに、コイン弾のダメージが1%増加\n2. マネートーチの弾が範囲ダメージを与えるようになる</color>",
+            "info": "<size=36>すべての直進型弾をコイン弾に変換！\n\n<color=#4A2900>利用条件：旅行モード｜初期選択</color>\n<color=black>スペシャル：</color><color=#8B0000>\n<color=black>※</color>通常の直進型弾を銀のコイン2枚と金のコイン1枚に変換する。\n<color=black>※</color>金のコインは直進し、銀のコインは上下の列に分かれて発射された後、0.8秒後に中央列に合流する。\n<color=black>※</color>銀のコインは元の弾の50%のダメージを与え、ゾンビに命中すると10コインを獲得。\n<color=black>※</color>金のコインは元の弾の100%のダメージを与え、ゾンビに命中すると30コインを獲得。</color>\n<color=black>旅行修正効果：</color>\n<color=#8B0000>①所持コインが1000枚ごとに、コイン弾のダメージが1%増加\n②マネートーチの弾が範囲ダメージを与えるようになる</color>",
             "cost": "<size=36>\n融合レシピ：</color><color=#8B0000>三頭の炎木＋金の磁石</color>"
         },
         {
             "seedType": 933,
             "name": "制覇サボテン",
-            "introduce": "<align=justified><size=36><color=black>制覇サボテンは、町でも屈指のヘアスタイリスト。彼女の手がける作品一つひとつが、植物ファッション界に革命をもたらしている。「本物のスタイルには、本物の手間が必要よ」と彼女は言いながら、指先で彫刻刀をくるくると回す。木槌やノミは、一般的なヘアスタイリングの道具ではないかもしれない。だが彼女にとっては、どんなに扱いにくい“髪”でも「修正」するために欠かせない道具なのだ。</color>",
-            "info": "<size=36>破壊ヒプノのつららを発射。植えると、破壊ヒプノのつららの一斉射撃を放つ。\n\n<color=#4A2900>利用条件：旅行モード｜制覇キノコでアンロック可</color>\n\n<color=black>ダメージ：</color><color=#8B0000>300/1.5秒</color>\n<color=#0077b6>氷結システム：</color><color=#8B0000>雪ピーは敵に『冷気』を与え、氷結ポイントを20加算。凍結状態のゾンビには4倍のダメージを与える。</color>\n<color=black>スペシャル：</color><color=#8B0000>\n<color=black>•</color> 制覇キノコの亜種\n<color=black>•</color> 攻撃は貫通性能無限。空中ユニットを優先して狙う。\n<color=black>•</color> 一定確率でゾンビを催眠状態にし、爆発ダメージを与える──制覇キノコと同様の効果。\n<color=black>•</color> 植えると破壊ヒプノのつららを60本以上散弾で発射、地上と空中の敵両方を対象に攻撃。</color>",
+            "introduce": "<align=justified><size=36><color=black>制覇サボテンは、町でも屈指のヘアスタイリスト。彼女の手がける作品一つひとつが、プラントファッション界に革命をもたらしている。「本物のスタイルには、本物の手間が必要よ」と彼女は言いながら、指先で彫刻刀をくるくると回す。木槌やノミは、一般的なヘアスタイリングの道具ではないかもしれない。だが彼女にとっては、どんなに扱いにくい“髪”でも「修正」するために欠かせない道具なのだ。</color>",
+            "info": "<size=36>破壊ヒプノのつららを発射。植えると、破壊ヒプノのつららの一斉射撃を放つ。\n\n<color=#4A2900>利用条件：旅行モード｜制覇キノコでアンロック可</color>\n\n<color=black>ダメージ：</color><color=#8B0000>300/1.5秒</color>\n<color=#0077b6>氷結システム：</color><color=#8B0000>雪ピーは敵に『冷気』を与え、氷結ポイントを20加算。凍結状態のゾンビには4倍のダメージを与える。</color>\n<color=black>スペシャル：</color><color=#8B0000>\n<color=black>※</color>制覇キノコの亜種\n<color=black>※</color>攻撃は貫通性能無限。空中ユニットを優先して狙う。\n<color=black>※</color>一定確率でゾンビを催眠状態にし、爆発ダメージを与える──制覇キノコと同様の効果。\n<color=black>※</color>植えると破壊ヒプノのつららを60本以上散弾で発射、地上と空中の敵両方を対象に攻撃。</color>",
             "cost": "<size=36>\n変換レシピ：</color><color=#8B0000>フュームキノコ←→サボテン</color>"
         },
         {
             "seedType": 934,
             "name": "ヘリオスキャベツ",
             "introduce": "<align=justified><size=36><color=black>光とぬくもりの王にして、天空の永遠なる支配者。その足跡が届く場所では闇が枯れ、生命はその輝きに包まれて繁栄する。天空高くに浮かび、その不屈の輝きは虚空を切り裂き、絶望を祓い、希望を燃え立たせる──その存在に触れた者すべてに。</color>",
-            "info": "<size=36>ミニ太陽を召喚してゾンビを攻撃する\n\n<color=#4A2900>利用条件：旅行モード｜アンロック可</color>\n\n<color=black>ダメージ：</color><color=#8B0000>300×5/2秒</color>\n<color=black>スペシャル：</color><color=#8B0000>\n<color=black>•</color> 太陽パルトの特性を継承する。\n<color=black>•</color> 30秒ごとに「ミニ太陽」を召喚。持続時間は15秒で、0.5秒ごとに60＋（40×ヘリオスキャベツの数）のダメージを全ゾンビに与える。\n<color=black>•</color> 太陽が15,000を超えているとき、200太陽を消費してミニ太陽の攻撃を3倍化。\n<color=black>•</color> ミニ太陽が存在すると、太陽のドロップ率が大幅に上昇、通常メテオのダメージが20上昇、さらに着弾時に追加で250太陽がドロップされる。</color>\n<color=black>必殺技：</color><color=#8B0000>1000コインかかります；フィールドにミニ太陽が存在しない場合、即座に召喚。既に存在している場合、持続時間を15秒延長。同時に存在できるミニ太陽は1体のみ。</color>\n<color=black>関連する旅行修正効果：マグネター相乗効果</color><color=#8B0000>\n<color=black>•</color> マグネターとヘリオスキャベツのすべての旅行修正効果を解放済みである必要あり。\n<color=black>•</color> フィールドにマグネター10体以上かつヘリオスキャベツ10体以上いると、マグネターはヘリオスメテオを召喚。この条件下では、ヘリオスキャベツによって召喚されたミニ太陽は消えず、通常メテオも継続して召喚。\n<color=black>•</color> ヘリオスメテオ：ダメージ=(1800＋1800×マグネターの数)×(1＋0.2×ヘリオスキャベツの数)、太陽が1250をドロップ。</color>\n\n<color=black>主な旅行修正効果：</color>\n<color=#8B0000>1. 太陽が15,000を超えた場合、余剰分の0.5%を消費して、消費1太陽ごとに発射物のダメージが20増加。\n2. 召喚されたミニ太陽のダメージが3倍に増加。</color>",
+            "info": "<size=36>ミニ太陽を召喚してゾンビを攻撃する\n\n<color=#4A2900>利用条件：旅行モード｜アンロック可</color>\n\n<color=black>ダメージ：</color><color=#8B0000>300×5/2秒</color>\n<color=black>スペシャル：</color><color=#8B0000>\n<color=black>※</color>太陽パルトの特性を継承する。\n<color=black>※</color>30秒ごとに「ミニ太陽」を召喚。持続時間は15秒で、0.5秒ごとに、60+(40×ヘリオスキャベツの数)のダメージを全ゾンビに与える。\n<color=black>※</color>太陽が15,000を超えているとき、200太陽を消費してミニ太陽の攻撃を3倍化。\n<color=black>※</color>ミニ太陽が存在すると、太陽のドロップ率が大幅に上昇、通常メテオのダメージが20上昇、さらに着弾時に追加で250太陽がドロップされる。</color>\n<color=black>必殺技：</color><color=#8B0000>1000コインかかります；フィールドにミニ太陽が存在しない場合、即座に召喚。既に存在している場合、持続時間を15秒延長。同時に存在できるミニ太陽は1体のみ。</color>\n<color=black>関連する旅行修正効果：マグネター相乗効果</color><color=#8B0000>\n<color=black>※</color>マグネターとヘリオスキャベツのすべての旅行修正効果を解放済みである必要あり。\n<color=black>※</color>フィールドにマグネター10体以上かつヘリオスキャベツ10体以上いると、マグネターはヘリオスメテオを召喚。この条件下では、ヘリオスキャベツによって召喚されたミニ太陽は消えず、通常メテオも継続して召喚。\n<color=black>※</color>ヘリオスメテオ：ダメージ=(1800＋1800×マグネターの数)×(1＋0.2×ヘリオスキャベツの数)、太陽が1250をドロップ。</color>\n\n<color=black>主な旅行修正効果：</color>\n<color=#8B0000>①太陽が15,000を超えた場合、余剰分の0.5%を消費して、消費1太陽ごとに発射物のダメージが20増加。\n②召喚されたミニ太陽のダメージが3倍に増加。</color>",
             "cost": "<size=36>\n融合レシピ：</color><color=#8B0000>太陽パルト＋金のキャベツ</color>"
         },
         {
             "seedType": 935,
             "name": "多機能パンプキン",
             "introduce": "<align=justified><size=36><color=black>フルモデルチェンジを経て、多機能パンプキン**は走る要塞となった。複合装甲？チェック。鉄製補強？ダブルチェック。戦術インターフェース？もちろん搭載済み。すべてが完璧だった……鏡を覗くまでは。そこにいたのは――カニ。彼らはパンプキンを、カニに変えてしまった。「ねえ、マジで⁈一言くらい、事前に教えてくれてもよかったでしょ！」</color>",
-            "info": "<size=36>多機能なパンプキン。\n\n<color=#4A2900>利用条件：旅行モード｜初期選択</color>\n<color=black>耐久力：</color><color=#8B0000>8000</color>\n<color=black>スペシャル：</color>\n<color=#8B0000>金属植物、多彩な特性を持つ。\n<color=black>•</color> ピエロの爆発は無効。\n<color=black>•</color> 掘り手ゾンビを早めに地面から引きずり出す。\n<color=black>•</color> チェリー爆発からダメージが半減。\n<color=black>•</color> 金属物を使用することで耐久力を回復できます。</color>\n<color=black>旅行修正効果：</color><color=#8B0000>未定</color>",
+            "info": "<size=36>多機能なパンプキン。\n\n<color=#4A2900>利用条件：旅行モード｜初期選択</color>\n<color=black>耐久力：</color><color=#8B0000>8000</color>\n<color=black>スペシャル：</color>\n<color=#8B0000>金属植物、多彩な特性を持つ。\n<color=black>※</color>ピエロの爆発は無効。\n<color=black>※</color>掘り手ゾンビを早めに地面から引きずり出す。\n<color=black>※</color>チェリー爆発からダメージが半減。\n<color=black>※</color>金属物を使用することで耐久力を回復できます。</color>\n<color=black>旅行修正効果：</color><color=#8B0000>未定</color>",
             "cost": "<size=36>\n融合レシピ：</color><color=#8B0000>磁石キノコ→磁力パンプキン</color>"
         },
         {
             "seedType": 936,
             "name": "黄金の太陽の鉢",
             "introduce": "<align=justified><size=36><color=black>庭の奥深く、太陽がいつも輝く場所に、黄金の太陽の鉢が静かに佇んでいる。彼は多くを語ることも、誇ることもない——ただ与えるのみ。陽光を金のコインへと紡ぎながら、あなたが彼と同じように<i>輝く</i>存在へと成長するのを、忍耐強く待ち続けている。</color>",
-            "info": "<size=36>素早く多くの太陽とコインを生成可能。\n\n<color=#4A2900>利用条件：旅行モード｜初期選択</color>\n<color=black>スペシャル：</color><color=#8B0000>銀の鉢の特性を継承すう。(現在の太陽量/1000)秒ごとに、50太陽と100コインを生成（3以上15以下の範囲で変動）。</color>\n<color=black>旅行修正効果：</color>\n<color=#8B0000>1. 銀の鉢から銀の鉢への金化コストは8000を超えない。\n2. 最大コイン量を超えた分は、2:1の割合で太陽に変換される。</color>",
+            "info": "<size=36>素早く多くの太陽とコインを生成可能。\n\n<color=#4A2900>利用条件：旅行モード｜初期選択</color>\n<color=black>スペシャル：</color><color=#8B0000>銀の鉢の特性を継承すう。(現在の太陽量/1000)秒ごとに、50太陽と100コインを生成（3以上15以下の範囲で変動）。</color>\n<color=black>旅行修正効果：</color>\n<color=#8B0000>①銀の鉢から銀の鉢への金化コストは8000を超えない。\n②最大コイン量を超えた分は、2:1の割合で太陽に変換される。</color>",
             "cost": "<size=36>\n融合レシピ：</color><color=#8B0000>ヒマワリ→金の鉢</color>"
         },
         {
             "seedType": 937,
             "name": "ファロス傘",
             "introduce": "<align=justified><size=36><color=black>かつて「プラントの孤児院」の愛される園長だった彼女は、単なる世話役ではなかった——まさに“家族”そのもの。広い葉は若い芽たちの遊び場となり、影と安らぎ、そして喜びを与えていた。あの頃は過ぎ去ったが、彼女の優しさは今も変わらない。「あら？このマシュマロ、試してみたいのかい、坊や？」と、彼女は微笑みながら語りかける——その温もりは、今も変わらずそこにある。</color>",
-            "info": "<size=36>レーザーを発射してゾンビを攻撃する\n\n<color=#4A2900>利用条件：旅行モード｜初期選択</color>\n<color=black>耐久力：</color><color=#8B0000>1000</color>\n<color=black>ダメージ：</color><color=#8B0000>300</color>\n<color=black>エネルギー上限：</color><color=#8B0000>2000</color>\n<color=black>検索範囲：</color><color=#8B0000>（2×光レベル+1）行</color>\n<color=black>スペシャル：</color><color=#8B0000>\n<color=black>•</color> 光の傘の特性を継承する。\n<color=black>•</color> 毎秒100%のダメージを与えるレーザーでゾンビを攻撃。空中ゾンビを優先して狙い、空中の敵には×3のダメージを与える。最大4体まで同時攻撃可能。\n<color=black>•</color> 2秒ごとに最大エネルギーの10%までを消費し、3×3グリッド内の負傷した植物を最大2体まで回復する（最大HPの5%、上限500）。光レベルが1を超えるごとに回復力が100%増加。\n<color=black>•</color> 2体のファロス傘が上下に配置されると、リンクが形成され、探知範囲が画面全体に拡大される。この状態では、2体のファロス傘が同時に最大6体のゾンビを攻撃可能となり、ダメージも2倍に増加。また、ちょうど6体のゾンビが攻撃されている場合、6秒ごとにランダムなゾンビの位置に3×3の爆発が発生し、攻撃力の300%のダメージを与える。</color>\n<color=black>旅行修正効果：</color>\n<color=#8B0000>1. エネルギー上限は10倍、応答速度は20倍、回復速度は2倍\n2. 通常攻撃力の倍率が300%に増加、爆発力の倍率が1000%に増加、攻撃間隔を2秒に設定</color>",
+            "info": "<size=36>レーザーを発射してゾンビを攻撃する\n\n<color=#4A2900>利用条件：旅行モード｜初期選択</color>\n<color=black>耐久力：</color><color=#8B0000>1000</color>\n<color=black>ダメージ：</color><color=#8B0000>300</color>\n<color=black>エネルギー上限：</color><color=#8B0000>2000</color>\n<color=black>検索範囲：</color><color=#8B0000>（2×光レベル+1）行</color>\n<color=black>スペシャル：</color><color=#8B0000>\n<color=black>※</color>光の傘の特性を継承する。\n<color=black>※</color>毎秒100%のダメージを与えるレーザーでゾンビを攻撃。空中ゾンビを優先して狙い、空中の敵には×3のダメージを与える。最大4体まで同時攻撃可能。\n<color=black>※</color>2秒ごとに最大エネルギーの10%までを消費し、3×3グリッド内の負傷したプラントを最大2体まで回復する（最大HPの5%、上限500）。光レベルが1を超えるごとに回復力が100%増加。\n<color=black>※</color>2体のファロス傘が上下に配置されると、リンクが形成され、探知範囲が画面全体に拡大される。この状態では、2体のファロス傘が同時に最大6体のゾンビを攻撃可能となり、ダメージも2倍に増加。また、ちょうど6体のゾンビが攻撃されている場合、6秒ごとにランダムなゾンビの位置に3×3の爆発が発生し、攻撃力の300%のダメージを与える。</color>\n<color=black>旅行修正効果：</color>\n<color=#8B0000>①エネルギー上限は10倍、応答速度は20倍、回復速度は2倍\n②通常攻撃力の倍率が300%に増加、爆発力の倍率が1000%に増加、攻撃間隔を2秒に設定</color>",
             "cost": "\n<size=36>融合レシピ：<color=#8B0000>光サボテン＋光の傘</color>"
         },
         {
             "seedType": 938,
             "name": "アバリスキノコ",
-            "introduce": "<align=justified><size=36><color=black>「開けるなと言われた。だから当然、彼女は開けた。」 アバリスキノコは、誘惑の気配を帯びた華やかな蓋の縁に指を滑らせた。飾られた蓋は微かに震え、内側から囁きがこぼれ出る――渇望、嫉妬、野心。すべてが、解放される瞬間を懇願していた。無邪気とは程遠い、意味ありげな笑みを浮かべながら、彼女は封印を解いた。そこから現れたのは希望ではなかった。それは――利益だった。「ようこそ、小さな怪物さん。」彼女は囁いた。奈落が目を覚まし、新たな富が爪を立てて這い出してくる。</color>",
-            "info": "<size=36>ミニボスゾンビを召喚することができます！\n\n<color=#4A2900>利用条件：旅行モード｜災厄キノコでアンロック可</color>\n<color=black>スペシャル：</color><color=#8B0000>\n<color=black>•</color> 災厄キノコの亜種。\n<color=black>•</color> 地図に応じてミニボスゾンビを召喚できる\n昼：チェリーZ教授、夜：究極フットボールストライカー、プール：将軍マイケルゾンビ、霧：裂空者メカ、屋根：腐潮ゾンビ王、夜屋根：びっくり箱のピエロ女王、夜屋根：究極メカボウリング\n<color=black>•</color> 全ての列に通常の旅行バリアントを召喚する。\n<color=black>•</color> ミニボスゾンビを倒すと、太陽、コイン、ポイントが大量に手に入る。\n<color=black>•</color> 通常の旅行バリアントを倒すと「プラントガチャ箱」を1つ獲得。\n<color=black>•</color> 各ラウンドで1回のみ召喚可能。このプラントはプラントガチャ箱からは出現しません。</color>",
+            "introduce": "<align=justified><size=36><color=black>「開けるなと言われた。だから当然、彼女は開けた。」アバリスキノコは、誘惑の気配を帯びた華やかな蓋の縁に指を滑らせた。飾られた蓋は微かに震え、内側から囁きがこぼれ出る――渇望、嫉妬、野心。すべてが、解放される瞬間を懇願していた。無邪気とは程遠い、意味ありげな笑みを浮かべながら、彼女は封印を解いた。そこから現れたのは希望ではなかった。それは――利益だった。「ようこそ、小さな怪物さん。」彼女は囁いた。奈落が目を覚まし、新たな富が爪を立てて這い出してくる。</color>",
+            "info": "<size=36>ミニボスゾンビを召喚することができます！\n\n<color=#4A2900>利用条件：旅行モード｜災厄キノコでアンロック可</color>\n<color=black>スペシャル：</color><color=#8B0000>\n<color=black>※</color>災厄キノコの亜種。\n<color=black>※</color>地図に応じてミニボスゾンビを召喚できる\n昼：チェリーZ教授、夜：究極フットボールストライカー、プール：将軍マイケルゾンビ、霧：裂空者メカ、屋根：腐潮ゾンビ王、夜屋根：びっくり箱のピエロ女王、夜屋根：究極メカボウリング\n<color=black>※</color>全ての列に通常の旅行バリアントを召喚する。\n<color=black>※</color>ミニボスゾンビを倒すと、太陽、コイン、ポイントが大量に手に入る。\n<color=black>※</color>通常の旅行バリアントを倒すと「プラントガチャ箱」を1つ獲得。\n<color=black>※</color>各ラウンドで1回のみ召喚可能。このプラントはプラントガチャ箱からは出現しません。</color>",
             "cost": "\n<size=36>変換レシピ：<color=#8B0000>破壊キノコ←→マリーゴールド</color>"
         },
         {
             "seedType": 939,
             "name": "チェリー爆弾ドローン",
             "introduce": "<align=justified><size=36><color=black>チェリー爆弾ガトリングの連射型試作機として開発されたチェリー爆弾ドローンは、最近のゾンビ激増に対応するため、実際のチェリー弾を発射するよう改良され、爆発的な評価を獲得した。</color>",
-            "info": "<size=36>下方に配置された射撃系プラントと連携することで、火力がさらに強化される。\n\n<color=#4A2900>利用条件：旅行モード｜チェリー爆弾ガトリングでアンロック可</color>\n\n<color=black>ダメージ：</color><color=#8B0000>300/1.5秒</color>\n<color=black>スペシャル：</color><color=#8B0000>\n<color=black>•</color> 飛行植物、チェリー爆弾ガトリングの亜種。\n<color=black>•</color> 直下に直線攻撃型のプラントが存在する場合、その攻撃間隔と同期（最大2秒まで）。\n<color=black>•</color> 芝生上に配置できるチェリー爆弾ドローンの最大数：レーン数が2倍</color>",
+            "info": "<size=36>下方に配置された射撃系プラントと連携することで、火力がさらに強化される。\n\n<color=#4A2900>利用条件：旅行モード｜チェリー爆弾ガトリングでアンロック可</color>\n\n<color=black>ダメージ：</color><color=#8B0000>300/1.5秒</color>\n<color=black>スペシャル：</color><color=#8B0000>\n<color=black>※</color>飛行植物、チェリー爆弾ガトリングの亜種。\n<color=black>※</color>直下に直線攻撃型のプラントが存在する場合、その攻撃間隔と同期（最大2秒まで）。\n<color=black>※</color>芝生上に配置できるチェリー爆弾ドローンの最大数：レーン数が2倍</color>",
             "cost": "<size=36>\n変換レシピ：<color=#8B0000> シャベル←→ブロバー</color>"
         },
         {
             "seedType": 940,
             "name": "火炎弾キノコ",
             "introduce": "<align=justified><size=36><color=black>火炎弾キノコは、ただの戦場の炎じゃない——そのBBQ技術は伝説級。彼の夢？それは街中のすべてのプラントとゾンビを招待した、史上最高のBBQパーティーを開催すること。</color>",
-            "info": "<size=36>火炎弾スイカを投擲し、着弾時に分裂して炎上ゾーンを残す。\n\n<color=#4A2900>利用条件：旅行モード｜アンロック可</color>\n<color=black>耐久力：</color><color=#8B0000>3000</color>\n<color=black>ダメージ：</color><color=#8B0000>300/7.5秒＋30/0.02秒（炎上）</color>\n<color=#720026>炎上デバフ：</color><color=#8B0000>各火炎弾スイカは、2.5秒間持続する炎上ゾーンを生成。</color>\n<color=black>スペシャル：</color><color=#8B0000>\n<color=black>•</color> 攻撃範囲：4タイル。手動発射時は全画面に対応。火炎弾スイカを発射すると1.5秒休息、その後最低6秒間チャージし、　ダメージが「1＋（チャージ時間×50%）」に増加（最大チャージ：30秒）。\n<color=black>•</color> 攻撃はすべての装甲を貫通し、同じダメージの火炎弾スイカを2つ追加で分裂発射、周囲のゾンビを自動照準。</color>\n<color=black>旅行修正効果：</color>\n<color=#8B0000>1. チャージ速度、最大チャージ時間が3倍。\n2. 炎上ゾーンの時間が2倍になります。</color>",
+            "info": "<size=36>火炎弾スイカを投擲し、着弾時に分裂して炎上ゾーンを残す。\n\n<color=#4A2900>利用条件：旅行モード｜アンロック可</color>\n<color=black>耐久力：</color><color=#8B0000>3000</color>\n<color=black>ダメージ：</color><color=#8B0000>300/7.5秒＋30/0.02秒（炎上）</color>\n<color=#720026>炎上デバフ：</color><color=#8B0000>各火炎弾スイカは、2.5秒間持続する炎上ゾーンを生成。</color>\n<color=black>スペシャル：</color><color=#8B0000>\n<color=black>※</color>攻撃範囲：4タイル。手動発射時は全画面に対応。火炎弾スイカを発射すると1.5秒休息、その後最低6秒間チャージし、　ダメージが「1+(チャージ時間×50%)」に増加（最大チャージ：30秒）。\n<color=black>※</color>攻撃はすべての装甲を貫通し、同じダメージの火炎弾スイカを2つ追加で分裂発射、周囲のゾンビを自動照準。</color>\n<color=black>旅行修正効果：</color>\n<color=#8B0000>①チャージ速度、最大チャージ時間が3倍。\n②炎上ゾーンの時間が2倍になります。</color>",
             "cost": "\n<size=34>融合レシピ：<color=#8B0000>炎スイカ＋フットボールキノコ</color>"
         },
         {
             "seedType": 941,
             "name": "ケルプテイン・ドレッドハート",
             "introduce": "<align=justified><size=36><color=black>深淵の大渦の戦いから帰還して以来、ケルプテイン・ドレッドハートは変わり果てた獣となった――より凶暴に、より貪欲に、そして二つの心臓を持つ存在に。今や呪われし襲撃船〈レイディング・ゴールドプラント〉の船長として、一つは自らの胸から引き裂かれた心臓、もう一つは倒した宿敵から奪った心臓に縛られ、彼の怒りは七つの海を支配する。もしその心臓に触れようものなら、お前の船はダヴィ・ジョーンズの海の墓場へと沈み、塩の底で滅びる運命にあるだろう。</color>",
-            "info": "<size=36>七つの海を支配する貪欲なる覇者。ゾンビから価値の一滴すらも搾り取ることができる。\n\n<color=#4A2900>利用条件：旅行モード｜アンロック可</color>\n\n<color=black>ダメージ：</color><color=#8B0000>40×3/1.5秒＋即死（溺死）×∞</color>\n<color=black>スペシャル：</color><color=#8B0000>\n<color=black>•</color> 三頭のクラーケンの特性を継承するが、ゾンビを水中に引きずり込む能力は無制限（最大1秒に1回まで）。\n<color=black>•</color> 投擲物が命中したゾンビは、死亡時に黄金の像となり、旅行ポイントを3倍獲得できる。ボーナスの上限：1波につき最大+2000ポイント。</color>\n<color=black>旅行修正効果：</color>\n<color=#8B0000>1. 所持ポイント1000ごとにプラントの攻撃力が5%増加（最大+300%）\n2. 旅行ショップで修正効果が30%割引になっています。</color>",
+            "info": "<size=36>七つの海を支配する貪欲なる覇者。ゾンビから価値の一滴すらも搾り取ることができる。\n\n<color=#4A2900>利用条件：旅行モード｜アンロック可</color>\n\n<color=black>ダメージ：</color><color=#8B0000>40×3/1.5秒+即死（溺死）×∞</color>\n<color=black>スペシャル：</color><color=#8B0000>\n<color=black>※</color>三頭のクラーケンの特性を継承するが、ゾンビを水中に引きずり込む能力は無制限（最大1秒に1回まで）。\n<color=black>※</color>投擲物が命中したゾンビは、死亡時に黄金の像となり、旅行ポイントを3倍獲得できる。ボーナスの上限：1波につき最大+2000ポイント。</color>\n<color=black>旅行修正効果：</color>\n<color=#8B0000>①所持ポイント1000ごとにプラントの攻撃力が5%増加（最大+300%）\n②旅行ショップで修正効果が30%割引になっています。</color>",
             "cost": "<size=33>\n融合レシピ：<color=#8B0000>双子マリーゴールド→三頭のクラーケン</color>"
         },
         {
             "seedType": 942,
             "name": "バックキノコ部隊",
             "introduce": "<align=justified><size=36><color=black>バックキノコの最悪の恐怖がついに現実となった――本当に磁石キノコにくっついてしまい、誰も引き剥がせなくなった。でも、それは案外“災い転じて福となす”だったのかもしれない。磁石キノコが集めた素材のおかげで装備が強化され、真の「鋼の戦団」へと進化した！</color>",
-            "info": "<size=36>多目的部隊として、速射・対空・狙撃に長けた精鋭チーム！\n\n<color=#4A2900>利用条件：旅行モード｜初期選択</color>\n\n<color=black>耐久力：</color><color=#8B0000>6000</color>\n<color=black>ダメージ：</color><color=#8B0000>80×4/1秒（速射）、240/2秒（対空）、400/3秒（狙撃）</color>\n<color=black>スペシャル：</color><color=#8B0000>\n<color=black>•</color> 金属植物\n<color=black>•</color> 速射ラウンドは対象を撃退し、盾膜の現在のHPに応じて追加ダメージを与える。\n<color=black>•</color> 対空攻撃は同じレーン内の空中ユニットのみを対象とし、撃退効果と同タイルへのスプラッシュダメージを与える。\n<color=black>•</color> 狙撃攻撃は狙撃ピーと同じ特性を継承している。</color>\n<color=black>旅行修正効果：</color>\n<color=#8B0000>1. 狙撃ダメージが1,000,000に増加し、1/3の確率で速射狙撃が発動。ただし、攻撃間隔は7.5秒に設定される。\n2. 撃退距離および対空のスプラッシュダメージが3倍になる。</color>",
+            "info": "<size=36>多目的部隊として、速射・対空・狙撃に長けた精鋭チーム！\n\n<color=#4A2900>利用条件：旅行モード｜初期選択</color>\n\n<color=black>耐久力：</color><color=#8B0000>6000</color>\n<color=black>ダメージ：</color><color=#8B0000>80×4/1秒（速射）、240/2秒（対空）、400/3秒（狙撃）</color>\n<color=black>スペシャル：</color><color=#8B0000>\n<color=black>※</color>金属植物\n<color=black>※</color>速射ラウンドは対象を撃退し、盾膜の現在のHPに応じて追加ダメージを与える。\n<color=black>※</color>対空攻撃は同じレーン内の空中ユニットのみを対象とし、撃退効果と同タイルへのスプラッシュダメージを与える。\n<color=black>※</color>狙撃攻撃は狙撃ピーと同じ特性を継承している。</color>\n<color=black>旅行修正効果：</color>\n<color=#8B0000>①狙撃ダメージが1,000,000に増加し、1/3の確率で速射狙撃が発動。ただし、攻撃間隔は7.5秒に設定される。\n②撃退距離および対空のスプラッシュダメージが3倍になる。</color>",
             "cost": "<size=34>\n融合レシピ：<color=#8B0000>磁石キノコ→バックキノコ×3</color>"
         },
         {
             "seedType": 943,
             "name": "量子カーネル",
             "introduce": "<align=justified><size=36><color=black>宇宙の黎明期に生まれ、その年齢はもはや計り知れない。原初の虚無から三つの星を引き抜き、自らの周囲を月のように周回させた――ブラックホールですら奪えぬ宝。今やこの古き者は、自身と同じく古代の記憶を宿す宇宙の秘宝を弄ぶことに喜びを見出している。</color>",
-            "info": "<size=36>超高密度のブラックホールを投げつけ、崩壊とともに爆発を引き起こし、吸収したエネルギーをすべて解放する。\n\n<color=#4A2900>利用条件：旅行モード｜アンロック可</color>\n\n<color=black>ダメージ：</color><color=#8B0000>300/2秒（ミニバター）</color>\n<color=black>スペシャル：</color><color=#8B0000>\n<color=black>•</color> 金属植物\n<color=black>•</color> 75%の確率でミニバターを発射。非ミニボスゾンビのサイズとHPを70%に縮小する。縮小に失敗した場合、対象は1.5秒間気絶する。インプ種ゾンビには即死効果。\n<color=black>•</color> 25%の確率で究極ブラックホールを発射。2秒間持続し、周囲のゾンビを鈍化させ、3×3グリッド内の量子カーネルの投擲物を吸収する。\n<color=blac>•</color> 吸収した弾丸1発につき持続時間が2秒延長され、最大7.5秒まで持続可能。消滅時にはチェリー爆弾級の大爆発を引き起こし、（320＋蓄積ダメージの60%）を与える。5秒以上持続した場合、爆発範囲が大幅に拡大する。</color>\n<color=black>旅行修正効果：</color>\n<color=#8B0000>1. 究極ブラックホールがすべての投擲物を吸収可能になる\n2. 究極ブラックホールの吸収範囲が2倍になる</color>",
+            "info": "<size=36>超高密度のブラックホールを投げつけ、崩壊とともに爆発を引き起こし、吸収したエネルギーをすべて解放する。\n\n<color=#4A2900>利用条件：旅行モード｜アンロック可</color>\n\n<color=black>ダメージ：</color><color=#8B0000>300/2秒（ミニバター）</color>\n<color=black>スペシャル：</color><color=#8B0000>\n<color=black>※</color>金属植物\n<color=black>※</color>75%の確率でミニバターを発射。非ミニボスゾンビのサイズとHPを70%に縮小する。縮小に失敗した場合、対象は1.5秒間気絶する。インプ種ゾンビには即死効果。\n<color=black>※</color>25%の確率で究極ブラックホールを発射。2秒間持続し、周囲のゾンビを鈍化させ、3×3グリッド内の量子カーネルの投擲物を吸収する。\n<color=blac>※</color>吸収した弾丸1発につき持続時間が2秒延長され、最大7.5秒まで持続可能。消滅時にはチェリー爆弾級の大爆発を引き起こし、（320＋蓄積ダメージの60%）を与える。5秒以上持続した場合、爆発範囲が大幅に拡大する。</color>\n<color=black>旅行修正効果：</color>\n<color=#8B0000>①究極ブラックホールがすべての投擲物を吸収可能になる\n②究極ブラックホールの吸収範囲が2倍になる</color>",
             "cost": "<size=36>\n融合レシピ：<color=#8B0000>クロノパルト→ポップコーンパルト×3</color>"
         },
         {
             "seedType": 944,
             "name": "超電磁爆弾",
             "introduce": "<align=justified><size=36><color=black>超電磁爆弾は、雷で鉄を操り、磁場で雷を制す。彼は民に永遠の磁力を授け、電気の王国を築いた。だが、軍事的勝利や政治的栄光の裏で、彼は未だに“逆の電荷”を持つ女王を求め、頭痛に悩まされている。</color>",
-            "info": "<size=36>極めて磁力が強く、金属物を瞬時に吸収し、爆発チェリーへと変換する。\n\n<color=#4A2900>利用条件：旅行モード｜初期選択</color>\n<color=black>スペシャル：</color><color=#8B0000>\n<color=black>•</color> 光磁キノコの特性を継承し、金属物を吸収可能。クールタイム：0.5秒\n<color=black>•</color> ポゴピエロのポゴスティックを引き寄せ、びっくり箱に変換可能。キーロフドローンも引き寄せて即撃破し、びっくり箱に変換する。\n<color=black>•</color> 範囲内のギガトライデントナッツゾンビまたは超級フットボールナッツゾンビに、0.5秒ごとに300ダメージを与える。\n<color=black>•</color> 吸収した金属物を3秒後に発射し、爆発チェリーと同等のダメージと範囲効果を与える。全マップ射程＆対空対応。</color>\n<color=black>旅行修正効果：</color>\n<color=#8B0000>1. 攻撃範囲が2倍\n2. 金属物体を一度に3つ吸収し、超級トライデントゾンビおよび超級フットボールナッツゾンビへのダメージが3倍になる。</color>",
+            "info": "<size=36>極めて磁力が強く、金属物を瞬時に吸収し、爆発チェリーへと変換する。\n\n<color=#4A2900>利用条件：旅行モード｜初期選択</color>\n<color=black>スペシャル：</color><color=#8B0000>\n<color=black>※</color>光磁キノコの特性を継承し、金属物を吸収可能。クールタイム：0.5秒\n<color=black>※</color>ポゴピエロのポゴスティックを引き寄せ、びっくり箱に変換可能。キーロフドローンも引き寄せて即撃破し、びっくり箱に変換する。\n<color=black>※</color>範囲内のギガトライデントナッツゾンビまたは超級フットボールナッツゾンビに、0.5秒ごとに300ダメージを与える。\n<color=black>※</color>吸収した金属物を3秒後に発射し、爆発チェリーと同等のダメージと範囲効果を与える。全マップ射程＆対空対応。</color>\n<color=black>旅行修正効果：</color>\n<color=#8B0000>①攻撃範囲が2倍\n②金属物体を一度に3つ吸収し、超級トライデントゾンビおよび超級フットボールナッツゾンビへのダメージが3倍になる。</color>",
             "cost": "<size=36>融合レシピ：<color=#8B0000>光磁キノコ＋チェリーの磁石</color>"
         },
         {
             "seedType": 945,
             "name": "量子ナッツ",
             "introduce": "<align=justified><size=36><color=black>量子ナッツは、無数の並行世界を旅し、数々の奇跡を目撃してきた。忘れ去られた砂漠で不気味な音楽を奏でるスフィンクス、空に浮かぶ遺跡で目覚めた三つ首の偶像、ティベリウムの海岸に輝くメテオ、Z-Techの刻印が施された装甲要塞——それらはすべて夢の中の出来事、記憶のすぐ外側に漂う幻影。過去は霞みゆくが、今ここで、彼は新たな冒険に備えている。</color>",
-            "info": "<size=36>時間を巻き戻す力と、驚異的な不死能力を持つ量子ナッツ。\n\n<color=#4A2900>利用条件：旅行モード｜量子カーネルでアンロック可</color>\n<color=black>耐久力：</color><color=#8B0000>16000</color>\n<color=black>スペシャル：</color><color=#8B0000>\n<color=black>•</color> 量子カーネルの亜種であり、圧殺無効。1回の攻撃で受けるダメージは最大1000まで。\n<color=black>•</color> 4000ダメージを受けると、3秒前のHPに巻き戻り、2秒間不死状態になる。\n<color=black>•</color> 33%の確率で被ダメージを無効化。25%の確率でビターをレーンの最右端にテレポートさせる（クールタイム：10秒）。\n<color=black>•</color> HPが耐久力を下回った場合、30秒間ダメージを受けなければ、HPを1×耐久力分回復する。</color>",
+            "info": "<size=36>時間を巻き戻す力と、驚異的な不死能力を持つ量子ナッツ。\n\n<color=#4A2900>利用条件：旅行モード｜量子カーネルでアンロック可</color>\n<color=black>耐久力：</color><color=#8B0000>16000</color>\n<color=black>スペシャル：</color><color=#8B0000>\n<color=black>※</color>量子カーネルの亜種であり、圧殺無効。1回の攻撃で受けるダメージは最大1000まで。\n<color=black>※</color>4000ダメージを受けると、3秒前のHPに巻き戻り、2秒間不死状態になる。\n<color=black>※</color>33%の確率で被ダメージを無効化。25%の確率でビターをレーンの最右端にテレポートさせる（クールタイム：10秒）。\n<color=black>※</color>HPが耐久力を下回った場合、30秒間ダメージを受けなければ、HPを1×耐久力分回復する。</color>",
             "cost": "\n<size=36>変換レシピ：<color=#8B0000>カーネルパルト←→ウォールナッツ</color>"
         },
         {
             "seedType": 946,
             "name": "アピーカリュプス・レールガン",
             "introduce": "<align=justified><size=36><color=black>絶え間なく吠えるミニガンを捨て、彼が選んだのは、静かにして精密な力を放つレールガン。電磁力を極限まで研ぎ澄ませたその一撃は、学園都市の“超電磁砲”や、黒衣の無慈悲な射手を思い起こさせる。</color>",
-            "info": "<size=36>HPを消費して、無限貫通のパルス光線を発射する。\n\n<color=#4A2900>利用条件：旅行モード｜タイタン黒曜石砲塔でアンロック可</color>\n\n<color=black>ダメージ：</color><color=#8B0000>300×5/3秒</color>\n<color=black>検索範囲：</color><color=#8B0000>水平±10°</color>\n<color=black>スペシャル：</color><color=#8B0000>\n<color=black>•</color> タイタン黒曜石砲塔の亜種であり、攻撃は無限に貫通し、空中ユニットにも対応。\n<color=black>•</color> 耐久力が500を超えている場合、攻撃ごとに100の耐久力を消費。他のプラントはアピーカリュプス・レールガンのためにダメージを肩代わりできない。\n<color=black>•</color> 耐久力が減少するにつれて攻撃力が直線的に上昇し、最大900まで強化される。</color>",
+            "info": "<size=36>HPを消費して、無限貫通のパルス光線を発射する。\n\n<color=#4A2900>利用条件：旅行モード｜タイタン黒曜石砲塔でアンロック可</color>\n\n<color=black>ダメージ：</color><color=#8B0000>300×5/3秒</color>\n<color=black>検索範囲：</color><color=#8B0000>水平±10°</color>\n<color=black>スペシャル：</color><color=#8B0000>\n<color=black>※</color>タイタン黒曜石砲塔の亜種であり、攻撃は無限に貫通し、空中ユニットにも対応。\n<color=black>※</color>耐久力が500を超えている場合、攻撃ごとに100の耐久力を消費。他のプラントはアピーカリュプス・レールガンのためにダメージを肩代わりできない。\n<color=black>※</color>耐久力が減少するにつれて攻撃力が直線的に上昇し、最大900まで強化される。</color>",
             "cost": "\n<size=36>変換レシピ：<color=#8B0000>ピーシューター←→狙撃ピー</color>"
         },
         {
             "seedType": 947,
             "name": "究極のスプルース",
             "introduce": "<align=justified><size=36><color=black>ツンドラの中心に立つ究極のスプルースは、凍てつく荒野の守護者。幾年もの厳冬に耐え、霜を纏った枝には繊細な蓮の花が咲き誇る。新参者が戯れに樹皮へルーンを刻もうとも、その姿は揺るがず、静かに佇み続ける。</color>",
-            "info": "<size=36>スプルースの葉に冷気が集まり、蓮が木々に咲く。\n\n<color=#4A2900>利用条件：旅行モード｜アンロック可</color>\n\n<color=black>ダメージ：</color><color=#8B0000>60/0.02秒（持続：5秒）</color>\n<color=#0077b6>氷結システム：</color><color=#8B0000>\n<color=black>•</color> 雪玉または雪トライデントの影響を受けると1層のチャージを獲得。氷キノコの影響で15層、吹雪の影響で60層のチャージを獲得。さらに、5秒ごとに1層の氷チャージを自動獲得。\n<color=black>•</color> 1.5秒ごとに「極寒のリーパーソー」を発射。命中時に追尾弾へ変化し、攻撃ごとに極冷却を付与。氷結ポイントを1獲得し、氷チャージも1層追加。\n<color=black>•</color> 氷チャージが50を超えると、5秒ごとにチャージが0にリセットされ、3×3グリッド内のすべてのプラントを回復：回復量=(氷チャージ÷プラント数)×(0.3×追加耐久+0.7×HP)\n<color=black>スペシャル：</color><color=#8B0000>雪玉と吹雪による凍結無効</color>\n<color=black>旅行修正効果：</color>\n<color=#8B0000>1. 究極のスプルースの刃草の持続時間が15秒になった。\n2. 回復はもはや植物間で分割されません</color>",
+            "info": "<size=36>スプルースの葉に冷気が集まり、蓮が木々に咲く。\n\n<color=#4A2900>利用条件：旅行モード｜アンロック可</color>\n\n<color=black>ダメージ：</color><color=#8B0000>60/0.02秒（持続：5秒）</color>\n<color=#0077b6>氷結システム：</color><color=#8B0000>\n<color=black>※</color>雪玉または雪トライデントの影響を受けると1層のチャージを獲得。氷キノコの影響で15層、吹雪の影響で60層のチャージを獲得。さらに、5秒ごとに1層の氷チャージを自動獲得。\n<color=black>※</color>1.5秒ごとに「極寒のリーパーソー」を発射。命中時に追尾弾へ変化し、攻撃ごとに極冷却を付与。氷結ポイントを1獲得し、氷チャージも1層追加。\n<color=black>※</color>氷チャージが50を超えると、5秒ごとにチャージが0にリセットされ、3×3グリッド内のすべてのプラントを回復：回復量=(氷チャージ÷プラント数)×(0.3×追加耐久+0.7×HP)\n<color=black>スペシャル：</color><color=#8B0000>雪玉と吹雪による凍結無効</color>\n<color=black>旅行修正効果：</color>\n<color=#8B0000>①究極のスプルースの刃草の持続時間が15秒になった。\n②回復はもはや植物間で分割されません</color>",
             "cost": "<size=36>融合レシピ：<color=#8B0000>超級スプルース＋蓮スプルース</color>"
         },
         {
             "seedType": 948,
             "name": "地獄の火花木",
             "introduce": "<align=justified><size=36><color=black>地獄の火花木は、どんな炎よりも激しく燃え上がるが、真に競技を沸かせたのは未来的な料理だった。クッキングクラッシュのグランドフィナーレでは、量子ナッツと共にトロフィーを分かち合い、時空を超えたスナックで審査員たちを魅了。審査員の量子カーネルも「まさに異次元の味だ」と絶賛した。</color>",
-            "info": "<size=36>スターフルーツの炎を纏う炎木。極限の着火力を誇り、星系の投射物に追尾能力を付与。\n\n<color=#4A2900>利用条件：旅行モード｜地獄のスクワッシュの炎木でアンロック可</color>\n<color=black>スペシャル：</color><color=#8B0000>\n<color=black>•</color> 地獄のスクワッシュの炎木の亜種。\n<color=black>•</color> 辛いスクワッシュは出現しなくなり、影響を受けた投射物が51発に達するごとに、前方に辛いスターフルーツを生成。\n<color=black>•</color> 星系の投射物（辛いスターを除く）を着火し、ダメージ×2に強化。ただし、元の特性は消失（マグネターのスターは例外）。全体追尾＋対空優先を付与。\n<color=black>•</color> チェリー爆弾はスター爆弾に変化：ダメージが2倍、全体追尾、対空優先。\n<color=black>•</color> 他の投射物にも影響（例：地獄のスクワッシュの炎木）。死亡時にハラペーニョ効果を発動。</color>",
+            "info": "<size=36>スターフルーツの炎を纏う炎木。極限の着火力を誇り、星系の投射物に追尾能力を付与。\n\n<color=#4A2900>利用条件：旅行モード｜地獄のスクワッシュの炎木でアンロック可</color>\n<color=black>スペシャル：</color><color=#8B0000>\n<color=black>※</color>地獄のスクワッシュの炎木の亜種。\n<color=black>※</color>辛いスクワッシュは出現しなくなり、影響を受けた投射物が51発に達するごとに、前方に辛いスターフルーツを生成。\n<color=black>※</color>星系の投射物（辛いスターを除く）を着火し、ダメージ×2に強化。ただし、元の特性は消失（マグネターのスターは例外）。全体追尾＋対空優先を付与。\n<color=black>※</color>チェリー爆弾はスター爆弾に変化：ダメージが2倍、全体追尾、対空優先。\n<color=black>※</color>他の投射物にも影響（例：地獄のスクワッシュの炎木）。死亡時にハラペーニョ効果を発動。</color>",
             "cost": "\n<size=36>変換レシピ：<color=#8B0000>スクワッシュ←→スターフルーツ</color>"
         },
         {
             "seedType": 949,
             "name": "原子心プランタン",
             "introduce": "<align=justified><size=36><color=black>「核戦争の代償は、誰もが背負えるものではない。」かつての世界の崩壊を生き延びた彼女は、今や心核を封じ、月光のように静かに輝く光を放ち、彷徨う者たちを導く。だが——その平和を脅かす者が現れた時、彼女は再び戦場の死神となることをためらわない。</color>",
-            "info": "<size=36>放射性の霜で封印された特殊プランタン、冷核融合を放ち、光に応じて強化。\n\n<color=#4A2900>利用条件：旅行モード｜崩壊キノコでアンロック可</color>\n\n<color=black>ダメージ：</color><color=#8B0000>600/3秒</color>\n<color=black>範囲：</color><color=#8B0000>3×5、飛行ゾンビにも対応</color>\n<color=#0077b6>氷結システム：</color><color=#8B0000>\n<color=black>•</color> 攻撃は冷気効果を与え、30氷結ポイントを追加する。\n<color=yellow>光システム：</color><color=#8B0000> ダメージ倍率――100%×光レベル</color>\n<color=black>スペシャル：</color><color=#8B0000>\n<color=black>•</color> 崩壊キノコの亜種、形態変化時に死亡効果を発動しない。\n<color=black>•</color> プランタンの特性を継承する。\n<color=black>•</color> 通過するアピーカリュプス・レールガンのビームを3本に分岐（ダメージ均等）\n<color=black>•</color> 死亡時、氷キノコ効果を発動し、全植物に光レベル+10（10秒間）を付与</color>",
+            "info": "<size=36>放射性の霜で封印された特殊プランタン、冷核融合を放ち、光に応じて強化。\n\n<color=#4A2900>利用条件：旅行モード｜崩壊キノコでアンロック可</color>\n\n<color=black>ダメージ：</color><color=#8B0000>600/3秒</color>\n<color=black>範囲：</color><color=#8B0000>3×5、飛行ゾンビにも対応</color>\n<color=#0077b6>氷結システム：</color><color=#8B0000>\n<color=black>※</color>攻撃は冷気効果を与え、30氷結ポイントを追加する。\n<color=yellow>光システム：</color><color=#8B0000> ダメージ倍率――100%×光レベル</color>\n<color=black>スペシャル：</color><color=#8B0000>\n<color=black>※</color>崩壊キノコの亜種、形態変化時に死亡効果を発動しない。\n<color=black>※</color>プランタンの特性を継承する。\n<color=black>※</color>通過するアピーカリュプス・レールガンのビームを3本に分岐（ダメージ均等）\n<color=black>※</color>死亡時、氷キノコ効果を発動し、全植物に光レベル+10（10秒間）を付与</color>",
             "cost": "\n<size=36>変換レシピ：<color=#8B0000>グルームキノコ←→プランタン</color>"
         },
         {
             "seedType": 950,
             "name": "黄金の太陽スイレン",
             "introduce": "<align=justified><size=36><color=black>太陽神への献身は、激流よりも激しく響き渡る。黄金の太陽スイレンは、その騒がしさゆえにサンガードから追放されたが、海の底に至るまで神の栄光を説き続けている。あまりの熱意に、彼女は気づいていない——湖底に太陽の光が届かなくなっていることに。</color>",
-            "info": "<size=36>黄金のリリーは、大量の太陽とコインを高速生成できる金のリリー。\n\n<color=#4A2900>利用条件：旅行モード｜利用条件：旅行モード｜初期選択時に「黄金の太陽の鉢」が必要</color>\n<color=black>スペシャル：</color><color=#8B0000>\n<color=black>•</color> 太陽50とコイン100を、n=(現在の太陽÷1000)秒ごとに生成(ただし、3≤n≤15)。</color>",
+            "info": "<size=36>黄金のリリーは、大量の太陽とコインを高速生成できる金のリリー。\n\n<color=#4A2900>利用条件：旅行モード｜利用条件：旅行モード｜初期選択時に「黄金の太陽の鉢」が必要</color>\n<color=black>スペシャル：</color><color=#8B0000>\n<color=black>※</color>太陽50とコイン100を、n=(現在の太陽÷1000)秒ごとに生成(ただし、3≤n≤15)。</color>",
             "cost": "\n<size=36>変換レシピ：<color=#8B0000>シャベル←→シャベル</color>"
         },
         {
             "seedType": 951,
             "name": "光のタイタン巨顎",
             "introduce": "<align=justified><size=36><color=black>深海での大漁の後、なぜか陸に打ち上げられた光のタイタン巨顎。だが、今ではすっかり地上暮らしに馴染んでいる。「暗くてスカスカな海底に戻る理由なんてないだろ？ゾンビはいつでも食べ放題だ」と唸る。その食欲は伝説級で、グルメ大会の電気代が払えなくなったとか——今では非常用電源として扱われているらしい。</color>",
-            "info": "<size=36>ゾンビを光で引き寄せるタイタン巨顎。誘引・捕食・消化の達人。\n\n<color=#4A2900>利用条件：旅行モード｜アンロック可</color>\n<color=black>耐久力：</color><color=#8B0000>8000</color>\n<color=black>ダメージ：</color><color=#8B0000>即死（捕食）</color>\n<color=black>咀嚼時間：</color><color=#8B0000>5+(ゾンビのHP合計)^0.33秒</color>\n<color=yellow>光システム：</color><color=#8B0000> 光レベルが1上がるごとに、咀嚼時間を10秒短縮（最短5秒まで）。</color>\n<color=black>スペシャル：</color><color=#8B0000>\n<color=black>•</color> 圧殺無効\n<color=black>•</color> 1.5タイル範囲内の非ミニボスゾンビを丸呑み可能。\n<color=black>•</color> チョンパーの種パケットを使用すると、咀嚼時間を10秒短縮。\n<color=black>•</color> 消化成功時、隣接レーンからゾンビを自身のレーンに引き寄せ、耐久力×1のHPを回復。</color>\n<color=black>旅行修正効果：</color>\n<color=#8B0000>1. 攻撃範囲が2倍\n2. 咀嚼時、5×5グリッドに2光レベルを提供します</color>",
+            "info": "<size=36>ゾンビを光で引き寄せるタイタン巨顎。誘引・捕食・消化の達人。\n\n<color=#4A2900>利用条件：旅行モード｜アンロック可</color>\n<color=black>耐久力：</color><color=#8B0000>8000</color>\n<color=black>ダメージ：</color><color=#8B0000>即死（捕食）</color>\n<color=black>咀嚼時間：</color><color=#8B0000>5+(ゾンビのHP合計)^0.33秒</color>\n<color=yellow>光システム：</color><color=#8B0000> 光レベルが1上がるごとに、咀嚼時間を10秒短縮（最短5秒まで）。</color>\n<color=black>スペシャル：</color><color=#8B0000>\n<color=black>※</color>圧殺無効\n<color=black>※</color>1.5タイル範囲内の非ミニボスゾンビを丸呑み可能。\n<color=black>※</color>チョンパーの種パケットを使用すると、咀嚼時間を10秒短縮。\n<color=black>※</color>消化成功時、隣接レーンからゾンビを自身のレーンに引き寄せ、耐久力×1のHPを回復。</color>\n<color=black>旅行修正効果：</color>\n<color=#8B0000>①攻撃範囲が2倍\n②咀嚼時、5×5グリッドに2光レベルを提供します</color>",
             "cost": "<size=36>融合レシピ：<color=#8B0000>光のチョンパー→タイタン巨顎</color>"
         },
         {
             "seedType": 952,
             "name": "腐朽サラダパルト",
             "introduce": "<align=justified><size=36><color=black>「お兄ちゃん、お姉ちゃん、ぼくってかわいくない？」腐朽サラダパルトは、通りすがりの人にウィンクを送る。「ニンニク、買ってください！」彼は一生懸命にセールストークを繰り広げる。なぜこんな小さな子がニンニクを売っているのか？「おじいちゃんの映画は退屈すぎるし、家の中がニンニクでいっぱいで、もう保管できないんだよ」と彼は説明する。</color>",
-            "info": "<size=36>ミニニンニクを投げ、着弾時に分裂。速射または散射の効果が発生することも。\n\n<color=#4A2900>利用条件：旅行モード｜萎れたサラダパルトでアンロック可</color>\n<color=black>ダメージ：</color><color=#8B0000>60/2秒</color>\n<color=black>スペシャル：</color><color=#8B0000>\n<color=black>•</color> 低身植物（直進弾丸を回避する）\n<color=black>•</color> 萎れたサラダパルトの速射または散射を継承すう。\n<color=black>•</color> 弾はスプラッシュダメージを与えず、以下の3種に分裂：ミニオニオン、ミニクローブ（1/4の確率でミニ腐ったバターに変化）、ミニスイカーリック\n<color=black>•</color> これらの弾は、非ニンニク系のミニパルト（ポップコーンパルト、スイカスライスパルト、芽キャベツパルト）と同様に動作。命中時に中毒ポイントを1付与し、ダメージが(5×中毒ポイント)増加。</color>",
+            "info": "<size=36>ミニニンニクを投げ、着弾時に分裂。速射または散射の効果が発生することも。\n\n<color=#4A2900>利用条件：旅行モード｜萎れたサラダパルトでアンロック可</color>\n<color=black>ダメージ：</color><color=#8B0000>60/2秒</color>\n<color=black>スペシャル：</color><color=#8B0000>\n<color=black>※</color>低身植物（直進弾丸を回避する）\n<color=black>※</color>萎れたサラダパルトの速射または散射を継承すう。\n<color=black>※</color>弾はスプラッシュダメージを与えず、以下の3種に分裂：ミニオニオン、ミニクローブ（1/4の確率でミニ腐ったバターに変化）、ミニスイカーリック\n<color=black>※</color>これらの弾は、非ニンニク系のミニパルト（ポップコーンパルト、スイカスライスパルト、芽キャベツパルト）と同様に動作。命中時に中毒ポイントを1付与し、ダメージが(5×中毒ポイント)増加。</color>",
             "cost": "<size=36>変換レシピ：<color=#8B0000>×3＋スイカパルト←→パフキノコ</color>"
         },
         {
             "seedType": 953,
             "name": "火山砲",
             "introduce": "<align=justified><size=36><color=black>星を鍛えた炎から生まれし者、火山砲は、かつて創造が燃え上がったように燃え上がる。その炎は無限に広がるためではなく、すべてを終わらせるために。最後の閃光が消えたとき、残るのは最初の火花の後の静寂のみ。</color>",
-            "info": "<size=36>純粋な溶岩と熱のトウモロコシ弾を発射。\n\n<color=#4A2900>利用条件：旅行モード｜アンロック可</color>\n<color=black>ダメージ：</color><color=#8B0000>3600 (3×3)/36秒</color>\n<color=black>スペシャル：</color><color=#8B0000>\n<color=black>•</color> 爆風範囲（3×3）内の植物にチェリー爆弾（優先）またはハラペーニョを付与（※パンプキンと植木鉢は除外）。\n<color=black>•</color> 爆風は炎上デバフを与えた後、ダメージを与える。\n<color=black>•</color> 着弾時に複数の火山爆弾へ分裂。ゾンビの命中数に応じて数が増（最低6個）。<color=black>•</color>火山爆弾は、主爆風の半分の威力でスプラッシュダメージを与える。</color>\n<color=black>旅行修正効果：</color>\n<color=#8B0000>1. 火山爆弾のダメージが5倍に増加。\n2. 主爆風がチェリー爆弾またはハラペーニョに命中すると、熱核爆発を誘発——チェリー爆弾：周囲に10個のチェリー爆弾効果を発生。／ハラペーニョ：フィールド全体に10個のハラペーニョ効果を発生。それぞれの効果は（爆発ダメージ×18）のダメージを与える。</color>",
+            "info": "<size=36>純粋な溶岩と熱のトウモロコシ弾を発射。\n\n<color=#4A2900>利用条件：旅行モード｜アンロック可</color>\n<color=black>ダメージ：</color><color=#8B0000>3600 (3×3)/36秒</color>\n<color=black>スペシャル：</color><color=#8B0000>\n<color=black>※</color>爆風範囲（3×3）内のプラントにチェリー爆弾（優先）またはハラペーニョを付与（※パンプキンと植木鉢は除外）。\n<color=black>※</color>爆風は炎上デバフを与えた後、ダメージを与える。\n<color=black>※</color>着弾時に複数の火山爆弾へ分裂。ゾンビの命中数に応じて数が増（最低6個）。<color=black>※</color>火山爆弾は、主爆風の半分の威力でスプラッシュダメージを与える。</color>\n<color=black>旅行修正効果：</color>\n<color=#8B0000>①火山爆弾のダメージが5倍に増加。\n②主爆風がチェリー爆弾またはハラペーニョに命中すると、熱核爆発を誘発——チェリー爆弾：周囲に10個のチェリー爆弾効果を発生。／ハラペーニョ：フィールド全体に10個のハラペーニョ効果を発生。それぞれの効果は（爆発ダメージ×18）のダメージを与える。</color>",
             "cost": "\n<size=36>融合レシピ：<color=#8B0000>爆竹→炎の大砲</color>"
         },
         {
@@ -1012,7 +1012,7 @@
             "seedType": 1007,
             "name": "ピー地雷",
             "introduce": "<size=36><color=black>ピー地雷には目がない。でも、ゾンビを感じ取る“特別な感覚”があるんだ。「感じる…」と彼はつぶやく。「ゾンビが近づいてる…もっと近くに…もっと…」僕の鼓動が速くなる。発射速度も…どんどん速くなっていく…そして――「バンッ！」ピー地雷は、ポテト味の花火となって爆発した。</color></size>",
-            "info": "<size=36>ピー地雷は掘り起こされる前に攻撃できます。\n\n<color=black>ダメージ：</color><color=#8B0000>20/1.5秒</color>\n<color=black>スペシャル：</color>\n<color=black>•</color><color=#8B0000> 低身植物（直進弾丸を回避する）</color>\n<color=black>•</color><color=#8B0000> ゾンビが近づくと、攻撃速度が速くなります。爆発すると、全方向に36発の弾を放出します。</color>\n<color=black>融合レシピ：</color><color=#8B0000>ピーシューター＋ジャガイモ地雷</color></size>",
+            "info": "<size=36>ピー地雷は掘り起こされる前に攻撃できます。\n\n<color=black>ダメージ：</color><color=#8B0000>20/1.5秒</color>\n<color=black>スペシャル：</color>\n<color=black>※</color><color=#8B0000>低身植物（直進弾丸を回避する）</color>\n<color=black>※</color><color=#8B0000>ゾンビが近づくと、攻撃速度が速くなります。爆発すると、全方向に36発の弾を放出します。</color>\n<color=black>融合レシピ：</color><color=#8B0000>ピーシューター＋ジャガイモ地雷</color></size>",
             "cost": ""
         },
         {
@@ -1026,7 +1026,7 @@
             "seedType": 1009,
             "name": "太陽地雷",
             "introduce": "<size=36><color=black>「赤信号では止まり、黄信号では減速、交通ルールは守ること！」太陽地雷はゾンビたちに何度も忠告します。しかしゾンビたちの目に映るのは、ただ不快な緑色だけ 彼は緑の葉をぎゅっと握りしめ、ふくれっ面で太陽を恋しがります。「だって、太陽こそが僕たちのエネルギー源なんだから！」</color></size>",
-            "info": "<size=36>太陽地雷は爆発する前と爆発した後に太陽を生成します。\n\n<color=black>ダメージ：</color><color=#8B0000>1800</color>\n<color=black>太陽生産量：</color><color=#8B0000>25/15秒</color>\n<color=black>スペシャル：</color><color=#8B0000>\n<color=black>•</color> 低身植物（直進弾丸を回避する）\n<color=black>•</color> 融合は25太陽を返す\n<color=black>•</color> 爆発時に50太陽を落とす</color>\n<color=black>融合レシピ：</color><color=#8B0000>ヒマワリ＋ジャガイモ地雷</color></size>",
+            "info": "<size=36>太陽地雷は爆発する前と爆発した後に太陽を生成します。\n\n<color=black>ダメージ：</color><color=#8B0000>1800</color>\n<color=black>太陽生産量：</color><color=#8B0000>25/15秒</color>\n<color=black>スペシャル：</color><color=#8B0000>\n<color=black>※</color>低身植物（直進弾丸を回避する）\n<color=black>※</color>融合は25太陽を返す\n<color=black>※</color>爆発時に50太陽を落とす</color>\n<color=black>融合レシピ：</color><color=#8B0000>ヒマワリ＋ジャガイモ地雷</color></size>",
             "cost": ""
         },
         {
@@ -1047,35 +1047,35 @@
             "seedType": 1012,
             "name": "チョンプナッツ",
             "introduce": "<size=36><color=black>若い頃のチョンプナッツは、食べ物にうるさいことで有名だった。ゾンビを一口で飲み込まず、親を困らせていた。たくさん説得された末に、ついに先祖たちのようにゾンビを丸ごと食べることを覚えた。「偏食じゃないよ！ゾンビの食べ方を真似してるだけ。新しいことに挑戦すべきでしょ？首がないからって理由じゃないからね！」と、ゾンビを噛みながらチョンプナッツは言った。</color></size>",
-            "info": "<size=36>チョンプナッツはゾンビを食べた後、耐久力を回復します。\n\n<color=black>ダメージ：</color><color=#8B0000> 即死（捕食）</color>\n<color=black>耐久力：</color><color=#8B0000>4000</color>\n<color=black>融合レシピ：</color><color=#8B0000>ウォールナッツ＋チョンパー</color></size>",
+            "info": "<size=36>チョンプナッツはゾンビを食べた後、耐久力を回復します。\n\n<color=black>ダメージ：</color><color=#8B0000>即死（捕食）</color>\n<color=black>耐久力：</color><color=#8B0000>4000</color>\n<color=black>融合レシピ：</color><color=#8B0000>ウォールナッツ＋チョンパー</color></size>",
             "cost": ""
         },
         {
             "seedType": 1013,
             "name": "チョンプジラ",
             "introduce": "<size=36><color=black>チョンプジラは、口が小さくても食事をじっくり味わうタイプ。「口がデカい奴は雑だし、筋トレもしない。前線でボロボロになるんだよ」と、彼は鼻で笑う。「ゾンビ肉の旨味だけを食べて、残りは吐き出すのさ」とニヤリと笑うが、裏庭には残骸がどんどん積もっている。</color></size>",
-            "info": "<size=36>チョンプジラは堅固な守備力と猛攻を兼ね備えています。\n\n<color=black>ダメージ：</color><color=#8B0000> 200/1.75秒（捕食）、80/3秒（死体）\n<color=black>耐久力：</color><color=#8B0000>4000</color>\n<color=black>スペシャル：</color><color=#8B0000>ゾンビを食べることで200の耐久力を回復し、200ダメージを与え、転がるゾンビの部品を吐き出して80ダメージを与え、無限に貫通します。HPが500未満で装甲のないゾンビは即死し、400の耐久力を回復し、転がるゾンビの部品を吐き出します。</color>\n<color=black>融合レシピ：</color><color=#8B0000>ピーシューター＋ウォールナッツ＋チョンパー</color></size>",
+            "info": "<size=36>チョンプジラは堅固な守備力と猛攻を兼ね備えています。\n\n<color=black>ダメージ：</color><color=#8B0000>200/1.75秒（捕食）、80/3秒（死体）\n<color=black>耐久力：</color><color=#8B0000>4000</color>\n<color=black>スペシャル：</color><color=#8B0000>ゾンビを食べることで200の耐久力を回復し、200ダメージを与え、転がるゾンビの部品を吐き出して80ダメージを与え、無限に貫通します。HPが500未満で装甲のないゾンビは即死し、400の耐久力を回復し、転がるゾンビの部品を吐き出します。</color>\n<color=black>融合レシピ：</color><color=#8B0000>ピーシューター＋ウォールナッツ＋チョンパー</color></size>",
             "cost": ""
         },
         {
             "seedType": 1014,
             "name": "太陽チョンパー",
             "introduce": "<size=36><color=black>太陽チョンパーが食べたゾンビをどうやって陽光に変えているのか、みんな不思議に思っていた。でも、その秘密をなかなか話そうとしなかった。ある日、ヒマワリの葉緑素が大幅に減っていることが判明し、真実が明るみに出た——実は、ゾンビを陽光に変えていたわけではなかったのだ。</color></size>",
-            "info": "<size=36>太陽チョンパーはゾンビを飲み込んだ後に太陽を生成することができます。\n\n<color=black>ダメージ：</color><color=#8B0000> 即死（捕食）</color>\n<color=black>スペシャル：</color><color=#8B0000>咀嚼後、太陽×100生成</color>\n<color=black>融合レシピ：</color><color=#8B0000>ヒマワリ＋チョンパー</color></size>",
+            "info": "<size=36>太陽チョンパーはゾンビを飲み込んだ後に太陽を生成することができます。\n\n<color=black>ダメージ：</color><color=#8B0000>即死（捕食）</color>\n<color=black>スペシャル：</color><color=#8B0000>咀嚼後、太陽×100生成</color>\n<color=black>融合レシピ：</color><color=#8B0000>ヒマワリ＋チョンパー</color></size>",
             "cost": ""
         },
         {
             "seedType": 1015,
             "name": "チョンプ地雷",
             "introduce": "<size=36><color=black>美味しくて魅力的なジャガイモ地雷は、まるで自動加熱のマッシュポテトのような味わいで、ゾンビたちから大好評。中でもフライドポテトは人気ナンバーワン。ゾンビたちはフライドポテトの香ばしい匂いに引き寄せられ、ポテトチップスまで味わっているとは夢にも思っていない。「見ててごらん」と、口いっぱいに頬張りながらチョンプ地雷は言った。「あいつらの栄養分は、すぐに新しい地雷になるんだから」</color></size>",
-            "info": "<size=36>ゾンビを飲み込んだ後、チョンプ地雷は前方にジャガイモ地雷を成長させます。\n\n<color=black>ダメージ：</color><color=#8B0000> 即死（捕食）</color>\n<color=black>\n<color=black>スペシャル：</color><color=#8B0000>\n<color=black>•</color> 低身植物（直進弾丸を回避する）\n<color=black>•</color> 融合は75太陽を返す\n<color=black>•</color> ゾンビの捕食を終えると、前に完全装備のジャガイモ地雷を設置します。</color>\n<color=black>融合レシピ：</color><color=#8B0000>ジャガイモ地雷＋チョンパー</color></size>",
+            "info": "<size=36>ゾンビを飲み込んだ後、チョンプ地雷は前方にジャガイモ地雷を成長させます。\n\n<color=black>ダメージ：</color><color=#8B0000>即死（捕食）</color>\n<color=black>\n<color=black>スペシャル：</color><color=#8B0000>\n<color=black>※</color>低身植物（直進弾丸を回避する）\n<color=black>※</color>融合は75太陽を返す\n<color=black>※</color>ゾンビの捕食を終えると、前に完全装備のジャガイモ地雷を設置します。</color>\n<color=black>融合レシピ：</color><color=#8B0000>ジャガイモ地雷＋チョンパー</color></size>",
             "cost": ""
         },
         {
             "seedType": 1016,
             "name": "チェリーチョンパー",
             "introduce": "<size=36><color=black>チェリー爆弾との一杯以来、チョンパーは常に“バズって”います。食事のたびに大騒ぎ。噛む音は爆発音に変わり、皿や茶碗が宙を舞い、誰も彼女と食卓を囲みたがらなくなりました。多数決の末、チェリーチョンパーは庭で食事をすることに…少なくとも、食器を買い直す必要はなくなりました。</color></size>",
-            "info": "<size=36>ゾンビを食べるとチェリー爆発を発生させます。\n\n<color=black>ダメージ：</color><color=#8B0000> 即死（捕食）＋1800（焼夷）</color>\n<color=black>スペシャル：</color><color=#8B0000>噛むと3×3の範囲でチェリー爆発を起こします。</color>\n<color=black>融合レシピ：</color><color=#8B0000>チェリー爆弾＋チョンパー</color></size>",
+            "info": "<size=36>ゾンビを食べるとチェリー爆発を発生させます。\n\n<color=black>ダメージ：</color><color=#8B0000>即死（捕食）＋1800（焼夷）</color>\n<color=black>スペシャル：</color><color=#8B0000>噛むと3×3の範囲でチェリー爆発を起こします。</color>\n<color=black>融合レシピ：</color><color=#8B0000>チェリー爆弾＋チョンパー</color></size>",
             "cost": ""
         },
         {
@@ -1102,7 +1102,7 @@
         {
             "seedType": 1020,
             "name": "バックシューター",
-            "introduce": "<size=36><color=black>「僕は祖先の魂を受け継いでいる。ここで倒れるわけにはいかない！」バックシューターは、道を行く者すべてに向かって自信満々に宣言する。そのヘルメットがバケツヘッドゾンビのものに似ていると指摘されると、彼はこう反論した—— 「ならば、彼らの意志を継ぎ、再び風と波を駆け抜けよう！」</color></size>",
+            "introduce": "<size=36><color=black>「僕は祖先の魂を受け継いでいる。ここで倒れるわけにはいかない！」バックシューターは、道を行く者すべてに向かって自信満々に宣言する。そのヘルメットがバケツヘッドゾンビのものに似ていると指摘されると、彼はこう反論した——「ならば、彼らの意志を継ぎ、再び風と波を駆け抜けよう！」</color></size>",
             "info": "<size=36>バックシューターには装甲を破壊する能力があります。\n\n<color=black>耐久力：</color><color=#8B0000>2000</color>\n<color=black>ダメージ：</color><color=#8B0000>80/1.5秒</color>\n<color=black>スペシャル：</color><color=#8B0000>弾丸がゾンビを撃退します。アイアンゾンビに大ダメージを与え、鉄の扉を破壊します。</color>\n<color=black>融合レシピ：</color><color=#8B0000>ピーシューター＋バケツ</color></size>",
             "cost": ""
         },
@@ -1179,7 +1179,7 @@
         {
             "seedType": 1031,
             "name": "太陽キノコ",
-            "introduce": "<size=36><color=black>太陽キノコは、いつもひっそりと暗い隅で育つ。でも、黙って太陽を蓄えている。「私は弱くて小さいって、わかってる」太陽キノコは言う。「でも、私の太陽は欠かせないもの。私は、すべての輝きの道の始まりなの」 誰も彼女の考えを否定しない。夜には彼女がいる。そして、彼女だけではない。</color></size>",
+            "introduce": "<size=36><color=black>太陽キノコは、いつもひっそりと暗い隅で育つ。でも、黙って太陽を蓄えている。「私は弱くて小さいって、わかってる」太陽キノコは言う。「でも、私の太陽は欠かせないもの。私は、すべての輝きの道の始まりなの」誰も彼女の考えを否定しない。夜には彼女がいる。そして、彼女だけではない。</color></size>",
             "info": "<size=36>成長すると、より多くの太陽を生み出せる。\n\n<color=black>太陽生産量：</color><color=#8B0000>15 (25)/25秒\n<color=black>成長時間：</color><color=#8B0000>120秒</color>\n<color=black>スペシャル：</color><color=#8B0000>低身植物（直進弾丸を回避する）</color>\n<color=black>融合レシピ：</color><color=#8B0000>パフキノコ＋ヒマワリ</color></size>",
             "cost": ""
         },
@@ -1299,27 +1299,27 @@
             "seedType": 1048,
             "name": "スパイクナッツ",
             "introduce": "<align=justified><size=36><color=black>スパイクナッツは、ウォールナッツの親戚だが、性格は真逆。笑顔？いや。優しさ？いや。代わりにあるのは、鋭い棘と鋼の意志。ゾンビたちは最初、彼を笑う。「怖いウォールナッツなんているかよ！」と。だが一口かじった瞬間、彼らは学ぶ。痛みを通して。</color>",
-            "info": "<size=36>スパイクナッツは、接近するゾンボニのタイヤをパンクさせる！\n\n<color=black>耐久力：</color><color=#8B0000>4000</color>\n<color=black>スペシャル：</color><color=#8B0000>\n<color=black>•</color> ゾンビに噛まれると、50ダメージを反射する。\n<color=black>•</color> 接近するゾンボニのタイヤをパンクさせる（500HP消費）。潜水ゾンビやガーガンチュアの圧殺攻撃には弱い。</color>",
+            "info": "<size=36>スパイクナッツは、接近するゾンボニのタイヤをパンクさせる！\n\n<color=black>耐久力：</color><color=#8B0000>4000</color>\n<color=black>スペシャル：</color><color=#8B0000>\n<color=black>※</color>ゾンビに噛まれると、50ダメージを反射する。\n<color=black>※</color>接近するゾンボニのタイヤをパンクさせる（500HP消費）。潜水ゾンビやガーガンチュアの圧殺攻撃には弱い。</color>",
             "cost": "\n<size=36>融合レシピ：<color=#8B0000>ウォールナッツ＋スパイクウィード</color>"
         },
         {
             "seedType": 1049,
             "name": "辛いケルプ",
-            "introduce": "<size=36><color=black>「情熱は火のようなもの。」 辛いケルプはこの言葉を胸に、水中でも燃え続ける。冷たい海の底でも、その炎は消えない。ゾンビたちは最初、ただの海藻だと思って近づく。だが、次の瞬間には焼かれ、灰となって水面に浮かぶ。</color></size>",
-            "info": "<size=36>辛いケルプは接触するとゾンビのレーン全体を焼き尽くします。\n\n<color=black>ダメージ：</color><color=#8B0000> 即死（溺死）＋1800（焼夷）</color>\n<color=black>融合レシピ：</color><color=#8B0000>もつれたケルプ＋ハラペーニョ（順番に）</color></size>",
+            "introduce": "<size=36><color=black>「情熱は火のようなもの。」辛いケルプはこの言葉を胸に、水中でも燃え続ける。冷たい海の底でも、その炎は消えない。ゾンビたちは最初、ただの海藻だと思って近づく。だが、次の瞬間には焼かれ、灰となって水面に浮かぶ。</color></size>",
+            "info": "<size=36>辛いケルプは接触するとゾンビのレーン全体を焼き尽くします。\n\n<color=black>ダメージ：</color><color=#8B0000>即死（溺死）＋1800（焼夷）</color>\n<color=black>融合レシピ：</color><color=#8B0000>もつれたケルプ＋ハラペーニョ（順番に）</color></size>",
             "cost": ""
         },
         {
             "seedType": 1050,
             "name": "スクワッシュケルプ",
-            "introduce": "<size=36><color=black>スクワッシュケルプは、戦う植物の中でも異色の存在。ゾンビを潰すその瞬間でさえ、彼の心は哲学的な問いに満ちている。「草はどこから来て、どこへ行くのか…」と呟きながら、静かに水面に潜む。だが、そのボサボサの髪と不衛生な生活習慣により、他のプラントたちは彼を避けがち。彼は気にしない。孤独こそ、思索の時間なのだから。</color></size>",
-            "info": "<size=36>スクワッシュケルプはゾンビを3体水中に引き込むことができます。\n\n<color=black>ダメージ：</color><color=#8B0000> 即死（溺死）×3</color>\n<color=black>融合レシピ：</color><color=#8B0000>スクワッシュ＋もつれたケルプ</color></size>",
+            "introduce": "<size=36><color=black>スクワッシュケルプは、戦うプラントの中でも異色の存在。ゾンビを潰すその瞬間でさえ、彼の心は哲学的な問いに満ちている。「草はどこから来て、どこへ行くのか…」と呟きながら、静かに水面に潜む。だが、そのボサボサの髪と不衛生な生活習慣により、他のプラントたちは彼を避けがち。彼は気にしない。孤独こそ、思索の時間なのだから。</color></size>",
+            "info": "<size=36>スクワッシュケルプはゾンビを3体水中に引き込むことができます。\n\n<color=black>ダメージ：</color><color=#8B0000>即死（溺死）×3</color>\n<color=black>融合レシピ：</color><color=#8B0000>スクワッシュ＋もつれたケルプ</color></size>",
             "cost": ""
         },
         {
             "seedType": 1051,
             "name": "ケルプ散布機",
-            "introduce": "<size=36><color=black>太陽の光を浴びながら、地平線をじっと見つめるケルプ散布機。「僕の視線を怖がる植物は多いんだ」と彼は笑う。「でもね、サングラスを三つもかけなきゃいけない僕の気持ち、分かってくれると思うよ！」</color></size>",
+            "introduce": "<size=36><color=black>太陽の光を浴びながら、地平線をじっと見つめるケルプ散布機。「僕の視線を怖がるプラントは多いんだ」と彼は笑う。「でもね、サングラスを三つもかけなきゃいけない僕の気持ち、分かってくれると思うよ！」</color></size>",
             "info": "<size=36>ゾンビをスローダウンさせるケルプを発射可能です。\n\n<color=black>ダメージ：</color><color=#8B0000>20×3/1.5 スローダウン＋凍結と重ね掛け可能 </color>\n<color=#006400>もつれた効果：</color><color=#8B0000>各ケルプはゾンビのもつ“絡み値”に応じて追加の割合ダメージを与えます。“絡み値”が最大になるとそのゾンビは即死します。</color>\n<color=black>融合レシピ：</color><color=#8B0000>スリーピーター＋もつれたケルプ</color></size>",
             "cost": ""
         },
@@ -1334,14 +1334,14 @@
             "seedType": 1053,
             "name": "焦熱木",
             "introduce": "<size=36><color=black>高温と辛さはいつもセット——そんな常識、俺にはまだピンとこない。でもよ、バーベキュースタンドで何年も働いてきたおかげで、俺の体には独特な熱気が染みついてるんだ。「俺の炎、ちょっとスモーキーでイケてるだろ？」と、焦熱木はニヤリと笑う。</color></size>",
-            "info": "<size=36>焦熱木によって発火した弾の威力が大幅に増加します。\n\n<color=black>スペシャル：</color><color=#8B0000>弾の種類に応じてダメージを強化。死亡時にレーンを発火させます。\nピー豆：60｜チェリー：120｜バックス：320｜太陽光：400｜三方向豆：45</color>\n<color=black>融合レシピ：</color><color=#8B0000>ハラペーニョ＋炎木</color></size>",
+            "info": "<size=36>焦熱木によって発火した弾の威力が大幅に増加します。\n\n<color=black>スペシャル：</color><color=#8B0000>弾の種類に応じてダメージを強化。死亡時にレーンを発火させます。\nピー豆：60｜チェリー：120｜鉄のピー豆：320｜太陽光：400｜三方向豆：45</color>\n<color=black>融合レシピ：</color><color=#8B0000>ハラペーニョ＋炎木</color></size>",
             "cost": ""
         },
         {
             "seedType": 1054,
             "name": "辛いスクワッシュ",
             "introduce": "<size=36><color=black>「俺は兄貴ほどせっかちじゃない」と、辛いスクワッシュは静かに語る。「奴は何でも急ぎすぎるけど、俺は知ってるんだ——本当の成功は、観察と忍耐から生まれるってな。時には、炎をじっくり煮詰めるのが一番なんだよ。」</color></size>",
-            "info": "<size=36>スパイシー・スクワッシュはゾンビを一レーン焼き尽くすことができます。\n\n<color=black>ダメージ：</color><color=#8B0000> 800(単一タイル)+1800(レーン＋焼却炉)</color>\n<color=black>融合レシピ：</color><color=#8B0000>スクワッシュ＋ハラペーニョ</color></size>",
+            "info": "<size=36>スパイシー・スクワッシュはゾンビを一レーン焼き尽くすことができます。\n\n<color=black>ダメージ：</color><color=#8B0000>800(単一タイル)+1800(レーン＋焼却炉)</color>\n<color=black>融合レシピ：</color><color=#8B0000>スクワッシュ＋ハラペーニョ</color></size>",
             "cost": ""
         },
         {
@@ -1362,7 +1362,7 @@
             "seedType": 1057,
             "name": "熱いスクワッシュ",
             "introduce": "<size=36><color=black>熱いスクワッシュたちは、次々とフレイムピットから飛び出してくる。「熱いスクワッシュが熱すぎて、体がとろけそうだよ！」と、熱いスクワッシュたちが口をそろえて叫んだ。</color></size>",
-            "info": "<size=36>ただの熱いスクワッシュにすぎない。\n\n<color=black>ダメージ：</color><color=#8B0000>1800</color>\n<color=black>スペシャル：</color><color=#8B0000>\n<color=black>•</color> 融合不可。\n<color=black>•</color> 氷の鉢を使うことで、通常のスクワッシュに変換できる。</color></size>",
+            "info": "<size=36>ただの熱いスクワッシュにすぎない。\n\n<color=black>ダメージ：</color><color=#8B0000>1800</color>\n<color=black>スペシャル：</color><color=#8B0000>\n<color=black>※</color>融合不可。\n<color=black>※</color>氷の鉢を使うことで、通常のスクワッシュに変換できる。</color></size>",
             "cost": ""
         },
         {
@@ -1466,7 +1466,7 @@
         {
             "seedType": 1072,
             "name": "氷グルームキノコ",
-            "introduce": "<size=36><color=black>物理学者になる夢を抱き、氷グルームキノコは日々世界の複雑さを解き明かすことに没頭しています。他の植物との接触を避けながら、彼の頭に生える複数の氷の“ひも”について考え込むのが最近の関心事。「なぜ僕の頭から氷のひもが何本も生えてるんだろう？」彼はなぜか“ひも”と呼ぶことに強いこだわりを持っています。</color></size>",
+            "introduce": "<size=36><color=black>物理学者になる夢を抱き、氷グルームキノコは日々世界の複雑さを解き明かすことに没頭しています。他のプラントとの接触を避けながら、彼の頭に生える複数の氷の“ひも”について考え込むのが最近の関心事。「なぜ僕の頭から氷のひもが何本も生えてるんだろう？」彼はなぜか“ひも”と呼ぶことに強いこだわりを持っています。</color></size>",
             "info": "<size=36>周囲に冷たい氷胞子塊を放ち、ゾンビを凍らせます。\n\n<color=black>ダメージ：</color><color=#8B0000>20×4/1.9秒（貫通）</color>\n<color=#0077b6>冷凍システム：</color><color=#8B0000>攻撃ごとに5冷凍ポイントを追加します。</color>\n<color=black>融合レシピ：</color><color=#8B0000>氷キノコ＋グルームキノコ</color></size>",
             "cost": ""
         },
@@ -1494,7 +1494,7 @@
         {
             "seedType": 1076,
             "name": "海棘キノコ",
-            "introduce": "<size=36><color=black>「私の故郷はナミブ砂漠です」と、サボテンのような海キノコは、その起源を尋ねる植物すべてに説明します。「地理に詳しい人なら、そこの砂漠は海のすぐ隣にあると分かるでしょう。」</color></size>",
+            "introduce": "<size=36><color=black>「私の故郷はナミブ砂漠です」と、サボテンのような海キノコは、その起源を尋ねるプラントすべてに説明します。「地理に詳しい人なら、そこの砂漠は海のすぐ隣にあると分かるでしょう。」</color></size>",
             "info": "<size=36>飛行ゾンビや飛空艇を攻撃し、しばらくすると成長します。\n\n<color=black>ダメージ：</color><color=#8B0000>20→20×4/1.5秒</color>\n<color=black>スペシャル：</color><color=#8B0000>低身植物（直進弾丸を回避する）</color>\n<color=black>成長時間：</color><color=#8B0000>120秒</color>\n<color=black>融合レシピ：</color><color=#8B0000>海キノコ＋サボテン</color></size>",
             "cost": ""
         },
@@ -1537,7 +1537,7 @@
             "seedType": 1082,
             "name": "サボテンドローン",
             "introduce": "<size=36><color=black>「こんな小さな奴らに何ができるのかしら？」と他のプラントたちは首をかしげるが、サボテンドローンたちはまったく動じない。「蝶が嵐を起こせるなら、私たちの方がずっと強力に決まってるだろ」と、彼らは自信満々に言い放つのだった。</color></size>",
-            "info": "<size=36>空中のゾンビを攻撃するためにトゲを吐き出します。グリッドを占有しません。\n\n<color=black>ダメージ：</color><color=#8B0000>20×2/1.5秒（本体）、20×2/1秒（ウィングマン）</color>\n<color=black>スペシャル：</color><color=#8B0000>他のプラントの上に植えることが可能です。</color>\n<color=black>融合レシピ：</color><color=#8B0000>サボテン＋ブロバー</color></size>",
+            "info": "<size=36>空中のゾンビを攻撃するためにトゲを吐き出します。グリッドを占有しません。\n\n<color=black>ダメージ：</color><color=#8B0000>20×2/1.5秒（本体）、20×2/1秒（ドローン）</color>\n<color=black>スペシャル：</color><color=#8B0000>他のプラントの上に植えることが可能です。</color>\n<color=black>融合レシピ：</color><color=#8B0000>サボテン＋ブロバー</color></size>",
             "cost": ""
         },
         {
@@ -1691,7 +1691,7 @@
             "seedType": 1104,
             "name": "スタードロップ",
             "introduce": "<size=36><color=black></color></size>",
-            "info": "<size=36>壊滅的なダメージを与える隕石を召喚します。\n\n<color=black>ダメージ：</color><color=#8B0000>60×5/3秒</color>\n<color=yellow>光システム：</color><color=#8B0000>光レベル1～3はスターグローと同じ効果を持ちます。光レベル4に達すると、元の隕石とは別のクールダウンを持つ別のタイプの隕石を召喚します。</color>\n<color=#495057>磁気システム：</color><color=#8B0000>磁気システムに接続されている植物ごとに、星のダメージが5%増加します。\n<color=#6A0C9D>両方のシステムが星のダメージを最大120まで増加させることができます。\n<color=black>スペシャル：</color><color=#8B0000>隕石を召喚し、地面に当たると爆発して星を放ちます（60秒ごと）。他のスタードロップと接続することでクールダウンを短縮可能で、最大13個接続すると25秒まで改善されます。</color>\n<color=black>融合レシピ：</color><color=#8B0000>プランタン＋磁石キノコ＋スターフルーツ</color>\n<color=black>旅行モード強化：</color><color=#8B0000>すべての隕石の攻撃クールダウンが半減｜グラビトロン亜種がアンロックされます</color></size>",
+            "info": "<size=36>壊滅的なダメージを与える隕石を召喚します。\n\n<color=black>ダメージ：</color><color=#8B0000>60×5/3秒</color>\n<color=yellow>光システム：</color><color=#8B0000>光レベル1～3はスターグローと同じ効果を持ちます。光レベル4に達すると、元の隕石とは別のクールダウンを持つ別のタイプの隕石を召喚します。</color>\n<color=#495057>磁気システム：</color><color=#8B0000>磁気システムに接続されているプラントごとに、星のダメージが5%増加します。\n<color=#6A0C9D>両方のシステムが星のダメージを最大120まで増加させることができます。\n<color=black>スペシャル：</color><color=#8B0000>隕石を召喚し、地面に当たると爆発して星を放ちます（60秒ごと）。他のスタードロップと接続することでクールダウンを短縮可能で、最大13個接続すると25秒まで改善されます。</color>\n<color=black>融合レシピ：</color><color=#8B0000>プランタン＋磁石キノコ＋スターフルーツ</color>\n<color=black>旅行モード強化：</color><color=#8B0000>すべての隕石の攻撃クールダウンが半減｜グラビトロン亜種がアンロックされます</color></size>",
             "cost": ""
         },
         {
@@ -1837,7 +1837,7 @@
         {
             "seedType": 1125,
             "name": "スイカの鉢",
-            "introduce": "<size=36><color=black>倹約家のスイカの鉢は、スイカパルトが何も考えずにメロンを投げまくるのを見ると、どうにも落ち着かない。ゾンビを倒した後、彼はこっそり地面に散らばったメロンの破片を集めている。「これは“無土栽培”っていうんだ」とスイカの鉢は説明する。「この地面では、どんな植物でも育てられるわけじゃない。土の一寸一寸が貴重なんだよ。」</color>",
+            "introduce": "<size=36><color=black>倹約家のスイカの鉢は、スイカパルトが何も考えずにメロンを投げまくるのを見ると、どうにも落ち着かない。ゾンビを倒した後、彼はこっそり地面に散らばったメロンの破片を集めている。「これは“無土栽培”っていうんだ」とスイカの鉢は説明する。「この地面では、どんなプラントでも育てられるわけじゃない。土の一寸一寸が貴重なんだよ。」</color>",
             "info": "<size=36>上にあるスイカのスプラッシュダメージを倍増させ、衰退はありません。ダメージは基本ダメージの2/3のままです。\n\n<color=black>融合レシピ：</color><color=#8B0000>植木鉢＋スイカパルト</color>",
             "cost": "<size=36>"
         },
@@ -1872,8 +1872,8 @@
         {
             "seedType": 1130,
             "name": "ニンニクの鉢",
-            "introduce": "<size=36><color=black>ニンニクの鉢は、長い間自分の鉢のプラントたちを徹底的に消毒したいと思っていた。特にゾンビと直接接触する前線のプラントたちを。しかし、どうやらニンニク系の植物しかこの鉢では育たないようだ。「ゾンビと戦う方が、私のニンニク臭に耐えるよりマシって思う植物もいるみたい。」とニンニクの鉢はため息をついた。「今じゃニンニクでニンニクを消毒するしかないけど、みんな『相性バッチリ』って言うのよね。」</color>",
-            "info": "<size=36>ニンニク型植物上にダメージを減少させ、ニンニク効果を持っています。\n\n<color=black>スペシャル：</color><color=#8B0000>ゾンビを中央のレーンに動かさせます。</color>\n<color=black>融合レシピ：</color><color=#8B0000>植木鉢＋ニンニク</color>",
+            "introduce": "<size=36><color=black>ニンニクの鉢は、長い間自分の鉢のプラントたちを徹底的に消毒したいと思っていた。特にゾンビと直接接触する前線のプラントたちを。しかし、どうやらニンニク系のプラントしかこの鉢では育たないようだ。「ゾンビと戦う方が、私のニンニク臭に耐えるよりマシって思うプラントもいるみたい。」とニンニクの鉢はため息をついた。「今じゃニンニクでニンニクを消毒するしかないけど、みんな『相性バッチリ』って言うのよね。」</color>",
+            "info": "<size=36>大蒜植物上にダメージを減少させ、ニンニク効果を持っています。\n\n<color=black>スペシャル：</color><color=#8B0000>ゾンビを中央のレーンに動かさせます。</color>\n<color=black>融合レシピ：</color><color=#8B0000>植木鉢＋ニンニク</color>",
             "cost": "<size=36>"
         },
         {
@@ -2026,7 +2026,7 @@
         {
             "seedType": 1152,
             "name": "バックキノコ",
-            "introduce": "<size=36><color=black>磁石キノコに引き寄せられることを常に恐れている。「ネジがどこ行った!?」と叫ぶ彼のもとに、クレイジー・デイブが近づいてくる。どうやら新たな心配事が増えそうだ…。</color>",
+            "introduce": "<size=36><color=black>磁石キノコに引き寄せられることを常に恐れている。「ネジがどこ行った！？」と叫ぶ彼のもとに、クレイジー・デイブが近づいてくる。どうやら新たな心配事が増えそうだ…。</color>",
             "info": "<size=36>バックキノコも驚くほどノックバックされます。\n\n<color=black>耐久力：</color><color=#8B0000>1000</color>\n<color=black>ダメージ：</color><color=#8B0000>80/2秒</color>\n<color=black>スペシャル：</color><color=#8B0000>低身植物。弾がゾンビを撃退させ、網戸を簡単に破壊します。</color>\n<color=black>融合レシピ：</color><color=#8B0000>ピーノコ＋バケツ</color>",
             "cost": ""
         },
@@ -2054,7 +2054,7 @@
         {
             "seedType": 1156,
             "name": "熱いケルプ",
-            "introduce": "<size=36><color=black>火焰缠绕水草一直泡在水里，但这压根不影响它给植物们烤海带吃。呃，味道很奇怪就是了。</color>",
+            "introduce": "<size=36><color=black>炎に包まれた水草は水に浸かったままだったが、それでも水性植物のためにケルプを焼くのをやめられなかった。ああ、変な味がした。</color>",
             "info": "<size=36>火焰缠绕水草？缠绕水草とあまり違いはないかもしれません。\n\n<color=black>耐久力：</color><color=#8B0000>300</color>\n<color=black>スペシャル：</color><color=#8B0000>？</color>\n<color=black>融合レシピ：</color><color=#8B0000>不明</color></size>",
             "cost": ""
         },
@@ -2096,7 +2096,7 @@
         {
             "seedType": 1162,
             "name": "チェリー地雷",
-            "introduce": "<size=36><color=#3D1400>チェリー地雷は一流のシェフであり、彼の「ハッシュチェリー」や「ポテトジャム」は植物界で高く評価されている。材料がなくなると、陽気にこう言う。「ちょっと買いに行くよ。」</color>",
+            "introduce": "<size=36><color=#3D1400>チェリー地雷は一流のシェフであり、彼の「ハッシュチェリー」や「ポテトジャム」はプラント界で高く評価されている。材料がなくなると、陽気にこう言う。「ちょっと買いに行くよ。」</color>",
             "info": "<size=36>周囲のタイルに8つのジャガイモ地雷を配置する。\n\n<color=#3D1400>ダメージ：</color><color=red>1800</color>\n<color=#3D1400>スペシャル：</color><color=red>倒された際、3×3範囲にジャガイモ地雷を生成する。</color>\n<color=#3D1400>融合レシピ：</color><color=red>ジャガイモ地雷＋チェリー爆弾</color>",
             "cost": ""
         },
@@ -2117,7 +2117,7 @@
         {
             "seedType": 1165,
             "name": "雪ピー大将",
-            "introduce": "<size=36><color=#3D1400>ピー家の総司令官である雪ピー大将は、遠く離れた植物やゾンビですら震え上がるほどの威圧感を放つ。しかし、彼が誇る冷凍能力について、雪ピー大将は決して語らなかった――ある日、小さなピー豆が彼の日記を偶然開くまでは。「もし知っていたら、火付け狙撃ピーと賭けなんてしなかったのに。氷原で凍死寸前になっただけでなく、こんな姿になってしまった。今夜こそ、あいつにチリを三杯食わせてやる――」</color>",
+            "introduce": "<size=36><color=#3D1400>ピー家の総司令官である雪ピー大将は、遠く離れたプラントやゾンビですら震え上がるほどの威圧感を放つ。しかし、彼が誇る冷凍能力について、雪ピー大将は決して語らなかった――ある日、小さなピー豆が彼の日記を偶然開くまでは。「もし知っていたら、火付け狙撃ピーと賭けなんてしなかったのに。氷原で凍死寸前になっただけでなく、こんな姿になってしまった。今夜こそ、あいつにチリを三杯食わせてやる――」</color>",
             "info": "<size=36>ゾンビにスノーピーを発射し、低確率で大量の弾幕を撃つ！\n\n<color=#3D1400>ダメージ：</color><color=red>20×6/1.5秒</color>\n<color=#3D1400></color><color=red>必殺技：3×20/0.02秒</color>\n<color=#3D1400>スペシャル：</color><color=red>攻撃時、3%の確率で氷ピーの弾幕を発射する。</color>\n<color=#3D1400>融合レシピ：</color><color=red>ピー大将＋氷キノコ</color>",
             "cost": ""
         },
@@ -2181,7 +2181,7 @@
             "seedType": 1174,
             "name": "タイタン巨顎",
             "introduce": "<size=36><color=#3D1400>タイタン巨顎は「グルメキングコンテスト」の優勝者。10個の超級ガーグケーキを44秒で完食した。ただし、3秒はスタートの合図を聞き逃したせいで無駄にしたらしい。「次の大会があればぜひ呼んでくれ。庭の近くのビュッフェにはもう入れてもらえないんだ」と彼はインタビューで語った。</color>",
-            "info": "<size=36>接近したゾンビをすべて丸呑み！\n\n<color=#3D1400>ダメージ：</color><color=red>即死（捕食）</color>\n<color=#3D1400>スペシャル：</color><color=red>1.5タイル以内のゾンビをすべて丸呑みする（ただし、丸呑み無効のゾンビは除くが、通常のガーグチュアは含む）。消化時間は t=8+3×ln(ゾンビの合計耐久力)秒。参考値：\nゾンビ - 24.8秒\nバケツゾンビ - 29.9秒\n超級ガーグチュア - 34秒\n超級ガーグチュア×10体 - 41秒</color>\n<color=#3D1400>融合レシピ：</color><color=red>チョンパー ∞【チョンパー】∞ チョンパー←ヒカマホウ（中央に設置して）</color>",
+            "info": "<size=36>接近したゾンビをすべて丸呑み！\n\n<color=#3D1400>ダメージ：</color><color=red>即死（捕食）</color>\n<color=#3D1400>スペシャル：</color><color=red>1.5タイル以内のゾンビをすべて丸呑みする（ただし、丸呑み無効のゾンビは除くが、通常のガーグチュアは含む）。消化時間は t=8+3×ln(ゾンビの合計耐久力)秒。参考値：\nゾンビ～24.8秒\nバケツゾンビ～29.9秒\n超級ガーグチュア～34秒\n超級ガーグチュア×10体～41秒</color>\n<color=#3D1400>融合レシピ：</color><color=red>チョンパー ∞【チョンパー】∞ チョンパー←ヒカマホウ（中央に設置して）</color>",
             "cost": ""
         },
         {
@@ -2194,7 +2194,7 @@
         {
             "seedType": 1176,
             "name": "魅惑ブロバー",
-            "introduce": "<size=36><color=#3D1400>なぜ魅惑ブロバーはゾンビを引き戻すのか？ プラントたちは不思議に思っている。魅惑ブロバーはこう答える。「ブロバーはゾンビを向きと逆方向に吹き飛ばす。だから僕が催眠ゾンビを引き戻すのも自然なことさ！」</color>",
+            "introduce": "<size=36><color=#3D1400>なぜ魅惑ブロバーはゾンビを引き戻すのか？プラントたちは不思議に思っている。魅惑ブロバーはこう答える。「ブロバーはゾンビを向きと逆方向に吹き飛ばす。だから僕が催眠ゾンビを引き戻すのも自然なことさ！」</color>",
             "info": "<size=36>催眠（魅了）状態のゾンビを引き戻す！\n\n<color=#3D1400>スペシャル：</color><color=red>すべての魅了状態のゾンビを後方へ引き戻す。</color>\n<color=#3D1400>融合レシピ：</color><color=red>ヒプノキノコ＋ブロバー</color>",
             "cost": ""
         },
@@ -2258,7 +2258,7 @@
             "seedType": 1185,
             "name": "光の傘",
             "introduce": "<align=justified><size=36><color=black>霧の向こうで彼女は見守る。人の盲目に染まらぬ預言者。神が光を創りし瞬間、彼女は現れた。「全能の御意により、私はセスの地に降り立った。炎が迫る。だがこの聖なる光で、迷える者をその手から守ろう。」</color>",
-            "info": "<size=36>霧を晴らし、弾丸を防ぐ支援型ユニット。\n\n<color=black>エネルギー上限：</color><color=#8B0000>2000</color>\n<color=black>探索＆照明範囲：</color><color=#8B0000>3×3</color>\n<color=black>スペシャル：<color=yellow>光システム</color></color><color=#8B0000>\n<color=black>•</color> 周囲3×3マスの霧を消し、光レベル+1を提供。\n<color=black>•</color> エネルギーを消費して弾を防御（バスケットボールは除外）。\n<color=black>•</color> 消費量は弾のダメージに比例。毎秒(25×光レベル)のエネルギーを回復。エネルギーが尽きると5秒間休息。\n<color=black>•</color> ダメージはまずエネルギーで吸収（5エネルギー=1HP換）。</color>",
+            "info": "<size=36>霧を晴らし、弾丸を防ぐ支援型ユニット。\n\n<color=black>エネルギー上限：</color><color=#8B0000>2000</color>\n<color=black>探索＆照明範囲：</color><color=#8B0000>3×3</color>\n<color=black>スペシャル：<color=yellow>光システム</color></color><color=#8B0000>\n<color=black>※</color>周囲3×3マスの霧を消し、光レベル+1を提供。\n<color=black>※</color>エネルギーを消費して弾を防御（バスケットボールは除外）。\n<color=black>※</color>消費量は弾のダメージに比例。毎秒(25×光レベル)のエネルギーを回復。エネルギーが尽きると5秒間休息。\n<color=black>※</color>ダメージはまずエネルギーで吸収（5エネルギー=1HP換）。</color>",
             "cost": "<size=36>\n融合レシピ：<color=#8B0000>プランタン＋傘の葉</color>"
         },
         {
@@ -2279,13 +2279,13 @@
             "seedType": 1188,
             "name": "金のヒマワリ",
             "introduce": "<align=justified><size=36><color=black>トロフィーの番人なんて、もう時代遅れ。今の金のヒマワリは、輝く準備万端！しかも太陽の下だけじゃない。「日焼けも好きだけど、正直言って…私は戦うために生まれたの！」</color>",
-            "info": "<size=36>太陽をもっと早く生成する。\n\n<color=black>スペシャル：</color><color=#8B0000>\n<color=black>•</color> 太陽生産量：10秒ごとに50太陽を蓄積（最大10,000まで）\n<color=black>•</color> レベル内太陽上限：50,000に調整\n<color=black>•</color> 超過分：使用可能な金のヒマワリに自動保存\n<color=black>必殺技：</color><color=#8B0000>1000コイン、すべての金のヒマワリが蓄積した太陽を放出</color>\n<size=36><color=black>金化コスト：</color><color=#8B0000>3000コイン（既存の金のヒマワリ1体につきコストが倍増）</color>",
+            "info": "<size=36>太陽をもっと早く生成する。\n\n<color=black>スペシャル：</color><color=#8B0000>\n<color=black>※</color>太陽生産量：10秒ごとに50太陽を蓄積（最大10,000まで）\n<color=black>※</color>レベル内太陽上限：50,000に調整\n<color=black>※</color>超過分：使用可能な金のヒマワリに自動保存\n<color=black>必殺技：</color><color=#8B0000>1000コイン、すべての金のヒマワリが蓄積した太陽を放出</color>\n<size=36><color=black>金化コスト：</color><color=#8B0000>3000コイン（既存の金のヒマワリ1体につきコストが倍増）</color>",
             "cost": ""
         },
         {
             "seedType": 1189,
             "name": "氷ナッツ",
-            "introduce": "<align=justified><size=36><color=black>氷ナッツは、また地面に叩きつけられてため息をついた。「清掃員って、『滑りやすい床注意』の看板を忘れがちじゃない!?」とぼやく。だが、苛立ちのあまり、彼はある深刻な事実に気づいていなかった——自分が縮んでいることに。</color>",
+            "introduce": "<align=justified><size=36><color=black>氷ナッツは、また地面に叩きつけられてため息をついた。「清掃員って、『滑りやすい床注意』の看板を忘れがちじゃない！？」とぼやく。だが、苛立ちのあまり、彼はある深刻な事実に気づいていなかった——自分が縮んでいることに。</color>",
             "info": "<size=36>噛みついたゾンビの動きを鈍らせる。\n\n<color=black>耐久力：</color><color=#8B0000>4000</color>\n<color=black>スペシャル：</color><color=#8B0000>噛み続けるゾンビはさらに減速し、「氷結ポイント」を蓄積。肥料を使うことで、氷ナッツは「氷トールナッツ」に進化可能。</color>",
             "cost": "<size=36>\n融合レシピ：<color=#8B0000>ウォールナッツ＋氷キノコ</color>"
         },
@@ -2356,7 +2356,7 @@
             "seedType": 1199,
             "name": "破滅木",
             "introduce": "<align=justified><size=36><color=black>「焼きの秘訣は？」と聞かれるたびに、破滅木は黙って炭を集めて再利用する。無関心なわけではない。彼が口を開けば、相手の顔は灰まみれになるだけなのだ。</color>",
-            "info": "<size=36>破滅木は破壊爆発後も燃え続け、燃焼のレベルがさらに上がります。\n\n<color=black>スペシャル：</color><color=#8B0000>\n<color=black>•</color> 破滅値が0のときは、炎木と同じ挙動。\n<color=black>•</color> 破滅値が1以上のとき、ピー豆と炎ピー豆を破滅ピー豆に変化、ダメージ+30、減衰なしの1/3スプラッシュダメージ、破滅デバフを付与。\n<color=black>•</color> 破壊ピーシューターまたはバタバタキノコの発射物を強化可能（10破滅ポイント消費）。ダメージ倍率――破壊ピーシューター×2、バタバタキノコ×6。スプラッシュ効果を破壊の大型弾と同等に強化。</color>\n<color=#7303fc>破滅値：</color><color=#8B0000>\n<color=black>•</color> 初期値：60、最大値：60、毎秒1ポイント減少\n<color=black>•</color> 破滅木は、60発の弾を点火することで破滅値を60蓄積し、破壊キノコの爆発を受けることで30、さらに5×5の範囲内で破滅デバフを付与されたゾンビが死亡するたびに10の破滅値を加算することで、破滅の力を増幅させていく。\n<color=black>•</color> 炎上デバフと共存可能。冷却・凍結・中毒状態で解除される。</color>",
+            "info": "<size=36>破滅木は破壊爆発後も燃え続け、燃焼のレベルがさらに上がります。\n\n<color=black>スペシャル：</color><color=#8B0000>\n<color=black>※</color>破滅値が0のときは、炎木と同じ挙動。\n<color=black>※</color>破滅値が1以上のとき、ピー豆と炎ピー豆を破滅ピー豆に変化、ダメージ+30、減衰なしの1/3スプラッシュダメージ、破滅デバフを付与。\n<color=black>※</color>破壊ピーシューターまたはバタバタキノコの発射物を強化可能（10破滅ポイント消費）。ダメージ倍率――破壊ピーシューター×2、バタバタキノコ×6。スプラッシュ効果を破壊の大型弾と同等に強化。</color>\n<color=#7303fc>破滅値：</color><color=#8B0000>\n<color=black>※</color>初期値：60、最大値：60、毎秒1ポイント減少\n<color=black>※</color>破滅木は、60発の弾を点火することで破滅値を60蓄積し、破壊キノコの爆発を受けることで30、さらに5×5の範囲内で破滅デバフを付与されたゾンビが死亡するたびに10の破滅値を加算することで、破滅の力を増幅させていく。\n<color=black>※</color>炎上デバフと共存可能。冷却・凍結・中毒状態で解除される。</color>",
             "cost": "<size=36>\n融合レシピ：<color=#8B0000>破壊キノコ＋炎木</color>"
         },
         {
@@ -2377,13 +2377,13 @@
             "seedType": 1202,
             "name": "スクワッシュパンプキン",
             "introduce": "<align=justified><size=36><color=black>腕相撲では負け知らず。石跳ねの技術も研究熱心で、石選びのセンスは抜群。…ただし、水が大の苦手。他のプラントたちが水辺で石を跳ねさせるのを、彼はただ黙って見守るしかない。</color>",
-            "info": "<size=36>スクワッシュの居心地の良い巣として機能。\n\n<color=black>耐久力：</color><color=#8B0000>4000</color>\n<color=black>ダメージ：</color><color=#8B0000>225</color>\n<color=black>スペシャル：</color><color=#8B0000>\n<color=black>•</color> 水レーンでは無力化（何も起こらない）。\n<color=black>•</color> スクワッシュパンプキン内のスクワッシュは敵を感知できなくなる。\n<color=black>•</color> スクワッシュパンプキンにスクワッシュまたはスクワッシュの炎木プラントが入っていると、1/8ダメージ（最低225）、最大ジャンプ距離1.5タイルのミニスクワッシュが生成され、6回跳ねた後に消滅し、3秒後に再生成されます。\n<color=black>•</color> 地獄のスクワッシュの炎木から生まれた場合、着地時にハラペーニョ効果を発動。</color>",
+            "info": "<size=36>スクワッシュの居心地の良い巣として機能。\n\n<color=black>耐久力：</color><color=#8B0000>4000</color>\n<color=black>ダメージ：</color><color=#8B0000>225</color>\n<color=black>スペシャル：</color><color=#8B0000>\n<color=black>※</color>水レーンでは無力化（何も起こらない）。\n<color=black>※</color>スクワッシュパンプキン内のスクワッシュは敵を感知できなくなる。\n<color=black>※</color>スクワッシュパンプキンにスクワッシュまたはスクワッシュの炎木プラントが入っていると、1/8ダメージ（最低225）、最大ジャンプ距離1.5タイルのミニスクワッシュが生成され、6回跳ねた後に消滅し、3秒後に再生成されます。\n<color=black>※</color>地獄のスクワッシュの炎木から生まれた場合、着地時にハラペーニョ効果を発動。</color>",
             "cost": "<size=36>\n融合レシピ：<color=#8B0000>スクワッシュ→パンプキン</color>"
         },
         {
             "seedType": 1203,
             "name": "ポップコーンパルト",
-            "introduce": "<align=justified><size=36><color=black>「この実験の結果：密集植えは植物の成長に適しておらず、トウモロコシの穂も明らかに小さくなっている」デイブはしゃがみ込み、虫眼鏡を取り出してポップコーンパルトを覗き込んだ。「もうコーンロールには向かないな」ポップコーンパルトは怒りながら叫ぶ。「この実験の結果が示してるのは、濃縮されたものこそが本質ってことだよ！」</color>",
+            "introduce": "<align=justified><size=36><color=black>「この実験の結果：密集植えはプラントの成長に適しておらず、トウモロコシの穂も明らかに小さくなっている」デイブはしゃがみ込み、虫眼鏡を取り出してポップコーンパルトを覗き込んだ。「もうコーンロールには向かないな」ポップコーンパルトは怒りながら叫ぶ。「この実験の結果が示してるのは、濃縮されたものこそが本質ってことだよ！」</color>",
             "info": "<size=36>小型のカーネルパルトで、ゾンビを縮小させる小さなバターを投げる可能性がある。\n\n<color=black>ダメージ：</color><color=#8B0000>20/3秒</color>\n<color=black>スペシャル：</color><color=#8B0000>低身植物。25%の確率で40ダメージの小型バターを投げる。未縮小のゾンビに命中すると、サイズとHPを0.7倍に縮小。縮小されていない場合は1.5秒間スタン状態に。インプは即撃破。未縮小のゾンビを優先して狙う。</color>",
             "cost": "<size=36>\n融合レシピ：<color=#8B0000>カーネルパルト→パフキノコ</color>"
         },
@@ -2412,7 +2412,7 @@
             "seedType": 1207,
             "name": "爆弾傘",
             "introduce": "<align=justified><size=36><color=black>新しいヘアスタイルに変えてから、爆弾傘はまるで街を彷徨う不良のような雰囲気に。怒りっぽくて近寄りがたい印象を持たれがちだが、実は心優しい一面もあり、美容師の落ち葉掃除まで手伝っているという噂もある。</color>",
-            "info": "<size=36>爆弾傘は、撃退と爆発を融合させた防御型プラント。爆発の力を利用して、周囲のプラントを防御。\n\n<color=black>耐久力：</color><color=#8B0000>600</color>\n<color=black>スペシャル：</color><color=#8B0000>\n<color=black>•</color> 傘の葉の特性を継承する。\n<color=black>•</color> ゾンビを撃退すると、小範囲のチェリー爆発（300ダメージ）を発生。\n<color=black>•</color> 爆発バスケットボールに対して完全耐性。\n<color=black>•</color> チェリー融合型の防御プラントが爆発を通じて回復。周囲3×3グリッド内で、以下の条件を満たすたびにエネルギーレベル+1（最大100）、チェリーの鉢による回復が発生。\n<color=black>•</color> エネルギー2レベルを消費して、周囲3×3グリッド内のあらゆるダメージを吸収。</color>",
+            "info": "<size=36>爆弾傘は、撃退と爆発を融合させた防御型プラント。爆発の力を利用して、周囲のプラントを防御。\n\n<color=black>耐久力：</color><color=#8B0000>600</color>\n<color=black>スペシャル：</color><color=#8B0000>\n<color=black>※</color>傘の葉の特性を継承する。\n<color=black>※</color>ゾンビを撃退すると、小範囲のチェリー爆発（300ダメージ）を発生。\n<color=black>※</color>爆発バスケットボールに対して完全耐性。\n<color=black>※</color>チェリー融合型の防御プラントが爆発を通じて回復。周囲3×3グリッド内で、以下の条件を満たすたびにエネルギーレベル+1（最大100）、チェリーの鉢による回復が発生。\n<color=black>※</color>エネルギー2レベルを消費して、周囲3×3グリッド内のあらゆるダメージを吸収。</color>",
             "cost": "<size=36>\n融合レシピ：<color=#8B0000>チェリー爆弾＋傘の葉</color>"
         },
         {
@@ -2468,7 +2468,7 @@
             "seedType": 1215,
             "name": "クロノナッツ",
             "introduce": "<align=justified><size=36><color=black>他のプラントたちはよく、クロノナッツが語る冒険の謎を耳にする——ゾンビの頭を持つスフィンクス、ビープ音しか鳴らないミニバン、そしてGFishtus Corpsが開発した1001種類の機械など。</color>",
-            "info": "<size=36>時空の力を持つウォールナッツ。攻撃してきた敵をテレポートさせることがあり、瀕死時には体力を巻き戻す能力を持つ。\n\n<color=black>耐久力：</color><color=#8B0000>4000</color>\n<color=black>スペシャル：</color><color=#8B0000>\n<color=black>•</color> 25%の確率で噛みついた敵を同じ列の最右端にテレポートさせる（クールタイム10秒）。\n<color=black>•</color> 致死ダメージを受けた際、3秒前のHPに巻き戻し、3秒間不死状態になる（1回限りの能力）。</color>",
+            "info": "<size=36>時空の力を持つウォールナッツ。攻撃してきた敵をテレポートさせることがあり、瀕死時には体力を巻き戻す能力を持つ。\n\n<color=black>耐久力：</color><color=#8B0000>4000</color>\n<color=black>スペシャル：</color><color=#8B0000>\n<color=black>※</color>25%の確率で噛みついた敵を同じ列の最右端にテレポートさせる（クールタイム10秒）。\n<color=black>※</color>致死ダメージを受けた際、3秒前のHPに巻き戻し、3秒間不死状態になる（1回限りの能力）。</color>",
             "cost": "<size=36>\n融合レシピ：<color=#8B0000>クノロコア→ウォールナッツ</color>"
         },
         {
@@ -2482,35 +2482,35 @@
             "seedType": 1217,
             "name": "スプルース刃草射手",
             "introduce": "<align=justified><size=36><color=black>雪原では「クリスマスツリーが高ければ高いほど、翌年はより幸せになる」と言われている。では、誰がその頂点に星を飾るのか？それは、比類なき命中精度を誇るスプルース刃草射手の仕事である。</color>",
-            "info": "<size=36>貫通する鋸刃を発射し、ゾンビに回転刃草を残す。\n\n<color=black>ダメージ：</color><color=#8B0000>80/3秒、1×75/1.5秒（回転刃草）</color>\n<color=black>スペシャル：</color><color=#8B0000>\n<color=black>•</color> 雪玉と吹雪による凍結無効\n<color=black>•</color> 弾は1回貫通（氷の塊を含む）し、最初に命中したゾンビに回転刃草を残す。\n<color=black>•</color> 回転刃草は0.02秒ごとに1ダメージを与え、1.5秒間持続する。</color>",
+            "info": "<size=36>貫通する鋸刃を発射し、ゾンビに回転刃草を残す。\n\n<color=black>ダメージ：</color><color=#8B0000>80/3秒、1×75/1.5秒（回転刃草）</color>\n<color=black>スペシャル：</color><color=#8B0000>\n<color=black>※</color>雪玉と吹雪による凍結無効\n<color=black>※</color>弾は1回貫通（氷の塊を含む）し、最初に命中したゾンビに回転刃草を残す。\n<color=black>※</color>回転刃草は0.02秒ごとに1ダメージを与え、1.5秒間持続する。</color>",
             "cost": "<size=36>融合レシピ：<color=#8B0000>スプルース射手＋刃草</color>"
         },
         {
             "seedType": 1218,
             "name": "水滴刃草",
             "introduce": "<align=justified><size=36><color=black>高圧水流ジェットを装備したことで、水滴刃草は切断効率を大幅に向上させた。ただし、雪原では流水の確保が難しいという欠点もある。</color>",
-            "info": "<size=36>耐寒植物。刃草よりも高いダメージを与え、氷チャージがある場合は冷却効果を付与する。\n\n<color=black>ダメージ：</color><color=#8B0000>8/0.02秒</color>\n<color=#0077b6>氷結システム：</color><color=#8B0000>\n<color=black>•</color> 雪玉または雪トライデントの影響を受けると1層のチャージを獲得し、氷キノコの影響を受けると15層のチャージを獲得します。\n<color=black>•</color> 氷チャージがある場合、攻撃は2倍のダメージを与え、極冷却を付与し、氷結ポイントを1追加する。ただし、攻撃時に1/9の確率でチャージを消費する。</color>\n<color=black>スペシャル：</color><color=#8B0000>雪玉から凍結無効</color>",
+            "info": "<size=36>耐寒植物。刃草よりも高いダメージを与え、氷チャージがある場合は冷却効果を付与する。\n\n<color=black>ダメージ：</color><color=#8B0000>8/0.02秒</color>\n<color=#0077b6>氷結システム：</color><color=#8B0000>\n<color=black>※</color>雪玉または雪トライデントの影響を受けると1層のチャージを獲得し、氷キノコの影響を受けると15層のチャージを獲得します。\n<color=black>※</color>氷チャージがある場合、攻撃は2倍のダメージを与え、極冷却を付与し、氷結ポイントを1追加する。ただし、攻撃時に1/9の確率でチャージを消費する。</color>\n<color=black>スペシャル：</color><color=#8B0000>雪玉から凍結無効</color>",
             "cost": "<size=36>\n融合レシピ：<color=#8B0000>刃草＋水滴アロエ</color>"
         },
         {
             "seedType": 1219,
             "name": "水滴射手",
             "introduce": "<align=justified><size=36><color=black>「弓がなくても射手は務まるさ」と肩をすくめる水滴射手。彼にとっては、ただの水の操り方にすぎない。</color>",
-            "info": "<size=36>水の玉を操って射出し、氷チャージを消費することで氷の塊を発射する。\n\n<color=black>ダメージ：</color><color=#8B0000>50/1.5秒</color>\n<color=#0077b6>氷結システム：</color><color=#8B0000>\n<color=black>•</color> 雪玉または雪トライデントの影響を受けると1層のチャージを獲得し、氷キノコの影響を受けると15層のチャージを獲得。\n<color=black>•</color> 氷チャージを1つ使用して氷の塊を発射。ダメージは通常の2倍で、極冷却を付与し、40氷結ポイントを加算。凍ったゾンビには4倍のダメージを与える。</color>\n<color=black>スペシャル：</color><color=#8B0000>雪玉と吹雪による凍結無効</color>",
+            "info": "<size=36>水の玉を操って射出し、氷チャージを消費することで氷の塊を発射する。\n\n<color=black>ダメージ：</color><color=#8B0000>50/1.5秒</color>\n<color=#0077b6>氷結システム：</color><color=#8B0000>\n<color=black>※</color>雪玉または雪トライデントの影響を受けると1層のチャージを獲得し、氷キノコの影響を受けると15層のチャージを獲得。\n<color=black>※</color>氷チャージを1つ使用して氷の塊を発射。ダメージは通常の2倍で、極冷却を付与し、40氷結ポイントを加算。凍ったゾンビには4倍のダメージを与える。</color>\n<color=black>スペシャル：</color><color=#8B0000>雪玉と吹雪による凍結無効</color>",
             "cost": "<size=36>\n融合レシピ：<color=#8B0000>スプルース射手＋水滴アロエ</color>"
         },
         {
             "seedType": 1220,
             "name": "超級スプルース",
             "introduce": "<align=justified><size=36><color=black>超級スプルースは厳格で冷静、そして規律を重んじる——まさに一流コーチにふさわしい性格である。</color>",
-            "info": "<size=36>回転水滴刃草を発射し、ゾンビに張り付いてダメージを与える。氷チャージを消費することで、回転氷滴刃草を発射する。\n\n<color=black>ダメージ：</color><color=#8B0000>5×75/1.5秒</color>\n<color=#0077b6>氷結システム：</color><color=#8B0000>\n<color=black>•</color> 雪玉または雪トライデントの影響を受けると1層のチャージを獲得し、氷キノコの影響を受けると15層のチャージを獲得します。\n<color=black>•</color> 回転水滴刃草は0.02秒ごとに5ダメージを与え、1.5秒間持続する。\n<color=black>•</color> 氷チャージを1つ使用すると、ダメージが2倍の回転氷滴刃草を発射し、極冷却を付与して氷結ポイントを1加算。凍ったゾンビには4倍のダメージを与える。</color>\n<color=black>スペシャル：</color><color=#8B0000>雪玉と吹雪による凍結無効</color>",
+            "info": "<size=36>回転水滴刃草を発射し、ゾンビに張り付いてダメージを与える。氷チャージを消費することで、回転氷滴刃草を発射する。\n\n<color=black>ダメージ：</color><color=#8B0000>5×75/1.5秒</color>\n<color=#0077b6>氷結システム：</color><color=#8B0000>\n<color=black>※</color>雪玉または雪トライデントの影響を受けると1層のチャージを獲得し、氷キノコの影響を受けると15層のチャージを獲得します。\n<color=black>※</color>回転水滴刃草は0.02秒ごとに5ダメージを与え、1.5秒間持続する。\n<color=black>※</color>氷チャージを1つ使用すると、ダメージが2倍の回転氷滴刃草を発射し、極冷却を付与して氷結ポイントを1加算。凍ったゾンビには4倍のダメージを与える。</color>\n<color=black>スペシャル：</color><color=#8B0000>雪玉と吹雪による凍結無効</color>",
             "cost": "<size=36>融合レシピ：<color=#8B0000>スプルース射手＋水滴アロエ＋刃草</color>"
         },
         {
             "seedType": 1221,
             "name": "蓮スプルース",
             "introduce": "<align=justified><size=36><color=black>「鉄樹が花を咲かせるとか、老木が開花するとか、よく言うけど……俺は鉄でも老木でもない。ただ……いや、なんでもない。」そう呟いた蓮スプルースは、黙って自らの花を見つめる。</color>",
-            "info": "<size=36>雪蓮の花を咲かせるスプルースで、周囲のプラントの回復コストが軽減される。\n\n<color=#0077b6>氷結システム：</color><color=#8B0000>\n<color=black>•</color> 10秒ごとに1氷チャージをパッシブで獲得する。\n<color=black>•</color> 雪玉または雪トライデントの影響を受けると1層のチャージを獲得、吹雪の影響で60層のチャージを獲得。\n<color=black>•</color> 5チャージで覚醒し、100ダメージを与える氷の玉を発射（3×3スプラッシュ、減衰なし）し、極冷却を付与。\n<color=black>•</color> 覚醒中は1秒ごとにチャージを1つ消費して、3×3グリッド内のプラントを50回復。チャージが尽きると再び眠りにつく。</color>\n<color=black>スペシャル：</color><color=#8B0000>雪玉と吹雪による凍結無効</color>",
+            "info": "<size=36>雪蓮の花を咲かせるスプルースで、周囲のプラントの回復コストが軽減される。\n\n<color=#0077b6>氷結システム：</color><color=#8B0000>\n<color=black>※</color>10秒ごとに1氷チャージをパッシブで獲得する。\n<color=black>※</color>雪玉または雪トライデントの影響を受けると1層のチャージを獲得、吹雪の影響で60層のチャージを獲得。\n<color=black>※</color>5チャージで覚醒し、100ダメージを与える氷の玉を発射（3×3スプラッシュ、減衰なし）し、極冷却を付与。\n<color=black>※</color>覚醒中は1秒ごとにチャージを1つ消費して、3×3グリッド内のプラントを50回復。チャージが尽きると再び眠りにつく。</color>\n<color=black>スペシャル：</color><color=#8B0000>雪玉と吹雪による凍結無効</color>",
             "cost": "<size=36>融合レシピ：<color=#8B0000>スプルース射手＋雪蓮</color>"
         },
         {
@@ -2552,7 +2552,7 @@
             "seedType": 1227,
             "name": "蓮アロエ",
             "introduce": "<align=justified><size=36><color=black>蓮アロエ先生は病院で最も愛されている若き医師である。その人気は勤勉さや技術だけでなく、口ひげのような葉にもあるかもしれない。患者は年配に見える医者に安心感を抱くものなのだ。</color>",
-            "info": "<size=36>アロエエキスを上空に投げ、落下時に周囲のプラントを回復し、一時的に攻撃速度を上昇させる。\n\n<color=#0077b6>氷結システム：</color><color=#8B0000>\n<color=black>•</color> 5秒ごとに1氷チャージをパッシブで獲得する。\n<color=black>•</color> 雪玉または雪トライデントの影響を受けると1層のチャージを獲得。氷キノコの影響で15層、吹雪の影響で60層のチャージを獲得。\n<color=black>•</color> 5秒ごとに5層のチャージを消費し、3×3グリッド内の全プラントを50回復し、攻撃速度を5秒間30%上昇させる。。</color>\n<color=black>スペシャル：</color><color=#8B0000>雪玉と吹雪による凍結無効</color>",
+            "info": "<size=36>アロエエキスを上空に投げ、落下時に周囲のプラントを回復し、一時的に攻撃速度を上昇させる。\n\n<color=#0077b6>氷結システム：</color><color=#8B0000>\n<color=black>※</color>5秒ごとに1氷チャージをパッシブで獲得する。\n<color=black>※</color>雪玉または雪トライデントの影響を受けると1層のチャージを獲得。氷キノコの影響で15層、吹雪の影響で60層のチャージを獲得。\n<color=black>※</color>5秒ごとに5層のチャージを消費し、3×3グリッド内の全プラントを50回復し、攻撃速度を5秒間30%上昇させる。。</color>\n<color=black>スペシャル：</color><color=#8B0000>雪玉と吹雪による凍結無効</color>",
             "cost": "<size=36>\n融合レシピ：<color=#8B0000>水滴アロエ＋雪蓮</color>"
         },
         {
@@ -2573,35 +2573,35 @@
             "seedType": 1230,
             "name": "ヒプノニンニク",
             "introduce": "<align=justified><size=36><color=black>ヒプノニンニクは他のニンニク一家とは少し違う——人気がありすぎるのだ。愛され、そして妬まれている彼は、そんな周囲の視線を気にすることなく、帽子を深くかぶって静かな昼寝を楽しむことだけを望んでいる。</color>",
-            "info": "<size=36>頭にヒプノキノコの帽子を乗せたニンニク。\n\n<color=black>スペシャル：</color><color=#8B0000>\n<color=black>•</color> 低身植物（直進弾丸を回避する）\n<color=black>•</color> 催眠されたゾンビが接触するとレーンを変更させる。\n<color=black>•</color> 噛まれた場合、攻撃者を催眠状態にし、レーンを変更させた後、通常のニンニクに戻る。</color>",
+            "info": "<size=36>頭にヒプノキノコの帽子を乗せたニンニク。\n\n<color=black>スペシャル：</color><color=#8B0000>\n<color=black>※</color>低身植物（直進弾丸を回避する）\n<color=black>※</color>催眠されたゾンビが接触するとレーンを変更させる。\n<color=black>※</color>噛まれた場合、攻撃者を催眠状態にし、レーンを変更させた後、通常のニンニクに戻る。</color>",
             "cost": "\n<size=36>融合レシピ：<color=#8B0000>ニンニク＋ヒプノキノコ</color>"
         },
         {
             "seedType": 1231,
             "name": "ヒプノ地雷",
             "introduce": "<align=justified><size=36><color=black>ヒプノ地雷は急ぐことを好まない。彼は「すべてのゾンビにはもう一度チャンスを与えるべきだ」と信じている——できれば爆発する前に。その矛盾した信念は、彼が決して口にしない5つの個人的な原則にぴったりと沿っている。</color>",
-            "info": "<size=36>爆発的な魅力を持つジャガイモ地雷。\n\n<color=black>ダメージ：</color><color=#8B0000>1800</color>\n<color=black>スペシャル：</color><color=#8B0000>\n<color=black>•</color> 低身植物（直進弾丸を回避する）\n<color=black>•</color> 爆発後、ゾンビを催眠される。催眠術をかけられない場合、1800ダメージを与える。</color>",
+            "info": "<size=36>爆発的な魅力を持つジャガイモ地雷。\n\n<color=black>ダメージ：</color><color=#8B0000>1800</color>\n<color=black>スペシャル：</color><color=#8B0000>\n<color=black>※</color>低身植物（直進弾丸を回避する）\n<color=black>※</color>爆発後、ゾンビを催眠される。催眠術をかけられない場合、1800ダメージを与える。</color>",
             "cost": "\n<size=36>融合レシピ：<color=#8B0000>ジャガイモ地雷＋ヒプノキノコ</color>"
         },
         {
             "seedType": 1232,
             "name": "もつれた地雷",
             "introduce": "<align=justified><size=36><color=black>もつれた地雷は、かつて強力な津波によって岸に打ち上げられた海軍機雷である。今では土に半分埋もれているが、外側の昆布は枯れても、内部の爆薬は依然として致命的だ。</color>",
-            "info": "<size=36>もつれたジャガイモ地雷。\n\n<color=black>ダメージ：</color><color=#8B0000>即死（溺死）</color>\n<color=black>スペシャル：</color><color=#8B0000>\n<color=black>•</color> 低身植物（直進弾丸を回避する）\n<color=black>•</color> 起爆状態になると、最初に接近したゾンビを即死させ、ジャガイモ地雷の爆発を引き起こす。</color>",
+            "info": "<size=36>もつれたジャガイモ地雷。\n\n<color=black>ダメージ：</color><color=#8B0000>即死（溺死）</color>\n<color=black>スペシャル：</color><color=#8B0000>\n<color=black>※</color>低身植物（直進弾丸を回避する）\n<color=black>※</color>起爆状態になると、最初に接近したゾンビを即死させ、ジャガイモ地雷の爆発を引き起こす。</color>",
             "cost": "\n<size=36>融合レシピ：<color=#8B0000>もつれたケルプ→ジャガイモ地雷</color>"
         },
         {
             "seedType": 1233,
             "name": "ケルプ地雷",
             "introduce": "<align=justified><size=36><color=black>「船舶よ、注意せよ——この先は暗礁だ！」ケルプ地雷は川の安全管理官として、赤いライトで危険を知らせる役目を担っている。彼の仕事ぶりは確かで、彼が現れる場所には必ず危険が潜んでいる。</color>",
-            "info": "<size=36>ジャガイモ地雷並みに爆発力のある、もつれたケルプ。\n\n<color=black>ダメージ：</color><color=#8B0000>即死（溺死）</color>\n<color=black>スペシャル：</color><color=#8B0000>\n<color=black>•</color> 低身植物（直進弾丸を回避する）\n<color=black>•</color> 最初に接近したゾンビを即死させ、3×3グリッド内のゾンビに600ダメージを与える。</color>",
+            "info": "<size=36>ジャガイモ地雷並みに爆発力のある、もつれたケルプ。\n\n<color=black>ダメージ：</color><color=#8B0000>即死（溺死）</color>\n<color=black>スペシャル：</color><color=#8B0000>\n<color=black>※</color>低身植物（直進弾丸を回避する）\n<color=black>※</color>最初に接近したゾンビを即死させ、3×3グリッド内のゾンビに600ダメージを与える。</color>",
             "cost": "\n<size=36>融合レシピ：<color=#8B0000>ジャガイモ地雷→もつれたケルプ</color>"
         },
         {
             "seedType": 1234,
             "name": "超級小松炉草",
             "introduce": "<align=justified><size=36><color=black>超級小松炉草は凍てついた荒野に温もりと命をもたらす存在である。その奇妙な見た目にもかかわらず、地元の子供たちには大人気。「シュガーキューブ、いる？」と陽気に差し出す。「体温を保つのにいいんだ！」</color>",
-            "info": "<size=36>安定した高温を維持する小松炉草で、周囲のプラントに定期的にチャージや回復を提供する。\n\n<color=black>スペシャル：</color><color=#8B0000>\n<color=black>•</color> 小松炉草の特性を継承する、範囲は3×3グリッド。\n<color=black>•</color> 他の小松炉草の近くには配置できない。\n<color=black>•</color> 保護対象の雪性植物に3秒ごとに1氷チャージを付与。\n<color=black>•</color> 15秒ごとに、保護対象のプラントを50回復する。</color>",
+            "info": "<size=36>安定した高温を維持する小松炉草で、周囲のプラントに定期的にチャージや回復を提供する。\n\n<color=black>スペシャル：</color><color=#8B0000>\n<color=black>※</color>小松炉草の特性を継承する、範囲は3×3グリッド。\n<color=black>※</color>他の小松炉草の近くには配置できない。\n<color=black>※</color>保護対象の雪性植物に3秒ごとに1氷チャージを付与。\n<color=black>※</color>15秒ごとに、保護対象のプラントを50回復する。</color>",
             "cost": "\n<size=36>融合レシピ：<color=#8B0000>小松炉草＋蓮アロエ</color>"
         },
         {
@@ -2615,7 +2615,7 @@
             "seedType": 1236,
             "name": "破壊ナッツ",
             "introduce": "<align=justified><size=36><color=black>破壊ナッツはバットマンの大ファンである。滅多に口を開かず、影の中に潜むことを好み、時折コミコンに姿を現すだけ。一度、廊下で量子カーネルを驚かせたことがあり、「破壊キノコってこんなにゴツかったっけ？」と老トウモロコシがつぶやいた。</color>",
-            "info": "<size=36>核の可能性を秘めたウォールナッツ。\n\n<color=black>耐久力：</color><color=#8B0000>4000</color>\n<color=black>スペシャル：</color><color=#8B0000>\n<color=black>•</color> 非物理爆発に対して無敵。\n<color=black>•</color> 3×3グリッド内の破壊キノコゾンビの爆発を防ぐ。\n<color=black>•</color> 5×5グリッド内で破滅デバフを持つゾンビが死亡すると100回復。\n<color=black>•</color> 死亡時に破壊爆発を発動する。</color>",
+            "info": "<size=36>核の可能性を秘めたウォールナッツ。\n\n<color=black>耐久力：</color><color=#8B0000>4000</color>\n<color=black>スペシャル：</color><color=#8B0000>\n<color=black>※</color>非物理爆発に対して無敵。\n<color=black>※</color>3×3グリッド内の破壊キノコゾンビの爆発を防ぐ。\n<color=black>※</color>5×5グリッド内で破滅デバフを持つゾンビが死亡すると100回復。\n<color=black>※</color>死亡時に破壊爆発を発動する。</color>",
             "cost": "\n<size=36>融合レシピ：<color=#8B0000>ウォールナッツ＋破壊キノコ</color>"
         },
         {
@@ -2635,7 +2635,7 @@
         {
             "seedType": 1239,
             "name": "鉄の破壊キノコ",
-            "introduce": "<align=justified><size=36><color=black>ドカーン‼高速核分裂による現実を超えた爆発がゾンビを粉砕し、原子を分解して植物界で最も安定した形——鉄へと再構成する。「なぜ鉄のバケツなのか？」と問われた鉄の破壊キノコは一瞬沈黙し、こう答えた。「生まれつき、そうだった。」</color>",
+            "introduce": "<align=justified><size=36><color=black>ドカーン‼高速核分裂による現実を超えた爆発がゾンビを粉砕し、原子を分解してプラント界で最も安定した形——鉄へと再構成する。「なぜ鉄のバケツなのか？」と問われた鉄の破壊キノコは一瞬沈黙し、こう答えた。「生まれつき、そうだった。」</color>",
             "info": "<size=36>爆発後の灰をバケツに変える強力な破壊キノコ。\n\n<color=black>ダメージ：</color><color=#8B0000>3240（破壊）</color>\n<color=black>スペシャル：</color><color=#8B0000>ゾンビを倒すたびに、バケツを1つドロップする。</color>",
             "cost": "<size=36>融合レシピ：<color=#8B0000>バケツ／網戸→休眠キノコ</color>"
         },
@@ -2643,7 +2643,7 @@
             "seedType": 1240,
             "name": "ジャガイモ散布機",
             "introduce": "<align=justified><size=36><color=black>ジャガイモ散布機は地中でのいたずらが大好き。爆発のサプライズは一度きりではなく、二度でもなく、なんと三度——まるで無限にブームを仕込んでいるお調子者。足元には気をつけて。三連発でブーツが吹き飛ぶかも。\n\n※Draco様による執筆</color>",
-            "info": "<size=36>爆発後に地上へ再出現し、3レーンにジャガイモを発射する。\n\n<color=black>ダメージ：</color><color=#8B0000>30×3/1.5秒</color>\n<color=black>スペシャル：</color><color=#8B0000>\n<color=black>•</color> 低身植物（直進弾丸を回避する）\n<color=black>•</color> ゾンビとの距離が近づくほど攻撃速度が上昇（最速0.5秒間隔）。\n<color=black>•</color> 武装状態では接触時に爆発し、5400ダメージを与えて1タイル撃退し、地中へ退避。爆発から15秒後に再出現する。\n<color=black>•</color> 車両との接触時は即爆発して消滅する。</color>",
+            "info": "<size=36>爆発後に地上へ再出現し、3レーンにジャガイモを発射する。\n\n<color=black>ダメージ：</color><color=#8B0000>30×3/1.5秒</color>\n<color=black>スペシャル：</color><color=#8B0000>\n<color=black>※</color>低身植物（直進弾丸を回避する）\n<color=black>※</color>ゾンビとの距離が近づくほど攻撃速度が上昇（最速0.5秒間隔）。\n<color=black>※</color>武装状態では接触時に爆発し、5400ダメージを与えて1タイル撃退し、地中へ退避。爆発から15秒後に再出現する。\n<color=black>※</color>車両との接触時は即爆発して消滅する。</color>",
             "cost": "\n<size=36>融合レシピ：<color=#8B0000>ジャガイモ地雷＋スリーピーター</color>"
         },
         {
@@ -2664,7 +2664,7 @@
             "seedType": 1243,
             "name": "チェリーの鉢",
             "introduce": "<align=justified><size=36><color=black>チェリーの鉢は、禅ガーデンの報酬を手放してでも、プラントと間違われるのは絶対に嫌。「あの狂った連中、本物のチェリーが手に入らないからって、チェリー味なら何でも食べようとするのよ！」その話をするだけで、彼女は身震いする。</color>",
-            "info": "<size=36>チェリー爆発に情熱を注ぐ鉢。自身のタイル上のプラントを回復し、チェリー系シューターを一時的に強化する。\n\n<color=black>スペシャル：</color><color=#8B0000>\n<color=black>•</color> チェリー爆発無効。\n<color=black>•</color> チェリー爆発の影響を受けると、自身のタイル上のプラントを20HP回復。\n<color=black>•</color> 回復時、チェリー系シューターに1秒間、攻撃速度30%増加の効果を付与。</color>",
+            "info": "<size=36>チェリー爆発に情熱を注ぐ鉢。自身のタイル上のプラントを回復し、チェリー系シューターを一時的に強化する。\n\n<color=black>スペシャル：</color><color=#8B0000>\n<color=black>※</color>チェリー爆発無効。\n<color=black>※</color>チェリー爆発の影響を受けると、自身のタイル上のプラントを20HP回復。\n<color=black>※</color>回復時、チェリー系シューターに1秒間、攻撃速度30%増加の効果を付与。</color>",
             "cost": "\n<size=36>融合レシピ：<color=#8B0000>チェリー爆弾→植木鉢</color>"
         },
         {
@@ -2678,28 +2678,28 @@
             "seedType": 1245,
             "name": "サンシャインキノコ",
             "introduce": "<align=justified><size=36><color=black>熟練の日光預かり屋、サンシャインキノコは、あなたの預金に高利率を提供します。「定期預金を選んだんだろう？」と彼は、苛立つ双子太陽ナッツに厳しく言い放つ。「まだ引き出しはできないよ。」</color>",
-            "info": "<size=36>近くの太陽を吸収・増幅し、まとめて放出する先見の明ある太陽生産者。\n\n<color=black>太陽生産量：</color><color=#8B0000>25/20秒</color>\n<color=black>スペシャル：</color><color=#8B0000>\n<color=black>•</color> 落ちた太陽を5×5の範囲で吸収し、価値を1.3倍にして蓄えます。\n<color=black>•</color> 次の生産時に、可能な限り太陽を25個ずつまとめて放出します。</color>",
+            "info": "<size=36>近くの太陽を吸収・増幅し、まとめて放出する先見の明ある太陽生産者。\n\n<color=black>太陽生産量：</color><color=#8B0000>25/20秒</color>\n<color=black>スペシャル：</color><color=#8B0000>\n<color=black>※</color>落ちた太陽を5×5の範囲で吸収し、価値を1.3倍にして蓄えます。\n<color=black>※</color>次の生産時に、可能な限り太陽を25個ずつまとめて放出します。</color>",
             "cost": "\n<size=36>融合レシピ：<color=#8B0000>ヒマワリ＋フュームキノコ</color>"
         },
         {
             "seedType": 1246,
             "name": "ビクビク太陽キノコ",
             "introduce": "<align=justified><size=36><color=black>ビクビク太陽キノコは、あの厄介な太陽を素早く排出するための新しい呼吸法を開発中だった。だが……「ああっ！ゾンビ！！」その瞬間、彼は丸くなって震え出し、すべてを忘れてしまう。呼吸法？ゾンビが立ち去ったらまた考えるらしい。</color>",
-            "info": "<size=36>怖がりながらも頑張って太陽を生産しようとする太陽生産量。\n\n<color=black>太陽生産量：</color><color=#8B0000>25/25秒</color>\n<color=black>スペシャル：</color><color=#8B0000>\n<color=black>•</color> 太陽生産間隔は徐々に短縮され、最短10秒まで加速する。\n<color=black>•</color> ゾンビが接近すると恐怖で隠れ、太陽生産間隔が25秒にリセットされ、即座に25太陽を生成する。</color>",
+            "info": "<size=36>怖がりながらも頑張って太陽を生産しようとする太陽生産量。\n\n<color=black>太陽生産量：</color><color=#8B0000>25/25秒</color>\n<color=black>スペシャル：</color><color=#8B0000>\n<color=black>※</color>太陽生産間隔は徐々に短縮され、最短10秒まで加速する。\n<color=black>※</color>ゾンビが接近すると恐怖で隠れ、太陽生産間隔が25秒にリセットされ、即座に25太陽を生成する。</color>",
             "cost": "\n<size=36>融合レシピ：<color=#8B0000>ヒマワリ＋ビクビクキノコ</color>"
         },
         {
             "seedType": 1247,
             "name": "スプルースバリスタ",
             "introduce": "<align=justified><size=36><color=black>巨大なバリスタを引っ張るのは骨が折れる。だからスプルースバリスタにも休暇が必要だった。量子ナッツの助けを借りて、彼は別世界で新たな職を見つけた——怒れる鳥たちを、緑でニヤニヤしたブタに向かって発射する仕事だ。</color>",
-            "info": "<size=36>巨大なスプルース製の矢を発射し、ゾンビを貫通した後に短時間で爆発する。\n\n<color=black>ダメージ：</color><color=#8B0000>80/3秒</color>\n<color=black>スペシャル：</color><color=#8B0000>\n<color=black>•</color> 雪玉と吹雪による凍結無効\n<color=black>•</color> 矢は最大2体まで貫通（氷の塊も貫通可能）し、ゾンビに命中してから0.3秒後に爆発。小範囲にスプラッシュダメージを与える。</color>",
+            "info": "<size=36>巨大なスプルース製の矢を発射し、ゾンビを貫通した後に短時間で爆発する。\n\n<color=black>ダメージ：</color><color=#8B0000>80/3秒</color>\n<color=black>スペシャル：</color><color=#8B0000>\n<color=black>※</color>雪玉と吹雪による凍結無効\n<color=black>※</color>矢は最大2体まで貫通（氷の塊も貫通可能）し、ゾンビに命中してから0.3秒後に爆発。小範囲にスプラッシュダメージを与える。</color>",
             "cost": "<size=36>コスト：<color=#8B0000>300</color>\nクールタイム：<color=#8B0000>50秒</color>"
         },
         {
             "seedType": 1248,
             "name": "破滅ヒマワリ",
             "introduce": "<align=justified><size=36><color=black>ガーデンゲームでは、運がすべてを左右することもある。そんな時こそ、破滅ヒマワリの出番だ。「なんでいつも私なの？」——「それが運命。あるいは破滅。」</color>",
-            "info": "<size=36>周囲に破壊胞子を植えるヒマワリ。胞子は成長後、遠隔で爆発する。\n\n<color=black>太陽生産量：</color><color=#8B0000>25/25秒</color>\n<color=black>スペシャル：</color><color=#8B0000>\n<color=black>•</color> 50秒ごとに、自身の周囲3×3グリッド内に破壊胞子を1つランダムに植える。\n<color=black>•</color> 破壊胞子は30秒で成熟し、ゾンビが爆発範囲に入ると、破壊キノコのように爆発する。</color>",
+            "info": "<size=36>周囲に破壊胞子を植えるヒマワリ。胞子は成長後、遠隔で爆発する。\n\n<color=black>太陽生産量：</color><color=#8B0000>25/25秒</color>\n<color=black>スペシャル：</color><color=#8B0000>\n<color=black>※</color>50秒ごとに、自身の周囲3×3グリッド内に破壊胞子を1つランダムに植える。\n<color=black>※</color>破壊胞子は30秒で成熟し、ゾンビが爆発範囲に入ると、破壊キノコのように爆発する。</color>",
             "cost": "\n<size=36>融合レシピ：<color=#8B0000>ヒマワリ＋破壊キノコ</color>"
         },
         {
@@ -2741,21 +2741,21 @@
             "seedType": 1254,
             "name": "津波スプルースバリスタ",
             "introduce": "<align=justified><size=36><color=black>城壁の上で誇らしげに任務を果たしていた津波スプルースバリスタ。自分の力は津波のように轟くものだと信じていた。実際には、再装填時の弦の軋む音が話題になっていただけだった。恥を感じながらもめげず、アロエジュースに救いを見出した今――彼の矢は滑らかに、致命的に、そして何より静かになった。</color>",
-            "info": "<size=36>津波のような力で潮流の矢を放つ。命中した敵は冷却への耐性が低下する。\n\n<color=black>ダメージ：</color><color=#8B0000>80/1秒</color>\n<color=black>スペシャル：</color><color=#8B0000>\n<color=black>•</color> 雪玉と吹雪による凍結無効\n<color=black>•</color> 矢を4連射した後、3秒間休止。90%の確率で潮流の矢を発射。\n<color=black>•</color> 90%の確率で潮流の矢を発射。命中したゾンビに「濡れ」状態を5秒間付与。「濡れ」状態のゾンビは、氷結システムの攻撃を受けると冷却ではなく凍結される。この状態はその後解除され、10秒間再付与できない。\n<color=black>•</color> 10%の確率でアイスボルトを発射し、極冷却を付与する。</color>",
+            "info": "<size=36>津波のような力で潮流の矢を放つ。命中した敵は冷却への耐性が低下する。\n\n<color=black>ダメージ：</color><color=#8B0000>80/1秒</color>\n<color=black>スペシャル：</color><color=#8B0000>\n<color=black>※</color>雪玉と吹雪による凍結無効\n<color=black>※</color>矢を4連射した後、3秒間休止。90%の確率で潮流の矢を発射。\n<color=black>※</color>90%の確率で潮流の矢を発射。命中したゾンビに「濡れ」状態を5秒間付与。「濡れ」状態のゾンビは、氷結システムの攻撃を受けると冷却ではなく凍結される。この状態はその後解除され、10秒間再付与できない。\n<color=black>※</color>10%の確率でアイスボルトを発射し、極冷却を付与する。</color>",
             "cost": "<size=36>融合レシピ：<color=#8B0000>水滴アロエ→スプルースバリスタ</color>"
         },
         {
             "seedType": 1255,
             "name": "ドローンナッツ",
-            "introduce": "<align=justified><size=36><color=black>ゾンビたちが武術を極め、落ちる花びらで植物を傷つけることができる――そんな噂がある。ほとんどのプラントは笑って流すが、ドローンナッツは違う。「本当だよ」と、空中を漂いながら彼は言う。「その攻撃を防いだことがある。三度もね。」</color>",
-            "info": "<size=36>飛行植物。真下のプラントを守る。\n\n<color=black>耐久力：</color><color=#8B0000>4000</color>\n<color=black>スペシャル：</color><color=#8B0000>\n<color=black>•</color> 自身のタイルのダメージを肩代わりする。\n<color=black>•</color> 10秒間ダメージを受けなければ、毎秒50HPを回復。</color>",
+            "introduce": "<align=justified><size=36><color=black>ゾンビたちが武術を極め、落ちる花びらでプラントを傷つけることができる――そんな噂がある。ほとんどのプラントは笑って流すが、ドローンナッツは違う。「本当だよ」と、空中を漂いながら彼は言う。「その攻撃を防いだことがある。三度もね。」</color>",
+            "info": "<size=36>飛行植物。真下のプラントを守る。\n\n<color=black>耐久力：</color><color=#8B0000>4000</color>\n<color=black>スペシャル：</color><color=#8B0000>\n<color=black>※</color>自身のタイルのダメージを肩代わりする。\n<color=black>※</color>10秒間ダメージを受けなければ、毎秒50HPを回復。</color>",
             "cost": "<size=36>融合レシピ：<color=#8B0000>ウォールナッツ＋ブロバー</color>"
         },
         {
             "seedType": 1256,
             "name": "とげのあるナッツ",
             "introduce": "<align=justified><size=36><color=black>とげのあるナッツは、自分こそが本物のスパイクナッツだと誇らしげに主張する。「このトゲ！この色！見てくれよ！」と、いつも叫んでいる。ある日、誰かがふと尋ねた――「で、スパイクナッツって誰だっけ？」</color>",
-            "info": "<size=36>攻撃してきた敵に反撃し、風船ゾンビを無力化する。\n\n<color=black>耐久力：</color><color=#8B0000>4000</color>\n<color=black>スペシャル：</color><color=#8B0000>\n<color=black>•</color> スペシャル：噛みついてきたゾンビに50ダメージを反射。\n<color=black>•</color> 風船を破裂させることができる。</color>",
+            "info": "<size=36>攻撃してきた敵に反撃し、風船ゾンビを無力化する。\n\n<color=black>耐久力：</color><color=#8B0000>4000</color>\n<color=black>スペシャル：</color><color=#8B0000>\n<color=black>※</color>スペシャル：噛みついてきたゾンビに50ダメージを反射。\n<color=black>※</color>風船を破裂させることができる。</color>",
             "cost": "<size=36>融合レシピ：<color=#8B0000>ウォールナッツ＋サボテン</color>"
         },
         {
@@ -2769,35 +2769,35 @@
             "seedType": 1258,
             "name": "冬筍蓮",
             "introduce": "<align=justified><size=36><color=black>毎年冬になると、冬筍蓮は華やかな花びらの演出で異性を惹きつけようとする。だがその演出は、いつも少し…早すぎて、冷たすぎる。咲ききる前に、彼女たちは立ち去ってしまうのだった。</color>",
-            "info": "<size=36>自己回復能力を持つ冬筍バリケード。周囲の仲間によって強化される。\n\n<color=black>耐久力：</color><color=#8B0000>1500</color>\n<color=black>スペシャル：</color><color=#8B0000>\n<color=black>•</color> 雪玉と吹雪による凍結無効\n<color=black>•</color> チャージ時に自身のHPを50回復。\n<color=black>•</color> 1.5秒ごとに40HPを回復。この回復量は、隣接する筍性植物1体につき100%増加する。\n<color=black>•</color> レジリエンス（初期値1）：受けるダメージはレジリエンスで割られ、最大HPはレジリエンスで乗算される。隣接する筍性植物1体につき、レジリエンスが0.3増加する。</color>",
+            "info": "<size=36>自己回復能力を持つ冬筍バリケード。周囲の仲間によって強化される。\n\n<color=black>耐久力：</color><color=#8B0000>1500</color>\n<color=black>スペシャル：</color><color=#8B0000>\n<color=black>※</color>雪玉と吹雪による凍結無効\n<color=black>※</color>チャージ時に自身のHPを50回復。\n<color=black>※</color>1.5秒ごとに40HPを回復。この回復量は、隣接する筍性植物1体につき100%増加する。\n<color=black>※</color>レジリエンス（初期値1）：受けるダメージはレジリエンスで割られ、最大HPはレジリエンスで乗算される。隣接する筍性植物1体につき、レジリエンスが0.3増加する。</color>",
             "cost": "<size=36>融合レシピ：<color=#8B0000>冬筍バリケード＋雪蓮</color>"
         },
         {
             "seedType": 1259,
             "name": "冬筍アロエ",
             "introduce": "<align=justified><size=36><color=black>冬筍アロエは旅が好きで、雪に包まれた故郷を広めようとしている。だが、誰も興味を持ってくれない。「背中の荷物を、殴られてできたコブだと思ってるんだよ」と彼はぼやく。「そりゃあ、ツンドラが冷たい場所だと思われても仕方ないよね。」</color>",
-            "info": "<size=36>氷で鍛えられた冬筍バリケード。冷気系ゾンビに対して真価を発揮する。\n\n<color=black>耐久力：</color><color=#8B0000>1500</color>\n<color=black>スペシャル：</color><color=#8B0000>\n<color=black>•</color> 雪玉と吹雪による凍結無効\n<color=black>•</color> 水滴アロエと同様に氷チャージを獲得。\n<color=black>•</color> レジリエンス（初期値1）：受けるダメージはレジリエンスで割られ、最大HPはレジリエンスで乗算される。チャージを1消費して、レジリエンスを2上昇。冷却状態または凍結状態のゾンビと戦うと、レジリエンスが1増加（前述の能力とは重複しない）。</color>",
+            "info": "<size=36>氷で鍛えられた冬筍バリケード。冷気系ゾンビに対して真価を発揮する。\n\n<color=black>耐久力：</color><color=#8B0000>1500</color>\n<color=black>スペシャル：</color><color=#8B0000>\n<color=black>※</color>雪玉と吹雪による凍結無効\n<color=black>※</color>水滴アロエと同様に氷チャージを獲得。\n<color=black>※</color>レジリエンス（初期値1）：受けるダメージはレジリエンスで割られ、最大HPはレジリエンスで乗算される。チャージを1消費して、レジリエンスを2上昇。冷却状態または凍結状態のゾンビと戦うと、レジリエンスが1増加（前述の能力とは重複しない）。</color>",
             "cost": "<size=36>融合レシピ：<color=#8B0000>冬筍バリケード＋水滴アロエ</color>"
         },
         {
             "seedType": 1260,
             "name": "冬筍射手",
             "introduce": "<align=justified><size=36><color=black>ゾンビたちは、冬筍バリケードを避ければ道路事故は防げると思っていた。だが、冬筍射手が現れてからは、鋭く尖った筍が飛んでくるようになった。パニックになった彼らは叫びながら逃げた――「撃て！筍だ！」</color>",
-            "info": "<size=36>貫通する筍を発射！\n\n<color=black>耐久力：</color><color=#8B0000>1800</color>\n<color=black>ダメージ：</color><color=#8B0000>60/3秒</color>\n<color=black>スペシャル：</color><color=#8B0000>\n<color=black>•</color> 雪玉と吹雪による凍結無効。\n<color=black>•</color> スプルース射手と同様に、矢は貫通する。\n<color=black>•</color> 矢がゾンビに命中した際：自身のHPがゾンビより高い場合、差分のダメージを自身に与え、ゾンビは即死する。HPがゾンビより低い場合、自身のHPは最低300まで減少し、ゾンビは差分のダメージを受ける。この能力は、自身のHPが300以下の場合は発動しない。</color>",
+            "info": "<size=36>貫通する筍を発射！\n\n<color=black>耐久力：</color><color=#8B0000>1800</color>\n<color=black>ダメージ：</color><color=#8B0000>60/3秒</color>\n<color=black>スペシャル：</color><color=#8B0000>\n<color=black>※</color>雪玉と吹雪による凍結無効。\n<color=black>※</color>スプルース射手と同様に、矢は貫通する。\n<color=black>※</color>矢がゾンビに命中した際：自身のHPがゾンビより高い場合、差分のダメージを自身に与え、ゾンビは即死する。HPがゾンビより低い場合、自身のHPは最低300まで減少し、ゾンビは差分のダメージを受ける。この能力は、自身のHPが300以下の場合は発動しない。</color>",
             "cost": "\n<size=36>融合レシピ：<color=#8B0000>スプルース射手＋冬筍バリケード</color>"
         },
         {
             "seedType": 1261,
             "name": "スイカナッツ",
             "introduce": "<align=justified><size=36><color=black>ゾンビたちがスイカを買いに来ると、果物屋の水滴アロエはいつも一番大きなもの――スイカナッツを売る。そのスイカで歯を折ったゾンビたちは、近くの歯科医院を紹介される。もちろん、その医院も水滴アロエの経営だ。</color>",
-            "info": "<size=36>一定のダメージを受けると、一時的なシールドを生成し、スイカで反撃する。\n\n<color=black>耐久力：</color><color=#8B0000>8000</color>\n<color=black>スペシャル：</color><color=#8B0000>\n<color=black>•</color> ダメージを受けると、その1.5倍の量を反撃チャージとして蓄積。ダメージが100/500/1000を超える場合、それぞれ3倍/4.5倍/6倍の量を蓄積する。\n<color=black>•</color> 反撃メーターの上限は最大HPまで。\n<color=black>•</color> メーターが1000を超えると、すべてのチャージを消費してスイカを発射し、同量の追加耐久を獲得する。この追加耐久は5秒間かけて完全に減衰する。</color>",
+            "info": "<size=36>一定のダメージを受けると、一時的なシールドを生成し、スイカで反撃する。\n\n<color=black>耐久力：</color><color=#8B0000>8000</color>\n<color=black>スペシャル：</color><color=#8B0000>\n<color=black>※</color>ダメージを受けると、その1.5倍の量を反撃チャージとして蓄積。ダメージが100/500/1000を超える場合、それぞれ3倍/4.5倍/6倍の量を蓄積する。\n<color=black>※</color>反撃メーターの上限は最大HPまで。\n<color=black>※</color>メーターが1000を超えると、すべてのチャージを消費してスイカを発射し、同量の追加耐久を獲得する。この追加耐久は5秒間かけて完全に減衰する。</color>",
             "cost": "\n<size=36>融合レシピ：<color=#8B0000>ウォールナッツ＋スイカパルト</color>"
         },
         {
             "seedType": 1262,
             "name": "キャベツナッツ",
             "introduce": "<align=justified><size=36><color=black>毎年、キャベツは芽を出すのを待ちきれない。だが、キャベツナッツだけは例外だ。外に出る前に、何重にも自分を包み込む。「ゾンビに、何層も剥がす根気なんてないさ。間違いない。」</color>",
-            "info": "<size=36>一定のダメージを受けると、一時的なシールドを生成し、キャベツで反撃する。\n\n<color=black>耐久力：</color><color=#8B0000>4000</color>\n<color=black>スペシャル：</color><color=#8B0000>\n<color=black>•</color> ダメージを受けると、その1倍の量を反撃チャージとして蓄積。ダメージが100/500/1000を超える場合、それぞれ2倍/3倍/4倍の量を蓄積する。\n<color=black>•</color> 反撃メーターの上限は最大HPまで。\n<color=black>•</color> メーターが1000を超えると、すべてのチャージを消費してキャベツを発射し、同量の追加耐久を獲得する。この追加耐久は5秒間かけて完全に減衰する。</color>",
+            "info": "<size=36>一定のダメージを受けると、一時的なシールドを生成し、キャベツで反撃する。\n\n<color=black>耐久力：</color><color=#8B0000>4000</color>\n<color=black>スペシャル：</color><color=#8B0000>\n<color=black>※</color>ダメージを受けると、その1倍の量を反撃チャージとして蓄積。ダメージが100/500/1000を超える場合、それぞれ2倍/3倍/4倍の量を蓄積する。\n<color=black>※</color>反撃メーターの上限は最大HPまで。\n<color=black>※</color>メーターが1000を超えると、すべてのチャージを消費してキャベツを発射し、同量の追加耐久を獲得する。この追加耐久は5秒間かけて完全に減衰する。</color>",
             "cost": "\n<size=36>融合レシピ：<color=#8B0000>ウォールナッツ＋キャベツパルト</color>"
         },
         {
@@ -2825,14 +2825,14 @@
             "seedType": 1266,
             "name": "要塞ナッツ",
             "introduce": "<align=justified><size=36><color=black>プラントの中には、要塞ナッツがゾンビに何もしなかったことに不満を漏らす者もいた。「彼は本当に怠け者だ。庭から戦場まで歩くことすらできないだろう。屋根から転げ落ちたまま、動こうとしないのか？」要塞ナッツは何も答えるつもりはなかった。彼の意志は殻のように固く、ただ自分を必要とするプラントたちを守ることだけを考えていた。\n\n-Ultra Badlanderー著</color>",
-            "info": "<size=36>突破不可能な重防御要塞。フィールド上の防御プラントの種類が多いほど、自身の防御力が上昇します。\n\n<color=black>耐久力：</color><color=#8B0000>32000</color>\n<color=black>スペシャル：</color><color=#8B0000>\n<color=black>•</color> 背高植物。\n<color=black>•</color> 圧殺耐性、被ダメージは最大HPの3分の1に制限される\n<color=black>•</color> ダメージ上限後は、（1＋0.1×フィールド上の防御植物種の数）で割ってダメージを軽減します。</color>",
+            "info": "<size=36>突破不可能な重防御要塞。フィールド上の防御プラントの種類が多いほど、自身の防御力が上昇します。\n\n<color=black>耐久力：</color><color=#8B0000>32000</color>\n<color=black>スペシャル：</color><color=#8B0000>\n<color=black>※</color>背高植物。\n<color=black>※</color>圧殺耐性、被ダメージは最大HPの3分の1に制限される\n<color=black>※</color>ダメージ上限後は、（1＋0.1×フィールド上の防御植物種の数）で割ってダメージを軽減します。</color>",
             "cost": "<size=36>融合レシピ：<color=#8B0000>ウォールナッツ ∞【トールナッツ】∞ ウォールナッツ←ヒカマホウ（中央に設置して）</color>"
         },
         {
             "seedType": 1267,
             "name": "ヒプノピーシューター",
             "introduce": "<align=justified><size=36><color=black>ゾンビを味方にするだけじゃ足りないわ。もう少し火力を持たせて、僕たちに似せる必要があるのよ！」――ヒプノピーシューターは艶やかな口調でそう語る。\n\n※Etc様による執筆</color>",
-            "info": "<size=36>ヒプノピー豆を発射し、倒したゾンビを味方のヒプノピーシューターゾンビに変える。\n\n<color=black>ダメージ：</color><color=#8B0000>30/1.5秒</color>\n<color=black>スペシャル：</color><color=#8B0000>\n<color=black>•</color> ゾンビを倒すと、催眠されたヒプノピーシューターゾンビを召喚。\n<color=black>•</color> この能力は水レーンでは発動しない。\n<color=black>•</color> ヒプノピーシューターゾンビ：耐久力は270、1.5秒ごとに20ダメージのヒプノピー豆を発射。</color>",
+            "info": "<size=36>ヒプノピー豆を発射し、倒したゾンビを味方のヒプノピーシューターゾンビに変える。\n\n<color=black>ダメージ：</color><color=#8B0000>30/1.5秒</color>\n<color=black>スペシャル：</color><color=#8B0000>\n<color=black>※</color>ゾンビを倒すと、催眠されたヒプノピーシューターゾンビを召喚。\n<color=black>※</color>この能力は水レーンでは発動しない。\n<color=black>※</color>ヒプノピーシューターゾンビ：耐久力は270、1.5秒ごとに20ダメージのヒプノピー豆を発射。</color>",
             "cost": "\n<size=36>融合レシピ：<color=#8B0000>ピーシューター＋ヒプノキノコ</color>"
         },
         {
@@ -2867,14 +2867,14 @@
             "seedType": 1272,
             "name": "破壊狙撃ピー",
             "introduce": "<align=justified><size=36><color=black>「夜の静寂に、プラントの囁きが聞こえたことはあるか？」破壊狙撃ピーは古びたライフルを静かに拭う。「彼女は遅いが、裏切ったことは一度もない…」闇を裂く光が走る。「よし、命中率48/50の記録を更新する時だ」</color>",
-            "info": "貫通弾と速射を兼ね備え、チャージショットは広範囲に大ダメージを与える。<size=36>\n\n<color=#4A2900>利用条件：旅行モード</color>\n<color=black>ダメージ：</color><color=#8B0000>100/0.3秒</color>\n<color=black>スペシャル：</color><color=#8B0000>\n<color=black>•</color> 無限貫通。破壊＆速撃チャージを1発ごとに獲得。\n<color=black>•</color> 300破壊チャージを消費して、最初に命中したゾンビの位置に破壊爆発（基礎ダメージ×72）を発動。\n<color=black>•</color> 100速撃チャージを消費して、8秒間攻撃速度が2倍に。\n<color=black>•</color> 会心率は10%、6倍ダメージ（破滅デバフ状態のゾンビには必ず会心が発生）。</color>",
+            "info": "貫通弾と速射を兼ね備え、チャージショットは広範囲に大ダメージを与える。<size=36>\n\n<color=#4A2900>利用条件：旅行モード</color>\n<color=black>ダメージ：</color><color=#8B0000>100/0.3秒</color>\n<color=black>スペシャル：</color><color=#8B0000>\n<color=black>※</color>無限貫通。破壊＆速撃チャージを1発ごとに獲得。\n<color=black>※</color>300破壊チャージを消費して、最初に命中したゾンビの位置に破壊爆発（基礎ダメージ×72）を発動。\n<color=black>※</color>100速撃チャージを消費して、8秒間攻撃速度が2倍に。\n<color=black>※</color>会心率は10%、6倍ダメージ（破滅デバフ状態のゾンビには必ず会心が発生）。</color>",
             "cost": "\n<size=36>融合レシピ：<color=#8B0000>狙撃ピー＋破壊キノコ</color>"
         },
         {
             "seedType": 1273,
             "name": "隠れキノコ",
             "introduce": "<align=justified><size=36><color=black>隠れキノコは仲間を大切にしている。ゾンビの危険から逃れて、雲の上へ飛び立つこともできるが、彼は自分の根を見捨てることができない。仲間を守るため、葉で彼らを覆い、ゾンビに「どうか傷つけないで」と懇願する。そしてなぜか、ゾンビたちはその願いを聞き入れるのだった。\n\n※Ultra Badlanderによる執筆</color>",
-            "info": "<size=36>地上を浮遊し、周囲の怯性植物にカモフラージュ効果を与える。\n\nスペシャル：</color><color=#8B0000>\n<color=black>•</color> 飛行植物。\n<color=black>•</color> 隠れキノコの周囲3×3グリッド内にいる怯性植物は、ゾンビに食べられなくなる。</color>",
+            "info": "<size=36>地上を浮遊し、周囲の怯性植物にカモフラージュ効果を与える。\n\nスペシャル：</color><color=#8B0000>\n<color=black>※</color>飛行植物。\n<color=black>※</color>隠れキノコの周囲3×3グリッド内にいる怯性植物は、ゾンビに食べられなくなる。</color>",
             "cost": "\n<size=36>融合レシピ：<color=#8B0000>ビクビクキノコ＋ブロバー</color>"
         },
         {
@@ -2888,14 +2888,14 @@
             "seedType": 1275,
             "name": "破壊ブロバー",
             "introduce": "<align=justified><size=36><color=black>猫スクワッシュは、ただもっと強力な扇風機が欲しかっただけ。だが、破壊ブロバーの核エネルギーですら、彼女の要求には届かないようだ。「これはひどいモデルだな」とゾンボス博士は言った。「熱も廃棄物も、全部そのまま吹き飛ばしてるじゃないか」</color>",
-            "info": "<size=36>高温の風に灰と核の残滓を混ぜて、ゾンビを吹き飛ばす。\n\n<color=black>スペシャル：</color><color=#8B0000>\n<color=black>•</color> 10秒間持続した後に消滅。\n<color=black>•</color> 毎秒、芝生上のすべてのゾンビに180の破壊ダメージを与える。破滅デバフ状態のゾンビにはダメージが2倍になる。</color>",
+            "info": "<size=36>高温の風に灰と核の残滓を混ぜて、ゾンビを吹き飛ばす。\n\n<color=black>スペシャル：</color><color=#8B0000>\n<color=black>※</color>10秒間持続した後に消滅。\n<color=black>※</color>毎秒、芝生上のすべてのゾンビに180の破壊ダメージを与える。破滅デバフ状態のゾンビにはダメージが2倍になる。</color>",
             "cost": "\n<size=36>融合レシピ：<color=#8B0000>ブロバー＋破壊キノコ</color>"
         },
         {
             "seedType": 1276,
             "name": "冷風ブロバー",
-            "introduce": "<align=justified><size=36><color=black>冷風ブロバーは、−4°Cのエアコン。その冷たい風に吹かれると、まるで真冬にワープした気分になる。あの雪ピー豆ですら凍りついたほど。それより寒いものなんて、ある？ 答え：極寒豆が放った、完全に音痴なジョークの後の空気。</color>",
-            "info": "<size=36>冷風ブロバーは、常に冷却を与える冷たい風を吹き続けます。\n\n<color=black>スペシャル：</color><color=#8B0000>\n<color=black>•</color> 10秒間持続した後、消滅します。\n<color=black>•</color> 全てのゾンビに1ダメージを与え、20氷結ポイントを付与します。\n<color=black>•</color> 画面上のすべての雪ピーを極寒ピー豆に変換します。</color>",
+            "introduce": "<align=justified><size=36><color=black>冷風ブロバーは、−4°Cのエアコン。その冷たい風に吹かれると、まるで真冬にワープした気分になる。あの雪ピー豆ですら凍りついたほど。それより寒いものなんて、ある？答え：極寒豆が放った、完全に音痴なジョークの後の空気。</color>",
+            "info": "<size=36>冷風ブロバーは、常に冷却を与える冷たい風を吹き続けます。\n\n<color=black>スペシャル：</color><color=#8B0000>\n<color=black>※</color>10秒間持続した後、消滅します。\n<color=black>※</color>全てのゾンビに1ダメージを与え、20氷結ポイントを付与します。\n<color=black>※</color>画面上のすべての雪ピーを極寒ピー豆に変換します。</color>",
             "cost": "\n<size=36>融合レシピ：<color=#8B0000>ブロバー＋氷キノコ</color>"
         },
         {
@@ -2923,14 +2923,14 @@
             "seedType": 1280,
             "name": "スイカスライスパルト",
             "introduce": "<align=justified><size=36><color=black>スイカスライスパルトは、ゾンビにも分けてあげたいほどのシェア精神の持ち主。スイカを小さくスライスして、ポイッと投げてあげる。…が、ゾンビたちはなぜかキャッチがとても下手。</color>",
-            "info": "<size=36>スイカスライスはスプラッシュ効果を失う代わりに、縮小状態のゾンビに対して2倍の効果を発揮する。\n\n<color=black>ダメージ：</color><color=#8B0000>80/3秒</color>\n<color=black>スペシャル：</color><color=#8B0000>\n<color=black>•</color> 低身植物（直進弾丸を回避する）\n<color=black>•</color> スイカスライスはスプラッシュダメージを与えなくなるが、縮小状態のゾンビに対して2倍のダメージを与える。</color>",
+            "info": "<size=36>スイカスライスはスプラッシュ効果を失う代わりに、縮小状態のゾンビに対して2倍の効果を発揮する。\n\n<color=black>ダメージ：</color><color=#8B0000>80/3秒</color>\n<color=black>スペシャル：</color><color=#8B0000>\n<color=black>※</color>低身植物（直進弾丸を回避する）\n<color=black>※</color>スイカスライスはスプラッシュダメージを与えなくなるが、縮小状態のゾンビに対して2倍のダメージを与える。</color>",
             "cost": "\n<size=36>融合レシピ：<color=#8B0000>スイカパルト→パフキノコ</color>"
         },
         {
             "seedType": 1281,
             "name": "芽キャベツパルト",
             "introduce": "<align=justified><size=36><color=black>芽キャベツパルトには、ゾンビを縮小させる魔法の力があると言われている。その秘密は「バウンド」にあると噂されているが――実は、真相を知っているのはポップコーンパルトだけ。キャベツの葉の奥に、小さなバターが隠されているのだ。ただ、葉が厚すぎて飛び出せない…だからこそ、バウンドが必要なのだ。</color>",
-            "info": "<size=36>縮小効果を伝播できる芽キャベツを投げる。\n\n<color=black>ダメージ：</color><color=#8B0000>1500</color>\n<color=black>スペシャル：</color><color=#8B0000>\n<color=black>•</color> 低身植物（直進弾丸を回避する）\n<color=black>•</color>弾は2回バウンドする。縮小状態のゾンビに命中すると、次に当たるゾンビにも縮小効果を与えるようになる。</color>",
+            "info": "<size=36>縮小効果を伝播できる芽キャベツを投げる。\n\n<color=black>ダメージ：</color><color=#8B0000>1500</color>\n<color=black>スペシャル：</color><color=#8B0000>\n<color=black>※</color>低身植物（直進弾丸を回避する）\n<color=black>※</color>弾は2回バウンドする。縮小状態のゾンビに命中すると、次に当たるゾンビにも縮小効果を与えるようになる。</color>",
             "cost": "\n<size=36>融合レシピ：<color=#8B0000>キャベツパルト→パフキノコ</color>"
         },
         {
@@ -2944,7 +2944,7 @@
             "seedType": 1283,
             "name": "熱いウォールナッツ",
             "introduce": "<align=justified><size=36><color=black>「光よ、我に温もりを、力を与えたまえ」熱いウォールナッツは微笑みながら、ほのかな輝きを放つ――そして、クミンの香りも。バーベキューパーティー帰りの彼のカリッと焼けた殻は、ゾンビを含めたすべての者の視線を集めてしまう。</color>",
-            "info": "<size=36>高温で形成されたウォールナッツだが、性能はほぼ通常と変わらない。\n\n<color=black>耐久力：</color><color=#8B0000>4000</color>\n<color=black>スペシャル：</color><color=#8B0000>\n<color=black>•</color> 融合不可。\n<color=black>•</color> 氷の鉢を使うことで、通常のウォールナッツに変換できる。</color>",
+            "info": "<size=36>高温で形成されたウォールナッツだが、性能はほぼ通常と変わらない。\n\n<color=black>耐久力：</color><color=#8B0000>4000</color>\n<color=black>スペシャル：</color><color=#8B0000>\n<color=black>※</color>融合不可。\n<color=black>※</color>氷の鉢を使うことで、通常のウォールナッツに変換できる。</color>",
             "cost": "\n<size=36>"
         },
         {
@@ -2965,14 +2965,14 @@
             "seedType": 1286,
             "name": "ヒプノスイカ",
             "introduce": "<align=justified><size=36><color=black>ヒプノスイカは、友達作りと絵を描くこと、そしてドリンク作りが大好き。バーでは看板バーテンダーとして活躍しており、彼女のアイスヒプノスイカジュースは定番カクテルよりも人気。中には、ゾンビの格好をしてまで味見しようとする熱狂的なファンもいるほど。</color>",
-            "info": "大量のゾンビを催眠できるヒプノスイカを投げる。<size=36>\n\n<color=black>ダメージ：</color><color=#8B0000>120/3秒</color>\n<color=black>スペシャル：</color><color=#8B0000>\n<color=black>•</color> 直接命中およびスプラッシュダメージにより、最大HPが50%未満のゾンビに25%の確率で催眠を付与。\n<color=black>•</color> 噛まれると、攻撃したゾンビを催眠状態にし、自身はスイカパルトに戻る。</color>",
+            "info": "大量のゾンビを催眠できるヒプノスイカを投げる。<size=36>\n\n<color=black>ダメージ：</color><color=#8B0000>120/3秒</color>\n<color=black>スペシャル：</color><color=#8B0000>\n<color=black>※</color>直接命中およびスプラッシュダメージにより、最大HPが50%未満のゾンビに25%の確率で催眠を付与。\n<color=black>※</color>噛まれると、攻撃したゾンビを催眠状態にし、自身はスイカパルトに戻る。</color>",
             "cost": "\n<size=36>融合レシピ：<color=#8B0000>スイカパルト＋ヒプノキノコ</color>"
         },
         {
             "seedType": 1287,
             "name": "氷の鉢",
             "introduce": "<align=justified><size=36><color=black>氷の鉢が最も活発になるのは、夏の季節。「えへへ、暑い？ここで涼んでいかない？」と彼は言う。「でも、氷で滑らないように気をつけてね。それと、日陰を探してるスイカさん――氷スイカになったら、誰かに食べられちゃうかもよ！」</color>",
-            "info": "<size=36>炎で形成された植物を具現化できる。\n\n<color=black>スペシャル：</color><color=#8B0000>10秒ごとに、自身のタイル上にいる特定の熱い植物を、融合に使用可能な基本形へと変換する。</color>",
+            "info": "<size=36>炎で形成されたプラントを具現化できる。\n\n<color=black>スペシャル：</color><color=#8B0000>10秒ごとに、自身のタイル上にいる特定の熱い植物を、融合に使用可能な基本形へと変換する。</color>",
             "cost": "\n<size=36>融合レシピ：<color=#8B0000>氷キノコ→植木鉢</color>"
         },
         {
@@ -2986,21 +2986,21 @@
             "seedType": 1289,
             "name": "熱いパンプキン",
             "introduce": "<align=justified><size=36><color=black>「ハッピーハロウィン！」と熱いパンプキンが叫びながら、いたずら好きな小さなプラントたちにキャンディの袋を配っていく。キャンディがなくなったら、彼の舞台を見に来るのを忘れずに――もしかすると、首なし騎士役を演じているかもしれない！</color>",
-            "info": "<size=36>高温で形成されたパンプキンだが、性能は通常のものと変わらない。\n\n<color=black>耐久力：</color><color=#8B0000>4000</color>\n<color=black>スペシャル：</color><color=#8B0000>\n<color=black>•</color> 融合不可。\n<color=black>•</color> 氷の鉢を使うことで、通常のパンプキンに変換できる。</color>",
+            "info": "<size=36>高温で形成されたパンプキンだが、性能は通常のものと変わらない。\n\n<color=black>耐久力：</color><color=#8B0000>4000</color>\n<color=black>スペシャル：</color><color=#8B0000>\n<color=black>※</color>融合不可。\n<color=black>※</color>氷の鉢を使うことで、通常のパンプキンに変換できる。</color>",
             "cost": "\n<size=36>"
         },
         {
             "seedType": 1290,
             "name": "狙撃キノコ部隊",
-            "introduce": "<align=justified><size=36><color=black>「歴史の大潮流の中では、長く分かれたものは結び、長く結ばれたものは分かれる…君も例外じゃない」 ――そう語るのは、狙撃キノコ部隊。余暇には『三国志』を愛読しており、こうも言う。「過去はただの古い物語さ。今の僕こそ、最も鋭い一撃を放つ存在だ！」</color>",
-            "info": "<size=36>分裂時は精密な狙撃、合体時は爆発的な範囲攻撃を行う。\n\n<color=#4A2900>利用条件：旅行モード</color>\n<color=black>ダメージ：</color><color=#8B0000>500×3/3秒（分裂時）、1500/0.5秒（合体時）</color>\n<color=black>スペシャル：</color><color=#8B0000>\n<color=black>•</color> 低身植物（直進弾丸を回避する）\n<color=black>•</color> 分裂モードでは、6発ごとにヘッドショットが発生し、100万ダメージを与える。\n<color=black>•</color> 15発撃つと、15秒間合体モードに移行し、その後再び分裂。\n<color=black>•</color> 合体モードでは、攻撃が1タイル範囲のスプラッシュダメージになる。</color>",
+            "introduce": "<align=justified><size=36><color=black>「歴史の大潮流の中では、長く分かれたものは結び、長く結ばれたものは分かれる…君も例外じゃない」――そう語るのは、狙撃キノコ部隊。余暇には『三国志』を愛読しており、こうも言う。「過去はただの古い物語さ。今の僕こそ、最も鋭い一撃を放つ存在だ！」</color>",
+            "info": "<size=36>分裂時は精密な狙撃、合体時は爆発的な範囲攻撃を行う。\n\n<color=#4A2900>利用条件：旅行モード</color>\n<color=black>ダメージ：</color><color=#8B0000>500×3/3秒（分裂時）、1500/0.5秒（合体時）</color>\n<color=black>スペシャル：</color><color=#8B0000>\n<color=black>※</color>低身植物（直進弾丸を回避する）\n<color=black>※</color>分裂モードでは、6発ごとにヘッドショットが発生し、100万ダメージを与える。\n<color=black>※</color>15発撃つと、15秒間合体モードに移行し、その後再び分裂。\n<color=black>※</color>合体モードでは、攻撃が1タイル範囲のスプラッシュダメージになる。</color>",
             "cost": "\n<size=36>融合レシピ：<color=#8B0000>狙撃ピー→パフキノコ×3</color>"
         },
         {
             "seedType": 1291,
             "name": "鮫キノコ",
             "introduce": "<align=justified><size=36><color=black>「私は広大な海から来たんだ」――鮫キノコは誇らしげに語る。「このサメの擬態で、どんな捕食者も撃退できる。深海でしか進化できない力だ」彼は海キノコたちに過去の冒険譚を語るのが好きだが、海を離れた理由だけは決して明かさない。擬態があまりにもリアルすぎて、本物のサメまで引き寄せてしまうからだ。</color>",
-            "info": "<size=36>海キノコを“捕食”することで、クラーケンキノコの威圧感を借りて敵を撃退する、異質なフュームキノコ。\n\n<color=black>ダメージ：</color><color=#8B0000>20/1.5秒</color>\n<color=black>スペシャル：</color><color=#8B0000>\n<color=black>•</color> 海キノコの種パケットを使用すると、射程が10秒間レーン全体に拡張される。過去3秒以内にクラーケンキノコによって撃退されたゾンビを再度撃退する。</color>",
+            "info": "<size=36>海キノコを“捕食”することで、クラーケンキノコの威圧感を借りて敵を撃退する、異質なフュームキノコ。\n\n<color=black>ダメージ：</color><color=#8B0000>20/1.5秒</color>\n<color=black>スペシャル：</color><color=#8B0000>\n<color=black>※</color>海キノコの種パケットを使用すると、射程が10秒間レーン全体に拡張される。過去3秒以内にクラーケンキノコによって撃退されたゾンビを再度撃退する。</color>",
             "cost": "\n<size=36>融合レシピ：<color=#8B0000>フュームキノコ→海キノコ</color>"
         },
         {

@@ -1733,7 +1733,7 @@
             "seedType": 1129,
             "name": "Mecha-nut",
             "introduce": "<align=justified><size=36><color=black>Some may not realize it, but Wall-nuts have inventors in their community. Inspired by zombie weaponry, they built their own war machines. \"Zombie technology, ironically, only destroys itself,\" says Mecha-nut.</color>",
-            "info": "<size=36>Can receive attributes from Jalapeno or Ice-shroom, with effects upon death.\n\n<color=black>Toughness: </color><color=#8B0000>8000</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Changes form when affected by Ice-shroom or Jalapeno, healing 3000 Toughness upon transformation.\n<color=black>•</color> Releases the current form's effects upon death.\n<color=black>•</color> Absorbs damage for other plants in a 3×3 radius but with the damage doubled.\n<color=black>•</color> Healing can exceed maximum Toughness (up to 4×).\n<color=black>•</color> Recovers 1k HP when fed metal objects. When metal objects on the lawn disappear and no Giga Mecha-nuts are present, every Mecha-nut restores (1k / total number of Mecha-nuts) HP. </color>",
+            "info": "<size=36>Can receive attributes from Jalapeno or Ice-shroom, with effects upon death.\n\n<color=black>Toughness: </color><color=#8B0000>4000</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Changes form when affected by Ice-shroom or Jalapeno, healing 3000 Toughness upon transformation.\n<color=black>•</color> Releases the current form's effects upon death.\n<color=black>•</color> Absorbs damage for other plants in a 3×3 radius but with the damage doubled.\n<color=black>•</color> Healing can exceed maximum Toughness (up to 4×).\n<color=black>•</color> Recovers 1k HP when fed metal objects. When metal objects on the lawn disappear and no Giga Mecha-nuts are present, every Mecha-nut restores (1k / total number of Mecha-nuts) HP. </color>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Mecha Fragments > Wall-nut</color>"
         },
         {
@@ -2614,8 +2614,8 @@
         {
             "seedType": 1255,
             "name": "Drone-nut",
-            "introduce": "<align=justified><size=36><color=black>Some claim zombies have mastered the martial arts to be able to harm plants with falling petals. Most plants dismiss it. But Drone-nut disagrees. \"It’s true,\" he says, floating overhead. \"I've blocked such blows. Three times.\"</color>",
-            "info": "<size=36>A hovering nut that shields its tile from damage.\n\n<color=black>Toughness: </color><color=#8B0000>4000</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Absorbs damage for its own tile.\n<color=black>•</color> If undamaged for 10s, regenerates 50 HP per second.</color>",
+            "introduce": "<align=justified><size=36><color=black>Some claim zombies have mastered the martial arts to be able to harm plants with falling petals. Most plants dismiss it. But Drone-nut disagrees. \"It's true,\" he says, floating overhead. \"I've blocked such blows. Three times.\"</color>",
+            "info": "<size=36>A hovering nut that shields his tile from damage.\n\n<color=black>Toughness: </color><color=#8B0000>4000</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Absorbs damage for his own tile.\n<color=black>•</color> If undamaged for 10s, regenerates 50 HP per second.</color>",
             "cost": "<size=36>Fusion Formula: <color=#8B0000>Wall-nut + Blover</color>"
         },
         {
@@ -2960,6 +2960,13 @@
             "introduce": "<align=justified><size=36><color=black></color>",
             "info": "<size=36>\n\n<color=black>Sun Output: </color><color=#8B0000>25/25s</color>\n<color=black>Special: </color><color=#8B0000>Each time she produces Sun, converts all nearby plant (and hypnotized zombie) projectiles into Sun at a rate of 5 Sun per projectile.</color>",
             "cost": "<size=36>Fusion Formula: <color=#8B0000>Sunflower + Torchwood</color>"
+        },
+        {
+            "seedType": 1305,
+            "name": "Jelly-shroom",
+            "introduce": "<align=justified><size=36><color=black></color>",
+            "info": "<size=36>\n\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Summons a hypnotized Zombie (browncoat) that fights for you after consuming a Sea-shroom.\n<color=black>•</color> When bitten, hypnotizes the attacker, then reverts to a Sea-shroom.</color>",
+            "cost": "<size=36>Fusion Formula: <color=#8B0000>Hypno-shroom > Sea-shroom</color>"
         },
         {
             "seedType": 350,
