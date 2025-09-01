@@ -485,10 +485,10 @@
         },
         {
             "seedType": 906,
-            "name": "Spike-obsidian",
-            "introduce": "<align=justified><size=36><color=black>After being baptized by fire and ice, Spike-obsidian became as hard as steel, but its temperament also became erratic. This change is likely due to the steel that condensed in its mouth, making it reluctant to speak.</color></size>",
-            "info": "<size=36>Spike-obsidian can deal immense damage while also tanking multiple tires.\n\n<color=#4A2900>Usage Condition: Odyssey Mode | Initial Selection</color>\n<color=black>Toughness: </color><color=#8B0000>8000</color>\n<color=black>Damage: </color><color=#8B0000>300×2/1s</color>\n<color=black>Special: </color><color=#8B0000>Possesses the characteristics of Spikerock. Recovers 500 Toughness every 15 seconds.</color>\n<color=black>Odyssey Modifiers:\n</color><color=#8B0000>1. Damage ×5 | Obsidian Spike-nut Subspecies Unlocked\n2. Gains a 95% Damage Reduction</color></size>",
-            "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Spike-ice + Spike-hearth</color>"
+            "name": "Obsidian Spikerock",
+            "introduce": "<align=justified><size=36><color=black>After being baptized by fire and ice, Obsidian Spikerock became as hard as steel, but its temperament also became erratic. This change is likely due to the steel that condensed in its mouth, making it reluctant to speak.</color></size>",
+            "info": "<size=36>Obsidian Spikerock can deal immense damage while also tanking multiple tires.\n\n<color=#4A2900>Usage Condition: Odyssey Mode | Initial Selection</color>\n<color=black>Toughness: </color><color=#8B0000>8000</color>\n<color=black>Damage: </color><color=#8B0000>300×2/1s</color>\n<color=black>Special: </color><color=#8B0000>Possesses the characteristics of Spikerock. Recovers 500 Toughness every 15 seconds.</color>\n<color=black>Odyssey Modifiers:\n</color><color=#8B0000>1. Damage ×5 | Obsidian Spike-nut Subspecies Unlocked\n2. Gains a 95% Damage Reduction</color></size>",
+            "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Ice Spikerock + Hearth Spikerock</color>"
         },
         {
             "seedType": 907,
@@ -662,7 +662,7 @@
             "seedType": 931,
             "name": "Obsidian Spike-nut",
             "introduce": "<align=justified><size=36><color=black>Obsidian Spike-nut loves hugs. \"A warm embrace can soothe even the rowdiest of zombies,\" he says. And sure enough, every zombie he's hugged is now lying peacefully on the lawn... completely still.",
-            "info": "<size=36>Defends against zombies and vehicles with its spikes.\n\n<color=#4A2900>Usage Condition: Odyssey Mode | Unlockable With Spike-obsidian's Modifier</color>\n<color=black>Toughness: </color><color=#8B0000>16000</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Subspecies of Spike-obsidian.\n<color=black>•</color> Reflects 500 damage back to zombies biting it (after Modifier).\n<color=black>•</color> Received damage is capped at 1000.\n<color=black>•</color> Recovers 1500 Toughness per 15 Seconds.\n<color=black>•</color> Can puncture tires, dealing 50% of the maximum Toughness to the vehicle zombie and repelling them.\n<color=black>•</color> Benefits from Spike-obsidian's Odyssey Modifiers.</color>",
+            "info": "<size=36>Defends against zombies and vehicles with its spikes.\n\n<color=#4A2900>Usage Condition: Odyssey Mode | Unlockable With Obsidian Spikerock's Modifier</color>\n<color=black>Toughness: </color><color=#8B0000>16000</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Subspecies of Obsidian Spikerock.\n<color=black>•</color> Reflects 500 damage back to zombies biting it (after Modifier).\n<color=black>•</color> Received damage is capped at 1000.\n<color=black>•</color> Recovers 1500 Toughness per 15 Seconds.\n<color=black>•</color> Can puncture tires, dealing 50% of the maximum Toughness to the vehicle zombie and repelling them.\n<color=black>•</color> Benefits from Obsidian Spikerock's Odyssey Modifiers.</color>",
             "cost": "<size=36>\nConversion Formula: </color><color=#8B0000>Spikerock <-> Wall-nut</color>"
         },
         {
@@ -676,7 +676,7 @@
             "seedType": 933,
             "name": "Thornminator",
             "introduce": "<align=justified><size=36><color=black>Thornminator is one of the top hairstylists in town, revolutionizing botanical fashion with every masterpiece she crafts. \"Real style takes real work,\" she says, twirling a carving knife between her fingers. Hammers and chisels may not be traditional hairstyling tools, but for her, they're essential for \"fixing\" even the most stubborn strands.</color>",
-            "info": "<size=36>Fires Doom-hypno Ice Spikes. When planted, unleashes a barrage of Doom-hypno Ice Spikes.\n\n<color=#4A2900>Usage Condition: Odyssey Mode | Unlockable with Doominator</color>\n<color=black>Damage: </color><color=#8B0000>300/1.5s</color>\n<color=#0077b6>Cryo System: </color><color=#8B0000>Each projectile inflicts chill and adds 20 Cryo points. Deals ×4 damage to frozen zombies.</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Subspecies of Doominator. \n<color=black>•</color> Attacks pierce infinitely, prioritizes air units.\n<color=black>•</color> Has a chance to hypnotize zombies and cause explosive damage—same effect as Doominator.\n<color=black>•</color> When planted, scatter-shoots at least 60 Doom-Hypno Spike-ices, targeting both air and ground enemies.</color>",
+            "info": "<size=36>Fires Doom-hypno Ice Spikes. When planted, unleashes a barrage of Doom-hypno Ice Spikes.\n\n<color=#4A2900>Usage Condition: Odyssey Mode | Unlockable with Doominator</color>\n<color=black>Damage: </color><color=#8B0000>300/1.5s</color>\n<color=#0077b6>Cryo System: </color><color=#8B0000>Each projectile inflicts chill and adds 20 Cryo points. Deals ×4 damage to frozen zombies.</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Subspecies of Doominator. \n<color=black>•</color> Attacks pierce infinitely, prioritizes air units.\n<color=black>•</color> Has a chance to hypnotize zombies and cause explosive damage—same effect as Doominator.\n<color=black>•</color> When planted, scatter-shoots at least 60 Doom-Hypno Ice Spikerocks, targeting both air and ground enemies.</color>",
             "cost": "<size=36>\nConversion Formula: </color><color=#8B0000>Fume-shroom <-> Cactus</color>"
         },
         {
@@ -1264,7 +1264,7 @@
             "seedType": 1062,
             "name": "Scorchweed",
             "introduce": "<align=justified><size=36><color=black>\"Studies reveal that spiciness is actually a type of pain,\" Scorchweed announced, rattling the red thorns on his head. \"I intend to let the unbelieving zombies experience this reality for themselves.\"</color></size>",
-            "info": "<size=36>Scorchweed pops tires and enflames zombies that step on them.\n\n<color=black>Damage: </color><color=#8B0000>40/1 Second</color>\n<color=black>Special: </color><color=#8B0000>Attacks inflict Enflamed Debuff. Scorchweeds can be upgraded to Spike-hearths using a Fertilizer.</color>\n<color=#720026>Enflamed Debuff: </color><color=#8B0000> Damage taken increases by 50%; zombies with this debuff explode on death, spreading it further.</color></size>",
+            "info": "<size=36>Scorchweed pops tires and enflames zombies that step on them.\n\n<color=black>Damage: </color><color=#8B0000>40/1 Second</color>\n<color=black>Special: </color><color=#8B0000>Attacks inflict Enflamed Debuff. Scorchweeds can be upgraded to Hearth Spikerocks using a Fertilizer.</color>\n<color=#720026>Enflamed Debuff: </color><color=#8B0000> Damage taken increases by 50%; zombies with this debuff explode on death, spreading it further.</color></size>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Jalapeno + Spikeweed</color>"
         },
         {
@@ -1346,15 +1346,15 @@
         },
         {
             "seedType": 1074,
-            "name": "Spike-ice",
-            "introduce": "<align=justified><size=36><color=black>After his return from Alaska, Spike-ice couldn't contain his excitement. Eager to freeze the zombies solid, he relished the thought of \"ice\" bursting beneath their feet. He made it a point that everyone use the term \"ice.\" His skin still carried the chill from his Arctic adventure, and his eyes shimmered with the brilliance of unmelting snow.</color></size>",
+            "name": "Ice Spikerock",
+            "introduce": "<align=justified><size=36><color=black>After his return from Alaska, Ice Spikerock couldn't contain his excitement. Eager to freeze the zombies solid, he relished the thought of \"ice\" bursting beneath their feet. He made it a point that everyone use the term \"ice.\" His skin still carried the chill from his Arctic adventure, and his eyes shimmered with the brilliance of unmelting snow.</color></size>",
             "info": "<size=36>Can puncture tires and freeze zombies.\n\n<color=black>Toughness: </color><color=#8B0000>450</color>\n<color=black>Damage: </color><color=#8B0000>40×2/1s</color>\n<color=#0077b6>Cryo System: </color><color=#8B0000>Attacks inflict Chill and add 5 Cryo points.</color>\n<color=black>Special: </color><color=#8B0000>Inherits traits from Spikerock.</color></size>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Ice-shroom > Spikerock</color>"
         },
         {
             "seedType": 1075,
-            "name": "Spike-hearth",
-            "introduce": "<align=justified><size=36><color=black>Not long ago, Spike-hearth traveled to Mexico and was swept away by the vibrant enthusiasm of the locals, quickly falling in love with tacos. Now, he's pouring all his energy into a taco museum alongside Spike-ice, though Spike-ice doesn't seem to share his enthusiasm.</color></size>",
+            "name": "Hearth Spikerock",
+            "introduce": "<align=justified><size=36><color=black>Not long ago, Hearth Spikerock traveled to Mexico and was swept away by the vibrant enthusiasm of the locals, quickly falling in love with tacos. Now, he's pouring all his energy into a taco museum alongside Ice Spikerock, though Ice Spikerock doesn't seem to share his enthusiasm.</color></size>",
             "info": "<size=36>Enflame zombies that step on it and also puncture vehicles.\n\n<color=black>Toughness: </color><color=#8B0000>450</color>\n<color=black>Damage: </color><color=#8B0000>40×2/1s</color>\n<color=#720026>Enflamed Debuff: </color><color=#8B0000>Applies the Enflamed Debuff when attacking zombies.</color>\n<color=black>Special: </color><color=#8B0000>Inherits traits from Spikerock.</color></size>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Jalapeno > Spikerock</color>"
         },
@@ -2090,7 +2090,7 @@
             "seedType": 1180,
             "name": "Frostweed",
             "introduce": "<align=justified><size=36><color=black>Breaking news from the first Plants vs. Zombies Hockey Tournament! Frostweed skated to victory, leaving the Bobsled Zombies scrambling. But now, they're calling foul! \"I did nothing wrong,\" Frostweed insists, adjusting their icy spikes. \"And these springs? Just a little pre-game safety gear.\"",
-            "info": "<size=36>Frostweed can slow down zombies that walk on it.\n\n<color=black>Damage: </color><color=#8B0000>40/1 Second</color>\n<color=black>Special: </color><color=#8B0000>Frostweeds can be upgraded to Spike-ices using a Fertilizer.</color>\n<color=#0077b6>Cryo System: </color><color=#8B0000>Each hit inflicts Chill and adds 10 Cryo points.</color>",
+            "info": "<size=36>Frostweed can slow down zombies that walk on it.\n\n<color=black>Damage: </color><color=#8B0000>40/1 Second</color>\n<color=black>Special: </color><color=#8B0000>Frostweeds can be upgraded to Ice Spikerocks using a Fertilizer.</color>\n<color=#0077b6>Cryo System: </color><color=#8B0000>Each hit inflicts Chill and adds 10 Cryo points.</color>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Spikeweed + Ice-shroom</color>"
         },
         {
