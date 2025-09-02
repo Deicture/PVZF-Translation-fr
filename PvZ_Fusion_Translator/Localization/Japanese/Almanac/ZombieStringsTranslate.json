@@ -502,7 +502,7 @@
             "theZombieType": 125,
             "name": "パルクールゾンビ",
             "introduce": "<align=justified><size=36><color=black>華麗な動きと卓越したスキルで世界的に有名なパルクールゾンビ。だが、そんな称号や名声にはまったく興味がない。「才能だの肩書きだの…そんなのは人間の話だ。ゾンビに何の関係がある？」</color>",
-            "info": "<size=36>自信満々で俊敏な、ゾンビ界のパルクールマスター。\n\n<color=blue>Xiaoxiaosuコラボゾンビ、「ツボ壊しモード」限定登場。</color>\n<color=black>耐久力：</color><color=#4B0082>9527</color>\n<color=black>スペシャル：</color><color=#4B0082>HPが2/3以下になると――レーンを切り替え、移動速度が3倍に上昇</color>"
+            "info": "<size=36>自信満々で俊敏な、ゾンビ界のパルクールマスター。\n\n<color=blue>『Xiaoxiaosu』コラボゾンビ、「ツボ壊しモード」限定登場。</color>\n<color=black>耐久力：</color><color=#4B0082>9527</color>\n<color=black>スペシャル：</color><color=#4B0082>HPが2/3以下になると――レーンを切り替え、移動速度が3倍に上昇</color>"
         },
         {
             "theZombieType": 190,
@@ -513,91 +513,91 @@
         {
             "theZombieType": 200,
             "name": "鮫雷艦ゾンビ",
-            "introduce": "<size=36><color=black>\"An excellent diver should not only be able to dive but also drive a super submarine!\" declared 鮫雷艦ゾンビ as he increased the submarine's horsepower by one gear.</color>",
+            "introduce": "<size=36><color=black>「優れたダイバーは、潜るだけじゃなく、超級潜水艦も操縦できるべきだ！」そう豪語した鮫雷艦ゾンビは、潜水艦のギアを一段上げて、水中の支配者として突き進む。その背後には、雷のような推進音と、鮫のような殺気が漂っている。</color>",
             "info": "<size=36>このゾンビはあるロボット魚に関連していると聞きました。\n\n<color=black>耐久力：</color><color=#4B0082>3000</color>"
         },
         {
             "theZombieType": 201,
             "name": "マイケルゾンボニ",
-            "introduce": "<size=30><color=black>マイケルゾンボニ is not just one zombie; it's a team effort. ゾンボニ sets up the venue, マイケルゾンボニ provides the visual effects, and マイケルゾンビ... was compelled to leave the car because it didn't have a driver's license to greet its passionate plant fans, but the peas seemed a little too excited.</color>",
+            "introduce": "<size=30><color=black>マイケルゾンボニは一体のゾンビではない——それはチームであり、演出であり、伝説である。ゾンボニ：ステージ設営担当。滑走しながら会場を整える。マイケルゾンボニ：視覚効果担当。ライト、煙、そしてゾンビ的カリスマを演出。マイケルゾンビ：本来は車内から挨拶する予定だったが、運転免許がないため降車を命じられた。 熱狂的なプラントファンに手を振るも、ピーシューターの飛び方がちょっと熱烈すぎた。</color>",
             "info": "<size=30>非常に高い防御力とスロー耐性。\n<color=black>耐久力：</color><color=#4B0082>12000</color>\n<color=black>スペシャル：</color><color=#4B0082>死亡時に自動的にマイケルゾンビ、ゾンボニ、ボブスレーゾンビを召喚します。</color>"
         },
         {
             "theZombieType": 202,
             "name": "ギガトライデントナッツゾンビ",
-            "introduce": "<size=31.5><color=black>\"ギガトライデントナッツゾンビ is a skilled fisherman known for his exceptional accuracy with the four tridents he throws, earning him the title of the king of fishermen.\" \"In fact, I used to be a part-time javelin thrower...\" ギガトライデントナッツゾンビ admitted.</color>",
+            "introduce": "<size=31.5><color=black>「ギガトライデントナッツゾンビは、4本のトライデントを正確に投げることで知られる熟練の漁師。その腕前から、ゾンビ界では“漁王”の称号を得ている。」本人いわく：「実は昔、ジャベリン投げのバイトもしてたんだよね…」</color>",
             "info": "<size=31.5>一度に大量のトライデントをプラントに投げます。\n<color=black>耐久力：</color><color=#4B0082>270+7500（装甲）</color>\n<color=black>スペシャル：</color><color=#4B0082>4つのトライデントを投げ、それぞれがプラントに現在の耐久力の20%（最低60）のダメージを与えます。</color>"
         },
         {
             "theZombieType": 203,
-            "name": "ガチェリートリング新聞ゾンビ",
-            "introduce": "<size=28><color=black>\"I'm getting old...\" ガチェリートリング新聞ゾンビ lamented while walking through the street. Despite containing his pressure, it was enough to keep both plants and zombies down. \"Only that guy can still inspire me to fight...\" he muttered as he put away the newspaper and ambled on.</color>",
+            "name": "チェリーガトリング新聞ゾンビ",
+            "introduce": "<size=28><color=black>「歳を取ったな…」と、街を歩きながら呟くチェリーガトリング新聞ゾンビ。彼の内に秘めた圧力は、プラントだけでなく、ゾンビたちまでも黙らせるほどのもの。新聞をそっと畳みながら、彼はこう漏らした：「今でも俺を戦わせてくれるのは…あいつだけだ。」</color>",
             "info": "<size=29>莫大なダメージを与える。\n\n<color=black>ダメージ：</color><color=#4B0082>400→1000（激怒された）</color>\n<color=black>耐久力：</color><color=#4B0082>1500+1500（装甲）</color>\n<color=black>スペシャル：</color><color=#4B0082>新聞が破られると一時的に無敵になり、0.125秒ごとに爆発性のサクランボを発射します。</color>"
         },
         {
             "theZombieType": 204,
             "name": "超級フットボールナッツゾンビ",
-            "introduce": "<size=32><color=black>Stepping out of the shadows, the 超級フットボールナッツゾンビ radiates power, coldness, and a sinister vibe. He adamantly keeps the secret of his strength to himself, asserting that only the darkest darkness can create a being as formidable as he. \"Where is my paint?\" エドガー博士 asked, looking perplexed in his laboratory.</color>",
+            "introduce": "<size=32><color=black>闇から現れたその巨体は、冷気と威圧感をまとい、ただ歩くだけで空気が凍る。彼は自らの強さの秘密を決して語らない。「この世で最も深い闇だけが、俺のような存在を生み出せる」と言い張る。一方、エドガー博士は実験室で困惑していた。「…俺のペンキはどこだ？」と、塗装前の怪物を見てつぶやいた。</color>",
             "info": "<size=32>古い友人？もしかして、以前に会ったことがあるかもしれません。\n\n<color=black>ダメージ：</color><color=#4B0082>100</color>\n<color=black>耐久力：</color><color=#4B0082>3000+12000（装甲）</color>"
         },
         {
             "theZombieType": 205,
             "name": "キーロフ飛空艇",
-            "introduce": "<size=28><color=black>Was that a huge flying object? No, it was actually a gigantic airship, featuring a sturdy shell and the ability to release a squadron of fighters. Even when destroyed, the airship could still wreak havoc on surrounding creatures, causing other zombies to keep their distance, fearing that a crash might send them to their demise.</color>",
+            "introduce": "<size=28><color=black>あれは巨大な飛行物体か？いや、ゾンボス博士が設計した超大型飛空艇である。頑丈な装甲を持ち、空から戦闘部隊を投下するその姿は、まさに空の支配者。そして、撃墜された後ですら危険——墜落の衝撃で周囲の存在を巻き込み、ゾンビたちでさえ距離を取るほど。「巻き添えで消し炭になるのはごめんだ」と、あるゾンビは語る。</color>",
             "info": "<size=32>キーロフ出撃！\n\n<color=black>耐久力：</color><color=#4B0082>3000</color>\n<color=black>スペシャル：</color><color=#4B0082>毎秒キーロフドローンを召喚します。死亡時に墜落し、プラントに大きなダメージを与えます。</color>"
         },
         {
             "theZombieType": 206,
             "name": "キーロフドローン",
-            "introduce": "<size=35><color=black>This is no ordinary aircraft; it is a special plane that has been compressed through water pressure. While the exact method of compression remains a mystery, its battlefield strength rivals that of conventional bombers.</color>",
+            "introduce": "<size=35><color=black>キーロフドローンは、ただの小型航空機ではない。水圧によって圧縮された特殊機体であり、その圧縮方法は今なお謎に包まれている。しかし、その戦闘力は通常の爆撃機に匹敵するとされ、空中からの脅威として恐れられている。</color>",
             "info": "<size=35>キーロフドローンは高速で飛び、飛行中にプラントに爆弾を落とします。\n\n<color=black>ダメージ：</color><color=#4B0082>1000</color>\n<color=black>耐久力：</color><color=#4B0082>200</color>"
         },
         {
             "theZombieType": 207,
             "name": "スーパースターマイケル",
-            "introduce": "<size=30><color=black>スーパースターマイケル, a legendary idol in the zombie world, has extremely high standards for himself. After completing his studies at Edgar's Dance Academy, he mastered the Super Moonwalk, which was named \"The Sixth Wonder of the Zombie World,\" earning him a large fanbase.</color>",
+            "introduce": "<size=30><color=black>ゾンビ界の伝説的アイドル、スーパースターマイケルは、常に自分に最高の基準を課している。エドガー博士のダンスアカデミーを修了後、彼は「スーパー・ムーンウォーク」を習得。その技は「ゾンビ界の第六の奇跡」と称され、彼のファン層は爆発的に拡大した。</color>",
             "info": "<size=32>防御に滑り込む高速ゾンビ。強力な敵です。\n\n<color=black>耐久力：</color><color=#4B0082>3000</color>\n<color=black>スペシャル：</color><color=#4B0082>戦場に滑り込む際にダメージを90%軽減します。その後、おどつてるゾンビを召喚します。</color>"
         },
         {
             "theZombieType": 208,
             "name": "キョンシー",
-            "introduce": "<size=30><color=black>This monster survived the harshest conditions and possesses enormous strength. It avoids brains and roams the world in search of a secluded place.</color>",
+            "introduce": "<size=30><color=black>最も過酷な環境を生き延びた、古代のゾンビ。その肉体は驚異的な強さを誇るが、脳みそには興味を示さない。彼が求めているのは、喧騒から離れた静かな場所——ただそれだけ。世界をさまようその姿には、どこか哀愁が漂う。</color>",
             "info": "<size=30>千年前の亡霊、非常に強力な存在。\n\n<color=black>耐久力：</color><color=#4B0082>3000</color>\n<color=black>ダメージ：</color><color=#4B0082>500</color>\n<color=black>スペシャル：</color><color=#4B0082>時折短い距離をダッシュし、通過したプラントに500ダメージを与えます。死亡時には3×3の範囲でプラントに500ダメージを与えます（カボチャで守られたプラントを除く）。</color>"
         },
         {
             "theZombieType": 209,
             "name": "ポゴキングピエロ",
-            "introduce": "<size=36><color=black>\"I just wanted to follow the trend with this look,\" ポゴキングピエロ says with a shrug whenever his cool appearance comes up. But everyone knows he once had a love story that left a deep mark on him.</color></size>",
+            "introduce": "<size=36><color=black>「この見た目は、ただ流行に乗っただけさ」そう肩をすくめるポゴキングピエロだが、誰もが知っている。かつて彼には深い傷を残した恋物語があったことを。その笑顔の裏には、跳ねるたびに揺れる未練が隠されている。</color></size>",
             "info": "<size=36>ポゴスティックに爆弾が隠されています。\n<color=black>耐久力：</color><color=#4B0082>270+4400（装甲）</color>\n<color=black>スペシャル：</color><color=#4B0082>跳躍中に死亡すると爆発し、キングピエロゾンビに変身します。</color></size>"
         },
         {
             "theZombieType": 210,
             "name": "超級メカボウリング",
-            "introduce": "<size=36><color=black>\"Fish balls? Mecha armor? That’s all that matters,\" says 超級メカボウリング. Sporting an impressive mechanical suit, he feels that’s all he really needs.</color></size>",
+            "introduce": "<size=36><color=black>「魚の団子？メカ装甲？それさえあれば十分だ。」そう語る超級メカボウリングは、重厚なメカスーツを身にまとい、何もかもをなぎ倒すように転がってくる。彼にとって必要なのは、破壊力と好物だけ。それ以外は、レーンの外に弾き飛ばしてしまえばいい。</color></size>",
             "info": "<size=36>超級メカボウリングは方向を変えることができます。\n\n<color=black>耐久力：</color><color=#4B0082>1350</color></size>"
         },
         {
             "theZombieType": 211,
             "name": "接地鮫雷艦ゾンビ</size>",
-            "introduce": "<align=justified><size=36><color=black>Why is it here? Did it emerge from the ground? Or did it fall from the sky? No one really knows. What is certain is that those displaced dirt looking thingies are definitely camouflage.</color></size>",
-            "info": "<size=36>A failed example of a 鮫雷艦ゾンビ test.\n\n<color=black>ダメージ：</color><color=#4B0082>20/0.02秒</color>\n<color=black>耐久力：</color><color=#4B0082>ギガメカナッツのHP/3</color>\n<color=black>スペシャル：</color><color=#4B0082>鮫雷艦ゾンビ, but on land and immobile. Using a ウォールナッツの種パケット on a ギガメカナッツ summons a 催眠された鮫雷艦ゾンビ. The 接地鮫雷艦ゾンビ dies instantly if the ギガメカナッツ summons again or is destroyed.</color></size>"
+            "introduce": "<align=justified><size=36><color=black>「なぜここに？地面から現れたのか？それとも空から落ちてきたのか？」誰にも分からない。ただ一つ確かなのは、周囲の土のようなものはカモフラージュだということ。</color></size>",
+            "info": "<size=36>鮫雷艦ゾンビの失敗作として記録されている。\n\n<color=black>ダメージ：</color><color=#4B0082>20/0.02秒</color>\n<color=black>耐久力：</color><color=#4B0082>超級メカナッツのHP/3</color>\n<color=black>スペシャル：</color><color=#4B0082>地上に固定された鮫雷艦ゾンビ。移動不可、攻撃不可。ウォールナッツの種パケットを超級メカナッツに使用すると、催眠された鮫雷艦ゾンビとして召喚。超級メカナッツが別の鮫雷艦ゾンビを召喚するか、破壊された場合、現在の鮫雷艦ゾンビは即座に消滅する。</color></size>"
         },
         {
             "theZombieType": 212,
-            "name": "黒曜石ガーガンチュア",
-            "introduce": "<size=26><color=black>By ancient writ, it is recorded that the abyssal obsidian armor may only be borne by a body tempered through trials of bitter frost and searing flame. When the kin of zombies art plunged into utmost peril, his visage may yet appear at the heart of the dreadest battlefield. 'Stir not great commotion, lest ye rouse the giant that slumbereth beneath the earth.' A warning to the plants.</color>",
-            "info": "<size=30>古代で邪悪かつ不気味な脅威。\n\n<color=black>耐久力：</color><color=#4B0082>8000+24000（装甲）</color>\n<color=black>スペシャル：</color><color=#4B0082>画面上のすべてのゾンビに90%のダメージ軽減を提供し、地面を叩くたびにシャドウインプを召喚します。また、装甲ガーグの他のスペシャルも引き継ぎます。</color>"
+            "name": "黒曜石装甲ガーガンチュア",
+            "introduce": "<size=26><color=black>古の記録によれば、黒曜石装甲を纏うことが許されるのは、凍てつく試練と灼熱の苦難を乗り越えた肉体のみ。ゾンビの同胞が極限の危機に陥ったとき、この巨人の姿が最も恐るべき戦場の中心に現れるという。「騒ぎを起こすな。地の底に眠るガーガンチュアを目覚めさせるなかれ」——それは、プラントたちへの警告である。</color>",
+            "info": "<size=30>古代で邪悪かつ不気味な脅威。\n\n<color=black>耐久力：</color><color=#4B0082>8000+24000（装甲）</color>\n<color=black>スペシャル：</color><color=#4B0082>芝生上のすべてのゾンビに90%のダメージ軽減を提供し、地面を叩くたびにアビスインプを召喚します。また、装甲ガーガンチュアの特性を継承する。</color>"
         },
         {
             "theZombieType": 213,
-            "name": "シャドウインプ",
-            "introduce": "<size=35><color=black>With a flashy entrance featuring winged blades and a death roll, the シャドウインプ meticulously designed this stunt for the mini-pterosaur's role in Hollytomb's latest hit Jurassic Zombies. Little does anyone know, he was actually just accidentally flung out.</color>",
-            "info": "<size=35>シャドウインプは簡単に防御を突破できます。\n\n<color=black>ダメージ：</color><color=#4B0082>200</color>\n<color=black>耐久力：</color><color=#4B0082>1500</color>"
+            "name": "アビスインプ",
+            "introduce": "<size=35><color=black>翼刃を広げ、デスロールで華麗に登場——まるで映画のワンシーン。このスタントは、ホーリートゥームの最新作『ジュラシック・ゾンビーズ』でミニ翼竜役を演じるために綿密に設計された…はずだった。だが真実は、ただ勢いよく投げ飛ばされただけ。本人も着地後に「…え、今の撮ってた？」と呟いたとか。</color>",
+            "info": "<size=35>アビスインプは簡単に防御を突破できます。\n\n<color=black>ダメージ：</color><color=#4B0082>200</color>\n<color=black>耐久力：</color><color=#4B0082>1500</color>"
         },
         {
             "theZombieType": 214,
             "name": "クジラ乗りガトリング",
-            "introduce": "<size=32><color=black>クジラ乗りガトリング always wakes up in a terrible mood — especially when a whale riding colleague drags him to work. Fueled by rage, he's ready to blow away any plants in his path before heading back for a nap.</color>",
+            "introduce": "<size=32><color=black>毎朝、最悪の気分で目覚めるクジラ乗りガトリング。特に、クジラに乗った同僚に無理やり連れてこられた日は最悪だ。怒りに燃えながら、プラントを吹き飛ばし、仕事が終わればすぐに昼寝へ直行。「撃って、寝る。それだけだ」と本人は語る。</color>",
             "info": "<size=32>ジャンプして防御を破壊し、爆発性のサクランボを発射します！\n\n<color=black>耐久力：</color><color=#4B0082>1500</color>\n<color=black>スペシャル：</color><color=#4B0082>芝生に侵入して3秒後に爆発性のチェリー爆弾を発射し始めます。</color>"
         },
         {
@@ -657,248 +657,248 @@
         {
             "theZombieType": 224,
             "name": "<color=#4B0082><u>びっくり箱のピエロ女王</u>",
-            "introduce": "<align=justified><size=36><color=black>The Queen's gaze alone is enough to make her servants tremble. None dare defy her. But power is not her only delight—she loves to give. Within her ornate gift box, toys and trinkets await young hands... along with bombs primed to surprise. And oh, how she loves surprises.</color>",
-            "info": "<size=36>びっくり箱のピエロ女王 is very keen on creating \"explosive scenes.\"\n\n<color=black>耐久力：</color><color=#4B0082>48000</color>\n<color=black>スペシャル：</color><color=#4B0082>\n<color=black>※</color>ミニボス。催眠と捕食無効。\n<color=black>※</color>Crushes plants.\n<color=black>※</color>Explodes on death, dealing physical damage.\n<color=black>※</color>Emerges from her box at regular intervals, causing one of the following effects at random:\n①Summons キングピエロゾンビ on every tile of the fifth column and each column to its right.\n②Same but summons ポゴキングピエロ instead.\n③Release an explosion in her column, dealing physical damage.</color>"
+            "introduce": "<align=justified><size=36><color=black>その視線ひとつで、従者たちは震え上がる。誰も逆らえない。だが、彼女の喜びは支配だけではない——それは贈与でもある。豪華なギフトボックスの中には、子供の手を引き寄せるおもちゃと小物、そして…爆発寸前のサプライズが潜んでいる。「驚きがあるからこそ、人生は美しいのよ」そう微笑む彼女の周囲は、常に爆発寸前。</color>",
+            "info": "<size=36>優雅にして危険。贈り物の中身は、誰にも予測できない。\n\n<color=black>耐久力：</color><color=#4B0082>48000</color>\n<color=black>スペシャル：</color><color=#4B0082>\n<color=black>※</color>ミニボス。催眠と捕食無効。\n<color=black>※</color>プラントを圧殺する。\n<color=black>※</color>死亡時に爆発し、周囲に物理ダメージ。\n<color=black>※</color>一定時間ごとに箱から出現し、以下のいずれかの効果をランダムに発動：\n①第5列以降の全タイルにキングピエロゾンビを召喚。\n②第5列以降の全タイルにポゴキングピエロを召喚。\n③自身の列に爆発を発生させ、物理ダメージを与える。</color>"
         },
         {
             "theZombieType": 225,
             "name": "超級バックショット大将",
-            "introduce": "<align=justified><size=36><color=black>超級バックショット大将 is a warrior made of iron — iron body, iron will, iron bullets, and an ironic attitude towards complaints from his colleagues. He firmly believes that the zombies being knocked back by his bullets must simply lack the kind of iron-refining training he’s undergone.</color>",
-            "info": "<size=36>An unstoppable warrior. Fearless and peerless.\n\n<color=black>ダメージ：</color><color=#4B0082>80/0.1秒</color>\n<color=black>耐久力：</color><color=#4B0082>3000+3000（装甲）</color>\n<color=black>スペシャル：</color><color=#4B0082>撃退無効。Fires 鉄ピー豆 at your defense at a ridiculous rate、催眠されたゾンビを撃退できます。</color>"
+            "introduce": "<align=justified><size=36><color=black>鉄の肉体、鉄の意志、鉄の弾丸——そして、同僚の愚痴に対する皮肉たっぷりの態度。 「俺の弾で吹き飛ばされるようなゾンビは、鉄の鍛錬が足りないだけだ」 そう語る彼は、恐れ知らずで無敵の戦士。</color>",
+            "info": "<size=36>鉄でできた不屈の司令官。撃退？そんなものは存在しない。\n\n<color=black>ダメージ：</color><color=#4B0082>80/0.1秒</color>\n<color=black>耐久力：</color><color=#4B0082>3000+3000（装甲）</color>\n<color=black>スペシャル：</color><color=#4B0082>撃退無効。高速で鉄ピー豆を連射し、前方の防衛を粉砕。催眠されたゾンビを撃退できます。</color>"
         },
         {
             "theZombieType": 226,
             "name": "アルファアサシン部隊",
-            "introduce": "<align=justified><size=36><color=black>The アルファアサシン部隊 moves like shadows, striking faster than a breath and leaving no trace behind—except for the occasional zombie body, of course. They never miss a target, and they never leave anyone alive to tell the tale.</color>",
-            "info": "<size=36>Typically operating in pairs, with elite members deploying as a full squad when necessary.\n\n<color=black>ダメージ：</color><color=#4B0082>500×2</color>\n<color=black>耐久力：</color><color=#4B0082>6000+6000（盾膜）</color>\n<color=black>スペシャル：</color><color=#4B0082>\n<color=black>※</color>催眠無効。Appear in pairs. When appearing as a miniboss, 5 spawn in one lane at once, with their health increased by 5×.\n<color=black>※</color>If they take fatal damage while any member of the group is still alive, they become incapacitated. Otherwise, the whole squad dies simultaneously.\n<color=black>※</color>While incapacitated, they're immune to damage and knockback (only for the first occasion), block projectiles, but won't be targeted by plants.\n<color=black>※</color>After 10秒 of incapacitation, they revive with full health, charge forward 2.5タイル, dealing 500 damage to all plants they collide with, and trigger a Jack-in-the-Box Explosion.\n<color=black>※</color>If killed by Chompers or other 即死 methods, both they and their squad immediately perish.</color>\n<color=black>Odyssey Modifiers:\n</color><color=#4B0082>①Now always invincible when incapacitated.\n②Can now appear as a Mini-boss.</color>"
+            "introduce": "<align=justified><size=36><color=black>息よりも速く動き、影のように消える。アルファアサシン部隊は、標的を外すことなく、痕跡を残さず、ただゾンビの死体だけを置いていく。彼らは決して単独で行動せず、必要とあらば精鋭部隊として一斉展開される。「目撃者がいないのは、目撃者が残らないからだ」——それが彼らの流儀。</color>",
+            "info": "<size=36>影のように現れ、嵐のように消える。ゾンビ界の暗殺精鋭部隊。\n\n<color=black>ダメージ：</color><color=#4B0082>500×2</color>\n<color=black>耐久力：</color><color=#4B0082>6000+6000（盾膜）</color>\n<color=black>スペシャル：</color><color=#4B0082>\n<color=black>※</color>催眠無効。通常はペアで出現。ミニボスとして登場時、1レーンに5体同時出現、HPが5倍に増加\n<color=black>※</color>致命ダメージを受けた際、他の部隊員が生存していれば戦闘不能状態に移行。\n<color=black>※</color>戦闘不能中、ダメージ無効・撃退無効（初回のみ）、 弾を遮断。プラントにターゲットされない。\n<color=black>※</color>10秒後に復活、HP全回復、2.5タイル前進しながら突撃、接触したプラントに500ダメージ、びっくり箱の爆発を発動。\n<color=black>※</color>弱点：即死攻撃（チョンパーなど）で倒された場合：部隊全体が即座に消滅</color>\n<color=black>旅行修正効果：\n</color><color=#4B0082>①戦闘不能時は常に不死状態\n②ミニボスとして登場可能</color>"
         },
         {
             "theZombieType": 227,
             "name": "氷トールナッツ歩哨ゾンビ",
-            "introduce": "<align=justified><size=36><color=black>Clad in armor forged from solid ice, wielding a blade tempered by fire and frost, 氷トールナッツ歩哨ゾンビ returns to the lawn stronger and sharper than ever—only to smash through… zombies ahead of him?</color>",
-            "info": "<size=36>氷トールナッツゾンビs with icy claws. They pack a punch.\n\n<color=black>耐久力：</color><color=#4B0082>270+1100（装甲）</color>\n<color=black>スペシャル：</color><color=#4B0082>氷トールナッツゾンビの特性を継承する。Transformed from regular zombies by 制覇キノコ and Thornminator.</color>"
+            "introduce": "<align=justified><size=36><color=black>氷で鍛えられた装甲、炎と霜で鍛えられた剣を携え、氷トールナッツ歩哨ゾンビは再び芝生へと舞い戻る。その力はかつての自分を凌駕し、前方のプラントを粉砕する…はずだった。だが、彼の進路に立ちはだかるのは味方のゾンビたち。「前にいるものは、すべて敵だ」——それが彼の冷徹な戦闘本能。</color>",
+            "info": "<size=36>氷の爪による高威力近接攻撃。\n\n<color=black>耐久力：</color><color=#4B0082>270+1100（装甲）</color>\n<color=black>スペシャル：</color><color=#4B0082>氷トールナッツゾンビの特性を継承する。制覇キノコ・制覇サボテンによって変異。</color>"
         },
         {
             "theZombieType": 228,
             "name": "<color=#4B0082><u>雪の女王</u>",
-            "introduce": "<align=justified><size=36><color=black>With blades of ice and a cloak of blizzard, she carves statues from shattered flesh and molds divine power with unyielding will. An artificial deity, a specter of the tundra. When hell reunites us, will she remember this land of sorrow?</color>",
-            "info": "<size=36>Sovereign of the Frozen Tundra.\n\n<color=black>ダメージ：</color><color=#4B0082>1000</color>\n<color=black>耐久力：</color><color=#4B0082>64000</color>\n<color=black>スペシャル：</color><color=#4B0082>\n<color=black>※</color>ミニボス。冷却、撃退、バター無効。\n<color=black>※</color>Crushes plants. Attacks freeze plants for 5秒.\n<color=black>※</color>Upon entering, performs a slash that damages all plants in front (can be protected by Pumpkin), then releases 5 snowballs around her lane, each damaging a 3×3グリッド.\n<color=black>※</color>Afterwards, slashes or performs a normal attack every 3秒 — lower HP increases chance for slash.\n<color=black>※</color>Normal attacks launch 4 ice swords forward.\n<color=black>※</color>On Snow map, has a chance to summon a blizzard instantly.</color>"
+            "introduce": "<align=justified><size=36><color=black>氷の刃と吹雪のマントを纏い、雪の女王は砕けた肉体から彫像を刻み、揺るぎなき意志で神性を形作る。彼女は人工の神であり、雪原の亡霊。「地獄で再会する時、彼女はこの悲しみの地を覚えているだろうか」。</color>",
+            "info": "<size=36>氷の神性が歩むとき、戦場は静寂と破壊に包まれる。\n\n<color=black>ダメージ：</color><color=#4B0082>1000</color>\n<color=black>耐久力：</color><color=#4B0082>64000</color>\n<color=black>スペシャル：</color><color=#4B0082>\n<color=black>※</color>ミニボス。冷却・撃退・バター無効。\n<color=black>※</color>プラントを圧殺し、攻撃時に5秒間凍結状態を付与。\n<color=black>※</color>登場時、前方のプラントに斬撃ダメージ（パンプキンで防御可能）。自身のレーンに5つの雪玉を展開、それぞれ3×3グリッドに物理ダメージ。\n<color=black>※</color>以降、3秒ごとに攻撃、HPが低いほど斬撃発動率が上昇。\n<color=black>※</color>通常攻撃は氷の剣を4本前方に発射。\n<color=black>※</color>雪原では、登場時に即時吹雪を召喚する可能性あり。</color>"
         },
         {
             "theZombieType": 300,
-            "name": "ガトリングチェリー学者ゾンビ",
-            "introduce": "<align=justified><size=36><color=black>\"There's always more to life than just math puzzles… like the reed outside the window… or tonight’s moonlight,\" mumbles ガトリングチェリー学者ゾンビ. \"But first, I really need to solve this Sudoku. It's… surprisingly hard.\"</color>",
-            "info": "<size=36>激怒すると、チェリー爆弾を連射する。\n\n<color=black>ダメージ：</color><color=#4B0082>400（噛む）、1000（チェリー爆発）</color>\n<color=black>耐久力：</color><color=#4B0082>1500+1500（盾膜）</color>\n<color=black>スペシャル：</color><color=#4B0082>\n<color=black>※</color>ティア1進化ゾンビ\n<color=black>※</color>学者ゾンビの特性を継承する。\n<color=black>※</color>After losing his paper, fires 4 explosive cherry bullets every 0.5秒.</color>"
+            "name": "チェリーガトリング学者ゾンビ",
+            "introduce": "<align=justified><size=36><color=black>「人生は数式だけじゃない…窓の外の葦とか、今夜の月光とか…」そう呟くチェリーガトリング学者ゾンビは、数独に苦戦しながらも、静かな哲学を語る。だが、大切な紙を失った瞬間、彼の思考は爆発へと転じる。「まずはこの数独を…いや、もういい。撃つ。」</color>",
+            "info": "<size=36>激怒すると、チェリー爆弾を連射する。\n\n<color=black>ダメージ：</color><color=#4B0082>400（噛む）、1000（チェリー爆発）</color>\n<color=black>耐久力：</color><color=#4B0082>1500+1500（盾膜）</color>\n<color=black>スペシャル：</color><color=#4B0082>\n<color=black>※</color>ティア1進化ゾンビ\n<color=black>※</color>学者ゾンビの特性を継承\n<color=black>※</color>紙を失うと、0.5秒ごとに爆発チェリー弾を4発発射</color>"
         },
         {
             "theZombieType": 301,
-            "name": "ガトリングチェリー学士ゾンビ",
-            "introduce": "<align=justified><size=36><color=black>A renowned demolition lecturer at Zombie International University, ガトリングチェリー学士ゾンビ only agreed to come after チェリーＺ教授 promised three things: cherry pie, big explosions, and Zuma. \"Good ol' Cherryz wasn't wrong,\" he says.</color>",
-            "info": "<size=36>激怒する前に、チェリー爆弾を連射する。\n\n<color=black>ダメージ：</color><color=#4B0082>400（噛む）、1000（チェリー爆発）</color>\n<color=black>耐久力：</color><color=#4B0082>3000+3000（盾膜）</color>\n<color=black>スペシャル：</color><color=#4B0082>\n<color=black>※</color>ティア2進化ゾンビ\n<color=black>※</color>前のティアから特性を継承する\n<color=black>※</color>Fires 4 explosive cherries every 1.5秒 even before losing his newspaper.</color>"
+            "name": "チェリーガトリング学士ゾンビ",
+            "introduce": "<align=justified><size=36><color=black>ゾンビ国際大学の著名な爆破学講師、チェリーガトリング学士ゾンビ。彼が戦場に現れることを承諾したのは、チェリーＺ教授の三つの約束があったから：チェリーパイ、大爆発、そしてズーマ。「チェリーＺ教授は、やっぱり間違ってなかったな」と、彼は満足げに語る。</color>",
+            "info": "<size=36>激怒する前に、チェリー爆弾を連射する。\n\n<color=black>ダメージ：</color><color=#4B0082>400（噛む）、1000（チェリー爆発）</color>\n<color=black>耐久力：</color><color=#4B0082>3000+3000（盾膜）</color>\n<color=black>スペシャル：</color><color=#4B0082>\n<color=black>※</color>ティア2進化ゾンビ\n<color=black>※</color>前のティアから特性を継承\n<color=black>※</color>新聞を失う前に、1.5秒ごとに爆発チェリー弾を4発発射</color>"
         },
         {
             "theZombieType": 302,
-            "name": "ガトリングチェリー博士ゾンビ",
-            "introduce": "<align=justified><size=36><color=black>To advance in explosive sciences, ガトリングチェリー博士ゾンビ is heading abroad. His cherry pie stash strapped to his back? Just part of being prepared.</color>",
-            "info": "<size=36>Graduated magna cum bombis — ready to show it.\n\n<color=black>ダメージ：</color><color=#4B0082>400（噛む）、1000（チェリー爆発）</color>\n<color=black>耐久力：</color><color=#4B0082>6000+6000（盾膜）</color>\n<color=black>スペシャル：</color><color=#4B0082>\n<color=black>※</color>ティア3進化ゾンビ\n<color=black>※</color>前のティアから特性を継承する\n<color=black>※</color>When angered, picks up his ammo pack and fires 1 extra cherry every 0.5秒.</color>"
+            "name": "チェリーガトリング博士ゾンビ",
+            "introduce": "<align=justified><size=36><color=black>爆破科学のさらなる高みを目指し、海外研修に旅立つ博士ゾンビ。背中にくくりつけたチェリーパイの備蓄は、準備の一環にすぎない。だが、彼の怒りが引き金を引くとき——弾薬パックを手に取り、火力が倍増する。「学びとは爆発だ。怒りもまた、研究材料だ。」</color>",
+            "info": "<size=36>旅する爆破博士。怒りが研究成果を加速させる。\n\n<color=black>ダメージ：</color><color=#4B0082>400（噛む）、1000（チェリー爆発）</color>\n<color=black>耐久力：</color><color=#4B0082>6000+6000（盾膜）</color>\n<color=black>スペシャル：</color><color=#4B0082>\n<color=black>※</color>ティア3進化ゾンビ\n<color=black>※</color>前のティアから特性を継承\n<color=black>※</color>紙を失うと、0.5秒ごとに爆発チェリー弾を5発発射（+1弾）</color>"
         },
         {
             "theZombieType": 303,
             "name": "超級フットボールゾンビ",
-            "introduce": "<align=justified><size=36><color=black>Tired of the spotlight, 超級フットボールゾンビ swapped out his bright red jersey for a pitch-black one that blends into the night. Unfortunately, the new look makes him resemble a bank robber more than a footballer.</color>",
-            "info": "<size=36>A linebacker geared for stealth.\n\n<color=black>耐久力：</color><color=#4B0082>6000+6000（装甲）</color>\n<color=black>スペシャル：</color><color=#4B0082>ティア1進化ゾンビ</color>"
+            "introduce": "<align=justified><size=36><color=black>スポットライトに疲れた超級フットボールゾンビは、鮮やかな赤のユニフォームを脱ぎ捨て、夜に溶け込む漆黒のジャージを選んだ。だが、その新しい姿はフットボール選手というより銀行強盗に見えるらしく、ゾンビ仲間からも微妙な反応を受けている。「目立たないことが、今の俺の戦術だ」と本人は語る。</color>",
+            "info": "<size=36>闇に潜むラインバッカー。静かに、しかし確実に押し潰す。\n\n<color=black>耐久力：</color><color=#4B0082>6000+6000（装甲）</color>\n<color=black>スペシャル：</color><color=#4B0082>ティア1進化ゾンビ</color>"
         },
         {
             "theZombieType": 304,
             "name": "超級フットボールナッツエリートゾンビ",
-            "introduce": "<align=justified><size=36><color=black>Emerging from the depths of an eerie realm, 超級フットボールナッツエリートゾンビ is a living mystery. He embodies being dark, dangerous, and disoriented. Even he can't recall his origins, only that the past feels like a lucid dream that fades with dawn.</color>",
-            "info": "<size=36>A hardened warrior, fearless in the dark.\n\n<color=black>耐久力：</color><color=#4B0082>12000+12000（装甲）</color>\n<color=black>スペシャル：</color><color=#4B0082>\n<color=black>※</color>ティア2進化ゾンビ\n<color=black>※</color>Regenerates 5% 最大HP every 3秒.</color>"
+            "introduce": "<align=justified><size=36><color=black>不気味な領域の深淵から現れた、超級フットボールナッツエリートゾンビ。その存在は、闇・危険・混乱の象徴。彼自身も自らの起源を思い出せない。 ただ、過去は夜明けとともに消える明晰夢のようだったと語る。 彼は、闇の中でこそ真価を発揮する鍛え抜かれた戦士。</color>",
+            "info": "<size=36>記憶なき闇の戦士。その一歩が静寂を切り裂く。\n\n<color=black>耐久力：</color><color=#4B0082>12000+12000（装甲）</color>\n<color=black>スペシャル：</color><color=#4B0082>\n<color=black>※</color>ティア2進化ゾンビ\n<color=black>※</color>3秒ごとに最大HPの5%を回復</color>"
         },
         {
             "theZombieType": 305,
             "name": "超級フットボールナッツリーダーゾンビ",
-            "introduce": "<align=justified><size=36><color=black>Right-hand zombie to the Striker, 超級フットボールナッツリーダーゾンビ is admired by subordinates and trusted by command. He's loyal, skilled, and confused why commendations never come in the form of fresh brains.</color>",
-            "info": "<size=36>Tears through the frontlines with ruthless power.\n\n<color=black>ダメージ：</color><color=#4B0082>200（噛む）</color>\n<color=black>耐久力：</color><color=#4B0082>24000+24000（装甲）</color>\n<color=black>スペシャル：</color><color=#4B0082>\n<color=black>※</color>ティア3進化ゾンビ\n<color=black>※</color>前のティアから特性を継承する\n<color=black>※</color>撃退、冷却、バター無効。\n<color=black>※</color>Bites disable plant healing and make victims receive triple damage for 1秒.</color>"
+            "introduce": "<align=justified><size=36><color=black>究極フットボールストライカーの右腕として知られる指揮官ゾンビ。部下からは尊敬され、上層部からは信頼される存在。忠誠心と戦闘技術に優れた彼だが、表彰が脳みそでないことに少し不満を抱いている。「俺の働きに見合う報酬は…新鮮な脳みそだろ？」</color>",
+            "info": "<size=36>前線を切り裂く冷酷なリーダー。\n\n<color=black>ダメージ：</color><color=#4B0082>200（噛む）</color>\n<color=black>耐久力：</color><color=#4B0082>24000+24000（装甲）</color>\n<color=black>スペシャル：</color><color=#4B0082>\n<color=black>※</color>ティア3進化ゾンビ\n<color=black>※</color>前のティアから特性を継承\n<color=black>※</color>撃退・冷却・バター無効\n<color=black>※</color>噛むとプラントの回復を無効化、1秒間、被ダメージが3倍に増加</color>"
         },
         {
             "theZombieType": 306,
             "name": "超級バックショット大元帥",
-            "introduce": "<align=justified><size=36><color=black>Feared on the battlefield, beloved off it. 超級バックショット大元帥 dazzles troops with his signature trick: hiding bullets in his banner.</color>",
-            "info": "<size=36>Suppressive fire that doesn't cease.\n\n<color=black>ダメージ：</color><color=#4B0082>200（噛む）、80/0.1秒（バックショット）</color>\n<color=black>耐久力：</color><color=#4B0082>24000+24000（装甲）</color>\n<color=black>スペシャル：</color><color=#4B0082>\n<color=black>※</color>ティア3進化ゾンビ\n<color=black>※</color>撃退、冷却、バター無効。</color>"
+            "introduce": "<align=justified><size=36><color=black>戦場では恐れられ、戦場外では愛される存在。超級バックショット大元帥は、部隊を魅了する名物トリックを持っている——それは、弾丸を旗の中に隠すこと。</color>",
+            "info": "<size=36>抑圧の嵐が止むことはない。\n\n<color=black>ダメージ：</color><color=#4B0082>200（噛む）、80/0.1秒（鉄のピー豆）</color>\n<color=black>耐久力：</color><color=#4B0082>24000+24000（装甲）</color>\n<color=black>スペシャル：</color><color=#4B0082>\n<color=black>※</color>ティア3進化ゾンビ\n<color=black>※</color>撃退・冷却・バター無効</color>"
         },
         {
             "theZombieType": 307,
             "name": "軍曹マイケルゾンビ",
-            "introduce": "<align=justified><size=36><color=black>Zombie pop idol and fan-favorite, 軍曹マイケルゾンビ can't go anywhere without a swarm of screaming fans. He's learning new moves not just for his global tour, but to dodge fangirls.</color>",
-            "info": "<size=36>Enters in moonwalk with バックダンサー.\n\n<color=black>耐久力：</color><color=#4B0082>3000</color>\n<color=black>スペシャル：</color><color=#4B0082>\n<color=black>※</color>ティア1進化ゾンビ\n<color=black>※</color>Enters with 3秒 moonwalk, then summons 4 超級おどつてるゾンビ.</color>"
+            "introduce": "<align=justified><size=36><color=black>ゾンビ界のポップアイドルにして、ファン人気No.1の軍曹マイケルゾンビ。どこへ行っても悲鳴と歓声の嵐に包まれ、最近では新しいダンスを覚える理由が「ファンから逃げるため」になっているとか。「ツアーのためでもあるけど…正直、追いかけられるのは疲れるんだよね」と語る。</color>",
+            "info": "<size=36>ステージでも戦場でも輝く、ゾンビ界のスーパースター。\n\n<color=black>耐久力：</color><color=#4B0082>3000</color>\n<color=black>スペシャル：</color><color=#4B0082>\n<color=black>※</color>ティア1進化ゾンビ\n<color=black>※</color>登場時に3秒間のムーンウォーク演出。ムーンウォーク終了後、超級おどつてるゾンビを4体召喚</color>"
         },
         {
             "theZombieType": 308,
             "name": "司令官マイケルゾンビ",
-            "introduce": "<align=justified><size=36><color=black>At the peak of fame, power, and performance, 司令官マイケルゾンビ just needs a stage to share his joy with the world.</color>",
-            "info": "<size=36>Moonwalks in style, then rallies the crowd.\n\n<color=black>耐久力：</color><color=#4B0082>6000</color>\n<color=black>スペシャル：</color><color=#4B0082>\n<color=black>※</color>ティア2進化ゾンビ\n<color=black>※</color>Enters with a 3秒 sliding moonwalk. On reaching 4th column or being blocked, ends moonwalk and then summons 4 超級おどつてるゾンビ.</color>"
+            "introduce": "<align=justified><size=36><color=black>名声、実力、そしてパフォーマンスの頂点に立つ司令官マイケルゾンビ。彼に必要なのは、喜びを世界と分かち合うステージだけ。ムーンウォークで華麗に登場し、観客（ゾンビ）を熱狂させるその姿は、まさにゾンビ界のスーパースター司令官。「戦場もステージも、俺の足元で輝くんだ。」</color>",
+            "info": "<size=36>滑るように現れ、踊るように指揮する。ゾンビ界の頂点に立つ者。\n\n<color=black>耐久力：</color><color=#4B0082>6000</color>\n<color=black>スペシャル：</color><color=#4B0082>\n<color=black>※</color>ティア2進化ゾンビ\n<color=black>※</color>登場時に3秒間のスライディング・ムーンウォークを披露。第4列に到達するか、障害物に阻まれるとムーンウォーク終了。その直後に超級おどつてるゾンビを4体召喚</color>"
         },
         {
             "theZombieType": 309,
             "name": "将軍マイケルゾンビ",
-            "introduce": "<align=justified><size=36><color=black>Dashing steps, haunting twirls. The dance prodigy has outgrown the Edgar Academy. Now, fresh from Jackson Dance Academy, he's shooting an MV with his bodyguard's help. Don't forget to film his signature 45° bow — if you survive.</color>",
-            "info": "<size=36>Stylish arrival, dazzling encore.\n\n<color=black>耐久力：</color><color=#4B0082>12000</color>\n<color=black>スペシャル：</color><color=#4B0082>\n<color=black>※</color>ティア3進化ゾンビ\n<color=black>※</color>Ignores plants for 3秒 while sliding in with a moonwalk to the 4th column. Then summons 8 超級おどつてるゾンビ.</color>"
+            "introduce": "<align=justified><size=36><color=black>華麗なステップ、幽玄な旋回。かつてエドガー・アカデミーを飛び出したダンスの天才は、今やジャクソン・ダンス・アカデミーの卒業生としてMV撮影に挑む。ボディガードの支援を受けながら、彼は戦場をステージに変える。「俺の45度の礼を撮り逃すなよ…生きていれば、だけどな。」</color>",
+            "info": "<size=36>芸術と破壊が交差する瞬間。彼の一礼が、戦場の空気を変える。\n\n<color=black>耐久力：</color><color=#4B0082>12000</color>\n<color=black>スペシャル：</color><color=#4B0082>\n<color=black>※</color>ティア3進化ゾンビ\n<color=black>※</color>登場時、3秒間プラントを無視してスライディング・ムーンウォーク。第4列に到達するとムーンウォーク終了。その直後に超級おどつてるゾンビを8体召喚</color>"
         },
         {
             "theZombieType": 310,
             "name": "超級鮫雷艦ゾンビ",
-            "introduce": "<align=justified><size=36><color=black>A knockoff developed by a rival of Gfishtus Corps. It's said to perform identically to the original, but Gfishtus insists this model leaks.</color>",
-            "info": "<size=36>Edgar's latest mass-produced submarine unit.\n\n<color=black>耐久力：</color><color=#4B0082>3000</color>\n<color=black>スペシャル：</color><color=#4B0082>\n<color=black>※</color>ティア1進化ゾンビ\n<color=black>※</color>Moves swiftly in water lanes, crushing any plants in its path.</color>"
+            "introduce": "<align=justified><size=36><color=black>『Gfishtus Corps』のライバル企業によって開発された模造品。性能は本家・鮫雷艦ゾンビと同等とされているが、Gfishtus側は「このモデルは水漏れする」と断言している。</color>",
+            "info": "<size=36>エドガー博士による最新の量産型潜水ユニットとして、戦場に投入されている。\n\n<color=black>耐久力：</color><color=#4B0082>3000</color>\n<color=black>スペシャル：</color><color=#4B0082>\n<color=black>※</color>ティア1進化ゾンビ\n<color=black>※</color>水レーンユニット、高速移動しながら接触したプラントを圧殺。</color>"
         },
         {
             "theZombieType": 311,
             "name": "ミサイル鮫雷艦ゾンビ",
-            "introduce": "<align=justified><size=36><color=black>\"Flawless\" weapons are overrated. A true victory lies in overwhelming missile fire raining from the skies. This modified mine-layer submarine functions as a mobile underwater missile silo, the starter of that fire.</color>",
-            "info": "<size=36>Lobs bombs nonstop at the frontline.\n\n<color=black>耐久力：</color><color=#4B0082>6000</color>\n<color=black>スペシャル：</color><color=#4B0082>\n<color=black>※</color>ティア2進化ゾンビ\n<color=black>※</color>Fires 1 bomb every 1.5秒 aimed at 2タイル ahead. The bomb explodes like a Jack-in-the-Box explosion but can be shot down if it takes 1000 damage mid-air.</color>"
+            "introduce": "<align=justified><size=36><color=black>「完璧な兵器なんて退屈だ。勝利とは、空から降り注ぐ圧倒的なミサイルの嵐にある。」この改造型の機雷潜水艦は、移動式の水中ミサイルサイロとして設計され、戦場に火を灯す存在。</color>",
+            "info": "<size=36>芝生に火をつける潜水艦。爆発の始まりは、彼の登場から。\n\n<color=black>耐久力：</color><color=#4B0082>6000</color>\n<color=black>スペシャル：</color><color=#4B0082>\n<color=black>※</color>ティア2進化ゾンビ\n<color=black>※</color>1.5秒ごとに爆弾を1発投擲、2タイル前方を狙って飛行。着弾時、びっくり箱の爆発を発生。空中で1000ダメージを受けると撃墜可能。mid-air.</color>"
         },
         {
             "theZombieType": 312,
             "name": "チャージャー鮫雷艦ゾンビ",
-            "introduce": "<align=justified><size=36><color=black>This turbo-powered sub's sole purpose: charge into and disrupt enemy lines, creating weak spots for allies to attack. Critics say it sacrifices too much for speed, but Edgar shrugs—\"All I need is moving forward, at all costs.\"</color>",
-            "info": "<size=36>Blitzes the water lanes at reckless speed.\n\n<color=black>耐久力：</color><color=#4B0082>6000</color>\n<color=black>スペシャル：</color><color=#4B0082>\n<color=black>※</color>ティア2進化ゾンビ\n<color=black>※</color>Rushes down water lane plants with extreme speed.</color>"
+            "introduce": "<align=justified><size=36><color=black>敵陣を突き崩し、味方の突破口を作ることだけがチャージャー鮫雷艦ゾンビの使命。その速度は常軌を逸しており、一部の批評家からは「犠牲が多すぎる」と指摘される。だが、エドガー博士は肩をすくめて言う——「必要なのは、前進することだけだ。どんな代償を払っても。」</color>",
+            "info": "<size=36>水レーンを突進する破壊の使者。\n\n<color=black>耐久力：</color><color=#4B0082>6000</color>\n<color=black>スペシャル：</color><color=#4B0082>\n<color=black>※</color>ティア2進化ゾンビ\n<color=black>※</color>極端な速度で前進し、接触したプラントを即座に圧殺</color>"
         },
         {
             "theZombieType": 313,
             "name": "砲兵鮫雷艦ゾンビ",
-            "introduce": "<align=justified><size=36><color=black>The ultimate battlefield dominator, this submarine is the brainchild of Edgar and Gfishtus Corps. After solving the missile flooding issue, it's now flawless, except for seaweed occasionally jamming the propeller.</color>",
-            "info": "<size=36>Rises to bombard the backline with cruise missiles.\n\n<color=black>耐久力：</color><color=#4B0082>12000</color>\n<color=black>スペシャル：</color><color=#4B0082>\n<color=black>※</color>ティア3進化ゾンビ\n<color=black>※</color>Enters the field submerged. Surfaces when there are plants in its lane and stops moving.\n<color=black>※</color>While surfaced, fires 2 missiles every 1.5秒 aimed at the last column. The missile explodes like a Jack-in-the-Box explosion but can be shot down if it takes 1000 damage mid-air.</color>"
+            "introduce": "<align=justified><size=36><color=black>エドガー博士と『Gfishtus Corps』の共同開発による究極の戦場支配型潜水艦ゾンビ。かつてはミサイルの浸水問題に悩まされていたが、今やその欠点も克服され、完璧な兵器として完成。ただし、ケルプがスクリューに絡まることだけは未解決。</color>",
+            "info": "<size=36>水レーンの深淵から現れ、後方を焼き払う巡航砲艦。\n\n<color=black>耐久力：</color><color=#4B0082>12000</color>\n<color=black>スペシャル：</color><color=#4B0082>\n<color=black>※</color>ティア3進化ゾンビ\n<color=black>※</color>潜航状態で登場し、同レーンにプラントが存在すると浮上＆停止\n<color=black>※</color>浮上中、1.5秒ごとに巡航ミサイルを2発発射。ミサイルは最後列を狙い、びっくり箱のような範囲爆発を発生、空中で1000ダメージを受けると撃墜可能</color>"
         },
         {
             "theZombieType": 314,
             "name": "槍兵鮫雷艦ゾンビ",
-            "introduce": "<align=justified><size=36><color=black>Edgar's proudest innovation, designed for maximum acceleration. All crew must pass brutal G-force centrifuge tests. \"It's like ten ガーガンチュアs sat on you,\" says one survivor.</color>",
-            "info": "<size=36>The steel spear of the water lanes.\n\n<color=black>耐久力：</color><color=#4B0082>12000</color>\n<color=black>スペシャル：</color><color=#4B0082>\n<color=black>※</color>ティア3進化ゾンビ\n<color=black>※</color>Charges at extreme speed, cutting through water lane plants.\n<color=black>※</color>Once per unit, doubles movement speed of all zombies in a 3×3グリッド (stackable up to 2 times).</color>"
+            "introduce": "<align=justified><size=36><color=black>エドガー博士が「最高傑作」と豪語する、加速特化型潜水艦ゾンビ。乗組員は全員、凄まじいGに耐える遠心分離テストを通過しなければならない。ある生存者はこう語る——「ガーガンチュアが10体乗ってるみたいだった」。</color>",
+            "info": "<size=36>加速こそ力。水レーンを貫く鋼の突撃兵。\n\n<color=black>耐久力：</color><color=#4B0082>12000</color>\n<color=black>スペシャル：</color><color=#4B0082>\n<color=black>※</color>ティア3進化ゾンビ\n<color=black>※</color>極端な速度で前進し、接触したプラントを即座に圧殺\n<color=black>※</color>1ユニットにつき1回限り、周囲3×3グリッド内のゾンビの移動速度を2倍に強化（最大2回までスタック可能）</color>"
         },
         {
             "theZombieType": 315,
             "name": "ギガトライデントゾンビ",
-            "introduce": "<align=justified><size=36><color=black>Wearing waterproof overalls and wielding a shiny trident, he's ready to fish. Don't forget the helmet — it's less for protection from plants, more for defense against jealous fishermen.</color>",
-            "info": "<size=36>Throws tridents at your backline.\n\n<color=black>耐久力：</color><color=#4B0082>3000+3000（装甲）</color>\n<color=black>スペシャル：</color><color=#4B0082>\n<color=black>※</color>ティア1進化ゾンビ\n<color=black>※</color>6-9秒 after entering or when blocked, throws 4 tridents at the last column.\n<color=black>※</color>Each trident causes damage to plants equal to 20% (minimum of 60) of their current Toughness.</color>"
+            "introduce": "<align=justified><size=36><color=black>防水オーバーオールに身を包み、輝くトライデントを手にした漁師型ゾンビ。釣りの準備は万端——ただし、ヘルメットの目的はプラント対策ではなく、嫉妬深い漁師から身を守るため。</color>",
+            "info": "<size=36>後方を狙う漁師型ゾンビ。トライデントが空を裂く。\n\n<color=black>耐久力：</color><color=#4B0082>3000+3000（装甲）</color>\n<color=black>スペシャル：</color><color=#4B0082>\n<color=black>※</color>ティア1進化ゾンビ\n<color=black>※</color>登場から6〜9秒後または障害物に阻まれた際に発動、最後列に向かってトライデントを4本投擲\n<color=black>※</color>各トライデントは、対象プラントの現在HPの20%（最低60）の物理ダメージを与える</color>"
         },
         {
             "theZombieType": 316,
-            "name": "ギガトライデントナッツ一等航海士ゾンビ",
-            "introduce": "<align=justified><size=36><color=black>Armed with eye drops and a reinforced Tallnut helmet, he's ready to spear the catch of the day, or his rivals.</color>",
-            "info": "<size=36>You can't dodge what he targets.\n\n<color=black>耐久力：</color><color=#4B0082>6000+6000（装甲）</color>\n<color=black>スペシャル：</color><color=#4B0082>\n<color=black>※</color>ティア2進化ゾンビ\n<color=black>※</color>6-9秒 after entering or when blocked, throws 8 tridents at random plants 4タイル ahead (unaffected by 傘性植物).\n<color=black>※</color>Base trident damage +100.</color>"
+            "name": "ギガトライデントナッツ一等航海士",
+            "introduce": "<align=justified><size=36><color=black>目薬で視界をクリアにし、強化されたトールナッツ製ヘルメットを装着。今日の獲物は魚か…それともライバルか。狙ったものは、絶対に逃さない。</color>",
+            "info": "<size=36>狙撃型漁師ゾンビ。その一撃は、避けることすら許されない。\n\n<color=black>耐久力：</color><color=#4B0082>6000+6000（装甲）</color>\n<color=black>スペシャル：</color><color=#4B0082>\n<color=black>※</color>ティア2進化ゾンビ\n<color=black>※</color>登場から6〜9秒後または障害物に阻まれた際に発動、前方4タイル以内のランダムなプラントにトライデントを8本投擲（傘性植物の防御を無視）\n<color=black>※</color>トライデントの基礎ダメージが100増加</color>"
         },
         {
             "theZombieType": 317,
-            "name": "ギガトライデントナッツ一等航海士ゾンビ",
-            "introduce": "<align=justified><size=36><color=black>A mighty warrior once slated for forklift duty — until he failed the helmet size test. So now he simply hurls more tridents, harder.</color>",
-            "info": "<size=36>Tridents rain down in scattershot.\n\n<color=black>耐久力：</color><color=#4B0082>12000+12000（装甲）</color>\n<color=black>スペシャル：</color><color=#4B0082>\n<color=black>※</color>ティア3進化ゾンビ\n<color=black>※</color>6-9秒 after entering or when blocked, throws 12 cluster tridents.\n<color=black>※</color>Splits into 1 extra trident for each plant 4タイル ahead.\n<color=black>※</color>Base trident damage +300.</color>"
+            "name": "ギガトライデントナッツ船長",
+            "introduce": "<align=justified><size=36><color=black>かつてはフォークリフト担当に任命される予定だったが、ヘルメットのサイズテストに落ちたことでその夢は潰えた。代わりに彼は、より多くのトライデントを、より激しく投げる道を選んだ。</color>",
+            "info": "<size=36>散弾のように降り注ぐトライデント。船長の怒りは広範囲に届く。\n\n<color=black>耐久力：</color><color=#4B0082>12000+12000（装甲）</color>\n<color=black>スペシャル：</color><color=#4B0082>\n<color=black>※</color>ティア3進化ゾンビ\n<color=black>※</color>登場から6〜9秒後、または障害物に阻まれた際に発動、クラスター型トライデントを12本投擲\n<color=black>※</color>前方4タイル以内のプラント1体につき、追加で1本のトライデントが分裂\n<color=black>※</color>トライデントの基礎ダメージが300増加</color>"
         },
         {
             "theZombieType": 318,
             "name": "ネザライト採掘兵ゾンビ",
-            "introduce": "<align=justified><size=36><color=black>With a netherite pickaxe and forged mining license, this zombie set off to strike a coal deal with Queen Endoflame — though Piglin Corp's Wither Skeleton trafficking ring might prove stiff competition.</color>",
-            "info": "<size=36>Fastest digger in the Nether mines.\n\n<color=black>耐久力：</color><color=#4B0082>3000+3000（装甲）</color>\n<color=black>スペシャル：</color><color=#4B0082>\n<color=black>※</color>ティア1進化ゾンビ\n<color=black>※</color>Each attack adds 2000 採掘の進捗 to the plant. If 採掘の進捗 exceeds the plant's HP, the plant is instantly destroyed.</color>"
+            "introduce": "<align=justified><size=36><color=black>ネザライトのツルハシを手に、偽造された採掘許可証を胸に、ネザライト採掘兵ゾンビはクイーンエンドフレイムとの石炭取引を目指してネザー鉱山へと旅立った。だが、そこにはPiglin Corpによるウィザースケルトン密輸組織という強敵が待ち構えている。</color>",
+            "info": "<size=36>ネザー鉱山最速の掘削者。\n\n<color=black>耐久力：</color><color=#4B0082>3000+3000（装甲）</color>\n<color=black>スペシャル：</color><color=#4B0082>\n<color=black>※</color>ティア1進化ゾンビ\n<color=black>※</color>攻撃するたびに対象プラントへ2000採掘の進捗を加算、採掘の進捗がプラントのHPを超えると即座に破壊</color>"
         },
         {
             "theZombieType": 319,
             "name": "ネザライト穿孔兵ゾンビ",
-            "introduce": "<align=justified><size=36><color=black>Praised at excavation contests for his lava-fueled netherite drill. Though he always forgets to mention that his hoe is also netherite, the dedication!</color>",
-            "info": "<size=36>Digs tunnels but gets easily lost.\n\n<color=black>耐久力：</color><color=#4B0082>6000+6000（装甲）</color>\n<color=black>スペシャル：</color><color=#4B0082>\n<color=black>※</color>ティア2進化ゾンビ\n<color=black>※</color>Each attack adds 4000 採掘の進捗 to the plant.\n<color=black>※</color>Digs underground and his drill cannot be pulled by 磁石キノコ while underground.\n<color=black>※</color>Emerges randomly between columns 2-8.</color>"
+            "introduce": "<align=justified><size=36><color=black>溶岩駆動のネザライトドリルで掘削大会を席巻した、ネザー界の誇り高き穿孔兵。だが、彼はいつもネザライト製のクワも持っていることを言い忘れる。その献身ぶりは本物だが、方向感覚は壊滅的。</color>",
+            "info": "<size=36>火力は一流、方向感覚は三流。ネザー鉱山の迷子王。\n\n<color=black>耐久力：</color><color=#4B0082>6000+6000（装甲）</color>\n<color=black>スペシャル：</color><color=#4B0082>\n<color=black>※</color>ティア2進化ゾンビ\n<color=black>※</color>攻撃するたびに対象プラントへ4000採掘の進捗を加算\n<color=black>※</color>地下を掘り進みながら移動、地中移動中は磁石キノコによる引き寄せ無効\n<color=black>※</color>列2〜8のいずれかにランダムで出現</color>"
         },
         {
             "theZombieType": 320,
             "name": "ネザライト掘削兵ゾンビ",
-            "introduce": "<align=justified><size=36><color=black>Head of the Zombie's Nether Mining Bureau followed by hundreds of eager, labor-worthy zombies, he dreams of a mining empire. Edgar scoffs: \"He just keeps tunneling into other zombies' graves since he's blinded by his helmet. That's why they're always chasing him.\"</color>",
-            "info": "<size=36>Leads other zombies underground in one big dig.\n\n<color=black>耐久力：</color><color=#4B0082>12000+12000（装甲）</color>\n<color=black>スペシャル：</color><color=#4B0082>\n<color=black>※</color>ティア3進化ゾンビ\n<color=black>※</color>Each attack adds 8000 採掘の進捗 to the plant.\n<color=black>※</color>前のティアから特性を継承する\n<color=black>※</color>Enters underground with nearby non-vehicle zombies. They emerge together later.</color>"
+            "introduce": "<align=justified><size=36><color=black>ゾンビネザー鉱業局の局長として、数百体の労働ゾンビを率いる野心家。彼の夢は、ネザー全域に広がる採掘帝国の創設。だが、エドガー博士は冷笑する——「ヘルメットで前が見えないから、他のゾンビの墓に突っ込んでるだけ。だからいつも追いかけられてるんだよ。」</color>",
+            "info": "<size=36>帝国を夢見る迷走指揮官。地中からの一斉突撃が芝生を揺るがす。\n\n<color=black>耐久力：</color><color=#4B0082>12000+12000（装甲）</color>\n<color=black>スペシャル：</color><color=#4B0082>\n<color=black>※</color>ティア3進化ゾンビ\n<color=black>※</color>攻撃するたびに対象プラントへ8000採掘の進捗を加算\n<color=black>※</color>前のティアから特性を継承\n<color=black>※</color>登場時、周囲の非車両ゾンビとともに地下へ潜行。一定時間後、全員が同時に地上へ出現し、連携攻撃を開始</color>"
         },
         {
             "theZombieType": 321,
             "name": "装甲マイケルゾンボニ",
-            "introduce": "<align=justified><size=36><color=black>Charge, charge again, crush everything! The ゾンボニ plows through the field with unstoppable momentum, until it met the pond in the middle of the lawn.</color>",
-            "info": "<size=36>Disco zombie driving a reinforced vehicle.\n\n<color=black>耐久力：</color><color=#4B0082>6000</color>\n<color=black>スペシャル：</color><color=#4B0082>\n<color=black>※</color>ティア1進化ゾンビ\n<color=black>※</color>Crushes plants. Has a 50% damage reduction.\n<color=black>※</color>Spawns a standard マイケルゾンビ upon death.</color>"
+            "introduce": "<align=justified><size=36><color=black>「突撃、そしてもう一度突撃！全部踏み潰せ！」そう叫びながら、装甲マイケルゾンボニは芝生を止まることなく突進する。だが、芝生中央の池に差し掛かるとその勢いも止まる。彼は強化車両に乗ったマイケルゾンビであり、ステージと戦場の両方を駆け抜ける存在。</color>",
+            "info": "<size=36>車輪の上のアイドル。その圧殺はリズムに乗ってやってくる。\n\n<color=black>耐久力：</color><color=#4B0082>6000</color>\n<color=black>スペシャル：</color><color=#4B0082>\n<color=black>※</color>ティア1進化ゾンビ\n<color=black>※</color>プラントを圧殺する、被ダメージが50%減少\n<color=black>※</color>死亡時に通常のマイケルゾンビを1体召喚</color>"
         },
         {
             "theZombieType": 322,
             "name": "軽装甲マイケルゾンボニ",
-            "introduce": "<align=justified><size=36><color=black>\"We've added more layers to the front armor!\" The newly refurbished vehicle is now the pride of マイケルゾンビ, though he regrets that the gaps between the armor layers still aren't wide enough to stuff in more バックダンサー.</color>",
-            "info": "<size=36>マイケルゾンビ's vehicle now includes an extra layer of light armor.\n\n<color=black>耐久力：</color><color=#4B0082>12000</color>\n<color=black>スペシャル：</color><color=#4B0082>\n<color=black>※</color>ティア2進化ゾンビ\n<color=black>※</color>Crushes plants. Has a 66% damage reduction.\n<color=black>※</color>Spawns a 装甲マイケルゾンボニ upon death.</color>"
+            "introduce": "<align=justified><size=36><color=black>「前面装甲をさらに強化したぞ！」と誇らしげに語る軽装甲マイケルゾンボニ。改装された車両はマイケルゾンビたちの誇りとなったが、本人は少しだけ不満もある。「装甲の隙間が狭すぎて、バックダンサーをもっと詰め込めないんだよね…」舞台も戦場も、彼にとっては演出の一部。</color>",
+            "info": "<size=36>強化された装甲と変わらぬリズム。進化するゾンビアイドルカー。\n\n<color=black>耐久力：</color><color=#4B0082>12000</color>\n<color=black>スペシャル：</color><color=#4B0082>\n<color=black>※</color>ティア2進化ゾンビ\n<color=black>※</color>プラントを圧殺する、被ダメージが66%減少\n<color=black>※</color>死亡時に装甲マイケルゾンボニを1体召喚</color>"
         },
         {
             "theZombieType": 323,
             "name": "重装甲マイケルゾンボニ",
-            "introduce": "<align=justified><size=36><color=black>This vehicle's extremely thick armor has earned it the nickname \"Battleship on Land\". Lately, マイケルゾンビ has come up with yet another bold new design: swap the base for treads, install a multi-layer turret, and mount a long-barreled cannon. He believes this will be a truly original invention.</color>",
-            "info": "<size=36>マイケルゾンビ's vehicle now includes two layers of heavy steel armor.\n\n<color=black>耐久力：</color><color=#4B0082>24000</color>\n<color=black>スペシャル：</color><color=#4B0082>\n<color=black>※</color>ティア3進化ゾンビ\n<color=black>※</color>Crushes plants. Has a 75% damage reduction.\n<color=black>※</color>Spawns a 軽装甲マイケルゾンボニ upon death.</color>"
+            "introduce": "<align=justified><size=36><color=black>その極厚の装甲から「陸上の戦艦」と呼ばれるようになった重装甲マイケルゾンボニ。最近では、マイケルゾンビ自身が大胆な新設計を発表：車輪をキャタピラに変更し、複層砲塔を搭載、そして長砲身の大砲を装備。「これは完全にオリジナルな発明だ」と本人は胸を張る。舞台の上でも戦場でも、彼は常に進化を求める。</color>",
+            "info": "<size=36>アイドル魂を乗せた鋼鉄の巨兵。その進撃は止まらない。\n\n<color=black>耐久力：</color><color=#4B0082>24000</color>\n<color=black>スペシャル：</color><color=#4B0082>\n<color=black>※</color>ティア3進化ゾンビ\n<color=black>※</color>プラントを圧殺する、被ダメージが75%減少\n<color=black>※</color>死亡時に軽装甲マイケルゾンボニを1体召喚</color>"
         },
         {
             "theZombieType": 324,
             "name": "ポゴピエロ騎士ゾンビ",
-            "introduce": "<align=justified><size=36><color=black>Don't bother him—he's in love. He's not in the mood to hear your pessimistic take on his romance, and if you try, you'll be met with an explosively emotional response.</color>",
-            "info": "<size=36>ポゴゾンビ with a modern explosive-loaded pogo stick. Only slightly magnetic and difficult to disarm.\n\n<color=black>耐久力：</color><color=#4B0082>3000+3000（装甲）</color>\n<color=black>スペシャル：</color><color=#4B0082>\n<color=black>※</color>ティア1進化ゾンビ\n<color=black>※</color>ポゴゾンビの特性を継承する。\n<color=black>※</color>Does not lose pogo stick if knocked back by 傘性植物.\n<color=black>※</color>If killed while still holding the stick, triggers a Jack-in-the-Box explosion.</color>"
+            "introduce": "<align=justified><size=36><color=black>恋に落ちたポゴピエロ騎士ゾンビは、今や戦場でも夢見心地。悲観的な意見や冷めた忠告には耳を貸さず、口を挟めば感情的爆発が待っている。彼の最新型爆弾内蔵ポゴスティックは、磁力耐性が高く、解除も困難。「愛は爆発だ」と、彼は跳ねながら叫ぶ。</color>",
+            "info": "<size=36>跳ねる騎士、爆ぜる感情。恋するゾンビは止まらない。\n\n<color=black>耐久力：</color><color=#4B0082>3000+3000（装甲）</color>\n<color=black>スペシャル：</color><color=#4B0082>\n<color=black>※</color>ティア1進化ゾンビ\n<color=black>※</color>ポゴゾンビの特性を継承\n<color=black>※</color>傘性植物による撃退でもポゴスティックを失わない\n<color=black>※</color>死亡時にポゴスティックを保持している場合、びっくり箱の爆発を発生</color>"
         },
         {
             "theZombieType": 325,
             "name": "ポゴピエロ王ゾンビ",
-            "introduce": "<align=justified><size=36><color=black>He once struggled with poor sales of pogo sticks, watermelons, and jack-in-the-boxes. So he consulted カタパルトゾンビ. \"You've got to imagine the watermelon and jack-in-the-box as one,\" the advice went. Judging by the explosive success, it worked.</color>",
-            "info": "<size=36>Equipped with a single-use charger for his explosive pogo stick.\n\n<color=black>耐久力：</color><color=#4B0082>6000+6000（装甲）</color>\n<color=black>スペシャル：</color><color=#4B0082>\n<color=black>※</color>ティア2進化ゾンビ\n<color=black>※</color>ポゴピエロ騎士ゾンビの特性を継承する。\n<color=black>※</color>If spawned on the right half of the field, charges up for 5秒 and then makes a long leap of about 4タイル.</color>"
+            "introduce": "<align=justified><size=36><color=black>かつてはポゴスティック、スイカ、びっくり箱の売上不振に悩まされていた王。そんな彼が頼ったのは、カタパルトゾンビの助言だった。「スイカとびっくり箱を一つの存在として想像するんだ」その言葉通り、爆発的な成功を収めた今、彼は王の名にふさわしい跳躍を見せる。</color>",
+            "info": "<size=36>跳ねる王の一撃は、演出と破壊の融合。\n\n<color=black>耐久力：</color><color=#4B0082>6000+6000（装甲）</color>\n<color=black>スペシャル：</color><color=#4B0082>\n<color=black>※</color>ティア2進化ゾンビ\n<color=black>※</color>ポゴピエロ騎士ゾンビの特性を継承\n<color=black>※</color>フィールド右半分に出現した場合、5秒間チャージ後、約4タイルの長距離ジャンプを実行</color>"
         },
         {
             "theZombieType": 326,
             "name": "ポゴピエロ皇帝ゾンビ",
-            "introduce": "<align=justified><size=36><color=black>After much time, he's finally overcome the pain of his breakup. Now he's dressed in flashy colors and ready to court a new goddess. He's now pursuing びっくり箱のピエロ女王. Hopefully, his emotional stamina has improved.</color>",
-            "info": "<size=36>With an upgraded charging system, the smoke from his explosive pogo stick masks his decoy stand-in.\n\n<color=black>耐久力：</color><color=#4B0082>12000+12000（装甲）</color>\n<color=black>スペシャル：</color><color=#4B0082>\n<color=black>※</color>ティア3進化ゾンビ\n<color=black>※</color>ポゴピエロ王ゾンビの特性を継承する、but charging duration is reduced to 0.75秒.\n<color=black>※</color>Can cheat death if holding his pogo stick.</color>"
+            "introduce": "<align=justified><size=36><color=black>長きにわたる失恋の痛みを乗り越え、ポゴピエロ皇帝ゾンビはついに再び恋をする準備が整った。今では派手な衣装に身を包み、新たな女神——びっくり箱のピエロ女王を追い求めている。その情熱は、爆弾付きポゴスティックの煙に紛れて現れる分身にも表れている。「今度こそ、跳ねるたびに愛が近づくんだ」と語る彼の姿は、まさに皇帝の風格。</color>",
+            "info": "<size=36>恋と爆発の皇帝。跳躍の先に待つのは、破壊か運命か。\n\n<color=black>耐久力：</color><color=#4B0082>12000+12000（装甲）</color>\n<color=black>スペシャル：</color><color=#4B0082>\n<color=black>※</color>ティア3進化ゾンビ\n<color=black>※</color>ポゴピエロ王ゾンビの特性を継承、チャージ時間が0.75秒に短縮\n<color=black>※</color>ポゴスティックを保持している場合、死亡時に一度だけ蘇生可能</color>"
         },
         {
             "theZombieType": 327,
             "name": "キーロフ爆撃機",
-            "introduce": "<align=justified><size=36><color=black>Since top-of-the-line parts aren't windfall, Gfishtus Corps thought it would be cost efficient to make a simplified model for lower scale attacks. Though ultimately they just made an airship that is uncannily similar to ゾンボス博士' original model...\n\n※Etc様による執筆</color>",
-            "info": "<size=36>A Kirov airship that periodically drops びっくり爆弾.\n\n<color=black>ダメージ：</color><color=#4B0082>500/1.5秒</color>\n<color=black>耐久力：</color><color=#4B0082>3000</color>\n<color=black>スペシャル：</color><color=#4B0082>\n<color=black>※</color>ティア1進化ゾンビ\n<color=black>※</color>Crashes after taking 20 hits from Magnetar stars.</color>"
+            "introduce": "<align=justified><size=36><color=black>『Gfishtus Corps』が「高性能パーツは贅沢品」と判断し、低規模攻撃用に簡易モデルを開発。だが最終的に完成したのは、ゾンボス博士のオリジナルモデルに妙に似たキーロフ爆撃機だった。「これは偶然の一致だ」とGfishtusは主張するが、設計図の端にゾンボスのサインが見える気がするのは気のせいか。\n\n※Etc様による執筆</color>",
+            "info": "<size=36>空からの節約型破壊。似て非なる爆撃機。\n\n<color=black>ダメージ：</color><color=#4B0082>500/1.5秒</color>\n<color=black>耐久力：</color><color=#4B0082>3000</color>\n<color=black>スペシャル：</color><color=#4B0082>\n<color=black>※</color>ティア1進化ゾンビ\n<color=black>※</color>マグネターのスターによる攻撃を20回受けると墜落</color>"
         },
         {
             "theZombieType": 328,
             "name": "キーロフ母船",
-            "introduce": "<align=justified><size=36><color=black>The キーロフ母船 is a core product of Gfishtus Corps, and the company claims it uses cutting-edge drone technology. But if you examine the debris of its minions closely, you'll often find \"CCCP\" painted in red.</color>",
-            "info": "<size=36>An aerial mothership that deploys Kirovs Drones.\n\n<color=black>耐久力：</color><color=#4B0082>6000</color>\n<color=black>スペシャル：</color><color=#4B0082>\n<color=black>※</color>ティア2進化ゾンビ\n<color=black>※</color>Every ~2秒, summons a Kirov Drone with 0.1× its own HP.\n<color=black>※</color>Crashes after taking 30 hits from Magnetar stars.</color>"
+            "introduce": "<align=justified><size=36><color=black>『Gfishtus Corps』の中核製品として開発された空中母艦。同社は「最先端のドローン技術を搭載」と豪語するが、撃墜されたキーロフドローンの残骸には『CCCP』の赤文字が見つかることも。「それは…レトロなデザインです」と広報は言うが、真相は謎に包まれている。</color>",
+            "info": "<size=36>空を支配する企業の象徴。ドローンの雨が戦場を覆う。\n\n<color=black>耐久力：</color><color=#4B0082>6000</color>\n<color=black>スペシャル：</color><color=#4B0082>\n<color=black>※</color>ティア2進化ゾンビ\n<color=black>※</color>約2秒ごとにキーロフドローンを1体召喚、HPは母船の最大HPの10%\n<color=black>※</color>マグネターのスターによる攻撃を30回受けると墜落</color>"
         },
         {
             "theZombieType": 329,
             "name": "キーロフ旗艦",
-            "introduce": "<align=justified><size=36><color=black>High-altitude infiltration! Integrated recon and assault! Total firepower coverage! Fully digitalized unmanned combat! Gfishtus Corps proudly presents Kirov 2.0! It's the ultimate beast , except for the ridiculously short flight range that relegates it to being a mere frigate under a larger mothership. The mothership, of course, is sold separately.</color>",
-            "info": "<size=36>An aerial supremacy that deploys rapid carpet bombers.\n\n<color=black>ダメージ：</color><color=#4B0082>300/1.5秒</color>\n<color=black>耐久力：</color><color=#4B0082>12000</color>\n<color=black>スペシャル：</color><color=#4B0082>\n<color=black>※</color>ティア3進化ゾンビ\n<color=black>※</color>Every ~4秒, summons 2 Supersonic Bombers to quickly decimate the lane.\n<color=black>※</color>Crashes after taking 40 hits from Magnetar stars.</color>"
+            "introduce": "<align=justified><size=36><color=black>高高度潜入！統合偵察＆強襲！全方位火力！完全デジタル無人戦闘！そう豪語するのは、『Gfishtus Corps』が誇る最新兵器、キーロフ2.0。その性能はまさに空中の覇者…ただし、飛行距離が異常に短いため、実質的には母船の下に配置されるフリゲート扱い。なお、母船は別売り。</color>",
+            "info": "<size=36>空を裂く高速爆撃機。性能は一流、航続距離は三流。\n\n<color=black>ダメージ：</color><color=#4B0082>300/1.5秒</color>\n<color=black>耐久力：</color><color=#4B0082>12000</color>\n<color=black>スペシャル：</color><color=#4B0082>\n<color=black>※</color>ティア3進化ゾンビ\n<color=black>※</color>約4秒ごとに超音速爆撃機を2体召喚、爆撃機はレーンを高速で進行し、範囲爆撃を実行\n<color=black>※</color>マグネターのスターによる攻撃を40回受けると墜落</color>"
         },
         {
             "theZombieType": 330,
             "name": "ソワソワキョンシー",
-            "introduce": "<align=justified><size=36><color=black>Born into poverty, I was fortunate to be sponsored by a wealthy patron and gained an education. I later served as an upright official, speaking frankly at court. People said the Emperor was a tyrant, yet though he ignored my counsel, he never punished me. Only later did I learn: the Emperor was deaf.</color>",
-            "info": "<size=36>A reanimated spirit that explodes upon death, harming all green life in its wake.\n\n<color=black>ダメージ：</color><color=#4B0082>250（非噛）</color>\n<color=black>耐久力：</color><color=#4B0082>3000</color>\n<color=black>スペシャル：</color><color=#4B0082>\n<color=black>※</color>ティア1進化ゾンビ\n<color=black>※</color>When killed by damage, deals 125 damage to all plants in a 3×3グリッド.</color>"
+            "introduce": "<align=justified><size=36><color=black>「貧困の中に生まれ、幸運にも裕福な後援者に支えられて教育を受けた。後に正義感ある官吏として宮廷に仕え、率直に意見を述べた。人々は皇帝を暴君だと言ったが、彼は私の忠告を無視するだけで、決して罰しなかった。後に知ったことだが——皇帝は耳が聞こえなかった。」</color>",
+            "info": "<size=36>忠義の果てに沈黙が残る。死してなお、言葉は爆ぜる。\n\n<color=black>ダメージ：</color><color=#4B0082>250（非噛）</color>\n<color=black>耐久力：</color><color=#4B0082>3000</color>\n<color=black>スペシャル：</color><color=#4B0082>\n<color=black>※</color>ティア1進化ゾンビ\n<color=black>※</color>撃破時に3×3グリッド内の全プラントに125ダメージ</color>"
         },
         {
             "theZombieType": 331,
             "name": "不滅キョンシー",
-            "introduce": "<align=justified><size=36><color=black>The night wraith soared, scattering all allies. Two plants stood in its path. Enraged, it struck — one fell, and the other tried to resist. The wraith burst forward, piercing both, and finished them off with brutal strikes. Brave they were, but both perished in an instant. What more could they do? Laughable.</color>",
-            "info": "<size=36>A phantasmal spectre that cuts through barriers with ghostly force.\n\n<color=black>ダメージ：</color><color=#4B0082>500（非噛）</color>\n<color=black>耐久力：</color><color=#4B0082>6000</color>\n<color=black>スペシャル：</color><color=#4B0082>\n<color=black>※</color>ティア2進化ゾンビ\n<color=black>※</color>Every 4-8秒, dashes forward for up to 2タイル, ignoring plants and dealing damage.\n<color=black>※</color>When killed by damage, deals 250 damage to all plants in a 3×3グリッド.</color>"
+            "introduce": "<align=justified><size=36><color=black>夜の怨霊が空を裂き、味方を散らした。二体のプラントがその進路に立ちはだかった。怒りに満ちたキョンシーは一撃で一体を倒し、もう一体が抵抗を試みるも、突進と連撃で両者を瞬時に葬った。勇敢だったかもしれない。だが、何ができたというのか？滑稽だ。</color>",
+            "info": "<size=36>障壁を無視する幽鬼の突進。その刃は魂すら切り裂く。\n\n<color=black>ダメージ：</color><color=#4B0082>500（非噛）</color>\n<color=black>耐久力：</color><color=#4B0082>6000</color>\n<color=black>スペシャル：</color><color=#4B0082>\n<color=black>※</color>ティア2進化ゾンビ\n<color=black>※</color>4〜8秒ごとに最大2タイル前方へ突進。突進中はプラントを無視して移動し、接触時にダメージを与える\n<color=black>※</color>撃破時に3×3グリッド内の全プラントに250ダメージ</color>"
         },
         {
             "theZombieType": 332,
             "name": "永遠キョンシー",
-            "introduce": "<align=justified><size=36><color=black>Li Chi-hsing, a native of Fengdu, once said as a boy, \"I can see a jade seal there — it belongs to my family.\" Everyone laughed. At 24, amid famine, he rose in rebellion and declared himself king of Fengdu. When he received the jade seal, it scorched his face. The next year brought another famine. He was ousted, barely escaping with his life. His tongue wounded by the seal, when asked his name, he could only mumble: \"I'm Li..ch..\"</color>",
-            "info": "<size=36>A wraith that phases through plants and strikes with imperial wrath.\n\n<color=black>ダメージ：</color><color=#4B0082>300/1.5秒</color>\n<color=black>耐久力：</color><color=#4B0082>12000</color>\n<color=black>スペシャル：</color><color=#4B0082>\n<color=black>※</color>ティア3進化ゾンビ\n<color=black>※</color>On the right side of the lawn, every 4-8秒, phases through up to 4タイル ignoring plants, reaching as far into the row as possible and dealing damage along the way. If no bypassable plants are present, dashes forward 1 tile instead.\n<color=black>※</color>On the left side, attempting to phase disables this skill.\n<color=black>※</color>When killed by damage, deals 500 damage to all plants in a 3×3グリッド.</color>"
+            "introduce": "<align=justified><size=36><color=black>鳳都の出身、李知興は少年時代にこう言った——「あそこに玉璽が見える。あれは我が家のものだ。」人々は笑った。24歳、飢饉の中で反乱を起こし、鳳都の王を名乗った。玉璽を受け取ったその瞬間、顔が焼けただれた。翌年、再び飢饉が訪れ、彼は王座を追われ、命からがら逃げ延びた。舌まで焼かれた彼は、名を問われるとこうしか言えなかった——「我は…李…チ…」</color>",
+            "info": "<size=36>名を失い、怒りだけが残った。王の怨霊は芝生を裂く。\n\n<color=black>ダメージ：</color><color=#4B0082>300/1.5秒</color>\n<color=black>耐久力：</color><color=#4B0082>12000</color>\n<color=black>スペシャル：</color><color=#4B0082>\n<color=black>※</color>ティア3進化ゾンビ\n<color=black>※</color>右側の芝生に出現した場合、4〜8秒ごとに最大2タイル前方へ突進。突進中はプラントを無視して移動し、接触時にダメージを与える。突進可能なプラントが存在しない場合は1タイルのみ前進\n<color=black>※</color>左側ではフェイズ能力が無効化され、通常移動のみ\n<color=black>※</color>撃破時に3×3グリッド内の全プラントに500ダメージ</color>"
         },
         {
             "theZombieType": 333,
             "name": "軽装トライデント砲車ゾンビ",
-            "introduce": "<align=justified><size=36><color=black>\"When pear blossoms bloom across the land, the river flows beneath soft gauze.\" 軽装トライデント砲車ゾンビ read this ballad in a yellowing book, moved by the legend behind it. Unfortunately, it did not understand that rockets need engines to fly far.</color>",
-            "info": "<size=36>Unleashes a small wave of tridents.\n\n<color=black>耐久力：</color><color=#4B0082>3000</color>\n<color=black>スペシャル：</color><color=#4B0082>\n<color=black>※</color>ティア1進化ゾンビ\n<color=black>※</color>Attacks by firing 4 tridents at once, can reload and fire again once, then resumes moving forward and crushing plants. Tridents land 5-7タイル ahead.</color>"
+            "introduce": "<align=justified><size=36><color=black>「梨の花が国中に咲き、川は柔らかな紗の下を流れる」——黄ばんだ書物に記されたこの詩に、軽装トライデント砲車ゾンビは心を打たれた。だが、ロケットには推進力が必要という基本を理解していなかった。その結果、彼の砲撃は美しさよりも短距離の衝撃を生むこととなった。</color>",
+            "info": "<size=36>詩に憧れ、鉄で語る。短距離の美学が芝生を貫く。\n\n<color=black>耐久力：</color><color=#4B0082>3000</color>\n<color=black>スペシャル：</color><color=#4B0082>\n<color=black>※</color>ティア1進化ゾンビ\n<color=black>※</color>登場時に4本のトライデントを一斉発射（着弾範囲：5〜7タイル前方）。1回のみ再装填可能、再度4本のトライデントを発射。発射後は前進しながらプラントを圧殺</color>"
         },
         {
             "theZombieType": 334,
             "name": "重装トライデント砲車ゾンビ",
-            "introduce": "<align=justified><size=36><color=black>Training with the 重装トライデント砲車ゾンビ involves unique precision drills. Since the tridents can't change trajectory mid-air, the driver must reposition the entire cart for aiming. \"Adjust slightly… more… just a bit—\" Splash! The cart tumbles into a nearby pond.</color>",
-            "info": "<size=36>Unleashes a larger wave of tridents.\n\n<color=black>耐久力：</color><color=#4B0082>3000+3000（装甲）</color>\n<color=black>スペシャル：</color><color=#4B0082>\n<color=black>※</color>ティア2進化ゾンビ\n<color=black>※</color>軽装トライデント砲車ゾンビの特性を継承する、but fires 14 tridents per salvo.</color>"
+            "introduce": "<align=justified><size=36><color=black>重装トライデント砲車ゾンビの訓練には、独特な照準ドリルが含まれる。なぜなら、トライデントは空中で軌道修正できないため、車両全体を微調整して狙いを定める必要がある。「少し右…もうちょっと…あとほんの少し…」——ドボン！調整しすぎて、近くの池に突っ込んだのは言うまでもない。</color>",
+            "info": "<size=36>重装甲と精密照準の融合。だが、水には弱い。\n\n<color=black>耐久力：</color><color=#4B0082>3000+3000（装甲）</color>\n<color=black>スペシャル：</color><color=#4B0082>\n<color=black>※</color>ティア2進化ゾンビ\n<color=black>※</color>軽装トライデント砲車ゾンビの特性を継承、登場時に14本のトライデントを一斉発射</color>"
         },
         {
             "theZombieType": 335,
             "name": "殉爆トライデント砲車ゾンビ",
-            "introduce": "<align=justified><size=36><color=black>A veteran trident warrior, decorated and seasoned, has joined the Hwacha Division as its newest unit. He has hunted モフモフ霜獣 in the tundra and fought crocodiles in the swamps. Now he stands before you, ready to battle. Let's see — can you dodge this?</color>",
-            "info": "<size=36>Unleashes tridents that scatter on death.\n\n<color=black>耐久力：</color><color=#4B0082>6000+6000（装甲）</color>\n<color=black>スペシャル：</color><color=#4B0082>\n<color=black>※</color>ティア3進化ゾンビ\n<color=black>※</color>重装トライデント砲車ゾンビの特性を継承する。\n<color=black>※</color>Upon death, unused tridents scatter randomly within 3.5タイル in its lane, damaging all plants hit.</color>"
+            "introduce": "<align=justified><size=36><color=black>砲車部隊の最新ユニットとして配属された、歴戦のトライデント戦士。彼はかつてモフモフ霜獣をツンドラで狩り、ワニと沼地で格闘した。今、彼は芝生の前に立ち、静かに言う——「さあ、避けられるか？」その言葉の裏には、未発射のトライデントが秘める死の雨がある。</color>",
+            "info": "<size=36>最後の一撃は、死後に訪れる。ベテランの誇りは散弾となる。\n\n<color=black>耐久力：</color><color=#4B0082>6000+6000（装甲）</color>\n<color=black>スペシャル：</color><color=#4B0082>\n<color=black>※</color>ティア3進化ゾンビ\n<color=black>※</color>重装トライデント砲車ゾンビの特性を継承\n<color=black>※</color>撃破時に未使用のトライデントが3.5タイル以内にランダム散布。散布されたトライデントは接触したプラントにダメージを与える</color>"
         }
     ]
 }

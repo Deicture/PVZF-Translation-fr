@@ -772,7 +772,7 @@
             "theZombieType": 313,
             "name": "Boomer Sharkmarine",
             "introduce": "<align=justified><size=36><color=black>The ultimate battlefield dominator, this submarine is the brainchild of Edgar and Gfishtus Corps. After solving the missile flooding issue, it's now flawless, except for seaweed occasionally jamming the propeller.</color>",
-            "info": "<size=36>Rises to bombard the backline with cruise missiles.\n\n<color=black>Toughness: </color><color=#4B0082>12000</color>\n<color=black>Traits: </color><color=#4B0082>\n<color=black>•</color> Tier 3 Evolved Zombie.\n<color=black>•</color> Enters the field submerged. Surfaces when there are plants in its lane and stops moving.\n<color=black>•</color> While surfaced, fires 2 missiles every 1.5s aimed at the last column. The missile explodes like a Jack-in-the-Box explosion but can be shot down if it takes 1000 damage mid-air.</color>"
+            "info": "<size=36>Rises to bombard the backline with cruise missiles.\n\n<color=black>Toughness: </color><color=#4B0082>12000</color>\n<color=black>Traits: </color><color=#4B0082>\n<color=black>•</color> Tier 3 Evolved Zombie.\n<color=black>•</color> Enters the field submerged. Surfaces when there are plants in its lane and stops moving.\n<color=black>•</color> While surfaced, fires 2 missiles every 1.5s aimed at the last column. The missile explodes like a Jack-in-the-Box explosion but can be shot down if it takes 1000 damage mid-air or blown away by Blovers.</color>"
         },
         {
             "theZombieType": 314,

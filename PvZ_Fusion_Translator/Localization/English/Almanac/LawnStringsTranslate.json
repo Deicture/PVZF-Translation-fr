@@ -158,7 +158,7 @@
             "seedType": 22,
             "name": "Blover",
             "introduce": "<align=justified><size=36><color=black>When Blover was five he got a shiny new birthday cake. Blover made his wish, huffed and puffed, but was able to extinguish only 60% of the candles. Instead of giving up, though, he's used that early defeat as a catalyst to push himself harder ever since.</color></size>",
-            "info": "<size=36>Blovers blow away all balloon zombies and fog, except Bucket-copter Zombies and Zomppelins.\n\n<color=black>Special: </color><color=#8B0000>Blows away fog for 30s and Balloon Zombies. Pushes back Zomppelins slightly.</color></size>",
+            "info": "<size=36>Blovers blow away all balloon zombies and fog, except Bucket-copter Zombies and Zomppelins.\n\n<color=black>Special: </color><color=#8B0000>Blows away fog for 30s, Balloon Zombies and Boomer Sharkmarine missiles. Pushes back Zomppelins slightly.</color></size>",
             "cost": "<size=36>Cost: <color=#8B0000>100</color>\nRecharge: <color=#8B0000>15s</color></size>"
         },
         {
@@ -825,6 +825,13 @@
             "introduce": "<align=justified><size=36><color=black></color>",
             "info": "<size=36>\n\n<color=#4A2900>Usage Condition: Odyssey Mode | Unlockable</color>\n<color=black>Sun Output: </color><color=#8B0000>50/3s</color>\n<color=black>Damage: </color><color=#8B0000>1800</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Generates Sun and consumes nearby plant projectiles to absorb energy (1 damage = 1 energy). Energy is capped at Attack damage ×4; excess energy is converted to Sun (1 projectile = 5 Sun).\n<color=black>•</color> When energy exceeds Attack damage, fires a solar shot that explodes on impact, dealing 100% Damage in a small area.\n<color=black>•</color> Using a Coffee Bean toggles active/inactive modes. Does not attack in inactive mode.</color>\n<color=black>Odyssey Modifiers:</color>\n<color=#8B0000>1. When a solar shot hits a zombie, it cause nearby projectiles to explode as well, dealing 10% damage\n2. Energy cap ×3, Sun output ×3</color>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Torchflower + Golden Sunflower</color>"
+        },
+        {
+            "seedType": 955,
+            "name": "Selene Cabbage",
+            "introduce": "<align=justified><size=36><color=black></color>",
+            "info": "<size=36>\n\n<color=#4A2900>Usage Condition: Odyssey Mode | Unlockable with Helios Cabbage</color>\n<color=black>Damage: </color><color=#8B0000>300×5/1.5s</color>\n<color=#99582a>Lumos System: </color><color=#8B0000>Projectiles +200 Damage per Lumos Level.</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Subspecies of Helios Cabbage.\n<color=black>•</color> Summons a Mini Moon every 30s. The Mini Moon lasts for 15s and heals all plants for 50 HP per second. It also restores an additional 100×(number of Selene Cabbages on the lawn) HP each second to the plant with the lowest HP percentage.\n<color=black>•</color> If a Mini Sun is also present, healing effects are doubled.\n<color=black>•</color> The first Helios Cabbage Modifier increases Selene Cabbage projectile bonus to +600 damage per Lumos Level; the second triples healing power.</color>",
+            "cost": "\n<size=36>Conversion Formula: <color=#8B0000>? <-> Plantern</color>"
         },
         {
             "seedType": 1000,
@@ -2510,7 +2517,7 @@
             "seedType": 1240,
             "name": "Potato-spreader",
             "introduce": "<align=justified><size=36><color=black>Potato-spreader loves playing tricks underground. It shoots out surprises not once, not twice, but thrice—like a cheeky prankster with a never-ending stash of boom. Watch your step, or you might get a triple whammy that’ll blow your boots off.\n\n- Written by Mrs. Draco</color>",
-            "info": "<size=36>Potato-spreader resurfaces after exploding and fires potatoes across three lanes.\n\n<color=black>Damage: </color><color=#8B0000>30×3/1.5s</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Short plant (evades straight-firing projectiles).\n<color=black>•</color> Attacks faster as zombies get closer (down to 0.5s per attack).\n<color=black>•</color> When armed, explodes on contact, dealing 5400 damage, knocks back for 1 tile and retreats into the ground.\n<color=black>•</color>Re-emerges 15 seconds after exploding. Explodes and disappears immediately upon contact with vehicles.</color>",
+            "info": "<size=36>Potato-spreader resurfaces after exploding and fires potatoes across three lanes.\n\n<color=black>Damage: </color><color=#8B0000>30×3/1.5s</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Short plant (evades straight-firing projectiles).\n<color=black>•</color> Attacks faster as zombies get closer (down to 0.5s per attack).\n<color=black>•</color> When armed, explodes on contact, dealing 5400 damage, knocks back for 1 tile and retreats into the ground.\n<color=black>•</color> Re-emerges 15 seconds after exploding. Explodes and disappears immediately upon contact with vehicles.</color>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Potato Mine + Threepeater</color>"
         },
         {
@@ -2966,6 +2973,13 @@
             "name": "Jelly-shroom",
             "introduce": "<align=justified><size=36><color=black></color>",
             "info": "<size=36>\n\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Summons a hypnotized Zombie (browncoat) that fights for you after consuming a Sea-shroom.\n<color=black>•</color> When bitten, hypnotizes the attacker, then reverts to a Sea-shroom.</color>",
+            "cost": "<size=36>Fusion Formula: <color=#8B0000>Hypno-shroom > Sea-shroom</color>"
+        },
+        {
+            "seedType": 1306,
+            "name": "Football Gatling",
+            "introduce": "<align=justified><size=36><color=black></color>",
+            "info": "<size=36>\n\n<color=black>Toughness: </color><color=#8B0000>3000</color>\n<color=black>Damage: </color><color=#8B0000>80×4/2s</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Metal plant. Counts as an advanced fusion.\n<color=black>•</color> Every 12 shot is a Footbal Pea that causes hit Red-colored Football Zombies to run away from your house.</color>",
             "cost": "<size=36>Fusion Formula: <color=#8B0000>Hypno-shroom > Sea-shroom</color>"
         },
         {
