@@ -572,9 +572,9 @@
         },
         {
             "theZombieType": 209,
-            "name": "Clown-in-the-Pogo Zombie",
-            "introduce": "<align=justified><size=36><color=black>\"What, this? Just fashion, my friend,\" Clown-in-the-Pogo Zombie smirks whenever his appearance is brought up. But those who've known him long enough don't buy it. His look isn't just about style—it's a quiet, unspoken tribute to a love that once meant everything. Some trends fade, but some memories never do.</color></size>",
-            "info": "<size=36>The bomb is hidden in his pogo stick.\n\n<color=black>Toughness: </color><color=#4B0082>720 + 4400 (Type 1)</color>\n<color=black>Traits: </color><color=#4B0082>Inherits traits from Pogo Melon Zombie. If he dies while holding his pogo stick, he'll explode and transform into a King Jack-in-the-Box Zombie.</color>\n<color=black>Odyssey Modifiers:\n</color><color=#4B0082>1. On-death explosion is now guaranteed | Pogo Melon Zombies and Clown-in-the-Pogo Zombies have their charge time reduced to 0.75s.\n2. Jack-in-the-Box Zombies affected by the explosion will turn into Clown-in-the-Pogo Zombies.\n<color=black>Weakness: </color>Umbrella fusions</color>"
+            "name": "Clown-on-the-Pogo Zombie",
+            "introduce": "<align=justified><size=36><color=black>\"What, this? Just fashion, my friend,\" Clown-on-the-Pogo Zombie smirks whenever his appearance is brought up. But those who've known him long enough don't buy it. His look isn't just about style—it's a quiet, unspoken tribute to a love that once meant everything. Some trends fade, but some memories never do.</color></size>",
+            "info": "<size=36>The bomb is hidden in his pogo stick.\n\n<color=black>Toughness: </color><color=#4B0082>720 + 4400 (Type 1)</color>\n<color=black>Traits: </color><color=#4B0082>Inherits traits from Pogo Melon Zombie. If he dies while holding his pogo stick, he'll explode and transform into a King Jack-in-the-Box Zombie.</color>\n<color=black>Odyssey Modifiers:\n</color><color=#4B0082>1. On-death explosion is now guaranteed | Pogo Melon Zombies and Clown-on-the-Pogo Zombies have their charge time reduced to 0.75s.\n2. Jack-in-the-Box Zombies affected by the explosion will turn into Clown-on-the-Pogo Zombies.\n<color=black>Weakness: </color>Umbrella fusions</color>"
         },
         {
             "theZombieType": 210,
@@ -664,7 +664,7 @@
             "theZombieType": 224,
             "name": "<color=#4B0082><u>Queen Jill-in-the-Box</u>",
             "introduce": "<align=justified><size=36><color=black>The Queen's gaze alone is enough to make her servants tremble. None dare defy her. But power is not her only delight—she loves to give. Within her ornate gift box, toys and trinkets await young hands... along with bombs primed to surprise. And oh, how she loves surprises.</color>",
-            "info": "<size=36>Queen Jill-in-the-Box is very keen on creating \"explosive scenes.\"\n\n<color=black>Toughness: </color><color=#4B0082>48000</color>\n<color=black>Traits: </color><color=#4B0082>\n<color=black>•</color> Mini-boss. Immune to being hypnotized or devoured.\n<color=black>•</color> Crushes plants.\n<color=black>•</color> Explodes on death, dealing physical damage.\n<color=black>•</color> Emerges from her box at regular intervals, causing one of the following effects at random:\n1. Summons Clown-in-the-Box zombies on every tile of the fifth column and each column to its right.\n2. Same but summons Clown-in-the-Pogo Zombies instead.\n3. Releases an explosion in her column, dealing physical damage.</color>"
+            "info": "<size=36>Queen Jill-in-the-Box is very keen on creating \"explosive scenes.\"\n\n<color=black>Toughness: </color><color=#4B0082>48000</color>\n<color=black>Traits: </color><color=#4B0082>\n<color=black>•</color> Mini-boss. Immune to being hypnotized or devoured.\n<color=black>•</color> Crushes plants.\n<color=black>•</color> Explodes on death, dealing physical damage.\n<color=black>•</color> Emerges from her box at regular intervals, causing one of the following effects at random:\n1. Summons Clown-in-the-Box zombies on every tile of the fifth column and each column to its right.\n2. Same but summons Clown-on-the-Pogo Zombies instead.\n3. Releases an explosion in her column, dealing physical damage.</color>"
         },
         {
             "theZombieType": 225,
@@ -754,7 +754,7 @@
             "theZombieType": 310,
             "name": "Sharkmarine-X",
             "introduce": "<align=justified><size=36><color=black>A knockoff developed by a rival of Gfishtus Corps. It's said to perform identically to the original, but Gfishtus insists this model leaks.</color>",
-            "info": "<size=36>Edgar's latest mass-produced submarine unit.\n\n<color=black>Toughness: </color><color=#4B0082>3000</color>\n<color=black>Traits: </color><color=#4B0082>\n<color=black>•</color> Tier 1 Evolved Zombie.\n<color=black>•</color> Moves swiftly in water lanes, crushing any plants in its path, dealing 500 Damage to anti-crush plants..</color>"
+            "info": "<size=36>Edgar's latest mass-produced submarine unit.\n\n<color=black>Toughness: </color><color=#4B0082>3000</color>\n<color=black>Traits: </color><color=#4B0082>\n<color=black>•</color> Tier 1 Evolved Zombie.\n<color=black>•</color> Moves swiftly in water lanes, crushing any plants in its path, dealing 500 Damage to anti-crush plants.</color>"
         },
         {
             "theZombieType": 311,
@@ -836,21 +836,21 @@
         },
         {
             "theZombieType": 324,
-            "name": "Knight Clown-in-the-Pogo Zombie",
+            "name": "Knight Clown-on-the-Pogo Zombie",
             "introduce": "<align=justified><size=36><color=black>Don't bother him—he's in love. He's not in the mood to hear your pessimistic take on his romance, and if you try, you'll be met with an explosively emotional response.</color>",
-            "info": "<size=36>Pogo zombie with a modern explosive-loaded pogo stick. Only slightly magnetic and difficult to disarm.\n\n<color=black>Toughness: </color><color=#4B0082>3000 + 3000 (Type 1)</color>\n<color=black>Traits: </color><color=#4B0082>\n<color=black>•</color> Tier 1 Evolved Zombie.\n<color=black>•</color> Inherits Clown-in-the-Pogo Zombie traits.\n<color=black>•</color> Does not lose pogo stick if knocked back by Umbrellas.\n<color=black>•</color> If killed while still holding the stick, triggers a Jack-in-the-Box explosion.</color>"
+            "info": "<size=36>Pogo zombie with a modern explosive-loaded pogo stick. Only slightly magnetic and difficult to disarm.\n\n<color=black>Toughness: </color><color=#4B0082>3000 + 3000 (Type 1)</color>\n<color=black>Traits: </color><color=#4B0082>\n<color=black>•</color> Tier 1 Evolved Zombie.\n<color=black>•</color> Inherits Clown-on-the-Pogo Zombie traits.\n<color=black>•</color> Does not lose pogo stick if knocked back by Umbrellas.\n<color=black>•</color> If killed while still holding the stick, triggers a Jack-in-the-Box explosion.</color>"
         },
         {
             "theZombieType": 325,
-            "name": "King Clown-in-the-Pogo Zombie",
+            "name": "King Clown-on-the-Pogo Zombie",
             "introduce": "<align=justified><size=36><color=black>He once struggled with poor sales of pogo sticks, watermelons, and jack-in-the-boxes. So he consulted Catapult Zombie. \"You've got to imagine the watermelon and jack-in-the-box as one,\" the advice went. Judging by the explosive success, it worked.</color>",
-            "info": "<size=36>Equipped with a single-use charger for his explosive pogo stick.\n\n<color=black>Toughness: </color><color=#4B0082>6000 + 6000 (Type 1)</color>\n<color=black>Traits: </color><color=#4B0082>\n<color=black>•</color> Tier 2 Evolved Zombie.\n<color=black>•</color> Inherits the traits of Knight Clown-in-the-Pogo Zombie.\n<color=black>•</color> If spawned on the right half of the field, charges up for 5s and then makes a long leap of about 4 tiles.</color>"
+            "info": "<size=36>Equipped with a single-use charger for his explosive pogo stick.\n\n<color=black>Toughness: </color><color=#4B0082>6000 + 6000 (Type 1)</color>\n<color=black>Traits: </color><color=#4B0082>\n<color=black>•</color> Tier 2 Evolved Zombie.\n<color=black>•</color> Inherits the traits of Knight Clown-on-the-Pogo Zombie.\n<color=black>•</color> If spawned on the right half of the field, charges up for 5s and then makes a long leap of about 4 tiles.</color>"
         },
         {
             "theZombieType": 326,
-            "name": "Emperor Clown-in-the-Pogo Zombie",
+            "name": "Emperor Clown-on-the-Pogo Zombie",
             "introduce": "<align=justified><size=36><color=black>After much time, he's finally overcome the pain of his breakup. Now he's dressed in flashy colors and ready to court a new goddess. He's now pursuing Queen Jill-in-the-Box. Hopefully, his emotional stamina has improved.</color>",
-            "info": "<size=36>With an upgraded charging system, the smoke from his explosive pogo stick masks his decoy stand-in.\n\n<color=black>Toughness: </color><color=#4B0082>12000 + 12000 (Type 1)</color>\n<color=black>Traits: </color><color=#4B0082>\n<color=black>•</color> Tier 3 Evolved Zombie.\n<color=black>•</color> Inherits the traits of King Clown-in-the-Pogo Zombie but charging duration is reduced to 0.75s.\n<color=black>•</color> Can cheat death if holding his pogo stick.</color>"
+            "info": "<size=36>With an upgraded charging system, the smoke from his explosive pogo stick masks his decoy stand-in.\n\n<color=black>Toughness: </color><color=#4B0082>12000 + 12000 (Type 1)</color>\n<color=black>Traits: </color><color=#4B0082>\n<color=black>•</color> Tier 3 Evolved Zombie.\n<color=black>•</color> Inherits the traits of King Clown-on-the-Pogo Zombie but charging duration is reduced to 0.75s.\n<color=black>•</color> Can cheat death if holding his pogo stick.</color>"
         },
         {
             "theZombieType": 327,
