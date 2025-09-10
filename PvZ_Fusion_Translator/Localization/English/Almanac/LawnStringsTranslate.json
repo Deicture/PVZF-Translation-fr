@@ -443,7 +443,7 @@
         },
         {
             "seedType": 301,
-            "name": "Overclock Cherrybomber",
+            "name": "Overclocked Cherrybomber",
             "introduce": "<align=justified><size=36><color=black></color>",
             "info": "<size=36>\n\n<color=#4A2900>Usage Condition: Mystery Mode | Legendary Odyssey Plant</color>\n<color=black>Damage: </color><color=#8B0000>300</color>\n<color=black>Special: </color><color=#8B0000> Shoots explosive cherries at a horrifying rate after charging up for a short time.</color>",
             "cost": "\n"
@@ -452,7 +452,7 @@
             "seedType": 302,
             "name": "Arteris Cabbage",
             "introduce": "<align=justified><size=36><color=black></color>",
-            "info": "<size=36>\n\n<color=#4A2900>Usage Condition: Mystery Mode | Legendary Odyssey Plant; Easter Egg Plant</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Has a 3% chance to replace Selene Cabbage when fusing during Night levels (Fog, etc. not included). Arteris Cabbage retains all basic traits of Selene Cabbage.\n<color=black>•</color> While Arteris Cabbage is on the field, Mini Moons from Selene Cabbages become Mini Bloodmoons. These no longer provide Healing, but instead summon buffed Hypnotized Zombies every 10s. The first summon has a 3s cooldown.\n<color=black>•</color> Each Arteris Cabbage provides a +50% Toughness and Damage buff to the summoned Zombies.\n<color=black>•</color> The number and position of summons depend on \"barren tiles,\" defined as tiles without an Arteris or Selene Cabbage on them or in their 3×3 area.</color>",
+            "info": "<size=36>\n\n<color=#4A2900>Usage Condition: Mystery Mode | Legendary Odyssey Plant; Easter Egg Plant</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Has a 2% chance to replace Selene Cabbage when fusing during Night levels (Fog, etc. not included). Arteris Cabbage retains all basic traits of Selene Cabbage.\n<color=black>•</color> While Arteris Cabbage is on the field, Mini Moons from Selene Cabbages become Mini Bloodmoons. These no longer provide Healing, but instead summon buffed Hypnotized Zombies every 10s. The first summon has a 3s cooldown.\n<color=black>•</color> Each Arteris Cabbage provides a +50% Toughness and Damage buff to the summoned Zombies.\n<color=black>•</color> The number and position of summons depend on \"barren tiles,\" defined as tiles without an Arteris or Selene Cabbage on them or in their 3×3 area.</color>",
             "cost": "\n"
         },
         {
