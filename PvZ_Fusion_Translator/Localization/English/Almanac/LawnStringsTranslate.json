@@ -281,6 +281,13 @@
             "cost": "<size=36>Cost: <color=#8B0000>50</color>\nRecharge: <color=#8B0000>15s</color>"
         },
         {
+            "seedType": 9999,
+            "name": "Lumo-shroom",
+            "introduce": "<align=justified><size=36><color=black></color>",
+            "info": "<size=36>\n\n<color=blue>PvZ: Symbiosis Collab Plant</color>\n<color=black>Sun Output: </color><color=#8B0000>20→35/25s\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Sun-shrooms convert into Lumo-shrooms and gain the <b>Lumo-sun</b> ability after 150s if their tile's Lumos Level is 1 or higher. After an additional 150s under Lumos, Lumo-shrooms gain the <b>Lumo-sprite</b> ability. After another 150s under Lumos, they acquire <b>Lumo-burst</b>. Each additional Lumos Level accelerates conversion and upgrades by 100%.\n<color=black>•</color> Lumo-sun: Produces Lumo-sun, which is worth 20 each (35 when grown up).\n<color=black>•</color> Lumo-sprite: When a zombie bites a Lumo-shroom, 1 Lumo-sprite starts to follow that zombie (2 if grown up). Each time a followed zombie takes damage, 1 Lumo-sprite flies off and produces a small Lumo-sun. When the zombie dies, all Lumo-sprites following it are released, dropping an equal number of Lumo-suns. A zombie can have up to 20 Lumo-sprites following it at once.\n<color=black>•</color> Lumo-burst: When a Lumo-shroom dies, all zombies in a small radius are followed by five Lumo-flies (increased range when grown up).</color>",
+            "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Sun-shroom + Lumos Level</color>"
+        },
+        {
             "seedType": 233,
             "name": "Frozen Giftbox",
             "introduce": "<align=justified><size=36><color=black>Among all the gift boxes in the shop, the frozen one is the least loved. Why? Well… it's known for being the victim of <i>cold</i> treatments.</color>",
@@ -571,7 +578,7 @@
             "seedType": 916,
             "name": "Midas Umbrella",
             "introduce": "<align=justified><size=36><color=black>From its appearance, you can tell that Midas Umbrella has a knack for business. \"That's right, my hat of emerald was a trade item I exchanged with someone from a place full of blocks...\"</color>",
-            "info": "<size=36>A combination of Alchemist Umbrella and Umbrella Kale.\n\n<color=#4A2900>Usage Condition: Odyssey Mode | Initial Selection</color>\n<color=black>Toughness: </color><color=#8B0000>4000</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Has the traits of both its ingredients.\n<color=black>•</color> Receives 75% less damage from Tridents.\n<color=black>•</color> Bouncing projectiles now increases their damage by 100%.\n<color=black>•</color> Also allows projectiles to hit zombies in the two adjacent lanes.\n<color=black>•</color> Its Coffee Bean ultimate can instantly kill zombies below 50% Toughness.</color>\n<color=black>Odyssey Modifiers:<color=#8B0000>\n1. Bounced projectiles additional Damage 100% → 300%\n2. Activates ultimate automatically free of charge if zombies are near, 7.5s cooldown | Aegis Umbrella Subspecies Unlocked</color>",
+            "info": "<size=36>A combination of Alchemist Umbrella and Umbrella Kale.\n\n<color=#4A2900>Usage Condition: Odyssey Mode | Initial Selection</color>\n<color=black>Toughness: </color><color=#8B0000>4000</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Has the traits of both its ingredients.\n<color=black>•</color> Receives 75% less damage from Tridents.\n<color=black>•</color> Bouncing projectiles now increases their damage by 100%.\n<color=black>•</color> Also allows projectiles to hit zombies in the two adjacent lanes.\n<color=black>•</color> Inherits Alchemist Ultimate ability, but can instantly kill zombies below 50% max HP.</color>\n<color=black>Odyssey Modifiers:<color=#8B0000>\n1. Bounced projectiles additional Damage 100% → 300%\n2. Activates ultimate automatically free of charge if zombies are near, 7.5s cooldown | Aegis Umbrella Subspecies Unlocked</color>",
             "cost": "<size=36>Fusion Formula: <color=#8B0000>Alchemist Umbrella + Umbrella Kale</color>"
         },
         {
@@ -898,9 +905,9 @@
         },
         {
             "seedType": 1007,
-            "name": "Pea Mine",
-            "introduce": "<align=justified><size=36><color=black>Pea Mine may not have eyes, but he has his own special way of sensing zombies. \"I feel it…\" he murmured, \"The zombies are getting closer… closer… closer…\" Pea Mine's heartbeat quickened, and so did his firing speed. Faster, faster… until, with a \"bang,\" Pea Mine exploded into a burst of potato-flavored fireworks.</color></size>",
-            "info": "<size=36>Pea Mine can attack before unearthing.\n\n<color=black>Damage: </color><color=#8B0000>30/1.5s</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Short plant (evades straight-firing projectiles).\n<color=black>•</color> Fusion returns 50 Sun.\n<color=black>•</color> Attacks faster as zombies get closer, with a minimum attack interval of 0.5 seconds. Upon exploding, deals 1800 damage to zombies in a small radius and releases 36 projectiles in all directions.</color></size>",
+            "name": "Peatato Mine",
+            "introduce": "<align=justified><size=36><color=black>Peatato Mine may not have eyes, but he has his own special way of sensing zombies. \"I feel it…\" he murmured, \"The zombies are getting closer… closer… closer…\" Peatato Mine's heartbeat quickened, and so did his firing speed. Faster, faster… until, with a \"bang,\" Peatato Mine exploded into a burst of potato-flavored fireworks.</color></size>",
+            "info": "<size=36>Peatato Mine can attack before unearthing.\n\n<color=black>Damage: </color><color=#8B0000>30/1.5s</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Short plant (evades straight-firing projectiles).\n<color=black>•</color> Fusion returns 50 Sun.\n<color=black>•</color> Attacks faster as zombies get closer, with a minimum attack interval of 0.5 seconds. Upon exploding, deals 1800 damage to zombies in a small radius and releases 36 projectiles in all directions.</color></size>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Peashooter + Potato Mine</color>"
         },
         {
@@ -1507,8 +1514,8 @@
         },
         {
             "seedType": 1094,
-            "name": "Starjoker",
-            "introduce": "<align=justified><size=36><color=black>Starjoker often bore the burden of being seen as a circus clown, which left him feeling discontented. \"I may appear comical, but I am, in fact, a superhero,\" he declared. \"I commandeered the zombie's Jack-in-the-Box and put on the hero suit inside!\" Perhaps the Magnet-shroom who aided him in the heist never mentioned where the box came from.</color></size>",
+            "name": "Jokestar",
+            "introduce": "<align=justified><size=36><color=black>Jokestar often bore the burden of being seen as a circus clown, which left him feeling discontented. \"I may appear comical, but I am, in fact, a superhero,\" he declared. \"I commandeered the zombie's Jack-in-the-Box and put on the hero suit inside!\" Perhaps the Magnet-shroom who aided him in the heist never mentioned where the box came from.</color></size>",
             "info": "<size=36>Shoots out stars that explode on contact.\n\n<color=black>Damage: </color><color=#8B0000>40×5/1.5s</color>\n<color=black>Special: </color><color=#8B0000>Metal plant. Stars explode on contact, dealing low splash damage with no falloff.</color></size>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Jack-in-the-Box > Starmorph</color>"
         },
@@ -1521,15 +1528,15 @@
         },
         {
             "seedType": 1096,
-            "name": "Starsteel",
-            "introduce": "<align=justified><size=36><color=black>People often use the headshots of Starsteel and Starmorph to hype up their relationship, which greatly troubles both of them. In fact, Starsteel just wants to be himself - a star with a heart of stone that is hard to rust.</color></size>",
+            "name": "Iron Star",
+            "introduce": "<align=justified><size=36><color=black>People often use the headshots of Iron Star and Starmorph to hype up their relationship, which greatly troubles both of them. In fact, Iron Star just wants to be himself - a star with a heart of stone that is hard to rust.</color></size>",
             "info": "<size=36>Fires stars lined with a metallic coating.\n\n<color=black>Toughness: </color><color=#8B0000>2000</color>\n<color=black>Damage: </color><color=#8B0000>80×5/1.5s</color>\n<color=black>Special: </color><color=#8B0000>Metal plant. Breaks Type 2 armor instantly.</color></size>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Bucket > Starmorph</color>"
         },
         {
             "seedType": 1097,
             "name": "Steel Pumpkin",
-            "introduce": "<align=justified><size=36><color=black>\"I wish I were stronger,\" Steel Pumpkin muses. \"Maybe if I were made of diamond...\" Starsteel smirks and replies, \"Even that wouldn't be enough! You'd need to be netherite!\" In their spirited banter, they forget a vital truth: they can enchant their own strengths.</color></size>",
+            "introduce": "<align=justified><size=36><color=black>\"I wish I were stronger,\" Steel Pumpkin muses. \"Maybe if I were made of diamond...\" Iron Star smirks and replies, \"Even that wouldn't be enough! You'd need to be netherite!\" In their spirited banter, they forget a vital truth: they can enchant their own strengths.</color></size>",
             "info": "<size=36>Protects your plants with sturdy iron.\n\n<color=black>Toughness: </color><color=#8B0000>8000</color>\n<color=black>Special: </color><color=#8B0000>Metal plant. Can be fed corresponding metal objects to restore 500 Toughness. Receives half the damage from explosive cherries.</color></size>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Bucket > Pumpkin Morph</color>"
         },
@@ -1647,8 +1654,8 @@
         },
         {
             "seedType": 1114,
-            "name": "Kernel Pot",
-            "introduce": "<align=justified><size=36><color=black>Kernel Pot believes he's more than just delicious. In his view, buttered corn provides more nutrients than soil, especially for fungi. Kernel Pot's favorite plant is the Kernel-pult, his favorite food is butter, his favorite container is a cup, and his favorite song is \"Buttercup.\"</color>",
+            "name": "Butter Pot",
+            "introduce": "<align=justified><size=36><color=black>Butter Pot believes he's more than just delicious. In his view, buttered corn provides more nutrients than soil, especially for fungi. Butter Pot's favorite plant is the Kernel-pult, his favorite food is butter, his favorite container is a cup, and his favorite song is \"Buttercup.\"</color>",
             "info": "<size=36>Increases the butter chance of all Kernel-type plants above it from 25% to 50%.\n\n<color=black>Special: </color><color=#8B0000>Raises the butter chance from 1/4 to 1/2.</color>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Kernel-pult > Flower Pot</color>"
         },
@@ -2109,9 +2116,9 @@
         },
         {
             "seedType": 1180,
-            "name": "Frostweed",
-            "introduce": "<align=justified><size=36><color=black>Breaking news from the first Plants vs. Zombies Hockey Tournament! Frostweed skated to victory, leaving the Bobsled Zombies scrambling. But now, they're calling foul! \"I did nothing wrong,\" Frostweed insists, adjusting their icy spikes. \"And these springs? Just a little pre-game safety gear.\"",
-            "info": "<size=36>Frostweed can slow down zombies that walk on it.\n\n<color=black>Damage: </color><color=#8B0000>40/1 Second</color>\n<color=black>Special: </color><color=#8B0000>Frostweeds can be upgraded to Ice Spikerocks using a Fertilizer.</color>\n<color=#0077b6>Cryo System: </color><color=#8B0000>Each hit inflicts Chill and adds 10 Cryo points.</color>",
+            "name": "Iceweed",
+            "introduce": "<align=justified><size=36><color=black>Breaking news from the first Plants vs. Zombies Hockey Tournament! Iceweed skated to victory, leaving the Bobsled Zombies scrambling. But now, they're calling foul! \"I did nothing wrong,\" Iceweed insists, adjusting their icy spikes. \"And these springs? Just a little pre-game safety gear.\"",
+            "info": "<size=36>Iceweed can slow down zombies that walk on it.\n\n<color=black>Damage: </color><color=#8B0000>40/1 Second</color>\n<color=black>Special: </color><color=#8B0000>Iceweeds can be upgraded to Ice Spikerocks using a Fertilizer.</color>\n<color=#0077b6>Cryo System: </color><color=#8B0000>Each hit inflicts Chill and adds 10 Cryo points.</color>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Spikeweed + Ice-shroom</color>"
         },
         {
@@ -2529,9 +2536,9 @@
         },
         {
             "seedType": 1240,
-            "name": "Potato-spreader",
-            "introduce": "<align=justified><size=36><color=black>Potato-spreader loves playing tricks underground. It shoots out surprises not once, not twice, but thrice—like a cheeky prankster with a never-ending stash of boom. Watch your step, or you might get a triple whammy that’ll blow your boots off.\n\n- Written by Mrs. Draco</color>",
-            "info": "<size=36>Potato-spreader resurfaces after exploding and fires potatoes across three lanes.\n\n<color=black>Damage: </color><color=#8B0000>30×3/1.5s</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Short plant (evades straight-firing projectiles).\n<color=black>•</color> Attacks faster as zombies get closer (down to 0.5s per attack).\n<color=black>•</color> When armed, explodes on contact, dealing 5400 damage, knocks back for 1 tile and retreats into the ground.\n<color=black>•</color> Re-emerges 15 seconds after exploding. Explodes and disappears immediately upon contact with vehicles.</color>",
+            "name": "Threepeatato Mine",
+            "introduce": "<align=justified><size=36><color=black>Threepeatato Mine loves playing tricks underground. It shoots out surprises not once, not twice, but thrice—like a cheeky prankster with a never-ending stash of boom. Watch your step, or you might get a triple whammy that’ll blow your boots off.\n\n- Written by Mrs. Draco</color>",
+            "info": "<size=36>Threepeatato Mine resurfaces after exploding and fires potatoes across three lanes.\n\n<color=black>Damage: </color><color=#8B0000>30×3/1.5s</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Short plant (evades straight-firing projectiles).\n<color=black>•</color> Attacks faster as zombies get closer (down to 0.5s per attack).\n<color=black>•</color> When armed, explodes on contact, dealing 5400 damage, knocks back for 1 tile and retreats into the ground.\n<color=black>•</color> Re-emerges 15 seconds after exploding. Explodes and disappears immediately upon contact with vehicles.</color>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Potato Mine + Threepeater</color>"
         },
         {
@@ -3123,35 +3130,28 @@
             "cost": "<size=36>Cost: <color=#8B0000>300</color>\nRecharge: <color=#8B0000>7.5s</color></size>"
         },
         {
-            "seedType": 9999,
-            "name": "Lumo-shroom",
-            "introduce": "<align=justified><size=36><color=black></color>",
-            "info": "<size=36>\n\n<color=blue>PvZ: Symbiosis Collab Plant</color>\n<color=black>Sun Output: </color><color=#8B0000>20→35/25s\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Sun-shrooms convert into Lumo-shrooms and gain the <b>Lumo-sun</b> ability after 150s if their tile's Lumos Level is 1 or higher. After an additional 150s under Lumos, Lumo-shrooms gain the <b>Lumo-sprite</b> ability. After another 150s under Lumos, they acquire <b>Lumo-burst</b>. Each additional Lumos Level accelerates conversion and upgrades by 100%.\n<color=black>•</color> Lumo-sun: Produces Lumo-sun, which is worth 20 each (35 when grown up).\n<color=black>•</color> Lumo-sprite: When a zombie bites a Lumo-shroom, 1 Lumo-sprite starts to follow that zombie (2 if grown up). Each time a followed zombie takes damage, 1 Lumo-sprite flies off and produces a small Lumo-sun. When the zombie dies, all Lumo-sprites following it are released, dropping an equal number of Lumo-suns. A zombie can have up to 20 Lumo-sprites following it at once.\n<color=black>•</color> Lumo-burst: When a Lumo-shroom dies, all zombies in a small radius are followed by five Lumo-flies (increased range when grown up).</color>",
-            "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Sun-shroom + Lumos Level</color>"
-        },
-        {
-            "seedType": 800,
-            "name": "Golden Ace Snipea",
-            "introduce": "<align=justified><size=36><color=black>\"He's a dead man.\" When the first glint of gold arcs through the sky, even a brainless zombie knows that that is the harbinger for ultimate oblivion.</color>",
-            "info": "<size=36>Coordinate all firepower!\n\n<color=#4A2900>Usage Condition: Odyssey Mode</color>\n<color=black>Damage: </color><color=#8B0000>1000/6s</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Headshot once every 6s.\n<color=black>•</color> Active Ability: Click on Golden Ace Snipea to bring up a crosshair. Select any zombie as target, and all snipers on the field will immediately coordinate a focused attack on it. This effect has a 30s cooldown. \n<color=black>Odyssey Modifiers:\n</color><color=#8B0000>1. Attack Speed of all Snipers increased by 30%\n2. CD for Active Ability reduced to 15s</color>",
-            "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Snipea + Gold Magnet</color>"
-        },
-        {
-            "seedType": 801,
+            "seedType": 1802,
             "name": "Bomber Snipea",
             "introduce": "<align=justified><size=36><color=black>A famous baker renowned for his cherry pie—though he often forgets the most essential ingredient: cherries. But fret not! Once he deals with this zombie, bam, cherry pie, complete!</color>",
             "info": "<size=36>Create cherry explosions at the location of his targets.\n\n<color=#4A2900>Usage Condition: Odyssey Mode</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Creates cherry explosions at the location of his targets every 2s.\n<color=black>•</color> Headshots every 8 attacks. \n<color=black>Odyssey Modifiers:\n</color><color=#8B0000>Benefits from Gatling Cherrybomber's Modifiers</color>",
             "cost": "<size=36>Fusion Formula: <color=#8B0000>Snipea + Gatling Cherrybomber</color>"
         },
         {
-            "seedType": 802,
+            "seedType": 1803,
             "name": "Doom Snipea",
             "introduce": "<align=justified><size=36><color=black>He is the guardian of the night, the stalker in the shadows. The moonlight is his veil, and the night sky his camouflage. I am grateful to fate for granting me this world-shattering power—along with the trials it brings, and the burdens it adds.</color>",
             "info": "<size=36>His shots create doom explosions!\n\n<color=#4A2900>Usage Condition: Odyssey Mode</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Unleashes a Doom-shroom explosion at his target's location every 8s.\n<color=black>•</color> Headshot every 2 attacks.\n<color=black>Odyssey Modifiers:\n</color><color=#8B0000>1. (Gatling Doom's 1st Modifier) Attack Interval → 4s\n2. (Gatling Doom's 2nd Modifier) Now every shot headshots the target.</color>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Snipea + Gatling Doom</color>"
         },
         {
-            "seedType": 803,
+            "seedType": 1804,
+            "name": "Golden Ace Snipea",
+            "introduce": "<align=justified><size=36><color=black>\"He's a dead man.\" When the first glint of gold arcs through the sky, even a brainless zombie knows that that is the harbinger for ultimate oblivion.</color>",
+            "info": "<size=36>Coordinate all firepower!\n\n<color=#4A2900>Usage Condition: Odyssey Mode</color>\n<color=black>Damage: </color><color=#8B0000>1000/6s</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Headshot once every 6s.\n<color=black>•</color> Active Ability: Click on Golden Ace Snipea to bring up a crosshair. Select any zombie as target, and all snipers on the field will immediately coordinate a focused attack on it. This effect has a 30s cooldown. \n<color=black>Odyssey Modifiers:\n</color><color=#8B0000>1. Attack Speed of all Snipers increased by 30%\n2. CD for Active Ability reduced to 15s</color>",
+            "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Snipea + Gold Magnet</color>"
+        },
+        {
+            "seedType": 1805,
             "name": "Sniper Icicle-shroom",
             "introduce": "<align=justified><size=36><color=black>Sniper Icicle-shroom is the shortest sniper in the squad, though he doesn't see that as a problem. \"My fellow sniper buddies, sure, they're tall and imposing, but they always need other plants to cover for them. Me? I can handle it myself just fine!\"</color>",
             "info": "<size=36>Piercingly cold and deadly!\n\n<color=black>Damage: </color><color=#8B0000>500/3s</color>\n<color=#4A2900>Usage Condition: Odyssey Mode</color>\n<color=#0077b6>Cryo System: </color><color=#8B0000>Attacks inflict 100 Cryo points and deal ×4 damage to frozen zombies.</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Deals splash damage in a single tile.\n<color=black>•</color> Headshots the main target every 6 attacks.\n<color=black>Odyssey Modifiers:\n</color><color=#8B0000>1. (Gatling Icicle-shroom's 1st Modifier) Splash radius → 3×3\n2. (Gatling Icicle-shroom's 2nd Modifier) Now deals ×10 damage to frozen zombies</color>",
