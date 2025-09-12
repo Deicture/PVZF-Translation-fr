@@ -470,8 +470,8 @@
         },
         {
             "theZombieType": 118,
-            "name": "Pea Commando Football",
-            "introduce": "<align=justified><size=36><color=black>They say fate is unpredictable, and Pea Commando Football would have to agree. One second, he's in a vegetarian batting cage. The next? He's accidentally ingested a high-powered pitching machine. Now, his new un-life is just one endless round of rapid-fire peas.</color>",
+            "name": "Pea Commando Football Zombie",
+            "introduce": "<align=justified><size=36><color=black>They say fate is unpredictable, and Pea Commando Football Zombie would have to agree. One second, he's in a vegetarian batting cage. The next? He's accidentally ingested a high-powered pitching machine. Now, his new un-life is just one endless round of rapid-fire peas.</color>",
             "info": "<size=36>Unleashes a relentless barrage of peas at your defenses!\n\n<color=black>Damage: </color><color=#4B0082>20/0.1s</color>\n<color=black>Toughness: </color><color=#4B0082>270 + 1400 (Type 1)</color>\n<color=black>Traits: </color><color=#4B0082>Constantly shoots volleys of peas at your plants.</color>"
         },
         {
@@ -668,8 +668,8 @@
         },
         {
             "theZombieType": 225,
-            "name": "Giga Buckshot Commando",
-            "introduce": "<align=justified><size=36><color=black>Giga Buckshot Commando is a warrior made of iron — iron body, iron will, iron bullets, and an ironic attitude towards complaints from his colleagues. He firmly believes that the zombies being knocked back by his bullets must simply lack the kind of iron-refining training he’s undergone.</color>",
+            "name": "Giga Buckshot Commando Zombie",
+            "introduce": "<align=justified><size=36><color=black>Giga Buckshot Commando Zombie is a warrior made of iron — iron body, iron will, iron bullets, and an ironic attitude towards complaints from his colleagues. He firmly believes that the zombies being knocked back by his bullets must simply lack the kind of iron-refining training he’s undergone.</color>",
             "info": "<size=36>An unstoppable warrior. Fearless and peerless.\n\n<color=black>Damage: </color><color=#4B0082>80/0.1s</color>\n<color=black>Toughness: </color><color=#4B0082>3000 + 3000 (Type 1)</color>\n<color=black>Traits: </color><color=#4B0082>Immune to Knock backs. Fires iron peas at your defense at a ridiculous rate, which can knock back hypnotized zombies. </color>"
         },
         {
@@ -908,8 +908,8 @@
         },
         {
             "theZombieType": 195,
-            "name": "Sniper Commando",
-            "introduce": "<align=justified><size=36><color=black>A bounty-hunter turned commando, Sniper Commando is shrouded in mystery. No one knows where he came from, why he's so serious, or how he intends to eat brains through such a ridiculous barrel.</color>",
+            "name": "Sniper Commando Zombie",
+            "introduce": "<align=justified><size=36><color=black>A bounty-hunter turned commando, Sniper Commando Zombie is shrouded in mystery. No one knows where he came from, why he's so serious, or how he intends to eat brains through such a ridiculous barrel.</color>",
             "info": "<size=36>Punishes your most valuable plants with precision.\n\n<color=black>Toughness: </color><color=#4B0082>1000</color>\n<color=black>Traits: </color><color=#4B0082>\n<color=black>•</color> Upon entry, targets the most valuable plant on the lawn (by Sun cost).\n<color=black>•</color> If not eliminated in 8s, kills the plant and moves onto the next target.</color>"
         }
     ]
