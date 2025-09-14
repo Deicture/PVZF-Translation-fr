@@ -1060,6 +1060,13 @@
       "name": "232"
     },
     {
+    "seedType": 9999,
+    "name": "Seta Lúmina",
+   "introduce": "<size=39><color=#3D1400>INTRO</color></size>",
+   "info": "<size=39>Parte del <color=#104f30>Sistema Lúmina</color>\n<color=blue>Planta de la colaboración con PvZ: Symbiosis</color></color>\n\n<color=#3D1400>Producción Solar: </color><color=red>20→35 cada 25s</color>\n<color=#3D1400>Especial:</color> <color=red>Las Setas Solares se convierten en Setas Lúminas y consiguen la habilidad <b>Lumi-Sol</b> después de 150s si el Nivel Lúmina en su casilla es 1 o mayor. Después de unos 150s adicionales, consigue la habilidad <b>Lumi-Hada</b>. Tras unos otros 150s, finalmente consigue la habilidad <b>Lumi-Estallo</b>. Cada Nivel Lúmina acelera las conversiones y mejoras por 100%.</color>\n<size=39><color=#3D1400>Habilidades:</color> <color=red>\n- Lumi-Sol:\nProduce soles con un valor de 20 (35 al crecer).\n- Lumi-Hada\nCuando un zombi muerde una Seta Lúmina, una Lumi-Hada empieza a seguirlo (dos si la Seta Lúmina esta crecida). Cada vez que un zombi seguido recibe daño, una Lumi-Hada sale volando y produce un pequeño Lumi-Sol. Cuando el zombi muere, todos las Lumi-Hadas que lo siguen se liberan, dejando caer la misma cantidad de Lumi-Soles. Un zombi puede tener hasta 20 Lumi-Hadas siguiéndolo a la vez.\n- Lumi-Estallo\nCuando una Seta Lúmina muere, todos los zombis en un radio pequeño son seguidos por cinco Lumi-Hadas (mayor radio cuando crecen).</color>\n<size=39><color=#3D1400>Fórmula de Fusión:</color> <color=red>Seta Solar + Nivel Lúmina</color></size>",
+   "cost": "<size=39>Costo: <color=red>50, 125</color>   Recarga: <color=red>15 Segundos</color>\nPlantas Requeridas: <color=red>2 (+ Nivel Lúmina)</color></size>"
+        },
+        {
       "seedType": 233,
       "name": "Regalo Congelado",
       "introduce": "<size=39><color=#3D1400>Entre todos los Regalos en la tienda, el congelado es el menos amado. ¿Por qué? Bueno... Es conocido por ser la víctima de tratamientos <i>fríos</i>.</color></size>",
@@ -1175,8 +1182,8 @@
       "seedType": 251,
       "name": "Nuez Solar Gigante",
       "introduce": "<size=39><color=#3D1400>“Unas cuantas nueces me dijeron que me pagarian 500 soles para que les ayudara con un favor, así que aquí estoy. ¿Qué tan difícil puede ser? No creo que se trate de irrumpir en una horda de zombis, ¿verdad?” dice Nuez Solar Gigante.</color></size>",
-      "info": "<size=39>La Nuez Solar Gigante roda y derriba zombis al igual que Nuez Gigante.\n\n<color=#3D1400>Daño: </color><color=red>1800</color>\n<color=#3D1400>Nombre Científico: </color><color=red>Juglans Giga Solarus</color></size>",
-      "cost": "<size=39>Planta Requerida: <color=red>Emperador del Sol</color></size>"
+      "info": "<size=39>La Nuez Solar Gigante roda y derriba zombis al igual que Nuez Gigante.\n\n<color=#3D1400>Daño: </color><color=red>600 cada 0.02s (Revisar Emperador Solar para tener mas información)</color>\n<color=#3D1400>Nombre Científico: </color><color=red>Juglans Giga Solarus</color></size>",
+      "cost": "<size=39>Planta Requerida: <color=red>Emperador Solar</color></size>"
     },
     {
       "seedType": 252,
@@ -1389,19 +1396,24 @@
       "seedType": 300,
       "name": "Espadachín Astral",
       "introduce": "<size=39><color=#3D1400>“Un salón lleno de flores embriaga a tres mil invitados, una espada helada enfría catorce estados.” “El emperador me llama, pero no subo a su barco; yo digo que soy el inmortal del vino.” El Espadachín Astral, cuando está borracho, disfruta recitando poesía y practicando su técnica de espada ebria. Las plantas se maravillan ante su poder para derrotar zombis, pero él dice que apunta su espada voladora a la luna en los nueve cielos, y que al recogerla, esta cae de vuelta a la tierra.</color></size>",
-      "info": "<size=39>Una leyenda en persona, será mejor que te prepares para su espectáculo.\n\n<color=#3D1400>Desbloqueo: <color=red>Completar el nivel 10 en el Modo Abismo</color>\n<color=#3D1400>Daño: </color><color=red>1800</color>\n<color=#3D1400>Especial: </color><color=red>Cuando hay zombis cerca, invoca una espada de luz que causa gran daño a los zombis cercanos, y luego invoca 10 espadas grandes que caen del cielo, causando 1800 de daño al impactar.</color>\n<color=#3D1400>Nombre Científico: </color><color=red>Astra Gladiatorius</color></size>",
-      "cost": "<size=39>Costo: <color=red>100</color>\nRecarga: <color=red>15 Segundos</color></size>"
-    },
-
-    {
-      "seedType": 301,
-      "name": "301"
-    },
-    {
-      "seedType": 302,
-      "name": "302"
-    },
-    {
+      "info": "<size=39>Una leyenda en persona, será mejor que te prepares para su espectáculo.\n\n<color=#3D1400>Daño: </color><color=red>1800</color>\n<color=#3D1400>Especial: </color><color=red>Cuando hay zombis cerca, invoca una espada de luz que causa gran daño a los zombis cercanos, y luego invoca 10 espadas grandes que caen del cielo, causando 1800 de daño al impactar.</color>\n<color=#3D1400>Nombre Científico: </color><color=red>Astra Gladiatorius</color></size>",
+    "cost": "<color=purple>Condición de Uso: Modo Abismo | NV10 a NV30</color></size>"
+  },
+  {
+    "seedType": 301,
+    "name": "Comandante Carmesí",
+   "introduce": "<size=39><color=#3D1400>INTRO</color></size>",
+   "info": "<size=39>Dispara cerezas explosivas a una velocidad aterradora.</color>\n\n<color=#3D1400>Daño:</color> <color=red>300\n<color=#3D1400>Especial:</color> <color=red>Dispara cerezas explosivas a una velocidad grande después de cargarse durante un breve periodo de tiempo.</color></size>",
+    "cost": "<color=purple>Condición de Uso: Modo Misterioso | Planta Odisea Legendaria</color></size>"
+  },
+  {
+    "seedType": 302,
+    "name": "Sangreomenia",
+   "introduce": "<size=39><color=#3D1400>INTRO</color></size>",
+   "info": "<size=39>Crea lunas de sangre que invocan zombis.</color>\n\n<color=#3D1400>Especial:</color> <color=red>Tiene un 2% de aparecer al intentar fusionar a Seleneomenia durante niveles de Noche (excluyendo Niebla, etc). Hereda la mayoria de las características de Seleneomenia, y solo puedes tener uno en los Modos Odisea. Cuando Sangreomenia está en el campo, las Mini-Lunas de Seleneomenia se convierten en Mini-Lunas Sangrientas. Estas ya no brindan salud, pero invocan zombis hipnotizados fuertes cada 10s. La primera invocación tiene una recarga de 3s. Cada Sangreomenia brinda +50% Durabilidad y Daño a los zombis invocados. El numero y posición de las invocaciones dependen en \"casillas vacias\", definidas como casillas sin un Sangreomenia o Seleneomenia en ellas o alrededor de ellas.</color></size>",
+    "cost": "<color=purple>Condición de Uso: Modo Misterioso | Planta Odisea Legendaria (Easter Egg)</color></size>"
+  },
+  {
       "seedType": 303,
       "name": "303"
     },
@@ -1717,13 +1729,19 @@
     },
     {
       "seedType": 368,
-      "name": "368"
+      "name": "Tripitipum (TD)",
+      "introduce": "<size=39><color=#3D1400>Las Tripitipum aman hacer travesuras bajo tierra. Lanza sorpresas no una, ni dos, sino tres veces—como unos bromistas descarados con una reserva interminable de explosiones. Mira por dónde pisas, o podrías llevarte una triple sacudida que te hará volar las botas.</color></size>",
+      "info": "<size=39>Las Tripitipum resurgen después de explotar y disparan patatas a través de tres filas.\nAntes de plantar, puedes presionar R para voltearlo.</color>\n\n<color=#3D1400>Daño: </color><color=red>TBD</color>\n<color=#3D1400>Tiempo De Armado: </color><color=red>TBD</color>\n<color=#3D1400>Especial:</color> <color=red>Mientras más se acerca un zombi, más rápido disparará hasta un límite de 0.5s por ataque. Al explotar, empuja a los zombis que sobrevivieron por una casilla. Después de explotar, resurgen despues de 14s. Solo muere al ser comido o al ser aplastado.</color>\n\n<color=purple>Mejoras:<color=red>\n- Mejora Básica (X Soles): BASICUPGRADE\n- Mejora Avanzada I (X Soles): UPGRADE1\n- Mejora Avanzada II (X Soles): UPGRADE2\n\n<color=#3D1400>Nombre Científico:</color> <color=red>Solanum triplicans</color></size>\n<size=39><color=#3D1400>Fórmula de Fusión:</color> <color=red>Patatapum + Tripitidora</color></size>",
+      "cost": "<size=39>Costo: <color=red>X</color>\nRecarga: <color=red>X Segundos</color></size>"
     },
     {
-      "seedType": 369,
-      "name": "369"
-    },
-    {
+   "seedType": 369,
+   "name": "Zampalga Voraz (TD)",
+      "introduce": "<size=39><color=#3D1400>Zampalga Voraz destaca como un verdadero filósofo entre las plantas. A menudo murmura, \"¿Soy el calabacín o soy el alga?\" o reflexiona sobre preguntas profundas como, \"¿De dónde viene la hierba y a dónde va?\" Sin embargo, su desinterés por la higiene personal y su cabello desaliñado hacen que las demás plantas prefieran mantener distancia.</color></size>",
+   "info": "<size=39>Zampalga Voraz puede arrastrar tres zombis al agua.\n\n<color=#3D1400>Daño:</color> <color=red>Muerte Instantánea*3\n\n<color=purple>Mejoras:<color=red>\n- Mejora Básica (X Soles): BASICUPGRADE\n- Mejora Avanzada I (X Soles): UPGRADE1\n- Mejora Avanzada II (X Soles): UPGRADE2\n\n<color=#3D1400>Nombre Científico:</color> <color=red>Cucurbita Philo</color></size>\n<size=39><color=#3D1400>",
+   "cost": "<size=39>Costo: <color=red>X</color>\nRecarga: <color=red>X Segundos</color></size>"
+ },
+ {
       "seedType": 370,
       "name": "370"
     },
@@ -3840,8 +3858,8 @@
     },
     {
       "seedType": 905,
-      "name": "Emperador del Sol",
-      "introduce": "<size=39><color=#3D1400>Emperador del Sol, maestro de la fotosíntesis, revolucionó la conversión de energía luminosa en masa. \u0022Solo estoy sobre hombros de gigantes\u0022, dice, atribuyendo sus logros a pioneros como Girasol y Lirío Carmesí.</color></size>",
+      "name": "Emperador Solar",
+      "introduce": "<size=39><color=#3D1400>Emperador Solar, maestro de la fotosíntesis, revolucionó la conversión de energía luminosa en masa. \u0022Solo estoy sobre hombros de gigantes\u0022, dice, atribuyendo sus logros a pioneros como Girasol y Lirío Carmesí.</color></size>",
       "info": "<size=39>¡Al ser mordida, te da soles!</color>\n\n<color=#3D1400>Especial:</color>\n- Produce <color=red>15 Soles</color> por cada golpe recibido.\n- <color=red>50 de Daño Máximo</color> por ataque (ignora tipo de daño). Al hacer clic, consume <color=red>500 Soles</color> para:\n- Invocar una Nuez Solar Gigante 1 casilla más adelante\n- Mejora esa misma Nuez aumentando su tamaño y daño. (mientras mayor sea el daño de esa nuez, al hacer click, otorgará menos daño extra, hasta un 60%). Tras 1s sin ser clickeado, la Nuez Gigante Solar rodará hacia adelante, aplastando zombis. El daño por 0,02s es de 600/1200/1644 para 1/2/3 giros, respectivamente.\n\n<color=purple>Mejoras de Odisea:</color>\n- El costo para invocar a la Nuez Solar Gigante se reduce a 200 soles\n- Daño por golpe reducido a <color=red>10</color>\n\n<color=#3D1400>Dureza:</color> <color=red>4000</color>\n<color=#3D1400>Fórmula de Fusión: </color><color=red>(Girasol + Nuez) + Nuez</color>\n<color=#3D1400>Nombre Científico: </color><color=red>Solaris Imperator</color></size>",
       "cost": "<size=33>Costo: <color=red>150</color>   Recarga: <color=red>45 Segundos</color>\nPlantas Requeridas: <color=red>3\n<color=purple>Condición de Uso: Modo Odisea</color></size>"
     },
@@ -3870,7 +3888,7 @@
       "seedType": 909,
       "name": "Emperador Estelar",
       "introduce": "<size=39><color=#3D1400>Nadie sabe de dónde viene el Emperador Estelar, pero algo es seguro: ¡Él no fue responsable de la extinción de los dinosaurios! ¿O sí?...</color></size>",
-      "info": "<size=39>¿Por qué hay un meteorito en mi jardín?\n\n<color=#3D1400>Daño Base:</color> <color=red>30×5/1.5 segundos</color>\n\n<color=#104f30>Sistema Lúmina:</color>\n- <color=red>+20 daño por Nivel Lúmina</color>\n\n<color=#8B0000>Sistema Magnético:</color>\n- <color=red>+5% daño por planta en el sistema</color>\n\n<color=#6A0C9D>Máximo acumulable:</color> <color=red>+300 daño total</color>\n\n<color=#3D1400>Especial:</color>\n- Invoca un meteorito cada <color=red>15s</color> (<color=red>1800 daño</color>), que se divide en estrellas buscadoras (<color=red>100 daño</color> c/u).\n\n<color=purple>Mejoras de Odisea:</color>\n- Intervalo de ataque → <color=red>0.5s</color>\n- NV1 - Daño Base ×2 y Daño Máximo (300) incrementado a 3000. NV2 - Daño Base ×3, Daño Máximo eliminado</color>\n\n<color=purple>Mejoras Mutuas:</color>\n- Si hay mínimo 10 Emperador Estelars y 10 Heliocultores, ambas en el mapa, con todas sus mejoras obtenidas, Emperador Estelar invocará un meteorito poderoso; uno solar. El sol invocado por Heliocultor no desaparecerá y, cada 2 segundos, invocará meteoritos comunes. (Meteorito Solar: Daño = (1800 + 1800 x cantidad de Emperadores Estelares) x (1 + 0.2 x cantidad de Heliocultores))\n<color=#3D1400>Fórmula de Fusión:</color> <color=red>Frustela + Magnetocactus</color>\n<color=#3D1400>Nombre Científico: </color><color=red>Imperator Astralis</color></size>",
+      "info": "<size=39>¿Por qué hay un meteorito en mi jardín?\n\n<color=#3D1400>Daño Base:</color> <color=red>30×5/1.5 segundos</color>\n\n<color=#104f30>Sistema Lúmina:</color>\n- <color=red>+20 daño por Nivel Lúmina</color>\n\n<color=#8B0000>Sistema Magnético:</color>\n- <color=red>+5% daño por planta en el sistema</color>\n\n<color=#6A0C9D>Máximo acumulable:</color> <color=red>+300 daño total</color>\n\n<color=#3D1400>Especial:</color>\n- Invoca un meteorito cada <color=red>15s</color> (<color=red>1800 daño</color>), que se divide en estrellas buscadoras (<color=red>100 daño</color> c/u).\n\n<color=purple>Mejoras de Odisea:</color>\n- Intervalo de ataque → <color=red>0.5s</color>\n- NV1 - Daño Base ×2 y Daño Máximo (300) incrementado a 3000. NV2 - Daño Base ×3, Daño Máximo eliminado</color>\n\n<color=purple>Mejoras Mutuas:</color>\n- Debes tener todos los modificadores de Emperador Estelar y Heliocultor para tener la chance de obtener este modificador en la tienda. Al tener 10 Emperadores Estelares y 10 Heliocultores, Emperador Estelar invocará un meteorito poderoso; uno solar. El sol invocado por Heliocultor no desaparecerá y, cada 2 segundos, invocará meteoritos comunes. (Meteorito Solar: Daño = (1800 + 1800 x cantidad de Emperadores Estelares) x (1 + 0.2 x cantidad de Heliocultores))\n<color=#3D1400>Fórmula de Fusión:</color> <color=red>Frustela + Magnetocactus</color>\n<color=#3D1400>Nombre Científico: </color><color=red>Imperator Astralis</color></size>",
       "cost": "<size=33>Costo: <color=red>475, 625</color>   Recarga: <color=red>45 Segundos</color>\nPlantas Requeridas: <color=red>5\n<color=purple>Condición de Uso: Modo Odisea</color></size>"
     },
     {
@@ -4045,7 +4063,7 @@
       "seedType": 934,
       "name": "Heliocultor",
       "introduce": "<size=39><color=#3D1400>Ella es la diosa del sol, la soberana de la luz y el calor. Dondequiera que vaya, la oscuridad se disipa y todo se baña en su resplandeciente gloria. Ella brilla desde lo alto, iluminando el mundo con su luz eterna, otorgando esperanza infinita a todo ser vivo.</color></size>",
-      "info": "<size=39>Parte del <color=#FFCA30>Sistema Monetario</color>.\nInvoca un Mini-Sol para atacar a los zombis.\n\n<color=#3D1400>Daño: <color=red>500*5/2 Segundos\n<color=#3D1400>Especial: </color>\n</color=red>- Cada 30 segundos invoca un Mini-Sol, que permanece durante 15 segundos. Durante este tiempo, este sol inflige 30 + (30 * Cantidad de Heliocultores) de daño a todos los zombis en el mapa.\n - Cuando la cantidad total de soles es mayor que 15000, Heliocultor consume 250 soles para inflingir el daño cada vez que el Mini-Sol dañe a los zombis.\n - Cuando el Mini-Sol esta presente, la tasa de caída de los soles se incrementa, el daño de meteoritos comunes se multiplica por 2, y unos 250 soles adicionales se generan cuando estrellan. \n<color=purple>Mejoras de Odisea:</color></color></color>\n- Cuando la cantidad de sol supera los 15k, cada ataque consume el 0,5% del exceso para aumentar el daño del proyectil en 20 por cada sol gastado.</color></color>\n- El daño del sol invocado se triplica.</color>\n\n<color=#3D1400><color=purple>Mejoras Mutuas:</color>\n- Si hay mínimo 10 Emperador Estelars y 10 Heliocultores, ambas en el mapa, con todas sus mejoras obtenidas, Emperador Estelar invocará un meteorito poderoso; uno solar. El sol invocado por Heliocultor no desaparecerá y, cada 2 segundos, invocará meteoritos comunes. (Meteorito Solar: Daño = (1800 + 1800 x cantidad de Emperadores Estelares) x (1 + 0.2 x cantidad de Heliocultores))\n<color=#3D1400>Fórmula de Fusión: </color><color=red>Coltapulta Solar + Coltapulta Dorada</color>\n<color=#3D1400>Nombre Científico: </color><color=red>Brassica Solaurum</color></size>",
+      "info": "<size=39>Parte del <color=#FFCA30>Sistema Monetario</color>.\nInvoca un Mini-Sol para atacar a los zombis.\n\n<color=#3D1400>Daño: <color=red>500*5/2 Segundos\n<color=#3D1400>Especial: </color>\n</color=red>- Cada 30 segundos invoca un Mini-Sol, que permanece durante 15 segundos. Durante este tiempo, este sol inflige 30 + (30 * Cantidad de Heliocultores) de daño a todos los zombis en el mapa.\n - Cuando la cantidad total de soles es mayor que 15000, Heliocultor consume 250 soles para inflingir el daño cada vez que el Mini-Sol dañe a los zombis.\n - Cuando el Mini-Sol esta presente, la tasa de caída de los soles se incrementa, el daño de meteoritos comunes se multiplica por 2, y unos 250 soles adicionales se generan cuando estrellan. \n<color=purple>Mejoras de Odisea:</color></color></color>\n- Cuando la cantidad de sol supera los 15k, cada ataque consume el 0,5% del exceso para aumentar el daño del proyectil en 20 por cada sol gastado.</color></color>\n- El daño del sol invocado se triplica.</color>\n\n<color=#3D1400><color=purple>Mejoras Mutuas:</color>\n- Debes tener todos los modificadores de Emperador Estelar y Heliocultor para tener la chance de obtener este modificador en la tienda. Al tener 10 Emperadores Estelares y 10 Heliocultores, Emperador Estelar invocará un meteorito poderoso; uno solar. El sol invocado por Heliocultor no desaparecerá y, cada 2 segundos, invocará meteoritos comunes. (Meteorito Solar: Daño = (1800 + 1800 x cantidad de Emperadores Estelares) x (1 + 0.2 x cantidad de Heliocultores))\n<color=#3D1400>Fórmula de Fusión: </color><color=red>Coltapulta Solar + Coltapulta Dorada</color>\n<color=#3D1400>Nombre Científico: </color><color=red>Brassica Solaurum</color></size>",
       "cost": "<size=33>Costo: <color=red>275</color>   Recarga: <color=red>30 Segundos</color>\nPlantas Requeridas: <color=red>4\n<color=purple>Condición de Uso: Modo Odisea</color></size>"
     },
     {
@@ -4182,12 +4200,18 @@
     "cost": "<size=33>Costo: <color=red>900</color>   Recarga: <color=red>215 Segundos</color>\nPlantas Requeridas: <color=red>6\n<color=purple>Condición de Uso: Modo Odisea</color></size>"
   },
   {
-      "seedType": 954,
-      "name": "954"
-    },
-    {
-      "seedType": 955,
-      "name": "955"
+   "seedType": 954,
+   "name": "Nova Noble",
+   "introduce": "<size=39><color=#3D1400>INTRO</color></size>",
+   "info": "<size=39>Consume proyectiles y los usa para crear rayos solares.\n\n<color=black>Producción Solar: </color><color=#8B0000>50 cada 3s</color>\n<color=#3D1400>Daño:</color> <color=red>1800\n\n<color=#3D1400>Especial:</color> <color=red>- Genera Sol y consume los proyectiles de las plantas cercanas para absorber energía (1 daño = 1 energía). La energía tiene un límite de daño de ataque x4; el exceso de energía se convierte en Sol (1 proyectil = 5 soles).\n-</color> Cuando la energía supera el daño de ataque, dispara un proyectil solar que explota al impactar e inflige 100% de daño en un área pequeña.\n-</color> Usar un Grano de Café alterna entre modos activo e inactivo. No ataca en dicho modo inactivo.\n\n<color=purple>Mejoras de Odisea:</color>\n</color>- Cuando un rayo solar impacta a un zombi, provoca que los proyectiles cercanos también exploten, lo que inflige un 10% de daño</color>\n- Límite de Energia x3, Producción Solar x3</color>\n\n<color=#3D1400>Fórmula de Fusión: </color><color=red>Fulgirasol + Girasol Dorado</color>\n<color=#3D1400>Nombre Científico: </color><color=red>Flamerousem royalis</color></size>",
+   "cost": "<size=33>Costo: <color=red>300 (+($3000*2)*X)</color>   Recarga: <color=red>30 Segundos</color>\nPlantas Requeridas: <color=red>4\n<color=purple>Condición de Uso: Modo Odisea</color></size>"
+ },
+ {
+    "seedType": 955,
+    "name": "Seleneomenia",
+    "introduce": "<size=39><color=#3D1400>INTRO</color></size>",
+    "info": "<size=39>Parte del <color=#104f30>Sistema Lúmina</color>\nCura a plantas con sus Mini-Lunas.\n\n<color=#3D1400>Daño:</color> <color=red>300*5 cada 1,5s\n<color=#104f30>Sistema Lúmina:</color> <color=red>Proyectiles ganan +100 de daño por Nivel Lúmina (hasta 500).\n\n<color=#3D1400>Especial:</color> <color=red>Subespecie de Heliocultor que se puede cambiar entre Planterna y Girasol.\n- Invoca una Mini-Luna cada 30s. Esta Mini-Luna permanece por 15s y cura a todas las plantas por 50*(cantidad de Seleneomenias en el campo) PS por segundo. Este efecto es triplicado en la planta con la menor cantidad de PS.\n- Si un Mini-Sol también está presente, los efectos de curación serán duplicados.\n- El primer modificador de Heliocultor incrementa el bonus de daño de Seleneomenia a +300 por Nivel Lúmina, el límite ahora siendo 1500; el segundo triplica el poder de curación.\n<color=purple>Mejoras Mutuas:</color>\n- Debes tener todos los modificadores de Emperador Estelar y Heliocultor para tener la chance de obtener este modificador en la tienda. Al tener 10 Emperadores Estelares y 10 Seleneomenias, la Mini-Luna de Seleneomenia ya no desaparecerá. Cada Emperador Estelar y Seleneomenia canalizará un laser a la Mini-Luna, los cuales se combinarán a un solo laser concentrado. Daño del Laser: 100*(plantas canalizando) cada 0,02s, siempre centrándose en el zombi con la mayor cantidad de PS. El daño aumenta linealmente con el tiempo al enfocarse en un solo objetivo.\n\n<color=#3D1400>Fórmula de Fusión: </color><color=red>Heliocultor + Planterna</color></size>",
+      "cost": "<size=33>Costo: <color=red>300</color>   Recarga: <color=red>37,5 Segundos</color>\nPlantas Requeridas: <color=red>5\n<color=purple>Condición de Uso: Modo Odisea</color></size>"
     },
     {
       "seedType": 956,
@@ -4565,7 +4589,7 @@
       "seedType": 1028,
       "name": "Nuez All-Star",
       "introduce": "<size=39><color=#3D1400>Nuez All-Star tenía un aspecto feroz, lo que hizo que algunas plantas pequeñas que no conocían la verdad se sintieran asustadas por su aspecto. Sin embargo, las plantas que entendían a Nuez All-Star sabían que bajo su aspecto serio había una fuerte determinación de proteger a sus compañeros. Sin duda, el casco robado aumentaba su confianza.</color></size>",
-      "info": "<size=39>Nuez All-Star es capaz de aguantar una enorme cantidad de daño.\n\n<color=#3D1400>Dureza: </color><color=red>16000</color>\n<color=#3D1400>Fórmula: </color><color=red>Nuez Alta + Casco de Rugby\n<color=#3D1400>Nombre Científico: </color><color=red>Juglans Altustar</color></size>",
+      "info": "<size=39>Nuez All-Star es capaz de aguantar una enorme cantidad de daño.\n\n<color=#3D1400>Dureza: </color><color=red>16000</color>\n<color=#3D1400>Fórmula: </color><color=red>Nuez Alta + Casco de Rugby\n<color=#3D1400>Nombre Científico: </color><color=red>Juglans futbolea</color></size>",
       "cost": "<size=39>Costo: <color=red>125</color>   Recarga: <color=red>50 Segundos</color>\nPlantas Requeridas: <color=red>1 (+ Casco All-Star)</color></size>"
     },
     {
@@ -4992,7 +5016,7 @@
       "seedType": 1089,
       "name": "Calabaza Estrellada",
       "introduce": "<size=39><color=#3D1400>La gente a menudo se pregunta cuántos idiomas debe conocer Calabaza Estrellada para comunicarse sin esfuerzo con todas las plantas. Calabaza Estrellada sonríe y dice: \u0022En realidad, solo hablo el idioma de Frustella, ya que es el único con el que trabajo estrechamente.\u0022</color></size>",
-      "info": "<size=39>Ayuda a Trebulosa a retener más estrellas.\n\n<color=#3D1400>Dureza: </color><color=red>4000</color>\n<color=#3D1400>Especial: </color><color=red>Aumenta el límite de almacenamiento de Trebulosa a 60.</color>\n<color=#3D1400>Nombre Científico: </color><color=red>Cucurbita Astralis</color>\n<color=#3D1400>Fórmula de Fusión: </color><color=red>Frustella + Calabaza</color></size>",
+      "info": "<size=39>Ayuda a Trebulosa a retener más estrellas.\n\n<color=#3D1400>Dureza: </color><color=red>4000</color>\n<color=#3D1400>Especial: </color><color=red>Aumenta el límite de almacenamiento de Trebulosa a 60. También, permite que Frustrella Solar consuma soles automáticamente para disparar.</color>\n<color=#3D1400>Nombre Científico: </color><color=red>Cucurbita Astralis</color>\n<color=#3D1400>Fórmula de Fusión: </color><color=red>Frustella + Calabaza</color></size>",
       "cost": "<size=39>Costo: <color=red>250</color>   Recarga: <color=red>37.5 Segundos</color>\nPlantas Requeridas: <color=red>2</color></size>"
     },
     {
@@ -5497,7 +5521,7 @@
       "seedType": 1161,
       "name": "Guisantidillón",
       "introduce": "<size=39><color=#3D1400>Como arma definitiva de la familia Guisante, a la Guisantidillón le enseñaron a no acostarse sin razón. \"¡Pero mi cabeza pesa mucho!\" se queja cuando la regañan. Lo que no sabe es que los ancianos Guisantes se lo prohibieron... porque se ve adorable cuando lo hace.</color></size>",
-      "info": "<size=39>Descarga una lluvia de guisantes puros sobre los zombis.\n\n<color=#3D1400>Dureza: </color><color=red>1000</color>\n<color=#3D1400>Daño: </color><color=red>20x30/2.25 Segundos (inicial)</color>\n<color=#3D1400>Daño Máximo: </color><color=red>20x60/2.25 Segundos</color>\n<color=#3D1400>Especial: </color><color=red>Velocidad de disparo aumenta en 3 fases. Se reinicia al dejar de atacar. Los guisantes pueden fallar contra zombis pequeños.</color>\n<color=#3D1400>Fórmula de Fusión: </color><color=red>Repetidora ∞ Tripitidora ∞ Repetidora < Combinadora (En Órden) (La Combinadora deberá plantarse encima de la Tripitidora)</color>\n<color=#3D1400>Nombre Científico: </color><color=red>Pisum titanomitra</color></size>",
+      "info": "<size=39>Descarga una lluvia de guisantes puros sobre los zombis.\n\n<color=#3D1400>Dureza: </color><color=red>1000</color>\n<color=#3D1400>Daño Inicial: </color><color=red>20x30/2.25 Segundos</color>\n<color=#3D1400>Daño Máximo: </color><color=red>20x60/2.25 Segundos</color>\n<color=#3D1400>Especial: </color><color=red>Velocidad de disparo aumenta gradualmente. Se reinicia al dejar de atacar. Los guisantes pueden fallar contra zombis pequeños.</color>\n<color=#3D1400>Fórmula de Fusión: </color><color=red>Repetidora ∞ Tripitidora ∞ Repetidora < Combinadora (En Órden) (La Combinadora deberá plantarse encima de la Tripitidora)</color>\n<color=#3D1400>Nombre Científico: </color><color=red>Pisum titanomitra</color></size>",
       "cost": "<size=39>Costo: <color=red>725</color>   Recarga: <color=red>67.5 Segundos</color>\nPlantas Requeridas: <color=red>4</color></size>"
     },
     {
@@ -6495,6 +6519,62 @@
    "introduce": "<size=39><color=#3D1400>INTRO</color></size>",
    "info": "<size=39>Digiere una Marseta y la transforma en una bomba.</color>\n\n<color=#3D1400>Daño:</color> <color=red>600\n<color=#3D1400>Especial:</color> <color=red>Al ocupar un paquete de semillas de Marseta en ella, lanza un misil petaseta que hace 600 de daño en un área moderado. Las veces que la puedes alimentar no tienen tiempo de recarga, pero cada disparo toma 1.5s para disparar y solo un máximo de dos disparos pueden ser registrados al mismo tiempo.</color>\n<color=#3D1400>Nombre Científico:</color> <color=red>Pegalomyces ruinae</color></size>\n<size=39><color=#3D1400>Fórmula de Fusión:</color> <color=red>Petaseta + Marseta</color></size>",
    "cost": "<size=39>Costo: <color=red>125, 275</color>   Recarga: <color=red>57.5 Segundos</color>\nPlantas Requeridas: <color=red>2</color></size>"
+},
+{
+    "seedType": 1304,
+    "name": "Fulgirasol", 
+   "introduce": "<size=39><color=#3D1400>INTRO</color></size>",
+   "info": "<size=39>Al generar sol, absorbe proyectiles cercanos para conseguir más adicional.</color>\n\n<color=#3D1400>Producción Solar:</color> <color=red>25 cada 25s\n<color=#3D1400>Especial:</color> <color=red>Absorbe todo proyectil cerca de ella en un área de 3x3 (de plantas y zombis hipnotizados) y los transforma en 5 soles.</color>\n<color=#3D1400>Nombre Científico:</color> <color=red>Flammarbor solaris</color></size>\n<size=39><color=#3D1400>Fórmula de Fusión:</color> <color=red>Girasol + Plantorcha</color></size>",
+   "cost": "<size=39>Costo: <color=red>225</color>   Recarga: <color=red>15 Segundos</color>\nPlantas Requeridas: <color=red>2</color></size>"
+},
+{
+    "seedType": 1305,
+    "name": "Meduseta",
+   "introduce": "<size=39><color=#3D1400>INTRO</color></size>",
+   "info": "<size=39>Utiliza a una Marseta para generar un zombi.</color>\n\n<color=#3D1400>Especial:</color> <color=red>Al ocupar un paquete de semillas de Marseta en ella, genera un Zombi básico. Va de vuelta a ser una Marseta al ser mordida.</color>\n<color=#3D1400>Nombre Científico:</color> <color=red>Pegalomyces hipnotica</color></size>\n<size=39><color=#3D1400>Fórmula de Fusión:</color> <color=red>Hipnoseta + Marseta</color></size>",
+   "cost": "<size=39>Costo: <color=red>75, 225</color>   Recarga: <color=red>37.5 Segundos</color>\nPlantas Requeridas: <color=red>2</color></size>"
+},
+{
+    "seedType": 1306,
+    "name": "Deportralladora",
+   "introduce": "<size=39><color=#3D1400>INTRO</color></size>",
+   "info": "<size=39>Lanza cuatro guisantes férreos y, ocasionalmente, uno rojo.</color>\n\n<color=#3D1400>Dureza: </color><color=red>3000</color>\n<color=#3D1400>Daño:</color> <color=red>80*4 cada 1.5s\n<color=#3D1400>Especial:</color> <color=red>Dispara un guisante férreo rojo cada 11 guisantes disparados, el cual hace dar vuelta a Zombis Deportistas.</color>\n<color=#3D1400>Nombre Científico:</color> <color=red>Mitragyrator futbolea</color></size>\n<size=39><color=#3D1400>Fórmula de Fusión:</color> <color=red>Guisantralladora + Casco All-Star</color></size>",
+   "cost": "<size=39>Costo: <color=red>400</color>   Recarga: <color=red>30 Segundos</color>\nPlantas Requeridas: <color=red>4 (+ Casco All-Star)</color></size>"
+},
+{
+    "seedType": 1307,
+    "name": "Frustrella Solar",
+   "introduce": "<size=39><color=#3D1400>INTRO</color></size>",
+   "info": "<size=39>Dispara 5 estrellas al ser cliqueado.</color>\n\n<color=#3D1400>Daño:</color> <color=red>100*5\n<color=#3D1400>Especial:</color> <color=red>Al cliquear a la Frustrella Solar, esta absorberá 25 soles para dispar 5 estrellas en 5 direcciones. Dentro de una Calabaza Estrellada, absorbe los soles automáticamente cada 0.5s.</color>\n<size=39><color=#3D1400>Fórmula de Fusión:</color> <color=red>Girasol + Frustrella</color></size>",
+   "cost": "<size=39>Costo: <color=red>175</color>   Recarga: <color=red>15 Segundos</color>\nPlantas Requeridas: <color=red>2</color></size>"
+        },
+        {
+    "seedType": 1308,
+    "name": "Solarpeño",
+   "introduce": "<size=39><color=#3D1400>INTRO</color></size>",
+   "info": "<size=39>Te da soles al quemar ambos zombis y plantas.</color>\n\n<color=#3D1400>Daño:</color> <color=red>1800 (Área Lineal)</color>\n<color=#3D1400>Uso:</color> <color=red>Único, Instantáneo</color>\n<color=#3D1400>Especial:</color> <color=red>Te da 25 soles por cada zombi que quema. También hace 1800 de daño a todas las plantas en su línea. Cada planta afectada da 50 soles y potencia el daño de Solarpeño por 500. Dichas plantas tienen un 1/3 de probabilidad de sobrevivir con 1 PS restante.</color>\n<size=39><color=#3D1400>Fórmula de Fusión:</color> <color=red>Girasol + Jalapeño</color></size>",
+   "cost": "<size=39>Costo: <color=red>175</color>   Recarga: <color=red>57.5 Segundos</color>\nPlantas Requeridas: <color=red>2</color></size>"
+        },
+        {
+    "seedType": 1309,
+    "name": "Miédica Encascarada",
+   "introduce": "<size=39><color=#3D1400>INTRO</color></size>",
+   "info": "<size=39>Derriba a zombis después de esconderse por cierto tiempo.</color>\n\n<color=#3D1400>Dureza: </color><color=red>4000</color>\n<color=#3D1400>Especial:</color> <color=red>Después de estar escondido durante 10 segundos, se levanta inmediatamente y derriba a los zombis cercanos, causando 20 puntos de daño, y durante los próximos 5 segundos, no se volverá a esconder. Mientras está agachado, recibe un 50% menos de daño.</color>\n<size=39><color=#3D1400>Fórmula de Fusión:</color> <color=red>Nuez + Seta Miédica</color></size>",
+   "cost": "<size=39>Costo: <color=red>75, 150</color>   Recarga: <color=red>37,5 Segundos</color>\nPlantas Requeridas: <color=red>2</color></size>"
+        },
+        {
+    "seedType": 1310,
+    "name": "Linternuez",
+   "introduce": "<size=39><color=#3D1400>INTRO</color></size>",
+   "info": "<size=39>Parte del <color=#104f30>Sistema Lúmina</color>\nRecupera vida automáticamente con Niveles Lúmina.</color>\n\n<color=#3D1400>Dureza: </color><color=red>4000</color>\n<color=#3D1400>Especial:</color> <color=red>Da un Nivel Lumina en un área de 3x3. Recupera 150 PS por Nivel Lúmina cada 15s.</color>\n<size=39><color=#3D1400>Fórmula de Fusión:</color> <color=red>Nuez + Planterna</color></size>",
+   "cost": "<size=39>Costo: <color=red>75</color>   Recarga: <color=red>37,5 Segundos</color>\nPlantas Requeridas: <color=red>2</color></size>"
+        },
+        {
+    "seedType": 1311,
+    "name": "Maceta Cáscara",
+   "introduce": "<size=39><color=#3D1400>INTRO</color></size>",
+   "info": "<size=39>Da una leve reducción de daño a la planta encima de ella.</color>\n\n<color=#3D1400>Especial:</color> <color=red>Reduce el daño que recibe la planta de arriba en un 20%. Es inmune al daño de las casillas de lava y protege a la planta encima de ella (Las casillas de lava solo aparecen en niveles específicos. Hacen 50 de daño por segundo a las plantas y zombis sobre ellas, priorizando las macetas, a las que les hace solo 10 de daño).</color>\n<size=39><color=#3D1400>Fórmula de Fusión:</color> <color=red>Nuez + Maceta</color></size>",
+   "cost": "<size=39>Costo: <color=red>75</color>   Recarga: <color=red>37,5 Segundos</color>\nPlantas Requeridas: <color=red>2</color></size>"
         }
     ]
 }
