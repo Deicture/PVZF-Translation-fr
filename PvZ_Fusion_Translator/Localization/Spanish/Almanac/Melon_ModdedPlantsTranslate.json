@@ -8,10 +8,10 @@
    "cost": "<size=39>Costo: <color=red>625, 700</color>   Recarga: <color=red>122.5 Segundos</color>\nPlantas Requeridas: <color=red>5</color></size>"
         },
         {
-    "seedType": 161,
-    "name": "<color=yellow>Emperador Diamante",
-    "introduce": "<size=39><color=#3D1400>Autor de Textura: @林秋AutumnLin\nCada vez que el Emperador Diamante y el Emperador Solar están uno al lado del otro, estalla el caos. Los zombis se agolpan en todas direcciones, cegados por un brillo abrumador. En cada entrevista, el Emperador Diamante declara con confianza: \"¡Cuando el Emperador Solar libera su energía radiante, mi reflejo solo es suficiente para dejarlos indefensos y ciegos!\" Y sin falta, los reporteros, cubriéndose los ojos, exclamaron: \"¡¿Por qué todo se ha oscurecido?!\"</color></size>",
-    "info": "<size=39>Al ser mordido, te dará monedas.\n\n<color=#3D1400>Dureza: </color><color=red>4000</color>\n\n<color=#3D1400>Especial:</color> <color=red>\n- Subespecie de Emperador Solar que se puede cambiar con Margarita.\n- Produce 100 monedas por cada golpe recibido.\n- Recibe 50 de Daño Máximo por ataque (ignora tipo de daño).\n- Al hacer clic, consume 3000 Monedas para:\n - Invocar una Nuez Diamante Gigante 1 casilla más adelante\n - Recuperar 1500 de dureza.\n\n<color=#3D1400>Fórmula de Fusión: </color><color=red>Emperador Solar + Margarita</color>\n<color=#3D1400>Nombre Científico: </color><color=red>Diamathea Imperator</color></size>",
+   "seedType": 161,
+   "name": "<color=yellow>Emperador Diamante",
+   "introduce": "<size=39><color=#3D1400>Autor de Textura: @林秋AutumnLin\nCada vez que el Emperador Diamante y el Emperador Solar están uno al lado del otro, estalla el caos. Los zombis se agolpan en todas direcciones, cegados por un brillo abrumador. En cada entrevista, el Emperador Diamante declara con confianza: \"¡Cuando el Emperador Solar libera su energía radiante, mi reflejo solo es suficiente para dejarlos indefensos y ciegos!\" Y sin falta, los reporteros, cubriéndose los ojos, exclamaron: \"¡¿Por qué todo se ha oscurecido?!\"</color></size>",
+   "info": "<size=39>Al ser mordido, te dará monedas.\n\n<color=#3D1400>Dureza: </color><color=red>4000</color>\n\n<color=#3D1400>Especial:</color> <color=red>\n- Subespecie de Emperador Solar que se puede cambiar con Margarita.\n- Produce 100 monedas por cada golpe recibido.\n- Recibe 50 de Daño Máximo por ataque (ignora tipo de daño).\n- Al hacer clic, consume 3000 Monedas para:\n - Invocar una Nuez Diamante Gigante 1 casilla más adelante\n - Recuperar 1500 de dureza.\n\n<color=#3D1400>Fórmula de Fusión: </color><color=red>Emperador Solar + Margarita</color>\n<color=#3D1400>Nombre Científico: </color><color=red>Diamathea Imperator</color></size>",
       "cost": "<size=33>Costo: <color=red>175</color>   Recarga: <color=red>52.5 Segundos</color>\nPlantas Requeridas: <color=red>4\n<color=purple>Condición de Uso: Modo Odisea</color></size>"
     },
     {
@@ -29,17 +29,17 @@
    "cost": "<size=39>Costo: <color=red>700</color>   Recarga: <color=red>15 Segundos</color>\nPlantas Requeridas: <color=red>2 (+ Cubo)</color></size>"
         },
         {
-    "seedType": 164,
-    "name": "color=yellow>Miaupocalipsis",
-    "introduce": "<size=39><color=#3D1400>Autor de Textura: @仨硝基甲苯\nPuede que Miaupocalipsis parezca absorta en sus pensamientos, pero no te dejes engañar: está inmersa en el mundo de las ilusiones, perfeccionando sus devastadoras técnicas. Cada zombi al que se enfrenta ya tiene una contraparte espectral, un enemigo al que ha aplastado incontables veces en su mente. Pero antes de que pueda desatar todo su poder, debes arrancarle la ilusión de triunfo... porque la verdadera batalla apenas comienza.</color></size>",
-    "info": "<size=39>De alguna manera, la Miaupisonaflor consigió el poder de controlar energia nuclear...\n\n<color=#3D1400>Especial:</color> <color=red>Subespecie de Setabismal que se puede cambiar entre Miaupisonaflor y Petaseta. Aplasta a los zombies y les causa 3600 de daño a todos los zombis en la pantalla, al mismo tiempo que los hace explotar como una Petaseta.\n\n<color=#3D1400>Fórmula de Fusión: </color><color=red>Setabismal + Miaupisonaflor</color>\n<color=#3D1400>Nombre Científico: </color><color=red>Calamitas felicurcam</color></size>",
-    "cost": "<size=33>Costo: <color=red>400, 625</color>   Recarga: <color=red>140 Segundos</color>\nPlantas Requeridas: <color=red>4\n<color=purple>Condición de Uso: Modo Odisea</color></size>"
-    },
-    {
-    "seedType": 165,
-    "name": "<color=yellow>Seta Contaminador",
-    "introduce": "<size=39><color=#3D1400>Autor de Textura: @林秋AutumnLin\nTras una vida de lucha, estaba listo para colgar la armadura. Una vida tranquila de nostalgia, películas antiguas y los dulces sonidos de la Ópera Girasol: esta se suponía que sería su recompensa. Pero el destino, al parecer, tiene otros planes. Los zombis se niegan a dejarlo descansar, obligándolo a tomar las armas una vez más. La jubilación tendrá que esperar; aún le queda un último batallón.</color></size>",
-    "info": "<size=39>Parte del <color=#0077b6>Sistema Criogénico</color> y el <color=#133816>Sistema Venenoso</color>\nSus humos pueden envenenar y ralentizar al mismo tiempo.\n<color=#0077b6>Sistema Criogénico:</color><color=#28567B>\n</color>- Aplica 10 puntos al impacto.\n- Daño x4 a zombis congelados.</color>\n\n<color=#3D1400>Daño:</color> <color=red>(150+Valor Venenoso)*20 cada 0.5s\n\n<color=#3D1400>Especial:</color> <color=red>Subespecie de Seta Emperador que se puede cambiar entre Ajo y Hipnoseta. Ataca similar a la Seta Emperador, con su alcance de ataque siendo toda la fila.\n\n<color=#3D1400>Fórmula de Fusión: </color><color=red>Seta Emperador + Ajo</color>\n<color=#3D1400>Nombre Científico: </color><color=red>Mycota regascum</color></size>",
+   "seedType": 164,
+   "name": "color=yellow>Miaupocalipsis",
+   "introduce": "<size=39><color=#3D1400>Autor de Textura: @仨硝基甲苯\nPuede que Miaupocalipsis parezca absorta en sus pensamientos, pero no te dejes engañar: está inmersa en el mundo de las ilusiones, perfeccionando sus devastadoras técnicas. Cada zombi al que se enfrenta ya tiene una contraparte espectral, un enemigo al que ha aplastado incontables veces en su mente. Pero antes de que pueda desatar todo su poder, debes arrancarle la ilusión de triunfo... porque la verdadera batalla apenas comienza.</color></size>",
+   "info": "<size=39>De alguna manera, la Miaupisonaflor consigió el poder de controlar energia nuclear...\n\n<color=#3D1400>Especial:</color> <color=red>Subespecie de Setabismal que se puede cambiar entre Miaupisonaflor y Petaseta. Aplasta a los zombies y les causa 3600 de daño a todos los zombis en la pantalla, al mismo tiempo que los hace explotar como una Petaseta.\n\n<color=#3D1400>Fórmula de Fusión: </color><color=red>Setabismal + Miaupisonaflor</color>\n<color=#3D1400>Nombre Científico: </color><color=red>Calamitas felicurcam</color></size>",
+   "cost": "<size=33>Costo: <color=red>400, 625</color>   Recarga: <color=red>140 Segundos</color>\nPlantas Requeridas: <color=red>4\n<color=purple>Condición de Uso: Modo Odisea</color></size>"
+   },
+   {
+   "seedType": 165,
+   "name": "<color=yellow>Seta Contaminador",
+   "introduce": "<size=39><color=#3D1400>Autor de Textura: @林秋AutumnLin\nTras una vida de lucha, estaba listo para colgar la armadura. Una vida tranquila de nostalgia, películas antiguas y los dulces sonidos de la Ópera Girasol: esta se suponía que sería su recompensa. Pero el destino, al parecer, tiene otros planes. Los zombis se niegan a dejarlo descansar, obligándolo a tomar las armas una vez más. La jubilación tendrá que esperar; aún le queda un último batallón.</color></size>",
+   "info": "<size=39>Parte del <color=#0077b6>Sistema Criogénico</color> y el <color=#133816>Sistema Venenoso</color>\nSus humos pueden envenenar y ralentizar al mismo tiempo.\n<color=#0077b6>Sistema Criogénico:</color><color=#28567B>\n</color>- Aplica 10 puntos al impacto.\n- Daño x4 a zombis congelados.</color>\n\n<color=#3D1400>Daño:</color> <color=red>(150+Valor Venenoso)*20 cada 0.5s\n\n<color=#3D1400>Especial:</color> <color=red>Subespecie de Seta Emperador que se puede cambiar entre Ajo y Hipnoseta. Ataca similar a la Seta Emperador, con su alcance de ataque siendo toda la fila.\n\n<color=#3D1400>Fórmula de Fusión: </color><color=red>Seta Emperador + Ajo</color>\n<color=#3D1400>Nombre Científico: </color><color=red>Mycota regascum</color></size>",
       "cost": "<size=33>Costo: <color=red>375, 750</color>   Recarga: <color=red>132.5 Segundos</color>\nPlantas Requeridas: <color=red>6\n<color=purple>Condición de Uso: Modo Odisea</color></size>"
     },
     {
@@ -47,16 +47,16 @@
     "name": "<color=#FFD700>Paraplanta Topacio",
    "introduce": "<size=39><color=#3D1400>Autores de Textura: @仁硝基甲苯, @林秋AutumnLin\nComo chef estrella del bistró, los platos estrella de Paraplanta Topacio, glaseados con mantequilla, tienen a los zombis paralizados de admiración. \"¿El secreto? Mis granos de maíz se masajean durante 24 horas antes de servirlos\", presume mientras alterna entre artillería de maíz y col.</color></size>",
    "info": "<size=39>Se especializa en control de multitudes a base de mantequilla.</color>\n\n<color=#3D1400>Especial:</color> <color=red>Subespecie de las Paraplantas Gema que se pueden cambiar entre sus respectivos materiales. Los zombis que se acerquen serán atacados y empujados de forma similar a lo que hace Plantequilla.\n<color=#3D1400>Uso de Monedas:</color><color=red>Consume 6000 monedas para aturdir y empujar zombis cercanos.\n<color=#3D1400>Mejoras Mutuas:</color><color=red>\n- Umbral Arcoíris: Todas las plantas de la familia Paraplanta Gema tendrán su costo de habilidad reducido a 500 al tener los 9 tipos de tal familia dentro del mapa.</color>\n<color=#3D1400>Nombre Científico:</color> <color=red>Tizopias folium</color></size>\n<size=39><color=#3D1400>Fórmula de Fusión:</color> <color=red>Paraplanta Gema + Lanzamaíz</color></size>",
-    "cost": "<size=33>Costo: <color=red>Varía.</color>   Recarga: <color=red>Varía.</color>\nPlantas Requeridas: <color=red>6\n<color=purple>Condición de Uso: Modo Odisea</color></size>"
-  },
-  {
+   "cost": "<size=33>Costo: <color=red>Varía.</color>   Recarga: <color=red>Varía.</color>\nPlantas Requeridas: <color=red>6\n<color=purple>Condición de Uso: Modo Odisea</color></size>"
+ },
+ {
     "seedType": 176,
     "name": "<color=#FF66CC>Paraplanta Morganita",
    "introduce": "<size=39><color=#3D1400>Autores de Textura: @仁硝基甲苯, @林秋AutumnLin\nVenerado por su brillo hipnótico, esta Paraplanta Gema adormece a los zombis y los lleva a la devoción. \u0022Mi tono rosa cambia con tus deseos\u0022, murmura, \u0022pero tómalo *en el punto justo*... y convertiré a tus enemigos en aliados fugaces\u0022. Su encanto es tan voluble como la luz del amanecer: está ahí en un instante, desaparece al siguiente.</color></size>",
    "info": "<size=39>Encanta a zombis con su bella radiancia.</color>\n\n<color=#3D1400>Especial:</color> <color=red>Subespecie de las Paraplantas Gema que se pueden cambiar entre sus respectivos materiales. Los zombis que se acercan serán empujados y hipnotizados al costo de 700 PS menos.\n<color=#3D1400>Uso de Monedas:</color><color=red>Cuesta una cantidad innecesariamente complicada de [1000 × (10 + 4×ln(Cantidad de Zombis Hipnotizados + 1)] monedas. Hipnotiza todos los zombis cercanos en un área de 3x3.</color>\n<color=#3D1400>Mejoras Mutuas:</color><color=red>\n- Umbral Arcoíris: Todas las plantas de la familia Paraplanta Gema tendrán su costo de habilidad reducido a 500 al tener los 9 tipos de tal familia dentro del mapa.\n- Fragmentos Prismáticos: Las Paraplantas Amatista/Ónix/Morganita consiguen reducción de daño.</color>\n<color=#3D1400>Nombre Científico:</color> <color=red>Mycorgan follium</color></size>\n<size=39><color=#3D1400>Fórmula de Fusión:</color> <color=red>Paraplanta Gema + Hipnoseta</color></size>",
-    "cost": "<size=33>Costo: <color=red>Varía.</color>   Recarga: <color=red>Varía.</color>\nPlantas Requeridas: <color=red>6\n<color=purple>Condición de Uso: Modo Odisea</color></size>"
-  },
-  {
+   "cost": "<size=33>Costo: <color=red>Varía.</color>   Recarga: <color=red>Varía.</color>\nPlantas Requeridas: <color=red>6\n<color=purple>Condición de Uso: Modo Odisea</color></size>"
+ },
+ {
     "seedType": 301,
     "name": "<color=yellow>Guisantidillón Férreo",
    "introduce": "<size=39><color=#3D1400>Autor de Textura: @屑红leong\nCada abolladura, cada cicatriz, el Guisantedillón Férreo las luce como insignias de honor. Cada marca narra la historia de una batalla librada, un enemigo resistido y una defensa inquebrantable. Pero este guerrero no solo resiste; con cada pulido, cada refuerzo, se prepara para resistir aún más fuerte, aún más resistente, en la siguiente batalla.</color></size>",
@@ -88,15 +88,14 @@
     "seedType": 303,
     "name": "<color=yellow>Melortero Congelado",
    "introduce": "<size=39><color=#3D1400>Autores de Textura: @屑红leong @仨硝基甲苯\n\"Melortero Congelado solía ser mi mejor camarada, hasta que contó un chiste más frío que una Criogeniseta. Se fue... y me congeló en el proceso.\" Tras decir esto, Mazorcañón Cristalino regresó al campo de batalla, mientras que el Melortero Congelado organizaba un Concurso de Comer Sandías Heladas. Otras plantas a menudo se preguntan por qué sus melones son más fríos que los de los demás. ¿La verdad? Bebía nitrógeno líquido de pequeño. Ahora está... así.</color></size>",
-   "info": "<size=39>Parte del <color=#0077b6>Sistema Criogénico</color>\nManualmente bombardea el campo con melones congelados.\n<color=#0077b6>Sistema Criogénico:</color><color=#28567B>\n</color>- Aplica 50 puntos al impacto.\n- Daño x4 a zombis congelados.</color>
-</color>\n\n<color=#3D1400>Daño:</color> <color=red>120*40, 3×3 sin disminución, con puntos de impacto aleatorios en un área de 5×3 (área 3x3)\n<color=#3D1400>Recarga:</color><color=red>24 segundos</color>\n<color=#3D1400>Especial:</color> <color=red>Al hacer clic en el, puedes dirigir en donde va a disparar. Dichos disparos llegan cayendo del cielo en un área 5x3 aleatoriamente en donde habrás hecho clic.</color>\n<color=#3D1400>Nombre Científico:</color> <color=red>Cucumis Mecrimfera</color></size>\n<size=39><color=#3D1400>Fórmula de Fusión:</color> <color=red>Melortero + Seta Congelada</color></size>",
+   "info": "<size=39>Parte del <color=#0077b6>Sistema Criogénico</color>\nManualmente bombardea el campo con melones congelados.\n<color=#0077b6>Sistema Criogénico:</color><color=#28567B>\n</color>- Aplica 50 puntos al impacto.\n- Daño x4 a zombis congelados.</color></color>\n\n<color=#3D1400>Daño:</color> <color=red>120*40, 3*3 sin disminución, con puntos de impacto aleatorios en un área de 5×3 (área 3x3)\n<color=#3D1400>Recarga:</color><color=red>24 segundos</color>\n<color=#3D1400>Especial:</color> <color=red>Al hacer clic en el, puedes dirigir en donde va a disparar. Dichos disparos llegan cayendo del cielo en un área 5x3 aleatoriamente en donde habrás hecho clic.</color>\n<color=#3D1400>Nombre Científico:</color> <color=red>Cucumis Mecrimfera</color></size>\n<size=39><color=#3D1400>Fórmula de Fusión:</color> <color=red>Melortero + Seta Congelada</color></size>",
       "cost": "<size=39>Costo: <color=red>825, 900</color>   Recarga: <color=red>102.5 Segundos</color>\nPlantas Requeridas: <color=red>5</color></size>"
     },
     {
-    "seedType": 169,
-    "name": "<color=yellow>Galactrebol",
-    "introduce": "<size=39><color=#3D1400>Autor de Textura: @Just Eris\n¡Todos a bordo! ¡La Galactrebol de hoy brilla más que de costumbre! Aunque suele flojear un poco, cuando los zombis empiezan a causar problemas, se salta las conversaciones triviales y se pone manos a la obra: rápida, silenciosa y eficiente.</color></size>",
-    "info": "<size=39>Una Trebolador engañosamente linda... ¿o no?\n\n<color=#3D1400>Dureza: </color><color=red>500</color>\n<color=#3D1400>Especial:</color> <color=red>Normalmente actúa como un Trebolador regular. Cuando el estado 'Conductor Estelar' está activado, emite un hoyo negro o un rayo solar cada 0.3s. Este efecto dura 3 segundos antes de desaparecer.</color>\n<color=#3D1400>Nombre Científico:</color> <color=red>Gigantrifolium galaxea</color></size>\n<size=39><color=#3D1400>",
+   "seedType": 169,
+      "name": "<color=yellow>Galactrebol",
+   "introduce": "<size=39><color=#3D1400>Autor de Textura: @Just Eris\n¡Todos a bordo! ¡La Galactrebol de hoy brilla más que de costumbre! Aunque suele flojear un poco, cuando los zombis empiezan a causar problemas, se salta las conversaciones triviales y se pone manos a la obra: rápida, silenciosa y eficiente.</color></size>",
+   "info": "<size=39>Una Trebolador engañosamente linda... ¿o no?\n\n<color=#3D1400>Dureza: </color><color=red>500</color>\n<color=#3D1400>Especial:</color> <color=red>Normalmente actúa como un Trebolador regular. Cuando el estado 'Conductor Estelar' está activado, emite un hoyo negro o un rayo solar cada 0.3s. Este efecto dura 3 segundos antes de desaparecer.</color>\n<color=#3D1400>Nombre Científico:</color> <color=red>Gigantrifolium galaxea</color></size>\n<size=39><color=#3D1400>",
    "cost": "<size=39>Costo: <color=red>500</color>\nRecarga: <color=red>60 Segundos</color></size>"
  },
  {
