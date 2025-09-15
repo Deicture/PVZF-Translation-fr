@@ -3039,6 +3039,13 @@
             "cost": "<size=36>Fusion Formula: <color=#8B0000>Wall-nut > Flower Pot</color>"
         },
         {
+            "seedType": 1312,
+            "name": "Wallop-shroom",
+            "introduce": "<align=justified><size=36><color=black></color>",
+            "info": "<size=36>\n\n<color=black>Toughness: </color><color=#8B0000>4000</color>\n<color=black>Special: </color><color=#8B0000> Picks up Nut-shrooms within a 3×3 area and bats them forward as projectiles. Projectile damage equals the Nut-shroom's HP. If the projectile hits a zombie and deals enough damage to kill it, the shot pierces through, with its damage reduced by the amount dealt.</color>",
+            "cost": "<size=36>Fusion Formula: <color=#8B0000>Wall-nut + Fume-shroom</color>"
+        },
+        {
             "seedType": 350,
             "name": "Solar-shooter (TD)",
             "introduce": "<align=justified><size=36><color=black>\"Actually, the Sunflower behind me is my sister,\" Solar-shooter explained to everyone. \"We've been inseparable since birth. She loves producing Sun, and I destroy zombies on her behalf.\" But everyone knows the truth: the cheerful Pea brother is a total siscon. After all, every zombie that gets near his sister mysteriously ends up vaporized by sunlight.</color>",
