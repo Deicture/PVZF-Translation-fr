@@ -7,6 +7,12 @@
       "info": "<size=39>Zombie común y corriente de jardín.\n\n<color=#3D1400>Dureza: </color><color=#4B0082>270</color></size>"
     },
     {
+      "theZombieType": 1,
+      "name": "Zombi Abanderado",
+      "introduce": "<size=39><color=#3D1400>No te equivoques: al Zombi abanderado se pierran los sesos. Pero en algún punto del camino quedó fascinado por las banderas. Quizá sea porque llevan cerebros dibujados. Quí lo sá...</color></size>",
+      "info": "<size=39>Va mas rápido que un zombi común. Aparece para anunciar una horda de zombis.\n\n<color=#3D1400>Dureza: </color><color=#4B0082>270</color></size>"
+    },
+    {
       "theZombieType": 2,
       "name": "Zombi Caracono",
       "introduce": "<size=39><color=#3D1400>El Zombi Caracono no tiene idea de lo que es un cono de tráfico. Para él, parece un cono de helado, y cuando descubre que no puede comérselo, simplemente se lo pone en la cabeza.</color></size>",
