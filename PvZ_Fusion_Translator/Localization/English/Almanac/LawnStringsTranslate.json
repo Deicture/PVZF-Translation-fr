@@ -1768,7 +1768,7 @@
             "seedType": 1130,
             "name": "Garlic Pot",
             "introduce": "<align=justified><size=36><color=black>Garlic Pot has long wanted to help the plants in its pot get a thorough sterilization, especially those on the front lines in direct contact with zombies. However, it seems only garlic-type plants are willing to grow in its pot. \"Some plants would rather face zombies than catch my garlic smell,\" Garlic Pot sighed. \"Now I can only use garlic to disinfect garlic, and they just say it's a perfect match.\"</color>",
-            "info": "<size=36>Reduces the biting damage taken by garlic-type plants on top, and has a garlic effect itself.\n\n<color=black>Special: </color><color=#8B0000>Forces zombies to move towards the middle row.</color>",
+            "info": "<size=36>Reduces the biting damage taken by garlic-type plants on top, and has a garlic effect itself.\n\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Forces zombies to move towards the middle row.\n<color=black>•</color> Reduces the biting damage taken by garlic-type plants on top  to 10.</color>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Garlic > Flower Pot</color>"
         },
         {
@@ -3030,6 +3030,13 @@
             "introduce": "<align=justified><size=36><color=black></color>",
             "info": "<size=36>\n\n<color=black>Toughness: </color><color=#8B0000>4000</color>\n<color=#99582a>Lumos System: </color><color=#8B0000>Provides 1 Lumos Level in a 3×3 Grid. Restores 150 Toughness per Lumos Level every 15s.</color></size>",
             "cost": "<size=36>Fusion Formula: <color=#8B0000>Wall-nut + Plantern</color>"
+        },
+        {
+            "seedType": 1311,
+            "name": "Nut-pot",
+            "introduce": "<align=justified><size=36><color=black></color>",
+            "info": "<size=36>\n\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Reduces incoming damage to the plant on top by 20%.\n<color=black>•</color> Immune to Lava tile damage and protects the plant on top.\n<color=black>•</color> Lava tiles deal 50 damage per second to plants and zombies on them, prioritizing Flower Pots, dealing 10 damage to them instead.</color>",
+            "cost": "<size=36>Fusion Formula: <color=#8B0000>Wall-nut > Flower Pot</color>"
         },
         {
             "seedType": 350,
