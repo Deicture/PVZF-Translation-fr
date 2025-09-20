@@ -1,6 +1,60 @@
 {
   "zombies": [
     {
+     "theZombieType": 1001,
+     "name": "Colgao Ladrón",
+     "introduce": "<size=39><color=#3D1400>Tras un reciente atraco, el Colgao Ladrón se compró un traje nuevo para presumir de su fortuna. No todos los atracos tienen éxito, pero cuando uno fracasa, el Colgao Ladrón deja un \u0022regalo\u0022 para los desprevenidos jardineros que creen que una sola Paraplanta basta para salvar el día.</color>",
+     "info": "<size=39>¡Lleva objetos valiosos pero también cajas misteriosas..!\n\n<color=#3D1400>Dureza: </color><color=#4B0082>1350</color>\n<color=#3D1400>Características:</color> <color=#4B0082>Si una Paraplanta lo rebota, regresa poco después para dejar caer un Misteriostein a la derecha del campo. Puede rebotar de nuevo y no regresará. También, suelta un diamante y 100 sol si es derrotado.</color>"
+   },
+   {
+     "theZombieType": 1002,
+     "name": "Jackson Playero",
+     "introduce": "<size=39><color=#3D1400>\"Puff, esta playa se ve muyyy vacía.\" Decía Jackson Playero. \"Creo que lucería mejor con unas...modificaciones mias.\" Al decir eso, llenó la playa con estatuas, lo que terminó siendo una inconveniencia para ambos los zombis y las plantas, ya que tales estatuas generaban más de este tipo molestoso...</color>",
+     "info": "<size=39>Es tan egocéntrico que deja estatuas de el mismo mientras pasa.\n\n<color=#3D1400>Dureza: </color><color=#4B0082>720</color>\n<color=#3D1400>Características:</color> <color=#4B0082>Invoca 4 Estatuas Bailarines con 500 PS. Después de 15s, cada estatua se rompe y suelta otro Jackson Playero con PS iguales a los PS restantes de la Estatua Bailarín. Fuera de los Modos TD, invoca las Estatuas Bailarines donde un Zombi Jackson básico haría aparecer sus Bailarines Extra.</color>"
+   },
+   {
+     "theZombieType": 1003,
+     "name": "Deportista Abanderado",
+     "introduce": "<size=39><color=#3D1400>INTRO</color>",
+     "info": "<size=39>Impresionablemente hace unas volteretas para evitar a tus plantas.\n\n<color=#3D1400>Dureza: </color><color=#4B0082>720+1400</color>\n<color=#3D1400>Características:</color> <color=#4B0082>Avanza dos casillas al encontrarse con una planta, ignorándola completamente.</color>"
+   },
+   {
+     "theZombieType": 1004,
+     "name": "Islabestia",
+     "introduce": "<size=39><color=#3D1400>INTRO</color>",
+     "info": "<size=39>Inocente a primera vista, pero puede hacerte perder. Rápido.\n\n<color=#3D1400>Dureza: </color><color=#4B0082>500</color>\n<color=#3D1400>Características:</color> <color=#4B0082>Lleva casi las mismas características que Copitobestia. Tiene 2/3 de probabilidad de ignorar plantas y un 1/3 de probabilidad de ignorar daño completamente.</color>"
+   },
+   {
+     "theZombieType": 1005,
+     "name": "Jinete Avícola",
+     "introduce": "<size=39><color=#3D1400>\"¿Debo pelear con el pollo este?\" Pregunta una planta. Y un zombi, simplemente dice... \"...JINETE AVÍCOLA.\".</color>",
+     "info": "<size=39>Un zombi montando un pollo...¿Dónde habré escuchado eso antes?\n\n<color=#3D1400>Dureza: </color><color=#4B0082>720</color>\n<color=#3D1400>Características:</color> <color=#4B0082>Al aparecer, se mueve a una velocidad muy rápida. El pollo deja caer al Zombidito montandolo al morir.</color>"
+   },
+   {
+     "theZombieType": 1006,
+     "name": "Jinete Zombi",
+     "introduce": "<size=39><color=#3D1400>INTRO</color>",
+     "info": "<size=39>Va a grandes velocidades montando su confiable caballo.\n\n<color=#3D1400>Dureza: </color><color=#4B0082>1350</color>\n<color=#3D1400>Características:</color> <color=#4B0082>Corre muy rápido y puede aplastar plantas. Al aplastar una planta, se detiene un momento y luego continúa moviéndose.</color>"
+   },
+   {
+     "theZombieType": 1007,
+     "name": "Jinete Vegezombi",
+     "introduce": "<size=39><color=#3D1400>INTRO</color>",
+     "info": "<size=39>Se enfurece demasiado si decides matar a su compañero.\n\n<color=#3D1400>Dureza: </color><color=#4B0082>1400+8000</color>\n<color=#3D1400>Daño: </color><color=#4B0082>80x4 cada 1,5s (Jinete)</color>\n<color=#3D1400>Características:</color> <color=#4B0082>Aparece solo durante grandes oleadas (banderas). Es inmune al empujamiento, ondea banderas cuando su salud baja a menos de la mitad, invoca un caballero por fila y otorga un 50% de reducción de daño mientras esté vivo. Si su caballo muere pero el jinete no, se desmontará, y empezará a disparar sucesivamente.</color>"
+   },
+   {
+     "theZombieType": 1008,
+     "name": "Vegezombi Deportralladora",
+     "introduce": "<size=39><color=#3D1400>INTRO</color>",
+     "info": "<size=39>Destruye todo a su paso para vengar a su caballo.\n\n<color=#3D1400>Dureza: </color><color=#4B0082>1800</color>\n<color=#3D1400>Daño: </color><color=#4B0082>80</color>"
+   },
+   {
+     "theZombieType": 1009,
+     "name": "Jinete de la Oscuridad",
+     "introduce": "<size=39><color=#3D1400>INTRO</color>",
+     "info": "<size=39>Un jinete proveniente de los bosques más oscuros, listo para aniquilarte.\n\n<color=#3D1400>Dureza: </color><color=#4B0082>48000+24000</color>\n<color=#3D1400>Daño: </color><color=#4B0082>80 cada 0,1s</color>\n<color=#3D1400>Características:</color> <color=#4B0082>Mientras corre, el Jinete maldice la primera planta que alcanza en un radio de 3x3 (excluyendo plantas aéreas y macetas) durante 5 segundos. Luego, se detiene brevemente y camina (Las plantas alcanzadas mientras camina no seran maldecidas). Tras 10 segundos de caminata, vuelve a correr. Al perder 2/3 de su salud, invoca un Vegezombi Ferreosargento en cada fila. Es inmune al empujamiento, hipnotización, congelación y a la mantequilla. Recupera 200 PS cada 0,1 segundos.</color>"
+   },
+   {
       "theZombieType": 0,
       "name": "Zombi",
       "introduce": "<size=39><color=#3D1400>Zombi odia que su nombre lo haga parecer un simple, bueno, zombi. No se considera un enemigo sin nombre o solo otro cadáver común. ¡Es un individuo, maldita sea! Y va a hacer algo extraordinario, aunque te mate en el proceso.</color></size>",
@@ -356,18 +410,6 @@
       "info": "<size=39>Una Hielabestia pequeña que ama rodar. Raramente sobrevive haciéndolo.\n\n<color=#3D1400>Dureza: </color><color=#4B0082>300</color>\n<color=#3D1400>Características:</color><color=#4B0082>Roda hacia adelante, y al chocar contra una planta, hace daño al igual que sus PS actuales, muriendo.</color>"
     },
     {
-     "theZombieType": 63,
-     "name": "Colgao Ladrón",
-     "introduce": "<size=39><color=#3D1400>Tras un reciente atraco, el Colgao Ladrón se compró un traje nuevo para presumir de su fortuna. No todos los atracos tienen éxito, pero cuando uno fracasa, el Colgao Ladrón deja un \u0022regalo\u0022 para los desprevenidos jardineros que creen que una sola Paraplanta basta para salvar el día.</color>",
-     "info": "<size=39>¡Lleva objetos valiosos pero también cajas misteriosas..!\n\n<color=#3D1400>Dureza: </color><color=#4B0082>1350</color>\n<color=#3D1400>Características:</color> <color=#4B0082>Si una Paraplanta lo rebota, regresa poco después para dejar caer un Misteriostein a la derecha del campo. Puede rebotar de nuevo y no regresará. También, suelta un diamante y 100 sol si es derrotado.</color>"
-   },
-   {
-     "theZombieType": 64,
-     "name": "Jackson Playero",
-     "introduce": "<size=39><color=#3D1400>\"Puff, esta playa se ve muyyy vacía.\" Decía Jackson Playero. \"Creo que lucería mejor con unas...modificaciones mias.\" Al decir eso, llenó la playa con estatuas, lo que terminó siendo una inconveniencia para ambos los zombis y las plantas, ya que tales estatuas generaban más de este tipo molestoso...</color>",
-     "info": "<size=39>Es tan egocéntrico que deja estatuas de el mismo mientras pasa.\n\n<color=#3D1400>Dureza: </color><color=#4B0082>720</color>\n<color=#3D1400>Características:</color> <color=#4B0082>Invoca 4 Estatuas Bailarines con 500 PS. Después de 15s, cada estatua se rompe y suelta otro Jackson Playero con PS iguales a los PS restantes de la Estatua Bailarín. Fuera de los Modos TD, invoca las Estatuas Bailarines donde un Zombi Jackson básico haría aparecer sus Bailarines Extra.</color>"
-   },
-   {
       "theZombieType": 100,
       "name": "Vegezombi Guisante",
       "introduce": "<size=39><color=#3D1400>La habilidad del Vegezombi Guisante para atacar a distancia a menudo asusta a las plantas. Sin embargo, el verdadero pánico lo sienten los zombis, que temen que los que luchan frente a él sean atacados desde atrás.</color></size>",
