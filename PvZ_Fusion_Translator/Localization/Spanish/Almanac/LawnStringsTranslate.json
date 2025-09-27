@@ -39,9 +39,9 @@
 
     {
       "seedType": 5,
-      "name": "Planta Carroñívora",
-      "introduce": "<size=39><color=#3D1400>Planta Carroñívora estuvo a punto de conseguir un trabajo como actor de doblaje en la nueva peli de Spiderman, pero no lo consiguió porque su agente le exigió demasiado por adelantado. Pero Carroñívora no está resentida. Dice que es parte del negocio.</color></size>",
-      "info": "<size=39>Las Plantas Carroñívoras pueden devorar a un zombi entero, pero son vulnerables mientras mastican.\n\n<color=#3D1400>Daño: </color><color=red>Muerte Instantánea</color>\n<color=#3D1400>Rango: </color><color=red>1 casilla al frente</color>\n<color=#3D1400>Tiempo De Masticado: </color><color=red>42s</color>\n<color=#3D1400>Nombre Científico: </color><color=red>Dionaea voratrix</color></size>",
+      "name": "Planta Carnívora",
+      "introduce": "<size=39><color=#3D1400>Planta Carnívora estuvo a punto de conseguir un trabajo como actor de doblaje en la nueva peli de Spiderman, pero no lo consiguió porque su agente le exigió demasiado por adelantado. Pero Carnívora no está resentida. Dice que es parte del negocio.</color></size>",
+      "info": "<size=39>Las Plantas Carnívoras pueden devorar a un zombi entero, pero son vulnerables mientras mastican.\n\n<color=#3D1400>Daño: </color><color=red>Muerte Instantánea</color>\n<color=#3D1400>Rango: </color><color=red>1 casilla al frente</color>\n<color=#3D1400>Tiempo De Masticado: </color><color=red>42s</color>\n<color=#3D1400>Nombre Científico: </color><color=red>Dionaea voratrix</color></size>",
       "cost": "<size=39>Costo: <color=red>150</color>\nRecarga: <color=red>7,5 Segundos</color></size>"
     },
     {
@@ -1044,25 +1044,34 @@
       "name": "228"
     },
     {
-      "seedType": 229,
-      "name": "229"
-    },
-    {
-    "seedType": 230,
-    "name": "Seta Lúmina",
+    "seedType": 229,
+    "name": "Trebolador Suertudo",
    "introduce": "<size=39><color=#3D1400>INTRO</color></size>",
-   "info": "<size=39>Parte del <color=#104f30>Sistema Lúmina</color>\n<color=blue>Planta de la colaboración con PvZ: Symbiosis</color></color>\n\n<color=#3D1400>Producción Solar: </color><color=red>20→35 cada 25s</color>\n<color=#3D1400>Especial:</color> <color=red>Las Setas Solares se convierten en Setas Lúminas y consiguen la habilidad <b>Lumi-Sol</b> después de 150s si el Nivel Lúmina en su casilla es 1 o mayor. Después de unos 150s adicionales, consigue la habilidad <b>Lumi-Hada</b>. Tras unos otros 150s, finalmente consigue la habilidad <b>Lumi-Estallo</b>. Cada Nivel Lúmina acelera las conversiones y mejoras por 100%.</color>\n<size=39><color=#3D1400>Habilidades:</color> <color=red>\n- Lumi-Sol:\nProduce soles con un valor de 20 (35 al crecer).\n- Lumi-Hada\nCuando un zombi muerde una Seta Lúmina, una Lumi-Hada empieza a seguirlo (dos si la Seta Lúmina esta crecida). Cada vez que un zombi seguido recibe daño, una Lumi-Hada sale volando y produce un pequeño Lumi-Sol. Cuando el zombi muere, todos las Lumi-Hadas que lo siguen se liberan, dejando caer la misma cantidad de Lumi-Soles. Un zombi puede tener hasta 20 Lumi-Hadas siguiéndolo a la vez.\n- Lumi-Estallo\nCuando una Seta Lúmina muere, todos los zombis en un radio pequeño son seguidos por cinco Lumi-Hadas (mayor radio cuando crecen).</color>\n<size=39><color=#3D1400>Fórmula de Fusión:</color> <color=red>Seta Solar + Nivel Lúmina</color></size>",
-   "cost": "<size=39>Costo: <color=red>50, 125</color>   Recarga: <color=red>15 Segundos</color>\nPlantas Requeridas: <color=red>2 (+ Nivel Lúmina)</color></size>"
+   "info": "<size=39>Mejora las chances de que aparezcan plantas poderosas en Regalos Planta.</color>\n\n<color=#3D1400>Uso:</color> <color=red>Único, Instantáneo\n<color=#3D1400>Especial:</color> <color=red>Tras plantar un Trebolador Suertudo, el próximo Regalo Planta que plantes dará una Fusión Avanzada en niveles normales (Plantas como Hamburgueso y Deportralladora entran en esta categoría), y una Fusión Odisea en niveles Gacha Odisea.</color></size>",
+  "cost": "<size=39>Costo: <color=red>200</color>\nRecarga: <color=red>50 Segundos</color></size>"
+ },
+ {
+    "seedType": 230,
+    "name": "Seta Lúmina (NV1)",
+   "introduce": "<size=39><color=#3D1400>INTRO</color></size>",
+   "info": "<size=39>Parte del <color=#104f30>Sistema Lúmina</color>\nUna Seta Solar que utiliza métodos complicados para generar más Sol.\n<color=blue>Planta de la colaboración con PvZ: Symbiosis</color></color>\n\n<color=#3D1400>Producción Solar: </color><color=red>20→35 cada 25s</color>\n<color=#3D1400>Especial:</color> <color=red>Las Setas Solares se convierten en Setas Lúminas y consiguen la habilidad <b>Lumi-Sol</b> después de 150s si el Nivel Lúmina en su casilla es 1 o mayor. Cada Nivel Lúmina acelera los cambios de fases por 100%.\n<size=39><color=#3D1400>Habilidades:</color> <color=red>\n- Lumi-Sol:\nProduce soles con un valor de 20 (35 al crecer).\n<size=39><color=#3D1400>Fórmula de Fusión:</color> <color=red>Seta Solar + 1 Nivel Lúmina</color></size>",
+   "cost": "<size=39>Costo: <color=red>50, 125</color>   Recarga: <color=red>15 Segundos</color>\nPlantas Requeridas: <color=red>2 (+ 1 Nivel Lúmina)</color></size>"
         },
         {
-      "seedType": 231,
-      "name": "231"
-    },
-    {
-      "seedType": 232,
-      "name": "232"
-    },
-    {
+    "seedType": 231,
+    "name": "Seta Lúmina (NV2)",
+   "introduce": "<size=39><color=#3D1400>INTRO</color></size>",
+   "info": "<size=39>Parte del <color=#104f30>Sistema Lúmina</color>\nUna Seta Solar que utiliza métodos complicados para generar más Sol.\n<color=blue>Planta de la colaboración con PvZ: Symbiosis</color></color>\n\n<color=#3D1400>Producción Solar: </color><color=red>20 (Pequeña) 35 (Crecida) cada 25s</color>\n<color=#3D1400>Especial:</color> <color=red>Hereda todas las características de su fase anterior. Después de unos 150s adicionales, consigue la habilidad <b>Lumi-Hada</b>. Cada Nivel Lúmina acelera los cambios de fases por 100%.</color>\n<size=39><color=#3D1400>Habilidades:</color> <color=red>\n- Lumi-Sol:\nProduce soles con un valor de 20 (35 al crecer).\n- Lumi-Hada\nCuando un zombi muerde una Seta Lúmina, una Lumi-Hada empieza a seguirlo (dos si la Seta Lúmina esta crecida). Cada vez que un zombi seguido recibe daño, una Lumi-Hada sale volando y produce un pequeño Lumi-Sol. Cuando el zombi muere, todos las Lumi-Hadas que lo siguen se liberan, dejando caer la misma cantidad de Lumi-Soles. Un zombi puede tener hasta 20 Lumi-Hadas siguiéndolo a la vez.\n<size=39><color=#3D1400>Fórmula de Fusión:</color> <color=red>Seta Solar + 2 Niveles Lúmina</color></size>",
+   "cost": "<size=39>Costo: <color=red>50, 125</color>   Recarga: <color=red>15 Segundos</color>\nPlantas Requeridas: <color=red>2 (+ 2 Niveles Lúmina)</color></size>"
+        },
+        {
+    "seedType": 232,
+    "name": "Seta Lúmina (NV3)",
+   "introduce": "<size=39><color=#3D1400>INTRO</color></size>",
+   "info": "<size=39>Parte del <color=#104f30>Sistema Lúmina</color>\nUna Seta Solar que utiliza métodos complicados para generar más Sol.\n<color=blue>Planta de la colaboración con PvZ: Symbiosis</color></color>\n\n<color=#3D1400>Producción Solar: </color><color=red>20→35 cada 25s</color>\n<color=#3D1400>Especial:</color> <color=red>Hereda las características de sus fases anteriores. Tras unos otros 150s, finalmente consigue la habilidad <b>Lumi-Estallo</b>. Cada Nivel Lúmina acelera los cambios de fases por 100%.</color>\n<size=39><color=#3D1400>Habilidades:</color> <color=red>\n- Lumi-Sol:\nProduce soles con un valor de 20 (35 al crecer).\n- Lumi-Hada\nCuando un zombi muerde una Seta Lúmina, una Lumi-Hada empieza a seguirlo (dos si la Seta Lúmina esta crecida). Cada vez que un zombi seguido recibe daño, una Lumi-Hada sale volando y produce un pequeño Lumi-Sol. Cuando el zombi muere, todos las Lumi-Hadas que lo siguen se liberan, dejando caer la misma cantidad de Lumi-Soles. Un zombi puede tener hasta 20 Lumi-Hadas siguiéndolo a la vez.\n- Lumi-Estallo\nCuando una Seta Lúmina muere, todos los zombis en un radio pequeño son seguidos por cinco Lumi-Hadas (mayor radio cuando crecen).</color>\n<size=39><color=#3D1400>Fórmula de Fusión:</color> <color=red>Seta Solar + 3 Niveles Lúmina</color></size>",
+   "cost": "<size=39>Costo: <color=red>50, 125</color>   Recarga: <color=red>15 Segundos</color>\nPlantas Requeridas: <color=red>2 (+ 3 Niveles Lúmina)</color></size>"
+        },
+        {
       "seedType": 233,
       "name": "Regalo Congelado",
       "introduce": "<size=39><color=#3D1400>Entre todos los Regalos en la tienda, el congelado es el menos amado. ¿Por qué? Bueno... Es conocido por ser la víctima de tratamientos <i>fríos</i>.</color></size>",
@@ -1641,8 +1650,8 @@
     },
     {
       "seedType": 356,
-      "name": "Carroñívora Carmesí (TD)",
-      "introduce": "<size=39><color=#3D1400>Desde que se tomó una copa con Petacereza, Planta Carroñívora anda todo el día \"zumbando\". Se volvió una auténtica amenaza en cada comida. El crujido de sus mordiscos se transformaba en explosivos \"pop\" que lanzaban platos y cuencos por los aires, dejando a todos reacios a compartir mesa con ella. Al final, tras una votación a mano alzada, decidieron que Carroñívora Carmesí terminaría comiendo en el jardín… ¡al menos ya no tendrá que reponer su vajilla!</color></size>",
+      "name": "Carnívora Carmesí (TD)",
+      "introduce": "<size=39><color=#3D1400>Desde que se tomó una copa con Petacereza, Planta Carnívora anda todo el día \"zumbando\". Se volvió una auténtica amenaza en cada comida. El crujido de sus mordiscos se transformaba en explosivos \"pop\" que lanzaban platos y cuencos por los aires, dejando a todos reacios a compartir mesa con ella. Al final, tras una votación a mano alzada, decidieron que Carnívora Carmesí terminaría comiendo en el jardín… ¡al menos ya no tendrá que reponer su vajilla!</color></size>",
       "info": "<size=39>Cierra las fauces con tanta fuerza que produce una explosión masiva.\nAntes de plantar, puedes presionar R para voltearlo.\n\n<color=#3D1400>Daño: </color><color=red>Muerte Instantánea + 1000 (área de 3x3)</color>\n<color=#3D1400>Especial: </color><color=red>Crea una explosión de Petacereza al morder a un zombi.</color>\n\n<color=purple>Mejoras:</color>\n- Mejora Básica (200 Soles): Daño de Explosión +20%, Tiempo de Digestión -10s\n- Mejora Avanzada I (500 Soles): Daño de Explosión +100%\n- Mejora Avanzada II (500 Soles): Tiempo de Digestión -50% (15s)</color></size>",
       "cost": "<size=39>Costo: <color=red>500</color>\nRecarga: <color=red>50 Segundos</color></size>"
     },
@@ -3842,7 +3851,7 @@
    "seedType": 903,
    "name": "Cerezilla",
    "introduce": "<size=39><color=#3D1400>Cerezilla orgullosa dice, \u0022Muchos envidian mi peinado de dinosaurio.\u0022 Como personaje público, es consciente de su imagen: \u0022Escupir cerezas y comer zombis es asqueroso, pero es mi deber.\u0022</color></size>",
-   "info": "<size=39>Cerezilla es la planta defensiva definitiva en tierra.\n\n<color=#3D1400>Dureza: </color><color=red>8000</color>\n<color=#3D1400>Daño:</color> <color=red>1000 cada 1,75s\n<color=#3D1400>Rango: </color><color=red>1 casilla al frente</color>\n\n<color=#3D1400>Especial:</color> <color=red>\n- Repele vehículos y recibe como máximo 1/3 de su dureza máxima por golpe. Se cura al ser afectado por cerezas explosivas.\n- Puede obtener PS excesivo hasta 32000; dichos PS se drenan a 800 por segundo.\n- Cada 40s, puede devorar a cualquier zombi (excluyendo minijefes), restaurando PS a 4 veces su dureza máxima y obteniendo 1 Acumulación de Devoración.\n- Sus mordiscos infligen daño en área y daño adicional igual a: PS Máximos de Zombi * (3% + 0,2% + Acumulación de Devoración), curando la misma cantidad. Tras morder, escupe una cereza explosiva.\n- Al recibir daño letal, sus PS se mantienen a 1 durante 5s (una vez cada 10s).\n\n<color=purple>Mejoras de Odisea:</color>\n</color></color>- Cerezilla se recupera x3 veces mas rápido</color>\n- Recarga de devoración reducida a 15s</color>\n\n<color=purple>Mejoras Mutuas:</color></color></color>\n- Debes tener todos los modificadores de Cerezilla y Nuez Obsidiana para tener la chance de obtener este modificador en la tienda.\n- Cuando tanto Cerezilla como Nuez Obsidiana están en el campo, Cerezilla se convierte en un atacante de área y su salud ya no tiene límite.\n- Nuez Obsidiana obtiene una reducción de daño del 90%.</color>\n\n<color=#3D1400>Fórmula de Fusión: </color><color=red>Cephazilla + Carroñívora Carmesí</color></size>",
+   "info": "<size=39>Cerezilla es la planta defensiva definitiva en tierra.\n\n<color=#3D1400>Dureza: </color><color=red>8000</color>\n<color=#3D1400>Daño:</color> <color=red>1000 cada 1,75s\n<color=#3D1400>Rango: </color><color=red>1 casilla al frente</color>\n\n<color=#3D1400>Especial:</color> <color=red>\n- Repele vehículos y recibe como máximo 1/3 de su dureza máxima por golpe. Se cura al ser afectado por cerezas explosivas.\n- Puede obtener PS excesivo hasta 32000; dichos PS se drenan a 800 por segundo.\n- Cada 40s, puede devorar a cualquier zombi (excluyendo minijefes), restaurando PS a 4 veces su dureza máxima y obteniendo 1 Acumulación de Devoración.\n- Sus mordiscos infligen daño en área y daño adicional igual a: PS Máximos de Zombi * (3% + 0,2% + Acumulación de Devoración), curando la misma cantidad. Tras morder, escupe una cereza explosiva.\n- Al recibir daño letal, sus PS se mantienen a 1 durante 5s (una vez cada 10s).\n\n<color=purple>Mejoras de Odisea:</color>\n</color></color>- Cerezilla se recupera x3 veces mas rápido</color>\n- Recarga de devoración reducida a 15s</color>\n\n<color=purple>Mejoras Mutuas:</color></color></color>\n- Debes tener todos los modificadores de Cerezilla y Nuez Obsidiana para tener la chance de obtener este modificador en la tienda.\n- Cuando tanto Cerezilla como Nuez Obsidiana están en el campo, Cerezilla se convierte en un atacante de área y su salud ya no tiene límite.\n- Nuez Obsidiana obtiene una reducción de daño del 90%.</color>\n\n<color=#3D1400>Fórmula de Fusión: </color><color=red>Cephazilla + Carnívora Carmesí</color></size>",
       "cost": "<size=33>Costo: <color=red>600</color>   Recarga: <color=red>102,5 Segundos</color>\nPlantas Requeridas: <color=red>5\n<color=purple>Condición de Uso: Modo Odisea - Desbloqueable</color></size>"
     },
     {
@@ -4176,9 +4185,9 @@
     },
     {
       "seedType": 951,
-      "name": "Lumiñívora Titán",
-      "introduce": "<size=39><color=#3D1400>La Lumiñívora Titán no estaba segura de cómo terminó en tierra firme después de una travesía por las profundidades del mar, pero se ha acomodado perfectamente.  \u0022¿Para qué volver a las oscuras y escasas profundidades si siempre hay zombis en el menú?\u0022, gruñó. La leyenda dice que su apetito es tan grande que los concursos gourmet ya no pudieron pagar la factura de la electricidad... supongo que ahora ella es su nueva fuente de energía.</color></size>",
-      "info": "<size=39>Parte del <color=#104f30>Sistema Lúmina</color>\nUna Carroñívora gigante que atrae zombis con luz; una maestra en atraer, devorar y digerir.\n<color=#104f30>Sistema Lúmina:</color></color>\n- Mientras más Niveles Lúmina tenga, el tiempo de masticación se reduce por 10s hasta un mínimo de 5s</color>\n\n<color=#3D1400>Dureza: </color><color=red>8000</color>\n<color=#3D1400>Daño: </color><color=red>Muerte Instantánea</color>\n<color=#3D1400>Rango: </color><color=red>1,5 casillas al frente</color>\n<color=#3D1400>Tiempo De Masticado: </color><color=red>5 + (Suma Total de la Durabilidad de los Zombis)^0,33s (-10s * Nivel Lúmina)</color>\n<color=#3D1400>Especial:</color> <color=red>\n- Inmune a ser aplastado. Puede comer todos los zombis (excluyendo zombis líderes) en un rango de 1,5 casillas en frente suyo.\n- Ocupando un paquete de semillas de Planta Carroñívora en ella reducirá su tiempo de masticación por 10s.\n- Al digerir, atrae zombis cercanos de sus filas adyacentes y recupera toda su dureza.\n\n<color=purple>Mejoras de Odisea:</color>\n</color>- Rango de ataque x2</color>\n- Otorga 2 Niveles Lúmina en un área de 5×5 mientras digiere.</color>\n\n<color=#3D1400>Fórmula de Fusión: </color><color=red>Carroñívora Titán + Planta Lumiñívora</color></size>",
+      "name": "Luminívora Titán",
+      "introduce": "<size=39><color=#3D1400>La Luminívora Titán no estaba segura de cómo terminó en tierra firme después de una travesía por las profundidades del mar, pero se ha acomodado perfectamente.  \u0022¿Para qué volver a las oscuras y escasas profundidades si siempre hay zombis en el menú?\u0022, gruñó. La leyenda dice que su apetito es tan grande que los concursos gourmet ya no pudieron pagar la factura de la electricidad... supongo que ahora ella es su nueva fuente de energía.</color></size>",
+      "info": "<size=39>Parte del <color=#104f30>Sistema Lúmina</color>\nUna Carnívora gigante que atrae zombis con luz; una maestra en atraer, devorar y digerir.\n<color=#104f30>Sistema Lúmina:</color></color>\n- Mientras más Niveles Lúmina tenga, el tiempo de masticación se reduce por 10s hasta un mínimo de 5s</color>\n\n<color=#3D1400>Dureza: </color><color=red>8000</color>\n<color=#3D1400>Daño: </color><color=red>Muerte Instantánea</color>\n<color=#3D1400>Rango: </color><color=red>1,5 casillas al frente</color>\n<color=#3D1400>Tiempo De Masticado: </color><color=red>5 + (Suma Total de la Durabilidad de los Zombis)^0,33s (-10s * Nivel Lúmina)</color>\n<color=#3D1400>Especial:</color> <color=red>\n- Inmune a ser aplastado. Puede comer todos los zombis (excluyendo zombis líderes) en un rango de 1,5 casillas en frente suyo.\n- Ocupando un paquete de semillas de Planta Carnívora en ella reducirá su tiempo de masticación por 10s.\n- Al digerir, atrae zombis cercanos de sus filas adyacentes y recupera toda su dureza.\n\n<color=purple>Mejoras de Odisea:</color>\n</color>- Rango de ataque x2</color>\n- Otorga 2 Niveles Lúmina en un área de 5×5 mientras digiere.</color>\n\n<color=#3D1400>Fórmula de Fusión: </color><color=red>Carnívora Titán + Planta Luminívora</color></size>",
       "cost": "<size=33>Costo: <color=red>25</color>   Recarga: <color=red>75 Segundos</color>\nPlantas Requeridas: <color=red>6\n<color=purple>Condición de Uso: Modo Odisea - Desbloqueable</color></size>"
     },
     {
@@ -4210,10 +4219,13 @@
       "cost": "<size=33>Costo: <color=red>300</color>   Recarga: <color=red>37,5 Segundos</color>\nPlantas Requeridas: <color=red>5\n<color=purple>Condición de Uso: Modo Odisea - Desbloqueable</color></size>"
     },
     {
-      "seedType": 956,
-      "name": "956"
-    },
-    {
+   "seedType": 956,
+   "name": "Parcarnívora",
+   "introduce": "<size=39><color=#3D1400>INTRO</color></size>",
+   "info": "<size=39>INFO\n\n<color=#3D1400>Daño: </color><color=red>1800</color>\n<color=#3D1400>Uso:</color> <color=red>Manual\n<color=#3D1400>Tiempo de Masticado:</color> <color=red>30s\n\n<color=#3D1400>Especial:</color> <color=red>Al cliquearla, libera una explosión de Petaseta y Jalapeño una casilla adelante. Si hay una planta en esa casilla, Parcarnívora la eliminará y tendrá un 50% de probabilidad de que vuelva esa planta como un paquete de semillas. Las plantas maldecidas siempre soltarán su paquete de semillas al ser eliminadas por Parcarnívora, y quitará 15% de la durabilidad máxima de el que aplicó la maldición.\n\n<color=purple>Mejoras de Odisea:</color>\n</color></color></color>- Las plantas siempre vuelven como paquetes de semillas al ser eliminadas por Parcarnívora</color>\n- Si Parcarnívora elimina una planta odisea con un efecto al morir, este se activará 5 veces</color>\n\n<color=#3D1400>Fórmula de Fusión: </color><color=red>Planta Maldívora + Jalapeño</color></size>",
+   "cost": "<size=33>Costo: <color=red>525, 675</color>   Recarga: <color=red>157,5 Segundos</color>\nPlantas Requeridas: <color=red>4\n<color=purple>Condición de Uso: Modo Odisea - Selección Inicial</color></size>"
+ },
+ {
       "seedType": 957,
       "name": "957"
     },
@@ -4415,9 +4427,9 @@
     },
     {
       "seedType": 1004,
-      "name": "Lanzavellanas",
-      "introduce": "<size=39><color=#3D1400>\u0022No... no me llames feo, o si no... espera... Te voy a rociar.\u0022 Lanzavellanas siempre ha tenido dificultades con su \u0022apariencia única.\u0022 Pero cree firmemente que lo que hay dentro de una planta importa más que su aspecto. En busca de orientación, pidió humildemente consejo a la Nuez Bolera y acabó dominando la técnica de hacer rodar las nueces como si fueran bolas de boliche.</color></size>",
-      "info": "<size=39>Lanzavellanas lanza nuecitas que atraviesan toda una fila de zombis.\n\n<color=#3D1400>Dureza: </color><color=red>4000</color>\n<color=#3D1400>Daño: </color><color=red>20 cada 1,5s (perforante)</color>\n<color=#3D1400>Fórmula de Fusión: </color><color=red>Lanzaguisantes + Nuez</color></size>",
+      "name": "Lanzanueces",
+      "introduce": "<size=39><color=#3D1400>\u0022No... no me llames feo, o si no... espera... Te voy a rociar.\u0022 Lanzanueces siempre ha tenido dificultades con su \u0022apariencia única.\u0022 Pero cree firmemente que lo que hay dentro de una planta importa más que su aspecto. En busca de orientación, pidió humildemente consejo a la Nuez Gigante y acabó dominando la técnica de hacer rodar las nueces como si fueran bolas de boliche.</color></size>",
+      "info": "<size=39>Lanzanueces lanza nuecitas que atraviesan toda una fila de zombis.\n\n<color=#3D1400>Dureza: </color><color=red>4000</color>\n<color=#3D1400>Daño: </color><color=red>20 cada 1,5s (perforante)</color>\n<color=#3D1400>Fórmula de Fusión: </color><color=red>Lanzaguisantes + Nuez</color></size>",
       "cost": "<size=39>Costo: <color=red>150</color>   Recarga: <color=red>37,5 Segundos</color>\nPlantas Requeridas: <color=red>2</color></size>"
     },
     {
@@ -4465,15 +4477,15 @@
     {
       "seedType": 1011,
       "name": "Lanzacabezas",
-      "introduce": "<size=39><color=#3D1400>Planta Carroñívora siempre ha envidiado la habilidad de Lanzacabezas para escupir restos de zombis, y ha intentado aprender el truco más de una vez. Pero no sabía que el secreto no era una habilidad especial, sino que la boca de Lanzacabezas estaba ligeramente deformada, causando que trozos de zombi salieran al masticar.</color></size>",
-      "info": "<size=39>Lanzacabezas puede disparar partes de zombi después de morder.\n\n<color=#3D1400>Daño: </color><color=red>Muerte Instantánea (Mordisco), 80 cada 2,5s (perforante) (Proyectiles)</color>\n<color=#3D1400>Tiempo De Masticado: </color><color=red>42s</color>\n<color=#3D1400>Especial: </color><color=red>Tras atacar a un zombi, escupe partes rodantes de este que cada 2,5s infligen 80 de daño y perforan toda la línea.</color>\n<color=#3D1400>Fórmula de Fusión: </color><color=red>Planta Carroñívora + Lanzaguisantes</color></size>",
+      "introduce": "<size=39><color=#3D1400>Planta Carnívora siempre ha envidiado la habilidad de Lanzacabezas para escupir restos de zombis, y ha intentado aprender el truco más de una vez. Pero no sabía que el secreto no era una habilidad especial, sino que la boca de Lanzacabezas estaba ligeramente deformada, causando que trozos de zombi salieran al masticar.</color></size>",
+      "info": "<size=39>Lanzacabezas puede disparar partes de zombi después de morder.\n\n<color=#3D1400>Daño: </color><color=red>Muerte Instantánea (Mordisco), 80 cada 2,5s (perforante) (Proyectiles)</color>\n<color=#3D1400>Tiempo De Masticado: </color><color=red>42s</color>\n<color=#3D1400>Especial: </color><color=red>Tras atacar a un zombi, escupe partes rodantes de este que cada 2,5s infligen 80 de daño y perforan toda la línea.</color>\n<color=#3D1400>Fórmula de Fusión: </color><color=red>Planta Carnívora + Lanzaguisantes</color></size>",
       "cost": "<size=39>Costo: <color=red>250</color>   Recarga: <color=red>15 Segundos</color>\nPlantas Requeridas: <color=red>2</color></size>"
     },
     {
       "seedType": 1012,
       "name": "Muerdecorteza",
       "introduce": "<size=39><color=#3D1400>Como planta joven, Muerdecorteza era notoriamente quisquillosa con la comida, nunca tragaba zombis de un bocado, lo que frustraba a sus padres. Tras mucha persuasión, Muerdecorteza aprendió finalmente a consumir zombis enteros, igual que sus predecesores. \u0022¡No soy exigente! Solo quiero imitar cómo comen los zombis. Debería probar algo nuevo, ¿no? Definitivamente no es porque no tengo cuello, lo que hace inconveniente tragar de un bocado.\u0022 dijo Muerdecorteza mientras masticaba un zombi.</color></size>",
-      "info": "<size=39>Muerdecorteza puede restaurar la dureza después de comer zombis.\n\n<color=#3D1400>Dureza: </color><color=red>4000</color>\n<color=#3D1400>Daño:</color><color=red> Muerte Instantánea</color>\n<color=#3D1400>Fórmula de Fusión: </color><color=red>Nuez + Planta Carroñívora</color></size>",
+      "info": "<size=39>Muerdecorteza puede restaurar la dureza después de comer zombis.\n\n<color=#3D1400>Dureza: </color><color=red>4000</color>\n<color=#3D1400>Daño:</color><color=red> Muerte Instantánea</color>\n<color=#3D1400>Fórmula de Fusión: </color><color=red>Nuez + Planta Carnívora</color></size>",
       "cost": "<size=39>Costo: <color=red>200</color>   Recarga: <color=red>37,5 Segundos</color>\nPlantas Requeridas: <color=red>2</color></size>"
     },
     {
@@ -4485,9 +4497,9 @@
     },
     {
       "seedType": 1014,
-      "name": "Carroñívora Solar",
+      "name": "Carnívora Solar",
       "introduce": "<size=39><color=#3D1400>Todo el mundo sentía curiosidad por saber cómo Carroñivora Solar transformaba a los zombis que devoraba en luz solar, pero siempre dudaba en compartir su secreto. Un día, Girasol descubrió que su contenido en clorofila había disminuido considerablemente, lo que reveló la verdad: en realidad no transformaba a los zombis en luz solar.</color></size>",
-      "info": "<size=39>Carroñívora Solar produce sol tras engullir zombis.\n\n<color=#3D1400>Daño: </color><color=red>Muerte Instantánea</color>\n<color=#3D1400>Rango: </color><color=red>1 casilla al frente</color>\n<color=#3D1400>Tiempo De Masticado: </color><color=red>42s</color>\n<color=#3D1400>Especial: </color><color=red>Produce 100 soles al engullir un zombi.</color>\n<color=#3D1400>Fórmula de Fusión: </color><color=red>Planta Carroñívora + Girasol</color></size>",
+      "info": "<size=39>Carnívora Solar produce sol tras engullir zombis.\n\n<color=#3D1400>Daño: </color><color=red>Muerte Instantánea</color>\n<color=#3D1400>Rango: </color><color=red>1 casilla al frente</color>\n<color=#3D1400>Tiempo De Masticado: </color><color=red>42s</color>\n<color=#3D1400>Especial: </color><color=red>Produce 100 soles al engullir un zombi.</color>\n<color=#3D1400>Fórmula de Fusión: </color><color=red>Planta Carnívora + Girasol</color></size>",
       "cost": "<size=39>Costo: <color=red>200</color>   Recarga: <color=red>15 Segundos</color>\nPlantas Requeridas: <color=red>2</color></size>"
     },
     {
@@ -4499,9 +4511,9 @@
     },
     {
       "seedType": 1016,
-      "name": "Carroñívora Carmesí",
-      "introduce": "<size=39><color=#3D1400>Desde que se tomó una copa con Petacereza, Planta Carroñívora anda todo el día \"zumbando\". Se volvió una auténtica amenaza en cada comida. El crujido de sus mordiscos se transformaba en explosivos \"pop\" que lanzaban platos y cuencos por los aires, dejando a todos reacios a compartir mesa con ella. Al final, tras una votación a mano alzada, decidieron que Carroñívora Carmesí terminaría comiendo en el jardín… ¡al menos ya no tendrá que reponer su vajilla!</color></size>",
-      "info": "<size=39>Cierra las fauces con tanta fuerza que produce una explosión masiva.\n\n<color=#3D1400>Daño: </color><color=red>Muerte Instantánea (Mordisco) 1800 (área de 3×3) (Explosión)</color>\n<color=#3D1400>Especial: </color><color=red>Crea una explosión de Petacereza al morder a un zombi.</color>\n<color=#3D1400>Formula de Fusión: </color><color=red>Planta Carroñívora + Petacereza</color></size>",
+      "name": "Carnívora Carmesí",
+      "introduce": "<size=39><color=#3D1400>Desde que se tomó una copa con Petacereza, Planta Carnívora anda todo el día \"zumbando\". Se volvió una auténtica amenaza en cada comida. El crujido de sus mordiscos se transformaba en explosivos \"pop\" que lanzaban platos y cuencos por los aires, dejando a todos reacios a compartir mesa con ella. Al final, tras una votación a mano alzada, decidieron que Carnívora Carmesí terminaría comiendo en el jardín… ¡al menos ya no tendrá que reponer su vajilla!</color></size>",
+      "info": "<size=39>Cierra las fauces con tanta fuerza que produce una explosión masiva.\n\n<color=#3D1400>Daño: </color><color=red>Muerte Instantánea (Mordisco) 1800 (área de 3×3) (Explosión)</color>\n<color=#3D1400>Especial: </color><color=red>Crea una explosión de Petacereza al morder a un zombi.</color>\n<color=#3D1400>Formula de Fusión: </color><color=red>Planta Carnívora + Petacereza</color></size>",
       "cost": "<size=39>Costo: <color=red>300</color>   Recarga: <color=red>57,5 Segundos</color>\nPlantas Requeridas: <color=red>2</color></size>"
     },
     {
@@ -5263,8 +5275,8 @@
     {
       "seedType": 1125,
       "name": "Maceta Sandía",
-      "introduce": "<size=39><color=#3D1400>El frugal Maceta Sandía no puede soportar ver cómo la Melonpulta lanza melones sin ningún cuidado. Después de repeler zombis, Maceta Sandía siempre recoge los pedazos de melón esparcidos por el suelo. \"Esto se llama cultivo hidropónico,\" dice Maceta Sandía. \"Aquí no se puede plantar cualquier planta en el suelo, el terreno es muy valioso.\"</color>",
-      "info": "<size=39>¡Aumenta el daño por salpicadura de las Melonpultas!\n\n<color=#3D1400>Especial:</color><color=red> Duplica el daño por salpicadura de las fusiones de Melonpultas sobre él, sin disminución; su daño permanece en 2/3 del daño base.</color>\n<color=#3D1400>Fórmula de Fusión:</color><color=red> Maceta + Melonpulta</color>",
+      "introduce": "<size=39><color=#3D1400>La frugal Maceta Sandía no puede soportar ver cómo la Melonpulta lanza melones sin ningún cuidado. Después de repeler zombis, Maceta Sandía siempre recoge los pedazos de melón esparcidos por el suelo. \"Esto se llama cultivo hidropónico,\" dice Maceta Sandía. \"Aquí no se puede plantar cualquier planta en el suelo, el terreno es muy valioso.\"</color>",
+      "info": "<size=39>¡Aumenta el daño por salpicadura de las Melonpultas!\n\n<color=#3D1400>Especial:</color><color=red>\n- Duplica el daño por salpicadura de las fusiones de Melonpultas sobre él, sin disminución; su daño permanece en 2/3 del daño base.\n- Además de esto, duplica la cantidad de zombis que obtienen el estado temporal por Cronomelón.</color>\n<color=#3D1400>Fórmula de Fusión:</color><color=red> Maceta + Melonpulta</color>",
       "cost": "<size=39>Costo: <color=red>325 (-175 Soles)</color>   Recarga: <color=red>15 Segundos</color>\nPlantas Requeridas: <color=red>2</color></size>"
     },
     {
@@ -5605,9 +5617,9 @@
     },
     {
       "seedType": 1174,
-      "name": "Carroñívora Titán",
-      "introduce": "<size=39><color=#3D1400> La Carroñívora Titán ganó el concurso de comer más rápido al devorar 10 pasteles de Zombistein en 44 segundos, de los cuales 3 segundos los perdió porque no oyó el silbido de inicio. \"Si hay otro evento como este, por favor invítenme, los bufets cercanos al jardín ya no me dejan entrar\", dijo Carroñívora Titán en una entrevista.<size=39></color>",
-      "info": "<size=39>¡Devora a todos los zombis frente a ella!\n\n<color=#3D1400>Dureza:</color> <size=39><color=red>1000</color>\n<color=#3D1400>Daño:</color> <size=39><color=red>Muerte Instantánea</color>\n<color=#3D1400>Rango:</color> <size=39><color=red>1,5 casillas al frente</color>\n<color=#3D1400>Tiempo de Masticado:</color> <size=39><color=red>8 + 3ln(suma de dureza de zombis)</color>\n<color=#3D1400>Especial:</color> <color=red>Puede devorar todos los zombis cerca de ella al mismo tiempo, Zombisteins incluidos. Su tiempo de masticado depende de la salud total de los zombis (por ejemplo: Zombi: 24,8 segundos | Zombi Caracubo: 29,9 segundos | Megazombistein: 34 segundos | 10 Megazombisteins: 41 segundos).</color>\n<size=39><color=#3D1400>Fórmula de Fusión:</color>\n<color=red>Planta Carroñívora ∞ Planta Carroñívora ∞ Planta Carroñívora < Combinadora (En Orden)\n(La Combinadora deberá plantarse encima de la Planta Carroñívora central)</color>",
+      "name": "Carnívora Titán",
+      "introduce": "<size=39><color=#3D1400> La Carnívora Titán ganó el concurso de comer más rápido al devorar 10 pasteles de Zombistein en 44 segundos, de los cuales 3 segundos los perdió porque no oyó el silbido de inicio. \"Si hay otro evento como este, por favor invítenme, los bufets cercanos al jardín ya no me dejan entrar\", dijo Carnívora Titán en una entrevista.<size=39></color>",
+      "info": "<size=39>¡Devora a todos los zombis frente a ella!\n\n<color=#3D1400>Dureza:</color> <size=39><color=red>1000</color>\n<color=#3D1400>Daño:</color> <size=39><color=red>Muerte Instantánea</color>\n<color=#3D1400>Rango:</color> <size=39><color=red>1,5 casillas al frente</color>\n<color=#3D1400>Tiempo de Masticado:</color> <size=39><color=red>8 + 3ln(suma de dureza de zombis)</color>\n<color=#3D1400>Especial:</color> <color=red>Puede devorar todos los zombis cerca de ella al mismo tiempo, Zombisteins incluidos. Su tiempo de masticado depende de la salud total de los zombis (por ejemplo: Zombi: 24,8 segundos | Zombi Caracubo: 29,9 segundos | Megazombistein: 34 segundos | 10 Megazombisteins: 41 segundos).</color>\n<size=39><color=#3D1400>Fórmula de Fusión:</color>\n<color=red>Planta Carnívora ∞ Planta Carnívora ∞ Planta Carnívora < Combinadora (En Orden)\n(La Combinadora deberá plantarse encima de la Planta Carnívora central)</color>",
       "cost": "<size=39>Costo: <color=red>500</color>   Recarga: <color=red>52,5 Segundos</color>\nPlantas Requeridas: <color=red>4</color></size>"
     },
     {
@@ -5732,8 +5744,8 @@
     {
       "seedType": 1192,
       "name": "Planta Maldívora",
-      "introduce": "<size=39><color=#3D1400>Planta Maldívora fue un fuerte competidor para el campeonato de \u0022Come lo más que Puedas\u0022. \"Él terminó su propio pastel, luego voló el mío a cenizas,\" dijo Carroñívora Titan. \"Sin embargo, fue descalificado por dañar el lugar de la competencia.\"</color></size>",
-      "info": "<size=39>Consume al primer zombi en frente y crea una explosión masiva, dejando un crater al frente suyo.</color>\n\n<color=#3D1400>Daño:</color> <color=red>Muerte Instantánea (Mordisco), 1800 (área 7x7) (Explosión)</color>\n<color=#3D1400>Rango:</color> <color=red>1 casilla al frente</color>\n<color=#3D1400>Tiempo de Masticado:</color> <color=red>42s</color>\n<size=39><color=#3D1400>Fórmula de Fusión:</color> <color=red>Planta Carroñívora + Petaseta</color></size>",
+      "introduce": "<size=39><color=#3D1400>Planta Maldívora fue un fuerte competidor para el campeonato de \u0022Come lo más que Puedas\u0022. \"Él terminó su propio pastel, luego voló el mío a cenizas,\" dijo Carnívora Titan. \"Sin embargo, fue descalificado por dañar el lugar de la competencia.\"</color></size>",
+      "info": "<size=39>Consume al primer zombi en frente y crea una explosión masiva, dejando un crater al frente suyo.</color>\n\n<color=#3D1400>Daño:</color> <color=red>Muerte Instantánea (Mordisco), 1800 (área 7x7) (Explosión)</color>\n<color=#3D1400>Rango:</color> <color=red>1 casilla al frente</color>\n<color=#3D1400>Tiempo de Masticado:</color> <color=red>42s</color>\n<size=39><color=#3D1400>Fórmula de Fusión:</color> <color=red>Planta Carnívora + Petaseta</color></size>",
       "cost": "<size=39>Costo: <color=red>275, 350</color>   Recarga: <color=red>57,5 Segundos</color>\nPlantas Requeridas: <color=red>2</color></size>"
     },
     {
@@ -6075,9 +6087,9 @@
     },
     {
       "seedType": 1241,
-      "name": "Planta Lumiñívora",
-      "introduce": "<size=39><color=#3D1400>Dicen que la Planta Lumiñívora nunca ha pasado hambre—ni una sola vez. Cada mordisco atrapa a un zombi jugoso. Incluso publicó un libro compartiendo sus secretos: \u0022Mueve... mueve... a los zombis les encanta un brillo suave.\u0022 — De su obra: Linterna.</color></size>",
-      "info": "<size=39>Parte del <color=#104f30>Sistema Lúmina</color> (Atacante)\nAtrae a los zombis para devorarlos con su linterna.\n<color=#104f30>Sistema Lúmina:</color></color>\n-Mientras más Niveles Lúmina tenga, el tiempo de masticación se reduce por 10s hasta un mínimo de 10s</color></color>\n\n<color=#3D1400>Daño: </color><color=red>Muerte Instantánea</color>\n<color=#3D1400>Rango: </color><color=red>1 casilla al frente</color>\n<color=#3D1400>Tiempo De Masticado: </color><color=red>42s (-10s * Nivel Lúmina)</color>\n<color=#3D1400>Especial:</color> <color=red>Al digerir con éxito, atrae a un zombi cercano de sus filas adyacentes a su fila.</color>\n<size=39><color=#3D1400>Fórmula de Fusión:</color> <color=red>Planta Carroñívora + Planterna</color></size>",
+      "name": "Planta Luminívora",
+      "introduce": "<size=39><color=#3D1400>Dicen que la Planta Luminívora nunca ha pasado hambre—ni una sola vez. Cada mordisco atrapa a un zombi jugoso. Incluso publicó un libro compartiendo sus secretos: \u0022Mueve... mueve... a los zombis les encanta un brillo suave.\u0022 — De su obra: Linterna.</color></size>",
+      "info": "<size=39>Parte del <color=#104f30>Sistema Lúmina</color> (Atacante)\nAtrae a los zombis para devorarlos con su linterna.\n<color=#104f30>Sistema Lúmina:</color></color>\n-Mientras más Niveles Lúmina tenga, el tiempo de masticación se reduce por 10s hasta un mínimo de 10s</color></color>\n\n<color=#3D1400>Daño: </color><color=red>Muerte Instantánea</color>\n<color=#3D1400>Rango: </color><color=red>1 casilla al frente</color>\n<color=#3D1400>Tiempo De Masticado: </color><color=red>42s (-10s * Nivel Lúmina)</color>\n<color=#3D1400>Especial:</color> <color=red>Al digerir con éxito, atrae a un zombi cercano de sus filas adyacentes a su fila.</color>\n<size=39><color=#3D1400>Fórmula de Fusión:</color> <color=red>Planta Carnívora + Planterna</color></size>",
       "cost": "<size=39>Costo: <color=red>175</color>   Recarga: <color=red>22,5 Segundos</color>\nPlantas Requeridas: <color=red>2</color></size>"
         },
         {
@@ -6583,6 +6595,41 @@
    "introduce": "<size=39><color=#3D1400>INTRO</color></size>",
    "info": "<size=39>Parte del <color=#03311C>Sistema Enredadera</color>\nEnreda a los zombis que la muerden.\n<color=#03311C>Sistema Enredadera:</color>\n</color>- Aplica 1 punto por mordisco</color>\n\n<color=#3D1400>Dureza: </color><color=red>4000</color>\n<color=#3D1400>Especial:</color> <color=red>Al ser aplastado, pierde 50 PS cada 0,02 segundos.</color>\n<size=39><color=#3D1400>Fórmula de Fusión:</color> <color=red>Nuez + Zampalga</color></size>",
    "cost": "<size=39>Costo: <color=red>75</color>   Recarga: <color=red>80 Segundos</color>\nPlantas Requeridas: <color=red>2</color></size>"
+        },
+        {
+    "seedType": 1314,
+    "name": "Melonpulta Magnética",
+   "introduce": "<size=39><color=#3D1400>INTRO</color></size>",
+   "info": "<size=39>Puede fusionarse con objetos metálicos para absorber sus propiedades.</color>\n\n<color=#3D1400>Daño:</color> <color=red>120 cada 3s\n<color=#3D1400>Especial:</color> <color=red>Hace x2 de daño a zombis con objetos metálicos.</color>\n<size=39><color=#3D1400>Fórmula de Fusión:</color> <color=red>Magnetoseta + Melonpulta</color></size>",
+   "cost": "<size=39>Costo: <color=red>400, 475</color>   Recarga: <color=red>15 Segundos</color>\nPlantas Requeridas: <color=red>2</color></size>"
+        },
+        {
+    "seedType": 1315,
+    "name": "Ferromelón",
+   "introduce": "<size=39><color=#3D1400>INTRO</color></size>",
+   "info": "<size=39>Hace más daño que una Melonpulta regular.</color>\n\n<color=#3D1400>Dureza: </color><color=red>2000</color>\n<color=#3D1400>Daño:</color> <color=red>200 cada 3s\n<size=39><color=#3D1400>Fórmula de Fusión:</color> <color=red>Melonpulta Magnética + Cubo</color></size>",
+   "cost": "<size=39>Costo: <color=red>400, 475</color>   Recarga: <color=red>15 Segundos</color>\nPlantas Requeridas: <color=red>2 (+ Cubo)</color></size>"
+        },
+        {
+    "seedType": 1316,
+    "name": "Cronomelón",
+   "introduce": "<size=39><color=#3D1400>INTRO</color></size>",
+   "info": "<size=39>Parte del <color=#6FFFDB>Sistema Temporal</color>\nHace un buen combo junto a Cronoguisantes.</color>\n<color=#6FFFDB>Sistema Temporal: </color>\n- Los zombis en el estado temporal quedan inmóviles, acumulando tiempo de espera. Cuando el tiempo alcanza (Salud del Zombi/30) segundos, son eliminados. Al finalizar el estado, reciben daño igual a 30 veces el tiempo de espera.\n- Si un zombi esta en el estado temporal y es impactado por los proyectiles de Cronomelón, 3 zombis cercanos obtendrán el efecto también.\n\n<color=#3D1400>Daño:</color> <color=red>80 cada 3s\n<color=#3D1400>Especial:</color> <color=red>Su daño por salpicadura no tiene una disminución de daño.</color>\n<size=39><color=#3D1400>Fórmula de Fusión:</color> <color=red>Melonpulta Magnética + Cronofragmento</color></size>",
+   "cost": "<size=39>Costo: <color=red>400, 475</color>   Recarga: <color=red>15 Segundos</color>\nPlantas Requeridas: <color=red>2 (+ Cronofragmento)</color></size>"
+        },
+        {
+    "seedType": 1317,
+    "name": "Petapeño",
+   "introduce": "<size=39><color=#3D1400>INTRO</color></size>",
+   "info": "<size=39>Explota a toda planta en su fila.</color>\n\n<color=#3D1400>Daño:</color> <color=red>1800 (Explosión), 1800 (área lineal) (Fuego)\n<color=#3D1400>Uso:</color> <color=red>Manual\n<color=#3D1400>Especial:</color> <color=red>No libera ninguna explosión de ambas plantas al ser fusionado. Al ser cliqueado, explota como una Petaseta y un Jalapeño a la vez, pero, destruye a todas las plantas en su fila, las cuales liberarán más explosiones de Petaseta en su casilla. Hay un 25% de probabilidad por cada planta que vuelvan en paquetes de semilla.</color>\n<size=39><color=#3D1400>Fórmula de Fusión:</color> <color=red>Petaseta + Jalapeño</color></size>",
+   "cost": "<size=39>Costo: <color=red>250, 325</color>   Recarga: <color=red>100 Segundos</color>\nPlantas Requeridas: <color=red>2</color></size>"
+        },
+        {
+    "seedType": 1318,
+    "name": "Calabaza Vaina",
+   "introduce": "<size=39><color=#3D1400>INTRO</color></size>",
+   "info": "<size=39>Dispara el mismo proyectil que la planta dentro de ella.</color>\n\n<color=#3D1400>Dureza: </color><color=red>4000</color>\n<color=#3D1400>Daño:</color> <color=red>X cada 3s\n<color=#3D1400>Especial:</color> <color=red>Cada uno de sus disparos hereda todas las características de los proyectiles de la planta dentro de ella, estas siendo su cantidad, daño y tipo.</color>\n<size=39><color=#3D1400>Fórmula de Fusión:</color> <color=red>Lanzaguisantes + Calabaza</color></size>",
+   "cost": "<size=39>Costo: <color=red>225</color>   Recarga: <color=red>37,5 Segundos</color>\nPlantas Requeridas: <color=red>2</color></size>"
         }
     ]
 }
