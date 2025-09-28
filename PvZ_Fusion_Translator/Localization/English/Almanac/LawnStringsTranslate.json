@@ -281,11 +281,25 @@
             "cost": "<size=36>Cost: <color=#8B0000>50</color>\nRecharge: <color=#8B0000>15s</color>"
         },
         {
-            "seedType": 9999,
-            "name": "Lumo-shroom",
+            "seedType": 230,
+            "name": "Lumo-shroom - Lumo-sun",
             "introduce": "<align=justified><size=36><color=black></color>",
             "info": "<size=36>\n\n<color=blue>PvZ: Symbiosis Collab Plant</color>\n<color=black>Sun Output: </color><color=#8B0000>20→35/25s\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Sun-shrooms convert into Lumo-shrooms and gain the <b>Lumo-sun</b> ability after 150s if their tile's Lumos Level is 1 or higher. After an additional 150s under Lumos, Lumo-shrooms gain the <b>Lumo-sprite</b> ability. After another 150s under Lumos, they acquire <b>Lumo-burst</b>. Each additional Lumos Level accelerates conversion and upgrades by 100%.\n<color=black>•</color> Lumo-sun: Produces Lumo-sun, which is worth 20 each (35 when grown up).\n<color=black>•</color> Lumo-sprite: When a zombie bites a Lumo-shroom, 1 Lumo-sprite starts to follow that zombie (2 if grown up). Each time a followed zombie takes damage, 1 Lumo-sprite flies off and produces a small Lumo-sun. When the zombie dies, all Lumo-sprites following it are released, dropping an equal number of Lumo-suns. A zombie can have up to 20 Lumo-sprites following it at once.\n<color=black>•</color> Lumo-burst: When a Lumo-shroom dies, all zombies in a small radius are followed by five Lumo-flies (increased range when grown up).</color>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Sun-shroom + Lumos Level</color>"
+        },
+        {
+            "seedType": 231,
+            "name": "Lumo-shroom - Lumo-sprite",
+            "introduce": "<align=justified><size=36><color=black></color>",
+            "info": "<size=36>\n\n<color=blue>PvZ: Symbiosis Collab Plant</color>\n<color=black>Sun Output: </color><color=#8B0000>20→35/25s\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Sun-shrooms convert into Lumo-shrooms and gain the <b>Lumo-sun</b> ability after 150s if their tile's Lumos Level is 1 or higher. After an additional 150s under Lumos, Lumo-shrooms gain the <b>Lumo-sprite</b> ability. After another 150s under Lumos, they acquire <b>Lumo-burst</b>. Each additional Lumos Level accelerates conversion and upgrades by 100%.\n<color=black>•</color> Lumo-sun: Produces Lumo-sun, which is worth 20 each (35 when grown up).\n<color=black>•</color> Lumo-sprite: When a zombie bites a Lumo-shroom, 1 Lumo-sprite starts to follow that zombie (2 if grown up). Each time a followed zombie takes damage, 1 Lumo-sprite flies off and produces a small Lumo-sun. When the zombie dies, all Lumo-sprites following it are released, dropping an equal number of Lumo-suns. A zombie can have up to 20 Lumo-sprites following it at once.\n<color=black>•</color> Lumo-burst: When a Lumo-shroom dies, all zombies in a small radius are followed by five Lumo-flies (increased range when grown up).</color>",
+            "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Lumo-shroom + Lumos Level</color>"
+        },
+        {
+            "seedType": 231,
+            "name": "Lumo-shroom - Lumo-burst",
+            "introduce": "<align=justified><size=36><color=black></color>",
+            "info": "<size=36>\n\n<color=blue>PvZ: Symbiosis Collab Plant</color>\n<color=black>Sun Output: </color><color=#8B0000>20→35/25s\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Sun-shrooms convert into Lumo-shrooms and gain the <b>Lumo-sun</b> ability after 150s if their tile's Lumos Level is 1 or higher. After an additional 150s under Lumos, Lumo-shrooms gain the <b>Lumo-sprite</b> ability. After another 150s under Lumos, they acquire <b>Lumo-burst</b>. Each additional Lumos Level accelerates conversion and upgrades by 100%.\n<color=black>•</color> Lumo-sun: Produces Lumo-sun, which is worth 20 each (35 when grown up).\n<color=black>•</color> Lumo-sprite: When a zombie bites a Lumo-shroom, 1 Lumo-sprite starts to follow that zombie (2 if grown up). Each time a followed zombie takes damage, 1 Lumo-sprite flies off and produces a small Lumo-sun. When the zombie dies, all Lumo-sprites following it are released, dropping an equal number of Lumo-suns. A zombie can have up to 20 Lumo-sprites following it at once.\n<color=black>•</color> Lumo-burst: When a Lumo-shroom dies, all zombies in a small radius are followed by five Lumo-flies (increased range when grown up).</color>",
+            "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Lumo-shroom + Lumos Level</color>"
         },
         {
             "seedType": 233,
@@ -3044,6 +3058,13 @@
             "introduce": "<align=justified><size=36><color=black></color>",
             "info": "<size=36>\n\n<color=black>Toughness: </color><color=#8B0000>4000</color>\n<color=black>Special: </color><color=#8B0000> Picks up Nut-shrooms within a 3×3 area and bats them forward as projectiles. Projectile damage equals the Nut-shroom's HP. If the projectile hits a zombie and deals enough damage to kill it, the shot pierces through, with its damage reduced by the amount dealt.</color>",
             "cost": "<size=36>Fusion Formula: <color=#8B0000>Wall-nut + Fume-shroom</color>"
+        },
+        {
+            "seedType": 1313,
+            "name": "Tangle-nut",
+            "introduce": "<align=justified><size=36><color=black></color>",
+            "info": "<size=36>\n\n<color=black>Toughness: </color><color=#8B0000>4000</color>\n<color=black>Special: </color><color=#8B0000> When bitten, inflicts 1 Tangle value on the attacker. When crushed, loses 50 HP every 0.02s and inflicts 1 Tangle value each time.</color>",
+            "cost": "<size=36>Fusion Formula: <color=#8B0000>Wall-nut > Tangle Kelp</color>"
         },
         {
             "seedType": 350,
