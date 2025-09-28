@@ -7,6 +7,12 @@
             "info": "<size=36>Regular Garden-variety zombie.\n\n<color=black>Damage: </color><color=#4B0082>50/0.5 (biting)</color>\n<color=black>Toughness: </color><color=#4B0082>270</color>"
         },
         {
+            "theZombieType": 1,
+            "name": "Flag Zombie",
+            "introduce": "<align=justified><size=36><color=black>Make no mistake, Flag Zombie loves brains but somewhere down the line he also picked up a fascination with flags. Maybe it's because the flags always have brains on them. Hard to say.</color>",
+            "info": "<size=36>Flag Zombie marks the arrival of a huge pile or \"wave\" of zombies.\n\n<color=black>Toughness: </color><color=#4B0082>270\n<color=black>Traits: </color><color=#4B0082>Only appears in flag waves, slightly faster than regular Zombies.</color>"
+        },
+        {
             "theZombieType": 2,
             "name": "Conehead Zombie",
             "introduce": "<align=justified><size=36><color=black>The Conehead Zombie has no clue what a traffic cone is. To him, it looks like an ice cream cone, and when he finds out it can't eat it, he just sticks it on his head.</color>",
@@ -62,19 +68,19 @@
         },
         {
             "theZombieType": 11,
-            "name": "Duck Zombie NOT IN GAME",
+            "name": "Ducky Tube Zombie NOT IN GAME",
             "introduce": "<align=justified><size=36><color=black>只有特定的僵尸才能成为鸭子救生圈僵尸，不是每只僵尸都能胜任。有些救生圈有点漏气，他们却处理不了，脱身后永远放弃了对脑子的渴求。</color>",
             "info": "<size=36>可以在水里移动。\n\n<color=black>Toughness: </color><color=#4B0082>270</color>"
         },
         {
             "theZombieType": 12,
-            "name": "Coneduck Zombie NOT IN GAME",
+            "name": "Conehead Ducky Tube Zombie NOT IN GAME",
             "introduce": "<align=justified><size=36><color=black>都说差生文具多，但是路障鸭子并不这么认为，毕竟他不想承认他是个差生。</color>",
             "info": "<size=36>可以在水里移动。\n\n<color=black>Toughness: </color><color=#4B0082>270 + 370 (Type 1)</color>"
         },
         {
             "theZombieType": 13,
-            "name": "Bucket-duck Zombie NOT IN GAME",
+            "name": "Buckethead Ducky Tube Zombie NOT IN GAME",
             "introduce": "<align=justified><size=36><color=black>铁桶鸭子本不想带上那个漏气的游泳圈的，但是没办法，谁叫他戴着那个容易生锈的铁桶呢。</color>",
             "info": "<size=36>可以在水里移动。\n\n<color=black>Toughness: </color><color=#4B0082>270 + 1100 (Type 1)</color>"
         },
@@ -273,13 +279,13 @@
         {
             "theZombieType": 48,
             "name": "Nian Zombie",
-            "introduce": "<align=justified><size=36><color=black>To celebrate the New Year, the zombie party sends out Nian Zombie, the embodiment of festive spirit.\n\n\"Look at my new clothes! Don’t I look just like a lion dancer? Pretty nice, right? Now, time to give my New Year's greetings to the plants!\"\n\nUnfortunately for him, the plants were too polite. After a flurry of cheerful “thank yous”, Nian Zombie found himself promptly swept away—whether he liked it or not.",
+            "introduce": "<align=justified><size=36><color=black>To celebrate the New Year, the zombie party sends out Nian Zombie, the embodiment of festive spirit.\n\n\"Look at my new clothes! Don't I look just like a lion dancer? Pretty nice, right? Now, time to give my New Year's greetings to the plants!\"\n\nUnfortunately for him, the plants were too polite. After a flurry of cheerful \"thank yous\", Nian Zombie found himself promptly swept away, whether he liked it or not.",
             "info": "<size=36>Nian Zombies have very strong armor.\n\n<color=black>Toughness: </color><color=#4B0082>8888 + 8888 (Type 1)</color>\n<color=black>Weakness: </color><color=#4B0082>Pepper Popper deals 15× Damage to Nian Zombies.</color>"
         },
         {
             "theZombieType": 49,
             "name": "Frost Legion Snowball Launcher",
-            "introduce": "<align=justified><size=36><color=black>\"Snowball fight!\" Snowball Launcher Zombie wakes up from his icy slumber, flinging snowballs wildly in every direction.\n\n\"Should we tell him?\"\n\"Nah, let’s see how long it takes him to figure it out.\"\n\nSMACK!—Another snowball lands.\n\n\"That makes fourteen.\"</color>",
+            "introduce": "<align=justified><size=36><color=black>\"Snowball fight!\" Snowball Launcher Zombie wakes up from his icy slumber, flinging snowballs wildly in every direction.\n\n\"Should we tell him?\"\n\"Nah, let's see how long it takes him to figure it out.\"\n\nSMACK!—Another snowball lands.\n\n\"That makes fourteen.\"</color>",
             "info": "<size=36>Snowball Launcher Zombie can attack your plants with snowballs and freeze them.\n\n<color=black>Toughness: </color><color=#4B0082>720</color>\n<color=black>Damage: </color><color=#4B0082>20/2s</color>\n<color=black>Traits: </color><color=#4B0082>\n<color=black>•</color> Immune to Chill and Freeze. Vulnerable to Deep Chill.\n<color=black>•</color> After appearing, it will continually launch snowballs at plants, which will deal 20 damage and explode upon impact, disabling plants for 5s in a 3×3 range. Snowballs inflict 10 Cryo points to hypnotized zombies affected.</color>\n<color=black>Weakness: </color><color=#4B0082>Umbrella Rind</color>"
         },
         {
@@ -340,13 +346,13 @@
             "theZombieType": 61,
             "name": "Dolphinhead Football Zombie",
             "introduce": "<align=justified><size=36><color=black>This guy moves like a fish in water on the football field. Wait! It's supposed to be a metaphor! Who said you could flood the lawn!?</color>",
-            "info": "<size=36>Moves across the field with nimble strides, eager to show off his stylish helmet.\n\n<color=black>Toughness: </color><color=#4B0082>720 + 1400 (Type 1)</color>\n<color=black>Traits: </color><color=#4B0082>Ignores plant collision while wearing his helmet. Upon reaching the first column or the edge of the lawn, he restores all HP, equips a new helmet, and reverses direction.</color>"
+            "info": "<size=36>Moves across the field with nimble strides, eager to show off his stylish helmet.\n\n<color=black>Toughness: </color><color=#4B0082>720 + 1400 (Type 1)</color>\n<color=black>Traits: </color><color=#4B0082>Immune to stun effects. Ignores plant collision while wearing his helmet. Upon reaching the first column or the edge of the lawn, he restores all HP, equips a new helmet, and reverses direction.</color>"
         },
         {
             "theZombieType": 62,
             "name": "Furling",
             "introduce": "<align=justified><size=36><color=black>Though just a cub, Furling has big dreams — to dominate the tundra like the mighty Elder Snowfur, not hang around with mischievous Imp Zombies. It ran off from camp to make a name for itself… and accidentally rolled into the plants' territory. Oof!</color>",
-            "info": "<size=36>A baby Snowfur that loves to tumble, but rarely survives it.\n\n<color=black>Toughness: </color><color=#4B0082>300</color>\n<color=black>Traits: </color><color=#4B0082>\n<color=black>•</color> Rolls forward. Upon hitting a plant, deals damage equal to its current HP, then dies.\n<color=black>•</color> Has a 2/3 chance to evade attacks.</color>"
+            "info": "<size=36>A baby Snowfur that loves to tumble, but rarely survives it.\n\n<color=black>Toughness: </color><color=#4B0082>300</color>\n<color=black>Traits: </color><color=#4B0082>\n<color=black>•</color> Rolls forward. Upon hitting a plant, deals damage equal to its current HP, then dies.\n<color=black>•</color> Has a 2/3 chance to evade any damage.</color>"
         },
         {
             "theZombieType": 63,
@@ -358,7 +364,49 @@
             "theZombieType": 64,
             "name": "Beach Michael Zombie",
             "introduce": "<align=justified><size=36><color=black>Heehee~</color>",
-            "info": "<size=36>Michael is on vacation with a newfound passion for uncovering stone statues from lost coastal civilizations!\n\n<color=black>Toughness: </color><color=#4B0082>720</color>\n<color=black>Traits: </color><color=#4B0082>\n<color=black>•</color> Summons 4 Dancing Statues with 500 HP. After 15s, each Statue breaks and spawns a Beach Michael with HP equal to the statue's remaining HP.\n<color=black>•</color> In non-TD modes, Statues appear in the same spots where a regular Michael would summon Dancing Pole Vaulters.</color>"
+            "info": "<size=36>Michael is on vacation with a newfound passion for uncovering stone statues from lost coastal civilizations!\n\n<color=black>Toughness: </color><color=#4B0082>720</color>\n<color=black>Traits: </color><color=#4B0082>\n<color=black>•</color> Summons 4 Dancing Statues with 500 HP. If not destroyed after 15s, each Statue breaks and spawns a Beach Michael with HP equal to the statue's remaining HP.\n<color=black>•</color> In non-TD modes, Statues appear in the same spots where a regular Michael would summon Dancing Pole Vaulters.</color>"
+        },
+        {
+            "theZombieType": 66,
+            "name": "Football Banner Captain Zombie",
+            "introduce": "<align=justified><size=36><color=black>\"We both wear football uniforms and carry banners. But I can roll, and he can't.\" Football Banner Captain compared himself seriously to the Giga Football-nut Zombie and confidently concluded he was stronger. This confidence helps - now he runs faster to escape the Giga Football-nut Zombie's pursuit.</color>",
+            "info": "<size=36>Can perform dodge rolls.\n\n<color=black>Toughness: </color><color=#4B0082>720 + 1400 (Type 1)</color>\n<color=black>Traits: </color><color=#4B0082> Upon first contact with a plant, rolls two tiles forward ignoring obstacles.</color>"
+        },
+        {
+            "theZombieType": 67,
+            "name": "Tumbling",
+            "introduce": "<align=justified><size=36><color=black>Tumbling used to be a Furling. One day, it went out to play and got covered in sand at the beach, transforming it into the Tumbling. \"Sometimes plants ignore me because I use sand as camouflage!\" it thought to itself.</color>",
+            "info": "<size=36>Moves like a tumbleweed; small size makes it harder to hit.\n\n<color=black>Toughness: </color><color=#4B0082>300</color>\n<color=black>Traits: </color><color=#4B0082>Rolls forward, ignoring plants 2/3 of the time. When colliding with a plant, deals damage equal to its own health and dies. Has a 1/3 chance to evade any damage.</color>"
+        },
+        {
+            "theZombieType": 68,
+            "name": "Chicken Jockey Zombie",
+            "introduce": "<align=justified><size=36><color=black>What would you rather fight? 10 Zombie-sized Chicken or 100 Chiken-sized Zombies? Well, fret now if you don't know, they now coming together!</color>",
+            "info": "<size=36>Rides a chicken that dashes forward to peck plants.\n\n<color=black>Toughness: </color><color=#4B0082>500</color>\n<color=black>Traits: </color><color=#4B0082>Moves and pecks extremely fast. When the chicken dies, an Imp falls from its back onto the field.</color>"
+        },
+        {
+            "theZombieType": 69,
+            "name": "Zombie Horman",
+            "introduce": "<align=justified><size=36><color=black>Peter loved reading knight stories as a child. When he grew up, he joined Dr. Edgar's cavalry, bravely charging across the battlefield. Nothing could stop him — not lacking armor, not fearing pain, not even carrying a burden on his back. Yes, Peter is a Zombie Horse.</color>",
+            "info": "<size=36>Rides a warhorse to charge at plants.\n\n<color=black>Toughness: </color><color=#4B0082>720</color>\n<color=black>Traits: </color><color=#4B0082>Very fast. Immune to knockback. Tramples and crushes the first plant on collision. Pauses for about 3s to recover afterwards before charging again.</color>"
+        },
+        {
+            "theZombieType": 70,
+            "name": "Football Knight Captain Zombie",
+            "introduce": "<align=justified><size=36><color=black>Jed and his horse Spiky are superstars in the Seven Undercontinents Zombie Football League. With Spiky's speed and Football launchers he bought at high prices from plants, they sweep through the field. Even though this is a serious foul, and the projectiles aren't even footballs, no one cares as long as he targets the few referees who actually understand football first.</color>",
+            "info": "<size=36>Calls reinforcements and goes berserk when his horse dies. \n\n<color=black>Damage: </color><color=#4B0082>80×4/1.5s</color>\n<color=black>Toughness: </color><color=#4B0082>1800 (self) + 1400 (horse)</color>\n<color=black>Traits: </color><color=#4B0082>\n<color=black>•</color> Only appears in flag waves, immune to knockback.\n<color=black>•</color> Summons a Zombie Horseman in every lane when body HP drops to 50%.\n<color=black>•</color> While alive, provides a 50% damage reduction to the summoned Horsemen.\n<color=black>•</color> The horse can trample plants and protects the rider like Type 2 Armor.\n<color=black>•</color> If the horse dies first, the Captain dismounts with fully restored HP, and starts to fire Iron peas every 0.1s.</color>"
+        },
+        {
+            "theZombieType": 71,
+            "name": "Hydrofowl Zombie",
+            "introduce": "<align=justified><size=36><color=black>Hard to believe such a small speedboat could have serious leaks. What else do you expect when you don't commission Gfish Corps? But no worries — the manufacturer has an excellent fix: convert it into a hovercraft! Fuel consumption is higher, but premium fuel is also available.</color>",
+            "info": "<size=36>Skims across water at high speed; collides with plants and ejects the driver before self-destruction.\n\n<color=black>Toughness: </color><color=#4B0082>1350</color>\n<color=black>Traits: </color><color=#4B0082>Extremely fast. Crushes the first plant on collision, ejects an Imp onto the nearby land and self-destructs.</color>"
+        },
+        {
+            "theZombieType": 72,
+            "name": "Cursed Ladder Zombie",
+            "introduce": "<align=justified><size=36><color=black>\"The strong never complain about their environment, and I never rely on ladders!\" says Cursed Ladder Zombie while gripping the ladder. \"This bad boy in my hand is a defensive tool, and the one I set down is still my weapon against damage!\" He sets down the ladder and listens to nuts cracking.</color>",
+            "info": "<size=36>Wields a wooden ladder imbued with curse.\n\n<color=black>Toughness: </color><color=#4B0082>720 + 1350 (Type 2)</color>\n<color=black>Traits: </color><color=#4B0082>\n<color=black>•</color> After placing a ladder, any final damage dealt to the placer is fully transferred to the Plant in the Cursed Ladder's tile, causing equal HP loss. If transferred damage exceeds 8k or the placer dies, the ladder is destroyed.\n<color=black>•</color> The Cursed Ladder cannot be attracted my Magnet-shrooms.</color>"
         },
         {
             "theZombieType": 100,
@@ -484,7 +532,7 @@
             "theZombieType": 120,
             "name": "Doom-shroom Zombie",
             "introduce": "<align=justified><size=36><color=black>The zombies have had enough of being blown to ashes by Doom explosions. Now they've finally built a nuclear counterattack weapon to make the plants suffer for a change. Although a zombie's body can only carry a third of the Doom-shroom's full payload, it's still better than nothing, right?\n\n- Written by Mr. Etc.</color>",
-            "info": "<size=36>Doom-shroom zombie? Aw man!\n\n<color=black>Toughness: </color><color=#4B0082>1350</color>\n<color=black>Traits: </color><color=#4B0082>Self-destructs after a while and creates a Doom-shroom explosion that deals 1800 damage to plants in a 3×3 area.\n<color=black>Weakness: </color><color=#4B0082>Doom-nut</color>"
+            "info": "<size=36>Doom-shroom zombie? Aw man!\n\n<color=black>Toughness: </color><color=#4B0082>1350</color>\n<color=black>Traits: </color><color=#4B0082>Immune to stun effects. Self-destructs after a while and creates a Doom-shroom explosion that deals 1800 damage to plants in a 3×3 area.\n<color=black>Weakness: </color><color=#4B0082>Doom-nut</color>"
         },
         {
             "theZombieType": 121,
@@ -670,7 +718,7 @@
             "theZombieType": 225,
             "name": "Giga Buckshot Commando Zombie",
             "introduce": "<align=justified><size=36><color=black>Giga Buckshot Commando Zombie is a warrior made of iron — iron body, iron will, iron bullets, and an ironic attitude towards complaints from his colleagues. He firmly believes that the zombies being knocked back by his bullets must simply lack the kind of iron-refining training he’s undergone.</color>",
-            "info": "<size=36>An unstoppable warrior. Fearless and peerless.\n\n<color=black>Damage: </color><color=#4B0082>80/0.1s</color>\n<color=black>Toughness: </color><color=#4B0082>3000 + 3000 (Type 1)</color>\n<color=black>Traits: </color><color=#4B0082>Immune to Knock backs. Fires iron peas at your defense at a ridiculous rate, which can knock back hypnotized zombies. </color>"
+            "info": "<size=36>An unstoppable warrior. Fearless and peerless.\n\n<color=black>Damage: </color><color=#4B0082>80/0.1s; 100 (bite)</color>\n<color=black>Toughness: </color><color=#4B0082>3000 + 3000 (Type 1)</color>\n<color=black>Traits: </color><color=#4B0082>Immune to Knock backs. Fires iron peas at your defense at a ridiculous rate, which can knock back hypnotized zombies. </color>"
         },
         {
             "theZombieType": 226,
@@ -691,9 +739,21 @@
             "info": "<size=36>Sovereign of the Frozen Tundra.\n\n<color=black>Damage: </color><color=#4B0082>1000</color>\n<color=black>Toughness: </color><color=#4B0082>64000</color>\n<color=black>Traits: </color><color=#4B0082>\n<color=black>•</color> Mini-boss. Immune to chill, knock-backs and stuns.\n<color=black>•</color> Crushes plants. Attacks freeze plants for 5s. \n<color=black>•</color> Upon entering, performs a slash that damages all plants in front (can be protected by Pumpkin), then releases 5 snowballs around her lane, each damaging a 3×3 area.\n<color=black>•</color> Afterwards, slashes or performs a normal attack every 3s — lower HP increases chance for slash.\n<color=black>•</color> Normal attacks launch 4 ice swords forward.\n<color=black>•</color> On Snow map, has a chance to summon a blizzard instantly.</color>"
         },
         {
+            "theZombieType": 229,
+            "name": "<color=#4B0082><u>Giga Football Marshal</u>",
+            "introduce": "<align=justified><size=36><color=black>Awakened from the silence of eternity, the Giga Football Marshal charges day after day, fights, conquers again, and forges terrifying victories. Beneath him rides a Cossack warhorse, and the armor personally gifted by the Doctor serves as his proof of honor. Whoever opposes him is against the whole world: behind the wind-whipping commanding's flag follows the entire realm. He brings a dark greeting; wherever his saber strikes, night falls, curtains descend, and a new order rises, as if declaring to all plants: this is the price of defying him.</color>",
+            "info": "<size=36>\"Hey! Do you dare challenge me on horseback?\"\n\n<color=black>Damage: </color><color=#4B0082>80/0.1s</color>\n<color=black>Toughness: </color><color=#4B0082>36000</color>\n<color=black>Traits: </color><color=#4B0082>\n<color=black>•</color> Mini-boss. Immune to chill, knock-backs and stuns.\n<color=black>•</color> Crushes plants. Attacks freeze plants for 5s. \n<color=black>•</color> Heals for 200 HP every 0.1s.\n<color=black>•</color> Without blocking plants, he can appear in as far as the fifth column from the right and then charges, riding a warhorse that crushes plants.\n<color=black>•</color> After each charge, pauses for ~1.5s, then can charge once every 10s.\n<color=black>•</color> Charges apply a 5s curse to plants in a 3×3 area on collision, transferring all final damage he receives to the cursed plants (up to 5k shared).\n<color=black>•</color> When HP drops below 2/3 for the first time, spawns a Giga Buckshot Commando in each lane. Upon reaching 0 HP, dismounts and becomes Dismounted Marshal.</color>"
+        },
+        {
+            "theZombieType": 230,
+            "name": "<color=#4B0082>Dismounted Marshal",
+            "introduce": "<align=justified><size=36><color=black>Giga Football Marshal has known Giga Football Striker for a long time. They attack gardens together, train soldiers, and compete for deputies. In their spare time, they play intense real-life Chinese chess, with subordinates as pieces and the two commanders directing from the center—though they often can't resist moving outside the nine-square board.</color>",
+            "info": "<size=36>A fallen commander, no longer wielding power.\n\n<color=black>Damage: </color><color=#4B0082>80/0.1s; 100 (bite)</color>\n<color=black>Toughness: </color><color=#4B0082>18000</color>\n<color=black>Traits: </color><color=#4B0082>\n<color=black>•</color> Immune to knock-backs.</color>"
+        },
+        {
             "theZombieType": 300,
             "name": "Gatling Cherry Scholar Zombie",
-            "introduce": "<align=justified><size=36><color=black>\"There's always more to life than just math puzzles… like the reed outside the window… or tonight’s moonlight,\" mumbles Gatling Cherry Scholar Zombie. \"But first, I really need to solve this Sudoku. It's… surprisingly hard.\"</color>",
+            "introduce": "<align=justified><size=36><color=black>\"There's always more to life than just math puzzles… like the reed outside the window… or tonight's moonlight,\" mumbles Gatling Cherry Scholar Zombie. \"But first, I really need to solve this Sudoku. It's… surprisingly hard.\"</color>",
             "info": "<size=36>Fires a rapid barrage of explosive cherry rounds when angered.\n\n<color=black>Damage: </color><color=#4B0082>400 (bite) 1000 (explosive cherry)</color>\n<color=black>Toughness: </color><color=#4B0082>1500 + 1500 (Type 2)</color>\n<color=black>Traits: </color><color=#4B0082>\n<color=black>•</color> Tier 1 Evolved Zombie.\n<color=black>•</color> Inherits traits from Scholar Zombie.\n<color=black>•</color> After losing his paper, fires 4 explosive cherry bullets every 0.5s.</color>"
         },
         {

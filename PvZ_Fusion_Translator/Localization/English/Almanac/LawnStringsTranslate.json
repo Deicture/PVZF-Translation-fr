@@ -281,24 +281,31 @@
             "cost": "<size=36>Cost: <color=#8B0000>50</color>\nRecharge: <color=#8B0000>15s</color>"
         },
         {
+            "seedType": 229,
+            "name": "Lucky Blover",
+            "introduce": "<align=justified><size=36><color=black>Lucky Clover never believed the number four was unlucky. She's convinced that with her cute looks and good fortune, she can help plants see the number four in a better light. Still, what plants really wonder is: what kind of wind could possibly change the inside of a tightly sealed box?</color>",
+            "info": "<size=36>Changes the winds of fate for you~\n\n<color=black>Special: </color><color=#8B0000>Forces your next Plant Giftbox to generate a guaranteed Advanced fusion. In Odyssey Gacha Mode, it will instead guarantee an Odyssey plant.</color>",
+            "cost": "<size=36>Cost: <color=#8B0000>200</color>\nRecharge: <color=#8B0000>50s</color>"
+        },        
+        {
             "seedType": 230,
-            "name": "Lumo-shroom - Lumo-sun",
-            "introduce": "<align=justified><size=36><color=black></color>",
-            "info": "<size=36>\n\n<color=blue>PvZ: Symbiosis Collab Plant</color>\n<color=black>Sun Output: </color><color=#8B0000>20→35/25s\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Sun-shrooms convert into Lumo-shrooms and gain the <b>Lumo-sun</b> ability after 150s if their tile's Lumos Level is 1 or higher. After an additional 150s under Lumos, Lumo-shrooms gain the <b>Lumo-sprite</b> ability. After another 150s under Lumos, they acquire <b>Lumo-burst</b>. Each additional Lumos Level accelerates conversion and upgrades by 100%.\n<color=black>•</color> Lumo-sun: Produces Lumo-sun, which is worth 20 each (35 when grown up).\n<color=black>•</color> Lumo-sprite: When a zombie bites a Lumo-shroom, 1 Lumo-sprite starts to follow that zombie (2 if grown up). Each time a followed zombie takes damage, 1 Lumo-sprite flies off and produces a small Lumo-sun. When the zombie dies, all Lumo-sprites following it are released, dropping an equal number of Lumo-suns. A zombie can have up to 20 Lumo-sprites following it at once.\n<color=black>•</color> Lumo-burst: When a Lumo-shroom dies, all zombies in a small radius are followed by five Lumo-flies (increased range when grown up).</color>",
+            "name": "Lumo-shroom: Lumo-sun",
+            "introduce": "<align=justified><size=36><color=black>The first time Lumo-shroom saw a lumofly as a child, she was captivated. The flickering lights in the grass: a life so beautiful yet fleeting, like lamps or stars, painting the night sky with dreams. Perhaps that's why she looks at the lumo-suns she produces with joy instead of distaste.</color>",
+            "info": "<size=36>Sun-shroom living in symbiosis with lumoflies.\n\n<color=blue>PvZ: Symbiosis Collab Plant</color>\n<color=black>Sun Output: </color><color=#8B0000>20→35/25s\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Sun-shrooms convert into Lumo-shrooms, gaining the <u>Lumo-sun</u> ability after 150s if their tile's Lumos Level is 1 or higher. Each additional Lumos Level accelerates the conversion by 100%.\n<color=black>•</color> Lumo-sun: Produces Lumo-sun, which is worth 20 each (35 when grown up).</color>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Sun-shroom + Lumos Level</color>"
         },
         {
             "seedType": 231,
-            "name": "Lumo-shroom - Lumo-sprite",
-            "introduce": "<align=justified><size=36><color=black></color>",
-            "info": "<size=36>\n\n<color=blue>PvZ: Symbiosis Collab Plant</color>\n<color=black>Sun Output: </color><color=#8B0000>20→35/25s\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Sun-shrooms convert into Lumo-shrooms and gain the <b>Lumo-sun</b> ability after 150s if their tile's Lumos Level is 1 or higher. After an additional 150s under Lumos, Lumo-shrooms gain the <b>Lumo-sprite</b> ability. After another 150s under Lumos, they acquire <b>Lumo-burst</b>. Each additional Lumos Level accelerates conversion and upgrades by 100%.\n<color=black>•</color> Lumo-sun: Produces Lumo-sun, which is worth 20 each (35 when grown up).\n<color=black>•</color> Lumo-sprite: When a zombie bites a Lumo-shroom, 1 Lumo-sprite starts to follow that zombie (2 if grown up). Each time a followed zombie takes damage, 1 Lumo-sprite flies off and produces a small Lumo-sun. When the zombie dies, all Lumo-sprites following it are released, dropping an equal number of Lumo-suns. A zombie can have up to 20 Lumo-sprites following it at once.\n<color=black>•</color> Lumo-burst: When a Lumo-shroom dies, all zombies in a small radius are followed by five Lumo-flies (increased range when grown up).</color>",
+            "name": "Lumo-shroom: Lumo-sprite",
+            "introduce": "<align=justified><size=36><color=black>It wasn't until she heard the story of \"decayed grass giving birth to lumoflies\" that Lumo-shroom understood why her friends never seemed sad when parting. To them, each cycle was a grand reunion, not the end of life. \"We are destined to part, but we are also destined to meet again.\"</color>",
+            "info": "<size=36>Second form of Lumo-shroom.\n\n<color=blue>PvZ: Symbiosis Collab Plant</color>\n<color=black>Sun Output: </color><color=#8B0000>20→35/25s\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> After an additional 150s under Lumos, Lumo-shrooms gain the <u>Lumo-sprite</u> ability. Each additional Lumos Level accelerates upgrades speed by 100%.\n<color=black>•</color> Lumo-sprite: When a zombie bites a Lumo-shroom, 1 Lumo-sprite starts to follow that zombie (2 if grown up). Each time a followed zombie takes damage, 1 Lumo-sprite flies off and produces a small Lumo-sun. When the zombie dies, all Lumo-sprites following it are released, dropping an equal number of Lumo-suns. A zombie can have up to 20 Lumo-sprites following it at once.</color>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Lumo-shroom + Lumos Level</color>"
         },
         {
-            "seedType": 231,
-            "name": "Lumo-shroom - Lumo-burst",
-            "introduce": "<align=justified><size=36><color=black></color>",
-            "info": "<size=36>\n\n<color=blue>PvZ: Symbiosis Collab Plant</color>\n<color=black>Sun Output: </color><color=#8B0000>20→35/25s\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Sun-shrooms convert into Lumo-shrooms and gain the <b>Lumo-sun</b> ability after 150s if their tile's Lumos Level is 1 or higher. After an additional 150s under Lumos, Lumo-shrooms gain the <b>Lumo-sprite</b> ability. After another 150s under Lumos, they acquire <b>Lumo-burst</b>. Each additional Lumos Level accelerates conversion and upgrades by 100%.\n<color=black>•</color> Lumo-sun: Produces Lumo-sun, which is worth 20 each (35 when grown up).\n<color=black>•</color> Lumo-sprite: When a zombie bites a Lumo-shroom, 1 Lumo-sprite starts to follow that zombie (2 if grown up). Each time a followed zombie takes damage, 1 Lumo-sprite flies off and produces a small Lumo-sun. When the zombie dies, all Lumo-sprites following it are released, dropping an equal number of Lumo-suns. A zombie can have up to 20 Lumo-sprites following it at once.\n<color=black>•</color> Lumo-burst: When a Lumo-shroom dies, all zombies in a small radius are followed by five Lumo-flies (increased range when grown up).</color>",
+            "seedType": 232,
+            "name": "Lumo-shroom: Lumo-burst",
+            "introduce": "<align=justified><size=36><color=black>\"If you look up and see the fireflies swarming, that's me, back by your side.\" Lumo-shroom never feared death. Born of decayed grass, shining at summer's end, she embraces a final, resolute brilliance to ignite the symphony of rebirth. As night falls, silence spreads, the wheel of yin and yang turns, and the cycle endures forever.</color>",
+            "info": "<size=36>Third form of Lumo-shroom.\n\n<color=blue>PvZ: Symbiosis Collab Plant</color>\n<color=black>Sun Output: </color><color=#8B0000>20→35/25s\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> After yet another 150s under Lumos, Lumo-shrooms finally gain the <u>Lumo-burst</u> ability. Each additional Lumos Level accelerates upgrades speed by 100%.\n<color=black>•</color> Lumo-burst: When a Lumo-shroom dies, all zombies in a small radius are followed by five Lumo-flies (increased range when grown up).</color>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Lumo-shroom + Lumos Level</color>"
         },
         {
@@ -382,7 +389,7 @@
             "seedType": 244,
             "name": "Jicamagic",
             "introduce": "<align=justified><size=36><color=black>\"I'm a grand magician to rival the great Imitater,\" proclaimed Jicamagic. However, only his good friend, Imitater, knows the truth: Jicamagic and Dr. Edgar used to study life sciences in the same class.</color>",
-            "info": "<size=36>Catalyst for Titan fusions.\n\n<color=#4A2900>Unlock Conditions: Beat Titan Pea Turret's showcase in Fusion Showcase</color>\n<color=black>Special: </color><color=#8B0000>A fusion catalyst for Titan plants. Place it on the middle plant to start the fusion. Titan fusions are indicated with \"∞\".<color=#8B0000></color>",
+            "info": "<size=36>Catalyst for Titan fusions.\n\n<color=black>Special: </color><color=#8B0000>A fusion catalyst for Titan plants. Place it on the middle plant to start the fusion. Titan fusions are indicated with \"∞\".<color=#8B0000></color>",
             "cost": "<size=36>Cost: <color=#8B0000>50</color>\nRecharge: <color=#8B0000>30s</color>"
         },
         {
@@ -465,15 +472,15 @@
         {
             "seedType": 301,
             "name": "Overclocked Cherrybomber",
-            "introduce": "<align=justified><size=36><color=black></color>",
-            "info": "<size=36>\n\n<color=#4A2900>Usage Condition: Mystery Mode | Legendary Odyssey Plant</color>\n<color=black>Damage: </color><color=#8B0000>300</color>\n<color=black>Special: </color><color=#8B0000> Shoots explosive cherries at a horrifying rate after charging up for a short time.</color>",
+            "introduce": "<align=justified><size=36><color=black>Other plants can't stop envying his explosive firepower. He just shrugs it off: \"I'm no genius here. It's all just hard work and sweat.\" Of course, he is referring to how he secretly stole everyone else's equipment and strapped it onto himself.</color>",
+            "info": "<size=36>Stronger than strongest damage-dealer.\n\n<color=#4A2900>Usage Condition: Mystery Mode | Legendary Odyssey Plant: Special form of Gatling Cherrybomber</color>\n<color=black>Damage: </color><color=#8B0000>300×6/0.5s</color>\n<color=black>Special: </color><color=#8B0000> Shoots explosive cherries at a horrifying rate after charging up for a 1.5s.</color>",
             "cost": "\n"
         },
         {
             "seedType": 302,
             "name": "Arteris Cabbage",
-            "introduce": "<align=justified><size=36><color=black></color>",
-            "info": "<size=36>\n\n<color=#4A2900>Usage Condition: Mystery Mode | Legendary Odyssey Plant; Easter Egg Plant</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Has a 2% chance to replace Selene Cabbage when fusing during Night levels (Fog, etc. not included). Arteris Cabbage retains all basic traits of Selene Cabbage.\n<color=black>•</color> You can only have 1 Arteris Cabbage on the field in Odyssey modes.\n<color=black>•</color> While Arteris Cabbage is on the field, Mini Moons from Selene Cabbages become Mini Bloodmoons. These no longer provide Healing, but instead summon buffed Hypnotized Zombies every 10s. The first summon has a 3s cooldown.\n<color=black>•</color> Each Arteris Cabbage provides a +50% Toughness and Damage buff to the summoned Zombies.\n<color=black>•</color> The number and position of summons depend on \"barren tiles,\" defined as tiles without an Arteris or Selene Cabbage on them or in their 3×3 area.</color>",
+            "introduce": "<align=justified><size=36><color=black>When the sky is painted in crimson light, war follows in her wake. Where peace cannot be found, she descends. She is the herald of bloodspill, the bringer of death: the Goddess of the Blood Moon.</color>",
+            "info": "<size=36>Born of the night, calling to fight. Under her blood moon, scarlet tides of zombies rise again and again.\n\n<color=#4A2900>Usage Condition: Mystery Mode | Legendary Odyssey Plant: Special form of Selene Cabbage; Easter Egg Plant</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Has a 2% chance to replace Selene Cabbage when fusing during Night levels (Fog, etc. not included). Arteris Cabbage retains all basic traits of Selene Cabbage.\n<color=black>•</color> You can only have 1 Arteris Cabbage on the field in Odyssey modes.\n<color=black>•</color> While Arteris Cabbage is on the field, Mini Moons from Selene Cabbages become Mini Bloodmoons. These no longer provide Healing, but instead summon buffed Hypnotized Zombies every 10s. The first summon has a 3s cooldown.\n<color=black>•</color> Each Arteris Cabbage provides a +50% Toughness and Damage buff to the summoned Zombies.\n<color=black>•</color> The number and position of summons depend on \"barren tiles,\" defined as tiles without an Arteris or Selene Cabbage on them or in their 3×3 area.</color>",
             "cost": "\n"
         },
         {
@@ -501,7 +508,7 @@
             "seedType": 903,
             "name": "Cherrizilla",
             "introduce": "<align=justified><size=36><color=black>Cherrizilla proudly says, \"Many envy my dinosaur-like hairstyle.\" As a public figure, he's mindful of his image: \"Spitting cherries and eating zombies is gross, but it's my duty.\"</color></size>",
-            "info": "<size=36>Cherrizilla is the ultimate defensive plant on land.\n\n<color=#4A2900><color=#4A2900>Usage Condition: Odyssey Mode | Unlockable</color></color>\n<color=black>Damage: </color><color=#8B0000>1000/1.75s</color>\n<color=black>Toughness: </color><color=#8B0000>8000</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Tall plant. Repels vehicles and takes at most 1/3 maximum Toughness per hit.\n<color=black>•</color> Heals when hit by explosive cherries (same effect as Cherry-nut). Excess HP drains at 800 per second, capped at 4× Toughness.\n<color=black>•</color> Every 40s, can devour a non-miniboss zombie, restoring HP to 4x Toughness and gaining 1 Devour stack.\n<color=black>•</color> Bites deal AoE damage and bonus damage equal to zombie's max HP×(3% + 0.2%× Devour stacks), healing for the same amount. After biting, spits out an explosive cherry.\n<color=black>•</color> Invincibility: On taking lethal damage, HP remains at 1 for 5s (once every 10s).</color>\n<color=black>Main Odyssey Modifiers:\n</color><color=#8B0000>1. Heal amount ×3\n2. Devour CD reduced to 15s</color>\n\n<color=black>Obsidian Tall-nut Synergy Modifier:</color><color=#8B0000>\n<color=black>•</color> You must have unlocked all Cherrizilla and Obsidian Tall-nut's modifiers before this synergy becomes available in the shop.\n<color=black>•</color> When Cherrizilla and Obsidian Tall-nut are both present, Cherrizilla no longer has a maximum Toughness cap, and Obsidian Tall-Nut gains a 90% damage reduction.</color></size>",
+            "info": "<size=36>Cherrizilla is the ultimate defensive plant on land.\n\n<color=#4A2900><color=#4A2900>Usage Condition: Odyssey Mode | Unlockable</color></color>\n<color=black>Damage: </color><color=#8B0000>1000/1.75s</color>\n<color=black>Toughness: </color><color=#8B0000>8000</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Tall plant. Repels vehicles and takes at most 1/3 maximum Toughness per hit.\n<color=black>•</color> Heals when hit by explosive cherries (same effect as Cherry-nut). Excess HP drains at 800 per second, capped at 4× Toughness.\n<color=black>•</color> Every 40s, can devour a non-miniboss zombie, restoring HP to 4x Toughness and gaining 1 Devour stack.\n<color=black>•</color> Bites deal AoE damage and bonus damage equal to zombie's max HP×(3% + 0.2%× Devour stacks), healing for the same amount. After biting, spits out an explosive cherry.\n<color=black>•</color> Invincibility: On taking lethal damage, HP remains at 1 for 5s (once every 10s).</color>\n<color=black>Main Odyssey Modifiers:\n</color><color=#8B0000>1. Heal amount ×3\n2. Devour CD reduced to 15s</color>\n\n<color=black>Obsidian Tall-nut Synergy Modifier:</color><color=#8B0000>\n<color=black>•</color> You must have unlocked all Cherrizilla and Obsidian Tall-nut's modifiers before this synergy becomes available in the shop.\n<color=black>•</color> When Cherrizilla and Obsidian Tall-nut (or their subspecies) are both present, Cherrizilla/Garlizilla no longer has a maximum Toughness cap, and Obsidian Tall-nut/Obsidian Mine-nut gains a 90% damage reduction.</color></size>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Chompzilla + Cherry Chomper</color>"
         },
         {
@@ -571,7 +578,7 @@
             "seedType": 913,
             "name": "Obsidian Tall-nut",
             "introduce": "<align=justified><size=36><color=black>Rather than seeking his best friend's protection, this plant prefers to protect him. With a hard, gem-like body and steadfast gaze forged by Obsidian Tall-nut's own soul, he endured the trials of ice and fire. Though his body may wear down one day, he's determined to keep other plants safe.</color></size></size>",
-            "info": "<size=36>The Obsidian Tall-nut has four times the defense of a normal Tall-Nut.\n\n<color=#4A2900>Usage Condition: Odyssey Mode | Unlockable</color>\n<color=black>Toughness: </color><color=#8B0000>32000</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Restores 1500 Toughness every 15s.\n<color=black>•</color> Tall plant. Anti-crush, taking a maximum of 200 damage each time.\n<color=black>•</color> When one Obsidian Tall-nut receives damage, it is shared and divided among all Obsidian Tall-nuts on the lawn.\n<color=black>•</color> Recovers 10% lost HP when affected by Ice-shrooms or Jalapenos.\n<color=black>•</color> Blocks Balloon Zombies from passing, forcing them onto the ground.</color>\n<color=black>Main Odyssey Modifiers:\n</color><color=#8B0000>1. Max HP Cap ×3\n2. Redirects damage dealt to adjacent plants in the same lane to itself</color>\n\n<color=black>Cherrizilla Synergy Modifier:</color><color=#8B0000>\n<color=black>•</color> You must have unlocked all Cherrizilla and Obsidian Tall-nut's modifiers before this synergy becomes available in the shop.\n<color=black>•</color> When Cherrizilla and Obsidian Tall-nut are both present, Cherrizilla no longer has a maximum Toughness cap, and Obsidian Tall-Nut gains a 90% damage reduction.</color></size>",
+            "info": "<size=36>The Obsidian Tall-nut has four times the defense of a normal Tall-Nut.\n\n<color=#4A2900>Usage Condition: Odyssey Mode | Unlockable</color>\n<color=black>Toughness: </color><color=#8B0000>32000</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Restores 1500 Toughness every 15s.\n<color=black>•</color> Tall plant. Anti-crush, taking a maximum of 200 damage each time.\n<color=black>•</color> When one Obsidian Tall-nut receives damage, it is shared and divided among all Obsidian Tall-nuts on the lawn.\n<color=black>•</color> Recovers 10% lost HP when affected by Ice-shrooms or Jalapenos.\n<color=black>•</color> Blocks Balloon Zombies from passing, forcing them onto the ground.</color>\n<color=black>Main Odyssey Modifiers:\n</color><color=#8B0000>1. Max HP Cap ×3\n2. Redirects damage dealt to adjacent plants in the same lane to itself</color>\n\n<color=black>Cherrizilla Synergy Modifier:</color><color=#8B0000>\n<color=black>•</color> You must have unlocked all Cherrizilla and Obsidian Tall-nut's modifiers before this synergy becomes available in the shop.\n<color=black>•</color>  When Cherrizilla and Obsidian Tall-nut (or their subspecies) are both present, Cherrizilla/Garlizilla no longer has a maximum Toughness cap, and Obsidian Tall-nut/Obsidian Mine-nut gains a 90% damage reduction.</color></size>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Frost Tall-nut + Flame Tall-nut</color>"
         },
         {
@@ -711,7 +718,7 @@
             "seedType": 933,
             "name": "Thornminator",
             "introduce": "<align=justified><size=36><color=black>Thornminator is one of the top hairstylists in town, revolutionizing botanical fashion with every masterpiece she crafts. \"Real style takes real work,\" she says, twirling a carving knife between her fingers. Hammers and chisels may not be traditional hairstyling tools, but for her, they're essential for \"fixing\" even the most stubborn strands.</color>",
-            "info": "<size=36>Fires Doom-hypno Ice Spikes. When planted, unleashes a barrage of Doom-hypno Ice Spikes.\n\n<color=#4A2900>Usage Condition: Odyssey Mode | Unlockable with Doominator</color>\n<color=black>Damage: </color><color=#8B0000>300/1.5s</color>\n<color=#0077b6>Cryo System: </color><color=#8B0000>Each projectile inflicts chill and adds 20 Cryo points. Deals ×4 damage to frozen zombies.</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Subspecies of Doominator. \n<color=black>•</color> Attacks pierce infinitely, prioritizes air units.\n<color=black>•</color> Has a chance to hypnotize zombies and cause explosive damage—same effect as Doominator.\n<color=black>•</color> When planted, scatter-shoots at least 60 Doom-Hypno Icerocks, targeting both air and ground enemies.</color>",
+            "info": "<size=36>Fires Doom-hypno Ice Spikes. When planted, unleashes a barrage of Doom-hypno Ice Spikes.\n\n<color=#4A2900>Usage Condition: Odyssey Mode | Unlockable with Doominator</color>\n<color=black>Damage: </color><color=#8B0000>300/1.5s</color>\n<color=#0077b6>Cryo System: </color><color=#8B0000>Each projectile inflicts chill and adds 20 Cryo points. Deals ×4 damage to frozen zombies.</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Subspecies of Doominator. \n<color=black>•</color> Attacks pierce infinitely, prioritizes air units.\n<color=black>•</color> Has a chance to hypnotize zombies and cause explosive damage—same effect as Doominator.\n<color=black>•</color> When planted, scatter-shoots at most 80 Doom-Hypno Spikes, targeting both air and ground enemies.</color>",
             "cost": "<size=36>\nConversion Formula: </color><color=#8B0000>Fume-shroom <-> Cactus</color>"
         },
         {
@@ -760,7 +767,7 @@
             "seedType": 940,
             "name": "Napalm-shroom",
             "introduce": "<align=justified><size=36><color=black>Napalm-Shroom isn’t just fire on the battlefield—his BBQ skills are legendary. His dream? To host the greatest barbecue party ever, with every plant and zombie in town invited.</color>",
-            "info": "<size=36>Lobs Napalm melons that split on impact and leave behind an inferno.\n\n<color=#4A2900>Usage Condition: Odyssey Mode | Unlockable</color>\n<color=black>Toughness: </color><color=#8B0000>3000</color>\n<color=black>Damage: </color><color=#8B0000>300/7.5 Seconds + 30/0.02 Seconds (Inferno)</color>\n<color=#720026>Enflamed Debuff: </color><color=#8B0000>Each melon creates an inferno zone that lasts for 2.5s.</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Range: 4 tiles; Manual launch: full board. After launching a Napalm melon, rests for 1.5s, then charges up for at least 6 seconds, increasing damage to 1+(charge time in seconds×50%) to a max of 30s.\n<color=black>•</color> Attacks pierce all armor and split into 2 additional Napalm melons that target nearby zombies with the same damage.</color>\n<color=black>Odyssey Modifiers:</color>\n<color=#8B0000>1. Charging speed and max charging duration ×3\n2. Inferno zone duration ×2</color>",
+            "info": "<size=36>Lobs Napalm melons that split on impact and leave behind an inferno.\n\n<color=#4A2900>Usage Condition: Odyssey Mode | Unlockable</color>\n<color=black>Toughness: </color><color=#8B0000>3000</color>\n<color=black>Damage: </color><color=#8B0000>300/7.5s + 30/0.02s (Inferno)</color>\n<color=#720026>Enflamed Debuff: </color><color=#8B0000>Each melon creates an inferno zone that lasts for 2.5s.</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Range: 4 tiles; Manual launch: full board. After launching a Napalm melon, rests for 1.5s, then charges up for at least 6 seconds, increasing damage to 1+(charge time in seconds×50%) to a max of 30s.\n<color=black>•</color> Attacks pierce all armor and split into 2 additional Napalm melons that target nearby zombies with the same damage.</color>\n<color=black>Odyssey Modifiers:</color>\n<color=#8B0000>1. Charging speed and max charging duration ×3\n2. Inferno zone duration ×2</color>",
             "cost": "\n<size=34>Fusion Formula: <color=#8B0000>Summer Melon + Football-shroom</color>"
         },
         {
@@ -830,7 +837,7 @@
             "seedType": 950,
             "name": "Radiant Pad",
             "introduce": "<align=justified><size=36><color=black>Her devotion to the Sun God flows louder than a raging river. Radiant Pad was eventually dismissed from the Sun Guard for being way too noisy—but that hasn’t stopped her from preaching His glory to every creature beneath the waves. So deep in her zeal, she hasn’t noticed one thing: she’s been blocking all the sunlight from reaching the lakebed.</color>",
-            "info": "<size=36>Golden Lilypad that can quickly produce copious amounts of Sun and Coins.\n\n<color=#4A2900>Usage Condition: Odyssey Mode | Initial Selection with Radiant Pot</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Produces 50 Sun and 300 Coins every n=(Current Sun/1000) Seconds, where 3 ≤ n ≤ 15.</color>",
+            "info": "<size=36>Golden Lily Pad that can quickly produce copious amounts of Sun and Coins.\n\n<color=#4A2900>Usage Condition: Odyssey Mode | Initial Selection with Radiant Pot</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Produces 50 Sun and 300 Coins every n=(Current Sun/1000) Seconds, where 3 ≤ n ≤ 15.</color>",
             "cost": "\n<size=36>Conversion Formula: <color=#8B0000>Shovel <-> Shovel</color>"
         },
         {
@@ -857,22 +864,29 @@
         {
             "seedType": 954,
             "name": "Princess Solarnova",
-            "introduce": "<align=justified><size=36><color=black></color>",
-            "info": "<size=36>\n\n<color=#4A2900>Usage Condition: Odyssey Mode | Unlockable</color>\n<color=black>Sun Output: </color><color=#8B0000>50/3s</color>\n<color=black>Damage: </color><color=#8B0000>1800</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Generates Sun and consumes nearby plant projectiles to absorb energy (1 damage = 1 energy). Energy is capped at Attack damage ×4; excess energy is converted to Sun (1 projectile = 5 Sun).\n<color=black>•</color> When energy exceeds Attack damage, fires a solar shot that explodes on impact, dealing 100% Damage in a small area.\n<color=black>•</color> Using a Coffee Bean toggles active/inactive modes. Does not attack in inactive mode.</color>\n<color=black>Odyssey Modifiers:</color>\n<color=#8B0000>1. When a solar shot hits a zombie, it cause nearby projectiles to explode as well, dealing 10% damage\n2. Energy cap ×3, Sun output ×3</color>",
+            "introduce": "<align=justified><size=36><color=black>Solarnova is princess of the Solaria Kingdom and a world-famous pop idol. Her hit single Dance of the Blazing Sun is so popular that even Dr. Edgar is rumored to own a copy. Despite her fame, she's approachable and loves meeting her subjects and fans, but just don't get too close, or her warmth might burn you.</color>",
+            "info": "Generates sun at extreme speed while melting down nearby projectiles. When active (eyes open), she unleashes searing solar flares; when inactive (winking), she stores radiant energy to be released later.<size=36>\n\n<color=#4A2900>Usage Condition: Odyssey Mode | Unlockable</color>\n<color=black>Sun Output: </color><color=#8B0000>50/3s</color>\n<color=black>Damage: </color><color=#8B0000>1800</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Generates Sun and consumes nearby plant projectiles to absorb energy (1 damage = 1 energy). Energy is capped at Attack damage ×4; excess energy is converted to Sun (1 projectile = 5 Sun).\n<color=black>•</color> When energy exceeds Attack damage, fires a solar shot that explodes on impact, dealing 100% Damage in a small area.\n<color=black>•</color> Using a Coffee Bean toggles active/inactive modes. Does not attack in inactive mode.</color>\n<color=black>Odyssey Modifiers:</color>\n<color=#8B0000>1. When a solar shot hits a zombie, it cause nearby projectiles to explode as well, dealing 10% attack damage\n2. Energy cap ×3, Sun storage amount ×3</color>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Torchflower + Golden Sunflower</color>"
         },
         {
             "seedType": 955,
             "name": "Selene Cabbage",
-            "introduce": "<align=justified><size=36><color=black></color>",
-            "info": "<size=36>\n\n<color=#4A2900>Usage Condition: Odyssey Mode | Unlockable with Helios Cabbage</color>\n<color=black>Damage: </color><color=#8B0000>300×5/1.5s</color>\n<color=#99582a>Lumos System: </color><color=#8B0000>Projectiles +100 Damage per Lumos Level (up to 500).</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Subspecies of Helios Cabbage.\n<color=black>•</color> Summons a Mini Moon every 30s. The Mini Moon lasts for 15s and heals all plants for 50×(number of Selene Cabbages on the lawn) HP per second. This effect is tripled on the plant with the lowest HP percentage.\n<color=black>•</color> If a Mini Sun is also present, healing effects are doubled.\n<color=black>•</color> The first Helios Cabbage Modifier increases Selene Cabbage damage bonus to +300 damage per Lumos Level, max damage cap → 1500; the second triples healing power.\n\n<color=black>Magnetar Synergy Modifier:</color><color=#8B0000>\n<color=black>•</color> You must have unlocked all Magnetar and Helios Cabbage's modifiers before this synergy becomes available in the shop.\n<color=black>•</color> With at least 10 Magnetars and 10 Selene Cabbages on the field, the Mini Moon from Selene Cabbage no longer disappears. Each Magnetar and Selene Cabbage channels a beam into the Mini Moon, which merges them into a single concentrated beam.\n<color=black>•</color> Beam Damage: 100 × (channeling plants) every 0.02s, always locking onto the zombie with the highest max HP. Damage scales linearly over time when focusing a single target.</color>",
+            "introduce": "<align=justified><size=36><color=black>She is the Moon Goddess, embodiment of calm and healing. Wherever her light falls, wounds quietly mend and all things are bathed in gentle restoration. Hanging high above the night sky, she balances yin and yang with tidal power, granting endless vitality.</color>",
+            "info": "<size=36>Periodically summons mini-Moons to heal the battlefield. By the light of the Moon.\n\n<color=#4A2900>Usage Condition: Odyssey Mode | Unlockable with Helios Cabbage</color>\n<color=black>Damage: </color><color=#8B0000>300×5/1.5s</color>\n<color=#99582a>Lumos System: </color><color=#8B0000>Projectiles +100 Damage per Lumos Level (bonus damage up to +500).</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Subspecies of Helios Cabbage.\n<color=black>•</color> Summons a Mini Moon every 30s. The Mini Moon lasts for 15s and heals all plants for 50×(number of Selene Cabbages on the lawn) HP per second. This effect is tripled on the plant with the lowest HP percentage.\n<color=black>•</color> If a Mini Sun is also present, healing effects are doubled.\n<color=black>•</color> The first Helios Cabbage Modifier increases Selene Cabbage damage bonus to +300 damage per Lumos Level, max damage cap → 1500; the second triples healing power.\n\n<color=black>Magnetar Synergy Modifier:</color><color=#8B0000>\n<color=black>•</color> You must have unlocked all Magnetar and Helios Cabbage's modifiers before this synergy becomes available in the shop.\n<color=black>•</color> With at least 10 Magnetars and 10 Selene Cabbages on the field, the Mini Moon from Selene Cabbage no longer disappears. Each Magnetar and Selene Cabbage channels a beam into the Mini Moon, which merges them into a single concentrated beam.\n<color=black>•</color> Beam Damage: 100 × (channeling plants) every 0.02s, always locking onto the zombie with the highest max HP. Damage scales linearly over time when focusing a single target up to 5×.</color>",
             "cost": "\n<size=36>Conversion Formula: <color=#8B0000>Sunflower <-> Plantern</color>"
+        },
+        {
+            "seedType": 956,
+            "name": "Grim Arbiter",
+            "introduce": "<align=justified><size=36><color=black>Grim Arbiter stands as judge at the end of all things. In his jaws every offering is measured: the unworthy are stripped away, the pure are given new form, and the balance is upheld without mercy; from his maw comes a verdict no soul can escape.</color>",
+            "info": "<size=36>Click to channel destruction into rebirth for the plants ahead, while turning curses back upon their casters.\n\n<color=#4A2900>Usage Condition: Odyssey Mode | Initial Selection</color>\n<color=black>Damage: </color><color=#8B0000>1800</color>\n<color=black>Digestion Time: </color><color=#8B0000>30s</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Does not target zombies.\n<color=black>•</color> If there is a plant in the tile in front, it is destroyed with a 50% chance to drop its seed packet. If the plant is cursed, the drop is guaranteed and the curse caster loses 15% max HP.</color>\n<color=black>Odyssey Modifiers:</color>\n<color=#8B0000>1. Seed packet drop is now guaranteed\n2. When destroying Odyssey plants with on-death effects, the effect is amplified 4 times</color>",
+            "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Doom Chomper + MAD Pepper</color>"
         },
         {
             "seedType": 1000,
             "name": "Solar-shooter",
             "introduce": "<align=justified><size=36><color=black>\"Actually, the Sunflower behind me is my sister,\" Solar-shooter explained to everyone. \"We've been inseparable since birth. She loves producing Sun, and I destroy zombies on her behalf.\" But everyone knows the truth: the cheerful Pea brother is a total siscon. After all, every zombie that gets near his sister mysteriously ends up vaporized by sunlight.</color></size>",
-            "info": "<size=36>Solar-shooter can fire Sun shots that have a chance to produce Sun.\n\n<color=black>Sun Output: </color><color=#8B0000>25/25s</color>\n<color=black>Damage: </color><color=#8B0000>30/1.5s</color>\n<color=black>Special: </color><color=#8B0000>Shots have a 30% chance to drop 5 Sun when hitting zombies.</size>",
+            "info": "<size=36>Solar-shooter can fire Sun shots that occasionally produce Sun.\n\n<color=black>Sun Output: </color><color=#8B0000>25/25s</color>\n<color=black>Damage: </color><color=#8B0000>30/1.5s</color>\n<color=black>Special: </color><color=#8B0000>Every third shot drops 5 Sun when hitting targets.</size>",
             "cost": "\n<size=36></color>Fusion Formula: <color=#8B0000>Peashooter + Sunflower</color>"
         },
         {
@@ -1011,8 +1025,8 @@
         {
             "seedType": 1020,
             "name": "Buckshooter",
-            "introduce": "<align=justified><size=36><color=black>\"I carry my ancestors' spirit—I won't fall here!\" Buckshooter declared. When told his helmet looked like Buckethead Zombie's, he retorted, \"Then let's invoke their will and ride again!\"</color></size>",
-            "info": "<size=36>Buckshooter has the ability to crack armor.\n\n<color=black>Toughness: </color><color=#8B0000>2000</color>\n<color=black>Damage: </color><color=#8B0000>80/1.5s</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Metal plant. Recovers 500 Toughness when fed metal object.\n<color=black>•</color> Takes half the damage from explosive cherries.\n<color=black>•</color> Projectiles knock back zombies and instantly break Type 2 armor.</color></size>",
+            "introduce": "<align=justified><size=36><color=black>\"I carry my ancestors' spirit - I won't fall here!\" Buckshooter declared. When told his helmet looked like Buckethead Zombie's, he retorted, \"Then let's invoke their will and ride again!\"</color></size>",
+            "info": "<size=36>Buckshooter has the ability to crack armor.\n\n<color=black>Toughness: </color><color=#8B0000>2000</color>\n<color=black>Damage: </color><color=#8B0000>80/1.5s</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Metal plant. Recovers 500 Toughness when fed metal object.\n<color=black>•</color> Takes half the damage from explosive cherries.\n<color=black>•</color> Projectiles knock back zombies and instantly break Type 2 armor (before damage reduction).</color></size>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Bucket > Peashooter</color>"
         },
         {
@@ -1495,7 +1509,7 @@
             "seedType": 1089,
             "name": "Starry Pumpkin",
             "introduce": "<align=justified><size=36><color=black>People often wonder how many languages Starry Pumpkin must know to communicate effortlessly with all the plants. Starry Pumpkin smiles and says, \"Actually, I only speak Starfruit's language, since he's the only one I work closely with.\"</color></size>",
-            "info": "<size=36>Helps Starblover retain more stars.\n\n<color=black>Toughness: </color><color=#8B0000>4000</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Increases the storage limit of Starblover to 80, and Gravitron to 240.\n<color=black>•</color> Allows Solarfruit to use Sun to shoot automatically.</color></size>",
+            "info": "<size=36>Helps Starblover retain more stars.\n\n<color=black>Toughness: </color><color=#8B0000>4000</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Increases the storage limit of Starblover to 80, and Gravitron to 240.\n<color=black>•</color> Allows Solarfruit to use Sun to target zombies regularly.</color></size>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Starfruit > Pumpkin</color>"
         },
         {
@@ -1544,7 +1558,7 @@
             "seedType": 1096,
             "name": "Iron Star",
             "introduce": "<align=justified><size=36><color=black>People often use the headshots of Iron Star and Starmorph to hype up their relationship, which greatly troubles both of them. In fact, Iron Star just wants to be himself - a star with a heart of stone that is hard to rust.</color></size>",
-            "info": "<size=36>Fires stars lined with a metallic coating.\n\n<color=black>Toughness: </color><color=#8B0000>2000</color>\n<color=black>Damage: </color><color=#8B0000>80×5/1.5s</color>\n<color=black>Special: </color><color=#8B0000>Metal plant. Breaks Type 2 armor instantly.</color></size>",
+            "info": "<size=36>Fires stars lined with a metallic coating.\n\n<color=black>Toughness: </color><color=#8B0000>2000</color>\n<color=black>Damage: </color><color=#8B0000>80×5/1.5s</color>\n<color=black>Special: </color><color=#8B0000>Metal plant. Breaks Type 2 armor instantly (before damage reduction).</color></size>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Bucket > Starmorph</color>"
         },
         {
@@ -1803,7 +1817,7 @@
             "seedType": 1133,
             "name": "Umbrella Pot",
             "introduce": "<align=justified><size=36><color=black>Other flower pots are puzzled by the dense foliage of Umbrella Pot, but Umbrella Pot simply says, \"I just read the book <i>The Pot's Guide to Hair Care</i>.\"</color>",
-            "info": "<size=36>Enhances umbrella-type plants.\n\n<color=black>Umbrella Husk:</color> <color=#8B0000>+2 Seconds immobilization, +50% knockback distance</color>\n<color=black>Umbrella Rind:</color> <color=#8B0000>Doubles damage of reflected projectiles</color>\n<color=black>Umbrella Kale:</color> <color=#8B0000>Can attack zombies on adjacent lanes\n<color=black>Other Umbrellas: </color><color=#8B0000>Doubles knockback distance</color></color>",
+            "info": "<size=36>Enhances umbrella-type plants.\n\n<color=black>Umbrella Husk:</color> <color=#8B0000>+2 Seconds immobilization, +50% knockback distance</color>\n<color=black>Umbrella Clove, Umbrella Ultimate moves:</color> <color=#8B0000>Knockback distance ×2</color>\n<color=black>Umbrella Rind, Aegis:</color> <color=#8B0000>Damage of reflected projectiles ×2</color>\n<color=black>Umbrella Kale, Midas:</color> <color=#8B0000>Can attack zombies on adjacent lanes\n<color=black>Other Umbrellas: </color><color=#8B0000>Knockback distance +50%</color></color>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Umbrella Leaf > Flower Pot</color>"
         },
         {
@@ -1936,7 +1950,7 @@
             "seedType": 1152,
             "name": "Buck-shroom",
             "introduce": "<align=justified><size=36><color=black>Buck-shroom has a constant worry: he's terrified of Magnet-shroom accidentally pulling him in. 'Where did my screws go?' As Crazy Dave walks up, it seems he is about to have a brand-new concern.</color>",
-            "info": "<size=36>Buck-shrooms can knockback zombies too.\n\n<color=black>Toughness: </color><color=#8B0000>1000</color>\n<color=black>Damage: </color><color=#8B0000>80/2.25s</color>\n<color=black>Special: </color><color=#8B0000>Metal plant. Short plant. Projectiles knock back zombies and destroy Type 2 armor with ease.</color>",
+            "info": "<size=36>Buck-shrooms can knockback zombies too.\n\n<color=black>Toughness: </color><color=#8B0000>1000</color>\n<color=black>Damage: </color><color=#8B0000>80/2.25s</color>\n<color=black>Special: </color><color=#8B0000>Metal plant. Short plant. Projectiles knock back zombies and instantly destroy Type 2 Armor (before damage reduction).</color>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Bucket > Pea-shroom</color>"
         },
         {
@@ -1992,7 +2006,7 @@
             "seedType": 1160,
             "name": "Football-shroom",
             "introduce": "<align=justified><size=36><color=black>\"I've always dreamed of being a Football player, and now I've finally got this hat of glory,\" said Football-shroom proudly. \"But today, I've decided to take a break on the sidelines.\" In reality, he's just a stadium security, keeping the overenthusiastic fans out with his spores.</color>",
-            "info": "<size=36>Sprays fumes that penetrate all kinds of armor!\n\n<color=black>Toughness: </color><color=#8B0000>3000</color>\n<color=black>Damage: </color><color=#8B0000>60/1.5s</color>\n<color=black>Special: </color><color=#8B0000>Deals damage to armor and the zombie in the armor at the same time.</color>",
+            "info": "<size=36>Sprays fumes that penetrate all kinds of armor!\n\n<color=black>Toughness: </color><color=#8B0000>3000</color>\n<color=black>Damage: </color><color=#8B0000>100/1.5s</color>\n<color=black>Special: </color><color=#8B0000>Counts as an Advanced Fusion. Deals damage to armor and the zombie in the armor at the same time.</color>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Football Helmet > Rust-shroom</color>"
         },
         {
@@ -2328,7 +2342,7 @@
             "seedType": 1208,
             "name": "Chrono Pea",
             "introduce": "<align=justified><size=36><color=black>\"Nothing has been born earlier than the universe, and nothing will perish slower than the universe. But for life, his/her body is not as enduring as the death of a star; his/her spirit is even more eternal than the universe. Cherish the present, seize the future, even if it's just for a day or two, that is still a mayfly's life.\" — \"Chronicles\"</color>",
-            "info": "<size=36>A Peashooter with the power to warp space and time, firing neutron peas that inflict the chronoshift effect, erasing every trace of the target from the time continuum.\n\n<color=black>Special: </color><color=#8B0000>Attacks deal no damage but apply chronoshift for 1.5 seconds, or extend the duration by 1 second if the target is already affected. Deals only 100 damage to Mini-bosses.</color>\n<color=#00008B>Chronoshift: </color><color=#8B0000>Zombies under this effect receive a countdown of (HP / 30) seconds, after which they are instantly erased. If the effect ends early, they take 30 × (elapsed second) points worth of damage.</color>",
+            "info": "<size=36>A Peashooter with the power to warp space and time, firing neutron peas that inflict the Chronoshift effect, erasing every trace of the target from the time continuum.\n\n<color=black>Special: </color><color=#8B0000>Attacks deal no damage but apply Chronoshift for 1.5s, or extend the duration by 1 second if the target is already affected. Deals only 100 damage to Mini-bosses.</color>\n<color=#00008B>Chronoshift: </color><color=#8B0000>Zombies under this effect receive a countdown of (HP / 30) seconds, after which they are instantly erased. If the effect ends early, they take 30 × (elapsed seconds) points worth of damage.</color>",
             "cost": "<size=36>\nFusion Formula: <color=#8B0000>Chrono Core > Peashooter</color>"
         },
         {
@@ -2370,7 +2384,7 @@
             "seedType": 1214,
             "name": "Doomwarp-shroom",
             "introduce": "<align=justified><size=36><color=black>\"Time travel personnel have passed through, complete. The time tunnel has exited the target world, complete. Observed impact is within the expected range, complete. Proceed to the next step, destroy the tunnel to prevent use by others or organizations.\" — \"Time Planning Bureau\"</color>",
-            "info": "<size=36>Doomwarp-shroom possesses the power of hyperspace bending. Its explosion inflicts chronoshift to any foe unfortunate enough to be caught in its effects.\n\n<color=black>Damage: </color><color=#8B0000>1800 (Cremator) </color>\n<color=black>Special: </color><color=#8B0000>Inherits the traits of Doom-shroom. Explosion reduces the countdown of zombies with the chronoshift effect by 30 seconds.</color>",
+            "info": "<size=36>Doomwarp-shroom possesses the power of hyperspace bending. Its explosion inflicts chronoshift to any foe unfortunate enough to be caught in its effects.\n\n<color=black>Damage: </color><color=#8B0000>1800 (Cremator) </color>\n<color=black>Special: </color><color=#8B0000>Inherits the traits of Doom-shroom. Explosion reduces the countdown of zombies with the Chronoshift effect by 30s.</color>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Chrono Core > Dormant-shroom</color>"
         },
         {
@@ -2552,7 +2566,7 @@
             "seedType": 1240,
             "name": "Threepeatato Mine",
             "introduce": "<align=justified><size=36><color=black>Threepeatato Mine loves playing tricks underground. It shoots out surprises not once, not twice, but thrice—like a cheeky prankster with a never-ending stash of boom. Watch your step, or you might get a triple whammy that’ll blow your boots off.\n\n- Written by Mrs. Draco</color>",
-            "info": "<size=36>Threepeatato Mine resurfaces after exploding and fires potatoes across three lanes.\n\n<color=black>Damage: </color><color=#8B0000>30×3/1.5s</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Short plant (evades straight-firing projectiles).\n<color=black>•</color> Attacks faster as zombies get closer (down to 0.5s per attack).\n<color=black>•</color> When armed, explodes on contact, dealing 5400 damage, knocks back for 1 tile and retreats into the ground.\n<color=black>•</color> Re-emerges 15 seconds after exploding. Explodes and disappears immediately upon contact with vehicles.</color>",
+            "info": "<size=36>Threepeatato Mine resurfaces after exploding and fires potatoes across three lanes.\n\n<color=black>Damage: </color><color=#8B0000>30×3/1.5s</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Short plant (evades straight-firing projectiles).\n<color=black>•</color> Attacks faster as zombies get closer (down to 0.5s per attack).\n<color=black>•</color> When armed, explodes on contact, dealing 5400 damage, knocks back for 1 tile and retreats into the ground.\n<color=black>•</color> Re-emerges 15s after exploding. Explodes and disappears immediately upon contact with vehicles.</color>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Potato Mine + Threepeater</color>"
         },
         {
@@ -2936,141 +2950,176 @@
         {
             "seedType": 1295,
             "name": "Three-nuts",
-            "introduce": "<align=justified><size=36><color=black></color>",
+            "introduce": "<align=justified><size=36><color=black>\"Three ordinary nuts together are smarter than Zhuge Liang!\" Three-nuts joined forces, becoming inseparable companions and unleashing unimaginable potential. These three have a knack for physics, and apparently fluid dynamics is their strongsuit.</color>",
             "info": "<size=36>Three small-nuts stacked on top of each other.\n\n<color=black>Damage: </color><color=#8B0000>\n<color=black>•</color> (12-8k HP) 80, pierces twice;\n<color=black>•</color> (8-4k HP) 60, pierces 4 times;\n<color=black>•</color> (4k-0 HP) 40, pierces 6 times</color>\n<color=black>Special: </color><color=#8B0000>Tall plant. Has 12k HP in total. Each Small-nut has 4k HP. Losing one Small-nut permanently reduces max HP by 4k.</color>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Threepeater + Wall-nut</color>"
         },
         {
             "seedType": 1296,
             "name": "Marigold Mine",
-            "introduce": "<align=justified><size=36><color=black></color>",
-            "info": "<size=36>\n\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Digs up a treasure every 30s: 1% chance for a random zombie, 10% for a random seed packet, otherwise produces 25 Sun and 100 Coins.\n<color=black>•</color> On Beach maps, Marigold Mines placed on Treasure Spots gain 50% faster production; seed packet chance rises to 33% while zombie chance drops to 0%.\n<color=black>•</color> Disappears after finding 3 seed packets.\n<color=black>•</color> On death, triggers a Potato Mine explosion with 1800 damage.</color>",
+            "introduce": "<align=justified><size=36><color=black>Beneath the ground lie treasures… and zombies? \"So my treasure-hunting garden is actually a graveyard?!\" Marigold Mine only wants to dig for treasures, but Dave buried zombies to make the hunt more exciting, which complicates things.</color>",
+            "info": "<size=36>Always busy digging for treasures.\n\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Short plant. Digs up a treasure every 30s: 1% chance for a random zombie, 10% for a random seed packet, otherwise produces 25 Sun and 100 Coins.\n<color=black>•</color> On Beach maps, Marigold Mines placed on Treasure Spots gain 50% faster production; seed packet chance rises to 33% while zombie chance drops to 0%.\n<color=black>•</color> Disappears after finding 3 seed packets.\n<color=black>•</color> On death, triggers a Potato Mine explosion with 1800 damage.</color>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Marigold + Potato Mine</color>"
         },
         {
             "seedType": 1297,
             "name": "Swell-shroom",
-            "introduce": "<align=justified><size=36><color=black></color>",
-            "info": "<size=36>\n\n<color=black>Special: </color><color=#8B0000>Loses the ability to attack. Using a Sea-shroom seed packet on him makes him swell up and freeze all zombies in a 3×3 area, applying chill.</color>",
+            "introduce": "<align=justified><size=36><color=black>\"Hey, stay away from me! Let me be alone quietly, or I'll stab you with ice spikes!\" Swell-shroom inflates to scare approaching enemies. Watching the ice spikes protruding out towards the zombies, the other plants can't help but wonder: who's really approaching whom?</color>",
+            "info": "<size=36>Inflates after consuming Sea-shrooms, emitting cold air around himself.\n\n<color=black>Special: </color><color=#8B0000>Short plant. Loses the ability to attack. Using a Sea-shroom seed packet on him makes him swell up and freeze all zombies in a 3×3 area, applying chill and dealing 20 damage.</color>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Ice-shroom > Sea-shroom</color>"
         },
         {
             "seedType": 1298,
             "name": "Rush-shroom",
-            "introduce": "<align=justified><size=36><color=black></color>",
-            "info": "<size=36>\n\n<color=black>Damage: </color><color=#8B0000>20/1.5s</color>\n<color=black>Special: </color><color=#8B0000>Has full-lane range. While emitting fumes, boosts straight-shooting projectiles ahead, increasing their speed and +1 damage every 0.02s. The boost is stackable.</color>",
+            "introduce": "<align=justified><size=36><color=black>Rush-shroom is never taken seriously by others. Work? Speeches? Marriage? Only laughter responds to him. He can't even rest by a swimming pool, because if there's a pea in the pool, he'll be accused of being an accomplice.</color>",
+            "info": "<size=36>Long-range sprayer; his fume can also give projectiles extra momentum.\n\n<color=black>Damage: </color><color=#8B0000>20/1.5s</color>\n<color=black>Special: </color><color=#8B0000>Has full-lane range. While emitting fumes, boosts straight-shooting projectiles ahead, increasing their speed and +1 damage every 0.02s. The boost is stackable.</color>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Peashooter + Fume-shroom</color>"
         },
         {
             "seedType": 1299,
             "name": "Nut-shell",
-            "introduce": "<align=justified><size=36><color=black></color>",
-            "info": "<size=36>\n\n<color=black>Toughness: </color><color=#8B0000>8000</color>\n<color=black>Special: </color><color=#8B0000>Spawns a Mini-nut every 50s. When the Mini-nut is fully grown, it is consumed to heal a nearby damaged Pumpkin-type plant for up to 1000 HP or to produce a Wall-nut seed packet if no such plant exists. A single Nut-shell can produce at most 3 Wall-nut seed packets.</color>",
+            "introduce": "<align=justified><size=36><color=black>For the Nut-shell, all that matters is creating a good internal environment for the smaller Nuts to grow. He ignores the outside noise and even zombie bites. The only thing he cares about is other plants crowding his internal space, a space he reserves specifically for the Mini-nuts.</color>",
+            "info": "Continuously grows helpful Mini-nuts inside.<size=36>\n\n<color=black>Toughness: </color><color=#8B0000>8000</color>\n<color=black>Special: </color><color=#8B0000>Spawns a Mini-nut every 50s. When the Mini-nut is fully grown, it is consumed to heal a nearby damaged Pumpkin-type plant for up to 1000 HP or to produce a Wall-nut seed packet if no such plant exists. A single Nut-shell can produce at most 3 Wall-nut seed packets.</color>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Wall-nut > Pumpkin</color>"
         },
         {
             "seedType": 1300,
             "name": "Brood-shroom",
-            "introduce": "<align=justified><size=36><color=black></color>",
-            "info": "<size=36>\n\n<color=black>Toughness: </color><color=#8B0000>1000</color>\n<color=black>Damage: </color><color=#8B0000>20×4/1.9s</color>\n<color=black>Special: </color><color=#8B0000>Emits 8 extra spores each attack.</color>",
+            "introduce": "<align=justified><size=36><color=black>Can mushrooms grow on mushrooms? According to Professor Cherryz, Brood-shrooms are rare large composite colonies, but they refuse to admit they are a collection of many individuals. To prove this, they try with all their might to eject extra spores.</color>",
+            "info": "<size=36>Dominates an area with fumes and spores.\n\n<color=black>Toughness: </color><color=#8B0000>1000</color>\n<color=black>Damage: </color><color=#8B0000>20×4/1.9s</color>\n<color=black>Special: </color><color=#8B0000>Emits an extra long-ranged spore in 8 directions each attack.</color>",
             "cost": "<size=36>Fusion Formula: <color=#8B0000>Puff-shroom ∞ [Gloom-shroom] ∞ Puff-shroom < Jicamagic (Place On Middle)</color>"
         },
         {
             "seedType": 1301,
             "name": "Umbrella Cap",
-            "introduce": "<align=justified><size=36><color=black></color>",
-            "info": "<size=36>\n\n<color=black>Toughness: </color><color=#8B0000>300</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Repels the first zombie on contact, then vanishes.\n<color=black>•</color> Against shrunken zombies, repels them and loses 50 HP instead.\n<color=black>•</color> Spawns a new Umbrella Cap in his tile every 30s.</color>",
-            "cost": "<size=36>Fusion Formula: <color=#8B0000>Umbrella Leaf > Puff-shroom</color>"
+            "introduce": "<align=justified><size=36><color=black>Like other Umbrellas, Umbrella Caps have great ambitions and are willing to sacrifice themselves to protect the world. Though not tall enough to protect other plants, they have found something else to protect, the land they live on and love so deeply.</color>",
+            "info": "<size=36>Uses their small body to desperately fend off enemies.\n\n<color=black>Toughness: </color><color=#8B0000>300</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Repels the first zombie on contact, then vanishes.\n<color=black>•</color> Against shrunken zombies, repels them and loses 50 HP instead.\n<color=black>•</color> Spawns a new Umbrella Cap in his tile every 30s.</color>",
+            "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Umbrella Leaf > Puff-shroom</color>"
         },
         {
             "seedType": 1302,
             "name": "Minnow-shroom",
-            "introduce": "<align=justified><size=36><color=black></color>",
-            "info": "<size=36>\n\n<color=black>Damage: </color><color=#8B0000>20/1.5s</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Starts out as a school of 2.\n<color=black>•</color> Grows into a school of 3 after 15s.\n<color=black>•</color> Afterwards, feeds the plant directly in front with a Sea-shroom every 15s. If unsuccessful, drops a Sea-shroom seed packet.</color>",
-            "cost": "<size=36>Fusion Formula: <color=#8B0000>Puff-shroom > Sea-shroom</color>"
+            "introduce": "<align=justified><size=36><color=black>Reproduction and proliferation are life's instincts. Under certain conditions, Minnow-shrooms grow together, resisting waves, and swim in schools to confuse predators. In recent years, technology enabling compact breeding has finally been developed and immediately applied in aquariums.</color>",
+            "info": "<size=36>Highly reproductive; an important part of the ocean fungal ecosystem.\n\n<color=black>Damage: </color><color=#8B0000>20×2 (later ×3)/1.5s</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Starts out as a school of 2.\n<color=black>•</color> Grows into a school of 3 after 15s.\n<color=black>•</color> Afterwards, feeds the plant directly in front with a Sea-shroom every 15s. If unsuccessful, drops a Sea-shroom seed packet.</color>",
+            "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Puff-shroom > Sea-shroom</color>"
         },
         {
             "seedType": 1303,
             "name": "Orca-shroom",
-            "introduce": "<align=justified><size=36><color=black></color>",
-            "info": "<size=36>\n\n<color=black>Damage: </color><color=#8B0000>600</color>\n<color=black>Special: </color><color=#8B0000>Launches a Doom spore that deals 600 damage in a moderate radius after consuming a Sea-shroom. Feeding has no CD, but each shot takes 1.5s to fire and only a max of 2 shots can register at the same time.</color>",
-            "cost": "<size=36>Fusion Formula: <color=#8B0000>Doom-shroom > Sea-shroom</color>"
+            "introduce": "<align=justified><size=36><color=black>\"Relax, many cetaceans are filter-feeders. We only eat plankton and algae. Any Sea-shrooms inadvertedly ingested will be spit out.\" said Orca-shroom to the sea mushrooms. The Sea-shrooms replied in horror, \"We understand, but what is that black, explosive thing?\"</color>",
+            "info": "<size=36>After consuming Sea-shrooms, spits small Doom-bombs forward.\n\n<color=black>Damage: </color><color=#8B0000>600</color>\n<color=black>Special: </color><color=#8B0000>Launches a Doom spore that deals 600 damage in a moderate radius after consuming a Sea-shroom. Feeding has no CD, but each shot takes 1.5s to fire and only a max of 2 shots can register at the same time.</color>",
+            "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Doom-shroom > Sea-shroom</color>"
         },
         {
             "seedType": 1304,
             "name": "Torchflower",
-            "introduce": "<align=justified><size=36><color=black></color>",
-            "info": "<size=36>\n\n<color=black>Sun Output: </color><color=#8B0000>25/25s</color>\n<color=black>Special: </color><color=#8B0000>Each time she produces Sun, converts all nearby plant (and hypnotized zombie) projectiles into Sun at a rate of 5 Sun per projectile.</color>",
-            "cost": "<size=36>Fusion Formula: <color=#8B0000>Sunflower + Torchwood</color>"
+            "introduce": "<align=justified><size=36><color=black>Torchflower is always cheerful, even able to smile through her doctoral dissertation. \"Become the sunshine you have always been looking for.\" she wrote in the acknowledgments at the end of her paper.</color>",
+            "info": "Melts nearby projectiles into Sun!<size=36>\n\n<color=black>Sun Output: </color><color=#8B0000>25/25s</color>\n<color=black>Special: </color><color=#8B0000>Each time she produces Sun, converts all plant (and hypnotized zombie) projectiles in a 1.5 Tile radius into Sun at a rate of 5 Sun per projectile.</color>",
+            "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Sunflower + Torchwood</color>"
         },
         {
             "seedType": 1305,
             "name": "Jelly-shroom",
-            "introduce": "<align=justified><size=36><color=black></color>",
-            "info": "<size=36>\n\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Summons a hypnotized Zombie (browncoat) that fights for you after consuming a Sea-shroom.\n<color=black>•</color> When bitten, hypnotizes the attacker, then reverts to a Sea-shroom.</color>",
-            "cost": "<size=36>Fusion Formula: <color=#8B0000>Hypno-shroom > Sea-shroom</color>"
+            "introduce": "<align=justified><size=36><color=black>\"Am I a Jellyfish? Or a Mushroom? Guess wrong, and you'll have to work for me.\" The Jelly-shroom loves playing these games with brainless zombies and has never lost. The closest to the right answer was Professor Cherryz, who answered \"I know Box Jellies are not true Jellies… Are you one of those?\"</color>",
+            "info": "<size=36>Summons grunt zombies to fight for you after consuming a Sea-shroom.\n\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Summons a hypnotized Dukcy Tube Zombie (browncoat) that fights for you after consuming a Sea-shroom.\n<color=black>•</color> When bitten, hypnotizes the attacker, then reverts to a Sea-shroom.</color>",
+            "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Hypno-shroom > Sea-shroom</color>"
         },
         {
             "seedType": 1306,
             "name": "Football Gatling",
-            "introduce": "<align=justified><size=36><color=black></color>",
-            "info": "<size=36>\n\n<color=black>Toughness: </color><color=#8B0000>3000</color>\n<color=black>Damage: </color><color=#8B0000>80×4/2s</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Metal plant. Counts as an advanced fusion.\n<color=black>•</color> Every 12 shot is a Footbal Pea that causes hit Red-colored Football Zombies to run away from your house.</color>",
-            "cost": "<size=36>Fusion Formula: <color=#8B0000>Hypno-shroom > Sea-shroom</color>"
+            "introduce": "<align=justified><size=36><color=black>\"Foul play! You're out!\" Football Gatling is the strictest and most hot-tempered referee on the field, upholding football rules. From start to finish, his mouth never stops, constantly trying to eject players who don't understand the game.</color>",
+            "info": "<size=36>Occasionally fires red shots that lure Football Zombies away.\n\n<color=black>Toughness: </color><color=#8B0000>3000</color>\n<color=black>Damage: </color><color=#8B0000>80×4/2s</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Metal plant. Counts as an Advanced Fusion.\n<color=black>•</color> Projectiles knock back zombies and instantly break Type 2 armor (before damage reduction).\n<color=black>•</color> Every 12 shot is a Footbal Pea that causes hit Red-colored Football Zombies to run away from your house.</color>",
+            "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Football Helmet > Gatling Pea</color>"
         },
         {
             "seedType": 1307,
             "name": "Solarfruit",
-            "introduce": "<align=justified><size=36><color=black></color>",
-            "info": "<size=36>\n\n<color=black>Damage: </color><color=#8B0000>100×5</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Click on a Solarfruit to spend 25 Sun and make it shoot 5 100-damage Stars in 5 directions.\n<color=black>•</color> Uses Sun and shoots automatically every 0.5s if placed in a Starry Pumpkin.</color>",
-            "cost": "<size=36>Fusion Formula: <color=#8B0000>Sunflower + Starfruit</color>"
+            "introduce": "<align=justified><size=36><color=black>\"I'm Solarfruit, not Sunny Five-fingers! Don't mix us up!\" Solarfruit always tries to explain that he's different from Sunny Five-fingers, but his plant friends don't care. The only supporter he has is the zombies, since they think fingers are definitely more annoying to gnaw on than fruits.</color>",
+            "info": "<size=36>Uses Sun to shoot high-damage stars.\n\n<color=black>Damage: </color><color=#8B0000>100×5</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Click on a Solarfruit to spend 25 Sun and make it shoot 5 100-damage Stars in 5 directions.\n<color=black>•</color> Uses Sun and shoots automatically every 0.35s if placed in a Starry Pumpkin.</color>",
+            "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Sunflower + Starfruit</color>"
         },
         {
             "seedType": 1308,
             "name": "Solar Flare",
-            "introduce": "<align=justified><size=36><color=black></color>",
-            "info": "<size=36>\n\n<color=black>Damage: </color><color=#8B0000>1800 (Cremator)</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Returns 25 Sun for every zombie hit.\n<color=black>•</color> Also deals 1800 damage to all plants in his lane. Each affected plant drops 50 Sun and boosts Solar Flare's damage by 500. If a plant would be destroyed, it instead has a 1/3 chance to survive with 1 HP remaining.</color>",
-            "cost": "<size=36>Fusion Formula: <color=#8B0000>Sunflower + Jalapeno</color>"
+            "introduce": "<align=justified><size=36><color=black>Why do so many plants feel distant from her? She can't figure it out: \"I can both defend you and bring you sunshine!\" She believes she's brighter and sunnier than Jalapeno, but other plants think she's more destructive.</color>",
+            "info": "<size=36>Burns other plants to enhance her power.\n\n<color=black>Damage: </color><color=#8B0000>1800 (Cremator)</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Returns 25 Sun for every zombie hit.\n<color=black>•</color> Also deals 1800 damage to all plants in his lane. Each affected plant drops 50 Sun and boosts Solar Flare's damage by 500. If a plant would be destroyed, it has a 1/3 chance to survive with 1 HP remaining.</color>",
+            "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Sunflower + Jalapeno</color>"
         },
         {
             "seedType": 1309,
-            "name": "Sturdy-shroom",
-            "introduce": "<align=justified><size=36><color=black></color>",
-            "info": "<size=36>\n\n<color=black>Toughness: </color><color=#8B0000>4000</color>\n<color=black>Special: </color><color=#8B0000> After cowering for 10s, immediately stands up and knocks back nearby zombies, dealing 20 damage. For the next 5s, he will not hide himself again. While cowering, takes 50% reduced damage.</color>",
-            "cost": "<size=36>Fusion Formula: <color=#8B0000>Wall-nut + Scaredy-shroom</color>"
+            "name": "Lantern-nut",
+            "introduce": "<align=justified><size=36><color=black>\"Streetlights sometimes malfunction, and that’s normal. This is when my role as a backup streetlight becomes important, though everyone seems worried about me,\" said Lantern-nut. He didn't know that others worry not about his brightness, but that he might break the streetlight frame.</color>",
+            "info": "<size=36>Wall-nut with Plantern properties; heals himself with Lumos level.\n\n<color=black>Toughness: </color><color=#8B0000>4000</color>\n<color=#99582a>Lumos System: </color><color=#8B0000>Provides 1 Lumos Level in a 3×3 Grid. Restores 150 Toughness per Lumos Level every 15s.</color></size>",
+            "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Wall-nut + Plantern</color>"
         },
         {
             "seedType": 1310,
-            "name": "Lantern-nut",
-            "introduce": "<align=justified><size=36><color=black></color>",
-            "info": "<size=36>\n\n<color=black>Toughness: </color><color=#8B0000>4000</color>\n<color=#99582a>Lumos System: </color><color=#8B0000>Provides 1 Lumos Level in a 3×3 Grid. Restores 150 Toughness per Lumos Level every 15s.</color></size>",
-            "cost": "<size=36>Fusion Formula: <color=#8B0000>Wall-nut + Plantern</color>"
+            "name": "Sturdy-shroom",
+            "introduce": "<align=justified><size=36><color=black>Sturdy-shroom was originally shy like other Scaredy-shrooms, until seeing distant relatives with \"Mushroom Power\" on TV — unafraid of zombies. He decided to learn from them, nicknamed himself \"Mushroom Lee,\" and trained day and night to face zombies without fear.</color>",
+            "info": "<size=36>Very slim defender, but will fight back when cornered.\n\n<color=black>Toughness: </color><color=#8B0000>4000</color>\n<color=black>Special: </color><color=#8B0000> After cowering for 10s, immediately stands up and knocks back nearby zombies, dealing 20 damage. For the next 5s, he will not hide himself again. While cowering, takes 50% reduced damage.</color>",
+            "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Wall-nut + Scaredy-shroom</color>"
         },
         {
             "seedType": 1311,
             "name": "Nut-pot",
-            "introduce": "<align=justified><size=36><color=black></color>",
-            "info": "<size=36>\n\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Reduces incoming damage to the plant on top by 20%.\n<color=black>•</color> Immune to Lava tile damage and protects the plant on top.\n<color=black>•</color> Lava tiles deal 50 damage per second to plants and zombies on them, prioritizing Flower Pots, dealing 10 damage to them instead.</color>",
-            "cost": "<size=36>Fusion Formula: <color=#8B0000>Wall-nut > Flower Pot</color>"
+            "introduce": "<align=justified><size=36><color=black>Everyone speculated about Nut-pot's appearance: some said he was a broken nut, others that he was a damaged daruma doll. Whatever others guessed, Nut Flowerpot didn't answer. Those boring past events were buried by lava. \"At least now, I am a Pot,\" he said.</color>",
+            "info": "<size=36>Heat-insulated defensive Flower Pot.\n\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Reduces incoming damage to the plant on top by 20%.\n<color=black>•</color> Immune to Lava tile damage and protects the plant on top.\n<color=black>•</color> Lava tiles deal 50 damage per second to plants and zombies on them, prioritizing Flower Pots, dealing 10 damage to them instead.</color>",
+            "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Wall-nut > Flower Pot</color>"
         },
         {
             "seedType": 1312,
             "name": "Wallop-shroom",
-            "introduce": "<align=justified><size=36><color=black></color>",
-            "info": "<size=36>\n\n<color=black>Toughness: </color><color=#8B0000>4000</color>\n<color=black>Special: </color><color=#8B0000> Picks up Nut-shrooms within a 3×3 area and bats them forward as projectiles. Projectile damage equals the Nut-shroom's HP. If the projectile hits a zombie and deals enough damage to kill it, the shot pierces through, with its damage reduced by the amount dealt.</color>",
-            "cost": "<size=36>Fusion Formula: <color=#8B0000>Wall-nut + Fume-shroom</color>"
+            "introduce": "<align=justified><size=36><color=black>Wallop-shroom trained a batch of Nut-shrooms but didn't teach them combat. When asked, \"How do we defend against zombies?\" he replied: \"With a hard shell and do-or-die determination!\" Then he launched them at the zombies. \"This is a technique I learned from baseball,\" he announced proudly.</color>",
+            "info": "<size=36>Picks up nearby Nut-shrooms to attack.\n\n<color=black>Toughness: </color><color=#8B0000>4000</color>\n<color=black>Special: </color><color=#8B0000> Picks up Nut-shrooms within a 3×3 area and bats them forward as projectiles. Projectile damage equals the Nut-shroom's HP. If the projectile hits a zombie and deals enough damage to kill it, the shot pierces through, with its damage reduced by the amount dealt.</color>",
+            "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Wall-nut + Fume-shroom</color>"
         },
         {
             "seedType": 1313,
             "name": "Tangle-nut",
-            "introduce": "<align=justified><size=36><color=black></color>",
-            "info": "<size=36>\n\n<color=black>Toughness: </color><color=#8B0000>4000</color>\n<color=black>Special: </color><color=#8B0000> When bitten, inflicts 1 Tangle value on the attacker. When crushed, loses 50 HP every 0.02s and inflicts 1 Tangle value each time.</color>",
-            "cost": "<size=36>Fusion Formula: <color=#8B0000>Wall-nut > Tangle Kelp</color>"
+            "introduce": "<align=justified><size=36><color=black>People say he is aloof, tangled in problems, and hard-hearted. But who can deny his desire for solitude? Except Cattail, who sometimes mistakes him for a ball of yarn and plays with him.</color>",
+            "info": "<size=36>Applies Tangle value as retaliation.\n\n<color=black>Toughness: </color><color=#8B0000>4000</color>\n<color=black>Special: </color><color=#8B0000> When bitten, inflicts 1 Tangle value on the attacker. When crushed, loses 50 HP every 0.02s and inflicts 1 Tangle value each time.</color>",
+            "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Wall-nut > Tangle Kelp</color>"
+        },
+        {
+            "seedType": 1314,
+            "name": "Melon Morph",
+            "introduce": "<align=justified><size=36><color=black>Melon Morph used to work at the Electromagnetics Research Institute and once proposed a conjectured model of magnetic poles, suggesting that magnetic poles are distributed like watermelon seeds embedded in a watermelon. However, his theory was ignored, because he was only the institute's watermelon supplier.</color>",
+            "info": "<size=36>Stepping stone for other Metal Melon fusions, also deals heavy damage to helmeted zombies.\n\n<color=black>Damage: </color><color=#8B0000>120/3s</color>\n<color=black>Special: </color><color=#8B0000> Deals 2× damage to Type 1 Armor.</color>",
+            "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Melon-pult + Magnet-shroom</color>"
+        },
+        {
+            "seedType": 1315,
+            "name": "Metal-pult",
+            "introduce": "<align=justified><size=36><color=black>Covering his body in iron saved the Metal-pult from ending up at the fruit stall, but he still faces many troubles, like spending heavily on rust-proofing and constantly answering other curious plants: \"Are your leaves also made of iron? Can iron leaves be used as fruit knives?\"</color>",
+            "info": "<size=36>Lumps heavy balls of pure iron at the zombies, dishing out heavy damage.\n\n<color=black>Toughness: </color><color=#8B0000>2000</color>\n<color=black>Damage: </color><color=#8B0000>200/3s</color>\n<color=black>Special: </color><color=#8B0000> Metal plant.</color>",
+            "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Bucket > Melon Morph</color>"
+        },
+        {
+            "seedType": 1316,
+            "name": "Chrono Melon",
+            "introduce": "<align=justified><size=36><color=black>\"I'm just standing on the shoulders of giants!\" Chrono Melon humbly says. \"I never had the power to reverse time; I only spread temporal chaos.\"</color>",
+            "info": "<size=36>Spreads Chronoshift effect via splash damage.\n\n<color=black>Damage: </color><color=#8B0000>80/3s</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Splash damage is equal to main damage and has no falloff.\n<color=black>•</color> If a zombie directly hit or in splash radius has Chronoshift effect, up to 3 splash targets (6 if buffed by Melon Pot) will also be afflicted with the effect.</color>",
+            "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Chrono Core > Melon Morph</color>"
+        },
+        {
+            "seedType": 1317,
+            "name": "MAD Pepper",
+            "introduce": "<align=justified><size=36><color=black>\"I'm about to explode! Everyone in front of me better watch out, plant or zombie alike! This is mutual destruction, assured!\" said MAD Pepper. His slightly trembling body indicates a massive energy build-up, or maybe it's just from standing on tiptoe and unstable stance.</color>",
+            "info": "<size=36>Burns plants too to trigger chain explosions.\n\n<color=black>Damage: </color><color=#8B0000>1800 (Cremator)</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Does not explode automatically; click manually to trigger a Jalapeno blast and a Doom-shroom explosion.\n<color=black>•</color> In every other tile in the same lane that has a plant, releases a Doom-shroom explosion without leaving craters and destroys all plants in that tile; the destroyed plants have a 25% chance to drop as a Seed packet.</color>",
+            "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Jalapeno + Doom-shroom</color>"
+        },
+        {
+            "seedType": 1318,
+            "name": "Pumpkin Pod",
+            "introduce": "<align=justified><size=36><color=black>Heard that some zombies brought a \"tank\"? Then show them the living machine-gun fortress — Pumpkin Pod! As for ammo… well, the designer forgot to install them! But no problem! Let the coordinating peas \"share\" some ammos!</color>",
+            "info": "<size=36>Copies the behavior of the Pea-shooting plant inside it.\n\n<color=black>Toughness: </color><color=#8B0000>4000</color>\n<color=black>Damage: </color><color=#8B0000>?/3s</color>\n<color=black>Special: </color><color=#8B0000>If a Pea-family plant is inside, it fires once every 3s, matching that plant's projectile count, damage, and type. These shots are considered to be fired by the internal plant.</color>",
+            "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Peashooter > Pumpkin</color>"
         },
         {
             "seedType": 350,
             "name": "Solar-shooter (TD)",
             "introduce": "<align=justified><size=36><color=black>\"Actually, the Sunflower behind me is my sister,\" Solar-shooter explained to everyone. \"We've been inseparable since birth. She loves producing Sun, and I destroy zombies on her behalf.\" But everyone knows the truth: the cheerful Pea brother is a total siscon. After all, every zombie that gets near his sister mysteriously ends up vaporized by sunlight.</color>",
-            "info": "<size=36>Solar-shooter can fire Sun shots that have a chance to produce Sun.\n\n<color=blue>Reversible by pressing R</color>\n<color=black>Damage: </color><color=#8B0000>20/1.5s</color>\n<color=black>Special: </color><color=#8B0000>Shots have a 30% chance to drop 5 Sun when hitting zombies.</color>\n<color=black>Upgrades: </color><color=#8B0000>\n<color=black>• Basic Upgrade: </color>(80 Sun) Attack Damage & Speed +20%\n<color=black>• Elite Upgrade Path 1: </color>(200 Sun) Attack Damage +200%\n<color=black>• Elite Upgrade Path 2: </color>(200 Sun) Attack Speed +100%</color>",
+            "info": "<size=36>Solar-shooter can fire Sun shots that occasionally produce Sun.\n\n<color=blue>Reversible by pressing R</color>\n<color=black>Damage: </color><color=#8B0000>20/1.5s</color>\n<color=black>Special: </color><color=#8B0000>Every third shot drops 5 Sun when hitting targets.</color>\n<color=black>Upgrades: </color><color=#8B0000>\n<color=black>• Basic Upgrade: </color>(80 Sun) Attack Damage & Speed +20%\n<color=black>• Elite Upgrade Path 1: </color>(200 Sun) Attack Damage +200%\n<color=black>• Elite Upgrade Path 2: </color>(200 Sun) Attack Speed +100%</color>",
             "cost": "<size=36>Cost: <color=#8B0000>200</color>\nRecharge: <color=#8B0000>7.5s</color></size>"
         },
         {
@@ -3177,6 +3226,27 @@
             "introduce": "<align=justified><size=36><color=black>\"Coach, I want to play basketball.\" Drippy Pitcher has always dreamed of becoming a basketball star. He practices shooting day and night without rest. He has two advantages: first, he kind of looks like a basketball hoop; second, he has an endless supply of basketballs to practice with. For heaven's sake, don't ask what those balls are made of.</color>",
             "info": "<size=36>Lobs droplet shells that bounce between the zombie and other Drippy Pitchers.\n\n<color=black>Damage: </color><color=#8B0000>40/3s</color>\n<color=black>Range: </color><color=#8B0000>Within 2 tiles in all four directions</color>\n<color=black>Special: </color><color=#8B0000>Projectiles rebound to nearby other Drippy Pitchers on hit, prompting them to immediately attack twice.</color>\n<color=black>Upgrades: </color><color=#8B0000>\n<color=black>• Basic Upgrade: </color>(120 Sun) Attack Damage & Speed +20%\n<color=black>• Elite Upgrade Path 1: </color>(300 Sun) Attack Damage +200%\n<color=black>• Elite Upgrade Path 2: </color>(300 Sun) Attack Speed +100%, projectiles can now rebound to self</color>",
             "cost": "<size=36>Cost: <color=#8B0000>300</color>\nRecharge: <color=#8B0000>7.5s</color></size>"
+        },
+        {
+            "seedType": 366,
+            "name": "Lilyp Pad (TD)",
+            "introduce": "<align=justified><size=36><color=black>Lily Pad never complains. Lily Pad never wants to know what's going on. Put a plant on top of Lily Pad, he won't say a thing. Does he have startling opinions or shocking secrets? Nobody knows. Lily Pad keeps it all inside.</color></size>",
+            "info": "<size=36>Lily Pads let you plant non-aquatic plants on top of them.\n\n<color=black>Special: </color><color=#8B0000>Non-aquatic plants can be planted on it. Short plant.</color></size>",
+            "cost": "<size=36>Cost: <color=#8B0000>25</color>\nRecharge: <color=#8B0000>7.5s</color></size>"
+        },
+        {
+            "seedType": 367,
+            "name": "Squash-nut (TD)",
+            "introduce": "<align=justified><size=36><color=black>Dragged from a kids' playground by his stem and dumped on the lawn, Squash-nut was rejected for being a deformed rubber ball. Now, furious and bumpy, he bounces wildly, yelling: \"I'm gonna play all I want! ALL I WANT!\"</color>",
+            "info": "<size=36>A bouncy nut who's all tantrum and impact.\n\n<color=black>Toughness: </color><color=#8B0000>1000</color>\n<color=black>Damage: </color><color=#8B0000>80/1.5s</color>\n<color=black>Special: </color><color=#8B0000>Bounces in his tile when a zombie gets close, dealing splash damage on each landing. Does not block zombies while airborne.</color>\n<color=black>Upgrades: </color><color=#8B0000>\n<color=black>• Basic Upgrade: </color>(30 Sun) Attack Damage +50%\n<color=black>• Elite Upgrade Path 1: </color>(75 Sun) Heals 50% of damage dealt\n<color=black>• Elite Upgrade Path 2: </color>(75 Sun) Each target hit grants +50% extra damage</color>",
+            "cost": "<size=36>Cost: <color=#8B0000>75</color>\nRecharge: <color=#8B0000>30s</color></size>"
+        },
+        {
+            "seedType": 368,
+            "name": "Threepeatato Mine (TD)",
+            "introduce": "<align=justified><size=36><color=black>Threepeatato Mine loves playing tricks underground. It shoots out surprises not once, not twice, but thrice—like a cheeky prankster with a never-ending stash of boom. Watch your step, or you might get a triple whammy that’ll blow your boots off.\n\n- Written by Mrs. Draco</color>",
+            "info": "<size=36>Threepeatato Mine resurfaces after exploding and fires potatoes across three lanes.\n\n<color=blue>Reversible by pressing R</color>\n<color=black>Damage: </color><color=#8B0000>20×3/1.5s</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Short plant (evades straight-firing projectiles).\n<color=black>•</color> When armed, explodes on contact, dealing 5400 damage, knocks back for 1 tile and retreats into the ground.\n<color=black>•</color> Re-emerges 15s after exploding. Explodes and disappears immediately upon contact with vehicles.</color>\n<color=black>Upgrades: </color><color=#8B0000>\n<color=black>• Basic Upgrade: </color>(160 Sun) Attack Damage +50%\n<color=black>• Elite Upgrade Path 1: </color>(400 Sun) Attack Damage +200%\n<color=black>• Elite Upgrade Path 2: </color>(400 Sun) Now unleashes an Ultimate move every 60s, firing 250 shots straight ahead over 5s, plus 500 more in a 0-45° spread</color>",
+            "cost": "<size=36>Cost: <color=#8B0000>400</color>\nRecharge: <color=#8B0000>30s</color></size>"
         },
         {
             "seedType": 1802,
