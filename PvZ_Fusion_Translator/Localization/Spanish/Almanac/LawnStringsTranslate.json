@@ -163,7 +163,6 @@
       "info": "<size=39>Los Treboladores resoplan la niebla y a los zombis con globo comunes.\n\n<color=#3D1400>Uso: </color><color=red>Único, Instantáneo</color>\n<color=#3D1400>Especial: </color><color=red>Erradica la niebla por 24s y a todos los zombis con globo. Retrocede ligeramente a los Zomppelin.</color>\n<color=#3D1400>Nombre Científico: </color><color=red>Gigantrifolium ventosus</color></size>",
       "cost": "<size=39>Costo: <color=red>100</color>\nRecarga: <color=red>15 Segundos</color></size>"
     },
-
     {
       "seedType": 23,
       "name": "Frustrella",
@@ -1046,29 +1045,29 @@
     {
     "seedType": 229,
     "name": "Trebolador Suertudo",
-   "introduce": "<size=39><color=#3D1400>INTRO</color></size>",
+   "introduce": "<size=39><color=#3D1400>El Trebolador Suertudo nunca consideró que el número cuatro fuera de mala suerte, pues creía que su adorable apariencia y buena fortuna cambiarían la percepción que las plantas tenían de él. Sin embargo, en comparación con sus sentimientos sobre el número cuatro, las plantas estaban más preocupadas pensando en qué tipo de viento que podía alterar el interior de una caja apretada.</color></size>",
    "info": "<size=39>Mejora las chances de que aparezcan plantas poderosas en Regalos Planta.</color>\n\n<color=#3D1400>Uso:</color> <color=red>Único, Instantáneo\n<color=#3D1400>Especial:</color> <color=red>Tras plantar un Trebolador Suertudo, el próximo Regalo Planta que plantes dará una Fusión Avanzada en niveles normales (Plantas como Hamburgueso y Deportralladora entran en esta categoría), y una Fusión Odisea en niveles Gacha Odisea.</color></size>",
   "cost": "<size=39>Costo: <color=red>200</color>\nRecarga: <color=red>50 Segundos</color></size>"
  },
  {
     "seedType": 230,
     "name": "Seta Lúmina (NV1)",
-   "introduce": "<size=39><color=#3D1400>INTRO</color></size>",
-   "info": "<size=39>Parte del <color=#104f30>Sistema Lúmina</color>\nUna Seta Solar que utiliza métodos complicados para generar más Sol.\n<color=blue>Planta de la colaboración con PvZ: Symbiosis</color></color>\n\n<color=#3D1400>Producción Solar: </color><color=red>20→35 cada 25s</color>\n<color=#3D1400>Especial:</color> <color=red>Las Setas Solares se convierten en Setas Lúminas y consiguen la habilidad <b>Lumi-Sol</b> después de 150s si el Nivel Lúmina en su casilla es 1 o mayor. Cada Nivel Lúmina acelera los cambios de fases por 100%.\n<size=39><color=#3D1400>Habilidades:</color> <color=red>\n- Lumi-Sol:\nProduce soles con un valor de 20 (35 al crecer).\n<size=39><color=#3D1400>Fórmula de Fusión:</color> <color=red>Seta Solar + 1 Nivel Lúmina</color></size>",
+   "introduce": "<size=39><color=#3D1400>La Seta Lúmina quedó fascinado la primera vez que vio luciérnagas de niña. La luz parpadeante en la hierba, su vida tan hermosa y fugaz, pero como luces y estrellas, pintaba una imagen onírica en el cielo; quizá por eso contempla las luciérnagas que ha creado con alegría, en lugar de disgusto.</color></size>",
+   "info": "<size=39>Parte del <color=#104f30>Sistema Lúmina</color>\nUna Seta Solar que utiliza métodos complicados para generar más Sol.\n<color=blue>Planta de la colaboración con PvZ: Symbiosis</color></color>\n\n<color=#3D1400>Producción Solar: </color><color=red>20→35 cada 25s</color>\n<color=#3D1400>Especial:</color> <color=red>Las Setas Solares se convierten en Setas Lúminas y consiguen la habilidad <i>Lumi-Sol</i> después de 150s si el Nivel Lúmina en su casilla es 1 o mayor. Cada Nivel Lúmina acelera los cambios de fases por 100%.\n<size=39><color=#3D1400>Habilidades:</color> <color=red>\n- Lumi-Sol:\nProduce soles con un valor de 20 (35 al crecer).\n<size=39><color=#3D1400>Fórmula de Fusión:</color> <color=red>Seta Solar + 1 Nivel Lúmina</color></size>",
    "cost": "<size=39>Costo: <color=red>50, 125</color>   Recarga: <color=red>15 Segundos</color>\nPlantas Requeridas: <color=red>2 (+ 1 Nivel Lúmina)</color></size>"
         },
         {
     "seedType": 231,
     "name": "Seta Lúmina (NV2)",
-   "introduce": "<size=39><color=#3D1400>INTRO</color></size>",
-   "info": "<size=39>Parte del <color=#104f30>Sistema Lúmina</color>\nUna Seta Solar que utiliza métodos complicados para generar más Sol.\n<color=blue>Planta de la colaboración con PvZ: Symbiosis</color></color>\n\n<color=#3D1400>Producción Solar: </color><color=red>20 (Pequeña) 35 (Crecida) cada 25s</color>\n<color=#3D1400>Especial:</color> <color=red>Hereda todas las características de su fase anterior. Después de unos 150s adicionales, consigue la habilidad <b>Lumi-Hada</b>. Cada Nivel Lúmina acelera los cambios de fases por 100%.</color>\n<size=39><color=#3D1400>Habilidades:</color> <color=red>\n- Lumi-Sol:\nProduce soles con un valor de 20 (35 al crecer).\n- Lumi-Hada\nCuando un zombi muerde una Seta Lúmina, una Lumi-Hada empieza a seguirlo (dos si la Seta Lúmina esta crecida). Cada vez que un zombi seguido recibe daño, una Lumi-Hada sale volando y produce un pequeño Lumi-Sol. Cuando el zombi muere, todos las Lumi-Hadas que lo siguen se liberan, dejando caer la misma cantidad de Lumi-Soles. Un zombi puede tener hasta 20 Lumi-Hadas siguiéndolo a la vez.\n<size=39><color=#3D1400>Fórmula de Fusión:</color> <color=red>Seta Solar + 2 Niveles Lúmina</color></size>",
+   "introduce": "<size=39><color=#3D1400>No fue hasta que escuchó la historia de \"La Hierba Podrida se Convierte en Luciérnagas\" que Seta Lúmina comprendió por qué sus amigas luciérnagas nunca se entristecieron al despedirse de ella: veían cada reencarnación como una gran cita, no como el fin de la vida. \"Estamos destinados a separarnos, pero también nos volveremos a encontrar\".</color></size>",
+   "info": "<size=39>Parte del <color=#104f30>Sistema Lúmina</color>\nUna Seta Solar que utiliza métodos complicados para generar más Sol.\n<color=blue>Planta de la colaboración con PvZ: Symbiosis</color></color>\n\n<color=#3D1400>Producción Solar: </color><color=red>20 (Pequeña) 35 (Crecida) cada 25s</color>\n<color=#3D1400>Especial:</color> <color=red>Hereda todas las características de su fase anterior. Después de unos 150s adicionales, consigue la habilidad <i>Lumi-Hada</i>. Cada Nivel Lúmina acelera los cambios de fases por 100%.</color>\n<size=39><color=#3D1400>Habilidades:</color> <color=red>\n- Lumi-Sol:\nProduce soles con un valor de 20 (35 al crecer).\n- Lumi-Hada\nCuando un zombi muerde una Seta Lúmina, una Lumi-Hada empieza a seguirlo (dos si la Seta Lúmina esta crecida). Cada vez que un zombi seguido recibe daño, una Lumi-Hada sale volando y produce un pequeño Lumi-Sol. Cuando el zombi muere, todos las Lumi-Hadas que lo siguen se liberan, dejando caer la misma cantidad de Lumi-Soles. Un zombi puede tener hasta 20 Lumi-Hadas siguiéndolo a la vez.\n<size=39><color=#3D1400>Fórmula de Fusión:</color> <color=red>Seta Solar + 2 Niveles Lúmina</color></size>",
    "cost": "<size=39>Costo: <color=red>50, 125</color>   Recarga: <color=red>15 Segundos</color>\nPlantas Requeridas: <color=red>2 (+ 2 Niveles Lúmina)</color></size>"
         },
         {
     "seedType": 232,
     "name": "Seta Lúmina (NV3)",
-   "introduce": "<size=39><color=#3D1400>INTRO</color></size>",
-   "info": "<size=39>Parte del <color=#104f30>Sistema Lúmina</color>\nUna Seta Solar que utiliza métodos complicados para generar más Sol.\n<color=blue>Planta de la colaboración con PvZ: Symbiosis</color></color>\n\n<color=#3D1400>Producción Solar: </color><color=red>20→35 cada 25s</color>\n<color=#3D1400>Especial:</color> <color=red>Hereda las características de sus fases anteriores. Tras unos otros 150s, finalmente consigue la habilidad <b>Lumi-Estallo</b>. Cada Nivel Lúmina acelera los cambios de fases por 100%.</color>\n<size=39><color=#3D1400>Habilidades:</color> <color=red>\n- Lumi-Sol:\nProduce soles con un valor de 20 (35 al crecer).\n- Lumi-Hada\nCuando un zombi muerde una Seta Lúmina, una Lumi-Hada empieza a seguirlo (dos si la Seta Lúmina esta crecida). Cada vez que un zombi seguido recibe daño, una Lumi-Hada sale volando y produce un pequeño Lumi-Sol. Cuando el zombi muere, todos las Lumi-Hadas que lo siguen se liberan, dejando caer la misma cantidad de Lumi-Soles. Un zombi puede tener hasta 20 Lumi-Hadas siguiéndolo a la vez.\n- Lumi-Estallo\nCuando una Seta Lúmina muere, todos los zombis en un radio pequeño son seguidos por cinco Lumi-Hadas (mayor radio cuando crecen).</color>\n<size=39><color=#3D1400>Fórmula de Fusión:</color> <color=red>Seta Solar + 3 Niveles Lúmina</color></size>",
+   "introduce": "<size=39><color=#3D1400>\"Si alzas la vista y ves luciérnagas revoloteando, soy yo, regresando a tu lado.\" La Seta Lúmina nunca teme a la muerte. Nacido de la hierba en descomposición, floreciendo a finales del verano, su firme abrazo a la muerte agita el preludio del renacimiento. Al caer la noche, el mundo queda en silencio y el ciclo del yin y el yang continúa perpetuamente.</color></size>",
+   "info": "<size=39>Parte del <color=#104f30>Sistema Lúmina</color>\nUna Seta Solar que utiliza métodos complicados para generar más Sol.\n<color=blue>Planta de la colaboración con PvZ: Symbiosis</color></color>\n\n<color=#3D1400>Producción Solar: </color><color=red>20→35 cada 25s</color>\n<color=#3D1400>Especial:</color> <color=red>Hereda las características de sus fases anteriores. Tras unos otros 150s, finalmente consigue la habilidad <i>Lumi-Estallo</i>. Cada Nivel Lúmina acelera los cambios de fases por 100%.</color>\n<size=39><color=#3D1400>Habilidades:</color> <color=red>\n- Lumi-Sol:\nProduce soles con un valor de 20 (35 al crecer).\n- Lumi-Hada\nCuando un zombi muerde una Seta Lúmina, una Lumi-Hada empieza a seguirlo (dos si la Seta Lúmina esta crecida). Cada vez que un zombi seguido recibe daño, una Lumi-Hada sale volando y produce un pequeño Lumi-Sol. Cuando el zombi muere, todos las Lumi-Hadas que lo siguen se liberan, dejando caer la misma cantidad de Lumi-Soles. Un zombi puede tener hasta 20 Lumi-Hadas siguiéndolo a la vez.\n- Lumi-Estallo\nCuando una Seta Lúmina muere, todos los zombis en un radio pequeño son seguidos por cinco Lumi-Hadas (mayor radio cuando crecen).</color>\n<size=39><color=#3D1400>Fórmula de Fusión:</color> <color=red>Seta Solar + 3 Niveles Lúmina</color></size>",
    "cost": "<size=39>Costo: <color=red>50, 125</color>   Recarga: <color=red>15 Segundos</color>\nPlantas Requeridas: <color=red>2 (+ 3 Niveles Lúmina)</color></size>"
         },
         {
@@ -1400,21 +1399,21 @@
     {
       "seedType": 300,
       "name": "Espadachín Astral",
-      "introduce": "<size=39><color=#3D1400>“Un salón lleno de flores embriaga a tres mil invitados, una espada helada enfría catorce estados.” “El emperador me llama, pero no subo a su barco; yo digo que soy el inmortal del vino.” El Espadachín Astral, cuando está borracho, disfruta recitando poesía y practicando su técnica de espada ebria. Las plantas se maravillan ante su poder para derrotar zombis, pero él dice que apunta su espada voladora a la luna en los nueve cielos, y que al recogerla, esta cae de vuelta a la tierra.</color></size>",
+      "introduce": "<size=39><color=#3D1400>\"Un salón lleno de flores embriaga a tres mil invitados, una espada helada enfría catorce estados.\" \"El emperador me llama, pero no subo a su barco; yo digo que soy el inmortal del vino.\" El Espadachín Astral, cuando está borracho, disfruta recitando poesía y practicando su técnica de espada ebria. Las plantas se maravillan ante su poder para derrotar zombis, pero él dice que apunta su espada voladora a la luna en los nueve cielos, y que al recogerla, esta cae de vuelta a la tierra.</color></size>",
       "info": "<size=39>Una leyenda en persona, será mejor que te prepares para su espectáculo.\n\n<color=#3D1400>Daño: </color><color=red>1800</color>\n<color=#3D1400>Especial: </color><color=red>Cuando hay zombis cerca, invoca una espada de luz que causa gran daño a los zombis cercanos, y luego invoca 10 espadas grandes que caen del cielo, causando 1800 de daño al impactar.</color></size>",
   "cost": "<color=purple><size=33>Condición de Uso:\nModo Abismo | NV10 a NV30\nPurgatorio Maldito | Modificador</color></size>"
  },
  {
     "seedType": 301,
     "name": "Comandante Carmesí",
-   "introduce": "<size=39><color=#3D1400>INTRO</color></size>",
+   "introduce": "<size=39><color=#3D1400>Las demás plantas siempre envidiaban la potente potencia explosiva de el Comandante Carmesí. \"La genialidad no existe; esto es solo mi esfuerzo y sudor\", explicaba siempre, aunque solo era que se sujetaba a sí mismo los cañones de las armas de otras plantas en secreto.</color></size>",
    "info": "<size=39>Dispara cerezas explosivas a una velocidad aterradora.</color>\n\n<color=#3D1400>Daño:</color> <color=red>300\n<color=#3D1400>Especial:</color> <color=red>Dispara cerezas explosivas a una velocidad grande después de cargarse durante un breve periodo de tiempo.</color></size>",
   "cost": "<color=purple>Condición de Uso: Modo Misterioso | Planta Odisea Legendaria</color></size>"
  },
  {
     "seedType": 302,
     "name": "Sangreomenia",
-   "introduce": "<size=39><color=#3D1400>INTRO</color></size>",
+   "introduce": "<size=39><color=#3D1400>\"La luna de sangre amanece. ¿No lo sientes?\" Dice Sangreomenia, casi callada. \"Gotas rojas cayendo, luces parpadeando, espinas afilandose... Resistir es inútil, mounstros sin cerebro. Arrodillense ante mi y les ayudare estar en mi lado bueno.\"</color></size>",
    "info": "<size=39>Crea lunas de sangre que invocan zombis.</color>\n\n<color=#3D1400>Especial:</color> <color=red>\n- Tiene un 2% de aparecer al intentar fusionar a Seleneomenia durante niveles de Noche (excluyendo Niebla, etc).\n- Hereda la mayoria de las características de Seleneomenia, y solo puedes tener uno en los Modos Odisea.\n- Cuando Sangreomenia está en el campo, las Mini-Lunas de Seleneomenia se convierten en Mini-Lunas Sangrientas. Estas ya no brindan salud, pero invocan zombis hipnotizados fuertes cada 10s.\n- La primera invocación tiene una recarga de 3s. Cada Sangreomenia brinda +50% Durabilidad y Daño a los zombis invocados.\n- El numero y posición de las invocaciones dependen en \"casillas vacias\", definidas como casillas sin un Sangreomenia o Seleneomenia en ellas o alrededor de ellas.</color></size>",
    "cost": "<color=purple>Condición de Uso: Modo Misterioso | Planta Odisea Legendaria (Easter Egg)</color></size>"
  },
@@ -1715,35 +1714,35 @@
       "seedType": 365,
       "name": "Planta Cántaro (TD)",
       "introduce": "<size=39><color=#3D1400>\u0022 Entrenador, quiero jugar baloncesto.\u0022  Planta Cántaro siempre ha soñado con convertirse en una estrella del baloncesto. Practica lanzar día y noche sin descansar. Tiene dos ventajas: primero, se parece un poco a un aro de baloncesto; segundo, tiene un suministro interminable de balones de baloncesto para practicar. Por el amor de Dios, no preguntes de qué están hechos esos balones.</color></size>",
-      "info": "<size=39>Lanza conchas que rebotan entre un zombi y otras Plantas Cántaro.\n\n<color=#3D1400>Daño:</color> <color=red>40 cada 3s\n<color=#3D1400>Rango:</color> <color=red>Entre 2 casillas en todas las 4 direcciones.\n<color=#3D1400>Especial:</color> <color=red>Los proyectiles rebotan en otras Plantas Cántaro cercanas al impactar, lo que los hace atacar de inmediato dos veces.</color>\n\n<color=purple>Mejoras:</color>\n</color></color>- Mejora Básica (120 Soles): Velocidad y Daño de ataque +20%\n- Mejora Avanzada I (300 Soles): Daño de Ataque +200%\n- Mejora Avanzada II (300 Soles): Velocidad de Ataque +100%, Proyectiles ahora pueden rebotar sobre sí mismos.</color></size>",
+      "info": "<size=39>Lanza conchas que rebotan entre un zombi y otras Plantas Cántaro.\n\n<color=#3D1400>Daño:</color> <color=red>40 cada 3s\n<color=#3D1400>Rango:</color> <color=red>Entre 2 casillas en todas las 4 direcciones.\n<color=#3D1400>Especial:</color> <color=red>Los proyectiles rebotan en otras Plantas Cántaro cercanas al impactar, lo que los hace atacar de inmediato dos veces.</color>\n\n<color=purple>Mejoras:</color>\n</color></color>- Mejora Básica (120 Soles): Velocidad y Daño de ataque +20%\n- Mejora Avanzada I (300 Soles): Daño de Ataque +200%\n- Mejora Avanzada II (300 Soles): Velocidad de Ataque +100%, Proyectiles ahora pueden rebotar sobre sí mismos</color></size>",
       "cost": "<size=39>Costo: <color=red>300</color>\nRecarga: <color=red>7,5 Segundos</color></size>"
     },
     {
       "seedType": 366,
       "name": "Nenúfar (TD)",
       "introduce": "<size=39><color=#3D1400>Nenúfar nunca se queja. Nenúfar nunca quiere saber qué está pasando. Ponga una planta encima de Nenúfar y no dirá nada. ¿Tiene opiniones sorprendentes o secretos chocantes? Nadie lo sabe. Nenúfar se lo guarda todo dentro.</color></size>",
-      "info": "<size=39>Los Nenúfares te permiten cultivar plantas no acuáticas encima de ellos.\n\n<color=#3D1400>Especial:</color><color=red>Permite colocar plantas no acuáticas en el agua.</color></size>",
+      "info": "<size=39>Los Nenúfares te permiten cultivar plantas no acuáticas encima de ellos.\n\n<color=#3D1400>Especial:</color> <color=red>Permite colocar plantas no acuáticas en el agua.</color></size>",
       "cost": "<size=39>Costo: <color=red>25</color>\nRecarga: <color=red>7,5 Segundos</color>"
     },
     {
       "seedType": 367,
       "name": "Apisonanuez (TD)",
       "introduce": "<size=39><color=#3D1400>Arrastrado de un parque infantil por el tallo y tirado en el jardín, Apisonanuez fue rechazado por ser una pelota de goma deformada. Ahora, furioso y rebotando, rebota como un loco, gritando: \u0022¡Voy a jugar todo lo que quiera! ¡TODO LO QUE QUIERA!\u0022.</color></size>",
-      "info": "<size=39>Una nuez rebotante que es todo rabietas e impacto.</color>\n\n<color=#3D1400>Dureza: </color><color=red>1000</color>\n<color=#3D1400>Daño:</color> <color=red>TBD\n<color=#3D1400>Especial:</color> <color=red>Salta en su casilla cuando un zombi se acerca, haciendo daño con salpicadura por cada salto. No bloquea zombis mientras esta en el aire.</color>\n\n<color=purple>Mejoras:<color=red>\n- Mejora Básica (X Soles): BASICUPGRADE\n- Mejora Avanzada I (X Soles): UPGRADE1\n- Mejora Avanzada II (X Soles): UPGRADE2</color></size>",
-      "cost": "<size=39>Costo: <color=red>75</color>   Recarga: <color=red>?? Segundos</color>\nPlantas Requeridas: <color=red>2</color></size>"
+      "info": "<size=39>Una nuez rebotante que es todo rabietas e impacto.</color>\n\n<color=#3D1400>Dureza: </color><color=red>1000</color>\n<color=#3D1400>Daño:</color> <color=red>80 cada 1,5s\n<color=#3D1400>Especial:</color> <color=red>Salta en su casilla cuando un zombi se acerca, haciendo daño con salpicadura por cada salto. No bloquea zombis mientras esta en el aire.</color>\n\n<color=purple>Mejoras:<color=red>\n- Mejora Básica (30 Soles): Daño de Ataque +50%\n- Mejora Avanzada I (75 Soles): Cura el 50% del daño infligido\n- Mejora Avanzada II (75 Soles): Cada objetivo alcanzado otorga un 50% más de daño adicional</color></size>",
+      "cost": "<size=39>Costo: <color=red>75</color>\nRecarga: <color=red>30 Segundos</color>"
     },
     {
       "seedType": 368,
       "name": "Tripitipum (TD)",
       "introduce": "<size=39><color=#3D1400>Las Tripitipum aman hacer travesuras bajo tierra. Lanza sorpresas no una, ni dos, sino tres veces—como unos bromistas descarados con una reserva interminable de explosiones. Mira por dónde pisas, o podrías llevarte una triple sacudida que te hará volar las botas.</color></size>",
-      "info": "<size=39>Las Tripitipum resurgen después de explotar y disparan patatas a través de tres filas.\nAntes de plantar, puedes presionar R para voltearlo.</color>\n\n<color=#3D1400>Daño: </color><color=red>TBD</color>\n<color=#3D1400>Tiempo De Armado: </color><color=red>TBD</color>\n<color=#3D1400>Especial:</color> <color=red>Mientras más se acerca un zombi, más rápido disparará hasta un límite de 0,5s por ataque. Al explotar, empuja a los zombis que sobrevivieron por una casilla. Después de explotar, resurgen despues de 14s. Solo muere al ser comido o al ser aplastado.</color>\n\n<color=purple>Mejoras:<color=red>\n- Mejora Básica (X Soles): BASICUPGRADE\n- Mejora Avanzada I (X Soles): UPGRADE1\n- Mejora Avanzada II (X Soles): UPGRADE2</color></size>",
-      "cost": "<size=39>Costo: <color=red>X</color>\nRecarga: <color=red>X Segundos</color></size>"
+      "info": "<size=39>Las Tripitipum resurgen después de explotar y disparan patatas a través de tres filas.</color>\n\n<color=#3D1400>Daño: </color><color=red>20*3 cada 1,5s (Proyectiles), 5400 (área de 1x1) (Explosión)</color>\n<color=#3D1400>Tiempo De Armado: </color><color=red>14s</color>\n<color=#3D1400>Especial:</color> <color=red>Mientras más se acerca un zombi, más rápido disparará hasta un límite de 0,5 segundos. Al explotar, empuja a los zombis que sobrevivieron por una casilla. Resurgen despues de 14s. Solo muere al ser comido o al ser aplastado.</color>\n\n<color=purple>Mejoras:<color=red>\n- Mejora Básica (160 Soles): Daño de Ataque +50%\n- Mejora Avanzada I (400 Soles): Daño de Ataque +200%\n- Mejora Avanzada II (400 Soles): Ahora desata un gran ataque cada 60s, disparando 250 proyectiles en línea recta durante 5s, más 500 más en un rango de 0 a 45°</color></size>",
+      "cost": "<size=39>Costo: <color=red>400</color>\nRecarga: <color=red>30s Segundos</color></size>"
     },
     {
    "seedType": 369,
    "name": "Zampalga Voraz (TD)",
       "introduce": "<size=39><color=#3D1400>Zampalga Voraz destaca como un verdadero filósofo entre las plantas. A menudo murmura, \"¿Soy el calabacín o soy el alga?\" o reflexiona sobre preguntas profundas como, \"¿De dónde viene la hierba y a dónde va?\" Sin embargo, su desinterés por la higiene personal y su cabello desaliñado hacen que las demás plantas prefieran mantener distancia.</color></size>",
-   "info": "<size=39>Zampalga Voraz puede arrastrar tres zombis al agua.\n\n<color=#3D1400>Daño:</color> <color=red>Muerte Instantánea*3\n\n<color=purple>Mejoras:<color=red>\n- Mejora Básica (X Soles): BASICUPGRADE\n- Mejora Avanzada I (X Soles): UPGRADE1\n- Mejora Avanzada II (X Soles): UPGRADE2</color></size>",
+   "info": "<size=39>Zampalga Voraz puede arrastrar tres zombis al agua.\n\n<color=#3D1400>Daño:</color> <color=red>Muerte Instantánea*3\n<color=#3D1400>Uso:</color> <color=red>Tres veces, al contacto\n\n<color=purple>Mejoras:<color=red>\n- Mejora Básica (X Soles): BASICUPGRADE\n- Mejora Avanzada I (X Soles): UPGRADE1\n- Mejora Avanzada II (X Soles): UPGRADE2</color></size>",
    "cost": "<size=39>Costo: <color=red>X</color>\nRecarga: <color=red>X Segundos</color></size>"
  },
  {
@@ -4207,22 +4206,22 @@
   {
    "seedType": 954,
    "name": "Nova Noble",
-   "introduce": "<size=39><color=#3D1400>INTRO</color></size>",
+   "introduce": "<size=39><color=#3D1400>Nova Noble es la Reina del Reino Solar y una cantante de renombre. Su canción, \"Bailando bajo el Atardecer\", se ha convertido en un éxito mundial, e incluso el Dr. Zomboss, según se dice, posee una copia. Aún más destacable es su carácter accesible, ya que disfruta interactuando con su gente y fans. Sin embargo, ten cuidado de no acercarte demasiado, ya que su entusiasmo puede quemarte.</color></size>",
    "info": "<size=39>Consume proyectiles y los usa para crear rayos solares.\n\n<color=#3D1400>Producción Solar: </color><color=red>50 cada 3s</color>\n<color=#3D1400>Daño:</color> <color=red>1800\n\n<color=#3D1400>Especial:</color> <color=red>\n- Genera Sol y consume los proyectiles de las plantas cercanas para absorber energía (1 daño = 1 energía).\n- La energía tiene un límite de daño de ataque x4; el exceso de energía se convierte en Sol (1 proyectil = 5 soles).\n- Cuando la energía supera el daño de ataque, dispara un proyectil solar que explota al impactar e inflige 100% de daño en un área pequeña.\n- Usar un Grano de Café alterna entre modos activo e inactivo. No ataca en dicho modo inactivo.\n\n<color=purple>Mejoras de Odisea:</color>\n</color></color></color>- Cuando un rayo solar impacta a un zombi, provoca que los proyectiles cercanos también exploten, lo que inflige un 10% de daño</color>\n- Límite de energia y producción solar x3</color>\n\n<color=#3D1400>Fórmula de Fusión: </color><color=red>Fulgirasol + Girasol Dorado</color></size>",
    "cost": "<size=33>Costo: <color=red>300 (+($3000*2)*X)</color>   Recarga: <color=red>30 Segundos</color>\nPlantas Requeridas: <color=red>4\n<color=purple>Condición de Uso: Modo Odisea - Desbloqueable</color></size>"
  },
  {
    "seedType": 955,
    "name": "Seleneomenia",
-   "introduce": "<size=39><color=#3D1400>INTRO</color></size>",
+   "introduce": "<size=39><color=#3D1400>Ella es la Diosa de la Luna, la personificación de la tranquilidad y la sanación. Dondequiera que pisa, se derrama una luz plateada, el dolor sana silenciosamente y todo se sumerge en una suave sanación. Ella se eleva sobre el cielo nocturno, armonizando el balance de todo con el poder de las mareas, otorgando a todos los seres una vitalidad inagotable.</color></size>",
    "info": "<size=39>Parte del <color=#104f30>Sistema Lúmina</color>\nCura a plantas con sus Mini-Lunas.\n<color=#104f30>Sistema Lúmina:</color>\n- Proyectiles ganan +100 de daño por Nivel Lúmina (hasta 500).\n\n<color=#3D1400>Daño:</color> <color=red>300*5 cada 1,5s\n\n<color=#3D1400>Especial:</color> <color=red>\n- Subespecie de Heliocultor que se puede cambiar entre Planterna y Girasol.\n- Invoca una Mini-Luna cada 30s. Esta Mini-Luna permanece por 15s y cura a todas las plantas por 50*(cantidad de Seleneomenias en el campo) PS por segundo. Este efecto es triplicado en la planta con la menor cantidad de PS.\n- Si un Mini-Sol también está presente, los efectos de curación serán duplicados.\n- El primer modificador de Heliocultor incrementa el bonus de daño de Seleneomenia a +300 por Nivel Lúmina, el límite ahora siendo 1500; el segundo triplica el poder de curación.\n\n<color=purple>Mejoras Mutuas:</color></color></color></color>\n- Debes tener todos los modificadores de Emperador Estelar y Heliocultor para tener la chance de obtener este modificador en la tienda.\n- Al tener 10 Emperadores Estelares y 10 Seleneomenias, la Mini-Luna de Seleneomenia ya no desaparecerá.\n- Cada Emperador Estelar y Seleneomenia canalizará un laser a la Mini-Luna, los cuales se combinarán a un solo laser concentrado. Daño del Laser: 100*(plantas canalizando) cada 0,02s, siempre centrándose en el zombi con la mayor cantidad de PS.\n- El daño aumenta linealmente con el tiempo al enfocarse en un solo objetivo.</color>\n\n<color=#3D1400>Fórmula de Fusión: </color><color=red>Heliocultor + Planterna</color></size>",
       "cost": "<size=33>Costo: <color=red>300</color>   Recarga: <color=red>37,5 Segundos</color>\nPlantas Requeridas: <color=red>5\n<color=purple>Condición de Uso: Modo Odisea - Desbloqueable</color></size>"
     },
     {
    "seedType": 956,
    "name": "Parcarnívora",
-   "introduce": "<size=39><color=#3D1400>INTRO</color></size>",
-   "info": "<size=39>INFO\n\n<color=#3D1400>Daño: </color><color=red>1800</color>\n<color=#3D1400>Uso:</color> <color=red>Manual\n<color=#3D1400>Tiempo de Masticado:</color> <color=red>30s\n\n<color=#3D1400>Especial:</color> <color=red>Al cliquearla, libera una explosión de Petaseta y Jalapeño una casilla adelante. Si hay una planta en esa casilla, Parcarnívora la eliminará y tendrá un 50% de probabilidad de que vuelva esa planta como un paquete de semillas. Las plantas maldecidas siempre soltarán su paquete de semillas al ser eliminadas por Parcarnívora, y quitará 15% de la durabilidad máxima de el que aplicó la maldición.\n\n<color=purple>Mejoras de Odisea:</color>\n</color></color></color>- Las plantas siempre vuelven como paquetes de semillas al ser eliminadas por Parcarnívora</color>\n- Si Parcarnívora elimina una planta odisea con un efecto al morir, este se activará 5 veces</color>\n\n<color=#3D1400>Fórmula de Fusión: </color><color=red>Planta Maldívora + Jalapeño</color></size>",
+   "introduce": "<size=39><color=#3D1400>Poseedora del aterrador poder de sellar la vida en silencio, la Parcarnívora ha dedicado años a su gran causa: \"Concederé vida eterna a todas las cosas, congelaré el tiempo en un instante de dicha, y de ahora en adelante, no habrá guerra ni tragedia en este mundo. Todo el dolor recaerá solo sobre mí\". El fuego infernal abrasador tras ella representa el pecado que carga por todos los seres vivos.</color>",
+   "info": "<size=39>Tiene unas fauces mortales suficientemente fuertes para atacar ambos zombis y plantas.\n\n<color=#3D1400>Daño: </color><color=red>1800</color>\n<color=#3D1400>Uso:</color> <color=red>Manual\n<color=#3D1400>Tiempo de Masticado:</color> <color=red>30s\n\n<color=#3D1400>Especial:</color> <color=red>Al cliquearla, libera una explosión de Petaseta y Jalapeño una casilla adelante. Si hay una planta en esa casilla, Parcarnívora la eliminará y tendrá un 50% de probabilidad de que vuelva esa planta como un paquete de semillas. Las plantas maldecidas siempre soltarán su paquete de semillas al ser eliminadas por Parcarnívora, y quitará 15% de la durabilidad máxima de el que aplicó la maldición.\n\n<color=purple>Mejoras de Odisea:</color>\n</color></color></color>- Las plantas siempre vuelven como paquetes de semillas al ser eliminadas por Parcarnívora</color>\n- Si Parcarnívora elimina una planta odisea con un efecto al morir, este se activará 5 veces</color>\n\n<color=#3D1400>Fórmula de Fusión: </color><color=red>Planta Maldívora + Jalapeño</color></size>",
    "cost": "<size=33>Costo: <color=red>525, 675</color>   Recarga: <color=red>157,5 Segundos</color>\nPlantas Requeridas: <color=red>4\n<color=purple>Condición de Uso: Modo Odisea - Selección Inicial</color></size>"
  },
  {
@@ -6466,168 +6465,168 @@
         {
     "seedType": 1295,
     "name": "Nuez Tótem",
-   "introduce": "<size=39><color=#3D1400>INTRO</color></size>",
+   "introduce": "<size=39><color=#3D1400>\"¡Tres cabezas hacen más que dos! \" Tres pequeñas nueces se unieron y se convirtieron en compañeras inseparables, desbordando una energía inimaginable, hasta que un día las rociaron con pintura roja y las mordieron una a una.</color></size>",
   "info": "<size=39>Tres nueces pequeñitas puestas una encima del otro.</color>\n\n<color=#3D1400>Dureza: </color><color=red>12000</color>\n<color=#3D1400>Daño:</color>\n- (12k-8k PS) 80 (perforante x2)\n- (8k-4k PS) 60 (perforante x4)\n- (4k-0 PS) 40 (perforante x6)<color=red>\n<color=#3D1400>Especial:</color> <color=red>Tiene 12k PS en total. Cada Nuez Pequeña tiene 4k PS y perdiendo una de estas reduce su dureza máxima por 4000. También, la cabeza de arriba dispara nueces pequeñas que perforan zombis.</color>\n<size=39><color=#3D1400>Fórmula de Fusión:</color> <color=red>Nuez + Tripitidora</color></size>",
   "cost": "<size=39>Costo: <color=red>325</color>   Recarga: <color=red>37,5 Segundos</color>\nPlantas Requeridas: <color=red>2</color></size>"
  },
  {
     "seedType": 1296,
     "name": "Fortunapum",
- "introduce": "<size=39><color=#3D1400>INTRO</color></size>",
+ "introduce": "<size=39><color=#3D1400>Hay tesoros enterrados bajo tierra, ¿y... zombis? \"¡¿Así que el jardín donde busco tesoros es en realidad un cementerio?!\". La Fortunapum solo requiere buscar tesoros, pero que Dave entierre zombis para añadirle diversión a la búsqueda es mucho más problemático.</color></size>",
  "info": "<size=39>¡Busca un tesoro bajo tierra para ti!</color>\n\n<color=#3D1400>Daño: </color><color=red>1800 (área de 1×1)</color>\n<color=#3D1400>Tiempo De Armado: </color><color=red>30s, luego vuelve bajo tierra.</color>\n<color=#3D1400>Especial:</color> <color=red>Busca un tesoro bajo tierra cada 30s: 1% de chance que aparezca un zombi aleatorio, 10% para un paquete de semillas aleatorio, 89% de dar 25 Sol y 100 Monedas. En el mapa de playa, las Fortunapum aceleran su producción de busqueda por 50%; las chances de tener un paquete de semillas sube a 33% y las chances de que aparezca un zombi baja a 0%. Desaparece después de conseguir 3 paquetes de semillas.</color>\n<size=39><color=#3D1400>Fórmula de Fusión:</color> <color=red>Patatapum + Margarita</color></size>",
   "cost": "<size=39>Costo: <color=red>50</color>   Recarga: <color=red>37,5 Segundos</color>\nPlantas Requeridas: <color=red>2</color></size>"
 },
 {
     "seedType": 1297,
     "name": "Globoseta",
-"introduce": "<size=39><color=#3D1400>INTRO</color></size>",
+"introduce": "<size=39><color=#3D1400>\"¡Oye, aléjate de mí, déjame en paz o te atravesaré con mis púas de hielo! \" La Globoseta se hinchó, intentando ahuyentar al enemigo que se acercaba. Al ver cómo las púas de hielo se acercaban gradualmente a los zombis, las plantas que observaban no pudieron evitar preguntarse: ¿Quién se acerca a quién?</color></size>",
   "info": "<size=39>Soporte del <color=#0077b6>Sistema Criogénico</color>\nCongela zombis al estar acompañado de Marsetas.</color>\n\n<color=#3D1400>Especial:</color> <color=red>Al ocupar un paquete de semillas de Marseta en el, congela y ralentiza a todos los zombis en un área de 3x3.</color>\n<size=39><color=#3D1400>Fórmula de Fusión:</color> <color=red>Marseta + Seta Congelada</color></size>",
   "cost": "<size=39>Costo: <color=red>75, 225</color>   Recarga: <color=red>57,5 Segundos</color>\nPlantas Requeridas: <color=red>2</color></size>"
 },
 {
     "seedType": 1298,
     "name": "Aceleraseta",
-  "introduce": "<size=39><color=#3D1400>INTRO</color></size>",
+  "introduce": "<size=39><color=#3D1400>La Aceleraseta nunca se toma la vida en serio. ¿Trabajo? ¿Hablar en público? ¿Matrimonio? Solo consigue reír. Ni siquiera puede relajarse en la piscina; si hay un guisante en ella, lo acusarán de cómplice.</color></size>",
   "info": "<size=39>Potencia a todo proyectil yendo hacia al frente con sus humos.</color>\n\n<color=#3D1400>Daño:</color> <color=red>20 cada 1,5s\n<color=#3D1400>Especial:</color> <color=red>El rango de su humo se expande a toda la fila. Al expulsar humo, acelera cualquier proyectil que se dispara hacia adelante, aumentando su daño +1 cada 0,02 segundos.</color></size>\n<size=39><color=#3D1400>Fórmula de Fusión:</color> <color=red>Lanzaguisantes + Humoseta</color></size>",
   "cost": "<size=39>Costo: <color=red>175, 250</color>   Recarga: <color=red>15 Segundos</color>\nPlantas Requeridas: <color=red>2</color></size>"
 },
 {
     "seedType": 1299,
     "name": "Calabaza Cáscara",
-   "introduce": "<size=39><color=#3D1400>INTRO</color></size>",
+   "introduce": "<size=39><color=#3D1400>Para Calabaza Cáscara, crear un buen ambiente interno para que las nueces crecieran era lo único que le importaba. No le importaba el ruido del mundo exterior, ni siquiera las mordeduras de los zombis. Su única preocupación era que, durante la batalla, otras plantas ocuparan su espacio interior, que había reservado específicamente para las nueces.</color></size>",
    "info": "<size=39>Genera pequeñas nueces para curar a otras calabazas.</color>\n\n<color=#3D1400>Dureza: </color><color=red>8000</color>\n<color=#3D1400>Especial:</color> <color=red>Genera una Mini-Nuez cada 50s. Cuando esta Mini-Nuez está completamente crecida, se consume para curar una Calabaza cercana dañada hasta 1000 PS o para producir un paquete de semillas de Nuez si no existe dicha Calabaza. Una sola Calabaza Cáscara puede producir un máximo de 3 paquetes de semillas de Nuez.</color>\n<size=39><color=#3D1400>Fórmula de Fusión:</color> <color=red>Nuez + Calabaza</color></size>",
    "cost": "<size=39>Costo: <color=red>175</color>   Recarga: <color=red>60 Segundos</color>\nPlantas Requeridas: <color=red>2</color></size>"
 },
 {
   "seedType": 1300,
   "name": "Vaporiseta",
-   "introduce": "<size=39><color=#3D1400>INTRO</color></size>",
+   "introduce": "<size=39><color=#3D1400>¿Pueden crecer setas sobre setas? Según la investigación del Profesor Zavier, los hongos gigantes son colonias raras, grandes y compuestas, pero las setas componiendo a Vaporiseta se niegan a admitir que son simplemente una colección de setas individuales. Para demostrarlo, utilizó toda su fuerza para expulsar el exceso de esporas.</color></size>",
    "info": "<size=39>¡Una versión más poderosa de la Gasoseta!</color>\n\n<color=#3D1400>Dureza: </color><color=red>1000</color>\n<color=#3D1400>Daño:</color> <color=red>20*4 cada 1.9s\n<color=#3D1400>Especial:</color> <color=red>Lanza 8 esporas adicionales por cada ataque</color>\n<color=#3D1400>Nombre Científico:</color> <color=red>Humongus mycosporia</color></size>\n<size=39><color=#3D1400>Fórmula de Fusión:</color> <color=red>Seta Desesporada (x1) ∞ Gasoseta ∞ Seta Desesporada (x1) < Combinadora (En Orden)\n(La Combinadora deberá plantarse encima de la Gasoseta)</color></size>",
    "cost": "<size=39>Costo: <color=red>175, 400</color>   Recarga: <color=red>65 Segundos</color>\nPlantas Requeridas: <color=red>4</color></size>"
         },
         {
     "seedType": 1301,
     "name": "Paraplantita",
-   "introduce": "<size=39><color=#3D1400>INTRO</color></size>",
+   "introduce": "<size=39><color=#3D1400>Al igual que las demás Paraplantas de su comunidad, la Paraplantita tiene grandes ambiciones y está dispuesto a sacrificarse para proteger el mundo. Aunque no es tan alto como las demás Paraplantas y no puede proteger otras plantas, ha encontrado algo más que sí puede proteger: la tierra que ama bajo sus pies.</color></size>",
    "info": "<size=39>Repela zombis acogidos facilmente, y se autoregeran por si mismos.</color>\n\n<color=#3D1400>Dureza: </color><color=red>300</color>\n<color=#3D1400>Especial:</color> <color=red>Contra zombis normales, los empuja y muere instantaneamente. Con zombis acogidos, los empuja y simplemente pierde 50 PS. Se generan otras Paraplantitas en la misma casilla en donde están cada 30s.</color>\n<size=39><color=#3D1400>Fórmula de Fusión:</color> <color=red>Seta Desesporada + Paraplanta (En Orden)</color></size>",
    "cost": "<size=39>Costo: <color=red>100, 175</color>   Recarga: <color=red>15 Segundos</color>\nPlantas Requeridas: <color=red>2</color></size>"
 },
 {
     "seedType": 1302,
     "name": "Pescaseta", 
-   "introduce": "<size=39><color=#3D1400>INTRO</color></size>",
+   "introduce": "<size=39><color=#3D1400>La reproducción y la proliferación son instintos vitales. En determinadas circunstancias, las Pescasetas crecen juntos, protegiéndose del viento y las olas, y lanzando cebos para atraer a los depredadores y garantizar la seguridad de la colonia. En los últimos años, las dificultades técnicas que permiten el crecimiento colectivo de las Pescasetas se han superado, y esta nueva tecnología se ha adoptado de inmediato en los acuarios.</color></size>",
    "info": "<size=39>Se sacrifican para alimentar a sus fusiones con las setas nocturnas.</color>\n\n<color=#3D1400>Daño:</color> <color=red>20 cada 1,5s\n<color=#3D1400>Especial:</color> <color=red>Al fusionarlos, solo aparecerán dos. Luego, después de 15s, se genera otro, así creando 3 Pescasetas. Después de esto, alimenta a la planta adelante de ellos con una Marseta, y si no se puede alimentar, entonces genera un paquete de semillas de Marseta.</color>\n<size=39><color=#3D1400>Fórmula de Fusión:</color> <color=red>Marseta + Seta Desesporada (En Orden)</color></size>",
    "cost": "<size=39>Costo: <color=red>0, 150</color>   Recarga: <color=red>15 Segundos</color>\nPlantas Requeridas: <color=red>2</color></size>"
 },
 {
     "seedType": 1303,
     "name": "Orcaseta",
-   "introduce": "<size=39><color=#3D1400>INTRO</color></size>",
+   "introduce": "<size=39><color=#3D1400>\"No se preocupen, las ballenas nos alimentamos por filtración. Solo comemos plancton y algas. Escupiremos los hongos marinos que no podamos comer\", dijo la Orcaseta a las Marsetas. Las Marsetas respondieron al unísono: \"Entiendo, pero ¿qué es esa cosa negra que explota?\"</color></size>",
    "info": "<size=39>Digiere una Marseta y la transforma en una bomba.</color>\n\n<color=#3D1400>Daño:</color> <color=red>600\n<color=#3D1400>Especial:</color> <color=red>Al ocupar un paquete de semillas de Marseta en ella, lanza un misil petaseta que hace 600 de daño en un área moderado. Las veces que la puedes alimentar no tienen tiempo de recarga, pero cada disparo toma 1,5s para disparar y solo un máximo de dos disparos pueden ser registrados al mismo tiempo.</color></size>\n<size=39><color=#3D1400>Fórmula de Fusión:</color> <color=red>Marseta + Petaseta</color></size>",
    "cost": "<size=39>Costo: <color=red>125, 275</color>   Recarga: <color=red>57,5 Segundos</color>\nPlantas Requeridas: <color=red>2</color></size>"
 },
 {
     "seedType": 1304,
     "name": "Fulgirasol", 
-   "introduce": "<size=39><color=#3D1400>INTRO</color></size>",
+   "introduce": "<size=39><color=#3D1400>Fulgirasol siempre está alegre, e incluso terminó su tesis doctoral con una sonrisa. \"Conviértete en la luz del sol, no solo búscala\", escribió en los agradecimientos al final de su artículo.</color></size>",
    "info": "<size=39>Al generar sol, absorbe proyectiles cercanos para conseguir más adicional.</color>\n\n<color=#3D1400>Producción Solar:</color> <color=red>25 cada 25s\n<color=#3D1400>Especial:</color> <color=red>Absorbe todo proyectil cerca de ella en un área de 3x3 (de plantas y zombis hipnotizados) y los transforma en 5 soles.</color>\n<size=39><color=#3D1400>Fórmula de Fusión:</color> <color=red>Girasol + Plantorcha</color></size>",
    "cost": "<size=39>Costo: <color=red>225</color>   Recarga: <color=red>15 Segundos</color>\nPlantas Requeridas: <color=red>2</color></size>"
 },
 {
     "seedType": 1305,
     "name": "Meduseta",
-   "introduce": "<size=39><color=#3D1400>INTRO</color></size>",
+   "introduce": "<size=39><color=#3D1400>¿Medusa? ¿O seta? Si te equivocas, tienes que ayudarme con mi trabajo. Meduseta le encanta jugar a este juego con los zombis descerebrados, y nunca pierde. El que más se acerca a la respuesta correcta es el Profesor Zavier, quien se enteró: \"Hay una carabela portuguesa en el océano. ¿Quizás debería llamarse medusa pileus?\".</color></size>",
    "info": "<size=39>Utiliza a una Marseta para generar un zombi.</color>\n\n<color=#3D1400>Especial:</color> <color=red>Al ocupar un paquete de semillas de Marseta en ella, genera un Zombi básico. Va de vuelta a ser una Marseta al ser mordida.</color>\n<size=39><color=#3D1400>Fórmula de Fusión:</color> <color=red>Hipnoseta + Marseta</color></size>",
    "cost": "<size=39>Costo: <color=red>75, 225</color>   Recarga: <color=red>37,5 Segundos</color>\nPlantas Requeridas: <color=red>2</color></size>"
 },
 {
     "seedType": 1306,
     "name": "Deportralladora",
-   "introduce": "<size=39><color=#3D1400>INTRO</color></size>",
+   "introduce": "<size=39><color=#3D1400>\"¡Falta! ¡Fuera!\" La Deportralladora es el árbitro más severo e irritable del campo, y un defensor de las reglas del rugby. De principio a fin, no para de hablar, siempre intentando expulsar a los jugadores que no tienen ni idea de rugby.</color></size>",
    "info": "<size=39>Lanza cuatro guisantes férreos y, ocasionalmente, uno rojo.</color>\n\n<color=#3D1400>Dureza: </color><color=red>3000</color>\n<color=#3D1400>Daño:</color> <color=red>80*4 cada 1,5s\n<color=#3D1400>Especial:</color> <color=red>Dispara un guisante férreo rojo cada 11 guisantes disparados, el cual hace dar vuelta a Zombis Deportistas.</color>\n<size=39><color=#3D1400>Fórmula de Fusión:</color> <color=red>Guisantralladora + Casco All-Star</color></size>",
    "cost": "<size=39>Costo: <color=red>400</color>   Recarga: <color=red>30 Segundos</color>\nPlantas Requeridas: <color=red>4 (+ Casco All-Star)</color></size>"
 },
 {
     "seedType": 1307,
     "name": "Frustrella Solar",
-   "introduce": "<size=39><color=#3D1400>INTRO</color></size>",
+   "introduce": "<size=39><color=#3D1400>\"¡Soy el SOL, no una estrella! ¡No se confundan!\" Frustrella Solar ha estado intentando explicarles a todos ese dato, pero a sus descuidados amigos no les importan estos detalles. Es como si todos excepto Frustrella Solar supieran que el sol es lo mismo que una estrella...</color></size>",
    "info": "<size=39>Dispara 5 estrellas al ser cliqueado.</color>\n\n<color=#3D1400>Daño:</color> <color=red>100*5\n<color=#3D1400>Especial:</color> <color=red>Al cliquear a la Frustrella Solar, esta absorberá 25 soles para dispar 5 estrellas en 5 direcciones. Dentro de una Calabaza Estrellada, absorbe los soles automáticamente cada 0,5s.</color>\n<size=39><color=#3D1400>Fórmula de Fusión:</color> <color=red>Girasol + Frustrella</color></size>",
    "cost": "<size=39>Costo: <color=red>175</color>   Recarga: <color=red>15 Segundos</color>\nPlantas Requeridas: <color=red>2</color></size>"
         },
         {
     "seedType": 1308,
     "name": "Solarpeño",
-   "introduce": "<size=39><color=#3D1400>INTRO</color></size>",
+   "introduce": "<size=39><color=#3D1400>\"¿Por qué tantas plantas se sienten alejadas de mi?\" Está desconcertada: \"¡Puedo producir luz solar, e incluso puedo atacar zombis!\". Cree que es más soleada que el Jalapeño, pero las plantas creen que es más picante que él.</color></size>",
    "info": "<size=39>Te da soles al quemar ambos zombis y plantas.</color>\n\n<color=#3D1400>Daño:</color> <color=red>1800 (Área Lineal)</color>\n<color=#3D1400>Uso:</color> <color=red>Único, Instantáneo</color>\n<color=#3D1400>Especial:</color> <color=red>Te da 25 soles por cada zombi que quema. También hace 1800 de daño a todas las plantas en su línea. Cada planta afectada da 50 soles y potencia el daño de Solarpeño por 500. Dichas plantas tienen un 1/3 de probabilidad de sobrevivir con 1 PS restante.</color>\n<size=39><color=#3D1400>Fórmula de Fusión:</color> <color=red>Girasol + Jalapeño</color></size>",
    "cost": "<size=39>Costo: <color=red>175</color>   Recarga: <color=red>57,5 Segundos</color>\nPlantas Requeridas: <color=red>2</color></size>"
         },
         {
     "seedType": 1309,
-    "name": "Miédica Encascarada",
-   "introduce": "<size=39><color=#3D1400>INTRO</color></size>",
-   "info": "<size=39>Derriba a zombis después de esconderse por cierto tiempo.</color>\n\n<color=#3D1400>Dureza: </color><color=red>4000</color>\n<color=#3D1400>Especial:</color> <color=red>Después de estar escondido durante 10 segundos, se levanta inmediatamente y derriba a los zombis cercanos, causando 20 puntos de daño, y durante los próximos 5 segundos, no se volverá a esconder. Mientras está agachado, recibe un 50% menos de daño.</color>\n<size=39><color=#3D1400>Fórmula de Fusión:</color> <color=red>Nuez + Seta Miédica</color></size>",
-   "cost": "<size=39>Costo: <color=red>75, 150</color>   Recarga: <color=red>37,5 Segundos</color>\nPlantas Requeridas: <color=red>2</color></size>"
-        },
-        {
-    "seedType": 1310,
     "name": "Linternuez",
-   "introduce": "<size=39><color=#3D1400>INTRO</color></size>",
+   "introduce": "<size=39><color=#3D1400>\"Las linternas a veces se rompen, lo cual es normal. Cuando esto sucede, mi importancia como suplente se hace evidente, pero todos parecen estar preocupados por mí\", dijo Linternuez. Lo que no sabía es que la preocupación no era su brillo, sino la posibilidad de que dañara el marco de la luz.</color></size>",
    "info": "<size=39>Parte del <color=#104f30>Sistema Lúmina</color>\nRecupera vida automáticamente con Niveles Lúmina.</color>\n<color=#104f30>Sistema Lúmina:</color></color>\n- Genera 1 Nivel Lúmina en un área de 3x3\n- Recupera 150 PS por Nivel Lúmina cada 15s.</color>\n\n<color=#3D1400>Dureza: </color><color=red>4000</color>\n<size=39><color=#3D1400>Fórmula de Fusión:</color> <color=red>Nuez + Planterna</color></size>",
    "cost": "<size=39>Costo: <color=red>75</color>   Recarga: <color=red>37,5 Segundos</color>\nPlantas Requeridas: <color=red>2</color></size>"
         },
         {
+    "seedType": 1310,
+    "name": "Miédica Encascarada",
+   "introduce": "<size=39><color=#3D1400>Miédica Encascarada era al principio tan tímido como las otras Setas Miédicas, hasta que vio a su primo lejano Seta Valiente en la televisión, quien nunca temía enfrentarse a zombis. Así que Miédica Encascarada decidió aprender de Seta Valiente, se apodó \"Soporte Fungi\" y practicó su valentía día y noche para no tener miedo de enfrentarse a zombis.</color></size>",
+   "info": "<size=39>Derriba a zombis después de esconderse por cierto tiempo.</color>\n\n<color=#3D1400>Dureza: </color><color=red>4000</color>\n<color=#3D1400>Especial:</color> <color=red>Después de estar escondido durante 10 segundos, se levanta inmediatamente y derriba a los zombis cercanos, causando 20 puntos de daño, y durante los próximos 5 segundos, no se volverá a esconder. Mientras está agachado, recibe un 50% menos de daño.</color>\n<size=39><color=#3D1400>Fórmula de Fusión:</color> <color=red>Nuez + Seta Miédica</color></size>",
+   "cost": "<size=39>Costo: <color=red>75, 150</color>   Recarga: <color=red>37,5 Segundos</color>\nPlantas Requeridas: <color=red>2</color></size>"
+        },
+        {
     "seedType": 1311,
     "name": "Maceta Cáscara",
-   "introduce": "<size=39><color=#3D1400>INTRO</color></size>",
+   "introduce": "<size=39><color=#3D1400>Todos debatían la apariencia de la Maceta Cáscara. Algunos decían que era una nuez rota, otros que originalmente era una maceta rota. Pero por mucho que especularan los demás, La Maceta Cáscara no respondía. \"Que ese aburrido pasado se hundiera en la lava. Al menos ahora soy una maceta\", dijo, reuniéndose con las demás macetas.</color></size>",
    "info": "<size=39>Da una leve reducción de daño a la planta encima de ella.</color>\n\n<color=#3D1400>Especial:</color> <color=red>Reduce el daño que recibe la planta de arriba en un 20%. Es inmune al daño de las casillas de lava y protege a la planta encima de ella (Las casillas de lava solo aparecen en niveles específicos. Hacen 50 de daño por segundo a las plantas y zombis sobre ellas, priorizando las macetas, a las que les hace solo 10 de daño).</color>\n<size=39><color=#3D1400>Fórmula de Fusión:</color> <color=red>Nuez + Maceta</color></size>",
    "cost": "<size=39>Costo: <color=red>75</color>   Recarga: <color=red>37,5 Segundos</color>\nPlantas Requeridas: <color=red>2</color></size>"
         },
         {
     "seedType": 1312,
     "name": "Frutoseta",
-   "introduce": "<size=39><color=#3D1400>INTRO</color></size>",
-   "info": "<size=39>Sacrifica a sus (probablemente) hijos, ¡que buen padre!</color>\n\n<color=#3D1400>Dureza: </color><color=red>4000</color>\n<color=#3D1400>Especial:</color> <color=red>Agarra a una Nuecita en un área de 3x3, y los lanza al primer zombi en su línea. El daño de la Nuecita es perforante, y hace 20 de daño más los PS totales de la Nuecita que lanza.</color>\n<size=39><color=#3D1400>Fórmula de Fusión:</color> <color=red>Nuez + Humoseta</color></size>",
+   "introduce": "<size=39><color=#3D1400>El Frutoseta entrenó a un grupo de Nuecitas, pero no les enseñó a luchar. Los pequeños hongos preguntaron: \"¿Cómo podemos resistir a los zombis?\". Él respondió: \"¡Con un caparazón duro y la determinación de morir!\". Luego los lanzó lejos. \"Esta es una habilidad que aprendí jugando al fútbol\", dijo el Frutoseta con orgullo.</color></size>",
+   "info": "<size=39>Sacrifica a sus quizas-hijos para luchar, ¡que buen padre!</color>\n\n<color=#3D1400>Dureza: </color><color=red>4000</color>\n<color=#3D1400>Especial:</color> <color=red>Agarra a una Nuecita en un área de 3x3, y los lanza al primer zombi en su línea. El daño de la Nuecita es perforante, y hace 20 de daño más los PS totales de la Nuecita que lanza.</color>\n<size=39><color=#3D1400>Fórmula de Fusión:</color> <color=red>Nuez + Humoseta</color></size>",
    "cost": "<size=39>Costo: <color=red>125, 200</color>   Recarga: <color=red>37,5 Segundos</color>\nPlantas Requeridas: <color=red>2</color></size>"
         },
         {
     "seedType": 1313,
     "name": "Enredanuez",
-   "introduce": "<size=39><color=#3D1400>INTRO</color></size>",
+   "introduce": "<size=39><color=#3D1400>Todos decían que era un solitario, enredado en una maraña de problemas, de corazón duro y difícil de abordar. Pero ¿quién podía negar su deseo de soledad? Nadie, excepto Rabo de Gato, que a veces lo confundía con una bola de lana y jugaba con él.</color></size>",
    "info": "<size=39>Parte del <color=#03311C>Sistema Enredadera</color>\nEnreda a los zombis que la muerden.\n<color=#03311C>Sistema Enredadera:</color>\n</color>- Aplica 1 punto por mordisco</color>\n\n<color=#3D1400>Dureza: </color><color=red>4000</color>\n<color=#3D1400>Especial:</color> <color=red>Al ser aplastado, pierde 50 PS cada 0,02 segundos.</color>\n<size=39><color=#3D1400>Fórmula de Fusión:</color> <color=red>Nuez + Zampalga</color></size>",
    "cost": "<size=39>Costo: <color=red>75</color>   Recarga: <color=red>80 Segundos</color>\nPlantas Requeridas: <color=red>2</color></size>"
         },
         {
     "seedType": 1314,
     "name": "Melonpulta Magnética",
-   "introduce": "<size=39><color=#3D1400>INTRO</color></size>",
+   "introduce": "<size=39><color=#3D1400>La Melonpulta Magnética trabajaba para el Instituto de Electromagnetismo y había propuesto un modelo hipotético de polos magnéticos, postulando que los polos magnéticos se distribuían dentro de un imán como las semillas de sandía incrustadas en una sandía. Sin embargo, su hipótesis no fue tomada en serio porque él era simplemente un proveedor de sandías para el instituto.</color></size>",
    "info": "<size=39>Puede fusionarse con objetos metálicos para absorber sus propiedades.</color>\n\n<color=#3D1400>Daño:</color> <color=red>120 cada 3s\n<color=#3D1400>Especial:</color> <color=red>Hace x2 de daño a zombis con objetos metálicos.</color>\n<size=39><color=#3D1400>Fórmula de Fusión:</color> <color=red>Magnetoseta + Melonpulta</color></size>",
    "cost": "<size=39>Costo: <color=red>400, 475</color>   Recarga: <color=red>15 Segundos</color>\nPlantas Requeridas: <color=red>2</color></size>"
         },
         {
     "seedType": 1315,
     "name": "Ferromelón",
-   "introduce": "<size=39><color=#3D1400>INTRO</color></size>",
+   "introduce": "<size=39><color=#3D1400>Recubierta de acero, el Ferromelón evitó ser vendida en un puesto de frutas. Sin embargo, aún enfrentaba numerosos desafíos, como gastar una fortuna en proteger la carcasa de hierro contra la oxidación y responder constantemente a las preguntas de otros curiosos: \"¿Sus hojas también son de hierro? ¿Se pueden usar hojas de hierro como cuchillos para sandías?\"</color></size>",
    "info": "<size=39>Hace más daño que una Melonpulta regular.</color>\n\n<color=#3D1400>Dureza: </color><color=red>2000</color>\n<color=#3D1400>Daño:</color> <color=red>200 cada 3s\n<size=39><color=#3D1400>Fórmula de Fusión:</color> <color=red>Melonpulta Magnética + Cubo</color></size>",
    "cost": "<size=39>Costo: <color=red>400, 475</color>   Recarga: <color=red>15 Segundos</color>\nPlantas Requeridas: <color=red>2 (+ Cubo)</color></size>"
         },
         {
     "seedType": 1316,
     "name": "Cronomelón",
-   "introduce": "<size=39><color=#3D1400>INTRO</color></size>",
+   "introduce": "<size=39><color=#3D1400>\"¡Solo estoy parado sobre los hombros de gigantes!\", decía siempre con modestia el Cronomelón. \"Nunca tuve la capacidad de revertir el tiempo y el espacio. Simplemente provoqué que el caos en el tiempo extendiera.\"</color></size>",
    "info": "<size=39>Parte del <color=#6FFFDB>Sistema Temporal</color>\nHace un buen combo junto a Cronoguisantes.</color>\n<color=#6FFFDB>Sistema Temporal: </color>\n- Los zombis en el estado temporal quedan inmóviles, acumulando tiempo de espera. Cuando el tiempo alcanza (Salud del Zombi/30) segundos, son eliminados. Al finalizar el estado, reciben daño igual a 30 veces el tiempo de espera.\n- Si un zombi esta en el estado temporal y es impactado por los proyectiles de Cronomelón, 3 zombis cercanos obtendrán el efecto también.\n\n<color=#3D1400>Daño:</color> <color=red>80 cada 3s\n<color=#3D1400>Especial:</color> <color=red>Su daño por salpicadura no tiene una disminución de daño.</color>\n<size=39><color=#3D1400>Fórmula de Fusión:</color> <color=red>Melonpulta Magnética + Cronofragmento</color></size>",
    "cost": "<size=39>Costo: <color=red>400, 475</color>   Recarga: <color=red>15 Segundos</color>\nPlantas Requeridas: <color=red>2 (+ Cronofragmento)</color></size>"
         },
         {
     "seedType": 1317,
     "name": "Petapeño",
-   "introduce": "<size=39><color=#3D1400>INTRO</color></size>",
+   "introduce": "<size=39><color=#3D1400>\"¡Estoy a punto de explotar! Todos los que estén frente a mí deben tener cuidado, no importa si son plantas o zombis\", dijo Petapeño. Su cuerpo ligeramente tembloroso mostraba una enorme cantidad de energía acumulándose en él. Claro, también podría deberse a estar de puntillas y tener la parte inferior del cuerpo inestable.</color></size>",
    "info": "<size=39>Explota a toda planta en su fila.</color>\n\n<color=#3D1400>Daño:</color> <color=red>1800 (Explosión), 1800 (área lineal) (Fuego)\n<color=#3D1400>Uso:</color> <color=red>Manual\n<color=#3D1400>Especial:</color> <color=red>No libera ninguna explosión de ambas plantas al ser fusionado. Al ser cliqueado, explota como una Petaseta y un Jalapeño a la vez, pero, destruye a todas las plantas en su fila, las cuales liberarán más explosiones de Petaseta en su casilla. Hay un 25% de probabilidad por cada planta que vuelvan en paquetes de semilla.</color>\n<size=39><color=#3D1400>Fórmula de Fusión:</color> <color=red>Petaseta + Jalapeño</color></size>",
    "cost": "<size=39>Costo: <color=red>250, 325</color>   Recarga: <color=red>100 Segundos</color>\nPlantas Requeridas: <color=red>2</color></size>"
         },
         {
     "seedType": 1318,
     "name": "Calabaza Vaina",
-   "introduce": "<size=39><color=#3D1400>INTRO</color></size>",
+   "introduce": "<size=39><color=#3D1400>\"¿Has oído que los zombis traen \"tanques\"? ¡Pues vamos a liberar nuestra fortaleza viviente de ametralladoras: la Calabaza Guisante!\" Dicen unas Guisantralladoras. \"¿Y la munición?\" Pregunta un Lanzaguisantes curioso. \"¡Ejem! Los diseñadores olvidaron añadir un cargador... ¡pero no es para tanto! ¡Solo haz que las balas de tu munición sean distribuidas un poco, y listo!\"</color></size>",
    "info": "<size=39>Dispara el mismo proyectil que la planta dentro de ella.</color>\n\n<color=#3D1400>Dureza: </color><color=red>4000</color>\n<color=#3D1400>Daño:</color> <color=red>X cada 3s\n<color=#3D1400>Especial:</color> <color=red>Cada uno de sus disparos hereda todas las características de los proyectiles de la planta dentro de ella, estas siendo su cantidad, daño y tipo.</color>\n<size=39><color=#3D1400>Fórmula de Fusión:</color> <color=red>Lanzaguisantes + Calabaza</color></size>",
    "cost": "<size=39>Costo: <color=red>225</color>   Recarga: <color=red>37,5 Segundos</color>\nPlantas Requeridas: <color=red>2</color></size>"
         }
