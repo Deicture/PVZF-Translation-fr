@@ -1509,7 +1509,7 @@
             "seedType": 1089,
             "name": "Starry Pumpkin",
             "introduce": "<align=justified><size=36><color=black>People often wonder how many languages Starry Pumpkin must know to communicate effortlessly with all the plants. Starry Pumpkin smiles and says, \"Actually, I only speak Starfruit's language, since he's the only one I work closely with.\"</color></size>",
-            "info": "<size=36>Helps Starblover retain more stars.\n\n<color=black>Toughness: </color><color=#8B0000>4000</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Increases the storage limit of Starblover to 80, and Gravitron to 240.\n<color=black>•</color> Allows Solarfruit to use Sun to target zombies regularly.</color></size>",
+            "info": "<size=36>Helps Starblover retain more stars.\n\n<color=black>Toughness: </color><color=#8B0000>4000</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Increases the storage limit of Starblover to 80, and Gravitron to 240.\n<color=black>•</color> Allows Solarfruit to use Sun to shoot automatically.</color></size>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Starfruit > Pumpkin</color>"
         },
         {
