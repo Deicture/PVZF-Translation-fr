@@ -3006,7 +3006,7 @@
         {
             "seedType": 1303,
             "name": "Orca-shroom",
-            "introduce": "<align=justified><size=36><color=black>They say this giant used to swim in the open seas of Sharktooth Ridge, the terror of all fish. But one fateful mishap with a certain mushroom-shaped bubble somehow left him tiny. His body's shrunken, but not his appetite, nor his penchant for explosive enthusiasm when a Sea-shroom drifts too close.</color>",
+            "introduce": "<align=justified><size=36><color=black>They say this giant used to swim in the open seas of Sharktooth Ridge, the terror of all fish. But one fateful mishap with a certain Shrink Shroom bubble somehow left him tiny. His body's shrunken, but not his appetite, nor his penchant for explosive enthusiasm when a Sea-shroom drifts too close.</color>",
             "info": "<size=36>After consuming Sea-shrooms, spits small Doom-bombs forward.\n\n<color=black>Damage: </color><color=#8B0000>600</color>\n<color=black>Special: </color><color=#8B0000>Launches a Doom spore that deals 600 damage in a moderate radius after consuming a Sea-shroom. Feeding has no CD, but each shot takes 1.5s to fire and only a max of 2 shots can register at the same time.</color>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Doom-shroom > Sea-shroom</color>"
         },
