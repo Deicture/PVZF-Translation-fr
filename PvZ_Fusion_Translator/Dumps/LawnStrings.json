@@ -732,7 +732,7 @@
             "seedType": 916,
             "name": "绿宝石伞",
             "introduce": "<color=#3D1400>光从外表你应该就可以看得出来，绿宝石伞很擅长做生意，“没错，我的绿宝石帽子就是做生意的时候跟某个地方的土著换的，那是一个到处都是方块的地方……”</color>",
-            "info": "弹弹乐！精于弹射并强化投手子弹。\n\n<color=#3D1400>使用条件：</color><color=red>旅行模式</color>\n<color=#3D1400>融合配方：</color>\n<color=red>超级保护伞+卷心菜保护伞</color>\n<color=#3D1400>韧性：</color><color=red>4000</color>\n<color=#3D1400>特点：①</color><color=red>可以承接并弹射后方的投手子弹，使其伤害增加100%、转向攻击本行及邻行的前后方最近的敌人</color>\n<color=#3D1400>②</color><color=red>优先成为三叉戟的目标，且受到其伤害降低75%</color>\n<color=#3D1400>③</color><color=red>击退本行僵尸时，使其随机换行</color>\n<color=#3D1400>④</color><color=red>弹射子弹后获得100金钱，弹走投掷物后获得50金钱</color>\n<color=#3D1400>大招：</color><color=red>消耗1000金钱，冷却7.5秒。在超级保护伞大招的基础上，银雕像/金雕像的转化血线由25%/10%提升至50%/20%</color>\n<color=#3D1400>词条1：</color><color=red>弹射起步：伤害增幅从100%增至300%</color>\n<color=#3D1400>词条2：</color><color=red>人工智能：僵尸靠近时免费释放大招，解锁亚种红宝石伞</color>",
+            "info": "弹弹乐！精于弹射并强化投手子弹。\n\n<color=#3D1400>使用条件：</color><color=red>旅行模式</color>\n<color=#3D1400>融合配方：</color>\n<color=red>超级保护伞+卷心菜保护伞</color>\n<color=#3D1400>韧性：</color><color=red>4000</color>\n<color=#3D1400>特点：①</color><color=red>可以承接并弹射后方的投手子弹，使其伤害增加100%、转向攻击本行及邻行的前后方最近的敌人</color>\n<color=#3D1400>②</color><color=red>优先成为三叉戟的目标，且受到其伤害降低75%</color>\n<color=#3D1400>③</color><color=red>击退本行僵尸时，使其随机换行</color>\n<color=#3D1400>④</color><color=red>弹射子弹后获得100金钱，弹走投掷物后获得50金钱</color>\n<color=#3D1400>⑤</color><color=red>伞类击退：伤害40</color>\n<color=#3D1400>大招：</color><color=red>消耗1000金钱，冷却7.5秒。在超级保护伞大招的基础上，银雕像/金雕像的转化血线由25%/10%提升至50%/20%</color>\n<color=#3D1400>词条1：</color><color=red>弹射起步：伤害增幅从100%增至300%</color>\n<color=#3D1400>词条2：</color><color=red>人工智能：僵尸靠近时免费释放大招，解锁亚种红宝石伞</color>",
             "cost": ""
         },
         {
@@ -2055,7 +2055,7 @@
             "seedType": 1148,
             "name": "超级保护伞",
             "introduce": "<color=#3D1400>超级保护伞不仅是植物界的首富，还为僵尸和植物提供许多工作机会，创造了充足的岗位。在一次演讲中，“我让他们的剩余价值得到了充分利用。”超级保护伞扶了下自己沉重的镶金眼镜，对观众们说道。</color>",
-            "info": "\n大招可以将击退的残血僵尸变为金银雕像。\n\n<color=#3D1400>韧性：</color><color=red>4000</color>\n<color=#3D1400>特点：①</color><color=red>弹走投掷物时获得50金钱</color>\n<color=#3D1400>②</color><color=red>击退本行僵尸时，使其随机换行</color>\n<color=#3D1400>③</color><color=red>优先成为三叉戟的目标</color>\n<color=#3D1400>④</color><color=red>伞类击退：伤害40</color>\n<color=#3D1400>大招：</color><color=red>消耗3000金钱，冷却7.5秒\n在金保护伞大招的基础上：\n将血量低于25%/10%的僵尸转化为掉落1000/3000金钱的银雕像/金雕像，对其中无法转化的僵尸，造成秒杀伤害并掉落等额金钱</color>\n<color=#3D1400>融合配方：</color><color=red>叶子保护伞+金蒜；金保护伞+大蒜</color>",
+            "info": "大招可以将击退的残血僵尸变为金银雕像。\n\n<color=#3D1400>韧性：</color><color=red>4000</color>\n<color=#3D1400>特点：①</color><color=red>弹走投掷物时获得50金钱</color>\n<color=#3D1400>②</color><color=red>击退本行僵尸时，使其随机换行</color>\n<color=#3D1400>③</color><color=red>优先成为三叉戟的目标</color>\n<color=#3D1400>④</color><color=red>伞类击退：伤害40</color>\n<color=#3D1400>大招：</color><color=red>消耗3000金钱，冷却7.5秒\n在金保护伞大招的基础上：\n将血量低于25%/10%的僵尸转化为掉落1000/3000金钱的银雕像/金雕像，对其中无法转化的僵尸，造成秒杀伤害并掉落等额金钱</color>\n<color=#3D1400>融合配方：</color><color=red>叶子保护伞+金蒜；金保护伞+大蒜</color>",
             "cost": ""
         },
         {
@@ -2454,7 +2454,7 @@
             "seedType": 1205,
             "name": "魅惑南瓜",
             "introduce": "<color=#3D1400>许多植物好奇魅惑南瓜怎么只折服一个僵尸，“我是一个专一的人，当然要配一个专一的僵尸了。”魅惑南瓜挠了挠头说。</color>",
-            "info": "充满魅力的南瓜，让一只魅惑僵尸停留在身边。\n\n<color=#3D1400>韧性：</color><color=red>4000</color>\n<color=#3D1400>特点：</color><color=red>有4%概率魅惑啃咬者。使最多1只魅惑僵尸停留在本格，自身受伤时优先扣除其血量</color>\n<color=#3D1400>融合配方：</color><color=red>南瓜（底座）+魅惑菇</color>",
+            "info": "充满魅力的南瓜，能使魅惑僵尸徘徊不前。\n\n<color=#3D1400>韧性：</color><color=red>4000</color>\n<color=#3D1400>特点：①</color><color=red>有4%概率魅惑啃咬者</color>\n<color=#3D1400>②</color><color=red>使最多1只魅惑僵尸无法走出本格，自身受伤时优先扣除其血量</color>\n<color=#3D1400>融合配方：</color><color=red>南瓜（底座）+魅惑菇</color>",
             "cost": ""
         },
         {
@@ -2895,14 +2895,14 @@
             "seedType": 1268,
             "name": "魅惑双发射手",
             "introduce": "<color=#3D1400>魅惑双发射手语速很快，大多数句子都在别人开口之前就说完了。“现实就是个循环！我以前开过这枪，两次！”</color>",
-            "info": "发射魅惑豌豆的双发射手。\n\n<color=#3D1400>伤害：</color><color=red>30×2/1.5秒</color>\n<color=#3D1400>特点：</color><color=red>杀死僵尸时，召唤一个植物方的魅惑豌豆射手僵尸</color>\n<color=#3D1400>融合配方：</color><color=red>豌豆射手×2+魅惑菇</color>",
+            "info": "发射魅惑豌豆的双发射手。\n\n<color=#3D1400>伤害：</color><color=red>30×2/1.5秒</color>\n<color=#3D1400>特点：</color><color=red>杀死僵尸时，召唤一个植物方的魅惑豌豆射手僵尸</color>\n<color=#3D1400>增生豆荚：</color><color=red>出场15秒后手动点击，即可升级为魅惑裂荚射手</color>\n<color=#3D1400>融合配方：</color><color=red>豌豆射手×2+魅惑菇</color>",
             "cost": ""
         },
         {
             "seedType": 1269,
             "name": "魅惑裂荚射手",
             "introduce": "<color=#3D1400>“我感觉有点晕！”“其实还好吧。”“不，我都晕头转向了。”“但你的头是在后面。”“这只是比喻而已。”“我也只是按照字面意思来看而已。”“这俩兄弟又吵架了，”魅惑豌豆射手说道，“这大概是他们俩吵的第3682次架。”</color>",
-            "info": "发射魅惑豌豆的裂荚射手。\n\n<color=#3D1400>伤害：</color><color=red>30×3/1.5秒</color>\n<color=#3D1400>特点：</color><color=red>杀死僵尸时，召唤一个植物方的魅惑豌豆射手僵尸</color>\n<color=#3D1400>融合配方：</color><color=red>豌豆射手×3+魅惑菇</color>",
+            "info": "发射魅惑豌豆的裂荚射手。\n\n<color=#3D1400>伤害：</color><color=red>30×3/1.5秒</color>\n<color=#3D1400>特点：</color><color=red>杀死僵尸时，召唤一个植物方的魅惑豌豆射手僵尸</color>\n<color=#3D1400>增生豆荚：</color><color=red>出场15秒后手动点击，即可升级为魅惑机枪射手</color>\n<color=#3D1400>融合配方：</color><color=red>豌豆射手×3+魅惑菇</color>",
             "cost": ""
         },
         {
@@ -3124,7 +3124,7 @@
         },
         {
             "seedType": 1301,
-            "name": "小蘑菇保护伞",
+            "name": "保护伞小蘑菇",
             "introduce": "<color=#3D1400>像族中的其他保护伞一样，小蘑菇保护伞也有远大的抱负，并且同样愿意为了保护这个世界牺牲自己。虽然他不像其他保护伞那样高大、能保护其他植物，但是他找到了另一样自己能保护的东西——脚下这片他所热爱的土地。</color>",
             "info": "用小小的身躯拼命击退敌人。\n\n<color=#3D1400>特性：</color><color=red>低矮，可密植</color>\n<color=#3D1400>特点：①</color><color=red>每30秒在本格自我繁殖1株</color>\n<color=#3D1400>②</color><color=red>伞类击退：无伤害</color>\n<color=#3D1400>③</color><color=red>触发伞类击退后，自身会消失。如果目标是缩小的僵尸，则改为受伤50</color>\n<color=#3D1400>融合配方：</color>\n<color=red>小喷菇（底座）+叶子保护伞</color>",
             "cost": ""
@@ -3217,14 +3217,14 @@
             "seedType": 1314,
             "name": "磁力西瓜投手",
             "introduce": "<color=#3D1400>磁力西瓜投手为电磁学研究院工作，曾经提出过一个猜想的磁极模型，认为磁极像西瓜籽嵌入西瓜一样分布在磁铁中。但是他的猜想并没有被重视，因为他只是研究院的西瓜供应商。</color>",
-            "info": "可以融合铁器的西瓜投手，投出的西瓜能强力打击头戴防具。\n\n<color=#3D1400>伤害：</color><color=red>120/3秒</color>\n<color=#3D1400>特点：</color><color=red>命中一类防具时伤害翻倍</color>\n<color=#3D1400>融合配方：</color><color=red>西瓜投手+磁力菇</color>",
+            "info": "可以融合铁器的西瓜投手，投出的西瓜能强力扣击僵尸的头戴防具。\n\n<color=#3D1400>伤害：</color><color=red>120/3秒</color>\n<color=#3D1400>特点：</color><color=red>对有一类防具的僵尸造成2倍伤害</color>\n<color=#3D1400>融合配方：</color><color=red>西瓜投手+磁力菇</color>",
             "cost": ""
         },
         {
             "seedType": 1315,
             "name": "铁桶西瓜投手",
             "introduce": "<color=#3D1400>为身体覆盖上钢铁的铁西瓜投手避免了被摆上水果摊的命运，但是他需要面对的苦恼依然不少，比如花大价钱为铁壳防锈，以及不停回答其他好奇投手的问题：“你的叶子也是铁的吗？铁叶子是不是能当西瓜刀？”</color>",
-            "info": "坚硬如铁的西瓜投手，投出沉重的铁西瓜。\n\n<color=#3D1400>韧性：</color><color=red>2000</color>\n<color=#3D1400>伤害：</color><color=red>200/3秒</color>\n<color=#3D1400>特点：</color><color=red>铁植物</color>\n<color=#3D1400>融合配方：</color><color=red>\n磁力西瓜投手（底座）+铁桶</color>",
+            "info": "坚硬如铁的西瓜投手，投出沉甸甸的的西瓜，强力扣击僵尸的头戴防具。\n\n<color=#3D1400>韧性：</color><color=red>2000</color>\n<color=#3D1400>伤害：</color><color=red>200/3秒</color>\n<color=#3D1400>特点：①</color><color=red>铁植物</color>\n<color=#3D1400>②</color><color=red>对有一类防具的僵尸造成2倍伤害</color>\n<color=#3D1400>融合配方：</color><color=red>\n磁力西瓜投手（底座）+铁桶</color>",
             "cost": ""
         },
         {

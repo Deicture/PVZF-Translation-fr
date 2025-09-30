@@ -153,7 +153,7 @@
   "第(\\d+)关\n通关用时：(\\d+)分(\\d+)秒\n杀敌数量：(\\d+)\n关卡叶绿素产出：(\\d+)\n非首胜无额外产出\n产出叶绿素总计：(\\d+)": "Level {0}\nTime Taken: {1} Minute(s) and {2} Second(s)\nZombies Vanquished: {3}\nPlant Food Earned: {4}\nNot a First Victory - No Extra Earnings\nTotal Plant Food Earned: {5}",
   "第(\\d+)关\n通关用时：(\\d+)分(\\d+)秒\n杀敌数量：(\\d+)\n关卡叶绿素产出：(\\d+)\n困难模式产出：(\\d+)\n非首胜无额外产出\n产出叶绿素总计：(\\d+)": "Level {0}\nTime Taken: {1} Minute(s) and {2} Second(s)\nZombies Vanquished: {3}\nPlant Food Earned: {4}\nDifficulty Plant Food Earned: {5}\nNot a First Victory - No Extra Earnings\nTotal Plant Food Earned: {6}",
   "当前波数：(\\d+)/(\\d+)\n\n剩余可用步数：(\\d+)": "Current Wave: {0}/{1}\n\nRemaining Move(s): {2}",
-  "(\\d+)级": "Level {0}",
+  "已开启（(\\d+)级）": "Enabled: Level {0}",
   "抽取次数：\n(\\d+)/(\\d+)\n当前up植物：\nN/A\nup刷新倒计时：\n(\\d+)": "Draw Count:\n{0}/{1}\nCurrent Up:\nN/A\nNext Up in: \n{2}s",
   "抽取次数：\n(\\d+)/(\\d+)\n当前up植物：\nNo Special Modifiers\nup刷新倒计时：\n(\\d+)": "Draw Count:\n{0}/{1}\nCurrent Up:\nNon\nNext Up in: \n{2}s",
   "抽取次数：\n(\\d+)/(\\d+)\n当前up植物：\n究极魅惑菇\nup刷新倒计时：\n(\\d+)": "Draw Count:\n{0}/{1}\nCurrent Up:\nCharmatron\nNext Up in: \n{2}s",

@@ -2762,14 +2762,14 @@
             "seedType": 1268,
             "name": "Hypno Repeater",
             "introduce": "<align=justified><size=36><color=black>Hypno Repeater talks fast and finishes most sentences before anyone else starts speaking. \"Reality's a loop! I've fired this shot before, twice!\"\n\n-Written by Ocean Soul</color>",
-            "info": "<size=36>Repeater that fires Hypno Peas.\n\n<color=black>Damage: </color><color=#8B0000>30×2/1.5s</color>\n<color=black>Special: </color><color=#8B0000>Summons a Hypnotized Hypno Pea Zombie upon kill.</color>",
+            "info": "<size=36>Repeater that fires Hypno Peas.\n\n<color=black>Damage: </color><color=#8B0000>30×2/1.5s</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Summons a Hypnotized Hypno Pea Zombie upon kill.\n<color=black>•</color> Tap to auto-fuse with a free Peashooter 15s after planting.</color>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Repeater + Hypno-shroom</color>"
         },
         {
             "seedType": 1269,
             "name": "Split Hypno",
             "introduce": "<align=justified><size=36><color=black>\"I feel dizzy!\" \"Actually it's not that bad.\" \"No, I'm totally disoriented.\" \"But your head's in the back.\" \"That's just a figure of speech.\" \"And I'm being literal.\" \"These two brothers are arguing again,\" says Hypno Pea, \"probably their 3,682nd time.\"</color>",
-            "info": "<size=36>Split Pea that fires Hypno Peas.\n\n<color=black>Damage: </color><color=#8B0000>30×3/1.5s</color>\n<color=black>Special: </color><color=#8B0000>Summons a Hypnotized Hypno Pea Zombie upon kill.</color>",
+            "info": "<size=36>Split Pea that fires Hypno Peas.\n\n<color=black>Damage: </color><color=#8B0000>30×3/1.5s</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Summons a Hypnotized Hypno Pea Zombie upon kill.\n<color=black>•</color> Tap to auto-fuse with a free Peashooter 15s after planting.</color>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Split Pea + Hypno-shroom</color>"
         },
         {
@@ -3084,14 +3084,14 @@
             "seedType": 1314,
             "name": "Melon Morph",
             "introduce": "<align=justified><size=36><color=black>Melon Morph used to work at the Electromagnetics Research Institute and once proposed a conjectured model of magnetic poles, suggesting that magnetic poles are distributed like watermelon seeds embedded in a watermelon. However, his theory was ignored, because he was only the institute's watermelon supplier.</color>",
-            "info": "<size=36>Stepping stone for other Metal Melon fusions, also deals heavy damage to helmeted zombies.\n\n<color=black>Damage: </color><color=#8B0000>120/3s</color>\n<color=black>Special: </color><color=#8B0000> Deals 2× damage to Type 1 Armor.</color>",
+            "info": "<size=36>Stepping stone for other Metal Melon fusions, also deals heavy damage to helmeted zombies.\n\n<color=black>Damage: </color><color=#8B0000>120/3s</color>\n<color=black>Special: </color><color=#8B0000> Deals 2× damage to zombies with Type 1 Armor.</color>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Melon-pult + Magnet-shroom</color>"
         },
         {
             "seedType": 1315,
             "name": "Metal-pult",
             "introduce": "<align=justified><size=36><color=black>Covering his body in iron saved the Metal-pult from ending up at the fruit stall, but he still faces many troubles, like spending heavily on rust-proofing and constantly answering other curious plants: \"Are your leaves also made of iron? Can iron leaves be used as fruit knives?\"</color>",
-            "info": "<size=36>Lumps heavy balls of pure iron at the zombies, dishing out heavy damage.\n\n<color=black>Toughness: </color><color=#8B0000>2000</color>\n<color=black>Damage: </color><color=#8B0000>200/3s</color>\n<color=black>Special: </color><color=#8B0000> Metal plant.</color>",
+            "info": "<size=36>Lumps heavy balls of pure iron at the zombies, dishing out heavy damage.\n\n<color=black>Toughness: </color><color=#8B0000>2000</color>\n<color=black>Damage: </color><color=#8B0000>200/3s</color>\n<color=black>Special: </color><color=#8B0000> Metal plant. Deals 2× damage to zombies with Type 1 Armor.</color>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Bucket > Melon Morph</color>"
         },
         {
