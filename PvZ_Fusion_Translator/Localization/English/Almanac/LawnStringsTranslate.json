@@ -466,21 +466,21 @@
             "seedType": 300,
             "name": "Swordsage Starfruit",
             "introduce": "<align=justified><size=36><color=black>\"The flowers in the hall intoxicate three thousand guests, and the sword frosts fourteen states.\" \"I won't board the ship when the emperor calls me, and I say I am a fairy in wine.\" Swordsage Starfruit likes to recite poems and practice his drunken sword skills when he is drunk. The plants marveled at his power to defeat the zombies, but he said that he was aiming his flying sword at the bright moon in the sky, but when he put the sword away, it would fall back to the earth. </color>",
-            "info": "<size=36>Swordsage Starfruit sweeps through enemies and summons ten giant swords descending from the sky.\n\n<color=#3D1400>Usage Conditions:\n<color=black>•</color> Abyss Challenge, upgraded from Swordmaster Starfruit after beating Level 10. You can only have 1 Swordsage Starfruit on the lawn.\n<color=black>•</color> Unlockable in Purgatory Cursed Mode</color>\n<color=black>Damage: </color><color=#8B0000>(1800×2+1800×10)/6s</color>\n<color=black>Special: </color><color=#8B0000>When attacking, deals 1800 damage to zombies within a 3×3 area twice, then summons 10 giant swords that seek out enemies across the entire field, each dealing 1800 area damage upon landing.</color>",
+            "info": "<size=36>Swordsage Starfruit sweeps through enemies and summons ten giant swords descending from the sky.\n\n<color=blue>Unsealed form of Swordmaster Starfruit</color>\n<color=#3D1400>Usage Conditions:\n<color=black>•</color> Abyss Challenge, upgraded from Swordmaster Starfruit after beating Level 10. You can only have 1 Swordsage Starfruit on the lawn.\n<color=black>•</color> Unlockable in Purgatory Cursed Mode</color>\n<color=black>Damage: </color><color=#8B0000>(1800×2+1800×10)/6s</color>\n<color=black>Special: </color><color=#8B0000>When attacking, deals 1800 damage to zombies within a 3×3 area twice, then summons 10 giant swords that seek out enemies across the entire field, each dealing 1800 area damage upon landing.</color>",
             "cost": "<size=36>Cost: <color=#8B0000>750</color>\nRecharge: <color=#8B0000>30s</color>"
         },
         {
             "seedType": 301,
             "name": "Overclocked Cherrybomber",
             "introduce": "<align=justified><size=36><color=black>Other plants can't stop envying his explosive firepower. He just shrugs it off: \"I'm no genius here. It's all just hard work and sweat.\" Of course, he is referring to how he secretly stole everyone else's equipment and strapped it onto himself.</color>",
-            "info": "<size=36>Stronger than strongest damage-dealer.\n\n<color=#4A2900>Usage Condition: Mystery Mode | Legendary Odyssey Plant: Special form of Gatling Cherrybomber</color>\n<color=black>Damage: </color><color=#8B0000>300×6/0.5s</color>\n<color=black>Special: </color><color=#8B0000> Shoots explosive cherries at a horrifying rate after charging up for a 1.5s.</color>",
+            "info": "<size=36>Stronger than strongest damage-dealer.\n\n<color=blue>Unsealed form of Gatling Cherrybomber</color>\n<color=#4A2900>Usage Condition: Mystery Mode | Legendary Odyssey Plant: Special form of Gatling Cherrybomber</color>\n<color=black>Damage: </color><color=#8B0000>300×6/0.5s</color>\n<color=black>Special: </color><color=#8B0000> Shoots explosive cherries at a horrifying rate after charging up for a 1.5s.</color>",
             "cost": "\n"
         },
         {
             "seedType": 302,
             "name": "Arteris Cabbage",
             "introduce": "<align=justified><size=36><color=black>When the sky is painted in crimson light, war follows in her wake. Where peace cannot be found, she descends. She is the herald of bloodspill, the bringer of death: the Goddess of the Blood Moon.</color>",
-            "info": "<size=36>Born of the night, calling to fight. Under her blood moon, scarlet tides of zombies rise again and again.\n\n<color=#4A2900>Usage Condition: Mystery Mode | Legendary Odyssey Plant: Special form of Selene Cabbage; Easter Egg Plant</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Has a 2% chance to replace Selene Cabbage when fusing during Night levels (Fog, etc. not included). Arteris Cabbage retains all basic traits of Selene Cabbage.\n<color=black>•</color> You can only have 1 Arteris Cabbage on the field in Odyssey modes.\n<color=black>•</color> While Arteris Cabbage is on the field, Mini Moons from Selene Cabbages become Mini Bloodmoons. These no longer provide Healing, but instead summon buffed Hypnotized Zombies every 10s. The first summon has a 3s cooldown.\n<color=black>•</color> Each Arteris Cabbage provides a +50% Toughness and Damage buff to the summoned Zombies.\n<color=black>•</color> The number and position of summons depend on \"barren tiles,\" defined as tiles without an Arteris or Selene Cabbage on them or in their 3×3 area.</color>",
+            "info": "<size=36>Born of the night, calling to fight. Under her blood moon, scarlet tides of zombies rise again and again.\n\n<color=blue>Unsealed form of Selene Cabbage</color>\n<color=#4A2900>Usage Condition: Mystery Mode | Legendary Odyssey Plant: Special form of Selene Cabbage; Easter Egg Plant</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Has a 2% chance to replace Selene Cabbage when fusing during Night levels (Fog, etc. not included). Arteris Cabbage retains all basic traits of Selene Cabbage.\n<color=black>•</color> You can only have 1 Arteris Cabbage on the field in Odyssey modes.\n<color=black>•</color> While Arteris Cabbage is on the field, Mini Moons from Selene Cabbages become Mini Bloodmoons. These no longer provide Healing, but instead summon buffed Hypnotized Zombies every 10s. The first summon has a 3s cooldown.\n<color=black>•</color> Each Arteris Cabbage provides a +50% Toughness and Damage buff to the summoned Zombies.\n<color=black>•</color> The number and position of summons depend on \"barren tiles,\" defined as tiles without an Arteris or Selene Cabbage on them or in their 3×3 area.</color>",
             "cost": "\n"
         },
         {
@@ -1201,7 +1201,7 @@
             "seedType": 1045,
             "name": "Curse-shroom",
             "introduce": "<align=justified><size=36><color=black>The plants have always wondered why zombies can't be killed for good. Recently, Curse-shroom uncovered the mystery: \"I didn't really do much,\" it said modestly. \"I just kindly helped the zombies activate their backup hidden power source. Doesn't that red zombie look especially harmless? I did warn them, though.\"</color></size>",
-            "info": "<size=36>Zombies that eat the Curse-shroom will get hypnotized, and explode after death.\n\n<color=black>Special: </color><color=#8B0000>Zombies that eat the Curse-shroom will be hypnotized and cursed. The cursed zombie will explode like a Doom-shroom upon death/leaving the lawn.</color></size>",
+            "info": "<size=36>Zombies that eat the Curse-shroom will get hypnotized, and explode after death.\n\n<color=black>Special: </color><color=#8B0000>Zombies that eat the Curse-shroom will be hypnotized and cursed. The cursed zombie will explode like a Doom-shroom upon death/leaving the lawn, but also destroying the plants in its tile (if there is any).</color></size>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Hypno-shroom + Doom-shroom</color>"
         },
         {
@@ -1752,7 +1752,7 @@
         },
         {
             "seedType": 1124,
-            "name": "Cracked Melon",
+            "name": "Overripe Melon",
             "introduce": "<align=justified><size=36><color=black>\"Peel away the green exterior, and you'll find a heart of roses within.\" This phrase means don't randomly walk into an unfamiliar barber shop—it will be a mind-blowing decision.\nMelon Pot: \"After finishing a watermelon, wearing its rind on your head is something everyone did as a kid.\" Flower Pot remarks, \"Honestly, it's kind of silly.\"</color>",
             "info": "<size=36>Fires melons that bounce once.\n\n<color=black>Damage: </color><color=#8B0000>80/3s</color>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Cabbage-pult + Melon-pult</color>"
@@ -1768,7 +1768,7 @@
             "seedType": 1126,
             "name": "Salad-pult",
             "introduce": "<align=justified><size=36><color=black>\"When I was little, everyone asked what kind of Pult I wanted to be,\" says Salad-pult. \"They thought you couldn't have it all. But I decided I wanted everything—even back then.\"</color>",
-            "info": "<size=36>Can catapult mixed projectiles in rapid succession.\n\n<color=black>Damage: </color><color=#8B0000>140/5s</color>\n<color=black>Special: </color><color=#8B0000>42% chance of rapid-firing. Projectiles split into a mix of corn on the cobs (1/4 chance for buttered corn) and cracked melons upon hitting zombies.</color>",
+            "info": "<size=36>Can catapult mixed projectiles in rapid succession.\n\n<color=black>Damage: </color><color=#8B0000>140/5s</color>\n<color=black>Special: </color><color=#8B0000>42% chance of rapid-firing. Projectiles split into a mix of corn on the cobs (1/4 chance for buttered corn) and Overripe Melons upon hitting zombies.</color>",
             "cost": "<size=36>Fusion Formula: <color=#8B0000>Cabbage-pult + Kernel-pult + Melon-pult</color>"
         },
         {
@@ -2118,7 +2118,7 @@
             "seedType": 1176,
             "name": "Mind-blover",
             "introduce": "<align=justified><size=36><color=black>Plants are always curious why Mind-blover pulls the zombies back. Mind-blover explains: \"Since Blover always pushes zombies to the opposite direction they face, I believe it's only natural for me to do the same to hypnotized zombies.\"</color>",
-            "info": "<size=36>Can pull back hypnotized zombies!\n\n<color=black>Special: </color><color=#8B0000>Pulls all hypnotized zombies back, lasting for 5 seconds, but reduces their HP by 10% max Toughness.</color>",
+            "info": "<size=36>Can pull back hypnotized zombies!\n\n<color=black>Special: </color><color=#8B0000>Pulls all hypnotized zombies back, lasting for 5s, but reduces their HP by 10% max Toughness (except for zombies in the leftmost column).</color>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Hypno-shroom + Blover</color>"
         },
         {
@@ -2564,9 +2564,9 @@
         },
         {
             "seedType": 1240,
-            "name": "Threepeatato Mine",
-            "introduce": "<align=justified><size=36><color=black>Threepeatato Mine loves playing tricks underground. It shoots out surprises not once, not twice, but thrice—like a cheeky prankster with a never-ending stash of boom. Watch your step, or you might get a triple whammy that’ll blow your boots off.\n\n- Written by Mrs. Draco</color>",
-            "info": "<size=36>Threepeatato Mine resurfaces after exploding and fires potatoes across three lanes.\n\n<color=black>Damage: </color><color=#8B0000>30×3/1.5s</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Short plant (evades straight-firing projectiles).\n<color=black>•</color> Attacks faster as zombies get closer (down to 0.5s per attack).\n<color=black>•</color> When armed, explodes on contact, dealing 5400 damage, knocks back for 1 tile and retreats into the ground.\n<color=black>•</color> Re-emerges 15s after exploding. Explodes and disappears immediately upon contact with vehicles.</color>",
+            "name": "Threetato Mine",
+            "introduce": "<align=justified><size=36><color=black>Threetato Mine loves playing tricks underground. It shoots out surprises not once, not twice, but thrice—like a cheeky prankster with a never-ending stash of boom. Watch your step, or you might get a triple whammy that’ll blow your boots off.\n\n- Written by Mrs. Draco</color>",
+            "info": "<size=36>Threetato Mine resurfaces after exploding and fires potatoes across three lanes.\n\n<color=black>Damage: </color><color=#8B0000>30×3/1.5s</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Short plant (evades straight-firing projectiles).\n<color=black>•</color> Attacks faster as zombies get closer (down to 0.5s per attack).\n<color=black>•</color> When armed, explodes on contact, dealing 5400 damage, knocks back for 1 tile and retreats into the ground.\n<color=black>•</color> Re-emerges 15s after exploding. Explodes and disappears immediately upon contact with vehicles.</color>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Potato Mine + Threepeater</color>"
         },
         {
@@ -2971,7 +2971,7 @@
         {
             "seedType": 1298,
             "name": "Rush-shroom",
-            "introduce": "<align=justified><size=36><color=black>Rush-shroom is never taken seriously by others. Work? Speeches? Marriage? Only laughter responds to him. He can't even rest by a swimming pool, because if there's a pea in the pool, he'll be accused of being an accomplice.</color>",
+            "introduce": "<align=justified><size=36><color=black>\"To pea or not to pea?\" for Rush-shroom, that is the question. From a young age he rejected shooting peas. He stated he would rather help other plants. when asked where his desire to help others came from, he said, \"Plantern has been a huge role model for me growing up.\"\n\n-Written by Berfy Boy</color>",
             "info": "<size=36>Long-range sprayer; his fume can also give projectiles extra momentum.\n\n<color=black>Damage: </color><color=#8B0000>20/1.5s</color>\n<color=black>Special: </color><color=#8B0000>Has full-lane range. While emitting fumes, boosts straight-shooting projectiles ahead, increasing their speed and +1 damage every 0.02s. The boost is stackable.</color>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Peashooter + Fume-shroom</color>"
         },
@@ -3006,7 +3006,7 @@
         {
             "seedType": 1303,
             "name": "Orca-shroom",
-            "introduce": "<align=justified><size=36><color=black>\"Relax, many cetaceans are filter-feeders. We only eat plankton and algae. Any Sea-shrooms inadvertedly ingested will be spit out.\" said Orca-shroom to the sea mushrooms. The Sea-shrooms replied in horror, \"We understand, but what is that black, explosive thing?\"</color>",
+            "introduce": "<align=justified><size=36><color=black>They say this giant used to swim in the open seas of Sharktooth Ridge, the terror of all fish. But one fateful mishap with a certain mushroom-shaped bubble somehow left him tiny. His body's shrunken, but not his appetite, nor his penchant for explosive enthusiasm when a Sea-shroom drifts too close.</color>",
             "info": "<size=36>After consuming Sea-shrooms, spits small Doom-bombs forward.\n\n<color=black>Damage: </color><color=#8B0000>600</color>\n<color=black>Special: </color><color=#8B0000>Launches a Doom spore that deals 600 damage in a moderate radius after consuming a Sea-shroom. Feeding has no CD, but each shot takes 1.5s to fire and only a max of 2 shots can register at the same time.</color>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Doom-shroom > Sea-shroom</color>"
         },
@@ -3076,7 +3076,7 @@
         {
             "seedType": 1313,
             "name": "Tangle-nut",
-            "introduce": "<align=justified><size=36><color=black>People say he is aloof, tangled in problems, and hard-hearted. But who can deny his desire for solitude? Except Cattail, who sometimes mistakes him for a ball of yarn and plays with him.</color>",
+            "introduce": "<align=justified><size=36><color=black>Everyone says Tangle-nut is very reclusive, with such tangled problems that it is difficult to unravel to reach such a hard heart. But who can deny his desire for solitude? No one, except Cattail, who sometimes mistakes him for a ball of string to play with.\n\n-Written by Ultra Badlander</color>",
             "info": "<size=36>Applies Tangle value as retaliation.\n\n<color=black>Toughness: </color><color=#8B0000>4000</color>\n<color=black>Special: </color><color=#8B0000> When bitten, inflicts 1 Tangle value on the attacker. When crushed, loses 50 HP every 0.02s and inflicts 1 Tangle value each time.</color>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Wall-nut > Tangle Kelp</color>"
         },
@@ -3243,9 +3243,9 @@
         },
         {
             "seedType": 368,
-            "name": "Threepeatato Mine (TD)",
-            "introduce": "<align=justified><size=36><color=black>Threepeatato Mine loves playing tricks underground. It shoots out surprises not once, not twice, but thrice—like a cheeky prankster with a never-ending stash of boom. Watch your step, or you might get a triple whammy that’ll blow your boots off.\n\n- Written by Mrs. Draco</color>",
-            "info": "<size=36>Threepeatato Mine resurfaces after exploding and fires potatoes across three lanes.\n\n<color=blue>Reversible by pressing R</color>\n<color=black>Damage: </color><color=#8B0000>20×3/1.5s</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Short plant (evades straight-firing projectiles).\n<color=black>•</color> When armed, explodes on contact, dealing 5400 damage, knocks back for 1 tile and retreats into the ground.\n<color=black>•</color> Re-emerges 15s after exploding. Explodes and disappears immediately upon contact with vehicles.</color>\n<color=black>Upgrades: </color><color=#8B0000>\n<color=black>• Basic Upgrade: </color>(160 Sun) Attack Damage +50%\n<color=black>• Elite Upgrade Path 1: </color>(400 Sun) Attack Damage +200%\n<color=black>• Elite Upgrade Path 2: </color>(400 Sun) Now unleashes an Ultimate move every 60s, firing 250 shots straight ahead over 5s, plus 500 more in a 0-45° spread</color>",
+            "name": "Threetato Mine (TD)",
+            "introduce": "<align=justified><size=36><color=black>Threetato Mine loves playing tricks underground. It shoots out surprises not once, not twice, but thrice—like a cheeky prankster with a never-ending stash of boom. Watch your step, or you might get a triple whammy that’ll blow your boots off.\n\n- Written by Mrs. Draco</color>",
+            "info": "<size=36>Threetato Mine resurfaces after exploding and fires potatoes across three lanes.\n\n<color=blue>Reversible by pressing R</color>\n<color=black>Damage: </color><color=#8B0000>20×3/1.5s</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Short plant (evades straight-firing projectiles).\n<color=black>•</color> When armed, explodes on contact, dealing 5400 damage, knocks back for 1 tile and retreats into the ground.\n<color=black>•</color> Re-emerges 15s after exploding. Explodes and disappears immediately upon contact with vehicles.</color>\n<color=black>Upgrades: </color><color=#8B0000>\n<color=black>• Basic Upgrade: </color>(160 Sun) Attack Damage +50%\n<color=black>• Elite Upgrade Path 1: </color>(400 Sun) Attack Damage +200%\n<color=black>• Elite Upgrade Path 2: </color>(400 Sun) Now unleashes an Ultimate move every 60s, firing 250 shots straight ahead over 5s, plus 500 more in a 0-45° spread</color>",
             "cost": "<size=36>Cost: <color=#8B0000>400</color>\nRecharge: <color=#8B0000>30s</color></size>"
         },
         {
