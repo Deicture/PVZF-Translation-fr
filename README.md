@@ -110,7 +110,7 @@ Javanese | Xelag, 由羅 (Yura), JustTer, Star Apple
 Vietnamese | Shion, Cryda, JustNull | 
 Indonesian | 由羅 (Yura), Xelag, Seroja, Star Apple | 
 Russian | Nekosha, LancerX0 (Coder), Kammerer | 
-Japanese | Annie | devilzwawa, Ryna (Marina), Mamoru-kun
+Japanese | AnnieTGM | devilzwawa, Ryna (Marina), Mamoru-kun
 Korea | No active translator | 설이 , ATMnou, 취미로 놀고 먹는 사람
 
 ## Notice to Translators
