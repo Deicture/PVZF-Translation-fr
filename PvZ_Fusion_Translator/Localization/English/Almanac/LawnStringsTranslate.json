@@ -3021,7 +3021,7 @@
             "seedType": 1305,
             "name": "Jelly-shroom",
             "introduce": "<align=justified><size=36><color=black>\"Am I a Jellyfish? Or a Mushroom? Guess wrong, and you'll have to work for me.\" The Jelly-shroom loves playing these games with brainless zombies and has never lost. The closest to the right answer was Professor Cherryz, who answered \"I know Box Jellies are not true Jellies… Are you one of those?\"</color>",
-            "info": "<size=36>Summons grunt zombies to fight for you after consuming a Sea-shroom.\n\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Summons a hypnotized Dukcy Tube Zombie (browncoat) that fights for you after consuming a Sea-shroom.\n<color=black>•</color> When bitten, hypnotizes the attacker, then reverts to a Sea-shroom.</color>",
+            "info": "<size=36>Summons grunt zombies to fight for you after consuming a Sea-shroom.\n\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Summons a hypnotized Dukcy Tube Zombie (browncoat) that fights for you after consuming a Sea-shroom.\n<color=black>•</color> When bitten, hypnotizes the attacker, then disappears.</color>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Hypno-shroom > Sea-shroom</color>"
         },
         {
