@@ -92,10 +92,11 @@ __Climeron__ | Coding Help | Font Changing Implementation
 __Teyliu, Cassidy, JustNull, Dakosha__ | Coding
 __TrevTV__ | [Audio Changing Implementation](https://github.com/TrevTV/MelonLoader-AudioTools)
 __Rollerlhite__ | New Main Menu [Music](https://www.youtube.com/watch?v=aBj1MfvnHPE)
-__FireFly__ | English PvZ Fusion Logo
-__Roaoming__ | Custom Textures
-__Shel__ | Custom Textures
-__Xabdi__  | Custom Textures, New In-Game Audio
+__Cassidy__ | English PvZ Fusion Logo
+__Roaoming, Shel__ | Custom Textures
+__flexyj, CarrotD1scord__ | Translation Textures
+__Xabdi__  | Translation Textures, New In-Game Music
+__The Blooms Community__  | Translation ideas and assistance
 
 ### Language Teams
 **Language** | **Members** | **Inactive Members**
