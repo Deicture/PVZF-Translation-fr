@@ -3047,8 +3047,8 @@
         },
         {
             "seedType": 1309,
-            "name": "X-nut",
-            "introduce": "<align=justified><size=36><color=black>\"Streetlights sometimes malfunction, and that’s normal. This is when my role as a backup streetlight becomes important, though everyone seems worried about me,\" said X-nut. He didn't know that others worry not about his brightness, but that he might break the streetlight frame.</color>",
+            "name": "Illumi-nut",
+            "introduce": "<align=justified><size=36><color=black>\"Streetlights sometimes malfunction, and that’s normal. This is when my role as a backup streetlight becomes important, though everyone seems worried about me,\" said Illumi-nut. He didn't know that others worry not about his brightness, but that he might break the streetlight frame.</color>",
             "info": "<size=36>Wall-nut with Plantern properties; heals himself with Lumos level.\n\n<color=black>Toughness: </color><color=#8B0000>4000</color>\n<color=#99582a>Lumos System: </color><color=#8B0000>Provides 1 Lumos Level in a 3×3 Grid. Restores 150 Toughness per Lumos Level every 15s.</color></size>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Wall-nut + Plantern</color>"
         },
