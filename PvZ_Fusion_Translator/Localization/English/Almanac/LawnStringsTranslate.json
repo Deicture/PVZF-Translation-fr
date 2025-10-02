@@ -283,7 +283,7 @@
         {
             "seedType": 229,
             "name": "Lucky Blover",
-            "introduce": "<align=justified><size=36><color=black>Lucky Clover never believed the number four was unlucky. She's convinced that with her cute looks and good fortune, she can help plants see the number four in a better light. Still, what plants really wonder is: what kind of wind could possibly change the inside of a tightly sealed box?</color>",
+            "introduce": "<align=justified><size=36><color=black>Lucky Blover never believed the number four was unlucky. She's convinced that with her cute looks and good fortune, she can help plants see the number four in a better light. Still, what plants really wonder is: what kind of wind could possibly change the inside of a tightly sealed box?</color>",
             "info": "<size=36>Changes the winds of fate for you~\n\n<color=black>Special: </color><color=#8B0000>Forces your next Plant Giftbox to generate a guaranteed Advanced fusion. In Odyssey Gacha Mode, it will instead guarantee an Odyssey plant.</color>",
             "cost": "<size=36>Cost: <color=#8B0000>200</color>\nRecharge: <color=#8B0000>50s</color>"
         },        
@@ -2564,9 +2564,9 @@
         },
         {
             "seedType": 1240,
-            "name": "Threetato Mine",
-            "introduce": "<align=justified><size=36><color=black>Threetato Mine loves playing tricks underground. It shoots out surprises not once, not twice, but thrice—like a cheeky prankster with a never-ending stash of boom. Watch your step, or you might get a triple whammy that’ll blow your boots off.\n\n- Written by Mrs. Draco</color>",
-            "info": "<size=36>Threetato Mine resurfaces after exploding and fires potatoes across three lanes.\n\n<color=black>Damage: </color><color=#8B0000>30×3/1.5s</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Short plant (evades straight-firing projectiles).\n<color=black>•</color> Attacks faster as zombies get closer (down to 0.5s per attack).\n<color=black>•</color> When armed, explodes on contact, dealing 5400 damage, knocks back for 1 tile and retreats into the ground.\n<color=black>•</color> Re-emerges 15s after exploding. Explodes and disappears immediately upon contact with vehicles.</color>",
+            "name": "Threepeatato Mine",
+            "introduce": "<align=justified><size=36><color=black>Threepeatato Mine loves playing tricks underground. It shoots out surprises not once, not twice, but thrice—like a cheeky prankster with a never-ending stash of boom. Watch your step, or you might get a triple whammy that’ll blow your boots off.\n\n- Written by Mrs. Draco</color>",
+            "info": "<size=36>Threepeatato Mine resurfaces after exploding and fires potatoes across three lanes.\n\n<color=black>Damage: </color><color=#8B0000>30×3/1.5s</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Short plant (evades straight-firing projectiles).\n<color=black>•</color> Attacks faster as zombies get closer (down to 0.5s per attack).\n<color=black>•</color> When armed, explodes on contact, dealing 5400 damage, knocks back for 1 tile and retreats into the ground.\n<color=black>•</color> Re-emerges 15s after exploding. Explodes and disappears immediately upon contact with vehicles.</color>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Potato Mine + Threepeater</color>"
         },
         {
@@ -3047,8 +3047,8 @@
         },
         {
             "seedType": 1309,
-            "name": "Lantern-nut",
-            "introduce": "<align=justified><size=36><color=black>\"Streetlights sometimes malfunction, and that’s normal. This is when my role as a backup streetlight becomes important, though everyone seems worried about me,\" said Lantern-nut. He didn't know that others worry not about his brightness, but that he might break the streetlight frame.</color>",
+            "name": "X-nut",
+            "introduce": "<align=justified><size=36><color=black>\"Streetlights sometimes malfunction, and that’s normal. This is when my role as a backup streetlight becomes important, though everyone seems worried about me,\" said X-nut. He didn't know that others worry not about his brightness, but that he might break the streetlight frame.</color>",
             "info": "<size=36>Wall-nut with Plantern properties; heals himself with Lumos level.\n\n<color=black>Toughness: </color><color=#8B0000>4000</color>\n<color=#99582a>Lumos System: </color><color=#8B0000>Provides 1 Lumos Level in a 3×3 Grid. Restores 150 Toughness per Lumos Level every 15s.</color></size>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Wall-nut + Plantern</color>"
         },
@@ -3243,9 +3243,9 @@
         },
         {
             "seedType": 368,
-            "name": "Threetato Mine (TD)",
-            "introduce": "<align=justified><size=36><color=black>Threetato Mine loves playing tricks underground. It shoots out surprises not once, not twice, but thrice—like a cheeky prankster with a never-ending stash of boom. Watch your step, or you might get a triple whammy that’ll blow your boots off.\n\n- Written by Mrs. Draco</color>",
-            "info": "<size=36>Threetato Mine resurfaces after exploding and fires potatoes across three lanes.\n\n<color=blue>Reversible by pressing R</color>\n<color=black>Damage: </color><color=#8B0000>20×3/1.5s</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Short plant (evades straight-firing projectiles).\n<color=black>•</color> When armed, explodes on contact, dealing 5400 damage, knocks back for 1 tile and retreats into the ground.\n<color=black>•</color> Re-emerges 15s after exploding. Explodes and disappears immediately upon contact with vehicles.</color>\n<color=black>Upgrades: </color><color=#8B0000>\n<color=black>• Basic Upgrade: </color>(160 Sun) Attack Damage +50%\n<color=black>• Elite Upgrade Path 1: </color>(400 Sun) Attack Damage +200%\n<color=black>• Elite Upgrade Path 2: </color>(400 Sun) Now unleashes an Ultimate move every 60s, firing 250 shots straight ahead over 5s, plus 500 more in a 0-45° spread</color>",
+            "name": "Threepeatato Mine (TD)",
+            "introduce": "<align=justified><size=36><color=black>Threepeatato Mine loves playing tricks underground. It shoots out surprises not once, not twice, but thrice—like a cheeky prankster with a never-ending stash of boom. Watch your step, or you might get a triple whammy that’ll blow your boots off.\n\n- Written by Mrs. Draco</color>",
+            "info": "<size=36>Threepeatato Mine resurfaces after exploding and fires potatoes across three lanes.\n\n<color=blue>Reversible by pressing R</color>\n<color=black>Damage: </color><color=#8B0000>20×3/1.5s</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Short plant (evades straight-firing projectiles).\n<color=black>•</color> When armed, explodes on contact, dealing 5400 damage, knocks back for 1 tile and retreats into the ground.\n<color=black>•</color> Re-emerges 15s after exploding. Explodes and disappears immediately upon contact with vehicles.</color>\n<color=black>Upgrades: </color><color=#8B0000>\n<color=black>• Basic Upgrade: </color>(160 Sun) Attack Damage +50%\n<color=black>• Elite Upgrade Path 1: </color>(400 Sun) Attack Damage +200%\n<color=black>• Elite Upgrade Path 2: </color>(400 Sun) Now unleashes an Ultimate move every 60s, firing 250 shots straight ahead over 5s, plus 500 more in a 0-45° spread</color>",
             "cost": "<size=36>Cost: <color=#8B0000>400</color>\nRecharge: <color=#8B0000>30s</color></size>"
         },
         {
