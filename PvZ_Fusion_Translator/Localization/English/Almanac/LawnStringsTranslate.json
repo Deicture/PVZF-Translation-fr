@@ -865,7 +865,7 @@
             "seedType": 954,
             "name": "Princess Solarnova",
             "introduce": "<align=justified><size=36><color=black>Solarnova is princess of the Solaria Kingdom and a world-famous pop idol. Her hit single Dance of the Blazing Sun is so popular that even Dr. Edgar is rumored to own a copy. Despite her fame, she's approachable and loves meeting her subjects and fans, but just don't get too close, or her warmth might burn you.</color>",
-            "info": "Generates sun at extreme speed while melting down nearby projectiles. When active (eyes open), she unleashes searing solar flares; when inactive (winking), she stores radiant energy to be released later.<size=36>\n\n<color=#4A2900>Usage Condition: Odyssey Mode | Unlockable</color>\n<color=black>Sun Output: </color><color=#8B0000>50/3s</color>\n<color=black>Damage: </color><color=#8B0000>1800</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Generates Sun and consumes nearby plant projectiles to absorb energy (1 damage = 1 energy). Energy is capped at Attack damage ×4; excess energy is converted to Sun (1 projectile = 5 Sun).\n<color=black>•</color> When energy exceeds Attack damage, fires a solar shot that explodes on impact, dealing 100% Damage in a small area.\n<color=black>•</color> Using a Coffee Bean toggles active/inactive modes. Does not attack in inactive mode.</color>\n<color=black>Odyssey Modifiers:</color>\n<color=#8B0000>1. When a solar shot hits a zombie, it cause nearby projectiles to explode as well, dealing 10% attack damage\n2. Energy cap ×3, Sun storage amount ×3</color>",
+            "info": "<size=36>Generates sun at extreme speed while melting down nearby projectiles. When active (eyes open), she unleashes searing solar flares; when inactive (winking), she stores radiant energy to be released later.\n\n<color=#4A2900>Usage Condition: Odyssey Mode | Unlockable</color>\n<color=black>Sun Output: </color><color=#8B0000>50/3s</color>\n<color=black>Damage: </color><color=#8B0000>1800</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Generates Sun and consumes nearby plant projectiles to absorb energy (1 damage = 1 energy). Energy is capped at Attack damage ×4; excess energy is converted to Sun (1 projectile = 5 Sun).\n<color=black>•</color> When energy exceeds Attack damage, fires a solar shot that explodes on impact, dealing 100% Damage in a small area.\n<color=black>•</color> Using a Coffee Bean toggles active/inactive modes. Does not attack in inactive mode.</color>\n<color=black>Odyssey Modifiers:</color>\n<color=#8B0000>1. When a solar shot hits a zombie, it cause nearby projectiles to explode as well, dealing 10% attack damage\n2. Energy cap ×3, Sun storage amount ×3</color>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Torchflower + Golden Sunflower</color>"
         },
         {
@@ -3061,8 +3061,8 @@
         },
         {
             "seedType": 1311,
-            "name": "Nut-pot",
-            "introduce": "<align=justified><size=36><color=black>Everyone speculated about Nut-pot's appearance: some said he was a broken nut, others that he was a damaged daruma doll. Whatever others guessed, Nut Flowerpot didn't answer. Those boring past events were buried by lava. \"At least now, I am a Pot,\" he said.</color>",
+            "name": "Nut Pot",
+            "introduce": "<align=justified><size=36><color=black>Everyone speculated about Nut Pot's appearance: some said he was a broken nut, others that he was a damaged daruma doll. Whatever others guessed, Nut Flowerpot didn't answer. Those boring past events were buried by lava. \"At least now, I am a Pot,\" he said.</color>",
             "info": "<size=36>Heat-insulated defensive Flower Pot.\n\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Reduces incoming damage to the plant on top by 20%.\n<color=black>•</color> Immune to Lava tile damage and protects the plant on top.\n<color=black>•</color> Lava tiles deal 50 damage per second to plants and zombies on them, prioritizing Flower Pots, dealing 10 damage to them instead.</color>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Wall-nut > Flower Pot</color>"
         },
@@ -3229,7 +3229,7 @@
         },
         {
             "seedType": 366,
-            "name": "Lilyp Pad (TD)",
+            "name": "Lily Pad (TD)",
             "introduce": "<align=justified><size=36><color=black>Lily Pad never complains. Lily Pad never wants to know what's going on. Put a plant on top of Lily Pad, he won't say a thing. Does he have startling opinions or shocking secrets? Nobody knows. Lily Pad keeps it all inside.</color></size>",
             "info": "<size=36>Lily Pads let you plant non-aquatic plants on top of them.\n\n<color=black>Special: </color><color=#8B0000>Non-aquatic plants can be planted on it. Short plant.</color></size>",
             "cost": "<size=36>Cost: <color=#8B0000>25</color>\nRecharge: <color=#8B0000>7.5s</color></size>"
