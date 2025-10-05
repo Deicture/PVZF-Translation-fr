@@ -227,5 +227,6 @@
   "^HP：(\\d+)/(\\d+)$": "HP: {0}/{1}",
   "关卡保存成功，编号为(\\d+)_(\\d+)": "Level with number {0}_{1} Saved!",
   "￥(\\d+)": "${0}",
-  "([^\\s]+)，推荐难度：(\\d+)": "{0}, Recommended Difficulty: {1}"
+  "([^\\s]+)，推荐难度：(\\d+)": "{0}, Recommended Difficulty: {1}",
+  "([^\\s]+)\n等级：(\\d+)\n生效范围：\n([^\\s]+)\n生效间隔：\n(\\d+)秒": "{0}\nLevel: {1}\nRange: \n{2}\nInterval: \n{3} Seconds"
 }
