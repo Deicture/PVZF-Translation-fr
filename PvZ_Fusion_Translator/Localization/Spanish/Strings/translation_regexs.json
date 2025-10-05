@@ -224,5 +224,6 @@
   "^HP：(\\d+)/(\\d+)$": "PS: {0}/{1}",
   "关卡保存成功，编号为(\\d+)_(\\d+)": "¡El nivel con el número {0}_{1} ha sido guardado!",
   "￥(\\d+)": "${0}",
-  "([^\\s]+)，推荐难度：(\\d+)": "{0}, Dificultad Recomendada: {1}"
+  "([^\\s]+)，推荐难度：(\\d+)": "{0}, Dificultad Recomendada: {1}".
+  "([^\\s]+)\n等级：(\\d+)\n生效范围：\n([^\\s]+)\n生效间隔：\n(\\d+)秒": "{0}\nNivel: {1}\nRango: \n{2}\nIntervalo: \n{3} Segundos"
 }
