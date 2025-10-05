@@ -4187,7 +4187,7 @@
       "name": "Luminívora Titán",
       "introduce": "<size=39><color=#3D1400>La Luminívora Titán no estaba segura de cómo terminó en tierra firme después de una travesía por las profundidades del mar, pero se ha acomodado perfectamente.  \u0022¿Para qué volver a las oscuras y escasas profundidades si siempre hay zombis en el menú?\u0022, gruñó. La leyenda dice que su apetito es tan grande que los concursos gourmet ya no pudieron pagar la factura de la electricidad... supongo que ahora ella es su nueva fuente de energía.</color></size>",
       "info": "<size=39>Parte del <color=#104f30>Sistema Lúmina</color>\nUna Carnívora gigante que atrae zombis con luz; una maestra en atraer, devorar y digerir.\n<color=#104f30>Sistema Lúmina:</color></color>\n- Mientras más Niveles Lúmina tenga, el tiempo de masticación se reduce por 10s hasta un mínimo de 5s</color>\n\n<color=#3D1400>Dureza: </color><color=red>8000</color>\n<color=#3D1400>Daño: </color><color=red>Muerte Instantánea</color>\n<color=#3D1400>Rango: </color><color=red>1,5 casillas al frente</color>\n<color=#3D1400>Tiempo De Masticado: </color><color=red>5 + (Suma Total de la Durabilidad de los Zombis)^0,33s (-10s * Nivel Lúmina)</color>\n<color=#3D1400>Especial:</color> <color=red>\n- Inmune a ser aplastado. Puede comer todos los zombis (excluyendo zombis líderes) en un rango de 1,5 casillas en frente suyo.\n- Ocupando un paquete de semillas de Planta Carnívora en ella reducirá su tiempo de masticación por 10s.\n- Al digerir, atrae zombis cercanos de sus filas adyacentes y recupera toda su dureza.\n\n<color=purple>Mejoras de Odisea:</color>\n</color>- Rango de ataque x2</color>\n- Otorga 2 Niveles Lúmina en un área de 5×5 mientras digiere.</color>\n\n<color=#3D1400>Fórmula de Fusión: </color><color=red>Carnívora Titán + Planta Luminívora</color></size>",
-      "cost": "<size=33>Costo: <color=red>25</color>   Recarga: <color=red>75 Segundos</color>\nPlantas Requeridas: <color=red>6\n<color=purple>Condición de Uso: Modo Odisea - Desbloqueable</color></size>"
+      "cost": "<size=33>Costo: <color=red>675</color>   Recarga: <color=red>75 Segundos</color>\nPlantas Requeridas: <color=red>6\n<color=purple>Condición de Uso: Modo Odisea - Desbloqueable</color></size>"
     },
     {
      "seedType": 952,
@@ -4933,21 +4933,21 @@
       "name": "Hidrocactus",
       "introduce": "<size=39><color=#3D1400>\u0022La gente a menudo pregunta por mi apariencia, así que déjenme aclarar: Soy del Desierto de Namib,\u0022 dijo Hidrocactus a todos los que preguntaban. \u0022Si conoces la geografía, ¡sabrás que un desierto puede encontrarse justo al lado del océano!\u0022</color></size>",
       "info": "<size=39>Ataca zombis voladores y naves aéreas, creciendo en tamaño después de un tiempo.\n\n<color=#3D1400>Daño: </color><color=red>20+20 (Pequeño) 20*4+20*4 (Crecido) cada 1,5s</color>\n<color=#3D1400>Especial: </color><color=red>Crece en tamaño tras 60 segundos. Dispara una espora y un pincho el cual solo ataca zombis aéreos. Después de crecer, dispara 4 esporas y 4 pinchos.</color>\n<color=#3D1400>Fórmula de Fusión: </color><color=red>Marseta + Cactus (En Orden)</color></size>",
-      "cost": "<size=39>Costo: <color=red>125, 200</color>   Recarga: <color=red>15 Segundos</color>\nPlantas Requeridas: <color=red>2</color></size>"
+      "cost": "<size=39>Costo: <color=red>125, 200 (-50)</color>   Recarga: <color=red>15 Segundos</color>\nPlantas Requeridas: <color=red>2</color></size>"
     },
     {
       "seedType": 1077,
       "name": "Marseta Solar",
       "introduce": "<size=39><color=#3D1400>\u0022Lamentablemente, soy una seta, no una flor, por lo que no puedo ser llamado flor de mar ni nada parecido,\u0022 admitió Marseta Solar. \u0022A veces, eso me deprime, pero no dejes que te afecte. Puede que no sea un Girasol, ¡pero aún puedo usar diferentes reacciones químicas en el agua para traértelo!\u0022. Y vaya que lo trajo.</color></size>",
       "info": "<size=39>Produce cantidades crecientes de sol a medida que esta crece, superando la producción solar de los Birasoles.\n\n<color=#3D1400>Producción Solar: </color><color=red>15 (Pequeña), 25 (Normal), 50 (Grande) cada 15s</color>\n<color=#3D1400>Especial: </color><color=red>Crece en tamaño tras 20 y 60 segundos, aumentando su producción solar.\n<color=#3D1400>Fórmula de Fusión: </color><color=red>Marseta + Girasol (En Orden)</color></size>",
-      "cost": "<size=39>Costo: <color=red>50, 125</color>   Recarga: <color=red>15 Segundos</color>\nPlantas Requeridas: <color=red>2</color></size>"
+      "cost": "<size=39>Costo: <color=red>50, 125 (-50)</color>   Recarga: <color=red>15 Segundos</color>\nPlantas Requeridas: <color=red>2</color></size>"
     },
     {
       "seedType": 1078,
       "name": "Luminiseta Marina",
       "introduce": "<size=39><color=#3D1400>\"Soy Luminiseta Marina, portadora de paz y luz en el jardín,\" dijo con calma. \"Mi brillo suave disipa la niebla y trae serenidad a cada rincón. En las noches más oscuras, mi luz se expande, envolviendo todo en un abrazo cálido y pacífico. Con cada destello, prometo proteger y guiar, llenando de calma y claridad incluso los momentos más difíciles.\"</color></size>",
       "info": "<size=39>Parte del <color=#104f30>Sistema Lúmina</color>\nIlumina a un rango más ampliado al crecer.\n<color=#104f30>Sistema Lúmina:</color>\n- Proporciona 1 Nivel Lúmina en un área de 3x3 (5x5 tras 60s).\n\n<color=#3D1400>Especial: </color><color=red>Disipa la niebla en un área de 7x5. Crece en tamaño tras 60 segundos.\n<color=#3D1400>Fórmula de Fusión:</color> <color=red>Marseta + Planterna (En Orden)</color></size>",
-      "cost": "<size=39>Costo: <color=red>25, 100</color>   Recarga: <color=red>22,5 Segundos</color>\nPlantas Requeridas: <color=red>2</color></size>"
+      "cost": "<size=39>Costo: <color=red>25, 100 (-50)</color>   Recarga: <color=red>22,5 Segundos</color>\nPlantas Requeridas: <color=red>2</color></size>"
     },
     {
     "seedType": 1079,
@@ -4982,7 +4982,7 @@
       "name": "Frustrella Marina",
       "introduce": "<size=39><color=#3D1400>\u0022Aunque mi nombre se parece al de un animal, es solo un nombre artístico,\u0022 explicó Frustrella Marina. \u0022Soy un mago que puede expulsar esporas de varias formas.\u0022 Le desagradan profundamente los zombis buceadores, preocupado de que descubran la verdad: es simplemente un hongo marino con una pistola de agua en forma de estrella en la cabeza.</color></size>",
       "info": "<size=39>Ataca dos veces cuando está completamente desarrollada.\n\n<color=#3D1400>Daño: </color><color=red>20*5 (Pequeña) 20*5*2 (Crecida) cada 1,5s</color>\n<color=#3D1400>Especial: </color><color=red>Crece en tamaño tras 60 segundos.</color>\n<color=#3D1400>Fórmula de Fusión: </color><color=red>Marseta + Frustella (En Orden)</color></size>",
-      "cost": "<size=39>Costo: <color=red>125, 200</color>   Recarga: <color=red>15 Segundos</color>\nPlantas Requeridas: <color=red>2</color></size>"
+      "cost": "<size=39>Costo: <color=red>125, 200 (-50)</color>   Recarga: <color=red>15 Segundos</color>\nPlantas Requeridas: <color=red>2</color></size>"
     },
     {
       "seedType": 1084,
@@ -5003,7 +5003,7 @@
       "name": "Brisamarina",
       "introduce": "<size=39><color=#3D1400>Brisamarina tiene aspiraciones tan grandes como un dragón. Maestro del antiguo arte del \u0022Feng Shui\u0022 del Este, conoce bien las posiciones afortunadas y desafortunadas. Entendiendo que el viento y el agua se complementan, espera mantener la mala suerte a raya, ya sea surcando los cielos o deslizándose por el agua.</color></size>",
       "info": "<size=39>Disipa la niebla y aleja a los zombis en el agua.\n\n<color=#3D1400>Uso: </color><color=red>Único, Instantáneo\n<color=#3D1400>Especial: </color><color=red>Disipa la niebla y empuja a los zombis acuáticos hasta la primera columna.\n<color=#3D1400>Fórmula de Fusión: </color><color=red>Marseta + Trebolador (En Orden)</color></size>",
-      "cost": "<size=39>Costo: <color=red>100, 175</color>   Recarga: <color=red>22,5 Segundos</color>\nPlantas Requeridas: <color=red>2</color></size>"
+      "cost": "<size=39>Costo: <color=red>100, 175 (-50)</color>   Recarga: <color=red>22,5 Segundos</color>\nPlantas Requeridas: <color=red>2</color></size>"
     },
     {
       "seedType": 1087,
@@ -5108,7 +5108,7 @@
       "name": "Magnetoseta Marina",
       "introduce": "<size=39><color=#3D1400>Las otras Marsetas no podían comprender por qué Magnetoseta Marina podía absorber hierro para hacerse más grande y alto. \u0022Es simple: E=mc²,\u0022 explicó, aunque la mayor parte de la energía se perdiera en el aire y no se utilizara en absoluto.</color></size>",
       "info": "<size=39>Parte del <color=#8B0000>Sistema Magnético</color>\nCrece al atraer suficientes objetos.\n\n<color=#3D1400>Especial:</color><color=red>Crece tras absorber metales 3 veces y su intervalo de atracción se reduce a 10 segundos (rango de detección 7x5)\n\n<color=#3D1400>Fórmula de Fusión: </color><color=red>Marseta + Magnetoseta</color></size>",
-      "cost": "<size=39>Costo: <color=red>100, 250</color>   Recarga: <color=red>15 Segundos</color>\nPlantas Requeridas: <color=red>2</color></size>"
+      "cost": "<size=39>Costo: <color=red>100, 250 (-50)</color>   Recarga: <color=red>15 Segundos</color>\nPlantas Requeridas: <color=red>2</color></size>"
     },
     {
       "seedType": 1102,
@@ -5674,7 +5674,7 @@
       "seedType": 1182,
       "name": "Plantorcha Polar",
       "introduce": "<size=39><color=#3D1400>Aunque Plantorcha Polar es completamente lo opuesto de lo que solia ser, sigue teniendo integridad, sigue siendo amable, ¡y en vez de potenciar guisantes, los congela! Pero el frio extremo es un problema gigante. Ahora no sabe ni leer ni hablar, ya que el hielo le congeló la boca.</color></size>",
-      "info": "<size=39>Soporte del <color=#0077b6>Sistema Criogénico</color>\nHace lo opuesto de la Plantorcha, congela guisantes que pasan por el.</color></color>\n\n<color=#3D1400>Especial:</color> <color=red>Convierte los guisantes que pasan en guisantes helados. Si guisantes helados pasan, se convierten en guisantes criogenizados, que hacen el doble de daño y el doble de la cantidad de puntos criogénicos.</color>\n<size=39><color=#3D1400>Fórmula de Fusión:</color> <color=red>Seta Congelada + Plantorcha</color></size>",
+      "info": "<size=39>Soporte del <color=#0077b6>Sistema Criogénico</color>\nHace lo opuesto de la Plantorcha, congela guisantes que pasan por el.</color></color>\n\n<color=#3D1400>Especial:</color> <color=red>Convierte los guisantes que pasan en guisantes helados. Si guisantes helados pasan, se convierten en guisantes criogenizados, que hacen el doble de daño y el doble de la cantidad de puntos criogénicos. Lo mismo ocurre con orbes de agua.</color>\n<size=39><color=#3D1400>Fórmula de Fusión:</color> <color=red>Seta Congelada + Plantorcha</color></size>",
       "cost": "<size=39>Costo: <color=red>250, 325</color>   Recarga: <color=red>57,5 Segundos</color>\nPlantas Requeridas: <color=red>2</color></size>"
     },
     {
@@ -5730,14 +5730,14 @@
       "seedType": 1190,
       "name": "Calabaza Mina",
       "introduce": "<size=39><color=#3D1400>La Calabaza Mina fue una vez el dueño de una tienda de papas fritas, pero la reputación siguió cayendo, lo que lo llevó al jardín. \"Media ración de papas fritas, menos pero no más barato, ¿no es una gran oferta?\" Está promocionando su nuevo producto, aunque los clientes parecen estar más interesados en su oferta de 'media ración'.</color></size>",
-      "info": "<size=39>Una calabaza más pequeña.</color>\n\n<color=#3D1400><color=#3D1400>Dureza:</color> <color=red>4000</color>\n<color=#3D1400>Daño: </color><color=red>500 (área 1x1) (-1350 PS), 1800 (área 1x1) (al morir)\nEspecial:</color> <color=red>Una planta pequeña, no puede bloquear balas (las plantas no bajas dentro de Calabaza Mina serán golpeadas), cada vez que recibe 1350 de daño ocasiona una pequeña explosión.</color>\n<size=39><color=#3D1400>Fórmula de Fusión:</color> <color=red>Patatapum + Calabaza</color></size>",
+      "info": "<size=39>Una calabaza más pequeña.</color>\n\n<color=#3D1400><color=#3D1400>Dureza:</color> <color=red>4000</color>\n<color=#3D1400>Daño: </color><color=red>500 (área 1x1) (-1350 PS), 1800 (área 1x1) (al morir)\n<color=#3D1400>Especial:</color> <color=red>Una planta pequeña, no puede bloquear balas (las plantas no bajas dentro de Calabaza Mina serán golpeadas), cada vez que recibe 1350 de daño ocasiona una pequeña explosión.</color>\n<size=39><color=#3D1400>Fórmula de Fusión:</color> <color=red>Patatapum + Calabaza</color></size>",
       "cost": "<size=39>Costo: <color=red>150</color>   Recarga: <color=red>60 Segundos</color>\nPlantas Requeridas: <color=red>2</color></size>"
     },
     {
       "seedType": 1191,
       "name": "Cactus Maldito",
       "introduce": "<size=39><color=#3D1400>Cactus Maldito ha estudiado el \"Manual de Guerra de Plantas,\" por lo que le gusta acumular poder y explotar, buscando un golpe decisivo — este método no solo puede usarse para luchar contra zombis, sino también para \"atacar\" a los ratones acorazados.</color></size>",
-      "info": "<size=39>Lanza espinas con un aura de destrucción.</color>\n\n<color=#3D1400>Daño:</color> <color=red>40 cada 1,5s\n\n<color=#3D1400>Especial:</color> <color=red>Cada ataque tiene un 5% de probabilidad de activar un movimiento especial. Si no se activa, el siguiente ataque aumentará la probabilidad de activarlo. Después de 20 ataques, la probabilidad es del 100%. Su efecto especial hará disparar una gran cantidad de espinas, podiendo atacar zombis aéreos.</color>\n<size=39><color=#3D1400>Fórmula de Fusión:</color> <color=red>Petaseta + Cactus</color></size>",
+      "info": "<size=39>Lanza espinas con un aura de destrucción.</color>\n\n<color=#3D1400>Daño:</color> <color=red>40 cada 1,5s\n<color=#3D1400>Especial:</color> <color=red>Cada ataque tiene un 5% de probabilidad de activar un movimiento especial. Si no se activa, el siguiente ataque aumentará la probabilidad de activarlo. Después de 20 ataques, la probabilidad es del 100%. Su efecto especial hará disparar una gran cantidad de espinas, podiendo atacar zombis aéreos.</color>\n<size=39><color=#3D1400>Fórmula de Fusión:</color> <color=red>Petaseta + Cactus</color></size>",
       "cost": "<size=39>Costo: <color=red>250, 325</color>   Recarga: <color=red>57,5 Segundos</color>\nPlantas Requeridas: <color=red>2</color></size>"
     },
     {
@@ -6095,7 +6095,7 @@
       "seedType": 1242,
       "name": "Petaseta Bromista",
       "introduce": "<size=39><color=#3D1400>\u0022¡Oye, payasito!\u0022 dicen los zombis, burlándose. Petaseta Bromista los mira en silencio. No necesita discutir; su obra maestra hablará por sí sola. Lástima que ninguno de ellos esté presente para ver cómo termina.</color></size>",
-      "info": "<size=39>Parte del <color=#8B0000>Sistema Magnético</color> (categoría <color=red>Sin Efecto)\n¡Una Petaseta que puede generar explosiones en cadena!</color>\n\n<color=#3D1400>Daño: </color><color=red>3240 (área de 7x7)</color>\n<color=#3D1400>Uso: </color><color=red>Único, Instantáneo</color>\n<color=#3D1400>Especial:</color> <color=red>Deja un cráter al explotar. Los zombis que destruye explotan en donde están, haciendo 1800 de daño a otros zombis en su posición.</color>\n<size=39><color=#3D1400>Fórmula de Fusión:</color> <color=red>Petaseta Bromista + Cajita Sorpresa</color></size>",
+      "info": "<size=39>Parte del <color=#8B0000>Sistema Magnético</color>\n¡Una Petaseta que puede generar explosiones en cadena!</color>\n\n<color=#3D1400>Daño: </color><color=red>3240 (área de 7x7)</color>\n<color=#3D1400>Uso: </color><color=red>Único, Instantáneo</color>\n<color=#3D1400>Especial:</color> <color=red>Deja un cráter al explotar. Los zombis que destruye explotan en donde están, haciendo 1800 de daño a otros zombis en su posición.</color>\n<size=39><color=#3D1400>Fórmula de Fusión:</color> <color=red>Petaseta Bromista + Cajita Sorpresa</color></size>",
       "cost": "<size=39>Costo: <color=red>225, 375</color>   Recarga: <color=red>57,5 Segundos</color>\nPlantas Requeridas: <color=red>2 (+ Cajita Sorpresa)</color></size>"
     },
     {
@@ -6415,8 +6415,8 @@
     },
     {
       "seedType": 1288,
-      "name": "Calabaza Tocón",
-      "introduce": "<size=39><color=#3D1400>A la Calabaza Tocón no le gustan los gestos ruidosos ni ostentosos. Es tranquilo, reservado y ayuda discretamente a los guisantes que lo necesitan. Incluso en una barbacoa, si le sirven comida medio cruda, no se queja; simplemente se la mete dentro y se la lleva a casa. Para entonces, estará perfectamente cocinada.</color></size>",
+      "name": "Calabrasa",
+      "introduce": "<size=39><color=#3D1400>A la Calabrasa no le gustan los gestos ruidosos ni ostentosos. Es tranquilo, reservado y ayuda discretamente a los guisantes que lo necesitan. Incluso en una barbacoa, si le sirven comida medio cruda, no se queja; simplemente se la mete dentro y se la lleva a casa. Para entonces, estará perfectamente cocinada.</color></size>",
       "info": "<size=39>Cada 50 proyectiles que pasan, genera una calabaza.</color>\n\n<color=#3D1400>Dureza: </color><color=red>4000</color>\n<color=#3D1400>Especial:</color> <color=red>Genera una Calabaza Caliente cada 50 proyectiles que pasen por el. También puede incendiar proyectiles de la planta dentro suyo.</color>\n<size=39><color=#3D1400>Fórmula de Fusión:</color> <color=red>Plantorcha + Calabaza</color></size>",
       "cost": "<size=39>Costo: <color=red>300</color>   Recarga: <color=red>37,5 Segundos</color>\nPlantas Requeridas: <color=red>2</color></size>"
     },
@@ -6425,7 +6425,7 @@
       "name": "Calabaza Caliente",
       "introduce": "<size=39><color=#3D1400>\u0022¡Feliz Halloween!\u0022, grita Calabaza Caliente, repartiendo bolsas de dulces a las plantitas traviesas. Y cuando se acaben los dulces, no olviden ir a ver su obra de teatro: ¡quizás interprete al mismísimo Jinete Sin Cabeza!</color></size>",
       "info": "<size=39>Una calabaza quemada.</color>\n\n<color=#3D1400>Dureza: </color><color=red>4000</color></size>",
-      "cost": "<size=39>Planta Requerida: <color=red>Calabaza Tocón</color></size>"
+      "cost": "<size=39>Planta Requerida: <color=red>Calabrasa</color></size>"
     },
     {
       "seedType": 1290,
@@ -6439,7 +6439,7 @@
       "name": "Tiburonseta",
       "introduce": "<size=39><color=#3D1400>\u0022Vengo del vasto océano\u0022, presume la Tiburonseta. \u0022Con esta imitación de tiburón, puedo ahuyentar a cualquier depredador. Es una evolución solo posible en las profundidades marinas\u0022. Le encanta contar historias de su pasado a las Marsetas, pero nunca revela por qué abandonó el océano: el disfraz suele atraer a tiburones de verdad.</color></size>",
       "info": "<size=39>Consume una Marseta para potenciarse. ¡Caníbal!</color>\n\n<color=#3D1400>Daño: </color><color=red>20 cada 1,5s</color>\n<color=#3D1400>Especial:</color> <color=red>Al colocar una Marseta en frente de una Tiburonseta, este lo come, aumentando su rango de ataque a toda su fila. La Tiburonseta también puede repeler zombis empujados por Krakenseta en 3 segundos.</color>\n<size=39><color=#3D1400>Fórmula de Fusión:</color> <color=red>Marseta + Humoseta (En Orden)</color></size>",
-      "cost": "<size=39>Costo: <color=red>75, 225</color>   Recarga: <color=red>15 Segundos</color>\nPlantas Requeridas: <color=red>2</color></size>"
+      "cost": "<size=39>Costo: <color=red>75, 225 (-50)</color>   Recarga: <color=red>15 Segundos</color>\nPlantas Requeridas: <color=red>2</color></size>"
     },
     {
       "seedType": 1292,
@@ -6453,14 +6453,14 @@
     "name": "Marinuez",
     "introduce": "<size=39><color=#3D1400>A Marinuez le encanta pasar tiempo con las perlas de agua, viéndolas absorber agua y crecer. Su cuerpo redondo brillando con la luz del arcoíris, reflejada en sus inocentes ojos. \u0022El tiempo es como una mariposa azul revoloteando junto al arroyo. Una vez que se va, nunca lo volverás a ver\u0022.</color></size>",
    "info": "<size=39>Crece absorbiendo agua, rodando para aplastar a los zombis.</color>\n\n<color=#3D1400>Dureza: </color><color=red>2000 (inicialmente), 6000 (máximo)</color>\n<color=#3D1400>Especial:</color> <color=red>Crece a los 10 y 20 segundos despues de plantar, incrementando sus PS y dureza por 2000 cada vez. Despues de 30s de ser plantado, se convierte en una nuez boliche, haciendo 600 de daño cada 0,02s al contacto.</color>\n<size=39><color=#3D1400>Fórmula de Fusión:</color> <color=red>Marseta + Nuez (En Orden)</color></size>",
-    "cost": "<size=39>Costo: <color=red>50, 125</color>   Recarga: <color=red>37,5 Segundos</color>\nPlantas Requeridas: <color=red>2</color></size>"
+    "cost": "<size=39>Costo: <color=red>50, 125 (-50)</color>   Recarga: <color=red>37,5 Segundos</color>\nPlantas Requeridas: <color=red>2</color></size>"
   },
   {
     "seedType": 1294,
     "name": "Almejanseta",
     "introduce": "<size=39><color=#3D1400>La Almejanseta flota como un arrecife oculto, tímido, quieto, pero peligroso para los incautos. Cuando el agua circundante se mueve, se despierta y se defiende ferozmente, para luego volver a refugiarse bajo las olas como si nada hubiera pasado.</color></size>",
     "info": "<size=39>Muy tímido para atacar, hasta que ve una Marseta llegar al agua.</color>\n\n<color=#3D1400>Daño:</color> <color=red>20 cada 0,5s\n<color=#3D1400>Especial:</color> <color=red>Se esconde, a pesar que no hayan zombis cercanos. Al ocupar un paquete de semillas de Marseta en ella, la hace atacar por 10s. Después de esto, vuelve a esconderse.</color>\n<size=39><color=#3D1400>Fórmula de Fusión:</color> <color=red>Marseta + Seta Miédica (En Orden)</color></size>",
-    "cost": "<size=39>Costo: <color=red>25, 175</color>   Recarga: <color=red>15 Segundos</color>\nPlantas Requeridas: <color=red>2</color></size>"
+    "cost": "<size=39>Costo: <color=red>25, 175 (-50)</color>   Recarga: <color=red>15 Segundos</color>\nPlantas Requeridas: <color=red>2</color></size>"
         },
         {
     "seedType": 1295,
@@ -6481,7 +6481,7 @@
     "name": "Globoseta",
 "introduce": "<size=39><color=#3D1400>\"¡Oye, aléjate de mí, déjame en paz o te atravesaré con mis púas de hielo! \" La Globoseta se hinchó, intentando ahuyentar al enemigo que se acercaba. Al ver cómo las púas de hielo se acercaban gradualmente a los zombis, las plantas que observaban no pudieron evitar preguntarse: ¿Quién se acerca a quién?</color></size>",
   "info": "<size=39>Soporte del <color=#0077b6>Sistema Criogénico</color>\nCongela zombis al estar acompañado de Marsetas.</color>\n\n<color=#3D1400>Especial:</color> <color=red>Al ocupar un paquete de semillas de Marseta en el, congela y ralentiza a todos los zombis en un área de 3x3.</color>\n<size=39><color=#3D1400>Fórmula de Fusión:</color> <color=red>Marseta + Seta Congelada</color></size>",
-  "cost": "<size=39>Costo: <color=red>75, 225</color>   Recarga: <color=red>57,5 Segundos</color>\nPlantas Requeridas: <color=red>2</color></size>"
+  "cost": "<size=39>Costo: <color=red>75, 225 (-50)</color>   Recarga: <color=red>57,5 Segundos</color>\nPlantas Requeridas: <color=red>2</color></size>"
 },
 {
     "seedType": 1298,
@@ -6516,14 +6516,14 @@
     "name": "Pescaseta", 
    "introduce": "<size=39><color=#3D1400>La reproducción y la proliferación son instintos vitales. En determinadas circunstancias, las Pescasetas crecen juntos, protegiéndose del viento y las olas, y lanzando cebos para atraer a los depredadores y garantizar la seguridad de la colonia. En los últimos años, las dificultades técnicas que permiten el crecimiento colectivo de las Pescasetas se han superado, y esta nueva tecnología se ha adoptado de inmediato en los acuarios.</color></size>",
    "info": "<size=39>Se sacrifican para alimentar a sus fusiones con las setas nocturnas.</color>\n\n<color=#3D1400>Daño:</color> <color=red>20 cada 1,5s\n<color=#3D1400>Especial:</color> <color=red>Al fusionarlos, solo aparecerán dos. Luego, después de 15s, se genera otro, así creando 3 Pescasetas. Después de esto, alimenta a la planta adelante de ellos con una Marseta, y si no se puede alimentar, entonces genera un paquete de semillas de Marseta.</color>\n<size=39><color=#3D1400>Fórmula de Fusión:</color> <color=red>Marseta + Seta Desesporada (En Orden)</color></size>",
-   "cost": "<size=39>Costo: <color=red>0, 150</color>   Recarga: <color=red>15 Segundos</color>\nPlantas Requeridas: <color=red>2</color></size>"
+   "cost": "<size=39>Costo: <color=red>0, 150 (-50)</color>   Recarga: <color=red>15 Segundos</color>\nPlantas Requeridas: <color=red>2</color></size>"
 },
 {
     "seedType": 1303,
     "name": "Orcaseta",
    "introduce": "<size=39><color=#3D1400>\"No se preocupen, las ballenas nos alimentamos por filtración. Solo comemos plancton y algas. Escupiremos los hongos marinos que no podamos comer\", dijo la Orcaseta a las Marsetas. Las Marsetas respondieron al unísono: \"Entiendo, pero ¿qué es esa cosa negra que explota?\"</color></size>",
    "info": "<size=39>Digiere una Marseta y la transforma en una bomba.</color>\n\n<color=#3D1400>Daño:</color> <color=red>600\n<color=#3D1400>Especial:</color> <color=red>Al ocupar un paquete de semillas de Marseta en ella, lanza un misil petaseta que hace 600 de daño en un área moderado. Las veces que la puedes alimentar no tienen tiempo de recarga, pero cada disparo toma 1,5s para disparar y solo un máximo de dos disparos pueden ser registrados al mismo tiempo.</color></size>\n<size=39><color=#3D1400>Fórmula de Fusión:</color> <color=red>Marseta + Petaseta</color></size>",
-   "cost": "<size=39>Costo: <color=red>125, 275</color>   Recarga: <color=red>57,5 Segundos</color>\nPlantas Requeridas: <color=red>2</color></size>"
+   "cost": "<size=39>Costo: <color=red>125, 275 (-50)</color>   Recarga: <color=red>57,5 Segundos</color>\nPlantas Requeridas: <color=red>2</color></size>"
 },
 {
     "seedType": 1304,
@@ -6537,7 +6537,7 @@
     "name": "Meduseta",
    "introduce": "<size=39><color=#3D1400>¿Medusa? ¿O seta? Si te equivocas, tienes que ayudarme con mi trabajo. Meduseta le encanta jugar a este juego con los zombis descerebrados, y nunca pierde. El que más se acerca a la respuesta correcta es el Profesor Zavier, quien se enteró: \"Hay una carabela portuguesa en el océano. ¿Quizás debería llamarse medusa pileus?\".</color></size>",
    "info": "<size=39>Utiliza a una Marseta para generar un zombi.</color>\n\n<color=#3D1400>Especial:</color> <color=red>Al ocupar un paquete de semillas de Marseta en ella, genera un Zombi básico. Va de vuelta a ser una Marseta al ser mordida.</color>\n<size=39><color=#3D1400>Fórmula de Fusión:</color> <color=red>Hipnoseta + Marseta</color></size>",
-   "cost": "<size=39>Costo: <color=red>75, 225</color>   Recarga: <color=red>37,5 Segundos</color>\nPlantas Requeridas: <color=red>2</color></size>"
+   "cost": "<size=39>Costo: <color=red>75, 225 (-50)</color>   Recarga: <color=red>37,5 Segundos</color>\nPlantas Requeridas: <color=red>2</color></size>"
 },
 {
     "seedType": 1306,
