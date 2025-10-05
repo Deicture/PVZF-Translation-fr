@@ -1,0 +1,47 @@
+{
+  "zombies": [
+    {
+      "theZombieType": 254,
+      "name": "Zombie Óc Chó Hoả Trảo (254)",
+      "introduce": "<size=36><color=black>Là sự đảo nghịch của Óc Chó Tuyết Trảo, tuy Óc Chó Hoả Trảo tự tin rằng mình có thể đánh bại Óc Chó Tuyết Trảo trong 1 cuộc đấu tay đôi, nhưng thường Óc Chó Tuyết Trảo lại hay đòi thách đấu ở vùng tuyết.</color>",
+      "info": "<size=36>Triệu hồi bởi Hắc Hoả Linh!.\n\n<color=black>Sát Thương: </color><color=#4B0082>1000</color>\n<color=black>Máu: </color><color=#4B0082>1500+8000 (Giáp cấp 1)</color>\n<color=black>Đặc Điểm:</color><color=#4B0082> Được tạo ra khi Hắc Hoả Linh thôi miên Zombie. </size>"
+  }, 
+  {
+      "theZombieType": 255,
+      "name": "Zombie Nấm Công Chúa Đọc Báo (255)",
+      "introduce": "<size=36><color=black>Bằng 1 cách nào đó, Zombie Giáo Sư đã có thể gắn Nấm Công Chúa lên đầu mình, và giờ ông ta có thể triệu hồi vô hạn Zombie để tạo nên quân đoàn bất bại.</color>",
+      "info": "<size=36>Nhấn chìm cả sân với quân số áp đảo!\n\n<color=black>Sát Thương: </color><color=#4B0082>400/0.5 giây</color>\n<color=black>Máu: </color><color=#4B0082>3000+1500 (Giáp cấp 2)</color>\n<color=black>Khả Năng:</color><color=#4B0082> Khi mất báo thì mỗi 0.75 giây sẽ triệu hồi ngẫu nhiên 1 trong các Zombie sau:</color><color=blue> Zombie Óc Chó Bầu Dục, Zombie Đọc Báo Anh Đào, Xe Trượt Tuyết Đỏ, Zombie Giáo Sư, Zombie Bầu Dục Bão Tố</color></color></size>"
+  }, 
+  {
+      "theZombieType": 97,
+      "name": "Zombie Hộp Quà Hồng Ngọc (97)",
+      "introduce": "<size=36><color=black>Là sức mạnh tổng hợp của mọi Zombie hộp quà trên thế giới, cậu ta thậm chí còn bị đột biến và có thể đánh ngang cơ với những Zombie mạnh mẽ nhất.</color>",
+      "info": "<size=36>Vô cùng mạnh mẽ và cắn mọi thứ trên đường đi!\n\n<color=black>Máu: </color><color=#4B0082>120000+30000 (Giáp cấp 1)</color>\n<color=black>Khả Năng:</color><color=#4B0082> \n<color=black>•</color> Sát thương gây ra luôn là hành quyết, nhưng giới hạn ở các cây có giới hạn sát thương. \n<color=black>•</color> Khi chết sẽ triệu hồi 5 Zombie Hộp Quà Kim Cương và 5 Zombie Hộp Quà Kim Cương thôi miên.</color></color></size>"
+  },
+  {
+      "theZombieType": 98,
+      "name": "Zombie Hộp Quà Hắc Ngọc Bí Ẩn (98)",
+      "introduce": "<size=36><color=black>Liệu bạn có biết, LibraHP và Infinity75 có xích mích với nhau nên LibraHP không bao giờ port mod của mình sang MelonLoader.</color>",
+      "info": "<size=36>Triệu hồi cả những Zombie mạnh mẽ nhất!\n\n<color=black>Máu: </color><color=#4B0082>40000+12000 (Giáp cấp 1)</color>\n<color=black>Khả Năng:</color><color=#4B0082> \n<color=black>•</color> Sẽ luôn đi chung với Hắc Diện Vũ Trang Khổng Nhân.\n<color=black>•</color> Miễn nhiễm với hiệu ứng Chịu Nhiệt, đóng băng và cả đẩy lùi.\n<color=black>•</color> Khi bị xe cắt cỏ cán qua, nó sẽ lấy xe cắt cỏ đó, hồi đầy máu và có thể tiêu diệt cây ngay lập tức và bỏ qua mọi hiệu ứng.\n<color=black>•</color> Khi bị sát thương thì sẽ trừ sồ tiền bạn có tương đương với sát thương mà nó bị nhận vào, và Cỗ Máy Huỷ Diệt sẽ không chịu sát thương thay cho Hộp Quà Hắc Ngọc Bí Ẩn.\n<color=black>•</color> Khi chết thì sẽ biến thành Zombie du lịch bất kỳ tương tự như Hộp Quà Kim Cương Bí Ẩn. \n<color=black>Buff Luyện Ngục: </color><color=#4B0082> Zombie Hộp Quà Hắc Ngọc Bí Ẩn khi bị mất hộp quà sẽ luôn triệu hồi miniboss.</color></color></size>"
+  }, 
+  {
+      "theZombieType": 99,
+      "name": "Zombie Hộp Quà Hắc Ngọc (99)",
+      "introduce": "<size=36><color=black>Cái nón này giúp cậu ta có thể miễn nhiễm mọi thứ, đúng là ghê đấy. Thế có chống lại Hoa Ăn Thịt không thì bảo?</color>",
+      "info": "<size=36>Miễn nhiễm với xe cắt cỏ!\n\n<color=black>Máu: </color><color=#4B0082>40000+12000 (Giáp cấp 1)</color>\n<color=black>Khả Năng:</color><color=#4B0082> \n<color=black>•</color> Có tỉ lệ 10% sẽ đi cùng với Zombie Hộp Quà Kim Cương khi xuất hiện, và sẽ tạo ra 3 Zombie Hộp Quà Kim Cương khi bị mất hộp quà. \n<color=black>•</color> Miễn nhiễm với hiệu ứng Chịu Nhiệt, đóng băng và cả đẩy lùi.\n<color=black>•</color> Khi bị xe cắt cỏ cán qua, nó sẽ lấy xe cắt cỏ đó, hồi đầy máu và có thể tiêu diệt cây ngay lật tức và bỏ qua mọi hiệu ứng. Nếu bị xe cắt cỏ đi qua một lần nữa, xe cắt cỏ đó sẽ trở thành Zombie Hộp Quà Hắc Ngọc.</color></color></size>"
+  },
+  {
+    "theZombieType": 195,
+    "name": "Zombie Bầu Dục Bắn Tỉa (195)",
+    "introduce": "<size=36><color=black>Là bậc thầy bắn tỉa của phe Zombie, tuy nhiên cậu ta lại thích chơi bầu dục hơn là bắn súng, thế là cậu ta vác nguyên khẩu bắn tỉa vào sân đấu.</color>",
+    "info": "<size=36>Săn lùng cây trong tầm bắn!\n\n<color=black>Máu: </color><color=#4B0082>1000 </color>\n<color=black>Khả Năng:</color><color=#4B0082> Sau khi ra sân sẽ khóa mục tiêu có số mặt trời cao nhất trong 8 giây, sau đó sẽ hành quyết cây đó và chuyển sang mục tiêu khác."
+},
+
+    {
+      "theZombieType": 5000,
+      "name": "<color=#4B0082><u>Placeholder</u>",
+      "introduce": "<align=justified><size=36><color=black>Placeholder</color>",
+      "info": "<size=36>Placeholder\n\n<color=black>Toughness: </color><color=#4B0082>32000</color>\n<color=black>Traits: </color><color=#4B0082>\n<color=black>•</color> Placeholder</color>"
+    }
+  ]
+}

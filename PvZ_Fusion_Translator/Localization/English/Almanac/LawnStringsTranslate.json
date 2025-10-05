@@ -2160,7 +2160,7 @@
             "seedType": 1182,
             "name": "Frostburn-wood",
             "introduce": "<align=justified><size=36><color=black>\"One input, one output. That's the rule.\" Frostburn-wood prided himself on his structured logic. \"That's why I counteract Torchwood's flames with pure, unyielding frost.\" But put them together? Things got... messy. Fire and ice, heat and cold—sometimes they balanced, sometimes they clashed, and sometimes, well... physics just gave up.</color>",
-            "info": "<size=36>Can turn normal peas into snow peas or polar ice peas, and water orbs into ice blocks.\n\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Turns the normal peas that pass through into snow peas, and the snow peas that pass through into polar ice peas for ×2 damage and ×2 Cryo points.\n<color=black>•</color> Turns the water orbs that pass through into ice blocks.</color>",
+            "info": "<size=36>Can turn normal peas into snow peas or polar ice peas, and water orbs into ice blocks.\n\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Turns the normal peas that pass through into snow peas, and the snow peas that pass through into polar ice peas for ×2 damage and ×2 Cryo points.\n<color=black>•</color> Turns the water orbs from Spruce Sprayshooters into ice blocks.</color>",
             "cost": "<size=36>\nFusion Formula: <color=#8B0000>Torchwood + Ice-shroom</color>"
         },
         {

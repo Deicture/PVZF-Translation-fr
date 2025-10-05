@@ -8,6 +8,12 @@
             "info": "<size=36>Zombie thường.\n\n<color=black>Máu: </color><color=#4B0082>270</color>"
         },
         {
+            "theZombieType": 1,
+            "name": "Zombie Cầm Cờ (1)",
+            "introduce": "<size=36><color=black> Không thể phủ nhận, Zombie Cầm Cờ rất thích não, nhưng khi ở riêng, hắn ta cũng say mê những lá cờ. Có lẽ vì trên cờ cũng có hình vẽ bộ não, ai mà biết được.</color>",
+            "info": "<size=36>Chỉ xuất hiện khi tới cờ.\n\n<color=black>Máu: </color><color=#4B0082>270</color>"
+        },
+        {
             "theZombieType": 2,
             "name": "Zombie Đội Cọc Giao Thông (2)",
             "introduce": "<size=36><color=black> Zombie đầu hình nón thực ra không biết cọc giao thông là gì. Nó chỉ nghĩ nó trông giống một cây kem ốc quế, và khi nó thấy không ăn được, nó đơn giản là đội lên đầu.</color>",
@@ -329,13 +335,67 @@
         "theZombieType": 61,
         "name": "Zombie Bầu Dục Cá Heo (61)",
         "introduce": "<size=36><color=black>Cậu ta cứ như cá heo trên sân bầu dục ấy.... chờ đã, đó là nguyên con cá heo đấy! Tại sao nó lọt vào đây thế.</color>",
-        "info": "<size=36>Con cá heo thích bầu dục?\n\n<color=black>Máu: </color><color=#4B0082>720+1400 (Giáp cấp 1)</color>\n<color=black>Đặc Điểm: </color><color=#4B0082>Đi xuyên cây, nếu chạy tới cuối sân, hồi đầy máu cùng với giáp, sau đó chạy vòng về như 1 vòng lặp. Nếu mất nón sẽ ăn cây.</color>"
+        "info": "<size=36>Con cá heo thích bầu dục?\n\n<color=black>Máu: </color><color=#4B0082>720+1400 (Giáp cấp 1)</color>\n<color=black>Đặc Điểm: </color><color=#4B0082>Miễn nhiễm với bơ. Đi xuyên cây, nếu chạy tới cuối sân, hồi đầy máu cùng với giáp, sau đó chạy vòng về như 1 vòng lặp. Nếu mất nón sẽ ăn cây.</color>"
     },
     {
         "theZombieType": 62,
         "name": "Tiểu Thú Tuyết (62)",
         "introduce": "<size=36><color=black>Rất thích lăn và khám phá muôn nơi, từ đồng cỏ xanh ngát tới trước quả óc chó, aiya.</color>",
         "info": "<size=36>Lăn vào cây.\n\n<color=black>Máu: </color><color=#4B0082>300</color>\n<color=black>Đặc Điểm: </color><color=#4B0082>Có tỉ lệ 2/3 không nhận sát thương. Lăn vào cây với tốc độ nhanh, gây sát thương bằng với lượng máu hiện tại của nó.</color>"
+    },
+    {
+        "theZombieType": 63,
+        "name": "Zombie Đu Dây Tham Lam (63)",
+        "introduce": "<size=36><color=black>Sự tham lam tiền tài khiến Zombie Đu Dây Tham Lam vượt qua nỗi sợ độ cao. Cậu luôn tìm kiếm nhiều kho báu hơn. Gần đây, cậu ấy còn nghiện mở túi mù.</color>",
+        "info": "<size=36>Mang đến nhiều bất ngờ.\n\n<color=black>Máu: </color><color=#4B0082>1350</color>\n<color=black>Đặc Điểm: </color><color=#4B0082>Nếu bị đẩy ngược trở lại bởi dù, nó sẽ thả 1 con Zombie Hộp Quà Khổng Lồ tại ô ngẫu nhiên từ ô 5 tính từ bên trái trở đi. Nếu bị tiêu diệt, cho 100 mặt trời và 1 kim cương.</color>"
+    }, 
+    {
+        "theZombieType": 64,
+        "name": "Zombie Khiêu Vũ Bãi Biển (64)",
+        "introduce": "<size=36><color=black>Micheal Jackson chuẩn bị buổi biểu diễn đầu tiên trên bãi biển, vì vậy hắn ta mượn thiết bị từ MJ Trắng. “Xong show tôi sẽ trả lại sau! Nào, hai đứa kia khiêng loa, hai đứa kia mang micro, lẹ lên! Đừng đứng ì ra như tượng nữa!”</color>",
+        "info": "<size=36>Triệu hồi bia mộ để phụ hoạ.\n\n<color=black>Máu: </color><color=#4B0082>720</color>\n<color=black>Đặc Điểm: </color><color=#4B0082>Nếu tượng không bị phá huỷ, sau 15 giây sẽ thành Zombie Khiêu Vũ Bãi Biển với lượng máu tương ứng với lượng máu của tượng hiện tại</color>"
+    },
+    {
+        "theZombieType": 66,
+        "name": "Zombie Bầu Dục Cầm Cờ (66)",
+        "introduce": "<size=36><color=black>“Tôi và hắn đều mặc đồ bầu dục, đều cầm cờ. Nhưng tôi biết parkout, hắn thì không.” – Zombie Bầu Dục Cầm Cờ khi so sánh với Hắc Thiết Bầu Dục và kết luận mình mạnh hơn. Sự tự tin này giúp cậu ta  chạy nhanh hơn nhằm trốn khỏi sự truy đuổi của Hắc Thiết.</color>",
+        "info": "<size=36>Bầu Dục tinh nhuệ, nhảy qua cây dễ dàng.\n\n<color=black>Máu: </color><color=#4B0082>720+1400 (Giáp cấp 1) </color>\n<color=black>Đặc Điểm: </color><color=#4B0082>Khi chạm mặt cây, lăn về phía trước 2 ô để đi xuyên cây.</color>"
+    },
+    {
+        "theZombieType": 67,
+        "name": "Tiểu Thú Cát (67)",
+        "introduce": "<size=36><color=black>Tiểu Thủ Cát vốn là một Tiểu Thú Tuyết, nhưng do chơi ở bãi biển nên bị dính đầy cát. “Vì sao cây đôi khi không để ý đến tui nhỉ? Bởi vì tui trốn trong cát đó!” – Nó tự hào nói.</color>",
+        "info": "<size=36>Lăn vào cây trên bãi biển.\n\n<color=black>Máu: </color><color=#4B0082>300</color>\n<color=black>Đặc Điểm: </color><color=#4B0082>Có tỉ lệ 2/3 bỏ qua cây và có tỉ lệ 1/3 miễn nhiễm sát thương nhận vào.</color>"
+    },
+    {
+        "theZombieType": 68,
+        "name": "Zombie Cưỡi Gà (68)",
+        "introduce": "<size=36><color=black>Ghi chú từ người chơi ghi rằng: Gà là sinh vật cực kỳ nguy hiểm, đừng bao giờ tấn công con gà, và nhất là nếu con gà đuổi theo bạn, thì cầu trời đi.</color>",
+        "info": "<size=36>Cười gà và xông vào cây.\n\n<color=black>Máu: </color><color=#4B0082>500</color>\n<color=black>Đặc Điểm: </color><color=#4B0082>Tốc độ di chuyển và tấn công cực nhanh, nếu Zombie cưỡi gà bị tiêu diệt, thả Tiểu Zombie xuống sân.</color>"
+    },
+    {
+        "theZombieType": 69,
+        "name": "Zombie Cưỡi Ngựa (69)",
+        "introduce": "<size=36><color=black>Peter từ nhỏ đã mê truyện hiệp sĩ. Khi lớn lên, cậu ấy gia nhập đội kỵ binh của Tiến sĩ Edgar, xông pha nơi chiến không thể cản phá – dù thiếu giáp, dù sợ đau, dù trên lưng cậu ấy lại phải chở thêm một gánh nặng… Đúng vậy, Peter chính là một con ngựa Zombie.</color>",
+        "info": "<size=36>Cười ngựa và húc vào cây.\n\n<color=black>Máu: </color><color=#4B0082>720</color>\n<color=black>Đặc Điểm: </color><color=#4B0082>Tốc độ cực nhanh, có thể tông và nghiền nát cây. Sau khi tông trúng cây sẽ ngưng lại trong 3 giây trước khi tông tiếp.</color>"
+    },
+    {
+        "theZombieType": 70,
+        "name": "Zombie Kỵ Sĩ (70)",
+        "introduce": "<size=36><color=black>Jade và chú ngựa thân thiết là siêu sao của giải bóng bầu dục Zombie toàn cầu. Nhờ tốc độ của ngựa và súng máy bầu dục mà cậu ta mua với giá cao từ cây, họ vô địch khắp nơi. Mặc dù hành động này thật ra là sai luật nặng nề, mà chẳng ai quan tâm mấy, miễn là cậu ta kịp nhắm vào mấy trọng tài hiểu luật trước.</color>",
+        "info": "<size=36>Cưỡi chiến mã cùng viện binh mạnh mẽ.\n\n<color=black>Sát Thương: </color><color=#4B0082>80*4/1.5 giây\n<color=black>Máu: </color><color=#4B0082>1800 (Zombie), 1400 (Ngựa, giáp cấp 2)</color>\n<color=black>Đặc Điểm: </color><color=#4B0082>\n<color=black>•</color> Chỉ xuất hiện khi tới cờ, nếu máu dưới 50% sẽ triệu hồi 1 hàng Zombie cưỡi ngựa. Toàn bộ Zombie cưỡi ngựa giảm 50% sát thương nhận vào.\n<color=black>•</color> Nếu ngựa bị tiêu diệt mà Zombie còn sống, Zombie sẽ trở nên cuồng nộ và thành Zombie Đậu Sắt Bầu Dục. Nó sẽ có máu là 1800 và bắn đạn sắt mỗi 0.1 giây.</color>"
+    },
+    {
+        "theZombieType": 71,
+        "name": "Zombie Cưỡi Gà Máy (71)",
+        "introduce": "<size=36><color=black>Thật ra con gà máy này là 1 xuồng ca nô bị rò rỉ. Nhưng với công ty Gà Máy Công Nghiệp, nó đã thành tàu bay, nhưng hao nhiên liệu.</color>",
+        "info": "<size=36>Xông lên mục tiêu dưới nước.\n\n<color=black>Máu: </color><color=#4B0082>1350</color>\n<color=black>Đặc Điểm: </color><color=#4B0082>\n<color=black>•</color> Tốc độ cực nhanh, nếu Zombie Cưỡi Gà Máy tông vào cây, nghiền nát cây đó rồi phóng Tiểu Zombie tại hàng có ô đất.</color>"
+    },
+    {
+        "theZombieType": 72,
+        "name": "Zombie Thang Nguyền Rủa (72)",
+        "introduce": "<size=36><color=black>Thay vì ta có thầy yểm bùa hay gì đó, chúng ta có Zombie Nguyền Rủa cầm cái thang, ít nhất cái thang này có thể trừng phạt cây bị đặt trên nó.</color>",
+        "info": "<size=36>Nguyền rủa cây bằng thang của mình.\n\n<color=black>Máu: </color><color=#4B0082>720+1400 (Giáp cấp 2)</color>\n<color=black>Đặc Điểm: </color><color=#4B0082>\n<color=black>•</color> Thang không thể bị hút bởi cây từ tính và sát thương nhận vào đều chuyển hết cho thang.\n<color=black>•</color> Khi đặt thang, toàn bộ cây trong ô có thang đó sẽ phải nhận sát thương thay. Thang chỉ biến mất nếu Zombie cầm thang chết hay gây đủ 8000 sát thương.</color>"
     },
         {
            "theZombieType": 100,
@@ -461,7 +521,7 @@
         "theZombieType": 120,
         "name": "<size=28>Zombie Nấm Huỷ Diệt (120)",
         "introduce": "<size=36><color=black>Bọn Zombie đã chán ngấy việc bị Nấm Nguyên Tử cho biến thành tro bụi. Nên giờ chúng cuối cùng đã tạo ra được vũ khí phản công huỷ diệt nhằm khiến cây cối phải chịu đau khổ. Mặc dù cơ thể của lũ Zombie chỉ có thể chịu được một phần ba sức mạnh của Nấm Nguyên Tử, nhưng ít ra có còn hơn không, phải không nhể?.</color>",
-        "info": "<size=36>Sức mạnh của Nấm Nguyên Tử nhưng bị giới hạn.\n\n<color=black>Máu: </color><color=#4B0082>1350</color>\n<color=black>Sát Thương: </color><color=#4B0082>1800</color>\n<color=black>Đặc Điểm: </color><color=#4B0082>Sau một thời gian, phát nổ gây 1800 sát thương cho cây xung quanh ở phạm vi 3x3 ô.</color>"
+        "info": "<size=36>Sức mạnh của Nấm Nguyên Tử nhưng bị giới hạn.\n\n<color=black>Máu: </color><color=#4B0082>1350</color>\n<color=black>Sát Thương: </color><color=#4B0082>1800</color>\n<color=black>Đặc Điểm: </color><color=#4B0082>Miễn nhiễm với bơ. Sau một thời gian, phát nổ gây 1800 sát thương cho cây xung quanh ở phạm vi 3x3 ô.</color>"
       },
       {
         "theZombieType": 121,
@@ -663,9 +723,21 @@
         }, 
         {
             "theZombieType": 228,
-            "name": "Bà Chúa Tuyết (228)",
-            "introduce": "<size=36><color=black>Nàng được sinh ra giữa vùng tuyết trắng vô tận, nơi chỉ còn tiếng gió là bạn đồng hành. Với đôi mắt băng giá và trái tim lạnh lùng, nàng giam mình trong lâu đài băng tuyết, che giấu sức mạnh mà chính nàng cũng từng sợ hãi. Dẫu đã mất đi hình hài con người, ý chí nàng vẫn thầm hát lên khúc ca bất diệt giữa đại ngàn trắng xoá – bản ca của một Nữ Hoàng chưa từng rơi lệ.<page><color=black>Dạng Boss (Ở Phiêu Lưu Mới/Minigame)</color>\n<color=black>Sát Thương:</color><color=#4B0082> 100</color><color=#4B0082>\n<color=black>Máu:</color><color=#4B0082> 60000<color=black>(Phiêu Lưu)</color>/90000<color=black>(Miniboss)</color></color>\n<color=black>Kĩ Năng:</color><color=#4B0082>\n<color=black>•</color> Miễn nhiễm với hiệu ứng đóng băng, làm chậm, bơ, đẩy lùi, thôi miên. Chỉ nhận 5000 sát thương từ hành quyết.\n<color=black>•</color> Khi xuất hiện sẽ tung một cú Băng Trảm diện rộng, gây sát thương toàn bộ cây phía trước (có thể bị chặn bởi Bí Ngô). Sau đó tạo ra 5 quả cầu tuyết xung quanh gây sát thương trong phạm vi 3x3.\n<color=black>•</color> Cứ mỗi 3 giây sẽ tiếp tục Băng Trảm hoặc bắn 4 thanh kiếm băng. Khi càng cận kề cái chết, xác suất tung Trảm Kích càng cao.\n<color=black>•</color> Có thể triệu hồi Bão Tuyết đóng băng toàn sân.\n<color=black>•</color> Đòn đánh sẽ luôn khiến cây bị đóng băng trong 5 giây.</color></color>",
-            "info": "<size=36>Nữ Hoàng băng giá thống trị Bãi Tuyết lạnh lẽo.\n\n<color=black>Sát Thương:</color><color=#4B0082> 1000</color>\n<color=black>Máu:</color><color=#4B0082> 64000</color>\n<color=black>Kĩ Năng:</color><color=#4B0082>\n<color=black>•</color> Miễn nhiễm với hiệu ứng đóng băng, làm chậm, bơ, đẩy lùi, thôi miên. Chỉ nhận 5000 sát thương từ hành quyết.\n<color=black>•</color> Khi xuất hiện sẽ tung một cú Băng Trảm diện rộng, gây sát thương toàn bộ cây phía trước (có thể bị chặn bởi Bí Ngô). Sau đó tạo ra 5 quả cầu tuyết xung quanh gây sát thương trong phạm vi 3x3.\n<color=black>•</color> Cứ mỗi 3 giây sẽ tiếp tục Băng Trảm hoặc bắn 4 thanh kiếm băng. Khi càng cận kề cái chết, xác suất tung Trảm Kích càng cao.\n<color=black>•</color> Đòn đánh sẽ luôn khiến cây bị đóng băng trong 5 giây.\n<color=black>•</color> Khi ở Bãi Tuyết, còn có thể triệu hồi Bão Tuyết đóng băng toàn sân.</color></color></color></size>"
+            "name": "<color=#4B0082>Bà Chúa Tuyết (228)",
+            "introduce": "<size=36><color=black>Nàng được sinh ra giữa vùng tuyết trắng vô tận, nơi chỉ còn tiếng gió là bạn đồng hành. Với đôi mắt băng giá và trái tim lạnh lùng, nàng giam mình trong lâu đài băng tuyết, che giấu sức mạnh mà chính nàng cũng từng sợ hãi. Dẫu đã mất đi hình hài con người, ý chí nàng vẫn thầm hát lên khúc ca bất diệt giữa đại ngàn trắng xoá; bản ca của một Nữ Hoàng chưa từng rơi lệ.<page><color=black>Dạng Boss (Ở Phiêu Lưu Mới/Minigame)</color>\n<color=black>Sát Thương:</color><color=#4B0082> 100</color><color=#4B0082>\n<color=black>Máu:</color><color=#4B0082> 60000<color=black>(Phiêu Lưu)</color>/90000<color=black>(Miniboss)</color></color>\n<color=black>Kĩ Năng:</color><color=#4B0082>\n<color=black>•</color> Miễn nhiễm với hiệu ứng đóng băng, làm chậm, bơ, đẩy lùi, thôi miên. Chỉ nhận 5000 sát thương từ hành quyết.\n<color=black>•</color> Khi xuất hiện sẽ tung một cú Băng Trảm diện rộng, gây sát thương toàn bộ cây phía trước (có thể bị chặn bởi Bí Ngô). Sau đó tạo ra 5 quả cầu tuyết xung quanh gây sát thương trong phạm vi 3x3.\n<color=black>•</color> Cứ mỗi 3 giây sẽ tiếp tục Băng Trảm hoặc bắn 4 thanh kiếm băng. Khi càng cận kề cái chết, xác suất tung Trảm Kích càng cao.\n<color=black>•</color> Có thể triệu hồi Bão Tuyết đóng băng toàn sân.\n<color=black>•</color> Đòn đánh sẽ luôn khiến cây bị đóng băng trong 5 giây.</color></color>",
+            "info": "<size=36>Nữ Hoàng băng giá thống trị Bãi Tuyết lạnh lẽo.\n\n<color=black>Sát Thương:</color><color=#4B0082> 1000</color>\n<color=black>Máu:</color><color=#4B0082> 64000</color>\n<color=black>Kĩ Năng:</color><color=#4B0082>\n<color=black>•</color> Miễn nhiễm với hiệu ứng đóng băng, làm chậm, bơ, đẩy lùi, thôi miên, nuốt chửng. Chỉ nhận 5000 sát thương từ hành quyết.\n<color=black>•</color> Khi xuất hiện sẽ tung một cú Băng Trảm diện rộng, gây sát thương toàn bộ cây phía trước (có thể bị chặn bởi Bí Ngô). Sau đó tạo ra 5 quả cầu tuyết xung quanh gây sát thương trong phạm vi 3x3.\n<color=black>•</color> Cứ mỗi 3 giây sẽ tiếp tục Băng Trảm hoặc bắn 4 thanh kiếm băng. Khi càng cận kề cái chết, xác suất tung Trảm Kích càng cao.\n<color=black>•</color> Đòn đánh sẽ luôn khiến cây bị đóng băng trong 5 giây.\n<color=black>•</color> Khi ở Bãi Tuyết, còn có thể triệu hồi Bão Tuyết đóng băng toàn sân.</color></color></color></size>"
+        },
+        {
+            "theZombieType": 229,
+            "name": "<color=#4B0082>Nguyên Soái Hắc Thiết (229)",
+            "introduce": "<size=36><color=black>Đánh thức từ giấc ngủ ngàn năm, chỉ huy tối cao của phe Zombie đã xông pha chiến trận, cày nát đội hình đối phương. Cùng với con ngựa đáng tin cậy của mình, và với khẩu súng gattling và giáp được ban tặng bởi tiến sĩ Zomboss. Hắn mang đến lời chào từ bóng tối, lưỡi đao chiến mã quét qua, màn đêm phủ xuống, trật tự mới khai sinh; như để tuyên bố với toàn bộ cây: đây chính là cái giá của việc khước từ hắn.</color></color>",
+            "info": "<size=36>Đại soái thống lĩnh vạn binh mã.\n\n<color=black>Sát Thương:</color><color=#4B0082> 80/0.1 giây</color>\n<color=black>Máu:</color><color=#4B0082> 36000</color>\n<color=black>Kĩ Năng:</color><color=#4B0082>\n<color=black>•</color> Miễn nhiễm với hiệu ứng đóng băng, làm chậm, bơ, đẩy lùi, thôi miên, nuốt chửng. Chỉ nhận 5000 sát thương từ hành quyết.\n<color=black>•</color> Có thể xuất hiện trực tiếp từ ô 5 bên phải sân nếu không bị chặn. Sau đó cưỡi chiến mã nghiền nát cây ở phía trước và kích hoạt hiệu ứng Nguyền Rủa ở phạm vi 3x3 ô trong 5 giây.\n<color=black>•</color> Sau khi tông cây, nó sẽ dừng trong 1.5 giây, sau đó di chuyển bình thường trong 10 giây trước khi tiếp tục húc vào cây.\n<color=black>•</color> Hồi 200 máu mỗi 0.1 giây.\n<color=black>•</color> Nếu máu dưới 2/3, triệu hồi 1 hàng Zombie Thiết Bầu Dục Bão Tố.\n<color=black>•</color> Nếu máu xuống 0, Nguyên Soái Hắc Thiết sẽ xuống ngựa và tiếp tục chiến đấu.\n<color=black>Hiệu ứng Nguyền Rủa:</color><color=#4B0082>Toàn bộ sát thương Nguyên Soái Hắc Thiệt nhận vào sẽ chuyển hết cho cây, cây không thể nhận sát thương thay và sẽ không kích hoạt hiệu ứng nhận sát thương của cây. Sát thương sẽ chia đều cho cây bị ảnh hưởng và chỉ biến mất sau 5 giây và sát thương tối thiểu phải nhận vào là 5000.</color></size>"
+        },
+        {
+            "theZombieType": 230,
+            "name": "<color=#4B0082>Nguyên Soái Hắc Thiết Bão Tố (230)",
+            "introduce": "<size=36><color=black>Nguyên Soái Hắc Thiết và An Bá Tử Khang đã quen nhau từ lâu, họ luôn tranh đấu để thành phó tướng trong quân đội Zombie. Khi rảnh rỗi, họ còn chơi cờ tưởng bản Zombie nữa.</color></color>",
+            "info": "<size=36>Biện pháp cuối cùng\n\n<color=black>Sát Thương:</color><color=#4B0082> 80/0.1 giây</color>\n<color=black>Sát Thương Cắn:</color><color=#4B0082> 100</color>\n<color=black>Máu:</color><color=#4B0082> 18000</color>\n<color=black>Đặc Điểm:</color><color=#4B0082> Chỉ xuất hiện sau khi Nguyên Soái Hắc Thiết bị đánh bại. Miễn nhiễm với hiệu ứng đóng băng, làm chậm, bơ, đẩy lùi.</color></size>"
         },
         {
             "theZombieType": 300,
