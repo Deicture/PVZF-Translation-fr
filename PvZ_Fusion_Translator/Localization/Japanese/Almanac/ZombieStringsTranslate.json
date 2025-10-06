@@ -178,7 +178,7 @@
             "theZombieType": 29,
             "name": "バックコプターゾンビ",
             "introduce": "<size=34><color=black>「みんな、ベルリンの飛行船のこと知ってる？僕のデザインの元なんだ…」バックコプターゾンビの話が長すぎるせいで、ゾンビたちは彼から隠れたがる。それに、彼の風船プロペラの騒音も耐えがたいのだ。</color>",
-            "info": "<size=34>バックコプターゾンビはブロバーを恐れません！\n\n<color=black>耐久力：</color><color=#4B0082>270+2200+500（装甲）</color>\n<color=black>スペシャル：</color><color=#4B0082>上部のプロペラがブロバーの風を打ち消します。</color>"
+            "info": "<size=34>バックコプターゾンビはブロウヴァーを恐れません！\n\n<color=black>耐久力：</color><color=#4B0082>270+2200+500（装甲）</color>\n<color=black>スペシャル：</color><color=#4B0082>上部のプロペラがブロウヴァーの風を打ち消します。</color>"
         },
         {
             "theZombieType": 30,
@@ -250,13 +250,13 @@
             "theZombieType": 41,
             "name": "銀色の像",
             "introduce": "<align=justified><size=36><color=black></color>",
-            "info": "銀色のゾンビ像。\n\n<color=black>耐久力：</color><color=#4B0082>300</color>\n<color=black>スペシャル：</color><color=#4B0082>ダメージを受けない、傘系植物の必殺技による撃退も無効。出現から15秒後、HPが臨界値以下とみなされる。撃破時に1,000コインをドロップする。</color>"
+            "info": "銀色のゾンビ像。\n\n<color=black>耐久力：</color><color=#4B0082>300</color>\n<color=black>スペシャル：</color><color=#4B0082>ダメージを受けない、傘性植物の必殺技による撃退も無効。出現から15秒後、HPが臨界値以下とみなされる。撃破時に1,000コインをドロップする。</color>"
         },
         {
             "theZombieType": 42,
             "name": "金色の像",
             "introduce": "<align=justified><size=36><color=black></color>",
-            "info": "金色のゾンビ像は富の象徴！\n\n<color=black>耐久力：</color><color=#4B0082>300</color>\n<color=black>スペシャル：</color><color=#4B0082>ダメージを受けない、傘系植物の必殺技による撃退も無効。出現から15秒後、HPが臨界値以下とみなされる。撃破時に3,000コインをドロップする。</color>"
+            "info": "金色のゾンビ像は富の象徴！\n\n<color=black>耐久力：</color><color=#4B0082>300</color>\n<color=black>スペシャル：</color><color=#4B0082>ダメージを受けない、傘性植物の必殺技による撃退も無効。出現から15秒後、HPが臨界値以下とみなされる。撃破時に3,000コインをドロップする。</color>"
         },
         {
             "theZombieType": 43,
@@ -322,7 +322,7 @@
             "theZombieType": 53,
             "name": "霜の軍団・空飛ぶ円盤",
             "introduce": "<align=justified><size=36><color=black>離陸前には、霜の軍団・空飛ぶ円盤が雪と氷を片付けるのに毎回30分かかる。隅っこに隠れているモフモフ霜獣を引きずり出すのも一苦労だ。「この凍った塊を飛ばすのに、燃料がバカみたいにかかるんだよな…」と、パイロットはぼやく。</color>",
-            "info": "<size=36>雪が降ってきた！この冷たい来訪者は吹雪とともに漂い、プラントを凍らせ、仲間を引き連れて去っていく。\n\n<color=black>耐久力：</color><color=#4B0082>720</color>\n<color=black>スペシャル：</color><color=#4B0082>ブロバー無効。移動中に雪の結晶を生成し、下のプラントを凍結させる。時間とともに徐々に減速し、速度がゼロになると方向転換。画面外に出ると、霜の軍団を召喚：盾持ち×1、雪玉砲×1、トライデント槍投げ×1。</color>"
+            "info": "<size=36>雪が降ってきた！この冷たい来訪者は吹雪とともに漂い、プラントを凍らせ、仲間を引き連れて去っていく。\n\n<color=black>耐久力：</color><color=#4B0082>720</color>\n<color=black>スペシャル：</color><color=#4B0082>ブロウヴァー無効。移動中に雪の結晶を生成し、下のプラントを凍結させる。時間とともに徐々に減速し、速度がゼロになると方向転換。画面外に出ると、霜の軍団を召喚：盾持ち×1、雪玉砲×1、トライデント槍投げ×1。</color>"
         },
         {
             "theZombieType": 54,
@@ -376,11 +376,11 @@
             "theZombieType": 63,
             "name": "泥棒バンジーゾンビ",
             "introduce": "<align=justified><size=36><color=black>最近の強盗で大儲けした泥棒バンジーゾンビは、新しいスーツを買って裕福さを見せびらかしている。すべての強盗が成功するわけではないが、失敗したときには「プレゼント」を残していく。傘が1枚あれば安心だと思っている芝生たちに、彼はそう簡単には逃げさせない。\n\n※Hazyによる執筆</color>",
-            "info": "<size=36>宝物を持ち歩くが、謎の箱も一緒に運ぶ。\n\n<color=black>耐久力：</color><color=#4B0082>1350</color>\n<color=black>スペシャル：</color><color=#4B0082>\n<color=black>※</color>傘系植物に撃退されると、しばらくして右側の芝生に謎の箱ガーガンチュアを投下する。再び撃退されることは可能だが、戻ってくるのは一度きり。\n<color=black>※</color>撃破時にダイヤモンド1個と太陽100個をドロップする。</color>"
+            "info": "<size=36>宝物を持ち歩くが、謎の箱も一緒に運ぶ。\n\n<color=black>耐久力：</color><color=#4B0082>1350</color>\n<color=black>スペシャル：</color><color=#4B0082>\n<color=black>※</color>傘性植物に撃退されると、しばらくして右側の芝生に謎の箱ガーガンチュアを投下する。再び撃退されることは可能だが、戻ってくるのは一度きり。\n<color=black>※</color>撃破時にダイヤモンド1個と太陽100個をドロップする。</color>"
         },
         {
             "theZombieType": 64,
-            "name": "マイケルゾンビ・渚版",
+            "name": "渚版のマイケル",
             "introduce": "<align=justified><size=36><color=black>フフッ～</color>",
             "info": "<size=36>バカンス中のマイケルは、失われた沿岸文明の石像発掘に夢中！波打ち際での新たな情熱が、彼のゾンビ召喚スタイルにも変化をもたらした。\n\n<color=black>耐久力：</color><color=#4B0082>720</color>\n<color=black>スペシャル：</color><color=#4B0082>\n<color=black>※</color>HP500の「おどつてるゾンビの像」を4体召喚。15秒後、それぞれの像が破壊され、残りHPと同量のHPを持つビーチマイケルが出現する。\n<color=black>※</color>非ＴＤモードでは、像の出現位置は通常のマイケルゾンビが「おどつてるゾンビ」を召喚する場所と同じ。</color>"
         },
@@ -513,7 +513,7 @@
         {
             "theZombieType": 114,
             "name": "網戸鉄のピーシューター",
-            "introduce": "<align=justified><size=36><color=black>網戸鉄のピーシューターは、いつも鉄の装備を山ほど積み込むため、他のゾンビたちは呆れている。「磁石キノコが頭まで引っこ抜くなら、最初から金属をもっと持てばいいんじゃね？」その突飛な理論は、一見正しいように思えた——磁力ブロバーに出会うまでは。</color>",
+            "introduce": "<align=justified><size=36><color=black>網戸鉄のピーシューターは、いつも鉄の装備を山ほど積み込むため、他のゾンビたちは呆れている。「磁石キノコが頭まで引っこ抜くなら、最初から金属をもっと持てばいいんじゃね？」その突飛な理論は、一見正しいように思えた——磁力ブロウヴァーに出会うまでは。</color>",
             "info": "<size=36>「鉄のピーシューターゾンビが装備を獲得：鉄の網戸！」\n\n<color=black>ダメージ：</color><color=#4B0082>80</color>\n<color=black>耐久力：</color><color=#4B0082>270+1250+1100+1100（装甲と盾膜）</color>\n<color=black>スペシャル：</color><color=#4B0082>鉄のピー豆を絶え間なく発射しながら、そこそこの耐久力を持つ。<</color>"
         },
         {
@@ -544,13 +544,13 @@
             "theZombieType": 119,
             "name": "バックショットコプターゾンビ",
             "introduce": "<align=justified><size=36><color=black>仲間のゾンビたちにベテランかどうか疑われたバックショットコプターゾンビは、古い集合写真を見せて証明しようとした。「でも…君、どこに写ってるの？」と聞かれ、彼自身も白黒フィルムを見つめながら首をかしげていた。</color>",
-            "info": "<size=36>鉄のピーシューターゾンビがローターに乗った形態\n\n<color=black>ダメージ：</color><color=#4B0082>80/1.5秒</color>\n<color=black>耐久力：</color><color=#4B0082>1350+500（装甲）</color>\n<color=black>スペシャル：</color><color=#4B0082>ブロバー無効。鉄ピー豆を発射してプラントを攻撃。催眠されたゾンビを撃退できます。</color>"
+            "info": "<size=36>鉄のピーシューターゾンビがローターに乗った形態\n\n<color=black>ダメージ：</color><color=#4B0082>80/1.5秒</color>\n<color=black>耐久力：</color><color=#4B0082>1350+500（装甲）</color>\n<color=black>スペシャル：</color><color=#4B0082>ブロウヴァー無効。鉄ピー豆を発射してプラントを攻撃。催眠されたゾンビを撃退できます。</color>"
         },
         {
             "theZombieType": 120,
-            "name": "破滅キノコゾンビ",
+            "name": "破壊キノコゾンビ",
             "introduce": "<align=justified><size=36><color=black>もう爆発で灰になるのはごめんだ——そう決意したゾンビたちは、ついに核反撃兵器を開発。プラントたちに苦しみを味わわせる番だ。ゾンビの体では破壊キノコのフルパワーの3分の1しか運べないが、それでも無いよりはマシ…だよね？\n\n※Etc様による執筆</color>",
-            "info": "<size=36>破滅キノコゾンビ？ああっ！\n\n<color=black>耐久力：</color><color=#4B0082>1350</color>\n<color=black>スペシャル：</color><color=#4B0082>一定時間後に自爆。破壊キノコの爆発を発生させ、3×3グリッド内のプラントに1800ダメージ。\n<color=black>弱点：</color><color=#4B0082>破滅ナッツ</color>"
+            "info": "<size=36>破壊キノコゾンビ？ああっ！\n\n<color=black>耐久力：</color><color=#4B0082>1350</color>\n<color=black>スペシャル：</color><color=#4B0082>一定時間後に自爆。破壊キノコの爆発を発生させ、3×3グリッド内のプラントに1800ダメージ。\n<color=black>弱点：</color><color=#4B0082>破滅ナッツ</color>"
         },
         {
             "theZombieType": 121,
