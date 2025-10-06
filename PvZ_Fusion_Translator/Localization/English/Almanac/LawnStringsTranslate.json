@@ -2977,9 +2977,9 @@
         },
         {
             "seedType": 1299,
-            "name": "Nut-shell",
-            "introduce": "<align=justified><size=36><color=black>For the Nut-shell, all that matters is creating a good internal environment for the smaller Nuts to grow. He ignores the outside noise and even zombie bites. The only thing he cares about is other plants crowding his internal space, a space he reserves specifically for the Mini-nuts.</color>",
-            "info": "Continuously grows helpful Mini-nuts inside.<size=36>\n\n<color=black>Toughness: </color><color=#8B0000>8000</color>\n<color=black>Special: </color><color=#8B0000>Spawns a Mini-nut every 50s. When the Mini-nut is fully grown, it is consumed to heal a nearby damaged Pumpkin-type plant for up to 1000 HP or to produce a Wall-nut seed packet if no such plant exists. A single Nut-shell can produce at most 3 Wall-nut seed packets.</color>",
+            "name": "Nut Shell",
+            "introduce": "<align=justified><size=36><color=black>For the Nut Shell, all that matters is creating a good internal environment for the smaller Nuts to grow. He ignores the outside noise and even zombie bites. The only thing he cares about is other plants crowding his internal space, a space he reserves specifically for the Mini-nuts.</color>",
+            "info": "Continuously grows helpful Mini-nuts inside.<size=36>\n\n<color=black>Toughness: </color><color=#8B0000>8000</color>\n<color=black>Special: </color><color=#8B0000>Spawns a Mini-nut every 50s. When the Mini-nut is fully grown, it is consumed to heal a nearby damaged Pumpkin-type plant for up to 1000 HP or to produce a Wall-nut seed packet if no such plant exists. A single Nut Shell can produce at most 3 Wall-nut seed packets.</color>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Wall-nut > Pumpkin</color>"
         },
         {
