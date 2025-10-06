@@ -382,7 +382,7 @@
             "theZombieType": 68,
             "name": "치킨 좀키",
             "introduce": "<align=justified><size=36><color=black>당신이라면 무엇과 싸우고 싶나요?\n좀비 크기의 닭 10마리, 아니면 닭 크기의 좀비 100마리? 아직 모르겠다고 걱정하지 마세요. 이제 그들이 함께 몰려옵니다!</color>",
-            "info": "<size=36>식물을 쪼기 위해 앞으로 달려가는 닭을 타고 다닙니다.\n\n<color=black>체력: </color><color=#4B0082>500</color>\n<color=black>특수 능력: </color><color=#4B0082>매우 빠르게 움직이고 쪼아됩니다.. 닭이 죽으면 임프가 등에서 잔디밭으로 떨어집니다.</color>"
+            "info": "<size=36>식물을 쪼기 위해 앞으로 달려가는 닭을 타고 다닙니다.\n\n<color=black>체력: </color><color=#4B0082>500</color>\n<color=black>특수 능력: </color><color=#4B0082>매우 빠르게 움직이고 쪼아됩니다. 닭이 죽으면 임프가 등에서 잔디밭으로 떨어집니다.</color>"
         },
         {
             "theZombieType": 69,
@@ -472,7 +472,7 @@
             "theZombieType": 110,
             "name": "골드 럭키박스 좀비",
             "introduce": "<align=justified><size=36><color=black>골드 럭키박스 좀비는 결정을 내리지 못하는 성격입니다. 어느 순간에는 양동이 호두 좀비처럼 변장하고 싶어 하고, 다음 순간에는 학술지 좀비처럼 독서에 몰두하고 싶어 합니다. 아마 그의 머리에서 상자를 떨어뜨려주면 결정을 내리는 데 도움이 될지도 모릅니다…\n\n-Hazy 쓸</color>",
-            "info": "<size=36>황금!? 이 박스에는 뭐가 들어있을까...\n\n<color=black>체력: </color><color=#4B0082>270 + 720 (제1 방어구)</color>\n<color=black>특수 능력: </color><color=#4B0082>박스가 떨어진 후, 온전한 체력을 가진 오디세이 좀비를 제외한 랜덤한 좀비로 변합니다. 또한 1분마다 사망 시 1%의 확률로 랜덤한 오디세이 버프를 받을수도 있습니다.</color>"
+            "info": "<size=36>황금!? 이 박스에는 뭐가 들어있을까...\n\n<color=black>체력: </color><color=#4B0082>270 + 720 (제1 방어구)</color>\n<color=black>특수 능력: </color><color=#4B0082>박스가 떨어진 후, 온전한 체력을 가진 랜덤한 좀비(오디세이 좀비 제외)로 변합니다. 또한 1분마다 사망 시 1%의 확률로 랜덤한 오디세이 버프를 받을수도 있습니다.</color>"
         },
         {
             "theZombieType": 111,
