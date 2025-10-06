@@ -473,7 +473,7 @@
             "seedType": 301,
             "name": "Overclocked Cherrybomber",
             "introduce": "<align=justified><size=36><color=black>Other plants can't stop envying his explosive firepower. He just shrugs it off: \"I'm no genius here. It's all just hard work and sweat.\" Of course, he is referring to how he secretly stole everyone else's equipment and strapped it onto himself.</color>",
-            "info": "<size=36>Stronger than strongest damage-dealer.\n\n<color=blue>Unsealed form of Gatling Cherrybomber</color>\n<color=#4A2900>Usage Condition: Harvest Mode | Legendary Odyssey Plant: Special form of Gatling Cherrybomber</color>\n<color=black>Damage: </color><color=#8B0000>300×6/0.5s</color>\n<color=black>Special: </color><color=#8B0000> Shoots explosive cherries at a horrifying rate after charging up for a 1.5s.</color>",
+            "info": "<size=36>Stronger than the strongest damage-dealer.\n\n<color=blue>Unsealed form of Gatling Cherrybomber</color>\n<color=#4A2900>Usage Condition: Harvest Mode | Legendary Odyssey Plant: Special form of Gatling Cherrybomber</color>\n<color=black>Damage: </color><color=#8B0000>300×6/0.5s</color>\n<color=black>Special: </color><color=#8B0000> Shoots explosive cherries at a horrifying rate after charging up for a 1.5s.</color>",
             "cost": "\n"
         },
         {
@@ -2230,7 +2230,7 @@
             "seedType": 1192,
             "name": "Doom Chomper",
             "introduce": "<align=justified><size=36><color=black>In the Chomper's Big Eater Championship, Doom Chomper was a force to be reckoned with—until he took things a little too far. \"He didn't just eat his cake—he incinerated mine!\" a fellow contestant recalled. Unsurprisingly, he was disqualified for excessive destruction.</color>",
-            "info": "<size=36>Devours a zombie to produce a Doom explosion.\n\n<color=black>Damage: </color><color=#8B0000>Insta-kill (Devour)</color>\n<color=black>Digestion Time: </color><color=#8B0000>40s</color>\n<color=black>Special: </color><color=#8B0000>Each time it successfully bites a zombie, a Doom-shroom explosion is released, causing a crater to appear in front of it (does not trigger explosion if in the rightmost column).</color>",
+            "info": "<size=36>Devours a zombie to produce a Doom explosion.\n\n<color=black>Damage: </color><color=#8B0000>Insta-kill (Devour)</color>\n<color=black>Digestion Time: </color><color=#8B0000>60s</color>\n<color=black>Special: </color><color=#8B0000>Each time it successfully bites a zombie, a Doom-shroom explosion is released, causing a crater to appear in front of it (does not trigger explosion if in the rightmost column).</color>",
             "cost": "<size=36>\nFusion Formula: <color=#8B0000>Chomper + Doom-shroom</color>"
         },
         {
