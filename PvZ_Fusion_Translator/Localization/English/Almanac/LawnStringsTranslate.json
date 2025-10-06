@@ -1096,7 +1096,7 @@
             "seedType": 1030,
             "name": "Repeater",
             "introduce": "<align=justified><size=36><color=black>Unlike his bright and cheerful brother, Repeater leads a carefree life—until it's time to fight. He secretly mastered the art of double shooting but kept it hidden from Peashooter. \"I just want him to live happily, without ever needing to learn these battle skills.\"</color></size>",
-            "info": "<size=36>Repeater fires two peas at a time.\n\n<color=black>Damage: </color><color=#8B0000>20×2/1.5s</color></size>",
+            "info": "<size=36>Repeater fires two peas at a time.\n\n<color=black>Damage: </color><color=#8B0000>20×2/1.5s</color>\n<color=black>Special: </color><color=#8B0000>Tap to auto-fuse with a free Peashooter 15s after planting.</color></size>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Peashooter + Peashooter</color>"
         },
         {
@@ -1516,7 +1516,7 @@
             "seedType": 1090,
             "name": "Split Pea",
             "introduce": "<align=justified><size=36><color=black>The Split Pea brothers always argued over the best direction to fire—forward or backward. But now they've found a clever solution: just let the peas rebound. Problem solved!</color></size>",
-            "info": "<size=36>Split Peas shoot peas forward and backwards.\n\n<color=black>Damage: </color><color=#8B0000>20×3/1.5s</color>\n<color=black>Special: </color><color=#8B0000>Peas shot backwards will rebound upon reaching the edge of the screen.</color></size>",
+            "info": "<size=36>Split Peas shoot peas forward and backwards.\n\n<color=black>Damage: </color><color=#8B0000>20×3/1.5s</color>\n<color=black>Special:</color>\n<color=black>•</color><color=#8B0000> Peas shot backwards will rebound upon reaching the edge of the screen.\n<color=black>•</color><color=#8B0000> Tap to auto-fuse with a free Peashooter 15s after planting.</color></color></size>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Repeater + Peashooter</color>"
         },
         {
