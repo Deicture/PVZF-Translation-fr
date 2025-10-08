@@ -883,6 +883,13 @@
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Doom Chomper + MAD Pepper</color>"
         },
         {
+            "seedType": 957,
+            "name": "Vortex Melon",
+            "introduce": "<align=justified><size=36><color=black></color>",
+            "info": "<size=36>\n\n<color=#4A2900>Usage Condition: Odyssey Mode | Unlockable</color>\n<color=black>Damage: </color><color=#8B0000></color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> \n<color=black>•</color> </color>\n<color=black>Odyssey Modifiers:</color>\n<color=#8B0000>1. \n2. </color>",
+            "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Winter Melon + Chrono Melon</color>"
+        },
+        {
             "seedType": 1000,
             "name": "Solar-shooter",
             "introduce": "<align=justified><size=36><color=black>\"Actually, the Sunflower behind me is my sister,\" Solar-shooter explained to everyone. \"We've been inseparable since birth. She loves producing Sun, and I destroy zombies on her behalf.\" But everyone knows the truth: the cheerful Pea brother is a total siscon. After all, every zombie that gets near his sister mysteriously ends up vaporized by sunlight.</color></size>",
@@ -3114,6 +3121,48 @@
             "introduce": "<align=justified><size=36><color=black>Heard that some zombies brought a \"tank\"? Then show them the living machine-gun fortress — Pumpkin Pod! As for ammo… well, the designer forgot to install them! But no problem! Let the coordinating peas \"share\" some ammos!</color>",
             "info": "<size=36>Copies the behavior of the Pea-shooting plant inside it.\n\n<color=black>Toughness: </color><color=#8B0000>4000</color>\n<color=black>Damage: </color><color=#8B0000>?/3s</color>\n<color=black>Special: </color><color=#8B0000>If a Pea-family plant is inside, it fires once every 3s, matching that plant's projectile count, damage, and type. These shots are considered to be fired by the internal plant.</color>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Peashooter > Pumpkin</color>"
+        },
+        {
+            "seedType": 1319,
+            "name": "Blaze Pea",
+            "introduce": "<align=justified><size=36><color=black></color>",
+            "info": "<size=36>\n\n<color=black>Damage: 30/1.5s</color><color=#8B0000></color>\n<color=black>Special: </color><color=#8B0000> Attacks inflict Enflamed debuff.",
+            "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Peashooter + Jalapeno</color>"
+        },
+        {
+            "seedType": 1320,
+            "name": "Blaze Repeater",
+            "introduce": "<align=justified><size=36><color=black></color>",
+            "info": "<size=36>\n\n<color=black>Damage: 30×2/1.5s</color><color=#8B0000></color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Attacks inflict Enflamed debuff.\n<color=black>•</color> Tap to auto-fuse with a free Peashooter 15s after planting.</color>",
+            "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Repeater + Jalapeno</color>"
+        },
+        {
+            "seedType": 1321,
+            "name": "Split Blaze",
+            "introduce": "<align=justified><size=36><color=black></color>",
+            "info": "<size=36>\n\n<color=black>Damage: 30×3/1.5s</color><color=#8B0000></color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Attacks inflict Enflamed debuff.\n<color=black>•</color> Tap to auto-fuse with a free Peashooter 15s after planting.</color>",
+            "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Repeater + Jalapeno</color>"
+        },
+        {
+            "seedType": 1322,
+            "name": "Blaze Gatling",
+            "introduce": "<align=justified><size=36><color=black></color>",
+            "info": "<size=36>\n\n<color=black>Damage: 30×4/1.5s</color><color=#8B0000></color>\n<color=black>Special: </color><color=#8B0000> Attacks inflict Enflamed debuff.</color>",
+            "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Repeater + Jalapeno</color>"
+        },
+        {
+            "seedType": 1323,
+            "name": "Stinky Pumpkin",
+            "introduce": "<align=justified><size=36><color=black></color>",
+            "info": "<size=36>\n\n<color=black>Toughness: 4000</color><color=#8B0000></color>\n<color=black>Special: </color><color=#8B0000> Zombies that bite him will change lanes and accumulate 1 Poison point.</color>",
+            "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Garlic > Pumpkin</color>"
+        },
+        {
+            "seedType": 1324,
+            "name": "Sunny Pumpkin",
+            "introduce": "<align=justified><size=36><color=black></color>",
+            "info": "<size=36>\n\n<color=black>Toughness: 4000 + ?</color><color=#8B0000></color>\n<color=black>Sun Output: </color><color=#8B0000>25/25s</color>\n<color=black>Special: </color><color=#8B0000> Generates 50 HP as Shield every time she produces Sun. The total Shield value has no upper cap.</color>",
+            "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Sunflower > Pumpkin</color>"
         },
         {
             "seedType": 350,
