@@ -21,6 +21,7 @@ The download links for the Multi-language Mod and the translation files of the M
 ------ | ------ | ------
 **\_Redist (Install these if you have problem launching the game)** | PC | [MEGA](https://mega.nz/file/gzU2QTIY#R71lWGYvXCxG4WBtzLyCRkkHV-WGqKB84rXXR4ikOSg)
 **Multi-Language 3.0.1 Version 1** | PC | [Github Release](https://github.com/Teyliu/PVZF-Translation/releases/tag/3.0.1_v1)
+**[BETA] English 3.0.1 Version 1** | Android | [Github Release](https://github.com/Teyliu/PVZF-Translation/releases/tag/3.0.1_android_beta)
 **Multi-Language 2.8.2 Version 2** | PC | [Github Release](https://github.com/Teyliu/PVZF-Translation/releases/tag/2.8.2_v2)
 **English 2.7 by Nvdtn19** | Android |  [Google Drive](https://drive.google.com/drive/folders/13-zefuw1geoi_Ky7919GQ3Can65guXrJ) [Archive](https://archive.org/download/pvz-fusion-fanmade-android-english-version-by-nvdtn19/PvZ%20Fusion%20Fanmade%20Android%20English%20version%20by%20Nvdtn19/)
 **Chinese 3.0.1** | PC | [MEGA](https://mega.nz/file/Ej0nETYL#RR8fHiJ4IIKhEM0_SxC6K_xqVU5HME1yRNzqr9ICidQ) [Google Drive](https://drive.google.com/file/d/1EGwwTEh2XWs8p2exGfX3i8CSt_xJuHPJ/view?usp=sharing)
