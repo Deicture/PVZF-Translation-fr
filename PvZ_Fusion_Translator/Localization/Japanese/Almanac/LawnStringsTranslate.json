@@ -2278,7 +2278,7 @@
         {
             "seedType": 1180,
             "name": "氷ウィード",
-            "introduce": "<align=justified><size=36><color=black>第一回PVZアイスホッケー大会に出場し、見事勝利を収めた氷ウィード。しかし、敗北したソリ車ゾンビは「判定をやり直せ！」と猛抗議。「何もしてないよ」と氷ウィードは尖ったトゲをすくめる。「頭のバネ？あれは試合前の防御対策さ。」</color>",
+            "introduce": "<align=justified><size=36><color=black>第一回PvZアイスホッケー大会に出場し、見事勝利を収めた氷ウィード。しかし、敗北したソリ車ゾンビは「判定をやり直せ！」と猛抗議。「何もしてないよ」と氷ウィードは尖ったトゲをすくめる。「頭のバネ？あれは試合前の防御対策さ。」</color>",
             "info": "<size=36>氷ウィードは上を歩くゾンビの動きを鈍らせる。\n\n<color=black>ダメージ：</color><color=#8B0000>20/秒</color>\n<color=#0077b6>冷凍システム：</color><color=#8B0000>攻撃ごとに10冷凍ポイントを追加。</color>",
             "cost": "\n<size=36>融合レシピ：</color><color=#8B0000>スパイクウィード＋氷キノコ</color>"
         },
@@ -3180,7 +3180,7 @@
         },
         {
             "seedType": 1309,
-            "name": "プランタンナッツ",
+            "name": "光のナッツ",
             "introduce": "<align=justified><size=36><color=black></color>",
             "info": "<size=36>\n\n<color=black>耐久力：</color><color=#8B0000>4000</color>\n<color=#99582a>光システム：</color><color=#8B0000>3×3グリッドに光レベル1を提供。15秒ごとに、光レベル1につき150 HPを回復</color></size>",
             "cost": "\n<size=36>融合レシピ：<color=#8B0000>ウォールナッツ＋プランタン</color>"

@@ -3021,7 +3021,7 @@
             "seedType": 1304,
             "name": "Torchflower",
             "introduce": "<align=justified><size=36><color=black>Torchflower is always cheerful, even able to smile through her doctoral dissertation. \"Become the sunshine you have always been looking for.\" she wrote in the acknowledgments at the end of her paper.</color>",
-            "info": "Melts nearby projectiles into Sun!<size=36>\n\n<color=black>Sun Output: </color><color=#8B0000>25/25s</color>\n<color=black>Special: </color><color=#8B0000>Each time she produces Sun, converts all plant (and hypnotized zombie) projectiles in a 1.5 Tile radius into Sun at a rate of 5 Sun per projectile.</color>",
+            "info": "<size=36>Melts nearby projectiles into Sun!\n\n<color=black>Sun Output: </color><color=#8B0000>25/25s</color>\n<color=black>Special: </color><color=#8B0000>Each time she produces Sun, converts all plant (and hypnotized zombie) projectiles in a 1.5 Tile radius into Sun at a rate of 5 Sun per projectile.</color>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Sunflower + Torchwood</color>"
         },
         {
