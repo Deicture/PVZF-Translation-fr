@@ -88,7 +88,7 @@
             "seedType": 12,
             "name": "Lily Pad",
             "introduce": "<align=justified><size=36><color=black>Lily Pad never complains. Lily Pad never wants to know what's going on. Put a plant on top of Lily Pad, he won't say a thing. Does he have startling opinions or shocking secrets? Nobody knows. Lily Pad keeps it all inside.</color></size>",
-            "info": "<size=36>Lily Pads let you plant non-aquatic plants on top of them.\n\n<color=black>Special: </color><color=#8B0000>Non-aquatic plants can be planted on it. When specific plants are placed, Lily Pad transforms into a variant of it that can <i>automatically plant</i> the plant that transformed it every 90 seconds.</color>\n<color=black>Variants: </color><color=#8B0000>Sunflower, Wall-nut, Threepeater, Squash, Torchwood, Jalapeno.</color></size>",
+            "info": "<size=36>Lily Pads let you plant non-aquatic plants on top of them.\n\n<color=black>Special: </color><color=#8B0000>Short plant. Non-aquatic plants can be planted on it. When specific plants are placed, Lily Pad transforms into a variant of it that can <i>automatically plant</i> the plant that transformed it every 90 seconds.</color>\n<color=black>Variants: </color><color=#8B0000>Sunflower, Wall-nut, Threepeater, Squash, Torchwood, Jalapeno.</color></size>",
             "cost": "<size=36>Cost: <color=#8B0000>25</color>\nRecharge: <color=#8B0000>7.5s</color></size>"
         },
         {
@@ -423,7 +423,7 @@
         {
             "seedType": 251,
             "name": "Giant Solar-nut",
-            "introduce": "<align=justified><size=36><color=black>Twin Solar-nut asked me to do him a favor for 500 Sun, so I came. How difficult can it be? It can't be rushing into a pile of zombies... right...? It's not, right!?</color></size>",
+            "introduce": "<align=justified><size=36><color=black>\"Twin Solar-nut asked me to do him a favor for 500 Sun, so I came. How difficult can it be? It can't be rushing into a pile of zombies... right...? It's not, right!?\"</color></size>",
             "info": "<size=36>Crushes zombies by rolling on them like a bowling ball.\n\n<color=black>Damage: </color><color=#8B0000>600/0.02s</color></size>",
             "cost": "<size=36>Spawned when Twin Solar-nut is clicked when there's sufficient Sun."
         },
@@ -1978,14 +1978,14 @@
             "seedType": 1155,
             "name": "Roasted Spikeweed",
             "introduce": "<align=justified><size=36><color=black>After the test of fire, he's still the same old Spikeweed, just wiser, shinier, and ready to give the zombies a warmer welcome!</color>",
-            "info": "<size=36>A hot Spikeweed? What's the difference between him and the cooler Spikeweed?\n\n<color=black>Toughness: </color><color=#8B0000>300</color>\n<color=black>Special: </color><color=#8B0000>Cannot be used in fusions.</color>",
+            "info": "<size=36>A hot Spikeweed? What's the difference between him and the cooler Spikeweed?\n\n<color=black>Toughness: </color><color=#8B0000>300</color>\n<color=black>Damage: </color><color=#8B0000>20/1 Second</color>\n<color=black>Special: </color><color=#8B0000>Cannot be used in fusions.</color>",
             "cost": "\n<size=36>"
         },
         {
             "seedType": 1156,
             "name": "Roasted Kelp",
             "introduce": "<align=justified><size=36><color=black>Managing a hot spring isn't easy, but Roasted Kelp takes pride in having zero customer complaint. In fact they seem to enjoy their dip a little too much to the point of never returning.</color>",
-            "info": "<size=36>Rumor has it that this Kelp also thrives in lava.\n\n<color=black>Toughness: </color><color=#8B0000>300</color>\n<color=black>Special: </color><color=#8B0000>Cannot be used in fusions.</color>",
+            "info": "<size=36>Rumor has it that this Kelp also thrives in lava.\n\n<color=black>Toughness: </color><color=#8B0000>300</color>\n<color=black>Damage: </color><color=#8B0000>Insta-kill (Drown)</color>\n<color=black>Special: </color><color=#8B0000>Cannot be used in fusions.</color>",
             "cost": "\n<size=36>"
         },
         {
@@ -3169,7 +3169,14 @@
             "name": "Aurora-shroom",
             "introduce": "<align=justified><size=36><color=black></color>",
             "info": "<size=36>\n\n<color=black>Toughness: 4000 + ?</color><color=#8B0000></color>\n<color=black>Sun Output: </color><color=#8B0000>25/25s</color>\n<color=black>Special: </color><color=#8B0000> Generates 50 HP as Shield every time she produces Sun. The total Shield value has no upper cap.</color>",
-            "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Sunflower > Pumpkin</color>"
+            "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Sunflower + Ice-shroom</color>"
+        },
+        {
+            "seedType": 1324,
+            "name": "Comet-shroom",
+            "introduce": "<align=justified><size=36><color=black></color>",
+            "info": "<size=36>\n\n<color=black>Sun Output: </color><color=#8B0000>25/25s</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> When eaten, it hypnotizes the attacker and summons a Solar Comet.\n<color=black>•</color> The Solar Comet seeks out zombies and bounces between them, up to 10 times. When it hits a hypnotized zombie, it deals 200 damage and drops 25 Sun. When it hits a non-hypnotized zombie, it deals 100 damage and drops 15 Sun.\n<color=black>•</color> After the Comet completes its bounces or disappears, it drops an additional 25 Sun.</color>",
+            "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Sunflower + Hypno-shroom</color>"
         },
         {
             "seedType": 350,
@@ -3287,7 +3294,7 @@
             "seedType": 366,
             "name": "Lily Pad (TD)",
             "introduce": "<align=justified><size=36><color=black>Lily Pad never complains. Lily Pad never wants to know what's going on. Put a plant on top of Lily Pad, he won't say a thing. Does he have startling opinions or shocking secrets? Nobody knows. Lily Pad keeps it all inside.</color></size>",
-            "info": "<size=36>Lily Pads let you plant non-aquatic plants on top of them.\n\n<color=black>Special: </color><color=#8B0000>Non-aquatic plants can be planted on it. Short plant.</color></size>",
+            "info": "<size=36>Lily Pads let you plant non-aquatic plants on top of them.\n\n<color=black>Special: </color><color=#8B0000>Short plant. Non-aquatic plants can be planted on it.</color></size>",
             "cost": "<size=36>Cost: <color=#8B0000>25</color>\nRecharge: <color=#8B0000>7.5s</color></size>"
         },
         {
