@@ -1812,6 +1812,17 @@
             "introduce": "<size=36>",
             "info": "<size=36>Foul Blover peut empoisonner les zombies.\n\n<color=black>Spécial : </color><color=#8B0000>Inflige 5 points de poison à chaque zombie présent à l'écran et applique le debuff empoisonné. Cela augmente également la durée de séjour du debuff de 5 secondes supplémentaires et les oblige à changer de voie. </couleur>",
             "cost": "\n<size=36><color=black>Recette de Fusion : </color><color=#8B0000>Ail + Troufle</color>"
+        },
+
+
+
+        
+        {
+            "seedType": 230,
+            "name": "Lumo-shroom: Lumo-sun",
+            "introduce": "<align=justified><size=36><color=black>The first time Lumo-shroom saw a lumofly as a child, she was captivated. The flickering lights in the grass: a life so beautiful yet fleeting, like lamps or stars, painting the night sky with dreams. Perhaps that's why she looks at the lumo-suns she produces with joy instead of distaste.</color>",
+            "info": "<size=36>Les Champi-soleil vivent en symbiose avec les lumoflies.\n\n<color=blue>PvZ: Symbiosis Collab Plant</color>\n<color=black>Production de Soleil: </color><color=#8B0000>20→35/25s\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Sun-shrooms convert into Lumo-shrooms, gaining the <u>Lumo-sun</u> ability after 150s if their tile's Lumos Level is 1 or higher. Each additional Lumos Level accelerates the conversion by 100%.\n<color=black>•</color> Lumo-sun: Produces Lumo-sun, which is worth 20 each (35 when grown up).</color>",
+            "cost": "\n<size=36>Recette de Fusion: <color=#8B0000>Champi-soleil + Lumos Level</color>"
         }
     ]
 }
