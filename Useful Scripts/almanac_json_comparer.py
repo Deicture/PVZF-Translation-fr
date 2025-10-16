@@ -30,7 +30,7 @@ def merge_entries(primary_list, fallback_list, key):
 # ---- MAIN ENTRY ----
 if __name__ == '__main__':
     # Define language codes
-    lang_primary = 'French'
+    lang_primary = 'Japanese'
     lang_fallback = 'English'
 
     # Define Almanac directory path
