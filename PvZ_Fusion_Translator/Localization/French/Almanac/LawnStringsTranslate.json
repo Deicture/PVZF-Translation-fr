@@ -1868,6 +1868,43 @@
             "introduce": "<align=justified><size=36><color=black>Qui a dit que les tournesols ne vivaient qu’au soleil ? La Tournesol Argentée a plus d’un talent : c’est une orfèvre accomplie ! Grâce aux techniques héritées de son maître, il façonne des bijoux et des couverts en argent étincelants, chacun brillant d’un éclat chargé d’histoire. Comme on dit : \"L’héritage d’un artisan perdure, et l’élégance ne passe jamais inaperçue.\"</color>",
             "info": "<size=36>Produit du soleil plus rapidement.\n\n<color=black>Production de soleil : </color><color=#8B0000>25/15s</color>",
             "cost": "<size=36>\nRecette de Fusion: <color=#8B0000>Tournesol + Souci</color>"
+        },
+
+
+        {
+            "seedType": 1274,
+            "name": "Champi-explosion",
+            "introduce": "<align=justified><size=36><color=black>La plus douce des cerises de la famille : pas de crises, pas de hurlements, tout le monde l’adore. \"J’ai… un peu envie de jurer, parfois\" , avoue-t-elle. \"Mais… j’ai peur qu’on me réponde en criant.\"</color>",
+            "info": "<size=36>Facilement effrayée, mais provoque une explosion quand cela arrive.\n\n<color=black>Dégâts : </color><color=#8B0000>40/1.5s</color>\n<color=black>Special: </color><color=#8B0000>Lorsqu’elle prend peur, elle se cache et déclenche une explosion de type Bombre Cerise, infligeant 600 dégâts de zone.</color>",
+            "cost": "\n<size=36>Recette de Fusion: <color=#8B0000>Champi-peureux + Bombe Cerise</color>"
+        },
+        {
+            "seedType": 1212,
+            "name": "Cerise Gelée",
+            "introduce": "<align=justified><size=36><color=black>Toutes les plantes disent que la Cerise Gelée est calme, introvertie et plutôt taciturne. \"Il m’arrive parfois de me confier aux autres cerises\", dit la Cerise Gelée. \"Elles appellent ça… des nouvelles explosives.\"</color>",
+            "info": "<size=36>Moulée dans la glace, cette cerise absorbe les projectiles de cerises lancés par les plantes pour générer des sachets de graines de Cerise Explosive.\n\n<color=black>Special: </color><color=#8B0000>Absorber une Bombe Cerise, enflammée ou explosive octroie respectivement 1, 2 et 10 points d’énergie. Tous les 100 points d’énergie accumulés, un sachet de graines de Cerise Explosive est généré. À sa mort, elle déclenche une explosion de Bombe Cerise et gèle tous les zombies à portée pendant 10 secondes.</color>",
+            "cost": "<size=36>\nRecette de Fusion: <color=#8B0000>Bombe Cerise + Champi-glace</color>"
+        },
+        {
+            "seedType": 1244,
+            "name": "Drone Cerise",
+            "introduce": "<align=justified><size=36><color=black>Le Drone Cerise se soucie toujours de son apparence — que quelqu’un le regarde ou non. Au sol ou dans les airs, si tu touches à sa coiffure, prépare-toi à te faire pulvériser. Fort.</color>",
+            "info": "<size=36>Cerise rebelle et un brin frimeuse, elle flotte dans les airs avant de larguer ses bombes sur les zombies avec panache.\n\n<color=black>Dégâts : </color><color=#8B0000>300</color>\n<color=black>Special: </color><color=#8B0000>Toutes les 15 secondes, cible un zombie dans une zone de 3×5 et largue une bombe cerise, provoquant une explosion dans un rayon d’une case.</color>",
+            "cost": "\n<size=36>Recette de Fusion: <color=#8B0000>Bombe Cerise + Troufle</color>"
+        },
+        {
+            "seedType": 1243,
+            "name": "Pot Cerise",
+            "introduce": "<align=justified><size=36><color=black>Le Pot-Cerise préférerait renoncer à sa paie du Jardin Zen plutôt que d’être prise pour une plante.\"Ces fous ne trouvent pas de vraies cerises, alors ils essaient de manger tout ce qui en a le goût !\" Rien que d’en parler, elle en frissonne.</color>",
+            "info": "<size=36>Un pot passionné par les explosions de cerises, qui les utilise pour soigner la plante sur sa case et renforcer brièvement les tireurs de type cerise.\n\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Immunisée contre les explosions de cerises.\n<color=black>•</color> Soigne la plante placée sur sa case de 20 PV lorsqu’elle est touchée par une explosion de cerise.\n<color=black>•</color> Pendant le soin, accorde également un bonus de vitesse d’attaque de 30 % pendant 1 seconde aux plantes tireuses de cerises.</color>",
+            "cost": "\n<size=36>Recette de Fusion: <color=#8B0000>Bombe Cerise > Pot de Fleur</color>"
+        },
+        {
+            "seedType": 1207,
+            "name": "Bombrelle",
+            "introduce": "<align=justified><size=36><color=black>La Bombrelle a adopté une nouvelle coupe de cheveux, ce qui la rend encore plus rebelle et irritable — une vraie délinquante qui traîne dans les rues. Mais ne vous fiez pas à son apparence : derrière ce look nerveux se cache un cœur tendre… elle aide même le coiffeur à ramasser les feuilles tombées.</color>",
+            "info": "<size=36>Lorsqu’elle repousse les ennemis, elle déclenche de petites explosions de cerise et utilise leur énergie pour protéger les plantes voisines.\n\n<color=black>Résistance : </color><color=#8B0000>600</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Hérite des propriétés de la Feuille-Parapluie.\n<color=black>•</color> Repousse les zombies approchants et libère une petite explosion de cerise infligeant 300 dégâts. \n<color=black>•</color> Immunisée contre les ballons de basket explosifs.\n<color=black>•</color> À chaque fois qu’une plante défensive fusionnée avec une cerise ou qu’une Pot-Cerise soigne grâce à une explosion de cerise dans un rayon de 3×3, elle gagne 1 niveau d’énergie (jusqu’à 100). \n<color=black>•</color> La Bombrelle consomme 2 niveaux d’énergie pour absorber tous les dégâts dans un rayon de 3×3.</color>",
+            "cost": "<size=36>\nRecette de Fusion: <color=#8B0000>Bombe Cerise + Feuille-Parapluie</color>"
         }
 
 
