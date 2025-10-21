@@ -3165,32 +3165,39 @@
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Sunflower > Pumpkin</color>"
         },
         {
-            "seedType": 1324,
+            "seedType": 1325,
             "name": "Aurora-shroom",
             "introduce": "<align=justified><size=36><color=black></color>",
             "info": "<size=36>\n\n<color=black>Toughness: 4000 + ?</color><color=#8B0000></color>\n<color=black>Sun Output: </color><color=#8B0000>25/25s</color>\n<color=black>Special: </color><color=#8B0000> Generates 50 HP as Shield every time she produces Sun. The total Shield value has no upper cap.</color>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Sunflower + Ice-shroom</color>"
         },
         {
-            "seedType": 1324,
+            "seedType": 1326,
             "name": "Comet-shroom",
             "introduce": "<align=justified><size=36><color=black></color>",
             "info": "<size=36>\n\n<color=black>Sun Output: </color><color=#8B0000>25/25s</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> When eaten, it hypnotizes the attacker and summons a Solar Comet.\n<color=black>•</color> The Solar Comet seeks out zombies and bounces between them, up to 10 times. When it hits a hypnotized zombie, it deals 200 damage and drops 25 Sun. When it hits a non-hypnotized zombie, it deals 100 damage and drops 15 Sun.\n<color=black>•</color> After the Comet completes its bounces or disappears, it drops an additional 25 Sun.</color>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Sunflower + Hypno-shroom</color>"
         },
         {
-            "seedType": 1325,
+            "seedType": 1327,
             "name": "Chompkin",
             "introduce": "<align=justified><size=36><color=black></color>",
             "info": "<size=36>\n\n<color=black>Toughness: 4000</color><color=#8B0000></color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Chompkin periodically uses a reserve Digestive Sac to help the Chomper plant in the same tile to instantly finish swallowing.\n<color=black>•</color> Chompkin starts with 1 Digestive Sac and regenerates 1 every 40s, up to a maximum of 3 at the same time.</color>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Chomper > Pumpkin</color>"
         },
         {
-            "seedType": 1326,
+            "seedType": 1328,
             "name": "Stench-spreader",
             "introduce": "<align=justified><size=36><color=black></color>",
             "info": "<size=36>\n\n<color=black>Damage: 30×3/1.5s</color><color=#8B0000></color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Projectiles add 1 Poison value to zombies on hit.\n<color=black>•</color> If the zombie hit is already in a Poisoned state, creates a poison cloud at the zombie's feet that lasts for 6s, applying 1 Poison value per second to all zombies caught within.</color>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Threepeater + Garlic</color>"
+        },
+        {
+            "seedType": 1329,
+            "name": "Blighter Snipea",
+            "introduce": "<align=justified><size=36><color=black></color>",
+            "info": "<size=36>\n\n<color=black>Damage: 30×3/1.5s</color><color=#8B0000></color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Projectiles add 1 Poison value to zombies on hit.\n<color=black>•</color> If the zombie hit is already in a Poisoned state, creates a poison cloud at the zombie's feet that lasts for 6s, applying 1 Poison value per second to all zombies caught within.</color>",
+            "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Snipea + Garlic</color>"
         },
         {
             "seedType": 350,
