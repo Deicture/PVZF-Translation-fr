@@ -1812,6 +1812,101 @@
             "introduce": "<size=36>",
             "info": "<size=36>Foul Blover peut empoisonner les zombies.\n\n<color=black>Spécial : </color><color=#8B0000>Inflige 5 points de poison à chaque zombie présent à l'écran et applique le debuff empoisonné. Cela augmente également la durée de séjour du debuff de 5 secondes supplémentaires et les oblige à changer de voie. </couleur>",
             "cost": "\n<size=36><color=black>Recette de Fusion : </color><color=#8B0000>Ail + Troufle</color>"
+        },
+        {
+            "seedType": 1245,
+            "name": "Champi-aube",
+            "introduce": "<align=justified><size=36><color=black>Un banquier solaire chevronné, Champi-aube offre des taux d'intérêt généreux sur vos dépôts.\"Vous avez choisi un dépôt à terme,\" dit-il sévèrement à une Noix Solaire Jumelle en colère. \"Les retraits ne sont pas encore autorisés.\"</color>",
+            "info": "<size=36>Producteur de soleil visionnaire, il absorbe et multiplie le soleil alentour avant de le redistribuer par vagues.\n\n<color=black>Production de soleil: </color><color=#8B0000>25/20s</color>\n<color=black>Spécial: </color><color=#8B0000>\n<color=black>•</color> Absorbe les soleils tombés dans une zone de 5×5, multiplie leur valeur par ×1,3 et les stocke.\n<color=black>•</color> Libère autant de soleil que possible par lots de 25 lors de la prochaine production.</color>",
+            "cost": "\n<size=36>Recette de Fusion: <color=#8B0000>Tournesol + Champi-fumée</color>"
+        },
+        {
+            "seedType": 1246,
+            "name": "Champi-soleil",
+            "introduce": "<align=justified><size=36><color=black>Le Champi-Soleil s’entraîne à une nouvelle technique de respiration pour évacuer tout ce vilain trop-plein de soleil. Mais…\"Des zombies !!\" Et le voilà déjà recroquevillé, tremblant, ayant tout oublié. Quant à la méthode de respiration ? Il la retrouvera quand les zombies seront partis.</color>",
+            "info": "<size=36>Producteur de soleil timide qui accélère son rythme de travail… jusqu’à paniquer.\n\n<color=black>Production de soleil: </color><color=#8B0000>25/25s</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Paniqué à l’approche des zombies, il se recroqueville, réinitialise son intervalle à 25 s et produit immédiatement 25 soleils.</color>",
+            "cost": "\n<size=36>Recette de Fusion: <color=#8B0000>Tournesol + Champi-peureux</color>"
+        },
+        {
+            "seedType": 1248,
+            "name": "Tournesol-maudit",
+            "introduce": "<align=justified><size=36><color=black>Dans les jeux de jardin, tout finit parfois par se jouer à la chance pure. C’est là que la Fleur du Destin entre en scène.\"Pourquoi toujours moi ?\" \"Parce que c’est ton destin… ou ta damnation.\"</color>",
+            "info": "<size=36>Un Tournesol qui fait pousser des Spores de Ruine autour de lui, lesquelles mûrissent puis explosent à distance.\n\n<color=black>Production de soleil: </color><color=#8B0000>25/25s</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Toutes les 50 secondes, plante aléatoirement une Spore de Ruine dans une zone de 3×3 autour d’elle.\n<color=black>•</color> Les Spores de Ruine mettent 30 secondes à mûrir et, une fois prêtes, explosent comme un Champi-Doom dès qu’un zombie entre dans leur rayon d’action.</color>",
+            "cost": "\n<size=36>Recette de Fusion: <color=#8B0000>Tournesol + Champi-mort</color>"
+        },
+        {
+            "seedType": 1308,
+            "name": "Jalapeno Solaire",
+            "introduce": "<align=justified><size=36><color=black>Pourquoi tant de plantes gardent-elles leurs distances avec lui ? Il ne comprend pas : \"Je peux à la fois vous défendre et vous apporter du soleil !\" Il se croit plus lumineux et enjouée que Jalapeño, mais les autres le trouvent bien plus… destructeur.</color>",
+            "info": "<size=36>Brûle les autres plantes pour renforcer sa puissance.\n\n<color=black>Dégâts : </color><color=#8B0000>1800 (Crématrice)</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Rend 25 soleils pour chaque zombie touché.\n<color=black>•</color> Inflige également 1800 dégâts à toutes les plantes de sa ligne. Chaque plante affectée lâche 50 soleils et augmente les dégâts de Solar Flare de 500. Si une plante devait être détruite, elle a 1 chance sur 3 de survivre avec 1 PV restant.</color>",
+            "cost": "\n<size=36>Recette de Fusion: <color=#8B0000>Tournesol + Jalapeno</color>"
+        },
+        {
+            "seedType": 1304,
+            "name": "Tournesol Torche",
+            "introduce": "<align=justified><size=36><color=black>Le Tournesol Torche garde toujours le sourire — même pendant la rédaction de sa thèse de doctorat. \"Deviens le rayon de soleil que tu as toujours cherché \" , a-t-elle écrit dans les remerciements à la fin de son mémoire.</color>",
+            "info": "<size=36>Fait fondre les projectiles proches pour les transformer en soleil!\n\n<color=black>Production de soleil : </color><color=#8B0000>25/25s</color>\n<color=black>Special: </color><color=#8B0000>À chaque production, convertit tous les projectiles de plantes (et de zombies hypnotisés) dans un rayon de 1,5 case en soleils, à raison de 5 soleils par projectile.</color>",
+            "cost": "\n<size=36>Recette de Fusion: <color=#8B0000>Tournesol + Torche</color>"
+        },
+        {
+            "seedType": 1307,
+            "name": "Carambole Solaire",
+            "introduce": "<align=justified><size=36><color=black>\"Je suis une Carambole Solaire, pas un Tournesol ! Ne nous confondez pas !\" Les Carambole Solaire essaie toujours d’expliquer qu’elles n’ont rien à voir avec les Tournesol, mais ses amis plantes s’en moquent. Ses seuls partisans sont les zombies — ils trouvent que mâcher des pétales est bien plus agaçant que croquer des fruits.</color>",
+            "info": "<size=36>Utilise le soleil pour tirer des étoiles infligeant de lourds dégâts.\n\n<color=black>Dégâts : </color><color=#8B0000>100×5</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> En cliquant sur un Solarfruit, dépense 25 soleils pour tirer 5 étoiles infligeant 100 dégâts chacune, dans 5 directions.\n<color=black>•</color> Lorsqu’il est placé dans une Citrouille Stellaire, tire automatiquement toutes les 0,35 s en consommant du soleil.</color>",
+            "cost": "\n<size=36>Recette de Fusion: <color=#8B0000>Tournesol + Carambole</color>"
+        },
+        {
+            "seedType": 1184,
+            "name": "Pot-Tournesol",
+            "introduce": "<align=justified><size=36><color=black>\"Vous savez vraiment ce que veut dire “pot de fleur”, hein ?\" s’emporta Pot-Tournesol. \"C’est un pot pour faire pousser des fleurs ? Ou une fleur qui est un pot ? Peu importe ! Mettons les choses au clair : je suis un pot de fleur. Point final.\"</color>",
+            "info": "<size=36>Produit un surplus de soleil pour vous.\n\n<color=black>Production de soleil : </color><color=#8B0000>15/25s</color>",
+            "cost": "<size=36>\nRecette de Fusion: <color=#8B0000>Tournesol > Pot de Fleur</color>"
+        },
+        {
+            "seedType": 1187,
+            "name": "Tournesol d'Argent",
+            "introduce": "<align=justified><size=36><color=black>Qui a dit que les tournesols ne vivaient qu’au soleil ? La Tournesol Argentée a plus d’un talent : c’est une orfèvre accomplie ! Grâce aux techniques héritées de son maître, il façonne des bijoux et des couverts en argent étincelants, chacun brillant d’un éclat chargé d’histoire. Comme on dit : \"L’héritage d’un artisan perdure, et l’élégance ne passe jamais inaperçue.\"</color>",
+            "info": "<size=36>Produit du soleil plus rapidement.\n\n<color=black>Production de soleil : </color><color=#8B0000>25/15s</color>",
+            "cost": "<size=36>\nRecette de Fusion: <color=#8B0000>Tournesol + Souci</color>"
+        },
+
+
+        {
+            "seedType": 1274,
+            "name": "Champi-explosion",
+            "introduce": "<align=justified><size=36><color=black>La plus douce des cerises de la famille : pas de crises, pas de hurlements, tout le monde l’adore. \"J’ai… un peu envie de jurer, parfois\" , avoue-t-elle. \"Mais… j’ai peur qu’on me réponde en criant.\"</color>",
+            "info": "<size=36>Facilement effrayée, mais provoque une explosion quand cela arrive.\n\n<color=black>Dégâts : </color><color=#8B0000>40/1.5s</color>\n<color=black>Special: </color><color=#8B0000>Lorsqu’elle prend peur, elle se cache et déclenche une explosion de type Bombre Cerise, infligeant 600 dégâts de zone.</color>",
+            "cost": "\n<size=36>Recette de Fusion: <color=#8B0000>Champi-peureux + Bombe Cerise</color>"
+        },
+        {
+            "seedType": 1212,
+            "name": "Cerise Gelée",
+            "introduce": "<align=justified><size=36><color=black>Toutes les plantes disent que la Cerise Gelée est calme, introvertie et plutôt taciturne. \"Il m’arrive parfois de me confier aux autres cerises\", dit la Cerise Gelée. \"Elles appellent ça… des nouvelles explosives.\"</color>",
+            "info": "<size=36>Moulée dans la glace, cette cerise absorbe les projectiles de cerises lancés par les plantes pour générer des sachets de graines de Cerise Explosive.\n\n<color=black>Special: </color><color=#8B0000>Absorber une Bombe Cerise, enflammée ou explosive octroie respectivement 1, 2 et 10 points d’énergie. Tous les 100 points d’énergie accumulés, un sachet de graines de Cerise Explosive est généré. À sa mort, elle déclenche une explosion de Bombe Cerise et gèle tous les zombies à portée pendant 10 secondes.</color>",
+            "cost": "<size=36>\nRecette de Fusion: <color=#8B0000>Bombe Cerise + Champi-glace</color>"
+        },
+        {
+            "seedType": 1244,
+            "name": "Drone Cerise",
+            "introduce": "<align=justified><size=36><color=black>Le Drone Cerise se soucie toujours de son apparence — que quelqu’un le regarde ou non. Au sol ou dans les airs, si tu touches à sa coiffure, prépare-toi à te faire pulvériser. Fort.</color>",
+            "info": "<size=36>Cerise rebelle et un brin frimeuse, elle flotte dans les airs avant de larguer ses bombes sur les zombies avec panache.\n\n<color=black>Dégâts : </color><color=#8B0000>300</color>\n<color=black>Special: </color><color=#8B0000>Toutes les 15 secondes, cible un zombie dans une zone de 3×5 et largue une bombe cerise, provoquant une explosion dans un rayon d’une case.</color>",
+            "cost": "\n<size=36>Recette de Fusion: <color=#8B0000>Bombe Cerise + Troufle</color>"
+        },
+        {
+            "seedType": 1243,
+            "name": "Pot Cerise",
+            "introduce": "<align=justified><size=36><color=black>Le Pot-Cerise préférerait renoncer à sa paie du Jardin Zen plutôt que d’être prise pour une plante.\"Ces fous ne trouvent pas de vraies cerises, alors ils essaient de manger tout ce qui en a le goût !\" Rien que d’en parler, elle en frissonne.</color>",
+            "info": "<size=36>Un pot passionné par les explosions de cerises, qui les utilise pour soigner la plante sur sa case et renforcer brièvement les tireurs de type cerise.\n\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Immunisée contre les explosions de cerises.\n<color=black>•</color> Soigne la plante placée sur sa case de 20 PV lorsqu’elle est touchée par une explosion de cerise.\n<color=black>•</color> Pendant le soin, accorde également un bonus de vitesse d’attaque de 30 % pendant 1 seconde aux plantes tireuses de cerises.</color>",
+            "cost": "\n<size=36>Recette de Fusion: <color=#8B0000>Bombe Cerise > Pot de Fleur</color>"
+        },
+        {
+            "seedType": 1207,
+            "name": "Bombrelle",
+            "introduce": "<align=justified><size=36><color=black>La Bombrelle a adopté une nouvelle coupe de cheveux, ce qui la rend encore plus rebelle et irritable — une vraie délinquante qui traîne dans les rues. Mais ne vous fiez pas à son apparence : derrière ce look nerveux se cache un cœur tendre… elle aide même le coiffeur à ramasser les feuilles tombées.</color>",
+            "info": "<size=36>Lorsqu’elle repousse les ennemis, elle déclenche de petites explosions de cerise et utilise leur énergie pour protéger les plantes voisines.\n\n<color=black>Résistance : </color><color=#8B0000>600</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Hérite des propriétés de la Feuille-Parapluie.\n<color=black>•</color> Repousse les zombies approchants et libère une petite explosion de cerise infligeant 300 dégâts. \n<color=black>•</color> Immunisée contre les ballons de basket explosifs.\n<color=black>•</color> À chaque fois qu’une plante défensive fusionnée avec une cerise ou qu’une Pot-Cerise soigne grâce à une explosion de cerise dans un rayon de 3×3, elle gagne 1 niveau d’énergie (jusqu’à 100). \n<color=black>•</color> La Bombrelle consomme 2 niveaux d’énergie pour absorber tous les dégâts dans un rayon de 3×3.</color>",
+            "cost": "<size=36>\nRecette de Fusion: <color=#8B0000>Bombe Cerise + Feuille-Parapluie</color>"
         }
+
+
     ]
 }
