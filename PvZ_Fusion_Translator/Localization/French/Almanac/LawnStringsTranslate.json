@@ -1869,8 +1869,6 @@
             "info": "<size=36>Produit du soleil plus rapidement.\n\n<color=black>Production de soleil : </color><color=#8B0000>25/15s</color>",
             "cost": "<size=36>\nRecette de Fusion: <color=#8B0000>Tournesol + Souci</color>"
         },
-
-
         {
             "seedType": 1274,
             "name": "Champi-explosion",
@@ -1906,49 +1904,75 @@
             "info": "<size=36>Lorsqu’elle repousse les ennemis, elle déclenche de petites explosions de cerise et utilise leur énergie pour protéger les plantes voisines.\n\n<color=black>Résistance : </color><color=#8B0000>600</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Hérite des propriétés de la Feuille-Parapluie.\n<color=black>•</color> Repousse les zombies approchants et libère une petite explosion de cerise infligeant 300 dégâts. \n<color=black>•</color> Immunisée contre les ballons de basket explosifs.\n<color=black>•</color> À chaque fois qu’une plante défensive fusionnée avec une cerise ou qu’une Pot-Cerise soigne grâce à une explosion de cerise dans un rayon de 3×3, elle gagne 1 niveau d’énergie (jusqu’à 100). \n<color=black>•</color> La Bombrelle consomme 2 niveaux d’énergie pour absorber tous les dégâts dans un rayon de 3×3.</color>",
             "cost": "<size=36>\nRecette de Fusion: <color=#8B0000>Bombe Cerise + Feuille-Parapluie</color>"
         },
-
-        
         {
             "seedType": 1312,
             "name": "Champi-frappe",
             "introduce": "<align=justified><size=36><color=black>Le Champi-Frappe a entraîné une fournée de Champi-Noix, mais sans leur enseigner le combat. Quand on lui a demandé : \"Comment on se défend contre les zombies ?\" , il a répondu : \"Avec une carapace dure et une détermination d’acier !\" Puis il les a tout simplement lancés sur les zombies. \"C’est une technique que j’ai apprise au baseball\" , a-t-il annoncé fièrement.</color>",
-            "info": "<size=36>Attrape les Champi-Noix à proximité pour les projeter sur les zombies.\n\n<color=black>Toughness: </color><color=#8B0000>4000</color>\n<color=black>Special: </color><color=#8B0000> Attrape les Champi-Noix dans une zone de 3×3 et les projette vers l’avant comme des projectiles. Les dégâts infligés dépendent des PV du Champi-Noix utilisé. Si le projectile tue un zombie, il continue sa trajectoire, avec des dégâts réduits de la valeur déjà infligée.</color>",
-            "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Noix + Champi-fumée</color>"
+            "info": "<size=36>Attrape les Champi-Noix à proximité pour les projeter sur les zombies.\n\n<color=black>Résistance: </color><color=#8B0000>4000</color>\n<color=black>Special: </color><color=#8B0000> Attrape les Champi-Noix dans une zone de 3×3 et les projette vers l’avant comme des projectiles. Les dégâts infligés dépendent des PV du Champi-Noix utilisé. Si le projectile tue un zombie, il continue sa trajectoire, avec des dégâts réduits de la valeur déjà infligée.</color>",
+            "cost": "\n<size=36>Recette de Fusion: <color=#8B0000>Noix + Champi-fumée</color>"
         },
         {
             "seedType": 1310,
             "name": "Champi-robuste",
             "introduce": "<align=justified><size=36><color=black>Le Champi-robuste était autrefois aussi timide que les autres Champi-Peureux, jusqu’au jour où il vit à la télévision de lointains cousins dotés de la \"Puissance du Champignon\" — intrépides face aux zombies. Il décida alors de suivre leur exemple, se surnomma \"Champi Lee\" et s’entraîna jour et nuit pour affronter les zombies sans trembler.</color>",
-            "info": "<size=36>Défenseur élancé, mais qui riposte quand il est acculé.\n\n<color=black>Toughness: </color><color=#8B0000>4000</color>\n<color=black>Special: </color><color=#8B0000> Après s’être recroquevillé pendant 10 secondes, il se redresse brusquement et repousse les zombies proches, leur infligeant 20 points de dégâts. Pendant les 5 secondes suivantes, il reste debout sans se cacher à nouveau. Lorsqu’il est recroquevillé, il subit 50 % de dégâts en moins.</color>",
-            "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Noix + Champi-peureux</color>"
+            "info": "<size=36>Défenseur élancé, mais qui riposte quand il est acculé.\n\n<color=black>Résistance: </color><color=#8B0000>4000</color>\n<color=black>Special: </color><color=#8B0000> Après s’être recroquevillé pendant 10 secondes, il se redresse brusquement et repousse les zombies proches, leur infligeant 20 points de dégâts. Pendant les 5 secondes suivantes, il reste debout sans se cacher à nouveau. Lorsqu’il est recroquevillé, il subit 50 % de dégâts en moins.</color>",
+            "cost": "\n<size=36>Recette de Fusion: <color=#8B0000>Noix + Champi-peureux</color>"
         },
         {
             "seedType": 1189,
             "name": "Noix Gelée",
             "introduce": "<align=justified><size=36><color=black>Le Noix Gelée grogna en heurtant le sol une nouvelle fois. \"Est-ce que les concierges pensent parfois à mettre un panneau 'Attention, sol glissant' !?\" marmonna-t-il. Mais dans sa frustration, il ne remarqua pas un détail inquiétant… il rétrécissait.</color>",
-            "info": "<size=36>Les zombies qui le mordent sont ralentis.\n\n<color=black>Toughness: </color><color=#8B0000>4000</color>\n<color=black>Special: </color><color=#8B0000>Les zombies qui le mâchouillent sont ralentis et accumulent des points de givre. Les Noix Gelées peuvent être améliorées en Noix Géantes Gelées à l’aide d’un engrais.</color>",
-            "cost": "<size=36>\nFusion Formula: <color=#8B0000>Noix + Champi-glace</color>"
+            "info": "<size=36>Les zombies qui le mordent sont ralentis.\n\n<color=black>Résistance: </color><color=#8B0000>4000</color>\n<color=black>Special: </color><color=#8B0000>Les zombies qui le mâchouillent sont ralentis et accumulent des points de givre. Les Noix Gelées peuvent être améliorées en Noix Géantes Gelées à l’aide d’un engrais.</color>",
+            "cost": "<size=36>\nRecette de Fusion: <color=#8B0000>Noix + Champi-glace</color>"
         },
         {
             "seedType": 1236,
             "name": "Noix Maudite",
             "introduce": "<align=justified><size=36><color=black>La Noix Maudite est une immense fan de Batman. Elle parle rarement, préférant rôder dans l’ombre, et n’apparaît qu’à l’occasion de quelques conventions de comics. Un jour, elle a fait sursauter McCornics dans un couloir. \"Depuis quand la Noix Maudite est… aussi costaud ?\" marmonna le vieux maïs.</color>",
-            "info": "<size=36>Noix dotée d’un potentiel nucléaire. \n\n<color=black>Toughness: </color><color=#8B0000>4000</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Immunisée contre les explosions non physiques. \n<color=black>•</color> Protège des Zombies Champi-mort dans une zone de 3×3 d’explosion. \n<color=black>•</color> Se régénère de 100 PV lorsqu’un zombie affecté par le malus “Braise” meurt dans un rayon de 5×5.\n<color=black>•</color> Déclenche un effet de Champi-mort à sa mort.</color>",
-            "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Noix + Champi-mort</color>"
+            "info": "<size=36>Noix dotée d’un potentiel nucléaire. \n\n<color=black>Résistance: </color><color=#8B0000>4000</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Immunisée contre les explosions non physiques. \n<color=black>•</color> Protège des Zombies Champi-mort dans une zone de 3×3 d’explosion. \n<color=black>•</color> Se régénère de 100 PV lorsqu’un zombie affecté par le malus “Braise” meurt dans un rayon de 5×5.\n<color=black>•</color> Déclenche un effet de Champi-mort à sa mort.</color>",
+            "cost": "\n<size=36>Recette de Fusion: <color=#8B0000>Noix + Champi-mort</color>"
         },
         {
             "seedType": 1250,
             "name": "Noix Écraseuse",
             "introduce": "<align=justified><size=36><color=black>Arraché d’une aire de jeux pour enfants par sa tige et jeté sur la pelouse, la Noix Écraseuse fut rejeté pour avoir été pris pour une balle en caoutchouc déformée. Désormais furieux et cabossé, il rebondit dans tous les sens en hurlant : \"Je vais jouer autant que je veux ! AUTANT QUE JE VEUX !\"</color>",
-            "info": "<size=36>Noix bondissante, tout en colère et en impact.\n\n<color=black>Toughness: </color><color=#8B0000>4000</color>\n<color=black>Damage: </color><color=#8B0000>160/1.5s</color>\n<color=black>Special: </color><color=#8B0000>Bondit sur sa case lorsqu’un zombie s’approche, infligeant des dégâts de zone à chaque atterrissage. Ne bloque pas les zombies lorsqu’il est en l’air.</color>",
-            "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Noix + Écraseur</color>"
+            "info": "<size=36>Noix bondissante, tout en colère et en impact.\n\n<color=black>Résistance: </color><color=#8B0000>4000</color>\n<color=black>Dégâts: </color><color=#8B0000>160/1.5s</color>\n<color=black>Special: </color><color=#8B0000>Bondit sur sa case lorsqu’un zombie s’approche, infligeant des dégâts de zone à chaque atterrissage. Ne bloque pas les zombies lorsqu’il est en l’air.</color>",
+            "cost": "\n<size=36>Recette de Fusion: <color=#8B0000>Noix + Écraseur</color>"
         },
         {
             "seedType": 1295,
             "name": "Noix Arbre",
             "introduce": "<align=justified><size=36><color=black>\"Trois noix ordinaires réunies valent bien Zhuge Liang !\" Les Trois-Noix ont uni leurs forces, devenant des compagnons inséparables capables de libérer un potentiel inimaginable. Ces trois-là ont un vrai don pour la physique… et la dynamique des fluides, visiblement, c’est leur spécialité.</color>",
-            "info": "<size=36>Trois petites noix empilées les unes sur les autres.\n\n<color=black>Damage: </color><color=#8B0000>\n<color=black>•</color> (12 000–8 000 PV) 80, perce 2 fois ;\n<color=black>•</color> (8 000–4 000 PV) 60, perce 4 fois ;\n<color=black>•</color> (4 000–0 PV) 40, perce 6 fois</color>\n<color=black>Special: </color><color=#8B0000>Plante de grande taille. Possède 12 000 PV au total. Chaque Petite-Noix dispose de 4 000 PV. Perdre une Petite-Noix réduit définitivement les PV max de 4 000.</color>",
-            "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Noix + Triple Pisto-pois</color>"
+            "info": "<size=36>Trois petites noix empilées les unes sur les autres.\n\n<color=black>Dégâts: </color><color=#8B0000>\n<color=black>•</color> (12 000–8 000 PV) 80, perce 2 fois ;\n<color=black>•</color> (8 000–4 000 PV) 60, perce 4 fois ;\n<color=black>•</color> (4 000–0 PV) 40, perce 6 fois</color>\n<color=black>Special: </color><color=#8B0000>Plante de grande taille. Possède 12 000 PV au total. Chaque Petite-Noix dispose de 4 000 PV. Perdre une Petite-Noix réduit définitivement les PV max de 4 000.</color>",
+            "cost": "\n<size=36>Recette de Fusion: <color=#8B0000>Noix + Triple Pisto-pois</color>"
+        },
+        {
+            "seedType": 1313,
+            "name": "Noix Liane",
+            "introduce": "<align=justified><size=36><color=black>Tout le monde dit que la Noix Liane est très solitaire, si emmêlée dans ses propres problèmes qu’il est difficile de dénouer les fils menant à son cœur si dur. Mais qui pourrait nier son désir de tranquillité ? Personne… à part le Jonc, qui le prend parfois pour une pelote de ficelle avec laquelle jouer.\n\n</color>",
+            "info": "<size=36>Applique une valeur de Liane en représailles.\n\n<color=black>Résistance: </color><color=#8B0000>4000</color>\n<color=black>Special: </color><color=#8B0000> When bitten, inflicts 1 Tangle value on the attacker. Lorsqu’elle est mordue, inflige 1 point de Liane à l’assaillant. Lorsqu’elle est écrasée, perd 50 PV toutes les 0,02 secondes et inflige 1 point de Liane à chaque fois.</color>",
+            "cost": "\n<size=36>Recette de Fusion: <color=#8B0000>Noix > Algue</color>"
+        },
+        {
+            "seedType": 1235,
+            "name": "Noix Enflammée",
+            "introduce": "<align=justified><size=36><color=black>\"Toujours garder le sourire\" — c’est la règle numéro un de la Noix Enflammée, le serveur le plus patient du restaurant. Même quand la Noix Gelée, à moitié fondue, glisse partout en hurlant et qu’il n’y a pas de panneau 'Sol glissant', il continue de sourire. Et de grésiller.</color>",
+            "info": "<size=36>Noix épicée qui brûle les zombies qui la mordent.\n\n<color=black>Résistance: </color><color=#8B0000>4000</color>\n<color=black>Special: </color><color=#8B0000>Inflige 20 points de dégâts aux zombies qui la mordent et leur applique le malus “Enflammé”. Les Noix Enflammées peuvent être améliorées en Noix Géantes Enflammées à l’aide d’un engrais.</color>",
+            "cost": "\n<size=36>Recette de Fusion: <color=#8B0000>Noix + Jalapeno</color>"
+        },
+        {
+            "seedType": 1048,
+            "name": "Noix Épineuse",
+            "introduce": "<align=justified><size=36><color=black>La Noix Épineuse garde toujours un regard dur, les sourcils froncés. \"Je veux qu’ils sachent que je ne suis pas un en-cas\" insiste-t-elle. Les zombies, eux, ricanent — après tout, depuis quand une noix fait peur ? Puis ils croquent. Et là, ils apprennent. À la dure.</color>",
+            "info": "<size=36>La Noix Épineuse crève les pneus des Zombonis qui s’approchent !!\n\n<color=black>Résistance: </color><color=#8B0000>4000</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Renvoie 50 points de dégâts aux zombies qui la mordent.\n<color=black>•</color> Crève les pneus des véhicules ennemis au prix de 500 points de résistance. Ne protège pas contre les sous-marins ni contre les piétinements des Gargantuars.</color>",
+            "cost": "\n<size=36>Recette de Fusion: <color=#8B0000>Noix + Ortie</color>"
+        },
+        {
+            "seedType": 1282,
+            "name": "Noix Grillée",
+            "introduce": "<align=justified><size=36><color=black>\"Au menu d’aujourd’hui : des noix grillées.\" Même Noixbois ne peut s’empêcher de sourire à l’idée d’avoir créé une telle friandise. C’est l’en-cas parfait pour un pique-nique — à ceci près qu’aucune vraie Noix n’est utilisée. Les \"noix grillées\" sont en réalité des répliques en pain, si réalistes qu’elles mettent mal à l’aise les vraies Noix.</color>",
+            "info": "<size=36>Capable de produire des Noix Grillées.\n\n<color=black>Special: </color><color=#8B0000>Toutes les 50 pois enflammés, une Noix Grillée est générée devant elle.</color>",
+            "cost": "\n<size=36>Recette de Fusion: <color=#8B0000>Noix + Torche</color>"
         }
 
 
