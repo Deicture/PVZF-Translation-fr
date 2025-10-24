@@ -178,7 +178,7 @@
         {
             "seedType": 25,
             "name": "Champi-aimant",
-            "introduce": "<size=36><color=black>Tout le monde se demandait pourquoi Champi-aimant mettait toujours autant de temps à « digérer » le fer qu'il absorbait, même après qu'il avait déjà été retiré pour fusion. Frustré, il a lancé : \"Je ne suis pas paresseux ! Je viens de me faire assommer par un fer volant !\"</color></size>",
+            "introduce": "<size=36><color=black>Tout le monde se demandait pourquoi Champi-aimant mettait toujours autant de temps à \" digérer \" le fer qu'il absorbait, même après qu'il avait déjà été retiré pour fusion. Frustré, il a lancé : \"Je ne suis pas paresseux ! Je viens de me faire assommer par un fer volant !\"</color></size>",
             "info": "<size=36>Les Champi-aimants enlèvent les objets métalliques des zombies.\n\n<color=black>Spécial : </color><color=#8B0000>Attire les objets métalliques.</color>\nSi une plante magnétique se trouve à proximité (dans les 8 directions) d'une autre, elles se connectent via le Système Magnétique. Ce système peut avoir un nombre illimité de connexions et renforcer certaines plantes magnétiques en fonction du total. Consultez ses fusions pour voir les plantes concernées.</size>",
             "cost": "<size=36>Coût : <color=#8B0000>100</color>\nRecharge : <color=#8B0000>7.5 Secondes</color></size>"
         },
@@ -192,7 +192,7 @@
         {
             "seedType": 27,
             "name": "Pot de Fleur",
-            "introduce": "<size=36><color=black>Les plantes pensent toujours que Pot de Fleur n'est qu'un « pot », mais en réalité, Pot de Fleur est une « fleur » qui ressemble à un « pot ». Regardez, cette petite pousse est le bouton d'une fleur.</color>",
+            "introduce": "<size=36><color=black>Les plantes pensent toujours que Pot de Fleur n'est qu'un \" pot \", mais en réalité, Pot de Fleur est une \" fleur \" qui ressemble à un \" pot \". Regardez, cette petite pousse est le bouton d'une fleur.</color>",
             "info": "<size=36>Donne l'abilitée de planter dessus.\n\n<color=black>Spécial : </color><color=#8B0000>Donne l'abilitée de planter des plantes sur le toit.</color>",
             "cost": "<size=36>Coût : <color=#8B0000>25</color>\nRecharge : <color=#8B0000>7.5 Secondes</color>"
         },
@@ -227,7 +227,7 @@
         {
             "seedType": 32,
             "name": "Cata-melon",
-            "introduce": "<size=36><color=black>Pendant les pauses, Cata-melon adore diviser son bras de melon en deux, le grignotant pour se rafraîchir. \"Tu veux goûter ?\" » demande-t-il gaiement aux zombies, tandis que les plantes alentour, étouffantes de chaleur, ne peuvent que baver d'envie.</color>",
+            "introduce": "<size=36><color=black>Pendant les pauses, Cata-melon adore diviser son bras de melon en deux, le grignotant pour se rafraîchir. \"Tu veux goûter ?\" \" demande-t-il gaiement aux zombies, tandis que les plantes alentour, étouffantes de chaleur, ne peuvent que baver d'envie.</color>",
             "info": "<size=36>Lance des pastèques sur les zombies pour causer des dégâts.\n\n<color=black>Dégâts : </color><color=#8B0000>80/3 Secondes</color>",
             "cost": "<size=36>Coût : <color=#8B0000>300</color>\nRecharge : <color=#8B0000>7.5 Secondes</color>"
         },
@@ -269,7 +269,7 @@
         {
             "seedType": 252,
             "name": "Jonc-chan",
-            "introduce": "<size=36><color=black>\"Les chats ont généralement peur de l'eau, mais je suis une fille-chat magique, donc je n'ai pas peur.\" » dit-elle avec enthousiasme, et les autres chats la regardèrent avec admiration. En fait, elle adore l'eau, et elle a dit cela pour se démarquer.</color></size>",
+            "introduce": "<size=36><color=black>\"Les chats ont généralement peur de l'eau, mais je suis une fille-chat magique, donc je n'ai pas peur.\" \" dit-elle avec enthousiasme, et les autres chats la regardèrent avec admiration. En fait, elle adore l'eau, et elle a dit cela pour se démarquer.</color></size>",
             "info": "<size=36>Jonc-chan attaquera automatiquement tous les zombies qui apparaissent sur la carte.\n\n<color=black>Dégâts : </color><color=#8B0000>40*2/1.5 Secondes</color></size>",
             "cost": "<size=36>Coût : <color=#8B0000>125</color>\nRecharge : <color=#8B0000>50 Secondes</color></size>"
         },
@@ -290,7 +290,7 @@
         {
             "seedType": 255,
             "name": "Noix Géante",
-            "introduce": "<size=36><color=black>\"Je suis invincible sur le champ de bataille, et mes partenaires ne peuvent quitter ma silhouette majestueuse des yeux !\" » se vantait la noix géante. \"Un an après avoir été viré du Noix Tumbler Club, j'ai enfin trouvé un travail qui me correspond vraiment.\"</color></size>",
+            "introduce": "<size=36><color=black>\"Je suis invincible sur le champ de bataille, et mes partenaires ne peuvent quitter ma silhouette majestueuse des yeux !\" \" se vantait la noix géante. \"Un an après avoir été viré du Noix Tumbler Club, j'ai enfin trouvé un travail qui me correspond vraiment.\"</color></size>",
             "info": "<size=36>La Noix Géante roulera en avant et renversera tous les zombies qu'elle rencontrera.\n\n<color=black>Dégâts : </color><color=#8B0000>1800</color>\n<color=black>Spécial : </color><color=#8B0000>Roule sur sa ligne, éliminant tous les zombies sur son chemin.</color>\n<color=black>Recette de Fusion : </color><color=#8B0000>Noix + Noix</color></size>",
             "cost": ""
         },
@@ -451,7 +451,7 @@
         {
             "seedType": 921,
             "name": "Ailzilla",
-            "introduce": "<size=36><color=black>Vêtu de vêtements civils avec une dent dorée voyante, un mot de sa part fait fuir les autres. « Malheur à moi, j'en ai assez des projecteurs. Se démarquer ne me convient plus, je veux juste une vie simple et tranquille.'</color>",
+            "introduce": "<size=36><color=black>Vêtu de vêtements civils avec une dent dorée voyante, un mot de sa part fait fuir les autres. \" Malheur à moi, j'en ai assez des projecteurs. Se démarquer ne me convient plus, je veux juste une vie simple et tranquille.'</color>",
             "info": "<size=36>Cousin de la plante défensive ultime.\n\n<color=black>Robustesse : </color><color=#8B0000>8000</color>\n<color=black>Spécial : </color><color=#8B0000>Une variante de Cherrizilla qui ne guérit plus des explosions de cerises, hérite des propriétés d'Ail et tire des projectiles qui empoisonnent les zombies. Peut être commuté en Cherrizilla avec une Bombe Cerise et vice versa avec un Ail. Débloqué aux côtés de Cherrizilla.</color>\n<color=black>Recette de Fusion : </color><color=#8B0000>Cherrizilla + Ail</color>",
             "cost": ""
         },
@@ -465,7 +465,7 @@
         {
             "seedType": 923,
             "name": "Parapluie de Rubis",
-            "introduce": "<size=36><color=black>Beaucoup remettent en question la relation entre Parapluie d'Émeraude et Aegis Umbrella. « Nous sommes frères ! » » déclare Aegis avec confiance, en frappant sa verrière. \"Mon cher frère aîné traverse juste une période difficile émotionnellement.\"</color>",
+            "introduce": "<size=36><color=black>Beaucoup remettent en question la relation entre Parapluie d'Émeraude et Aegis Umbrella. \" Nous sommes frères ! \" \" déclare Aegis avec confiance, en frappant sa verrière. \"Mon cher frère aîné traverse juste une période difficile émotionnellement.\"</color>",
             "info": "<size=36>Reflète les projectiles des zombies.\n\n<color=black>Robustesse : </color><color=#8B0000>4000</color>\n<color=black>Spécial : </color><color=#8B0000>Une variante de la Parapluie d'Émeraude. Vous pouvez basculer entre les deux avec les Cata-melons et les Cata-chous. Aegis perd la capacité d'améliorer les projectiles lancés, mais bénéficie désormais d'une réduction des dégâts de 90 % et peut refléter les projectiles de zombies.</color>\n<color=black>Recette de Fusion : </color><color=#8B0000>Parapluie d'Émeraude + Cata-melon</color>",
             "cost": ""
         },
@@ -507,7 +507,7 @@
         {
             "seedType": 1004,
             "name": "Pois-noix",
-            "introduce": "<size=36><color=black>\"Non... ne me traite pas de moche, sinon... attends... je vais te vaporiser.\" Pea-nut a toujours eu du mal avec son apparence « unique ». Mais il croit fermement que ce qu’il y a à l’intérieur d’une plante compte plus que son apparence. En quête de conseils, il a humblement demandé conseil au senior Bowling Nut et a finalement maîtrisé la technique consistant à faire rouler des noix comme des boules de bowling.</color></size>",
+            "introduce": "<size=36><color=black>\"Non... ne me traite pas de moche, sinon... attends... je vais te vaporiser.\" Pea-nut a toujours eu du mal avec son apparence \" unique \". Mais il croit fermement que ce qu’il y a à l’intérieur d’une plante compte plus que son apparence. En quête de conseils, il a humblement demandé conseil au senior Bowling Nut et a finalement maîtrisé la technique consistant à faire rouler des noix comme des boules de bowling.</color></size>",
             "info": "<size=36>Pois-noix tire des mini-noix qui peuvent pénétrer les zombies.\n\n<color=black>Robustesse : </color><color=#8B0000>4000</color>\n<color=black>Dégâts : </color><color=#8B0000>20/1.5 Secondes (Piercing) </color>\n<color=black>Recette de Fusion : </color><color=#8B0000>Pisto-pois + Noix</color></size>",
             "cost": ""
         },
@@ -528,14 +528,14 @@
         {
             "seedType": 1007,
             "name": "Pois-mine",
-            "introduce": "<size=36><color=black>Pea Mine n'a peut-être pas d'yeux, mais il a sa propre façon de détecter les zombies. \"Je le sens...\" murmura-t-il, \"Les zombies se rapprochent... se rapprochent... se rapprochent...\" Le rythme cardiaque de Pea Mine s'accéléra, tout comme sa vitesse de tir. De plus en plus vite… jusqu'à ce que, avec un « bang », Pea Mine explose en un feu d'artifice au goût de pomme de terre.</color></size>",
+            "introduce": "<size=36><color=black>Pea Mine n'a peut-être pas d'yeux, mais il a sa propre façon de détecter les zombies. \"Je le sens...\" murmura-t-il, \"Les zombies se rapprochent... se rapprochent... se rapprochent...\" Le rythme cardiaque de Pea Mine s'accéléra, tout comme sa vitesse de tir. De plus en plus vite… jusqu'à ce que, avec un \" bang \", Pea Mine explose en un feu d'artifice au goût de pomme de terre.</color></size>",
             "info": "<size=36>Pois-mine peut attaquer avant d'être déterreée.\n\n<color=black>Dégâts : </color><color=#8B0000>20/1.5 Secondes</color>\n<color=black>Spécial : </color><color=#8B0000>Attaque plus rapidement à mesure que les zombies se rapprochent. Lors de l'explosion, libère 36 projectiles dans toutes les directions.</color>\n<color=black>Recette de Fusion : </color><color=#8B0000>Pisto-pois + Mine Patate</color></size>",
             "cost": ""
         },
         {
             "seedType": 1008,
             "name": "Double Pisto-Cerise",
-            "introduce": "<size=36><color=black>Cherrypeater vit selon la devise « les bonnes choses vont par paires ». Qu'il s'agisse de combattre des zombies ou de distribuer des cadeaux, il le fait à deux. \"Mais allez,\" taquina Double Pistopois, \"vos cerises ne sont même pas presque mûres.\"</color></size>",
+            "introduce": "<size=36><color=black>Cherrypeater vit selon la devise \" les bonnes choses vont par paires \". Qu'il s'agisse de combattre des zombies ou de distribuer des cadeaux, il le fait à deux. \"Mais allez,\" taquina Double Pistopois, \"vos cerises ne sont même pas presque mûres.\"</color></size>",
             "info": "<size=36>Double Pisto-Cerise peut tirer deux cerises à la fois.\n\n<color=black>Dégâts : </color><color=#8B0000>60*2/1.5 Secondes</color>\n<color=black>Recette de Fusion : </color><color=#8B0000>Double Pisto-pois + Bombe Cerise</color></size>",
             "cost": ""
         },
@@ -591,7 +591,7 @@
         {
             "seedType": 1016,
             "name": "Mordeur Cerise",
-            "introduce": "<size=36><color=black>Depuis son verre avec Bombe Cerise, Mordeur n'a cessé de « bourdonner ». Elle devenait une menace absolue à chaque repas. Le bruit de la mastication se transforma en pops explosifs alors que les assiettes et les bols volaient partout, laissant tout le monde peu disposé à dîner avec elle. Après un vote à main levée, Cherry Mordeur a fini par manger dans la cour… au moins, elle n'a plus besoin d'acheter de nouvelle vaisselle.</color></size>",
+            "introduce": "<size=36><color=black>Depuis son verre avec Bombe Cerise, Mordeur n'a cessé de \" bourdonner \". Elle devenait une menace absolue à chaque repas. Le bruit de la mastication se transforma en pops explosifs alors que les assiettes et les bols volaient partout, laissant tout le monde peu disposé à dîner avec elle. Après un vote à main levée, Cherry Mordeur a fini par manger dans la cour… au moins, elle n'a plus besoin d'acheter de nouvelle vaisselle.</color></size>",
             "info": "<size=36>Produit une explosion de cerises après avoir mangé un zombie.\n\n<color=black>Dégâts : </color><color=#8B0000> Insta + 1800 (Incendiaire)</color>\n<color=black>Spécial : </color><color=#8B0000>Crée une explosion de cerise dans une grille 3x3 en mordant.</color>\n<color=black>Recette de Fusion : </color><color=#8B0000>Bombe Cerise + Mordeur</color></size>",
             "cost": ""
         },
@@ -619,7 +619,7 @@
         {
             "seedType": 1020,
             "name": "Fusil-pois",
-            "introduce": "<size=36><color=black>\"J'incarne l'esprit de mes ancêtres ; je ne tomberai pas ici !\" » affirmait Buckshooter avec confiance à tous ceux qui croisaient son chemin. Lorsqu'on lui a fait remarquer que son casque ressemblait à celui volé au Zombie Buckethead, il a répliqué : \"Alors invoquons leur volonté et chevauchons à nouveau les vents et les vagues !\"</color></size>",
+            "introduce": "<size=36><color=black>\"J'incarne l'esprit de mes ancêtres ; je ne tomberai pas ici !\" \" affirmait Buckshooter avec confiance à tous ceux qui croisaient son chemin. Lorsqu'on lui a fait remarquer que son casque ressemblait à celui volé au Zombie Buckethead, il a répliqué : \"Alors invoquons leur volonté et chevauchons à nouveau les vents et les vagues !\"</color></size>",
             "info": "<size=36>Fusil-pois à la capacité de percer l'armure.\n\n<color=black>Robustesse : </color><color=#8B0000>2000</color>\n<color=black>Dégâts : </color><color=#8B0000>80/1.5 Secondes</color>\n<color=black>Spécial : </color><color=#8B0000>Repousse au contact. Inflige d'immenses dégâts aux Iron Zombies et brise les portes en fer.</color>\n<color=black>Recette de Fusion : </color><color=#8B0000>Pisto-pois + Bucket</color></size>",
             "cost": ""
         },
@@ -752,7 +752,7 @@
         {
             "seedType": 1039,
             "name": "Noix Glacée",
-            "introduce": "<size=36><color=black>Frost-nut leva haut ses pointes glacées, prêt à affronter les zombies. D’autres ont remarqué à quel point il semblait « froid » et « silencieux ». Pourtant, son expression restait inchangée, résolue dans sa défense contre les morts-vivants. La vérité était que son visage était simplement figé sur place.</color></size>",
+            "introduce": "<size=36><color=black>Frost-nut leva haut ses pointes glacées, prêt à affronter les zombies. D’autres ont remarqué à quel point il semblait \" froid \" et \" silencieux \". Pourtant, son expression restait inchangée, résolue dans sa défense contre les morts-vivants. La vérité était que son visage était simplement figé sur place.</color></size>",
             "info": "<size=36>Noix Glacée sont de solides plantes-barrières. Elles ralentissent les zombies qui les attaquent.\n\n<color=black>Robustesse : </color><color=#8B0000>8000</color>\n<color=#0077b6>Système Cryo : </color><color=#8B0000>Les zombies qui le mordent sont ralentis et accumulent 10 points Cryo.</color>\n<color=black>Spécial : </color><color=#8B0000>Lorsqu'il est affecté par le Champi-glace, soigne 1000 points d'Endurance.</color>\n<color=black>Recette de Fusion : </color><color=#8B0000>Champi-glace + Tall-nut</color></size>",
             "cost": ""
         },
@@ -822,7 +822,7 @@
         {
             "seedType": 1050,
             "name": "Mutil-algue",
-            "introduce": "<size=36><color=black>Mangle Kelp s'impose comme un véritable philosophe parmi les plantes. Il réfléchit souvent à des questions profondes telles que : « D'où vient l'herbe et où va-t-elle ? Cependant, son mépris de l'hygiène personnelle et ses cheveux négligés font fuir les autres plantes, préférant garder leurs distances.</color></size>",
+            "introduce": "<size=36><color=black>Mangle Kelp s'impose comme un véritable philosophe parmi les plantes. Il réfléchit souvent à des questions profondes telles que : \" D'où vient l'herbe et où va-t-elle ? Cependant, son mépris de l'hygiène personnelle et ses cheveux négligés font fuir les autres plantes, préférant garder leurs distances.</color></size>",
             "info": "<size=36>Mutil-algue peut tirer 3 zombies sous l'eau.\n\n<color=black>Dégâts : </color><color=#8B0000> Insta*3</color>\n<color=black>Recette de Fusion : </color><color=#8B0000>Écraseur + Algue</color></size>",
             "cost": ""
         },
@@ -948,14 +948,14 @@
         {
             "seedType": 1068,
             "name": "Jonc Glacé",
-            "introduce": "<size=36><color=black>\"Je ne suis pas qu'un chat... Je suis... Je suis un chat super bleu !\" » Déclara Frost Cattail. \"As-tu de l'herbe à chat froide...?\" Son amour pour l'herbe à chat transparaît et il a une fascination indéniable pour tout ce qui est cool.</color></size>",
+            "introduce": "<size=36><color=black>\"Je ne suis pas qu'un chat... Je suis... Je suis un chat super bleu !\" \" Déclara Frost Cattail. \"As-tu de l'herbe à chat froide...?\" Son amour pour l'herbe à chat transparaît et il a une fascination indéniable pour tout ce qui est cool.</color></size>",
             "info": "<size=36>Jonc Glacé peut attaquer n'importe quels zombies dans le jardin et les ralentir.\n<color=black>Dégâts : </color><color=#8B0000>20*2/1.5 Secondes (Ralentissements) </color>\n<color=#0077b6>Système Cryo : </color><color=#8B0000>Chaque coup sur un zombie ajoute 5 points Cryo. Concentre également ses attaques sur le zombie affecté.</color>\n<color=black>Recette de Fusion : </color><color=#8B0000>Champi-glace + Quenouilles</color></size>",
             "cost": ""
         },
         {
             "seedType": 1069,
             "name": "Jonc Enflammé",
-            "introduce": "<size=36><color=black>\"Quand j'étais jeune, je pensais que je serais une quenouilles normale\", a déclaré Flame Cattail, réchauffant sa queue avec fierté. \"Il s'avère que je suis un enfer flamboyant de génialité !\" Frost Cattail soupira depuis le coin et marmonna « Showoff ».</color></size>",
+            "introduce": "<size=36><color=black>\"Quand j'étais jeune, je pensais que je serais une quenouilles normale\", a déclaré Flame Cattail, réchauffant sa queue avec fierté. \"Il s'avère que je suis un enfer flamboyant de génialité !\" Frost Cattail soupira depuis le coin et marmonna \" Showoff \".</color></size>",
             "info": "<size=36>Jonc Enflammé peut attaquer n'importe quels zombies dans le jardin et infliger de gros dégats.\n\n<color=black>Dégâts : </color><color=#8B0000>40*2/1.5 Secondes</color>\n<color=#720026>Debuff enflammé : </color><color=#8B0000>Inflige trois fois plus de dégâts aux zombies enflammés.</color>\n<color=black>Recette de Fusion : </color><color=#8B0000>Jalapeño + Cattail</color></size>",
             "cost": ""
         },
@@ -976,7 +976,7 @@
         {
             "seedType": 1072,
             "name": "Champi-sombre Glacé",
-            "introduce": "<size=36><color=black>Rêvant d'une carrière de physicien, le Champi-sombre Glacé consacre ses journées à démêler les complexités du monde, en évitant tout contact avec d'autres plantes. \"Pourquoi ai-je plusieurs rangées de cornets de glace qui sortent de ma tête ?\" réfléchit-il, la dernière question occupant ses pensées. Il est étrangement catégorique à l'idée de les appeler « chaînes ».</color></size>",
+            "introduce": "<size=36><color=black>Rêvant d'une carrière de physicien, le Champi-sombre Glacé consacre ses journées à démêler les complexités du monde, en évitant tout contact avec d'autres plantes. \"Pourquoi ai-je plusieurs rangées de cornets de glace qui sortent de ma tête ?\" réfléchit-il, la dernière question occupant ses pensées. Il est étrangement catégorique à l'idée de les appeler \" chaînes \".</color></size>",
             "info": "<size=36>Libère des fumées froides autour de lui et gèle les zombies.\n\n<color=black>Dégâts : </color><color=#8B0000>20*4/1.9 Secondes (Piercing) </color>\n<color=#0077b6>Système Cryo : </color><color=#8B0000>Chaque attaque ajoute 5 points Cryo.</color>\n<color=black>Recette de Fusion : </color><color=#8B0000>Champi-glace + Champi-sombre</color></size>",
             "cost": ""
         },
@@ -990,7 +990,7 @@
         {
             "seedType": 1074,
             "name": "Glace Épineuse",
-            "introduce": "<size=36><color=black>Après son retour d'Alaska, Spikecicle n'a pas pu contenir son enthousiasme. Désireux de geler les zombies, il savourait l'idée de la « glace » éclatant sous leurs pieds. Il a mis un point d'honneur à ce que tout le monde utilise le terme « glace ». Sa peau portait encore le froid de son aventure dans l'Arctique et ses yeux brillaient de l'éclat de la neige qui ne fond pas.</color></size>",
+            "introduce": "<size=36><color=black>Après son retour d'Alaska, Spikecicle n'a pas pu contenir son enthousiasme. Désireux de geler les zombies, il savourait l'idée de la \" glace \" éclatant sous leurs pieds. Il a mis un point d'honneur à ce que tout le monde utilise le terme \" glace \". Sa peau portait encore le froid de son aventure dans l'Arctique et ses yeux brillaient de l'éclat de la neige qui ne fond pas.</color></size>",
             "info": "<size=36>Peut percer les pneus et geler les zombies.\n\n<color=black>Robustesse : </color><color=#8B0000>450</color>\n<color=black>Dégâts : </color><color=#8B0000>20*2/1 Secondes (Ralentissements) </color>\n<color=#0077b6>Système Cryo : </color><color=#8B0000>Ajoute 5 points Cryo par attaque.</color>\n<color=black>Spécial : </color><color=#8B0000>Peut crever des pneus et tuer instantanément des véhicules.</color>\n<color=black>Recette de Fusion : </color><color=#8B0000>Champi-glace + Spikerock</color></size>",
             "cost": ""
         },
@@ -1018,7 +1018,7 @@
         {
             "seedType": 1078,
             "name": "Champi-lanterne Marine",
-            "introduce": "<size=36><color=black>\"J'ai été un système d'éclairage lors d'une fête de pirates au bord de la piscine, j'ai travaillé pour une entreprise de récupération en eau profonde d'Amazon pendant trois mois et j'ai même servi d'appât pour la pêche de nuit pendant que je dormais !\" » partage Sea Lamp-Shroom, un mélange de colère et de fierté évident dans sa voix. \"Maintenant, je cherche un emploi stable. Oncle Dave a mentionné que la piscine du jardin avait besoin d'éclairage, mais il a oublié de mentionner qu'elle était infestée de zombies !\"</color></size>",
+            "introduce": "<size=36><color=black>\"J'ai été un système d'éclairage lors d'une fête de pirates au bord de la piscine, j'ai travaillé pour une entreprise de récupération en eau profonde d'Amazon pendant trois mois et j'ai même servi d'appât pour la pêche de nuit pendant que je dormais !\" \" partage Sea Lamp-Shroom, un mélange de colère et de fierté évident dans sa voix. \"Maintenant, je cherche un emploi stable. Oncle Dave a mentionné que la piscine du jardin avait besoin d'éclairage, mais il a oublié de mentionner qu'elle était infestée de zombies !\"</color></size>",
             "info": "<size=36>Disperse le brouillard et émet de la lumière, grandit en taille après un moment.\n\n<color=black>Temps de croissance : </color><color=#8B0000>60 secondes</color>\n<color=#99582a>Système Lumos : </color><color=#8B0000>Donne 1 niveau Lumos dans une grille 3x3, 5x5 après croissance.</color>\n<color=black>Recette de Fusion : </color><color=#8B0000>Champi-mer + Planterne</color></size>",
             "cost": ""
         },
@@ -1074,7 +1074,7 @@
         {
             "seedType": 1086,
             "name": "Champi-troufle Marin",
-            "introduce": "<size=36><color=black>Le champignon marin a des aspirations aussi grandes que celles d'un dragon. Maîtrisant l'art ancien du « Feng Shui » venu d'Orient, il connaît bien les positions chanceuses et malchanceuses. Comprenant que le vent et l'eau se complètent, il espère garder le malheur à distance, qu'il s'envole dans le ciel ou qu'il glisse sur l'eau.</color></size>",
+            "introduce": "<size=36><color=black>Le champignon marin a des aspirations aussi grandes que celles d'un dragon. Maîtrisant l'art ancien du \" Feng Shui \" venu d'Orient, il connaît bien les positions chanceuses et malchanceuses. Comprenant que le vent et l'eau se complètent, il espère garder le malheur à distance, qu'il s'envole dans le ciel ou qu'il glisse sur l'eau.</color></size>",
             "info": "<size=36>Disperse le brouillard et repousse les zombies dans l'eau.\n\n<color=black>Spécial : </color><color=#8B0000>Dissipe le brouillard et repousse les zombies aquatiques.</color>\n<color=black>Recette de Fusion : </color><color=#8B0000>Champi-mer + Troufle</color></size>",
             "cost": ""
         },
@@ -1186,7 +1186,7 @@
         {
             "seedType": 1102,
             "name": "Troufle Magnétique",
-            "introduce": "<size=36><color=black>Les plantes appellent souvent MagTroufle « Magneto ». Il lance avec confiance son sort préféré, « Désarmement ! » aux zombies, même s'il n'a aucune idée de comment fonctionne la conversion de l'énergie éolienne en énergie magnétique dans les coulisses.</color></size>",
+            "introduce": "<size=36><color=black>Les plantes appellent souvent MagTroufle \" Magneto \". Il lance avec confiance son sort préféré, \" Désarmement ! \" aux zombies, même s'il n'a aucune idée de comment fonctionne la conversion de l'énergie éolienne en énergie magnétique dans les coulisses.</color></size>",
             "info": "<size=36>Aspire tout les objets en métal présent.\n\n<color=black>Spécial : </color><color=#8B0000>Attirez jusqu'à 10 objets en fer.</color>\n<color=black>Recette de Fusion : </color><color=#8B0000>Troufle + Champi-aimant</color></size>",
             "cost": ""
         },
@@ -1214,7 +1214,7 @@
         {
             "seedType": 1106,
             "name": "Sulfateuse à Pois Geleurs",
-            "introduce": "<size=36><color=black>\"Ses mains sont froides, son visage est froid, son cœur est froid, et même son sang est froid… Est-il gelé ?\" » quelqu’un s’est demandé à voix haute. Gatling Snow frissonna, rassurant les plantes concernées : \"Je ne suis pas gelé ! Le canon de ma mitrailleuse est encore brûlant !\"</color></size>",
+            "introduce": "<size=36><color=black>\"Ses mains sont froides, son visage est froid, son cœur est froid, et même son sang est froid… Est-il gelé ?\" \" quelqu’un s’est demandé à voix haute. Gatling Snow frissonna, rassurant les plantes concernées : \"Je ne suis pas gelé ! Le canon de ma mitrailleuse est encore brûlant !\"</color></size>",
             "info": "<size=36>Sulfateuse à pois geleur tire 4 pois gelés à la suite.\n\n<color=black>Dégâts : </color><color=#8B0000>20*4/1.5 Secondes</color>\n<color=black>Recette de Fusion : </color><color=#8B0000>Gatling Pea + Champi-glace</color></size>",
             "cost": ""
         },
@@ -1228,7 +1228,7 @@
         {
             "seedType": 1108,
             "name": "Double-cerise",
-            "introduce": "<size=36><color=black>Cherryshooter a rampé hors de la tranchée, déconcerté. \"Qui a lancé cette bombe ?\" » a-t-il demandé. \"Désolé, mon frère\", répondit timidement Split Cherry, \"Je t'ai vu pointer ton arme sur nous et j'ai pensé que tu étais un zombie.\"</color></size>",
+            "introduce": "<size=36><color=black>Cherryshooter a rampé hors de la tranchée, déconcerté. \"Qui a lancé cette bombe ?\" \" a-t-il demandé. \"Désolé, mon frère\", répondit timidement Split Cherry, \"Je t'ai vu pointer ton arme sur nous et j'ai pensé que tu étais un zombie.\"</color></size>",
             "info": "<size=36>Pneu double cerise des cerises en avant et en arrière.\n\n<color=black>Dégâts : </color><color=#8B0000>60*3/1.5 Secondes</color>\n<color=black>Recette de Fusion : </color><color=#8B0000>Pois Cassés + Bombe Cerise</color></size>",
             "cost": ""
         },
@@ -1242,7 +1242,7 @@
         {
             "seedType": 1110,
             "name": "Citrouille Porte-drones",
-            "introduce": "<size=36><color=black>Citrouille Porte-drones gardait toujours trois livres sur son étagère, leurs titres cachés aux regards curieux des autres plantes. Un jour, la curiosité d'un Thornball l'a conduit dans l'étude, où il a découvert les titres : « Guide de culture des plantes succulentes », « Soins post-partum pour les citrouilles » et « Tutoriel de vol rapide des cactus en 30 secondes ». Le Thornball a ri de la collection inattendue.</color></size>",
+            "introduce": "<size=36><color=black>Citrouille Porte-drones gardait toujours trois livres sur son étagère, leurs titres cachés aux regards curieux des autres plantes. Un jour, la curiosité d'un Thornball l'a conduit dans l'étude, où il a découvert les titres : \" Guide de culture des plantes succulentes \", \" Soins post-partum pour les citrouilles \" et \" Tutoriel de vol rapide des cactus en 30 secondes \". Le Thornball a ri de la collection inattendue.</color></size>",
             "info": "<size=36>Génère une Thornball qui se déplace sur le terrain pour attaquer les zombies volants.\n\n<color=black>Robustesse : </color><color=#8B0000>4000</color>\n<color=black>Spécial : </color><color=#8B0000>A toujours un ailier Thornball avec lui lorsqu'il apparaît. Génère régulièrement une Thornball au-dessus d'une grille 3x3.</color>\n<color=black>Recette de Fusion : </color><color=#8B0000>Citrouille + Cactus + Troufle</color></size>",
             "cost": ""
         },
@@ -1361,7 +1361,7 @@
         {
             "seedType": 1127,
             "name": "Parapluie d'Ail",
-            "introduce": "<size=36><color=black>\"Viens, fais un câlin à Umbrella Clove. Concentre-toi sur l'ouverture de la porte ; laisse Umbrella Clove s'occuper du reste ! Le camping-car n'a pas d'importance ; c'est le cerveau à l'intérieur qui compte !\" » dit Umbrella Clove. \"Et encore une chose : combattez les zombies avec les zombies ! Et versez du thé pour Umbrella Clove pendant que vous y êtes ! Zombies, zombies, partez !\"</color>",
+            "introduce": "<size=36><color=black>\"Viens, fais un câlin à Umbrella Clove. Concentre-toi sur l'ouverture de la porte ; laisse Umbrella Clove s'occuper du reste ! Le camping-car n'a pas d'importance ; c'est le cerveau à l'intérieur qui compte !\" \" dit Umbrella Clove. \"Et encore une chose : combattez les zombies avec les zombies ! Et versez du thé pour Umbrella Clove pendant que vous y êtes ! Zombies, zombies, partez !\"</color>",
             "info": "<size=36>Repousse les zombies et les force à changer de voie.\n\n<color=#3D1400>Robustesse : </color><color=red>1000</color>\n<color=black>Spécial : </color><color=#8B0000>Repousse les zombies à proximité, les forçant à changer de voie ; chaque recul réduit sa résistance. Voir Coque de parapluie.</color>\n<color=black>Recette de Fusion : </color><color=#8B0000>Ail + Feuille-Parapluie</color>",
             "cost": "<size=36>"
         },
@@ -1396,7 +1396,7 @@
         {
             "seedType": 1132,
             "name": "Canon à Melon",
-            "introduce": "<size=36><color=black>Melon Cannon est un fervent défenseur de la doctrine de la « puissance de feu écrasante » : « Si un seul coup ne suffit pas, essayez-en deux, trois ou même quatre ! » Cette approche en a fait une puissance sur le champ de bataille et un succès lors des fêtes d'été.</color>",
+            "introduce": "<size=36><color=black>Melon Cannon est un fervent défenseur de la doctrine de la \" puissance de feu écrasante \" : \" Si un seul coup ne suffit pas, essayez-en deux, trois ou même quatre ! \" Cette approche en a fait une puissance sur le champ de bataille et un succès lors des fêtes d'été.</color>",
             "info": "<size=36>Utilisez manuellement pour lancer un barrage de melons depuis le haut.\n\n<color=black>Dégâts : </color><color=#8B0000>200 / Melon. Jusqu'à 40 melons dans une zone 3x3 sans chute. Frappe aléatoirement dans une grille 5x3.</color>\n<color=black>Durée d'armement : </color><color=#8B0000>36 secondes</color>\n<color=black>Recette de Fusion : </color><color=#8B0000>Cob Cannon + Cata-melon</color>",
             "cost": "<size=36>"
         },
@@ -1417,7 +1417,7 @@
         {
             "seedType": 1135,
             "name": "Chou Doré",
-            "introduce": "<size=36><color=black>Le chou doré n'est pas seulement une question d'apparence éblouissante : il a un cœur d'or pur. Il adore se battre aux côtés des plantes contre les zombies et rêve d'être un jour honoré comme le « chou d'or héroïque ».</color>",
+            "introduce": "<size=36><color=black>Le chou doré n'est pas seulement une question d'apparence éblouissante : il a un cœur d'or pur. Il adore se battre aux côtés des plantes contre les zombies et rêve d'être un jour honoré comme le \" chou d'or héroïque \".</color>",
             "info": "<size=36>Attaque les zombies en lançant des choux dorés. Son ultime attaque déchaîne des choux sur tous les zombies !\n\n<color=black>Dégâts : </color><color=#8B0000>120/3 Secondes</color>\n<color=black>Ultime : </color><color=#8B0000>Coûte 1 000 pièces ; lance un chou sur chaque zombie, tuant instantanément ceux dont la santé est inférieure à 300.</color>\n<color=black>Coût de mise à niveau : </color><color=#8B0000>1 000 pièces</color>",
             "cost": "<size=36>"
         },
@@ -1445,14 +1445,14 @@
         {
             "seedType": 1139,
             "name": "Grain Doré",
-            "introduce": "<size=36><color=black>Golden Kernel réfléchit à des mots comme « phrases dorées » et « pierres précieuses ». Mais peut-être que le véritable trésor réside dans les missiles importés en beurre et en or... ou \"Just Gold\".</color>",
+            "introduce": "<size=36><color=black>Golden Kernel réfléchit à des mots comme \" phrases dorées \" et \" pierres précieuses \". Mais peut-être que le véritable trésor réside dans les missiles importés en beurre et en or... ou \"Just Gold\".</color>",
             "info": "<size=36>Lance des grains dorés et du beurre sur les zombies, avec une chance de générer des pièces. Son ultime tire des popcorns dorés sur les zombies.\n\n<color=black>Dégâts : </color><color=#8B0000>60/3 Secondes</color>\n<color=black>Spécial : </color><color=#8B0000>25 % de chances de lancer un sac d'argent, infligeant 80 dégâts, étourdissant les zombies pendant 4 secondes et laissant tomber 100 pièces.</color>\n<color=black><color=black>Ultime : </color><color=#8B0000>Coûte 3 500 pièces ; lance quatre bombes de maïs dorées, chacune infligeant 450 dégâts dans une zone 3x3 sans réduction des dégâts.</color>\n<color=black>Coût de mise à niveau : </color><color=#8B0000>2 000 pièces</color>",
             "cost": "<size=36>"
         },
         {
             "seedType": 1140,
             "name": "Double Souci",
-            "introduce": "<size=36><color=black>\"Il est temps de fabriquer des pièces d'or !\" » déclare l'une des sœurs Twin Souci. Mais l'autre sœur insiste : \"C'est le moment idéal pour une pièce d'argent !\" Comme ils ne peuvent jamais se mettre d’accord, ils produisent chacun leur propre part de manière indépendante, ce qui pourrait en fait être pour le mieux. \"Double opinion, double efficacité, n'est-ce pas ?\"</color>",
+            "introduce": "<size=36><color=black>\"Il est temps de fabriquer des pièces d'or !\" \" déclare l'une des sœurs Twin Souci. Mais l'autre sœur insiste : \"C'est le moment idéal pour une pièce d'argent !\" Comme ils ne peuvent jamais se mettre d’accord, ils produisent chacun leur propre part de manière indépendante, ce qui pourrait en fait être pour le mieux. \"Double opinion, double efficacité, n'est-ce pas ?\"</color>",
             "info": "<size=36>Produit le double de pièces !\n\n<color=black>Sortie de pièces : </color><color=#8B0000>Génère des pièces deux fois toutes les 20 secondes, sinon identique à Souci.</color>\n<color=black>Recette de Fusion : </color><color=#8B0000>Souci + Souci</color>",
             "cost": "<size=36>"
         },
@@ -1494,7 +1494,7 @@
         {
             "seedType": 1146,
             "name": "Ail Doré",
-            "introduce": "<size=36><color=black>Sous son extérieur éblouissant se cache un parfum insupportable d'Ail. Golden Ail réfléchit : « La vraie valeur n'est que dans l'apparence, pas dans les détails. » Mais tout le monde sait que cet Ail \"doré\" n'est qu'un Ail ordinaire avec un pelage brillant.</color>",
+            "introduce": "<size=36><color=black>Sous son extérieur éblouissant se cache un parfum insupportable d'Ail. Golden Ail réfléchit : \" La vraie valeur n'est que dans l'apparence, pas dans les détails. \" Mais tout le monde sait que cet Ail \"doré\" n'est qu'un Ail ordinaire avec un pelage brillant.</color>",
             "info": "<size=36>Un Ail plus puissant et parfumé à l'or qui peut forcer tous les zombies devant lui à changer de voie avec son mouvement ultime.\n\n<color=black>Robustesse : </color><color=#8B0000>900</color>\n<color=black>Ultime : </color><color=#8B0000>Coûte 1 000 pièces ; force tous les zombies de sa voie à changer de voie.</color>\n<color=black>Coût de mise à niveau : </color><color=#8B0000>1 000 pièces</color>",
             "cost": "<size=36>"
         },
@@ -1515,7 +1515,7 @@
         {
             "seedType": 1149,
             "name": "Melon Enflammé",
-            "introduce": "<size=36><color=black>Les plantes ont toujours l'impression que les pastèques à peau rouge véhiculent l'ambiance festive du Nouvel An, crépitant et éclatant d'excitation. Mais la pastèque explique : « Je n'ai pas mis de pétards dans le melon ! C'est juste que les aliments scellés explosent lorsqu'ils sont chauffés – et vous ne pouvez pas vous précipiter pour manger une pastèque chaude !'</color>",
+            "introduce": "<size=36><color=black>Les plantes ont toujours l'impression que les pastèques à peau rouge véhiculent l'ambiance festive du Nouvel An, crépitant et éclatant d'excitation. Mais la pastèque explique : \" Je n'ai pas mis de pétards dans le melon ! C'est juste que les aliments scellés explosent lorsqu'ils sont chauffés – et vous ne pouvez pas vous précipiter pour manger une pastèque chaude !'</color>",
             "info": "<size=36>Lobs de melons incroyablement chauds !\n\n<color=black>Dégâts : </color><color=#8B0000>160/3 Secondes</color>\n<color=black>Spécial : </color><color=#8B0000>Inflige le débuff Enflammé.</color>\n<color=black>Recette de Fusion : </color><color=#8B0000>Cata-melon + Jalapeño</color>",
             "cost": ""
         },
@@ -1529,7 +1529,7 @@
         {
             "seedType": 1151,
             "name": "Méga Mecha-noix",
-            "introduce": "<size=36><color=black>Méga Mecha-noix a toujours été passionné par la protection de l'environnement. « J'ai une relation amour-haine avec les zombies : ils polluent l'environnement, mais ils m'apportent aussi de la richesse. Posséder une propriété et une caravane n'est-il pas la marque du succès ? La pelouse est propre grâce à moi !'</color>",
+            "introduce": "<size=36><color=black>Méga Mecha-noix a toujours été passionné par la protection de l'environnement. \" J'ai une relation amour-haine avec les zombies : ils polluent l'environnement, mais ils m'apportent aussi de la richesse. Posséder une propriété et une caravane n'est-il pas la marque du succès ? La pelouse est propre grâce à moi !'</color>",
             "info": "<size=36>Il pourrait juste être une autre balle de poisson. Qui sais ?\n\n<color=black>Robustesse : </color><color=#8B0000>8000</color>\n<color=black>Spécial : </color><color=#8B0000>Lorsque les gouttes de métal zombie disparaissent, restaure 8000 PV à tous les Méga Mecha-noix sur le terrain. Utiliser un Noix dessus restaure instantanément 8 000 HP et invoque un Sharkmarine. La guérison peut dépasser les HP maximum. A la même propriété anti-écrasement que Cherrizilla ; les dégâts reçus sont plafonnés à 8 000 par coup. Redirige les dégâts vers lui-même dans une zone 3x3.</color>\n<color=black>Recette de Fusion : </color><color=#8B0000>Noix + Giga Mecha Fragments</color>",
             "cost": ""
         },
@@ -1543,14 +1543,14 @@
         {
             "seedType": 1153,
             "name": "Champi-double-pois",
-            "introduce": "<size=36><color=black>La tête avant déclare : « À mon tour d'utiliser le sourcil ! La tête arrière répond : « Je suppose que nous devrons le diviser. » Nées à seulement deux minutes d'intervalle, leur éternelle bataille pour le sourcil ne montre aucun signe d'arrêt.</color>",
+            "introduce": "<size=36><color=black>La tête avant déclare : \" À mon tour d'utiliser le sourcil ! La tête arrière répond : \" Je suppose que nous devrons le diviser. \" Nées à seulement deux minutes d'intervalle, leur éternelle bataille pour le sourcil ne montre aucun signe d'arrêt.</color>",
             "info": "<size=36>Tire les pois vers l'avant et vers l'arrière.\n\n<color=black>Dégâts : </color><color=#8B0000>20x3/1.5 Secondes</color>\n<color=black>Spécial : </color><color=#8B0000>Les pois en arrière rebondissent si aucun zombie n'est touché.</color>\n<color=black>Recette de Fusion : </color><color=#8B0000>Champi-gnon + Pisto-pois * 3</color>",
             "cost": ""
         },
         {
             "seedType": 1154,
             "name": "Aimant Solaire",
-            "introduce": "<size=36><color=black>Avez-vous entendu ? Aimant Solaire rayonne de richesse ces derniers temps ! « Je ne produis pas de fer ; Je fais juste la livraison», dit-il fièrement. « C'est le fruit d'années de travail acharné. » On dit qu'il a même ouvert une entreprise au-delà de la pelouse !' </couleur>",
+            "introduce": "<size=36><color=black>Avez-vous entendu ? Aimant Solaire rayonne de richesse ces derniers temps ! \" Je ne produis pas de fer ; Je fais juste la livraison\", dit-il fièrement. \" C'est le fruit d'années de travail acharné. \" On dit qu'il a même ouvert une entreprise au-delà de la pelouse !' </couleur>",
             "info": "<size=36>Produit des objets métalliques et transforme les objets métalliques en soleil.\n\n<color=black>Production de Soleil : </color><color=#8B0000>25/25 Secondes</color>\n<color=black>Spécial : </color><color=#8B0000>Produit un objet métallique aléatoire toutes les 30 secondes. Dépensez un objet métallique dessus et cela produira 25 soleil.</color>\n<color=black>Recette de Fusion : </color><color=#8B0000>Tournesol + Champi-aimant</color>",
             "cost": ""
         },
@@ -1655,15 +1655,15 @@
         {
             "seedType": 929,
             "name": "<size=36>Champi Sulfat-Ensoleillé ",
-            "introduce": "<color=#3D1400>\"La production fait aussi partie du combat !\" dit Champi Sulfat-Ensoleillé en essuyant sa sueur. Son peloton a été réorganisé en « Sunshine Bay Construction Corps », mais leur esprit combatif reste intact.</color>",
+            "introduce": "<color=#3D1400>\"La production fait aussi partie du combat !\" dit Champi Sulfat-Ensoleillé en essuyant sa sueur. Son peloton a été réorganisé en \" Sunshine Bay Construction Corps \", mais leur esprit combatif reste intact.</color>",
             "info": "<size=36>Génère une grande quantité de soleil pour vous.\n\n<color=#3D1400>Dégâts : </color><color=red>20x4x3/1,5 secondes</color>\n<color=#3D1400>Spécial : </color><color=red>Sous-espèce de Champi-Sulfat Glacé. Vous pouvez alterner entre les deux avec Champi-glace ou Tournesol. Les tirs ne ralentissent plus mais génèrent 5 soleils en frappant le 1er et le 2ème zombies. Chaque perçage suivant inflige le double des dégâts mais nécessite 5 soleils par coup. En synergie avec l'effet Odyssée doublant la valeur solaire et les soleils tombés valent 15 chacun lorsque l'effet est actif.</color>",
             "cost": "<size=36>\nRecette de Fusion : <color=#8B0000>Champi-Sulfat Glacé + Tournesol"
         },
         {
             "seedType": 930,
             "name": "<size=36>Champi Sulfat-furieux",
-            "introduce": "<color=#3D1400>Comparée à l'attitude calme de Sulfateuse Mortelle, Champi Sulfat-furieux a un caractère beaucoup plus court, surtout quand quelqu'un l'appelle \"Oeuf Gris\". Elle crie souvent « Quietus ! » et charge dans la mêlée.</color>",
-            "info": "<size=36>Tire continuellement des attaques Champi-mort sur les zombies.\n\n<color=#3D1400>Dégâts : </color><color=red>300, l'intervalle d'attaque est réduit de 0,1 seconde par attaque, jusqu'à un minimum de 0,5 seconde.</color>\n<color=#3D1400>Spécial : </color><color=red>Sous-espèce de Sulfateuse Mortelle. Vous pouvez alterner entre les deux avec Pisto-Pois ou Champi-peureux. Tire une grosse balle funeste toutes les 16 attaques, infligeant 1 800 dégâts. Lorsque l'effet « Balles de malheur à chaque tour » est actif, tire une grosse balle de malheur toutes les 4 attaques et explose lorsque les zombies sont proches, quelle que soit la vitesse d'attaque. </couleur>",
+            "introduce": "<color=#3D1400>Comparée à l'attitude calme de Sulfateuse Mortelle, Champi Sulfat-furieux a un caractère beaucoup plus court, surtout quand quelqu'un l'appelle \"Oeuf Gris\". Elle crie souvent \" Quietus ! \" et charge dans la mêlée.</color>",
+            "info": "<size=36>Tire continuellement des attaques Champi-mort sur les zombies.\n\n<color=#3D1400>Dégâts : </color><color=red>300, l'intervalle d'attaque est réduit de 0,1 seconde par attaque, jusqu'à un minimum de 0,5 seconde.</color>\n<color=#3D1400>Spécial : </color><color=red>Sous-espèce de Sulfateuse Mortelle. Vous pouvez alterner entre les deux avec Pisto-Pois ou Champi-peureux. Tire une grosse balle funeste toutes les 16 attaques, infligeant 1 800 dégâts. Lorsque l'effet \" Balles de malheur à chaque tour \" est actif, tire une grosse balle de malheur toutes les 4 attaques et explose lorsque les zombies sont proches, quelle que soit la vitesse d'attaque. </couleur>",
             "cost": "<size=36>\nRecette de Fusion : <color=#8B0000>Sulfateuse Mortelle + Champi-peureux"
         },
         {
@@ -1697,7 +1697,7 @@
         {
             "seedType": 1165,
             "name": "Commando Geleur",
-            "introduce": "<size=36><color=#3D1400>En tant que commandant général de la famille Pea, le Commando Geleur possède une aura qui fait frémir les plantes et les zombies même à des kilomètres de distance. Mais en ce qui concerne sa fière capacité à geler, Super Ice Machine Gunner reste toujours silencieux, jusqu'au jour où un petit pois ouvre accidentellement son journal : « Si j'avais su, je n'aurais pas parié contre le tireur d'élite. Je suis mort de froid dans les champs de glace, mais je me suis aussi transformé en cette façon. Ce soir, je vais faire manger à ce type trois gros bols de chili—\"</color>",
+            "introduce": "<size=36><color=#3D1400>En tant que commandant général de la famille Pea, le Commando Geleur possède une aura qui fait frémir les plantes et les zombies même à des kilomètres de distance. Mais en ce qui concerne sa fière capacité à geler, Super Ice Machine Gunner reste toujours silencieux, jusqu'au jour où un petit pois ouvre accidentellement son journal : \" Si j'avais su, je n'aurais pas parié contre le tireur d'élite. Je suis mort de froid dans les champs de glace, mais je me suis aussi transformé en cette façon. Ce soir, je vais faire manger à ce type trois gros bols de chili—\"</color>",
             "info": "<size=36>Tire des pois mange-tout sur des zombies, avec une petite chance de tirer un barrage massif !\n\n<color=#3D1400>Dégâts : </color><color=red>20×6/1,5 secondes</color>\n<color=#3D1400></color><color=red>Ultime : 3×20/0,02 secondes</color>\n<color=#3D1400>Spécial : </color><color=red>3 % de chances de tirer un barrage de pois mange-tout à chaque attaque.</color>\n<color=#3D1400>Recette de Fusion : </color><color=red>Commando Pois + Champi-glace</color>",
             "cost": ""
         },
@@ -1739,14 +1739,14 @@
         {
             "seedType": 1171,
             "name": "Champi-patate",
-            "introduce": "<size=36><color=#3D1400>Pourquoi Champi-Patate explose-t-il après quelques attaques ? Son explication est assez touchante : \"Chaque attaque que je fais me brûle la vie !\" Mais la vérité est que c’est juste un magicien qui ne veut pas faire beaucoup de travail. Après quelques attaques, il décide d'utiliser un feu d'artifice de pomme de terre pour effectuer une grande transformation en « champignon ».</color>",
+            "introduce": "<size=36><color=#3D1400>Pourquoi Champi-Patate explose-t-il après quelques attaques ? Son explication est assez touchante : \"Chaque attaque que je fais me brûle la vie !\" Mais la vérité est que c’est juste un magicien qui ne veut pas faire beaucoup de travail. Après quelques attaques, il décide d'utiliser un feu d'artifice de pomme de terre pour effectuer une grande transformation en \" champignon \".</color>",
             "info": "<size=36>\"Consomme des PV pour lancer des spores puissantes !\n\n<color=#3D1400>Dégâts :</color> <color=red>600/3 secondes</color>\n<color=#3D1400>Spécial :</color> <color=red>Chaque attaque coûte 75 PV. Si elle est maintenue en vie pendant 20 secondes après avoir été plantée, sa lumière rouge s'éteindra avec une puissance d'attaque réduite de 90 %, mais les attaques ne coûteront plus de PV. À sa mort, elle inflige 600 dégâts aux zombies proches.</color>\n<color=#3D1400>Recette de Fusion :</color> <color=red>Champi-peureux + Mine Patate</color>\"",
             "cost": ""
         },
         {
             "seedType": 1172,
             "name": "Champi-puant",
-            "introduce": "<size=36><color=#3D1400>Avec une peau pâle, une coiffure qui pourrait rivaliser avec celle d'un dôme de cathédrale et un sourire plein de dents tordues, Champi-puant a l'air d'auditionner pour le méchant d'un conte de fées. Ironiquement, il joue généralement le rôle d'un vampire. »</color>",
+            "introduce": "<size=36><color=#3D1400>Avec une peau pâle, une coiffure qui pourrait rivaliser avec celle d'un dôme de cathédrale et un sourire plein de dents tordues, Champi-puant a l'air d'auditionner pour le méchant d'un conte de fées. Ironiquement, il joue généralement le rôle d'un vampire. \"</color>",
             "info": "<size=36>Projette du gaz toxique sur les zombies !\n\n<color=#3D1400>Dégâts :</color> <color=red>20/1,5 secondes</color>\n<color=#3D1400>Spécial :</color> <color=red>L'attaque ajoute un Poison Point aux zombies. Elle possède également la propriété héritée d'Ail.</color>\n<color=#3D1400>Recette de Fusion :</color> <color=red>Champi-fumée + Ail</color>\"",
             "cost": ""
         },
@@ -1869,8 +1869,6 @@
             "info": "<size=36>Produit du soleil plus rapidement.\n\n<color=black>Production de soleil : </color><color=#8B0000>25/15s</color>",
             "cost": "<size=36>\nRecette de Fusion: <color=#8B0000>Tournesol + Souci</color>"
         },
-
-
         {
             "seedType": 1274,
             "name": "Champi-explosion",
@@ -1905,7 +1903,164 @@
             "introduce": "<align=justified><size=36><color=black>La Bombrelle a adopté une nouvelle coupe de cheveux, ce qui la rend encore plus rebelle et irritable — une vraie délinquante qui traîne dans les rues. Mais ne vous fiez pas à son apparence : derrière ce look nerveux se cache un cœur tendre… elle aide même le coiffeur à ramasser les feuilles tombées.</color>",
             "info": "<size=36>Lorsqu’elle repousse les ennemis, elle déclenche de petites explosions de cerise et utilise leur énergie pour protéger les plantes voisines.\n\n<color=black>Résistance : </color><color=#8B0000>600</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Hérite des propriétés de la Feuille-Parapluie.\n<color=black>•</color> Repousse les zombies approchants et libère une petite explosion de cerise infligeant 300 dégâts. \n<color=black>•</color> Immunisée contre les ballons de basket explosifs.\n<color=black>•</color> À chaque fois qu’une plante défensive fusionnée avec une cerise ou qu’une Pot-Cerise soigne grâce à une explosion de cerise dans un rayon de 3×3, elle gagne 1 niveau d’énergie (jusqu’à 100). \n<color=black>•</color> La Bombrelle consomme 2 niveaux d’énergie pour absorber tous les dégâts dans un rayon de 3×3.</color>",
             "cost": "<size=36>\nRecette de Fusion: <color=#8B0000>Bombe Cerise + Feuille-Parapluie</color>"
+        },
+        {
+            "seedType": 1312,
+            "name": "Champi-frappe",
+            "introduce": "<align=justified><size=36><color=black>Le Champi-Frappe a entraîné une fournée de Champi-Noix, mais sans leur enseigner le combat. Quand on lui a demandé : \"Comment on se défend contre les zombies ?\" , il a répondu : \"Avec une carapace dure et une détermination d’acier !\" Puis il les a tout simplement lancés sur les zombies. \"C’est une technique que j’ai apprise au baseball\" , a-t-il annoncé fièrement.</color>",
+            "info": "<size=36>Attrape les Champi-Noix à proximité pour les projeter sur les zombies.\n\n<color=black>Résistance: </color><color=#8B0000>4000</color>\n<color=black>Special: </color><color=#8B0000> Attrape les Champi-Noix dans une zone de 3×3 et les projette vers l’avant comme des projectiles. Les dégâts infligés dépendent des PV du Champi-Noix utilisé. Si le projectile tue un zombie, il continue sa trajectoire, avec des dégâts réduits de la valeur déjà infligée.</color>",
+            "cost": "\n<size=36>Recette de Fusion: <color=#8B0000>Noix + Champi-fumée</color>"
+        },
+        {
+            "seedType": 1310,
+            "name": "Champi-robuste",
+            "introduce": "<align=justified><size=36><color=black>Le Champi-robuste était autrefois aussi timide que les autres Champi-Peureux, jusqu’au jour où il vit à la télévision de lointains cousins dotés de la \"Puissance du Champignon\" — intrépides face aux zombies. Il décida alors de suivre leur exemple, se surnomma \"Champi Lee\" et s’entraîna jour et nuit pour affronter les zombies sans trembler.</color>",
+            "info": "<size=36>Défenseur élancé, mais qui riposte quand il est acculé.\n\n<color=black>Résistance: </color><color=#8B0000>4000</color>\n<color=black>Special: </color><color=#8B0000> Après s’être recroquevillé pendant 10 secondes, il se redresse brusquement et repousse les zombies proches, leur infligeant 20 points de dégâts. Pendant les 5 secondes suivantes, il reste debout sans se cacher à nouveau. Lorsqu’il est recroquevillé, il subit 50 % de dégâts en moins.</color>",
+            "cost": "\n<size=36>Recette de Fusion: <color=#8B0000>Noix + Champi-peureux</color>"
+        },
+        {
+            "seedType": 1189,
+            "name": "Noix Gelée",
+            "introduce": "<align=justified><size=36><color=black>Le Noix Gelée grogna en heurtant le sol une nouvelle fois. \"Est-ce que les concierges pensent parfois à mettre un panneau 'Attention, sol glissant' !?\" marmonna-t-il. Mais dans sa frustration, il ne remarqua pas un détail inquiétant… il rétrécissait.</color>",
+            "info": "<size=36>Les zombies qui le mordent sont ralentis.\n\n<color=black>Résistance: </color><color=#8B0000>4000</color>\n<color=black>Special: </color><color=#8B0000>Les zombies qui le mâchouillent sont ralentis et accumulent des points de givre. Les Noix Gelées peuvent être améliorées en Noix Géantes Gelées à l’aide d’un engrais.</color>",
+            "cost": "<size=36>\nRecette de Fusion: <color=#8B0000>Noix + Champi-glace</color>"
+        },
+        {
+            "seedType": 1236,
+            "name": "Noix Maudite",
+            "introduce": "<align=justified><size=36><color=black>La Noix Maudite est une immense fan de Batman. Elle parle rarement, préférant rôder dans l’ombre, et n’apparaît qu’à l’occasion de quelques conventions de comics. Un jour, elle a fait sursauter McCornics dans un couloir. \"Depuis quand la Noix Maudite est… aussi costaud ?\" marmonna le vieux maïs.</color>",
+            "info": "<size=36>Noix dotée d’un potentiel nucléaire. \n\n<color=black>Résistance: </color><color=#8B0000>4000</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Immunisée contre les explosions non physiques. \n<color=black>•</color> Protège des Zombies Champi-mort dans une zone de 3×3 d’explosion. \n<color=black>•</color> Se régénère de 100 PV lorsqu’un zombie affecté par le malus “Braise” meurt dans un rayon de 5×5.\n<color=black>•</color> Déclenche un effet de Champi-mort à sa mort.</color>",
+            "cost": "\n<size=36>Recette de Fusion: <color=#8B0000>Noix + Champi-mort</color>"
+        },
+        {
+            "seedType": 1250,
+            "name": "Noix Écraseuse",
+            "introduce": "<align=justified><size=36><color=black>Arraché d’une aire de jeux pour enfants par sa tige et jeté sur la pelouse, la Noix Écraseuse fut rejeté pour avoir été pris pour une balle en caoutchouc déformée. Désormais furieux et cabossé, il rebondit dans tous les sens en hurlant : \"Je vais jouer autant que je veux ! AUTANT QUE JE VEUX !\"</color>",
+            "info": "<size=36>Noix bondissante, tout en colère et en impact.\n\n<color=black>Résistance: </color><color=#8B0000>4000</color>\n<color=black>Dégâts: </color><color=#8B0000>160/1.5s</color>\n<color=black>Special: </color><color=#8B0000>Bondit sur sa case lorsqu’un zombie s’approche, infligeant des dégâts de zone à chaque atterrissage. Ne bloque pas les zombies lorsqu’il est en l’air.</color>",
+            "cost": "\n<size=36>Recette de Fusion: <color=#8B0000>Noix + Écraseur</color>"
+        },
+        {
+            "seedType": 1295,
+            "name": "Noix Arbre",
+            "introduce": "<align=justified><size=36><color=black>\"Trois noix ordinaires réunies valent bien Zhuge Liang !\" Les Trois-Noix ont uni leurs forces, devenant des compagnons inséparables capables de libérer un potentiel inimaginable. Ces trois-là ont un vrai don pour la physique… et la dynamique des fluides, visiblement, c’est leur spécialité.</color>",
+            "info": "<size=36>Trois petites noix empilées les unes sur les autres.\n\n<color=black>Dégâts: </color><color=#8B0000>\n<color=black>•</color> (12 000–8 000 PV) 80, perce 2 fois ;\n<color=black>•</color> (8 000–4 000 PV) 60, perce 4 fois ;\n<color=black>•</color> (4 000–0 PV) 40, perce 6 fois</color>\n<color=black>Special: </color><color=#8B0000>Plante de grande taille. Possède 12 000 PV au total. Chaque Petite-Noix dispose de 4 000 PV. Perdre une Petite-Noix réduit définitivement les PV max de 4 000.</color>",
+            "cost": "\n<size=36>Recette de Fusion: <color=#8B0000>Noix + Triple Pisto-pois</color>"
+        },
+        {
+            "seedType": 1313,
+            "name": "Noix Liane",
+            "introduce": "<align=justified><size=36><color=black>Tout le monde dit que la Noix Liane est très solitaire, si emmêlée dans ses propres problèmes qu’il est difficile de dénouer les fils menant à son cœur si dur. Mais qui pourrait nier son désir de tranquillité ? Personne… à part le Jonc, qui le prend parfois pour une pelote de ficelle avec laquelle jouer.\n\n</color>",
+            "info": "<size=36>Applique une valeur de Liane en représailles.\n\n<color=black>Résistance: </color><color=#8B0000>4000</color>\n<color=black>Special: </color><color=#8B0000> When bitten, inflicts 1 Tangle value on the attacker. Lorsqu’elle est mordue, inflige 1 point de Liane à l’assaillant. Lorsqu’elle est écrasée, perd 50 PV toutes les 0,02 secondes et inflige 1 point de Liane à chaque fois.</color>",
+            "cost": "\n<size=36>Recette de Fusion: <color=#8B0000>Noix > Algue</color>"
+        },
+        {
+            "seedType": 1235,
+            "name": "Noix Enflammée",
+            "introduce": "<align=justified><size=36><color=black>\"Toujours garder le sourire\" — c’est la règle numéro un de la Noix Enflammée, le serveur le plus patient du restaurant. Même quand la Noix Gelée, à moitié fondue, glisse partout en hurlant et qu’il n’y a pas de panneau 'Sol glissant', il continue de sourire. Et de grésiller.</color>",
+            "info": "<size=36>Noix épicée qui brûle les zombies qui la mordent.\n\n<color=black>Résistance: </color><color=#8B0000>4000</color>\n<color=black>Special: </color><color=#8B0000>Inflige 20 points de dégâts aux zombies qui la mordent et leur applique le malus “Enflammé”. Les Noix Enflammées peuvent être améliorées en Noix Géantes Enflammées à l’aide d’un engrais.</color>",
+            "cost": "\n<size=36>Recette de Fusion: <color=#8B0000>Noix + Jalapeno</color>"
+        },
+        {
+            "seedType": 1048,
+            "name": "Noix Piquante",
+            "introduce": "<align=justified><size=36><color=black>La Noix Piquante garde toujours un regard dur, les sourcils froncés. \"Je veux qu’ils sachent que je ne suis pas un en-cas\" insiste-t-elle. Les zombies, eux, ricanent — après tout, depuis quand une noix fait peur ? Puis ils croquent. Et là, ils apprennent. À la dure.</color>",
+            "info": "<size=36>La Noix Piquante crève les pneus des Zombonis qui s’approchent !!\n\n<color=black>Résistance: </color><color=#8B0000>4000</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Renvoie 50 points de dégâts aux zombies qui la mordent.\n<color=black>•</color> Crève les pneus des véhicules ennemis au prix de 500 points de résistance. Ne protège pas contre les sous-marins ni contre les piétinements des Gargantuars.</color>",
+            "cost": "\n<size=36>Recette de Fusion: <color=#8B0000>Noix + Ortie</color>"
+        },
+        {
+            "seedType": 1282,
+            "name": "Noix Grillée",
+            "introduce": "<align=justified><size=36><color=black>\"Au menu d’aujourd’hui : des noix grillées.\" Même Noixbois ne peut s’empêcher de sourire à l’idée d’avoir créé une telle friandise. C’est l’en-cas parfait pour un pique-nique — à ceci près qu’aucune vraie Noix n’est utilisée. Les \"noix grillées\" sont en réalité des répliques en pain, si réalistes qu’elles mettent mal à l’aise les vraies Noix.</color>",
+            "info": "<size=36>Capable de produire des Noix Grillées.\n\n<color=black>Special: </color><color=#8B0000>Toutes les 50 pois enflammés, une Noix Grillée est générée devant elle.</color>",
+            "cost": "\n<size=36>Recette de Fusion: <color=#8B0000>Noix + Torche</color>"
+        },
+        {
+            "seedType": 1309,
+            "name": "Noix Lanterne",
+            "introduce": "<align=justified><size=36><color=black>\"Les lampadaires tombent parfois en panne, et c’est normal. C’est à ce moment-là que mon rôle de lampadaire de secours devient important, même si tout le monde semble s’inquiéter pour moi,\" a déclaré Noix Lanterne. Il ne savait pas que les autres s’inquiètent non pas pour sa luminosité, mais pour le fait qu’il pourrait casser le cadre du lampadaire.</color>",
+            "info": "<size=36>Noix avec des propriétés de Planterne ; se soigne avec le niveau de Lumos.\n\n<color=black>Résistance: </color><color=#8B0000>4000</color>\n<color=#99582a>Système Lumos: </color><color=#8B0000>Fournit 1 niveau de Lumos dans une grille de 3×3. Restaure 150 points de résistance par niveau de Lumos toutes les 15 secondes.</color></size>",
+            "cost": "\n<size=36>Recette de Fusion: <color=#8B0000>Noix + Planterne</color>"
+        },
+        {
+            "seedType": 1256,
+            "name": "Noix Épineuse",
+            "introduce": "<align=justified><size=36><color=black>La Noix Épineuse est fière d'insister sur le fait qu'elle est la véritable Noix à Épines. \"Regardez ces épines ! Cette couleur !\" déclare-t-elle constamment. Un jour, quelqu'un a enfin demandé : \"Attendez... qui est la Noix à Épines, déjà ?\"</color>",
+            "info": "<size=36>Une noix recouverte de cactus qui punit les attaquants et désactive les zombies en ballon.\n\n<color=black>Résistance: </color><color=#8B0000>4000</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Renvoie 50 points de dégâts aux zombies qui la mordent.\n<color=black>•</color> Peut éclater les ballons.</color>",
+            "cost": "<size=36>Recette de Fusion: <color=#8B0000>Noix + Cactus</color>"
+        },
+        {
+            "seedType": 1255,
+            "name": "Noix Drone",
+            "introduce": "<align=justified><size=36><color=black>Certains affirment que les zombies maîtrisent les arts martiaux au point de blesser les plantes avec des pétales qui tombent. La plupart des plantes se moquent de cette idée. Mais pas la Noix Drone. \" C’est vrai \", dit-elle, flottant au-dessus du sol. \" J’ai déjà bloqué ce genre de coups. Trois fois. \"</color>",
+            "info": "<size=36>Une noix volante qui protège sa case des dégâts.\n\n<color=black>Résistance : </color><color=#8B0000>4000</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Absorbe les dégâts subis sur sa case.\n<color=black>•</color> Si elle ne subit aucun dégât pendant 10 s, régénère 50 PV par seconde.</color>",
+            "cost": "<size=36>Recette de Fusion : <color=#8B0000>Noix + Troufle</color>"
+        },
+        {
+            "seedType": 1257,
+            "name": "Noix Étoilée",
+            "introduce": "<align=justified><size=36><color=black>La Noix Étoilée vit sous une pierre et bouge rarement. Ce n'est pas parce qu'elle est paresseuse, mais parce qu'elle a des principes. Elle n'agira que si elle est invitée par un certain ami carré à aller pêcher des méduses… ou à faire une farce à un voisin à tentacules.</color>",
+            "info": "<size=36>Un défenseur réactif qui riposte avec de petites étoiles.\n\n<color=black>Résistance: </color><color=#8B0000>4000</color>\n<color=black>Special: </color><color=#8B0000>Fait feu de cinq étoiles de 20 points de dégâts dans toutes les directions lorsqu'elle est endommagée.</color>",
+            "cost": "<size=36>Recette de Fusion: <color=#8B0000>Noix + Fruit Étoilé</color>"
+        },
+        {
+            "seedType": 1299,
+            "name": "Noix Citrouille",
+            "introduce": "<align=justified><size=36><color=black>Pour la Noix Citrouille, tout ce qui compte est de créer un bon environnement interne pour que les petites Noix puissent grandir. Il ignore le bruit extérieur et même les morsures de zombies. La seule chose qui l'inquiète, ce sont les autres plantes qui envahissent son espace interne, un espace qu'il réserve spécifiquement pour les Mini-noix.</color>",
+            "info": "Fait continuellement pousser des Mini-noix utiles à l'intérieur.<size=36>\n\n<color=black>Résistance: </color><color=#8B0000>8000</color>\n<color=black>Spécial: </color><color=#8B0000>Fait apparaître une Mini-noix toutes les 50 secondes. Lorsque la Mini-noix est complètement développée, elle est consommée pour soigner une plante de type Citrouille endommagée à proximité jusqu'à 1000 PV ou pour produire un paquet de graines de Noix si aucune plante de ce type n'existe. Une seule Noix Citrouille peut produire au maximum 3 paquets de graines de Noix.</color>",
+            "cost": "\n<size=36>Recette de Fusion: <color=#8B0000>Noix > Citrouille</color>"
+        },
+        {
+            "seedType": 1279,
+            "name": "Noix Magnétique",
+            "introduce": "<align=justified><size=36><color=black>Tout le monde sait que les aimants attirent le métal, mais la Noix Magnétique ? Les gens se demandent pourquoi elle ne fait plus ça. La Noix Magnétique elle-même affirme préférer la sécurité d'un bouclier orbital de projectiles plutôt que d'attirer des clous et des vis.</color>",
+            "info": "<size=36>Attire les projectiles amicaux à proximité et les fait orbiter autour d'elle.\n\n<color=black>Résistance: </color><color=#8B0000>4000</color>\n<color=black>Spécial: </color><color=#8B0000>Attire les projectiles des plantes à proximité, les faisant orbiter à un rayon de 1,5 cases ; peut contenir jusqu'à 100 projectiles à la fois, chacun durant jusqu'à 20s.</color>",
+            "cost": "\n<size=36>Recette de Fusion: <color=#8B0000>Noix > Champignon Magnétique</color>"
+        },
+        {
+            "seedType": 1311,
+            "name": "Noix Pot",
+            "introduce": "<align=justified><size=36><color=black>Tout le monde spéculait sur l’apparence de la Noix Pot : certains disaient que c’était une noix brisée, d’autres une poupée daruma ébréchée. Quoi qu’ils en pensent, la Noix Pot ne répondit pas. Ces souvenirs ennuyeux ont été ensevelis sous la lave. \" Au moins, maintenant, je suis un pot \", dit-il.</color>",
+            "info": "<size=36>Pot de fleur défensif et isolé thermiquement.\n\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Réduit de 20 % les dégâts reçus par la plante posée dessus.\n<color=black>•</color> Insensible aux dégâts des cases de lave et protège la plante posée dessus.\n<color=black>•</color> Les cases de lave infligent 50 points de dégâts par seconde aux plantes et zombies dessus, en ciblant les pots en priorité, ne leur infligeant que 10 dégâts.</color>",
+            "cost": "<size=36>Recette de Fusion : <color=#8B0000>Noix + Pot de Fleur</color>"
+        },
+        {
+            "seedType": 1263,
+            "name": "Noix Burrée",
+            "introduce": "<align=justified><size=36><color=black>\" Ils font peur… comme dans les films catastrophes. \" Noix Burrée tremble en cachant son visage derrière une motte de beurre. Pourtant, la curiosité de pouvoir observer les zombies d’aussi près la ronge. Et, finalement, elle ne peut s’empêcher de jeter un œil derrière son beurre, étudiant ces créatures figées dans la dernière image de leur vie.</color>",
+            "info": "<size=36>Les zombies sont immobilisés à chaque bouchée — c’est ce qu’on appelle un vrai « réveil beurré ».\n\n<color=black>Résistance : </color><color=#8B0000>4000</color>\n<color=black>Spécial : </color><color=#8B0000>Lorsqu’elle est mordue, immobilise le zombie attaquant avec du beurre pendant 2 s.</color>",
+            "cost": "<size=36>Recette de Fusion : <color=#8B0000>Noix + Cata-graine</color>"
+        },
+        {
+            "seedType": 1278,
+            "name": "Noix Fétide",
+            "introduce": "<align=justified><size=36><color=black>Noix Fétide est convaincue que même les zombies méritent une alimentation équilibrée. Elle se placera toujours entre eux et vos cerveaux, les orientant gentiment vers des choix plus sains… comme Noix Chou.</color>",
+            "info": "<size=36>Une noix robuste aux propriétés d’ail, toxique et réactive.\n\n<color=black>Résistance : </color><color=#8B0000>4000</color>\n<color=black>Spécial : </color><color=#8B0000>Lorsqu’elle est mordue, empoisonne le zombie attaquant pendant 10 s et lui inflige 1 point de Poison.</color>",
+            "cost": "<size=36>Recette de Fusion : <color=#8B0000>Noix + Ail</color>"
+        },
+        {
+            "seedType": 1206,
+            "name": "Coquille Parapluie",
+            "introduce": "<align=justified><size=36><color=black>Coquille Parapluie est le coiffeur le plus branché du jardin, célèbre pour ses coupes stylées sur carapaces de noix. Certes, ces coiffures ne durent pas longtemps, mais cela n’empêche personne de les adorer — ni l’ouverture du sixième salon \" Noix & Style \".</color>",
+            "info": "<size=36>Allie les qualités de ses deux ingrédients de fusion.\n\n<color=black>Résistance : </color><color=#8B0000>4000</color>\n<color=black>Spécial : </color><color=#8B0000>Possède les caractéristiques de Feuille Parapluie et de Noix. Peut repousser les zombies approchants, infligeant 40 dégâts à chaque fois.</color>",
+            "cost": "<size=36>Recette de Fusion : <color=#8B0000>Noix + Feuille Parapluie</color>"
+        },
+        {
+            "seedType": 1284,
+            "name": "Noix Argentée",
+            "introduce": "<align=justified><size=36><color=black>\"Je suis un objet précieux,\" dit Noix Argentée, \"Manipulez-moi avec soin.\" Après avoir quitté son emploi au bowling, elle a pensé à créer l'\"Association de Protection des Métaux Non Ferreux,\" mais rien n'en est sorti, car elle avait dépensé tout son argent pour garder sa peinture argentée en parfait état.</color>",
+            "info": "<size=36>Noix en argent, avec une résistance accrue.\n\n<color=black>Résistance : </color><color=#8B0000>6000</color>",
+            "cost": "\n<size=36>Recette de Fusion : <color=#8B0000>Noix + Souci</color>"
+        },
+        {
+            "seedType": 1261,
+            "name": "Noix Melon",
+            "introduce": "<align=justified><size=36><color=black>Quand les zombies viennent acheter des pastèques, le marchand Aloe Alba leur vend toujours la plus grosse — la Noix Melon. Après que les zombies se soient cassé les dents dessus, Aloe Alba les envoie bien gentiment à la clinique dentaire la plus proche… qui, bien sûr, lui appartient aussi.</color>",
+            "info": "<size=36>Fait pousser un bouclier temporaire et riposte avec une pastèque après avoir subi assez de dégâts.\n\n<color=black>Résistance : </color><color=#8B0000>8000</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Lorsqu’elle subit des dégâts, stocke 1,5× les dégâts reçus sous forme d’énergie de Riposte. Si les dégâts dépassent 100/500/1000, elle en stocke respectivement 3×/4,5×/6×.\n<color=black>•</color> La jauge de Riposte est limitée aux PV max.\n<color=black>•</color> Quand la jauge de Riposte dépasse 1000, consomme toute l’énergie accumulée pour lancer une pastèque infligeant la même quantité de dégâts et gagne un bouclier équivalent, qui se dissipe totalement en 5 s.</color>",
+            "cost": "<size=36>Recette de Fusion : <color=#8B0000>Noix + Cata-melon</color>"
         }
+
+
+
 
 
     ]
