@@ -148,7 +148,7 @@
             "theZombieType": 24,
             "name": "깜짝 상자 좀비",
             "introduce": "<align=justified><size=36><color=black>깜짝 상자 좀비는 정신병원 환자이지만, 서커스는 그의 지원을 받아주었습니다. 그의 장난감 상자 안에 무엇이 들어 있는지 조심하세요. 분명 당신을 놀라게 할 것입니다.</color>",
-            "info": "<size=36>이 좀비는 폭발하는 깜짝 상자를 가지고 있습니다.\n\n<color=black>체력: </color><color=#4B0082>720</color>\n<color=black>폭발 대미지: </color><color=#4B0082>10000</color>\n<color=black>폭발 범위: </color><color=#4B0082>1.375 타일 (≈ 3×3)</color>\n<color=black>특수 능력: </color><color=#4B0082>가끔 폭발하여 주변 식물을 즉사시킵니다.\n자석 버섯에 의해 깜짝 상자를 뺏을 수 있습니다.</color>"
+            "info": "<size=36>이 좀비는 폭발하는 깜짝 상자를 가지고 있습니다.\n\n<color=black>체력: </color><color=#4B0082>720</color>\n<color=black>폭발 대미지: </color><color=#4B0082>1,000,000</color>\n<color=black>폭발 범위: </color><color=#4B0082>1.375 타일 (≈ 3×3)</color>\n<color=black>특수 능력: </color><color=#4B0082>가끔 폭발하여 주변 식물을 즉사시킵니다.\n자석 버섯에 의해 깜짝 상자를 뺏을 수 있습니다.</color>"
         },
         {
             "theZombieType": 25,
@@ -694,7 +694,7 @@
             "theZombieType": 221,
             "name": "<color=#4B0082><u>하늘의 파수꾼</u>",
             "introduce": "<align=justified><size=36><color=black>하늘의 파수꾼이 전장에 모습을 드러내자 땅이 흔들렸고, 거대한 기계는 희미한 빛 속에서 섬뜩하게 빛났습니다. \"지상 공격 개시.\" 외침과 함께 식물들은 나뭇가지처럼 부서져 나갔습니다. 그러나 진짜 공포는 메카가 하늘로 치솟을 때 시작되었습니다. \"제공권 확보.\" 무시무시한 선언과 함께 키로프 좀플린이 쏟아지고 정밀한 폭격이 이어졌습니다. \"너희의 방어는 이제 무용지물이다.\"</color>",
-            "info": "<size=36>이륙! 이륙이 시작되었습니다!\n\n<color=black>체력: </color><color=#4B0082>15000</color>\n<color=black>특수 능력: </color><color=#4B0082>\n<color=black>•</color> 연옥 보스 좀비. 넉백과 특정 식물의 격추 능력을 무효화합니다.\n<color=black>•</color> 지상에서 매우 빠르게 음직이면서 식물을 짓밟습니다.\n<color=black>•</color> 체력 2/3이 되면 잠시 무적 상태가 된 뒤 이륙하여, 3초마다 1 라인에 키로프 좀플린 1마리씩 소환하고 잭인더박스 폭탄을 투하합니다.</color>"
+            "info": "<size=36>이륙! 이륙이 시작되었습니다!\n\n<color=black>체력: </color><color=#4B0082>15000</color>\n<color=black>특수 능력: </color><color=#4B0082>\n<color=black>•</color> 연옥 보스 좀비. 넉백과 특정 식물의 격추 능력을 무효화합니다.\n<color=black>•</color> 지상에서 매우 빠르게 음직이면서 식물을 짓밟습니다.\n<color=black>•</color> 체력 2/3이 되면 잠시 무적 상태가 된 뒤 이륙하여, 3초마다 1 라인에 키로프 좀플린 1마리씩 소환하고 깜짝 상자 폭탄을 투하합니다.</color>"
         },
         {
             "theZombieType": 222,
