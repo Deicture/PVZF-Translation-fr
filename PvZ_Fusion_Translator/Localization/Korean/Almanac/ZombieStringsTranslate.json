@@ -586,7 +586,7 @@
             "theZombieType": 203,
             "name": "<size=30>신문지 체리 개틀링 좀비",
             "introduce": "<align=justified><size=36><color=black>신문지 체리 개틀링 좀비는 거리를 걸으며 한탄했습니다. \"이제 나도… 개틀링… 어, 나이가 드는구나…\" 압박을 참고는 있었지만, 그 힘만으로도 식물과 좀비 모두를 제압하기에는 충분했습니다. \"아직 저 녀석만이 나에게 싸울 의욕을 주는구나…\" 그는 중얼거리며 신문을 치우고 느릿하게 걸음을 옮겼습니다.</color>",
-            "info": "<size=36>엄청난 대미지를 줍니다!\n\n<color=black>체력: </color><color=#4B0082>1500 + 1500 (제2 방어구)</color>\n<color=black>대미지:</color><color=#4B0082>400 (물기) 1000 (폭발성 체리)</color>\n<color=black>특수 능력: </color><color=#4B0082>신문이 파괴될 시 잠시 무적 상태가 되며, 이후 0.5초마다 폭발성 체리 4개를 발사합니다.</color>\n<color=black>오디세이 버프:\n</color><color=#4B0082>1. 분노할 시 이제 식물을 먹지 않고 지나칩니다.\n2. 이제 상태 이상에 면역입니다.</color>"
+            "info": "<size=36>엄청난 대미지를 줍니다!\n\n<color=black>체력: </color><color=#4B0082>1500 + 1500 (제2 방어구)</color>\n<color=black>대미지:</color><color=#4B0082>400 (물기) 1000 (폭발성 체리)</color>\n<color=black>특수 능력: </color><color=#4B0082>신문이 파괴될 시 잠시 무적 상태가 되며, 이후 0.5초마다 폭발성 체리 4개를 발사합니다.</color>\n<color=black>오디세이 버프:\n</color><color=#4B0082>1. 분노할 시 이제 식물을 먹지 않고 지나칩니다.\n2. 이제 독을 제외한 상태 이상에 면역입니다.</color>"
         },
         {
             "theZombieType": 204,
@@ -676,7 +676,7 @@
             "theZombieType": 218,
             "name": "<color=#4B0082><u>포제이돈</u>",
             "introduce": "<align=justified><size=36><color=black>바다가 갈라지며 포세이돈이 솟아오르고, 그의 거대한 몸에서 물보라가 쏟아집니다. 깊은 바다의 분노로 번쩍이는 삼지창이 이미 공격 준비를 마쳤습니다. \"조수는 내가 다스린다!\" 그는 포효하며, 그 목소리가 울부짖는 바람을 가릅니다. 순식간에 삼지창이 날아가며 적진을 쓰나미처럼 덮칩니다. \"도망가고 싶다면 가거라—하지만 바다를 이길 자는 없다.\"</color>",
-            "info": "<size=36>익사자의 왕.\n\n<color=black>체력: </color><color=#4B0082>24000 + 24000 (제1 방어구)</color>\n<color=black>특수 능력: </color><color=#4B0082>\n<color=black>•</color> 연옥 보스 좀비. 스턴에 면역입니다.\n<color=black>•</color> 등장 시 전 1라인에 기가 삼지창 호두 좀비를 1마리씩 소환합니다.\n<color=black>•</color> 필드에 존재할 시 모든 기가 삼지창 호두 좀비는 지속적으로 삼지창을 투척할 수 있으며, 삼치창의 피해량이 500% 증가합니다.\n<page><color=black>•</color> 초대형 삼지창은 일정한 각도로 던져지며, 맞는 식물이 즉사 저항을 가지고 있지 않을 시 즉사시킵니다.\n<color=black>•</color> 삼지창은 착지 후 30초가 지나면 폭발하여 주변 모든 식물을 제거합니다.</color>"
+            "info": "<size=36>익사자의 왕.\n\n<color=black>체력: </color><color=#4B0082>24000 + 24000 (제1 방어구)</color>\n<color=black>특수 능력: </color><color=#4B0082>\n<color=black>•</color> 연옥 보스 좀비. 경직에 면역입니다.\n<color=black>•</color> 등장 시 전 1라인에 기가 삼지창 호두 좀비를 1마리씩 소환합니다.\n<color=black>•</color> 필드에 존재할 시 모든 기가 삼지창 호두 좀비는 지속적으로 삼지창을 투척할 수 있으며, 삼치창의 피해량이 500% 증가합니다.\n<page><color=black>•</color> 초대형 삼지창은 일정한 각도로 던져지며, 맞는 식물이 즉사 저항을 가지고 있지 않을 시 즉사시킵니다.\n<color=black>•</color> 삼지창은 착지 후 30초가 지나면 폭발하여 주변 모든 식물을 제거합니다.</color>"
         },
         {
             "theZombieType": 219,
@@ -688,7 +688,7 @@
             "theZombieType": 220,
             "name": "<color=#4B0082><u>기가 미식축구 스트라이커</u>",
             "introduce": "<align=justified><size=36><color=black>그로부터 도망칠 수는 없었습니다. 기가 미식축구 스트라이커는 섬뜩할 정도로 정밀하게 움직이며, 눈도 깜박이지 않은 채 다음 희생양을 찾았습니다. 그는 단순한 파괴자가 아니었습니다. 그는 수확자이자, 생명 그 이상의 것을 빼앗는 악몽이었습니다. 그의 손길이 닿은 모든 식물은 뒤틀리고 타락하며 그의 일부가 되어버렸습니다. 그리고 그가 전진할수록, 그의 존재는 끊임없이 속삭였습니다. \"네가 어디로 도망치든, 결국 나는 널 찾아낼 것이다.\"</color>",
-            "info": "<size=36>기가 미식축구 스트라이커는 손쉽게 당신의 방어선을 무너뜨릴 수 있습니다!\n\n<color=black>체력: </color><color=#4B0082>24000 + 24000 (제1 방어구)</color>\n<color=black>대미지: </color><color=#4B0082>200</color>\n<color=black>특수 능력: </color><color=#4B0082>\n<color=black>•</color> 연옥 보스 좀비. 스턴과 넉백에 면역입니다.\n<color=black>•</color> 식물들의 회복을 차단시키며, 대신 자신에게 10%의 피해로 전환됩니다. 단, 이 피해는 자신의 최대 HP의 1%를 초과할 수 없습니다.\n<page><color=black>•</color> 방어 식물이 아닌 식물을 섭취할 시 식물을 즉시 기가 미식축구 호두 좀비로 바꿔버립니다.\n<color=black>•</color> 3초마다 공격력이 200%(중첩 가능, 최대 100,000,000%)로 증가하고, 방어력이 6000 회복되며, 이동 속도가 30% 상승합니다(최대 300%까지).</color>"
+            "info": "<size=36>기가 미식축구 스트라이커는 손쉽게 당신의 방어선을 무너뜨릴 수 있습니다!\n\n<color=black>체력: </color><color=#4B0082>24000 + 24000 (제1 방어구)</color>\n<color=black>대미지: </color><color=#4B0082>200</color>\n<color=black>특수 능력: </color><color=#4B0082>\n<color=black>•</color> 연옥 보스 좀비. 경직과 넉백에 면역입니다.\n<color=black>•</color> 식물들의 회복을 차단시키며, 대신 자신에게 10%의 피해로 전환됩니다. 단, 이 피해는 자신의 최대 HP의 1%를 초과할 수 없습니다.\n<page><color=black>•</color> 방어 식물이 아닌 식물을 섭취할 시 식물을 즉시 기가 미식축구 호두 좀비로 바꿔버립니다.\n<color=black>•</color> 3초마다 공격력이 200%(중첩 가능, 최대 100,000,000%)로 증가하고, 방어력이 6000 회복되며, 이동 속도가 30% 상승합니다(최대 300%까지).</color>"
         },
         {
             "theZombieType": 221,
@@ -736,13 +736,13 @@
             "theZombieType": 228,
             "name": "<color=#4B0082><u>설원의 여왕</u>",
             "introduce": "<align=justified><size=36><color=black>얼음의 검과 눈보라 망토를 두른 그녀는 산산이 부서진 육체로부터 조각상을 새기고, 굴하지 않는 의지로 신성을 빚어냅니다. 인공 신이자 툰드라의 유령. 지옥에서 우리가 다시 만날 때, 그녀는 이 슬픔의 땅을 기억할까요?</color>",
-            "info": "<size=36>얼어붙은 툰드라의 군주입니다.\n\n<color=black>체력: </color><color=#4B0082>64000</color>\n<color=black>대미지: </color><color=#4B0082>1000</color>\n<color=black>특수 능력: </color><color=#4B0082>\n<color=black>•</color> 연옥 보스 좀비. 스턴, 넉백, 빙결을 무효화합니다.\n<color=black>•</color> 식물을 짓밟습니다. 공격 시 식물을 5초간 동결 시킵니다. \n<color=black>•</color> 등장할 때 앞에 있는 모든 식물에 피해를 주는 참격 공격을 수행하며(호박으로 막을 수 있음), 그 다음 자신의 라인 주변에 5개의 눈덩이를 발사하여 각각 3×3 영역에 피해를 줍니다.\n<color=black>•</color> 이후 3초마다 참격 공격이나 일반 공격을 수행하며, 체력이 낮을수록 베기 공격이 나올 확률이 높아집니다.\n<color=black>•</color> 일반 공격은 앞으로 4개의 얼음 검을 발사합니다.\n<color=black>•</color> 혹한 스테이지에서 등장할 시 서리 폭풍을 발동시킬 수 있습니다.</color>"
+            "info": "<size=36>얼어붙은 툰드라의 군주입니다.\n\n<color=black>체력: </color><color=#4B0082>64000</color>\n<color=black>대미지: </color><color=#4B0082>1000</color>\n<color=black>특수 능력: </color><color=#4B0082>\n<color=black>•</color> 연옥 보스 좀비. 경직, 넉백, 빙결을 무효화합니다.\n<color=black>•</color> 식물을 짓밟습니다. 공격 시 식물을 5초간 동결 시킵니다. \n<color=black>•</color> 등장할 때 앞에 있는 모든 식물에 피해를 주는 참격 공격을 수행하며(호박으로 막을 수 있음), 그 다음 자신의 라인 주변에 5개의 눈덩이를 발사하여 각각 3×3 영역에 피해를 줍니다.\n<color=black>•</color> 이후 3초마다 참격 공격이나 일반 공격을 수행하며, 체력이 낮을수록 베기 공격이 나올 확률이 높아집니다.\n<color=black>•</color> 일반 공격은 앞으로 4개의 얼음 검을 발사합니다.\n<color=black>•</color> 혹한 스테이지에서 등장할 시 서리 폭풍을 발동시킬 수 있습니다.</color>"
         },
         {
             "theZombieType": 229,
             "name": "<color=#4B0082><u>기가 해골군마 사령관</u>",
             "introduce": "<align=justified><size=36><color=black><page>영원의 침묵에서 깨어난 기가 해골군마 사령관은 날마다 돌격하고, 싸우고, 정복하며, 공포의 승리를 쌓아갑니다. 그의 아래에는 코사크 전마가 달리고, 박사에게서 직접 하사받은 갑옷은 그의 명예의 증표입니다. 그에게 맞서는 자는 세상 전체를 적으로 돌리는 셈입니다. 바람에 휘날리는 지휘의 깃발 뒤로는 전장이 따릅니다. 그는 어둠의 인사를 전하며, 그의 검이 닿는 곳마다 밤이 내려앉고, 막이 드리워지며, 새로운 질서가 태어납니다. 마치 모든 식물에게 선언하듯 말입니다. 이것이 그에게 도전한 대가입니다.</color>",
-            "info": "<size=36>\"야! 감히 말을 타고 나한테 도전할 셈이냐?\"\n\n<color=black>체력: </color><color=#4B0082>36000</color>\n<color=black>대미지 | 공격 쿨타임: </color><color=#4B0082>80 | 0.1초</color>\n<color=black>특수 능력: </color><color=#4B0082>\n<color=black>•</color> 연옥 보스 좀비. 스턴, 넉백, 빙결을 무효화합니다.\n<color=black>•</color> 0.1초마다 체력을 200 회복합니다.\n<color=black>•</color> 식물을 짓밟습니다.\n<color=black>•</color> 식물을 무시하고 오른쪽에서 5 열까지 나타난 다음 식물을 짓밟는 군마를 타고 돌진할 수 있습니다.\n<page><color=black>•</color> 저주는 충전 때마다 약 1.5초간 준비 후, 10초마다 한 번씩 모을수 있습니다.\n<color=black>•</color> 저주는 충돌 시 3×3 영역 내의 식물에 5초간 적용하여, 그가 받는 모든 최종 피해를 저주받은 식물로 전달합니다.(공유된 피해량 최대 5,000)\n<color=black>•</color> 체력이 처음으로 2/3 이하로 떨어지면 각 라인에 기가 양동이 특전사를 1마리씩 생성됩니다. 체력이 0이 되면 말에서 내려 '몰락한 기가 양동이 사령관'로 변신합니다.</color>"
+            "info": "<size=36>\"야! 감히 말을 타고 나한테 도전할 셈이냐?\"\n\n<color=black>체력: </color><color=#4B0082>36000</color>\n<color=black>대미지 | 공격 쿨타임: </color><color=#4B0082>80 | 0.1초</color>\n<color=black>특수 능력: </color><color=#4B0082>\n<color=black>•</color> 연옥 보스 좀비. 경직, 넉백, 빙결을 무효화합니다.\n<color=black>•</color> 0.1초마다 체력을 200 회복합니다.\n<color=black>•</color> 식물을 짓밟습니다.\n<color=black>•</color> 식물을 무시하고 오른쪽에서 5 열까지 나타난 다음 식물을 짓밟는 군마를 타고 돌진할 수 있습니다.\n<page><color=black>•</color> 저주는 충전 때마다 약 1.5초간 준비 후, 10초마다 한 번씩 모을수 있습니다.\n<color=black>•</color> 저주는 충돌 시 3×3 영역 내의 식물에 5초간 적용하여, 그가 받는 모든 최종 피해를 저주받은 식물로 전달합니다.(공유된 피해량 최대 5,000)\n<color=black>•</color> 체력이 처음으로 2/3 이하로 떨어지면 각 라인에 기가 양동이 특전사를 1마리씩 생성됩니다. 체력이 0이 되면 말에서 내려 '몰락한 기가 양동이 사령관'로 변신합니다.</color>"
         },
         {
             "theZombieType": 230,
