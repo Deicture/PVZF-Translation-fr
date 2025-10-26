@@ -4221,18 +4221,24 @@
    "seedType": 956,
    "name": "Parcarnívora",
    "introduce": "<size=39><color=#3D1400>Poseedora del aterrador poder de sellar la vida en silencio, la Parcarnívora ha dedicado años a su gran causa: \"Concederé vida eterna a todas las cosas, congelaré el tiempo en un instante de dicha, y de ahora en adelante, no habrá guerra ni tragedia en este mundo. Todo el dolor recaerá solo sobre mí\". El fuego infernal abrasador tras ella representa el pecado que carga por todos los seres vivos.</color>",
-   "info": "<size=39>Tiene unas fauces mortales suficientemente fuertes para atacar ambos zombis y plantas.\n\n<color=#3D1400>Daño: </color><color=red>1800</color>\n<color=#3D1400>Uso:</color> <color=red>Manual\n<color=#3D1400>Tiempo de Masticado:</color> <color=red>60s\n\n<color=#3D1400>Especial:</color> <color=red>Al cliquearla, libera una explosión de Petaseta y Jalapeño una casilla adelante. Si hay una planta en esa casilla, Parcarnívora la eliminará y tendrá un 50% de probabilidad de que vuelva esa planta como un paquete de semillas. Las plantas maldecidas siempre soltarán su paquete de semillas al ser eliminadas por Parcarnívora, y quitará 15% de la durabilidad máxima de el que aplicó la maldición.\n\n<color=purple>Mejoras de Odisea:</color>\n</color></color></color>- Siempre devolverá un paquete de semillas al devorar una planta.</color>\n- Si Parcarnívora elimina una planta odisea con un efecto al morir, este se activará 4 veces</color>\n\n<color=#3D1400>Fórmula de Fusión: </color><color=red>Planta Maldívora + Jalapeño</color></size>",
+   "info": "<size=39>Tiene unas fauces mortales suficientemente fuertes para atacar ambos zombis y plantas.\n\n<color=#3D1400>Daño: </color><color=red>1800</color>\n<color=#3D1400>Uso:</color> <color=red>Manual\n<color=#3D1400>Tiempo de Masticado:</color> <color=red>60s\n\n<color=#3D1400>Especial:</color> <color=red>Al cliquearla, libera una explosión de Petaseta y Jalapeño una casilla adelante. Si hay una planta en esa casilla, Parcarnívora la eliminará y tendrá un 50% de probabilidad de que vuelva esa planta como un paquete de semillas. Las plantas maldecidas siempre soltarán su paquete de semillas al ser eliminadas por Parcarnívora, y quitará 15% de la durabilidad máxima de el que aplicó la maldición.\n\n<color=purple>Mejoras de Odisea:</color>\n</color></color></color>- Siempre devolverá un paquete de semillas al devorar una planta.</color>\n- Si Parcarnívora elimina una planta odisea con un efecto al morir, este se activará 4 veces</color>\n\n<color=#3D1400>Fórmula de Fusión: </color><color=red>Planta Maldívora + Petapeño</color></size>",
    "cost": "<size=33>Costo: <color=red>525, 675</color>   Recarga: <color=red>157,5 Segundos</color>\nPlantas Requeridas: <color=red>4\n<color=purple>Condición de Uso: Modo Odisea - Selección Inicial</color></size>"
  },
  {
-      "seedType": 957,
-      "name": "957"
-    },
-    {
-      "seedType": 958,
-      "name": "958"
-    },
-    {
+    "seedType": 957,
+    "name": "Lanzavórtices",
+   "introduce": "<size=39><color=#3D1400>INTRO</color></size>",
+   "info": "<size=39>INFO\n\n<color=#3D1400>Dureza: </color><color=red>4000</color>\n<color=#3D1400>Daño:</color> <color=red>20 cada 1,5s\n\n<color=#3D1400>Especial:</color> <color=red>SPECIAL\n\n<color=purple>Mejoras de Odisea:</color>\n</color></color></color>- MODIFIER1</color>\n- MODIFIER2</color>\n\n<color=#3D1400>Fórmula de Fusión: </color><color=red>Melonpulta Congelada + Cronomelón</color></size>",
+   "cost": "<size=33>Costo: <color=red>775, 925</color>   Recarga: <color=red>72,5 Segundos Segundos</color>\nPlantas Requeridas: <color=red>4 (+ Cronofragmento)\n<color=purple>Condición de Uso: Modo Odisea - Selección Inicial</color></size>"
+ },
+ {
+    "seedType": 958,
+    "name": "Rabo de Bengalí",
+   "introduce": "<size=39><color=#3D1400>INTRO</color></size>",
+   "info": "<size=39>INFO\n\n<color=#3D1400>Dureza: </color><color=red>4000</color>\n<color=#3D1400>Daño:</color> <color=red>20 cada 1,5s\n\n<color=#3D1400>Especial:</color> <color=red>SPECIAL\n\n<color=purple>Mejoras de Odisea:</color>\n</color></color></color>- MODIFIER1</color>\n- MODIFIER2</color>\n\n<color=#3D1400>Fórmula de Fusión: </color><color=red>Ramo de Cerezas + Rabo de León</color></size>",
+   "cost": "<size=33>Costo: <color=red>525</color>   Recarga: <color=red>200 Segundos</color>\nPlantas Requeridas: <color=red>4\n<color=purple>Condición de Uso: Modo Odisea - Desbloqueable</color></size>"
+ },
+ {
       "seedType": 959,
       "name": "959"
     },
@@ -6403,7 +6409,7 @@
       "seedType": 1286,
       "name": "Hipnomelón",
       "introduce": "<size=39><color=#3D1400>A Hipnomelón le encanta hacer amigos, pintar y preparar bebidas. Es la bartender estrella del bar, y su jugo de melón hipnótico es incluso más popular que los cócteles clásicos. Algunos de sus fans más excéntricos incluso se han disfrazado de zombis solo para probarlo.</color></size>",
-      "info": "<size=39>Puede hipnotizar zombis con melones, sip.</color>\n\n<color=#3D1400>Daño:</color> <color=red>120 cada 3s\n<color=#3D1400>Especial:</color> <color=red>Tiene un 25% de probabilidad de hipnotizar a zombis con menos de la mitad de su salud.</color>\n<size=39><color=#3D1400>Fórmula de Fusión:</color> <color=red>Hipnoseta + Melonpulta</color></size>",
+      "info": "<size=39>Tiene una chance de hipnotizar zombis en área.</color>\n\n<color=#3D1400>Daño:</color> <color=red>120 cada 3s\n<color=#3D1400>Especial:</color> <color=red>Tiene un 25% de probabilidad de hipnotizar a zombis con menos de la mitad de su salud.</color>\n<size=39><color=#3D1400>Fórmula de Fusión:</color> <color=red>Hipnoseta + Melonpulta</color></size>",
       "cost": "<size=39>Costo: <color=red>375, 450</color>   Recarga: <color=red>37,5 Segundos</color>\nPlantas Requeridas: <color=red>2</color></size>"
     },
     {
@@ -6585,7 +6591,7 @@
     "seedType": 1312,
     "name": "Frutoseta",
    "introduce": "<size=39><color=#3D1400>El Frutoseta entrenó a un grupo de Nuecitas, pero no les enseñó a luchar. Los pequeños hongos preguntaron: \"¿Cómo podemos resistir a los zombis?\". Él respondió: \"¡Con un caparazón duro y la determinación de morir!\". Luego los lanzó lejos. \"Esta es una habilidad que aprendí jugando al fútbol\", dijo el Frutoseta con orgullo.</color></size>",
-   "info": "<size=39>Sacrifica a sus quizas-hijos para luchar, ¡que buen padre!</color>\n\n<color=#3D1400>Dureza: </color><color=red>4000</color>\n<color=#3D1400>Especial:</color> <color=red>Agarra a una Nuecita en un área de 3x3, y los lanza al primer zombi en su línea. El daño de la Nuecita es perforante, y hace 20 de daño más los PS totales de la Nuecita que lanza.</color>\n<size=39><color=#3D1400>Fórmula de Fusión:</color> <color=red>Nuez + Humoseta</color></size>",
+   "info": "<size=39>Utiliza a Nuecitas cercanas para atacar.</color>\n\n<color=#3D1400>Dureza: </color><color=red>4000</color>\n<color=#3D1400>Especial:</color> <color=red>Agarra a una Nuecita en un área de 3x3, y los lanza al primer zombi en su línea. El daño de la Nuecita es perforante, y hace 20 de daño más los PS totales de la Nuecita que lanza.</color>\n<size=39><color=#3D1400>Fórmula de Fusión:</color> <color=red>Nuez + Humoseta</color></size>",
    "cost": "<size=39>Costo: <color=red>125, 200</color>   Recarga: <color=red>37,5 Segundos</color>\nPlantas Requeridas: <color=red>2</color></size>"
         },
         {
@@ -6629,6 +6635,35 @@
    "introduce": "<size=39><color=#3D1400>\"¿Has oído que los zombis traen \"tanques\"? ¡Pues vamos a liberar nuestra fortaleza viviente de ametralladoras: la Calabaza Guisante!\" Dicen unas Guisantralladoras. \"¿Y la munición?\" Pregunta un Lanzaguisantes curioso. \"¡Ejem! Los diseñadores olvidaron añadir un cargador... ¡pero no es para tanto! ¡Solo haz que las balas de tu munición sean distribuidas un poco, y listo!\"</color></size>",
    "info": "<size=39>Dispara el mismo proyectil que la planta dentro de ella.</color>\n\n<color=#3D1400>Dureza: </color><color=red>4000</color>\n<color=#3D1400>Daño:</color> <color=red>X cada 3s\n<color=#3D1400>Especial:</color> <color=red>Cada uno de sus disparos hereda todas las características de los proyectiles de la planta dentro de ella, estas siendo su cantidad, daño y tipo.</color>\n<size=39><color=#3D1400>Fórmula de Fusión:</color> <color=red>Lanzaguisantes + Calabaza</color></size>",
    "cost": "<size=39>Costo: <color=red>225</color>   Recarga: <color=red>37,5 Segundos</color>\nPlantas Requeridas: <color=red>2</color></size>"
+        },
+        {
+    "seedType": 1319,
+    "name": "Igneoguisantes",
+   "introduce": "<size=39><color=#3D1400>INTRO</color></size>",
+   "info": "<size=39>Parte del <color=#FF4500>Sistema Pirogénico</color>\nLanza guisantes ardientes.\n<color=#FF4500>Sistema Pirogénico:</color>\n- Aplica el Efecto Pirogénico al impacto.\n- Explosión propaga el efecto a zombis cercanos.</color>\n\n<color=#3D1400>Daño:</color> <color=red>30 cada 1,5s\n<size=39><color=#3D1400>Fórmula de Fusión:</color> <color=red>Lanzaguisantes + Jalapeño</color></size>",
+   "cost": "<size=39>Costo: <color=red>225</color>   Recarga: <color=red>57,5 Segundos</color>\nPlantas Requeridas: <color=red>2</color></size>"
+        },
+        {
+    "seedType": 1320,
+    "name": "Repetidígneo",
+   "info": "<size=39>Parte del <color=#FF4500>Sistema Pirogénico</color>\nLanza dos guisantes ardientes a la vez.\n<color=#FF4500>Sistema Pirogénico:</color>\n- Aplica el Efecto Pirogénico al impacto.\n- Explosión propaga el efecto a zombis cercanos.</color>\n\n<color=#3D1400>Daño:</color> <color=red>30*2 cada 1,5s\n<color=#3D1400>Especial: </color><color=red>Los guisantes disparados hacia atrás rebotarán y se moverán hacia delante. Hazle clic 15 segundos tras plantarlo para fusionarlo con otro Lanzaguisantes gratis.\n<size=39><color=#3D1400>Fórmula de Fusión:</color> <color=red>Repetidora + Jalapeño</color></size>",
+   "cost": "<size=39>Costo: <color=red>325</color>   Recarga: <color=red>65 Segundos</color>\nPlantas Requeridas: <color=red>3</color></size>"
+        },
+        {
+    "seedType": 1321,
+    "name": "Bipetidígneo",
+   "introduce": "<size=39><color=#3D1400>INTRO</color></size>",
+   "info": "<size=39>Parte del <color=#FF4500>Sistema Pirogénico</color>\nLanza tres guisantes ardientes a la vez.\n<color=#FF4500>Sistema Pirogénico:</color>\n- Aplica el Efecto Pirogénico al impacto.\n- Explosión propaga el efecto a zombis cercanos.</color>\n\n<color=#3D1400>Daño:</color> <color=red>30*3 cada 1,5s\n<color=#3D1400>Especial: </color><color=red>Los guisantes disparados hacia atrás rebotarán y se moverán hacia delante. Hazle clic 15 segundos tras plantarlo para fusionarlo con otro Lanzaguisantes gratis.\n<size=39><color=#3D1400>Fórmula de Fusión:</color> <color=red>Bipetidora + Jalapeño</color></size>",
+   "cost": "<size=39>Costo: <color=red>425</color>   Recarga: <color=red>72,5 Segundos</color>\nPlantas Requeridas: <color=red>4</color></size>"
+        },
+        {
+    "seedType": 1322,
+    "name": "Igneatralladora",
+   "introduce": "<size=39><color=#3D1400>INTRO</color></size>",
+   "info": "<size=39>Parte del <color=#FF4500>Sistema Pirogénico</color>\nLanza cuatro guisantes ardientes consecutivamente.\n<color=#FF4500>Sistema Pirogénico:</color>\n- Aplica el Efecto Pirogénico al impacto.\n- Explosión propaga el efecto a zombis cercanos.</color>\n\n<color=#3D1400>Daño:</color> <color=red>30*4 cada 1,5s\n<size=39><color=#3D1400>Fórmula de Fusión:</color> <color=red>Guisantralladora + Jalapeño</color></size>",
+   "cost": "<size=39>Costo: <color=red>525</color>   Recarga: <color=red>80 Segundos</color>\nPlantas Requeridas: <color=red>5</color></size>"
+        },
+        {
         }
     ]
 }
